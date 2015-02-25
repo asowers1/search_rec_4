@@ -1,0 +1,23 @@
+Cache-Control: public, s-maxage=14400, max-age=120
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Date: Sat, 21 Feb 2015 00:30:05 GMT
+Etag: "1424474425-0+ident"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Fri, 20 Feb 2015 23:20:25 +0000
+Link: <http://www.billboard.com/articles/news/6334606/madonna-songs-leaked-rebel-heart-wash-all-over-me>; rel="canonical",<http://www.billboard.com/node/6334606>; rel="shortlink"
+Server: ECS (lga/1318)
+Vary: Accept-Encoding
+Via: 1.1 varnish
+X-Cache: HIT
+X-Cache-Hits: MISS
+X-Debug-Cookies: 
+X-Debug-Log: Removed cookies
+X-Drupal-Cache: MISS
+X-Generator: Drupal 7 (http://drupal.org)
+X-NX-Host: www.billboard.com
+X-Trace: 1BEC0A3508656DD682CA2BA33E576CEB65DC4474DB4F309A7235F61C94
+X-Varnish: 516082441
+Content-Length: 81344
+Connection: close
+

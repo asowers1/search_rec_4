@@ -1,0 +1,24 @@
+Server: nginx
+Date: Fri, 20 Feb 2015 21:34:17 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+X-Drupal-Cache: MISS
+Etag: "1424451202-1"
+X-Frame-Options: SameOrigin
+Content-Language: en
+X-UA-Compatible: IE=edge,chrome=1
+X-Generator: Drupal 7 (http://drupal.org)
+Link: </movie-reviews/shrek-2>; rel="canonical",</node/1257948>; rel="shortlink"
+Cache-Control: public, max-age=86400
+Last-Modified: Fri, 20 Feb 2015 16:53:22 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie,Accept-Encoding
+X-Request-ID: v-faeef060-b920-11e4-90f9-22000ae82924
+X-AH-Environment: prod
+X-Varnish: 1839226071 1838553038
+Age: 16851
+Via: 1.1 varnish
+X-Cache: HIT
+X-Cache-Hits: 11
+

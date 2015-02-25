@@ -1,0 +1,234 @@
+                            <!DOCTYPE html>
+                            <html>
+                            <head>
+                            <meta charset="utf-8">
+                            <meta name="apple-mobile-web-app-capable" content="yes" />
+                            <meta name="viewport" content="width=1100, user-scalable=no">
+                            <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+                            
+                            <title>The Avengers Age of Ultron Movie | Trailer &amp; Official Movie Site</title>
+                            <meta name="twitter:title" content="The Avengers Age of Ultron Movie | Trailer &amp; Official Movie Site | In Theaters May 1" />
+                            <meta name="og:title" content="The Avengers Age of Ultron Movie | Trailer &amp; Official Movie Site | In Theaters May 1" />
+                            <meta name="title" content="The Avengers Age of Ultron Movie | Trailer &amp; Official Movie Site | In Theaters May 1" />
+                            <meta name="description" content="Join legions of eager fans anticipating Marvel's Avengers: Age of Ultron. All your favorite heroes â from Iron Man to Captain America â assemble as a mighty team. In Theaters May 1" />
+                            <meta name="twitter:description" content="Join legions of eager fans anticipating Marvel's Avengers: Age of Ultron. All your favorite heroes â from Iron Man to Captain America â assemble as a mighty team. In Theaters May 1" />
+                            <meta name="og:description" content="Join legions of eager fans anticipating Marvel's Avengers: Age of Ultron. All your favorite heroes â from Iron Man to Captain America â assemble as a mighty team. In Theaters May 1" />
+                            <meta name="twitter:site" content="@Marvel" />
+                            <meta name="twitter:url" content="http://marvel.com/avengers" />
+                            <meta name="og:site_name" content="Marvel.com/avengers/" />
+                            <meta name="twitter:card" content="summary" />
+                            <meta name="twitter:creator" content="@Marvel" />
+                            <meta name="twitter:image" content="http://i.annihil.us/u/prod/avengersmovie/avengers2/teaser/images/share.jpg" />
+                            <meta property="og:image" content="http://i.annihil.us/u/prod/avengersmovie/avengers2/teaser/images/share.jpg" />
+                            <meta property="og:type" content="website" />
+                            <meta property="fb:app_id" content="763743146995592" />
+                            <meta name="content-type" content="text/html;charset=utf-8" />
+                            <meta name="robots" content="index,follow" />
+                            <meta name="keywords" content="Marvel, The Avengers, Age of Ultron, The Avengers Age of Ultron, Avengers Movie, Joss Whedon, Iron Man, Black Widow, Nick Fury, Hawkeye, Thor, Captain America, Vision, Ultron, Hulk, Quicksilver, Scarlet Witch, Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Jeremy Renner, Aaron Taylor-Johnson, Elizabeth Olsen, Paul Bettany, Cobie Smulders, James Spader, Samuel L. Jackson, Joss Whedon, Kevin Feige, Louis DâEsposito, Alan Fine, Victoria Alonso, Jeremy Latcham, Patricia Whitcher, Stan Lee, Jon Favreau" />
+                            
+                            <link rel="shortcut icon" href="images/favicon.png" />
+                            <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+                            <script>
+                                var
+                                    baseURL = "http://i.annihil.us/u/prod/avengersmovie/avengers2/teaser/",
+                                    absURL = "http://marvel.com/avengers/",
+                                    fbApp = '763743146995592',
+                            
+                                    settingsFile = baseURL+'json/settings.json';
+                            </script>
+                            
+                            
+                            <base href="http://i.annihil.us/u/prod/avengersmovie/avengers2/teaser/">
+                            
+                            <link rel="canonical" href="http://marvel.com/avengers" />
+                            <link rel="image_src" type="image/jpeg" href="http://i.annihil.us/u/prod/avengersmovie/avengers2/teaser/images/share.jpg" />
+                            <link rel="stylesheet" href="css/all2.css">
+                            
+                            <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+                            <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/APIModules_all.js"></script>
+                            
+                            <script type="text/javascript" src="http://marvel.com/i/js/marvel-widgets.js"></script>
+                            <script type="text/javascript" src="js/settings2.min.js"></script>
+                            <script type="text/javascript" src="js/packages.min.js"></script>
+                            <script type="text/javascript" src="js/site5.min.js"></script>
+                            
+                            
+                            
+                            <script type="text/javascript">
+                            
+                                var URLs = {
+                                    'login': 'https://secure.marvel.com/user/login?referer=http%3A%2F%2Fmarvel.com%2Favengers',
+                                    'signup': 'https://secure.marvel.com/user/register?referer=http%3A%2F%2Fmarvel.com%2Favengers',
+                                    'comicReader': 'http://reader.marvel.com/#/issue/',
+                                    'rpxWidgetUrl': 'http://widget-cdn.rpxnow.com/js/lib/forge.marvel.com/widget.js',
+                                    'rpxWidgetUrlSecure': 'https://rpxnow.com/js/lib/forge.marvel.com/widget.js'
+                                };
+                                MarvelWidgets.init({
+                                    home_url: "http://www.marvel.com/avengers",
+                                    current_section: "movies",
+                                    staging: "http://marvel.com",
+                                    targets: {
+                                        topnav: "marvelMenu"
+                                    },
+                                    settings: {
+                                        exclude_search: true,
+                                        exclude_login: true,
+                                        small_nav: true,
+                                        version: 2
+                                    }
+                                });
+                            </script>
+                            
+                            </head>
+                            
+                            <!--[if lt IE 9]> <body class="ie8"> <![endif]-->
+                            <!--[if gte IE 9]> <body> <![endif]-->
+                            <!--[if !IE]><!--> <body> <!--<![endif]-->
+                            <div id="fb-root"></div>
+                            <div id='marvelMenu'></div>
+                            <div id="preloader">
+                                <div id="preloadArt2" class="C"></div>
+                                <div id="preloadArt" class="C">
+                                        <img src="images/downloads/logo.png" width="191" height="221" alt="The Avengers Age of Ultron Movie | Trailer & Official Movie Site">
+                                        <img src="images/loading.gif" width="182" height="42" alt="Loading">
+                                </div>
+                            </div>
+                            <div id="shell" class="TL">
+                                <div id="home" class="TL abs">
+                                    <script type="text/template" id="template-home">
+                                    <div id="homeBg" class="TL abs"></div>
+                                    <div id="homeBg2" class="TL abs"></div>
+                                    <a href="#" id="sound" class="TR"></a>
+                                    </script>
+                                </div>
+                            
+                                <div id="header" class="TL">
+                                    <script type='text/template' id='template-header'>
+                                    <div class="TL" id="headerTL"><% _.each(settings.social.socialLinks, function(o,i) {
+                                        %><a href="<%= o.url %>" class="headerSocialBtn <%= o.id %>" target="_blank" onclick="handleExitLink(); <%= o.tracking %>"></a><%
+                                        }); %><div id="news" class="marvelMenuOffset"><div id="newsTitle" class="dosisBold">LATEST NEWS</div><div id="newsContent" class="dosisBold">Loading news...</div></div></div>
+                                    <div id="mainMenuShell" class="TL"><ul id="mainMenu"><%
+                                        _.each(settings.main.menu, function (o,i) {
+                                            if (!o.desktop.visible || !o.desktop.inMenu) return;
+                                            var linkObj = parseLinkObject({ link: o.link, linkType: o.linkType, comingSoon: o.desktop.comingSoon, tracking: o.tracking }),
+                                                hrefLink = linkObj.link;
+                                            switch (o.linkType) {
+                                                case 'html':
+                                                    break;
+                                                case 'javascript':
+                                                    hrefLink = '#';
+                                                    break;
+                                                case 'internal':
+                                                    hrefLink = '#/'+linkObj.link;
+                                                    break;
+                                            }
+                            
+                            
+                                            %><li><a href="<%= hrefLink %>" <% if ( linkObj.target != '') print('target="'+linkObj.target+'"'); %> rel="<%- linkObj.link %>" data-linkType="<%- o.linkType %>" class="mainMenuBtn  <%- linkObj.classes %>" onclick="<%= linkObj.onclick %>"></a></li><%
+                                        }) %></ul></div>
+                                    </script>
+                                </div><!-- header -->
+                            
+                            
+                                <div id="footerShell" class="BL">
+                                <div id="footerBody" class=" TL">
+                                <script type='text/template' id='template-footerBody'>
+                                        <ul class="hList footerBtnsRow">
+                                            <li class="footerLi">Â© 2014 MARVEL</li>
+                                            <li class="footerLi"><a target="_blank" href="http://www.marvel.com/corporate/about" onclick="handleExitLink();">MARVEL CORPORATE INFO</a></li>
+                                            <li class="footerLi"><a target="_blank" href="http://www.marvel.com/help?sub=user_help.php" onclick="handleExitLink();">CUSTOMER SERVICE</a></li>
+                                            <li class="footerLi"><a target="_blank" href="http://www.filmratings.com/" onclick="handleExitLink();">FILMRATINGS.COM</a></li>
+                                            <li class="footerLi"><a target="_blank" href="http://www.mpaa.org/" onclick="handleExitLink();">MPAA.ORG</a></li>
+                                            <li class="footerLi"><a target="_blank" href="http://www.marvel.com/corporate/privacy/" onclick="handleExitLink();">PRIVACY POLICY/YOUR CALIFORNIA PRIVACY RIGHTS</a></li>
+                                            <li class="footerLi"><a target="_blank" href="http://www.marvel.com/corporate/terms" onclick="handleExitLink();">TERMS AND CONDITIONS</a></li>
+                                            <li class="footerLi"><div id="ratingBox"><img id="rating" src="images/framework/rating.png" width="159" height="16" style="margin-right: 3px;" alt="This film is not yet rated" ></div></li>
+                                        </ul>
+                                </script>
+                                </div><!-- footerBody -->
+                                </div><!-- footerShell -->
+                            
+                                <div id="story" class="overlay absFull">
+                                    <div id="storyContent" class="C">
+                                        <script type="text/template" id="template-storyContent">
+                                        <a href='#' id='closeBtn' class='TR'></a>
+                                        <div id="storyText" class="TL">
+                                            <div id="storyTextInner" class="TL ">
+                                                <div class="scrollbar"><div class="track"><div class="trackStart"></div><div class="trackEnd"></div><div class="thumb"><div class="start"></div><div class="end"></div></div></div></div>
+                                                <div class="viewport"><div class="overview "><%= settings.story.desc %></div></div>
+                                            </div>
+                                        </div>
+                                        </script>
+                                    </div>
+                                </div>
+                            
+                                <div id="downloads" class="overlay absFull">
+                                    <div id="downloadsContent" class="C">
+                                        <script type="text/template" id="template-downloadsContent">
+                                            <a href='#' id='closeBtn' class='TR'></a>
+                                            <div id="downloadsInnerContent" class="TL">
+                                                <div id='dlLogo' class='TL'></div>
+                                                <div id='dlBar' class='TL'></div><%
+                                                _.each(settings.downloads.links, function(o,i,l) {
+                                                %><div id="downloadsBtns" class="TL"><%
+                                                    _.each(o.links, function (link, j) {
+                                                        %><a href="<%= link.link %>" target="_blank" rel="<%= link.type %>" class="link <%= link.type %>"></a><%
+                                                            });
+                                                %></div><%
+                                                });
+                                            %></div>
+                                        </script>
+                                    </div>
+                                </div>
+                            
+                                <div id="video" class="overlay absFull">
+                                    <div id="videoContent" class="C">
+                                        <script type="text/template" id="template-videoContent">
+                                        <div id='shareBtns' class='TR'><% print(generateShareBar()) %></div>
+                                        <a href='#' id='closeBtn' class='TR'></a>
+                                        <div id="videoShell" class="TL"></div>
+                                        <ul id="videoMenu" class="TL"></ul>
+                                        </script>
+                                    </div>
+                                </div>
+                            
+                            </div><!-- shell -->
+                            
+                            
+                            <script>
+                              window.fbAsyncInit = function() {
+                                // init the FB JS SDK
+                                FB.init({
+                                  appId      : fbApp, // App ID from the App Dashboard
+                                  status     : false, // check the login status upon init?
+                                  cookie     : false,
+                                  xfbml      : false
+                                });
+                            
+                                // Additional initialization code such as adding Event Listeners goes here
+                            
+                              };
+                            
+                              // Load the SDK's source Asynchronously
+                              (function(d){
+                                 var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+                                 if (d.getElementById(id)) {return;}
+                                 js = d.createElement('script'); js.id = id; js.async = true;
+                                 js.src = "//connect.facebook.net/en_US/all.js";
+                                 ref.parentNode.insertBefore(js, ref);
+                               }(document));
+                            </script>
+                            
+                            
+                            <script>
+                              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                              })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                            
+                              ga('create', 'UA-42435060-3', 'auto');
+                              ga('send', 'pageview');
+                            
+                            </script>
+                            </body>
+                            </html>
+                            

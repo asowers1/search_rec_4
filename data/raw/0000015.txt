@@ -1,0 +1,330 @@
+<!doctype html public "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>The Little Prince: English Version</title>
+
+
+<meta name="keywords" content="Steve Rogers, Steve, Rogers, free, money, music, jokes, grateful dead, wisdom, credit, cheap, website, homepage, design, hosting, webhost, server, credit, garcia, dylan, colorado, mountain, biking, fort collins, chattanooga, hiking, trail, family, money, website, design, music, help, HTML, Java, jokes, allman brothers, chords, lyrics, politics, nascar, sim racing, adult jokes, acoustic, guitar, java, javascript, scanning, logo, homepage, web, site, home, page, family,, tapes, bootlegs, peace, happy, single, funny, SWM, fun, sex">
+
+<meta name="Author" content="srogers - Sidetrips Internet Services - www.sidetrips.com">
+
+<meta name="description" content="A Little of This, More of That... Internet Services, Design Studio, Domain Hosting, Free Email Accounts, Music/Guitar resources, Search Engines, Words of Wisdom, Comedy, Jokes, Satire, NASCAR Racing, Disc Sports, Mountain Biking, Politics of the Left and Right, Steve Rogers">
+
+<script language=javascript type="text/javascript">
+	<!--
+	self.defaultStatus = "";
+	//-->
+</script>
+
+<link rel="STYLESHEET" type="text/css" href="../css/ie.css">
+
+
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#000080" alink="#800000" leftmargin="2" topmargin="1" rightmargin="2" bottommargin="4" marginwidth="2" marginheight="2">
+
+<table width="760" border="0" cellspacing="0" cellpadding="1" align="center" bgcolor="#000080" valign="top"><tr valign="top"><td>
+
+<table width="758" border="0" cellspacing="1" cellpadding="0" align="center"  valign="top">
+	<tr valign="bottom" bgcolor="#FFFFFF">
+		<td width="100%" colspan="7" align="left" valign="bottom" bgcolor="#FFFFFF">
+
+
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"  valign="top">
+				<tr valign="top">
+					<td width="15%" rowspan="3">		
+					<a href="http://www.srogers.com/index.asp"><img src="../images/steve2_edges_b.jpg" alt="" width="166" height="120" hspace="0" vspace="0" border="0" align="left"></a>
+					</td>
+					<td width="85%" align="right" valign="middle"><!-- RIGHT OF PICTURE -->
+						<script language="JavaScript" type="text/javascript">
+						<!-- by: Sidetrips
+						if ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4)) {
+						
+						var pageat = ""
+						pageat = document.location
+						var url=pageat
+						
+						var pagetitle = ""
+						pagetitle = document.title
+						var title=pagetitle + ' - srogers.com'
+						
+						document.write('<a href="javascript:window.ext');
+						document.write('ernal.AddFavorite(url,title);" ');
+						document.write('onMouseOver=" window.status=');
+						document.write("'Add to your favorites!'; return true ");
+						document.write('"onMouseOut=" window.status=');
+						document.write("' '; return true ");
+						document.write('"><font size="1">Click Here to add this page to your Favorites!</font></a>');
+						}
+						else {
+						var msg = "(to add to Bookmarks press";
+						if(navigator.appName == "Netscape") msg += "  [CTRL-D] once)";
+						document.write(msg);
+						}
+						// -->
+						</script>
+						&nbsp;&nbsp;&nbsp;
+					</td>					
+				</tr>
+				<tr>
+					<td height="64">
+						&nbsp;<img src="http://www.srogers.com/images/blank.gif" alt="" width="1" height="64" hspace="0" vspace="0" border="0">
+					</td>
+				</tr>
+				<tr>
+					<td align="right" valign="bottom">
+						<h3><!-- PAGE TITLE -->			
+						<script language="JavaScript" type="text/javascript">
+						<!-- 
+						var pageat = ""
+						pageat = document.title + '&nbsp;&nbsp;&nbsp;' ; 
+						document.writeln(pageat) 
+						-->
+						</script>		
+						</h3>				
+					</td>
+				</tr>				
+			</table>
+			
+			
+		</td>
+	</tr>
+	
+	<tr valign="top"><!-- LINE -->
+		<td colspan="7" align="left" valign="top" bgcolor="#FFFFFF">		
+		</td>
+	</tr>
+	
+	<tr align="center" valign="top" bgcolor="#F9F191"><!-- MENU ROW -->
+		<td width="14%" align="center"><a href="../index.asp">Home</a></td>
+		<td width="14%" align="center" valign="middle"><a href="../comedy/index.asp">Comedy</a></td>
+		<td width="14%" align="center" valign="middle"><a href="../music/index.asp">Music</a></td>
+		<td width="16%" align="center" valign="middle"><a href="../wisdom/index.asp">Wisdom</a></td>
+		<td width="14%" align="center" valign="middle"><a href="../other/index.asp">Other</a></td>
+		<td width="14%" align="center" valign="middle">Racing</td>
+		<td width="14%" align="center" valign="middle"><a href="../store/index.asp">Store</a></td>
+	</tr>
+	
+	<tr valign="top"><!-- LINE -->
+		<td colspan="7" align="left" valign="top" bgcolor="#FFFFFF">		
+		</td>
+	</tr>
+	
+	<tr valign="top">
+		<td colspan="7" align="left" valign="top" bgcolor="#FFFFFF">
+		<br>&nbsp;
+		<b><!-- PAGE TITLE -->			
+		<script language="JavaScript" type="text/javascript">
+		<!-- 
+		var pageat = ""
+		pageat = document.title
+		document.writeln(pageat); 
+		-->
+		</script>		
+		</b>
+
+			<br><br>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"  valign="top">
+				<tr valign="top">
+					<td width="5">&nbsp;</td>
+					<td><!-- <td width="595"> --><!-- ------------------------- LEFT BODY COLUMN -----------------  -->				
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+
+	<li><a href="dedicate.asp">Dedication</a></li>
+	<li><a href="ch1.asp">Chapter 1</a> - we are introduced to the narrator, a pilot, and his ideas about grown-ups.</li>
+	<li><a href="ch2.asp">Chapter 2</a> - the narrator crashes in the desert and makes the acquaintance of the little prince.</li>
+	<li><a href="ch3.asp">Chapter 3</a> - the narrator learns more about from where the little prince came.</li>
+	<li><a href="ch4.asp">Chapter 4</a> - the narrator speculates as to which asteroid from which the little prince came.</li>
+	<li><a href="ch5.asp">Chapter 5</a> - we are warned as to the dangers of the baobabs.</li>
+	<li><a href="ch6.asp">Chapter 6</a> - the little prince and the narrator talk about sunsets.</li>
+	<li><a href="ch7.asp">Chapter 7</a> - the narrator learns about the secret of the little prince's life.</li>
+	<li><a href="ch8.asp">Chapter 8</a> - the rose arrives at the little prince's planet.</li>
+	<li><a href="ch9.asp">Chapter 9</a> - the little prince leaves his planet.</li>
+	<li><a href="ch10.asp">Chapter 10</a> - the little prince visits the king.</li>
+	<li><a href="ch11.asp">Chapter 11</a> - the little prince visits the conceited man.</li>
+	<li><a href="ch12.asp">Chapter 12</a> - the little prince visits the tippler.</li>
+	<li><a href="ch13.asp">Chapter 13</a> - the little prince visits the businessman.</li>
+	<li><a href="ch14.asp">Chapter 14</a> - the little prince visits the lamplighter.</li>
+	<li><a href="ch15.asp">Chapter 15</a> - the little prince visits the geographer.</li>
+	<li><a href="ch16.asp">Chapter 16</a> - the narrator discusses the Earth's lamplighters.</li>
+	<li><a href="ch17.asp">Chapter 17</a> - the little prince makes the acquaintance of the snake.</li>
+	<li><a href="ch18.asp">Chapter 18</a> - the little prince goes looking for men and meets a flower.</li>
+	<li><a href="ch19.asp">Chapter 19</a> - the little prince climbs a mountain range.</li>
+	<li><a href="ch20.asp">Chapter 20</a> - the little prince discovers a garden of roses.</li>
+	<li><a href="ch21.asp">Chapter 21</a> - the little prince befriends the fox.</li>
+	<li><a href="ch22.asp">Chapter 22</a> - the little prince encounters a railway switchman.</li>
+	<li><a href="ch23.asp">Chapter 23</a> - the little prince encounters a merchant.</li>
+	<li><a href="ch24.asp">Chapter 24</a> - the narrator and the little prince, thirsty, hunt for a well in the desert.</li>
+	<li><a href="ch25.asp">Chapter 25</a> - finding a well, the narrator and the little prince discuss his return to his planet.</li>
+	<li><a href="ch26.asp">Chapter 26</a> - the little prince converses with the snake; consoles the narrator; returns to his planet.</li>
+	<li><a href="ch27.asp">Chapter 27</a> - the narrator's afterthoughts.</li>
+	<br><br><br>
+	
+						
+					
+					
+					<br>
+					<img src="http://www.srogers.com/images/blank.gif" alt="" width="743" height="1" hspace="0" vspace="0" border="0">
+					<br>					
+					</td>
+					
+					<td width="10">
+						&nbsp;
+					</td>
+					
+					<td><!-- <td width="148"> --><!-- ------------------------- RIGHT BODY COLUMN -----------------  -->					
+					
+					<!-- <div align="center"><form action="http://www.amazon.com/exec/obidos/external-search" target="_blank">
+<b><div align="center">Can't Find What <br>You're Looking For?<br>Search Here!</b>
+<br>
+<input type="text" name="keyword" size="16" value="">
+<input type="hidden" name="tag" value="sidetripsinter0a">
+<select name="mode">
+<option value="books">Lyric Books
+<option value="music">Music
+<option value="vhs">Video
+<option value="dvd">DVD
+<option value="electronics">Electronics
+<option value="software">Software
+<option value="music">______________
+</select>
+<br>
+
+<input type="image" name="Search" id="Search" value="Search Now!" src="images/go.gif" alt="Go" vspace="5" border="0"></div>
+<br>
+</form>
+
+</div>
+
+
+
+
+<br><br><br>
+
+ -->					
+
+					<img src="http://www.srogers.com/images/blank.gif" alt="" width="1" height="1" hspace="0" vspace="0" border="0">
+					</td>
+				</tr>				
+			</table>
+		<br>			
+
+		</td>
+	</tr>
+	
+	<tr valign="top">
+		<td height="1" colspan="7" align="left" valign="top" bgcolor="#FFFFFF"><!-- LINE -->
+		</td>
+	</tr>
+	
+	<tr valign="top">
+		<td colspan="7" align="center" valign="middle">
+		<!-- ---------------- FOOTER START ------------------- -->
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		<tr bgcolor="#FFFFFF">
+			<td width="70%">
+			<br><br>
+			<div align="center">
+			<font face="Arial, Helvetica" color="#7F7F7F" size="1">
+			
+			<script language="JavaScript" type="text/javascript">
+			<!--
+			var days = new Array(8);
+			days[1] = "Sunday";
+			days[2] = "Monday";
+			days[3] = "Tuesday";
+			days[4] = "Wednesday";
+			days[5] = "Thursday";
+			days[6] = "Friday";
+			days[7] = "Saturday";
+			var months = new Array(13);
+			months[1] = "January";
+			months[2] = "February";
+			months[3] = "March";
+			months[4] = "April";
+			months[5] = "May";
+			months[6] = "June";
+			months[7] = "July";
+			months[8] = "August";
+			months[9] = "September";
+			months[10] = "October";
+			months[11] = "November";
+			months[12] = "December";
+			var dateObj = new Date(document.lastModified)
+			var wday = days[dateObj.getDay() + 1]
+			var lmonth = months[dateObj.getMonth() + 1]
+			var date = dateObj.getDate()
+			var fyear = dateObj.getYear()
+			document.write("Hey, it's " + wday + ", " + lmonth + " " + date + ", " + fyear + ' all day long')
+			-->
+			</script>
+			<br>
+			<script language="JavaScript" type="text/javascript">
+			var pageat = ""
+			pageat = document.location
+			document.writeln("You are Here: ", pageat);
+			</script>
+			<br>
+			<script language="JavaScript" type="text/javascript">
+			var pagetitle = ""
+			pagetitle = document.title
+			document.writeln("This page MAY be about ", pagetitle,' -  Hope you like it.');
+			</script>
+			<br><br>
+			Original Content Copyright &copy; 1995-<script language="JavaScript" type="text/javascript">document.write(fyear)</script>. All rights reserved. 
+			<br>Reproduction in whole or in part in any form or medium <br>without express <a href="mailto:web&#109;aster&#64;srogers.co&#109;"><font size="1">written permission</font></a> is prohibited. 
+			<br><br><!-- Ya'll come back now, ya here... -->
+			
+			</font>
+			</div>
+			<br><br>
+			</td>
+			<td width="30%" align="center">
+			<a href="http://www.sidetrips.com/"><img src="http://www.sidetrips.com/images/small_logo.gif" alt="Click here before it's too late..." hspace="0" border="0"></a>
+			</td>
+		</tr>
+		</table>			<!-- ------------------------ FOOTER End -------------------------------- -->
+		
+		</td>
+	</tr>
+	
+	<tr valign="top"><!-- LINE -->
+		<td colspan="7" align="left" valign="top" bgcolor="#FFFFFF">		
+		</td>
+	</tr>	
+
+	<tr valign="top">
+		<td colspan="7" align="left" valign="top" bgcolor="#FFFFFF">		
+		</td>
+	</tr>	
+	<tr valign="top">
+		<td height="20" colspan="7" align="center" valign="middle" bgcolor="#F9F191">		
+			<font size="1">Ya'll come back now, ya here...</font>
+		</td>
+	</tr>		
+	<tr valign="top"><!-- LINE -->
+		<td colspan="7" align="left" valign="top" bgcolor="#FFFFFF">		
+		</td>
+	</tr>	
+	<tr valign="top">
+		<td colspan="7" align="left" valign="top" bgcolor="#FFFFFF">		
+		</td>
+	</tr>	
+	
+
+</table>
+
+</td></tr></table>
+</body>
+</html>

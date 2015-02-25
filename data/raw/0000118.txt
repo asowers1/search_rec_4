@@ -1,0 +1,538 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"> 
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">div.a57bd_field { display: none; visibility: hidden; }</style>
+<link rel="shortcut icon" href="/files/favicon.ico" type="image/x-icon" />
+  <title>Classic Review: Watership Down by Richard Adams | Kansas City Public Library</title>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_45e8ae0b95fa7a2289ec0b9f8f175086.css" />
+  <link rel="shortcut icon" href="/sites/all/themes/kclib/favicon.ico" type="image/x-icon" />
+  <script type="text/javascript" src="/sites/default/files/js/js_417104f16f5ce7e99d384444fe442a0a.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutbound": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "cron": { "basePath": "/poormanscron", "runNext": 1424474575 }, "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Image !current of !total" } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+Drupal.behaviors.itr_r2d357bf2e499a = function() {
+  $("input.a57bd_field").each(function() {
+    f=$(this)[0];
+    if (f.value.indexOf("499a4bf2e")==0){f.value="d6"+f.value.substring(5)+"9a42a9466df36a4bfd_form";}
+  });
+};
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+Drupal.behaviors.itr_r3d35774952a08 = function() {
+  $("input.a7c1d_field").each(function() {
+    f=$(this)[0];
+    if (f.value.indexOf("2a08274")==0){
+      v=f.value.substring(5);
+      form=$(this).parents("form#comment-form")[0];
+      $(form)[0].action ='/comment/reply/18498?7c1d_name=d7'+v+'082306920804c1c297_form';
+    }
+  });
+};
+//--><!]]>
+</script>
+  <!--[if IE 6]>
+  <script src="/sites/all/themes/kclib/lib/DD_belatedPNG_0.0.8a-min.js"></script>
+  <script>DD_belatedPNG.fix('');</script>
+  <![endif]--> 
+</head>
+<body id="body-bg" class="not-front not-logged-in page-node node-type-blog no-sidebars context_main" >
+  <div id="page">
+    <div id="secondary-links-wrap">
+    </div>
+    <div id="header">
+      <div id="search-wrap">
+        <div id="mission"></div>
+                <ul class="links secondary-links"><li class="menu-3308 first"><span class="menu-class-my-account"><a href="/redirect" title="My Account">My Account</a></span></li>
+<li class="menu-3272"><span class="menu-class-hours-locations"><a href="/branches" title="Hours &amp; Locations">Hours &amp; Locations</a></span></li>
+<li class="menu-3273"><span class="menu-class-customer-service"><a href="/customer-online-service" title="Customer service">Customer Service</a></span></li>
+<li class="menu-3303 last"><span class="menu-class-contact-us"><a href="/contact" title="Contact us">Contact Us</a></span></li>
+</ul>      </div>
+      <a href="/" title="Kansas City Public Library" rel="home" id="logo">
+        <span id="section-title">The Kansas City Public Library</span>
+        <span id="section-subtitle">Knowledge for All</span>
+      </a>
+      
+      <div id="headerrail">
+          <div id="block-menu_block-2" class=" block block-menu_block ">
+
+  <div class="content">
+    <div class="menu-block-2 menu-name-primary-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-5402"><a href="/" title="">Home</a></li>
+<li class="expanded menu-mlid-3071 active-trail"><a href="http://catalog.kclibrary.org/" title="Books &amp; More" class="active-trail">Books &amp; More</a><ul class="menu"><li class="leaf first menu-mlid-3072 has-children"><a href="http://catalog.kclibrary.org/client/kclibrary/?rm=FICTION2|||1|||0|||true" title="Fiction">Books - Fiction</a></li>
+<li class="leaf menu-mlid-5575"><a href="http://catalog.kclibrary.org/client/kclibrary/?rm=NONFICTION0|||1|||0|||true" title="Nonfiction">Books - Nonfiction</a></li>
+<li class="leaf menu-mlid-3109"><a href="http://catalog.kclibrary.org/client/kclibrary/?rm=MOVIES+%26+TV0|||1|||0|||true" title="Movies &amp; TV">Movies &amp; TV</a></li>
+<li class="leaf menu-mlid-5576"><a href="http://catalog.kclibrary.org/client/kclibrary/?rm=MUSIC0|||1|||0|||true" title="Music">Music</a></li>
+<li class="leaf menu-mlid-5214"><a href="/downloadables" title="E-Books &amp; Downloadables">E-Books &amp; Digital Media</a></li>
+<li class="leaf menu-mlid-5634"><a href="/digital-stories" title="Digital Stories">Digital Stories</a></li>
+<li class="leaf menu-mlid-3111 has-children active-trail"><a href="/blogs" title="Blog" class="active-trail">Library Blog</a></li>
+<li class="leaf menu-mlid-3119 has-children"><a href="/book-clubs" title="Book Groups">Book Groups</a></li>
+<li class="leaf last menu-mlid-3118 has-children"><a href="/readers-corner" title="Reader&#039;s Corner">Reading Programs</a></li>
+</ul></li>
+<li class="expanded menu-mlid-3134"><a href="/events-and-activities" title="Events &amp; activities">Events &amp; Activities</a><ul class="menu"><li class="leaf first menu-mlid-3135"><a href="/events/list?type=187" title="Events">Events</a></li>
+<li class="leaf menu-mlid-3136"><a href="/events/list?type=138" title="Movies at the Library">Movies at the Library</a></li>
+<li class="leaf menu-mlid-3137"><a href="/family-center" title="Family Center">Family Center</a></li>
+<li class="leaf menu-mlid-3138"><a href="/events/list?type=140" title="Exhibits">Exhibits</a></li>
+<li class="leaf menu-mlid-3139"><a href="/events/list?type=141" title="Clubs &amp; Activities">Clubs &amp; activities</a></li>
+<li class="leaf last menu-mlid-4887 has-children"><a href="/event-archive">Event Archive</a></li>
+</ul></li>
+<li class="expanded menu-mlid-3145"><a href="/events/list?type=139" title="Classes">Classes</a><ul class="menu"><li class="leaf first menu-mlid-3146"><a href="/events/list?type=188" title="Business &amp; Investment">Business &amp; Investment</a></li>
+<li class="leaf menu-mlid-3147"><a href="/events/list?type=189" title="Career">Career</a></li>
+<li class="leaf menu-mlid-3148"><a href="/events/list?type=190" title="Computer &amp; Web">Computer &amp; Web</a></li>
+<li class="leaf menu-mlid-3149"><a href="/events/list?type=191" title="Language &amp; Literacy">Language &amp; Literacy</a></li>
+<li class="leaf last menu-mlid-5558"><a href="/online-learning" title="Online Learning">Online Learning</a></li>
+</ul></li>
+<li class="expanded menu-mlid-3150"><a href="/research-resources" title="Research resources">Research Resources</a><ul class="menu"><li class="leaf first menu-mlid-3151"><a href="/kchistory" title="Local history &amp; genealogy">Local History &amp; Genealogy</a></li>
+<li class="leaf menu-mlid-3152"><a href="/business-career" title="H&amp;R Block Business &amp; Career Center">Business &amp; Career Center</a></li>
+<li class="leaf menu-mlid-3162"><a href="/health" title="Health">Health &amp; Wellness</a></li>
+<li class="leaf menu-mlid-3173"><a href="/databases-alpha" title="Databases">Databases</a></li>
+<li class="leaf menu-mlid-3177"><a href="/homework-help" title="Homework Help">Homework Help</a></li>
+<li class="leaf last menu-mlid-5552"><a href="/research-resources" title="">View All Topics</a></li>
+</ul></li>
+<li class="expanded menu-mlid-3178"><a href="/about-the-library" title="About the Library">About the Library</a><ul class="menu"><li class="leaf first menu-mlid-3179 has-children"><a href="/branches" title="Hours &amp; locations">Hours &amp; Locations</a></li>
+<li class="leaf menu-mlid-3199 has-children"><a href="/jobs-internships" title="Jobs &amp; internships: open positions">Jobs &amp; Internships</a></li>
+<li class="leaf menu-mlid-3204 has-children"><a href="/space" title="Space rental">Space Rental</a></li>
+<li class="leaf last menu-mlid-5559"><a href="/about-the-library" title="">More...</a></li>
+</ul></li>
+<li class="expanded menu-mlid-3256"><a href="/ways-to-give" title="Individual Giving">Giving</a><ul class="menu"><li class="leaf first menu-mlid-3263"><a href="/corporate-support" title="Corporate Support">Corporate Support</a></li>
+<li class="leaf menu-mlid-3266"><a href="/volunteering" title="Volunteering">Volunteering</a></li>
+<li class="leaf menu-mlid-3265"><a href="http://kclibraryfriends.org" title="Friends of the Library">Friends of the Library</a></li>
+<li class="leaf menu-mlid-3267 has-children"><a href="/giving-stories" title="Library love stories">Library love stories</a></li>
+<li class="leaf last menu-mlid-3269"><a href="https://donatenow.networkforgood.org/120073" title="Donate now!">Donate now!</a></li>
+</ul></li>
+<li class="leaf menu-mlid-3270"><a href="/kids" title="Kids" class="kids-menu">Kids</a></li>
+<li class="leaf last menu-mlid-3271"><a href="/teens" title="Teens" class="teens-menu">Teens</a></li>
+</ul></div>
+  </div>
+</div>
+      </div>
+    </div>
+    <div id="container" class="clear-block">
+     
+<div id="search-form-wrap">
+<div id="cat-home"><a href="http://catalog.kclibrary.org/client/kclibrary">Catalog-Home</a></div>
+      <form id="custom-search-form" action="" accept-charset="UTF-8" method="get" style="width:1000px;">
+      <div id="advanced_search_box">&nbsp;<div id="advanced_search"> <a href="http://catalog.kclibrary.org/client/kclibrary/search/advanced?" title="Catalog Advanced Search" id="advanced_search_link">Advanced<br />Search</a></div></div>
+
+      <div class="submit-item">
+          <input type="submit" name="op" id="search-submit" value="Search" class="form-submit">
+      </div>
+      <div class="text-item" id="catalog-search-value">
+          <input type="text" maxlength="128" name="q" id="search-value" title="Search For:" size="30" value="Search the Catalog" class="form-text">
+      </div>
+     <div id="search_radio">
+      <div class="option-item1">
+      <label class="option">
+          <input type="radio" name="search-action" value="http://catalog.kclibrary.org/client/kclibrary/search/results?lm=KC_ALL&qu=" checked="checked" class="form-radio"> Catalog
+      </label>
+      </div>
+      <div class="option-item2">
+        <label class="option">
+            <input type="radio" name="search-action" value="/search/node/" class="form-radio"  /> KCLibrary.org
+        </label>
+      </div>
+    </div>
+</form>
+
+</div>
+<div class="search_clear">&nbsp;</div>            <div id="sidebar-left" class="sidebar">
+           <div id="block-menu_block-1" class="curvy block block-menu_block ">
+
+  <div class="content">
+    <div class="menu-block-1 menu-name-primary-links parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="collapsed first menu-mlid-3072"><a href="http://catalog.kclibrary.org/client/kclibrary/?rm=FICTION2|||1|||0|||true" title="Fiction">Books - Fiction</a></li>
+<li class="leaf menu-mlid-5575"><a href="http://catalog.kclibrary.org/client/kclibrary/?rm=NONFICTION0|||1|||0|||true" title="Nonfiction">Books - Nonfiction</a></li>
+<li class="leaf menu-mlid-3109"><a href="http://catalog.kclibrary.org/client/kclibrary/?rm=MOVIES+%26+TV0|||1|||0|||true" title="Movies &amp; TV">Movies &amp; TV</a></li>
+<li class="leaf menu-mlid-5576"><a href="http://catalog.kclibrary.org/client/kclibrary/?rm=MUSIC0|||1|||0|||true" title="Music">Music</a></li>
+<li class="leaf menu-mlid-5214"><a href="/downloadables" title="E-Books &amp; Downloadables">E-Books &amp; Digital Media</a></li>
+<li class="leaf menu-mlid-5634"><a href="/digital-stories" title="Digital Stories">Digital Stories</a></li>
+<li class="expanded menu-mlid-3111 active-trail"><a href="/blogs" title="Blog" class="active-trail">Library Blog</a><ul class="menu"><li class="leaf first menu-mlid-3112"><a href="/blog/book-reviews" title="Book reviews">Book reviews</a></li>
+<li class="leaf menu-mlid-5248"><a href="/blog/bcor" title="Building a Community of Readers">Building a Community of Readers</a></li>
+<li class="leaf menu-mlid-5058"><a href="/blog/civil-war" title="Civil War">Civil War</a></li>
+<li class="leaf menu-mlid-4609"><a href="/blog/coming-up" title="Coming Up">Coming Up</a></li>
+<li class="leaf menu-mlid-3113"><a href="/blog/featured-authors" title="Featured authors">Featured authors</a></li>
+<li class="leaf menu-mlid-3114"><a href="/blog/learn-something" title="Learn something">Learn something</a></li>
+<li class="leaf menu-mlid-3115"><a href="/blog/library-life" title="Library life">Library life</a></li>
+<li class="leaf last menu-mlid-4394"><a href="/blog/local-history" title="Local history">Local history</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-3119"><a href="/book-clubs" title="Book Groups">Book Groups</a></li>
+<li class="collapsed last menu-mlid-3118"><a href="/readers-corner" title="Reader&#039;s Corner">Reading Programs</a></li>
+</ul></div>
+  </div>
+</div>
+  <div id="block-block-84" class=" block block-block ">
+
+  <div class="content">
+    <div align="center">
+<p><a href="http://www.facebook.com/kclibrary"><img src="/sites/default/files/images/icon-facebook.png" alt="Kansas City Public Library on Facebook" title="Facebook" border=0 /></a>&nbsp;&nbsp;&nbsp;<a href="http://twitter.com/kclibrary"><img src="/sites/default/files/images/icon-twitter.png" alt="Kansas City Public Library on Twitter" title="Twitter" border=0 /></a>&nbsp;&nbsp;&nbsp;<a href="http://www.flickr.com/photos/kclibrary/"><img src="/sites/default/files/icon-flickr2.png" alt="Kansas City Public Library on Flickr" title="Flickr" border=0 /></a>&nbsp;&nbsp;&nbsp;<a href="http://www.youtube.com/user/kclibrary"><img src="/sites/default/files/images/icon-youtube.png" alt="Kansas City Public Library on YouTube" title="YouTube" border=0 /></a>&nbsp;&nbsp;&nbsp;<a href="http://pinterest.com/kclibrary/"><img src="/sites/default/files/pinterest-button.png" width="30" height="30" alt="Follow KCLibrary on Pinterest" title="Pinterest" border=0 /></a>&nbsp;&nbsp;&nbsp;<a href="http://www.kclibrary.org/blog/KC+Unbound/feed"><img src="/sites/default/files/images/icon-rss.png" alt="KC Unbound RSS feed" title="Subscribe to KC Unbound" border=0 /></a></p>
+</div>
+  </div>
+</div>
+  <div id="block-views-upcoming_events-block_4" class=" block block-views ">
+  <h2>Upcoming author events</h2>
+
+  <div class="content">
+    <div class="view view-upcoming-events view-id-upcoming_events view-display-id-block_4 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/event/when-world-was-young-elizabeth-gaffney">When the World Was Young - Elizabeth Gaffney</a></span>
+  </div>
+  
+  <div class="views-field-title-1">
+                <span class="field-content">Central Library</span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/event/creators-code-six-essential-skills-extraordinary-entrepreneurs">The Creator&#039;s Code: The Six Essential Skills of Extraordinary Entrepreneurs</a></span>
+  </div>
+  
+  <div class="views-field-title-1">
+                <span class="field-content">Plaza Branch</span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/event/james-madison-david-o-stewart">James Madison - David O. Stewart</a></span>
+  </div>
+  
+  <div class="views-field-title-1">
+                <span class="field-content">Plaza Branch</span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/event/tales-historic-west-bottoms">Tales of the Historic West Bottoms - Steve Noll</a></span>
+  </div>
+  
+  <div class="views-field-title-1">
+                <span class="field-content">Central Library</span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/event/death-caesar-story-history-s-most-famous-assassination">The Death of Caesar: The Story of Historyâs Most Famous Assassination</a></span>
+  </div>
+  
+  <div class="views-field-title-1">
+                <span class="field-content">Central Library</span>
+  </div>
+</li>
+      </ul>
+  <div class="more-link"><a href="/events/list?type=197">more</a></div>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+  <div id="block-block-156" class=" block block-block ">
+
+  <div class="content">
+    <div align="center"><br /><iframe src="http://www.facebook.com/plugins/likebox.php?id=9571134411&amp;width=260&amp;connections=3&amp;stream=false&amp;header=true&amp;height=260" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:260px;" allowTransparency="true"></iframe></div>  </div>
+</div>
+      </div>
+      
+      <div id="main">
+     
+        <div class="breadcrumb"><a href="/">Home</a> > <a href="http://catalog.kclibrary.org/" title="Books &amp; More">Books &amp; More</a> > <a href="/blogs" title="Blog">Library Blog</a> > Classic Review: Watership Down by Richard Adams</div>        <h1 class="title" id="page-title">Classic Review: Watership Down by Richard Adams</h1>                                
+        <div id="content-top-right-left" class="clear-block">
+                        </div>
+        
+        <!-- default from phptemplate on http://drupal.org/node/11816 -->
+
+<span class='blog_category'>Book Reviews</span>
+
+
+<div id="node-18498" class="node clear-block">
+
+
+
+  <div class="meta">
+      <span class="terms"><!-- ?php print $terms ? --></span>
+    </div>
+
+  <div class="content">
+    <div class="rightcolblog" style="width:210px"><div class="floatright"><a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="kclibrary">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div><div class="clear-block"></div><img src="http://www.kclibrary.org/sites/default/files/imagecache/blog_image/files/images/watershipdown.jpg" alt="Watership Down" title="Watership Down is a grown-up read about a bunny adventure." width="200" height="316" class="imagecache imagecache-blog_image"/><div style="padding-left:10px;"><span class="caption">Watership Down is a grown-up read about a bunny adventure.</span></div></div>    <div><span class="submitted">October 4, 2012</span></div>
+	<p>Richard Adams' classic novel <em>Watership Down</em> isn't just about rabbits. Tackling the big ideas, including the importance of storytelling to society, Adams weaves an adult tale of human struggle cloaked as a book about bunnies.</p>
+<p>When I was at  college, a fellow student told me that I had to read <em>Watership Down</em>.  When I asked  what the book was about, I remember him telling me ârabbits on the move trying  to find a new home.â  </p>
+<p><em>Rabbits?  </em></p>
+<p>My eyes started to  glaze over.  He started to summarize the  story, but all I recall was that the main rabbit was named Hazel, and that  there were some other rabbits named Bigwig, Dandelion, Fiver and Pipkin.  The glazing process was complete â the rest  of the pitch came across as blah, blah, blah blah. </p>
+<p>This year, as I had  decided to <a href="http://www.kclibrary.org/search/node/Bernard%20Norcott-Mahany%20review">read and write about books involving travel</a>, ârabbits on the moveâ  came immediately to mind and I added it to my to-read list for KC Unbound.  And I must say that this book has probably  been the biggest pleasant surprise Iâve had in reading in the past decade.  </p>
+<p>The book turned out  to be so much more than âbunnies on a trip,â or even âbunnies on an exodus of  survival.â  If I had to categorize the  book, Iâd probably group it with epics of travel.  Some reviewers compared it to Homerâs <em>Odyssey</em>, but I think Virgilâs <em>Aeneid</em> would be a more apt comparison,  because of the emphasis on personal responsibility to the group.  </p>
+<p><a href="http://en.wikipedia.org/wiki/Richard_Adams">Richard Adams</a> says that  the story began as a series of stories he told his little girls as they  traveled on long drives in the English countryside.  That may be, though these stories, at least  as presented in the completed novel, are not for kids.  And parents, who may be thinking of checking  out the animated film of <em>Watership Down</em> for your kids â watch it first yourself.   The film should have gotten a PG-13 rating (what would have been a GP at  the time of release) instead of G, in my opinion â thereâs a fair amount of  violent action, and the mood of most of the narrative is rather unsettling.  </p>
+<p><iframe src="http://www.youtube.com/embed/xZcHLpjiEdw?rel=1&amp;autoplay=0&amp;wmode=opaque" width="400" height="250" class="video-filter video-youtube video-center vf-xzchlpjiedw" frameborder="0"></iframe></p>
+<p>With  rabbits on the cover, <em>Watership </em>might seem to be a childrenâs book, but its themes and  presentation are much too complex for that.  </p>
+<p>This is a book that  has a lot that would traumatize a youngster, especially if s/he were expecting  something more along the line of <em><a href="http://www.nickjr.com/max-ruby/">Max and Ruby</a></em>.  Older audiences can handle the tough subject matter  (loss, terror, and death) and appreciate what is mainly a tale about the  importance of community, the importance of story in fostering community, and  the value of a brave heart in a dangerous world.  </p>
+<p>One of the  peculiarities of the book is that certain words are given in <em>lapine</em>, the language Adams imagines for  the rabbits.  This is somewhat similar to  what Anthony Burgess did in <em>A Clockwork  Orange</em>, where the narrator, Alex De Farge, uses the teen slang of his day, <em>Nadsat</em>, to tell his story.  The difference is that where Alexâ whole  narration is done in this Slavic-rich slang, Adams  uses only a relatively few lapine words sprinkled through the text.  </p>
+<p>My favorite of these  is <em>hrududu</em>, the rabbitsâ word for any motorized conveyance (because of  the sound). I can imagine Adamsâ daughters giggling every time he has a rabbit  refer to a <em>hrududu</em>.  Adams also  suggests that other animals (mice and birds are singled out) have their own  languages, distinct from lapine, though the animals can communicate with one  another using some kind of pigeon or Creole â strangely enough, Adams gives the  mice a French accent, but gives Kehaar, the gull who gets the closest to the  rabbits, a Scandinavian accent.  </p>
+<p>Of course, animals  donât âspeakâ with one another in a way that humans do â there is no evidence  that animals have a real sense of âpast,â or that they narrate stories, whereas  human knowledge of the world is very much affected by our being the animals who  tell (and listen to) stories. Other than the use of language, Adams chose not  to change the behavior of the rabbits â in other words, his rabbits do not act  like the animals in Aesopâs <em>Fables</em>,  or like cartoon animals, like humans in animal form â consider the bipedal Bugs  Bunny.  Adams  based his rabbitsâ behavior on that of real rabbits from his own observation  and from reading books such as R.M. Lockleyâs <em><a href="http://kcaqua.kclibrary.org/?q=author:%22lockley%22+title:%22private+life+of+rabbit%22">The  Private Life of the Rabbit</a></em>. </p>
+<p>Adams places,  however, a great focus on story, something that rabbits donât, so far as we  know, have.  But story permeates this  work.  When the going gets tough and the  rabbits with Hazel need reassuring, their own storyteller, Dandelion, tells  stories about <em>El-ahrairah</em> (âthe  prince with a thousand enemiesâ â the mythical trickster rabbit).  </p>
+<p>Not only do they  have stories about the mythical El-ahrairah, but, by the end of the novel, it  is clear that in their own world, the adventures of Hazel, Fiver, Bigwig,  Dandelion and the like are already in the process of becoming stories that rabbit  parents tell their kittens, and that will be part of rabbit lore for future  generations.  </p>
+<p>The chief villain in  the book, a very violent rabbit called General Woundwort, himself becomes a  figure of story â a boogey rabbit that rabbit parents use to keep their kittens  from misbehaving.  </p>
+<p>In what, for me, was  the strangest and scariest part of the story, Hazel and his followers, who have  escaped their warren just in time to avoid the disaster that destroyed it, have  come to a place that appears perfect for their needs â it is spacious, the  rabbits living there are all well fed, and they appear ready to welcome the  exiles.  Their even temper, which  approaches apathy, seems odd, and Fiver, a rabbit with second sight, is  panicked by this unusual behavior.  </p>
+<p>This group of rabbits  has become accustomed to a local farmer putting out farm waste for them to eat.  Wire traps have been set up about the field,  though, which catch and kill rabbits, which then become food for the farmer.  The rabbits in this peculiar warren have  grown accustomed to this arrangement.  </p>
+<p>They have lost the  wariness that helps rabbits survive in the wild; they have no chief rabbit to  lead them (for no leader can defend against the random death of the wire traps);  and they <em>never</em> speak of rabbits who  have gone missing. Once a rabbit has âgone,â all act as if s/he never existed. When  Hazel and company gather together with these rabbits to hear their teller,  Silverweed, they are puzzled.  </p>
+<p>There are no stories  of El-ahrairah, or other rabbit heroes.   Instead, Silverweed sings songs full of vague statements about the  evanescence of life, and encouraging acceptance of a world in which rabbits can  disappear like leaves blowing in the wind.  </p>
+<p>Adams does not give  us Aesopâs <em>Fables</em> (a book about  humans cast in animal form), nor does he give us a book about rabbits as  rabbits.  If you want that, there are  plenty of books available about rabbits.   Rather we get some strange mix â a book in which a clear human  consciousness, with the human love of, and need for, stories front and center,  is grafted onto rabbits behaving like rabbits, but which speaks to much larger  questions of bravery, honor, purpose and identity.  </p>
+<p>And if you can get  past the strange part â rabbits with human consciousness and stories â youâll  be amazed at the job Adams does with those big questions.  </p>
+<p>There is an <a href="http://kcaqua.kclibrary.org/?q=author:%22cosham%22+title:%22watership+down%22">audiobook</a> of the novel, very well read by Ralph Cosham.   And the <a href="http://kcaqua.kclibrary.org/?q=author:%22rosen%22+title:%22watership+down%22">animated  film</a>, with the voices of John Hurt, Ralph Richardson and Zero Mostel, is  quite a nice adaptation, but not for kids.  </p>
+<div class="bio-hide">
+<h3>About the Author</h3>
+<div class="floatleft"><img src="/sites/default/files/kcunbound-authors-bernardnorcott-mahany.jpg" /></div>
+<p><a href="mailto:bernardnorcott@kclibrary.org"><strong>Bernard Norcott-Mahany</strong></a>, a library technical   assistant at the  Lucile H. Bluford Branch, is our  resident connoisseur of classic literature. He is also the leader of the Black Classics and In the Heat of the Night <a href="http://www.kclibrary.org/book-clubs#bluford">book groups</a>. </p>
+<p><a href="http://www.facebook.com/kclibrary"><img src="/sites/default/files/images/icon-facebook.png" alt="Kansas City Public Library on Facebook" title="Facebook" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://twitter.com/kclibrary"><img src="/sites/default/files/images/icon-twitter.png" alt="Kansas City Public Library on Twitter" title="Twitter" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.youtube.com/user/kclibrary"><img src="/sites/default/files/images/icon-youtube.png" alt="Kansas City Public Library on YouTube" title="YouTube" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://pinterest.com/kclibrary/"><img src="http://passets-cdn.pinterest.com/images/big-p-button.png" width="30" height="30" alt="Follow KCLibrary on Pinterest" title="Pinterest" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.kclibrary.org/blog/KC+Unbound/feed"><img src="/sites/default/files/images/icon-rss.png" alt="KC Unbound RSS feed" title="Subscribe to KC Unbound" border="0" /></a>
+</p></div>
+  </div>
+
+<ul class="links inline"><li class="print_html first last"><a href="/print/18498" title="Display a printer-friendly version of this page." class="print-page" target="_blank" rel="nofollow"><img src="/sites/all/modules/contrib/print/icons/print_icon.gif" alt="Printer-friendly version" title="Printer-friendly version" width="16" height="16" class="print-icon" /></a></li>
+</ul></div>
+
+ <div><h2>Comments:</h2></div>
+<div id="comments">
+  <a id="comment-3530"></a>
+<div class="comment comment-published clear-block">
+  
+  
+  <h3><a href="/blog/kc-unbound/classic-review-watership-down-richard-adams#comment-3530" class="active">I&#039;m doing a book report about</a></h3>
+
+  <div class="submitted">
+    Submitted by red bunnie on Thu, 10/10/2013 - 5:28pm.  </div>
+
+  <div class="content">
+    <p>I'm doing a book report about Watership Down and I need a few interesting facts about it can you tell me some?</p>
+      </div>
+
+  <ul class="links"><li class="comment_reply first last"><a href="/comment/reply/18498/3530">reply</a></li>
+</ul></div>
+<div class="indented"><a id="comment-4048"></a>
+<div class="comment comment-published clear-block">
+  
+  
+  <h3><a href="/blog/kc-unbound/classic-review-watership-down-richard-adams#comment-4048" class="active">Try reading the book!</a></h3>
+
+  <div class="submitted">
+    Submitted by Anonymous on Thu, 10/30/2014 - 6:51am.  </div>
+
+  <div class="content">
+    <p>Try reading the book!</p>
+      </div>
+
+  <ul class="links"><li class="comment_reply first last"><a href="/comment/reply/18498/4048">reply</a></li>
+</ul></div>
+<a id="comment-3540"></a>
+<div class="comment comment-published clear-block">
+  
+  
+  <h3><a href="/blog/kc-unbound/classic-review-watership-down-richard-adams#comment-3540" class="active">I would try our live homework</a></h3>
+
+  <div class="submitted">
+    Submitted by lieslchristman on Tue, 10/15/2013 - 12:39pm.  </div>
+
+  <div class="content">
+    <p>I would try our live homework help resources: <a href="http://www.kclibrary.org/kids/homework-help" title="http://www.kclibrary.org/kids/homework-help">http://www.kclibrary.org/kids/homework-help</a></p>
+      </div>
+
+  <ul class="links"><li class="comment_reply first last"><a href="/comment/reply/18498/3540">reply</a></li>
+</ul></div>
+</div><div class="box">
+
+  <h2>Post new comment</h2>
+
+  <div class="content"><form action="/comment/reply/18498"  accept-charset="UTF-8" method="post" id="comment-form">
+<div><div class="a57bd_field"><span class="description"> (If you're a human, don't change the following field)</span><div class="form-item" id="edit-f57-name-wrapper">
+ <label for="edit-f57-name">Enter your name: </label>
+ <input type="text" maxlength="128" name="f57_name" id="edit-f57-name" size="60" value="499a4bf2e49" class="form-text a57bd_field" autocomplete="off" />
+ <div class="description">Your first name.</div>
+</div>
+</div><noscript>Please enable Javascript to use this form.</noscript><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Your name: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="30" value="Anonymous" class="form-text required" />
+</div>
+<input type="hidden" name="op" id="" value="Save"  />
+<div class="form-item" id="edit-mail-wrapper">
+ <label for="edit-mail">E-mail: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="64" name="mail" id="edit-mail" size="30" value="" class="form-text required" />
+ <div class="description">The content of this field is kept private and will not be shown publicly.</div>
+</div>
+<div class="form-item" id="edit-homepage-wrapper">
+ <label for="edit-homepage">Website: </label>
+ <input type="text" maxlength="255" name="homepage" id="edit-homepage" size="30" value="" class="form-text" />
+</div>
+<div class="form-item" id="edit-comment-wrapper">
+ <label for="edit-comment">Comment: <span class="form-required" title="This field is required.">*</span></label>
+ <textarea cols="60" rows="15" name="comment" id="edit-comment"  class="form-textarea resizable required"></textarea>
+</div>
+<ul class="tips"><li>Web page addresses and e-mail addresses turn into links automatically.</li><li>Allowed HTML tags: &lt;a&gt; &lt;b&gt; &lt;blockquote&gt; &lt;br&gt; &lt;center&gt; &lt;dd&gt; &lt;div&gt; &lt;dl&gt; &lt;dt&gt; &lt;em&gt; &lt;font&gt; &lt;h2&gt; &lt;h3&gt; &lt;h4&gt; &lt;h5&gt; &lt;h6&gt; &lt;hr&gt; &lt;i&gt; &lt;img&gt; &lt;li&gt; &lt;ol&gt; &lt;p&gt; &lt;pre&gt; &lt;span&gt; &lt;strong&gt; &lt;sub&gt; &lt;sup&gt; &lt;table&gt; &lt;td&gt; &lt;tr&gt; &lt;u&gt; &lt;ul&gt;</li><li>Lines and paragraphs break automatically.</li></ul><p><a href="/filter/tips">More information about formatting options</a></p><input type="hidden" name="form_build_id" id="form-b4f315173917543e7f8df28764c9f291" value="form-b4f315173917543e7f8df28764c9f291"  />
+<input type="hidden" name="form_id" id="edit-comment-form" value="comment_form"  />
+<div class="clear-block"><div class="form-item" id="edit-notify-wrapper">
+ <label class="option" for="edit-notify"><input type="checkbox" name="notify" id="edit-notify" value="1"  checked="checked"  class="form-checkbox" /> Notify me when new comments are posted</label>
+</div>
+<div class="form-radios"><div class="form-item" id="edit-notify-type-1-wrapper">
+ <label class="option" for="edit-notify-type-1"><input type="radio" id="edit-notify-type-1" name="notify_type" value="1"  checked="checked"  class="form-radio" /> All comments</label>
+</div>
+<div class="form-item" id="edit-notify-type-2-wrapper">
+ <label class="option" for="edit-notify-type-2"><input type="radio" id="edit-notify-type-2" name="notify_type" value="2"   class="form-radio" /> Replies to my comment</label>
+</div>
+</div></div><div class="hidden-captcha"><fieldset class="captcha"><legend>CAPTCHA</legend><div class="description">The words below come from scanned books. By typing them, you help to digitize old texts and prevent automated spam submissions.</div><input type="hidden" name="captcha_sid" id="edit-captcha-sid" value="5757980"  />
+<input type="hidden" name="captcha_token" id="edit-captcha-token" value="9ed62b6206f3f8c886a67e4a65460e7e"  />
+<div class="form-item" id="edit-captcha-response-wrapper">
+ <label for="edit-captcha-response">How many stars are in a solar system?: </label>
+ <input type="text" maxlength="128" name="captcha_response" id="edit-captcha-response" size="60" value="" class="form-text" />
+</div>
+</fieldset>
+</div><input type="submit" id="edit-submit" value="Post Comment"  class="form-submit" />
+<input type="submit" name="op" id="edit-preview" value="Preview"  class="form-submit" />
+<input type="hidden" name="f7c_name" id="edit-f7c-name" value="2a08274952a"  class="a7c1d_field" />
+
+</div></form>
+</div>
+</div>
+</div>
+        
+                  <div id="content-middle" class="clear-block">
+                              </div>
+
+          <div id="content-bottom" class="clear-block">
+                              </div>
+        
+      </div>
+      <div id="footer-menus">  <div id="block-menu_block-13" class=" block block-menu_block ">
+  <h2><a href="http://catalog.kclibrary.org/" title="Books &amp; More" class="active-trail">Books &amp; More</a></h2>
+
+  <div class="content">
+    <div class="menu-block-13 menu-name-primary-links parent-mlid-3071 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-3072 has-children"><a href="http://catalog.kclibrary.org/client/kclibrary/?rm=FICTION2|||1|||0|||true" title="Fiction">Books - Fiction</a></li>
+<li class="leaf menu-mlid-5575"><a href="http://catalog.kclibrary.org/client/kclibrary/?rm=NONFICTION0|||1|||0|||true" title="Nonfiction">Books - Nonfiction</a></li>
+<li class="leaf menu-mlid-3109"><a href="http://catalog.kclibrary.org/client/kclibrary/?rm=MOVIES+%26+TV0|||1|||0|||true" title="Movies &amp; TV">Movies &amp; TV</a></li>
+<li class="leaf menu-mlid-5576"><a href="http://catalog.kclibrary.org/client/kclibrary/?rm=MUSIC0|||1|||0|||true" title="Music">Music</a></li>
+<li class="leaf menu-mlid-5214"><a href="/downloadables" title="E-Books &amp; Downloadables">E-Books &amp; Digital Media</a></li>
+<li class="leaf menu-mlid-5634"><a href="/digital-stories" title="Digital Stories">Digital Stories</a></li>
+<li class="leaf menu-mlid-3111 has-children active-trail"><a href="/blogs" title="Blog" class="active-trail">Library Blog</a></li>
+<li class="leaf menu-mlid-3119 has-children"><a href="/book-clubs" title="Book Groups">Book Groups</a></li>
+<li class="leaf last menu-mlid-3118 has-children"><a href="/readers-corner" title="Reader&#039;s Corner">Reading Programs</a></li>
+</ul></div>
+  </div>
+</div>
+  <div id="block-menu_block-14" class=" block block-menu_block ">
+  <h2><a href="/events-and-activities" title="Events &amp; activities">Events &amp; Activities</a></h2>
+
+  <div class="content">
+    <div class="menu-block-14 menu-name-primary-links parent-mlid-3134 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-3135"><a href="/events/list?type=187" title="Events">Events</a></li>
+<li class="leaf menu-mlid-3136"><a href="/events/list?type=138" title="Movies at the Library">Movies at the Library</a></li>
+<li class="leaf menu-mlid-3137"><a href="/family-center" title="Family Center">Family Center</a></li>
+<li class="leaf menu-mlid-3138"><a href="/events/list?type=140" title="Exhibits">Exhibits</a></li>
+<li class="leaf menu-mlid-3139"><a href="/events/list?type=141" title="Clubs &amp; Activities">Clubs &amp; activities</a></li>
+<li class="leaf last menu-mlid-4887 has-children"><a href="/event-archive">Event Archive</a></li>
+</ul></div>
+  </div>
+</div>
+  <div id="block-menu_block-15" class="curvy block block-menu_block ">
+  <h2><a href="/events/list?type=139" title="Classes">Classes</a></h2>
+
+  <div class="content">
+    <div class="menu-block-15 menu-name-primary-links parent-mlid-3145 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-3146"><a href="/events/list?type=188" title="Business &amp; Investment">Business &amp; Investment</a></li>
+<li class="leaf menu-mlid-3147"><a href="/events/list?type=189" title="Career">Career</a></li>
+<li class="leaf menu-mlid-3148"><a href="/events/list?type=190" title="Computer &amp; Web">Computer &amp; Web</a></li>
+<li class="leaf menu-mlid-3149"><a href="/events/list?type=191" title="Language &amp; Literacy">Language &amp; Literacy</a></li>
+<li class="leaf last menu-mlid-5558"><a href="/online-learning" title="Online Learning">Online Learning</a></li>
+</ul></div>
+  </div>
+</div>
+  <div id="block-menu_block-16" class=" block block-menu_block ">
+  <h2><a href="/research-resources" title="Research resources">Research Resources</a></h2>
+
+  <div class="content">
+    <div class="menu-block-16 menu-name-primary-links parent-mlid-3150 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-3151"><a href="/kchistory" title="Local history &amp; genealogy">Local History &amp; Genealogy</a></li>
+<li class="leaf menu-mlid-3152"><a href="/business-career" title="H&amp;R Block Business &amp; Career Center">Business &amp; Career Center</a></li>
+<li class="leaf menu-mlid-3162"><a href="/health" title="Health">Health &amp; Wellness</a></li>
+<li class="leaf menu-mlid-3173"><a href="/databases-alpha" title="Databases">Databases</a></li>
+<li class="leaf menu-mlid-3177"><a href="/homework-help" title="Homework Help">Homework Help</a></li>
+<li class="leaf last menu-mlid-5552"><a href="/research-resources" title="">View All Topics</a></li>
+</ul></div>
+  </div>
+</div>
+  <div id="block-menu_block-17" class=" block block-menu_block ">
+  <h2><a href="/about-the-library" title="About the Library">About the Library</a></h2>
+
+  <div class="content">
+    <div class="menu-block-17 menu-name-primary-links parent-mlid-3178 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-3179 has-children"><a href="/branches" title="Hours &amp; locations">Hours &amp; Locations</a></li>
+<li class="leaf menu-mlid-3199 has-children"><a href="/jobs-internships" title="Jobs &amp; internships: open positions">Jobs &amp; Internships</a></li>
+<li class="leaf menu-mlid-3204 has-children"><a href="/space" title="Space rental">Space Rental</a></li>
+<li class="leaf last menu-mlid-5559"><a href="/about-the-library" title="">More...</a></li>
+</ul></div>
+  </div>
+</div>
+  <div id="block-menu_block-18" class=" block block-menu_block ">
+  <h2>Primary Links</h2>
+
+  <div class="content">
+    <div class="menu-block-18 menu-name-primary-links parent-mlid-3255 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-5402"><a href="/" title="">Home</a></li>
+<li class="leaf menu-mlid-3071 has-children active-trail"><a href="http://catalog.kclibrary.org/" title="Books &amp; More" class="active-trail">Books &amp; More</a></li>
+<li class="leaf menu-mlid-3134 has-children"><a href="/events-and-activities" title="Events &amp; activities">Events &amp; Activities</a></li>
+<li class="leaf menu-mlid-3145 has-children"><a href="/events/list?type=139" title="Classes">Classes</a></li>
+<li class="leaf menu-mlid-3150 has-children"><a href="/research-resources" title="Research resources">Research Resources</a></li>
+<li class="leaf menu-mlid-3178 has-children"><a href="/about-the-library" title="About the Library">About the Library</a></li>
+<li class="leaf menu-mlid-3256 has-children"><a href="/ways-to-give" title="Individual Giving">Giving</a></li>
+<li class="leaf menu-mlid-3270"><a href="/kids" title="Kids">Kids</a></li>
+<li class="leaf last menu-mlid-3271"><a href="/teens" title="Teens">Teens</a></li>
+</ul></div>
+  </div>
+</div>
+<div class="clear"></div></div>      <div id="footer" class="clear-block">
+          <div id="block-menu-menu-kids-teens-footer" class=" block block-menu ">
+
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/kids" title="Kids">Kids</a></li>
+<li class="leaf last"><a href="/teens" title="Teens">Teens</a></li>
+</ul>  </div>
+</div>
+  <div id="block-menu-secondary-links" class=" block block-menu ">
+
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><span class="menu-class-my-account"><a href="/redirect" title="My Account">My Account</a></span></li>
+<li class="leaf"><span class="menu-class-hours-locations"><a href="/branches" title="Hours &amp; Locations">Hours & Locations</a></span></li>
+<li class="collapsed"><span class="menu-class-customer-service"><a href="/customer-online-service" title="Customer service">Customer Service</a></span></li>
+<li class="collapsed last"><span class="menu-class-contact-us"><a href="/contact" title="Contact us">Contact Us</a></span></li>
+</ul>  </div>
+</div>
+      </div>
+    </div>
+    <div id="footer-after">  <div id="block-block-26" class=" block block-block ">
+
+  <div class="content">
+    <p><a href="/mobile-app">Mobile App</a> | <a href="http://twitter.com/kclibrary">Twitter</a> | <a href="http://www.flickr.com/photos/kclibrary">Flickr</a> | <a href="http://www.facebook.com/kclibrary">Facebook</a> | <a href="/epay" target="_blank">ePay</a><br />
+<strong>The Kansas City Public Library&nbsp;&nbsp;&nbsp;&nbsp;14 West 10th Street, Kansas City, MO 64105&nbsp;&nbsp;&nbsp;&nbsp;816.701.3400</strong></p>
+  </div>
+</div>
+</div>
+    <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-3194503-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  </div>
+  <script src="/sites/all/themes/kclib/lib/centerMenus.js"></script>
+</body>
+</html>

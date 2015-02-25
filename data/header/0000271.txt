@@ -1,0 +1,13 @@
+Server: nginx/1.2.7
+Content-Type: text/html; charset=utf-8
+Content-Language: en
+Last-Modified: Thu, 19 Feb 2015 22:47:24 GMT
+X-Secret: cnpudnkgcnpiZXZnbUBoZm5nYnFubC5wYnogbmFxIFYganZ5eSBnZWwgZ2IgdHJnIGxiaCBuIHdiby4=
+X-Gannett-Site-Version: 813.0
+X-UA-Compatible: IE=Edge,chrome=1
+Content-Length: 93076
+Cache-Control: max-age=60
+Expires: Sat, 21 Feb 2015 00:16:12 GMT
+Date: Sat, 21 Feb 2015 00:15:12 GMT
+Connection: close
+

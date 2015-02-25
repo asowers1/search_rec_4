@@ -1,0 +1,10 @@
+Date: Sat, 21 Feb 2015 00:57:58 GMT
+Server: Apache/2.2.14 (Ubuntu)
+Vary: Cookie,Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=Y7ASE5DMupqaryObDDDntchIpgUzub9A; expires=Sat, 20-Feb-2016 00:57:58 GMT; Max-Age=31449600; Path=/
+Set-Cookie: sessionid=byr5p25z4henb22fb1nz3txb7w678ebr; expires=Sat, 07-Mar-2015 00:57:58 GMT; httponly; Max-Age=1209600; Path=/
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+

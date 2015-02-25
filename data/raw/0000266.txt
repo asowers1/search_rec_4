@@ -1,0 +1,331 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+<meta name="Description" content="List of songs with Songfacts entries for The Beatles">
+
+<meta name="Keywords" content="song, The Beatles, song list">
+    <meta http-Equiv="Cache-Control" Content="no-cache">
+    <meta http-Equiv="Pragma" Content="no-cache">
+    <meta http-Equiv="Expires" Content="0">
+    <meta property="og:title" content="Songfacts - List of songs by The Beatles" />
+    <meta property="og:description" content="List of songs with Songfacts entries for The Beatles" />
+    <meta property="og:image" content="http://artimg.songfacts.com/ec8935a24367b7428fa7914538b5c1a0-lg.png" />
+<title>Songfacts - List of songs by The Beatles</title>
+<link rel="stylesheet" href="/css/normalize.css" />
+<link rel="stylesheet" href="/css/base.css" />
+<link rel="stylesheet" href="/css/768.css" />
+<link href='http://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
+
+<script src="/js/jquery.1.11.0.js" type="text/javascript"></script>
+<script src="/js/jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>
+<script src="/js/jquery.bxslider.min.js" type="text/javascript"></script>
+<script src="/js/vendor/modernizr.js" type="text/javascript"></script> 
+<script src="/js/jquery.easing.1.3.js" type="text/javascript"></script>
+<script src="/js/jquery.fitvids.js" type="text/javascript"></script>
+<script src="/js/jquery.color.js" type="text/javascript"></script>
+<script src="/js/jquery.bpopup.min.js" type="text/javascript"></script>
+<script src="/js/global.js" type="text/javascript"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script>
+<script src="/js/detail-artist.js" type="text/javascript"></script>
+</head>
+
+<body>
+
+
+<!-- HEADER -->
+<!-- registration popup -->
+<div class="regpop"><div class="result-holder"></div>
+<div class="wrapper mar-bot15"><h2>Registration with</h2></div>
+<div class="wrapper"><img src="/images/logowhitebgr.gif"></div>
+<div class="wrapper">
+<ul class="spop-ul">
+<li class="clearfix"><input class="special-input" type="text" placeholder="First Name" id="reg-name" ></li>
+<li><input class="special-input" type="text" placeholder="E-mail" id="reg-email" ></li>
+<li><input class="special-input" type="text" placeholder="Location" id="reg-location"></li>
+<li class="clearfix"><input class="special-input-half-left" type="password" placeholder="Password" id="reg-pass1" autocapitalization=âoffâ> <input class="special-input-half-right" type="password" placeholder="Confirm password" id="reg-pass2" autocapitalization=âoffâ></li>
+</ul>
+<span class="sflostpass-button" id="reg-button">register</span>
+</div>   
+</div>
+<!-- registration popup -->
+
+<!-- lost password recovery popup -->
+<div class="lostpop"><div class="result-holder"></div>
+<div class="wrapper mar-bot15"><h2>lost password recovery</h2></div>
+<div class="wrapper"><img src="/images/logowhitebgr.gif"></div>
+<div class="wrapper">
+<ul class="spop-ul">
+<li><input class="special-input" type="text" placeholder="Your E-mail" id="lostpass-email"></li>
+</ul>
+<span class="sflostpass-button" id="lost-button">recover my password</span>
+</div>   
+</div>
+<!-- lost password recovery popup -->
+
+<!-- sign in popup -->
+<div class="loginpop"><div class="result-holder"></div>
+<div class="wrapper mar-bot15"><h2>sign in</h2></div>
+<div class="row">
+<div class="large-12 columns">
+<div class="wrapper">
+<img src="/images/logowhitebgr.gif">
+<ul class="spop-ul">
+<li><input class="special-input" type="text" placeholder="E-mail" id="log-email-user" autocapitalization=âoffâ></li>
+<li><input class="special-input" type="password" placeholder="Password" id="log-pass-user" autocapitalization=âoffâ></li>
+<li class="spop-ul-li-text"><span class="sflogin-lostpass"><a href="#" class="trigger-lostpass close-signin">lost password</a></span><input type="checkbox" id="log-remember"> remember me</li>
+</ul>
+<span class="sflogin-button" id="log-button-user">sign in</span>
+</div>
+</div>
+
+</div>   
+</div>
+<!-- sign in popup -->
+
+<!-- suggest a songfact -->
+<div class="sugpop"><div class="result-holder"></div>
+<div class="wrapper mar-bot15"><h2>Suggest a Songfact / Artistfact</h2></div>
+<div class="wrapper">
+<ul class="spop-ul">
+<li>Please sign in first</li>
+</ul>
+<span class="sflogin-button trigger-signin close-sugpop">sign in</span>
+</div>   
+</div>
+<!-- suggest a songfact -->
+
+<!-- newsletter signup popup -->
+<div class="newsletterpop"><div class="result-holder"></div>
+<div class="wrapper"><h2>Sign up for our newsletter</h2></div>
+<div class="wrapper">
+<ul class="spop-ul">
+<li class="spop-ul-li-text">We send out the Songfacts Newsletter once a month. It contains a big list of the new songs that were added, information on recent interviews, and updates on what's happening in the fishbowl.<br><br>If you'd like to receive the Songfacts Newsletter, please enter the email you'd like it sent to below:</li>
+<li><input class="special-input" type="text" placeholder="Your E-mail" id="newsletter-email"></li>
+</ul>
+<span class="sflostpass-button" id="newsletter-button">Get the Newsletter</span>
+</div>   
+</div>
+<!-- newsletter signup popup -->
+
+<header>
+<div class="row">
+
+<div class="large-12 columns">
+
+<div class="logo"><a href="/"><img src="/images/logo.png" alt="logo"></a></div>
+
+
+<ul class="headermenu">
+<li>Welcome Guest</li><li>(<a class="trigger-signin" href="#">sign in</a></li><li>| <a class="trigger-register" href="#">register</a>)</li>
+</ul>
+
+
+<div class="alphabar">
+<a class="browseletter" href="/browse-song-1.php">#</a><a class="browseletter" href="/browse-song-a.php">A</a><a class="browseletter" href="/browse-song-b.php">B</a><a class="browseletter" href="/browse-song-c.php">C</a><a class="browseletter" href="/browse-song-d.php">D</a><a class="browseletter" href="/browse-song-e.php">E</a><a class="browseletter" href="/browse-song-f.php">F</a><a class="browseletter" href="/browse-song-g.php">G</a><a class="browseletter" href="/browse-song-h.php">H</a><a class="browseletter" href="/browse-song-i.php">I</a><a class="browseletter" href="/browse-song-j.php">J</a><a class="browseletter" href="/browse-song-k.php">K</a><a class="browseletter" href="/browse-song-l.php">L</a><a class="browseletter" href="/browse-song-m.php">M</a><br><span>browse</span>
+<a class="browseletter" href="/browse-song-n.php">N</a><a class="browseletter" href="/browse-song-o.php">O</a><a class="browseletter" href="/browse-song-p.php">P</a><a class="browseletter" href="/browse-song-q.php">Q</a><a class="browseletter" href="/browse-song-r.php">R</a><a class="browseletter" href="/browse-song-s.php">S</a><a class="browseletter" href="/browse-song-t.php">T</a><a class="browseletter" href="/browse-song-u.php">U</a><a class="browseletter" href="/browse-song-v.php">V</a><a class="browseletter" href="/browse-song-w.php">W</a><a class="browseletter" href="/browse-song-x.php">X</a><a class="browseletter" href="/browse-song-y.php">Y</a><a class="browseletter" href="/browse-song-z.php">Z</a></div>
+
+
+
+
+</div>
+
+
+</div>
+</header><!-- HEADER -->
+
+<!-- TOP navigation bar -->
+<div class="nav-bgr">
+<div class="contain-to-grid">
+<nav class="top-bar" data-topbar>
+<ul class="title-area">
+
+<li class="searchmobile">  
+<span id="searchbutton-mobile"></span>
+<div class="inputholder"><input type="search" id="searchmobile" name="term" autocorrect="off" autocapitalize="off" autocomplete="off" placeholder="Search for songs, artists, blog entries, year"></div>
+</li>
+
+    <!-- Title Area -->
+    <li class="name">    </li>
+    <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+    <li class="toggle-topbar menu-icon"><a href="">menu</a></li>
+</ul>
+
+
+<section class="top-bar-section">
+<ul class="left">
+<li class="divider"></li>
+<li class="active"><a href="/">HOME</a></li>
+<li class="divider"></li>
+<li><a href="/categories.php">CATEGORIES</a></li>
+<li class="divider"></li>
+
+<li class="has-dropdown">
+<a href="/blog/">BLOG</a>
+<ul class="dropdown">
+    <li class="divider"></li>
+    <li><a href="/blog/interviews/">Songwriter Interviews</a></li>
+	  <li class="divider"></li>
+    <li><a href="/blog/writing/">Song Writing</a></li>
+    <li class="divider"></li>
+    <li><a href="/blog/factorfiction/">Fact or Fiction</a></li>
+    <li class="divider"></li>
+    <li><a href="/blog/playingmysong/">They're Playing My Song</a></li>
+    <li class="divider"></li>
+    <li><a href="/blog/quiz/">Music Quiz</a></li>
+  </ul>
+</li>
+<li class="divider"></li>
+<li><a href="/blog/interviews/">songwriter interviews</a></li>
+<li class="divider"></li>
+
+</ul>
+
+<div class="onright">
+<span id="searchbutton-desktop"></span>
+<div class="inputholder"><input type="search" id="searchdesktop" name="term" placeholder="Search for songs, artists, blog entries, year"></div>
+</div>
+
+</section>
+
+
+
+</nav>
+</div>
+</div>
+
+
+<!-- TOP navigation bar -->
+
+<!-- MAIN CONTAINER -->
+<div class="bg-content pad-top10">
+
+
+<!-- PHP HTML BODY -->
+<div class="row">
+<div class="large-12 columns">
+<div class="afdetail-holder">
+<div class="wrapper">
+<div class="artistinfo clearfix"><h2>The Beatles</h2>
+<script type="text/javascript">
+
+var adWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+google_ad_client = "ca-pub-4543919836108673";
+google_ad_slot = "4451768383";
+
+if ( adWidth < 320 ) { google_ad_size = ["320", "100"]; }
+if ( adWidth >= 320 ) { google_ad_size = ["320", "100"]; }
+if ( adWidth >= 360 ) { google_ad_size = ["200", "200"]; }
+if ( adWidth >= 420 ) { google_ad_size = ["250", "250"]; }
+if ( adWidth >= 460 ) { google_ad_size = ["300", "250"]; }
+if ( adWidth >= 480 ) { google_ad_size = ["320", "100"]; }
+if ( adWidth >= 500 ) { google_ad_size = ["336", "280"]; }
+if ( adWidth >= 640 ) { google_ad_size = ["300", "250"]; }
+ 
+document.write (
+'<ins class="adsbygoogle afdetail-main-ads" style="width:'
++ google_ad_size[0] + 'px;height:'
++ google_ad_size[1] + 'px" data-ad-client="'
++ google_ad_client + '" data-ad-slot="'
++ google_ad_slot + '"></ins>'
+);
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+ 
+</script>
+<img src="http://artimg.songfacts.com/ec8935a24367b7428fa7914538b5c1a0-lg.png" class="artimg"><div class="afdata-holder"><span class="dateofexistance">1960-1970</span><div class="memberentry"><span class="membername">John Lennon</span><span class="instrument">(vocals, rhythm guitar)</span><span class="year">1960-1970</span></div><div class="memberentry"><span class="membername">Paul McCartney</span><span class="instrument">(vocals, bass)</span><span class="year">1960-1970</span></div><div class="memberentry"><span class="membername">George Harrison</span><span class="instrument">(vocals, lead guitar)</span><span class="year">1960-1970</span></div><div class="memberentry"><span class="membername">Stu Sutcliffe</span><span class="instrument">(bass)</span><span class="year">1960-1961</span></div><div class="memberentry"><span class="membername">Pete Best</span><span class="instrument">(drums)</span><span class="year">1960-1962</span></div><div class="memberentry"><span class="membername">Ringo Starr</span><span class="instrument">(drums)</span><span class="year">1962-1970</span></div></div></div><div class="wrapper mar-top15"><div class="shareArticle clearfix"><a class="shareLink" data-href="http://www.songfacts.com/artist-the_beatles.php">List of songs with Songfacts and Lyrics by The Beatles</a><span class="shareBar"><!-- Sharebar placeholder--></span></div><ul class="tabs-orange"><li class="tab-orange"><a href="/artist-the_beatles.php" class="current">Songs</a></li><li class="tab-blue"><a href="/facts-the_beatles.php">Artistfacts</a></li></ul><div class="wrapper tabtitle-orange"><h2>List of songs by The Beatles</h2></div><ul class="songullist-orange"><li><a href="/detail.php?id=129">A Day In The Life</a></li><li><a href="/detail.php?id=39">A Hard Day&#039;s Night</a></li><li><a href="/detail.php?id=179">Across The Universe</a></li><li><a href="/detail.php?id=77">Act Naturally</a></li><li><a href="/detail.php?id=212">Ain&#039;t She Sweet</a></li><li><a href="/detail.php?id=4817">All I&#039;ve Got To Do</a></li><li><a href="/detail.php?id=21">All My Loving</a></li><li><a href="/detail.php?id=144">All Together Now</a></li><li><a href="/detail.php?id=130">All You Need Is Love</a></li><li><a href="/detail.php?id=43">And I Love Her</a></li><li><a href="/detail.php?id=3877">And Your Bird Can Sing</a></li><li><a href="/detail.php?id=4">Anna (Go to Him)</a></li><li><a href="/detail.php?id=74">Another Girl</a></li><li><a href="/detail.php?id=45">Any Time At All</a></li><li><a href="/detail.php?id=7">Ask Me Why</a></li><li><a href="/detail.php?id=131">Baby You&#039;re A Rich Man</a></li><li><a href="/detail.php?id=6488">Baby&#039;s In Black</a></li><li><a href="/detail.php?id=147">Back In The U.S.S.R.</a></li><li><a href="/detail.php?id=6692">Bad Boy</a></li><li><a href="/detail.php?id=198">Because</a></li><li><a href="/detail.php?id=124">Being for the Benefit of Mr. Kite!</a></li><li><a href="/detail.php?id=164">Birthday</a></li><li><a href="/detail.php?id=157">Blackbird</a></li><li><a href="/detail.php?id=136">Blue Jay Way</a></li><li><a href="/detail.php?id=6">Boys</a></li><li><a href="/detail.php?id=1">Can&#039;t Buy Me Love</a></li><li><a href="/detail.php?id=205">Carry That Weight</a></li><li><a href="/detail.php?id=9569">Christmas Time Is Here Again</a></li><li><a href="/detail.php?id=191">Come Together</a></li><li><a href="/detail.php?id=2014">Cry Baby Cry</a></li><li><a href="/detail.php?id=7395">Cry For A Shadow</a></li><li><a href="/detail.php?id=84">Day Tripper</a></li><li><a href="/detail.php?id=148">Dear Prudence</a></li><li><a href="/detail.php?id=30">Devil In Her Heart</a></li><li><a href="/detail.php?id=178">Dig a Pony</a></li><li><a href="/detail.php?id=181">Dig It</a></li><li><a href="/detail.php?id=12">Do You Want To Know A Secret</a></li><li><a href="/detail.php?id=111">Doctor Robert</a></li><li><a href="/detail.php?id=22">Don&#039;t Bother Me</a></li><li><a href="/detail.php?id=176">Don&#039;t Let Me Down</a></li><li><a href="/detail.php?id=160">Don&#039;t Pass Me By</a></li><li><a href="/detail.php?id=86">Drive My Car</a></li><li><a href="/detail.php?id=60">Eight Days a Week</a></li><li><a href="/detail.php?id=102">Eleanor Rigby</a></li><li><a href="/detail.php?id=3876">Every Little Thing</a></li><li><a href="/detail.php?id=167">Everybody&#039;s Got Something to Hide Except Me and My Monkey</a></li><li><a href="/detail.php?id=66">Everybody&#039;s Trying To Be My Baby</a></li><li><a href="/detail.php?id=122">Fixing A Hole</a></li><li><a href="/detail.php?id=135">Flying</a></li><li><a href="/detail.php?id=110">For No One</a></li><li><a href="/detail.php?id=187">For You Blue</a></li><li><a href="/detail.php?id=209">Free As A Bird</a></li><li><a href="/detail.php?id=15">From Me to You</a></li><li><a href="/detail.php?id=188">Get Back</a></li><li><a href="/detail.php?id=121">Getting Better</a></li><li><a href="/detail.php?id=93">Girl</a></li><li><a href="/detail.php?id=149">Glass Onion</a></li><li><a href="/detail.php?id=204">Golden Slumbers</a></li><li><a href="/detail.php?id=108">Good Day Sunshine</a></li><li><a href="/detail.php?id=128">Good Morning Good Morning</a></li><li><a href="/detail.php?id=175">Good Night</a></li><li><a href="/detail.php?id=113">Got To Get You Into My Life</a></li><li><a href="/detail.php?id=154">Happiness Is A Warm Gun</a></li><li><a href="/detail.php?id=132">Hello Goodbye</a></li><li><a href="/detail.php?id=7397">Hello Little Girl</a></li><li><a href="/detail.php?id=70">Help!</a></li><li><a href="/detail.php?id=169">Helter Skelter</a></li><li><a href="/detail.php?id=207">Her Majesty</a></li><li><a href="/detail.php?id=197">Here Comes The Sun</a></li><li><a href="/detail.php?id=105">Here, There And Everywhere</a></li><li><a href="/detail.php?id=145">Hey Bulldog</a></li><li><a href="/detail.php?id=141">Hey Jude</a></li><li><a href="/detail.php?id=6843">Hold Me Tight</a></li><li><a href="/detail.php?id=171">Honey Pie</a></li><li><a href="/detail.php?id=138">I Am The Walrus</a></li><li><a href="/detail.php?id=7950">I Call Your Name</a></li><li><a href="/detail.php?id=8888">I Don&#039;t Want To Spoil The Party</a></li><li><a href="/detail.php?id=51">I Feel Fine</a></li><li><a href="/detail.php?id=180">I Me Mine</a></li><li><a href="/detail.php?id=73">I Need You</a></li><li><a href="/detail.php?id=2">I Saw Her Standing There</a></li><li><a href="/detail.php?id=40">I Should Have Known Better</a></li><li><a href="/detail.php?id=29">I Wanna Be Your Man</a></li><li><a href="/detail.php?id=33">I Want To Hold Your Hand</a></li><li><a href="/detail.php?id=112">I Want To Tell You</a></li><li><a href="/detail.php?id=196">I Want You (She&#039;s So Heavy)</a></li><li><a href="/detail.php?id=162">I Will</a></li><li><a href="/detail.php?id=9673">I&#039;ll Be Back</a></li><li><a href="/detail.php?id=46">I&#039;ll Cry Instead</a></li><li><a href="/detail.php?id=57">I&#039;ll Follow The Sun</a></li><li><a href="/detail.php?id=9701">I&#039;ll Get You</a></li><li><a href="/detail.php?id=54">I&#039;m a Loser</a></li><li><a href="/detail.php?id=69">I&#039;m Down</a></li><li><a href="/detail.php?id=42">I&#039;m Happy Just To Dance With You</a></li><li><a href="/detail.php?id=94">I&#039;m Looking Through You</a></li><li><a href="/detail.php?id=103">I&#039;m Only Sleeping</a></li><li><a href="/detail.php?id=156">I&#039;m So Tired</a></li><li><a href="/detail.php?id=184">I&#039;ve Got a Feeling</a></li><li><a href="/detail.php?id=81">I&#039;ve Just Seen a Face</a></li><li><a href="/detail.php?id=41">If I Fell</a></li><li><a href="/detail.php?id=4951">If I Needed Someone</a></li><li><a href="/detail.php?id=9660">If You&#039;ve Got Trouble</a></li><li><a href="/detail.php?id=95">In My Life</a></li><li><a href="/detail.php?id=31425">In Spite Of All The Danger</a></li><li><a href="/detail.php?id=19">It Won&#039;t Be Long</a></li><li><a href="/detail.php?id=146">It&#039;s All Too Much</a></li><li><a href="/detail.php?id=78">It&#039;s Only Love</a></li><li><a href="/detail.php?id=163">Julia</a></li><li><a href="/detail.php?id=139">Lady Madonna</a></li><li><a href="/detail.php?id=182">Let It Be</a></li><li><a href="/detail.php?id=7396">Like Dreamers Do</a></li><li><a href="/detail.php?id=7273">Little Child</a></li><li><a href="/detail.php?id=35">Long Tall Sally</a></li><li><a href="/detail.php?id=170">Long, Long, Long</a></li><li><a href="/detail.php?id=9">Love Me Do</a></li><li><a href="/detail.php?id=104">Love You To</a></li><li><a href="/detail.php?id=127">Lovely Rita</a></li><li><a href="/detail.php?id=120">Lucy In The Sky With Diamonds</a></li><li><a href="/detail.php?id=183">Maggie Mae</a></li><li><a href="/detail.php?id=133">Magical Mystery Tour</a></li><li><a href="/detail.php?id=155">Martha My Dear</a></li><li><a href="/detail.php?id=37">Matchbox</a></li><li><a href="/detail.php?id=193">Maxwell&#039;s Silver Hammer</a></li><li><a href="/detail.php?id=201">Mean Mr. Mustard</a></li><li><a href="/detail.php?id=91">Michelle</a></li><li><a href="/detail.php?id=3">Misery</a></li><li><a href="/detail.php?id=32">Money (That&#039;s What I Want)</a></li><li><a href="/detail.php?id=166">Mother Nature&#039;s Son</a></li><li><a href="/detail.php?id=58">Mr. Moonlight</a></li><li><a href="/detail.php?id=53">No Reply</a></li><li><a href="/detail.php?id=87">Norwegian Wood (This Bird Has Flown)</a></li><li><a href="/detail.php?id=88">Nowhere Man</a></li><li><a href="/detail.php?id=150">Ob-La-Di, Ob-La-Da</a></li><li><a href="/detail.php?id=195">Octopus&#039;s Garden</a></li><li><a href="/detail.php?id=194">Oh! Darling</a></li><li><a href="/detail.php?id=190">Old Brown Shoe</a></li><li><a href="/detail.php?id=185">One After 909</a></li><li><a href="/detail.php?id=143">Only a Northern Song</a></li><li><a href="/detail.php?id=10">P.S. I Love You</a></li><li><a href="/detail.php?id=99">Paperback Writer</a></li><li><a href="/detail.php?id=115">Penny Lane</a></li><li><a href="/detail.php?id=158">Piggies</a></li><li><a href="/detail.php?id=8">Please Please Me</a></li><li><a href="/detail.php?id=202">Polythene Pam</a></li><li><a href="/detail.php?id=100">Rain</a></li><li><a href="/detail.php?id=210">Real Love</a></li><li><a href="/detail.php?id=142">Revolution</a></li><li><a href="/detail.php?id=174">Revolution 9</a></li><li><a href="/detail.php?id=159">Rocky Raccoon</a></li><li><a href="/detail.php?id=98">Run For Your Life</a></li><li><a href="/detail.php?id=172">Savoy Truffle</a></li><li><a href="/detail.php?id=168">Sexy Sadie</a></li><li><a href="/detail.php?id=117">Sgt. Pepper&#039;s Lonely Hearts Club Band</a></li><li><a href="/detail.php?id=118">Sgt. Pepper&#039;s Lonely Hearts Club Band (reprise)</a></li><li><a href="/detail.php?id=203">She Came In Through the Bathroom Window</a></li><li><a href="/detail.php?id=17">She Loves You</a></li><li><a href="/detail.php?id=107">She Said She Said</a></li><li><a href="/detail.php?id=52">She&#039;s a Woman</a></li><li><a href="/detail.php?id=123">She&#039;s Leaving Home</a></li><li><a href="/detail.php?id=8264">Slow Down</a></li><li><a href="/detail.php?id=192">Something</a></li><li><a href="/detail.php?id=116">Strawberry Fields Forever</a></li><li><a href="/detail.php?id=200">Sun King</a></li><li><a href="/detail.php?id=101">Taxman</a></li><li><a href="/detail.php?id=5444">Tell Me What You See</a></li><li><a href="/detail.php?id=44">Tell Me Why</a></li><li><a href="/detail.php?id=16">Thank You Girl</a></li><li><a href="/detail.php?id=189">The Ballad of John and Yoko</a></li><li><a href="/detail.php?id=213">The Beatles&#039; Movie Medley</a></li><li><a href="/detail.php?id=152">The Continuing Story of Bungalow Bill</a></li><li><a href="/detail.php?id=206">The End</a></li><li><a href="/detail.php?id=134">The Fool On The Hill</a></li><li><a href="/detail.php?id=140">The Inner Light</a></li><li><a href="/detail.php?id=186">The Long and Winding Road</a></li><li><a href="/detail.php?id=11701">The Night Before</a></li><li><a href="/detail.php?id=90">The Word</a></li><li><a href="/detail.php?id=9758">There&#039;s A Place</a></li><li><a href="/detail.php?id=47">Things We Said Today</a></li><li><a href="/detail.php?id=89">Think For Yourself</a></li><li><a href="/detail.php?id=34">This Boy</a></li><li><a href="/detail.php?id=76">Ticket To Ride</a></li><li><a href="/detail.php?id=24">Till There Was You</a></li><li><a href="/detail.php?id=114">Tomorrow Never Knows</a></li><li><a href="/detail.php?id=14">Twist and Shout</a></li><li><a href="/detail.php?id=177">Two Of Us</a></li><li><a href="/detail.php?id=96">Wait</a></li><li><a href="/detail.php?id=85">We Can Work It Out</a></li><li><a href="/detail.php?id=92">What Goes On</a></li><li><a href="/detail.php?id=7527">What You&#039;re Doing</a></li><li><a href="/detail.php?id=9810">What&#039;s The New Mary Jane</a></li><li><a href="/detail.php?id=7280">When I Get Home</a></li><li><a href="/detail.php?id=126">When I&#039;m 64</a></li><li><a href="/detail.php?id=153">While My Guitar Gently Weeps</a></li><li><a href="/detail.php?id=161">Why Don&#039;t We Do It In The Road?</a></li><li><a href="/detail.php?id=151">Wild Honey Pie</a></li><li><a href="/detail.php?id=119">With A Little Help From My Friends</a></li><li><a href="/detail.php?id=125">Within You Without You</a></li><li><a href="/detail.php?id=106">Yellow Submarine</a></li><li><a href="/detail.php?id=165">Yer Blues</a></li><li><a href="/detail.php?id=9759">Yes It Is</a></li><li><a href="/detail.php?id=82">Yesterday</a></li><li><a href="/detail.php?id=49">You Can&#039;t Do That</a></li><li><a href="/detail.php?id=208">You Know My Name (Look Up The Number)</a></li><li><a href="/detail.php?id=19318">You Know What To Do</a></li><li><a href="/detail.php?id=11702">You Like Me Too Much</a></li><li><a href="/detail.php?id=199">You Never Give Me Your Money</a></li><li><a href="/detail.php?id=214">You Won&#039;t See Me</a></li><li><a href="/detail.php?id=7281">You&#039;re Gonna Lose That Girl</a></li><li><a href="/detail.php?id=72">You&#039;ve Got To Hide Your Love Away</a></li><li><a href="/detail.php?id=137">Your Mother Should Know</a></li></ul></div></div>
+</div>
+</div>
+</div><!-- PHP HTML BODY -->
+
+<!-- FOOTER -->
+<section class="footer">
+
+<div class="row">
+<div class="large-12 columns">
+<div class="row preftr">
+    <div class="large-3 columns">
+      <div class="wrapper">
+        <h2 class="pad-bot15">information</h2>
+        <ul>
+        <li><a href="/blog/pages/about_us/">About Us</a></li>
+        <li><a href="/blog/pages/songfacts_writers/">Songfacts Writers</a></li>
+        <li><a href="/blog/pages/songfacts_privacy_policy_and_legal_notice/">Privacy Policy</a></li>
+        <li><a href="mailto:feedback@songfacts.com">Contact Us</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="large-3 columns">
+      <div class="wrapper">
+        <h2 class="pad-bot15">contribution</h2>
+        <ul>
+        <li><a class="trigger-suggest" href="#">Suggest a Songfact / Artistfact</a></li>
+        <li><a href="http://forum.songfacts.com">Message Boards</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="large-3 columns">
+      <div class="wrapper">
+        <h2 class="pad-bot15">links</h2>
+        <ul>
+        <li><a href="http://calendar.songfacts.com/" target="_blank">Music History Calendar</a></li>
+        <li><a href="http://www.songplaces.com/" target="_blank">Song Places</a></li>
+        <li><a href="http://www.songfallacies.com/" target="_blank">Song Fallacies</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="large-3 columns">
+      <div class="wrapper">
+        <h2 class="pad-bot15">follow us</h2>
+        <ul>
+        <li class="fb"><a href="https://www.facebook.com/songfacts" target="_blank">Facebook</a></li>
+        <li class="tw"><a href="https://twitter.com/songfacts" target="_blank">Twitter</a></li>
+        <li class="yt"><a href="http://www.youtube.com/user/songfactsdotcom" target="_blank">Youtube</a></li>
+        <li class="em"><a href="#" class="trigger-newsletter">Newsletter</a></li>
+        </ul>
+      </div>
+    </div>
+
+</div>
+
+</div>
+</div>
+
+
+
+<footer class="row pad-bot15">
+<div class="large-12 columns">
+<hr />
+<p>&copy;2015 Songfacts<span class="trademark">&reg;</span>, LLC</p>
+</div>
+</footer>
+
+</section>
+<!-- FOOTER -->
+
+</div>
+<!-- MAIN CONTAINER -->
+<script src="/js/foundation.min.js"></script>
+<script src="/js/foundation/foundation.topbar.js"></script>
+<script>
+    $(document).foundation();
+</script>
+
+<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-259072-1', 'songfacts.com');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

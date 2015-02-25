@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>The Name of the Rose - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf17" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_Name_of_the_Rose" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=The_Name_of_the_Rose&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=The_Name_of_the_Rose&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/The_Name_of_the_Rose" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/The_Name_of_the_Rose" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Name_of_the_Rose","wgTitle":"The Name of the Rose","wgCurRevisionId":646155642,"wgRevisionId":646155642,"wgArticleId":186397,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing non-English-language text","Wikipedia articles needing style editing from July 2011","All articles needing style editing","Articles containing Latin-language text","Articles needing additional references from June 2010","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from January 2011","All articles with failed verification","Articles with failed verification from May 2014","Articles with unsourced statements from October 2011","Novels set in the 14th century","1980 novels","Books in semiotics","Historical crime novels","Italian novels adapted into films","Metafictional works","Novels by Umberto Eco","Novels set in Italy","Novels set in the Middle Ages","Philosophical novels","Philosophy of religion","Postmodern novels","Debut novels","Roman Catholic church in fiction","Works set in libraries","Works set in monasteries"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"The_Name_of_the_Rose","wgRelevantArticleId":186397,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"830":true,"831":true,"447":true,"2600":false,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":["de-de","de","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q172850"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf17/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-The_Name_of_the_Rose skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><i>The Name of the Rose</i></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about the 1980 Italian novel.  For the 1986 film adaptation, see <a href="/wiki/The_Name_of_the_Rose_(film)" title="The Name of the Rose (film)">The Name of the Rose (film)</a>.  For other uses, see <a href="/wiki/The_Name_of_the_Rose_(disambiguation)" title="The Name of the Rose (disambiguation)" class="mw-disambig">The Name of the Rose (disambiguation)</a>.</div>
+<table class="infobox vcard" style="width:22em">
+<caption style="font-style:italic;padding-bottom:0.2em;">The Name of the Rose</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:The_Name_of_the_Rose.jpg" class="image"><img alt="The Name of the Rose.jpg" src="//upload.wikimedia.org/wikipedia/en/e/eb/The_Name_of_the_Rose.jpg" width="206" height="335" data-file-width="206" data-file-height="335" /></a>
+<div>First edition (Italian)</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Author</th>
+<td><a href="/wiki/Umberto_Eco" title="Umberto Eco">Umberto Eco</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Original&#160;title</th>
+<td><span lang="" xml:lang=""><i>Il Nome della Rosa</i></span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Country</th>
+<td>Italy</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Language</th>
+<td>Italian</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Genre</th>
+<td><a href="/wiki/Historical_novel" title="Historical novel" class="mw-redirect">Historical novel</a>, <a href="/wiki/Mystery_fiction" title="Mystery fiction">Mystery</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Publisher</th>
+<td><a href="/wiki/Bompiani" title="Bompiani" class="mw-redirect">Bompiani</a> (Italy)<br />
+<a href="/wiki/Harcourt_(publisher)" title="Harcourt (publisher)">Harcourt</a> (US)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">
+<div style="padding:0.1em 0;line-height:1.2em;">Publication date</div>
+</th>
+<td>1980</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">
+<div style="padding:0.1em 0;line-height:1.2em;">Published&#160;in English</div>
+</th>
+<td>1983</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Media&#160;type</th>
+<td>Print (<a href="/wiki/Paperback" title="Paperback">Paperback</a>)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Pages</th>
+<td>512 pp</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a></th>
+<td><a href="/wiki/Special:BookSources/0-15-144647-4" title="Special:BookSources/0-15-144647-4">0-15-144647-4</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="/wiki/OCLC#Control_Numbers" title="OCLC"><abbr title="Online Computer Library Center number">OCLC</abbr></a></th>
+<td><a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/8954772">8954772</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Dewey_Decimal_Classification" title="Dewey Decimal Classification">Dewey Decimal</a></div>
+</th>
+<td>853/.914 19</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="/wiki/Library_of_Congress_Classification" title="Library of Congress Classification"><abbr title="Library of Congress Classification">LC&#160;Class</abbr></a></th>
+<td>PQ4865.C6 N613 1983</td>
+</tr>
+</table>
+<p><i><b>The Name of the Rose</b></i> is the <a href="/wiki/Debut_novel" title="Debut novel">first novel</a> by <a href="/wiki/Italy" title="Italy">Italian</a> author <a href="/wiki/Umberto_Eco" title="Umberto Eco">Umberto Eco</a>. It is a <a href="/wiki/Historical_novel" title="Historical novel" class="mw-redirect">historical</a> <a href="/wiki/Murder_mystery" title="Murder mystery" class="mw-redirect">murder mystery</a> set in an Italian <a href="/wiki/Monastery" title="Monastery">monastery</a> in the year 1327, an intellectual mystery combining <a href="/wiki/Semiotics" title="Semiotics">semiotics</a> in fiction, biblical analysis, medieval studies and literary theory. First published in <a href="/wiki/Italian_language" title="Italian language">Italian</a> in 1980 under the title <i><b>Il nome della rosa</b></i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_Italian" title="Help:IPA for Italian">[il Ënome Ëdella ËrÉza]</a></span>, it appeared in English in 1983, translated by <a href="/wiki/William_Weaver" title="William Weaver">William Weaver</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Plot_summary"><span class="tocnumber">1</span> <span class="toctext">Plot summary</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Characters"><span class="tocnumber">2</span> <span class="toctext">Characters</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Major_themes"><span class="tocnumber">3</span> <span class="toctext">Major themes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#The_Aedificium.27s_Labyrinth"><span class="tocnumber">4</span> <span class="toctext">The Aedificium's Labyrinth</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Title"><span class="tocnumber">5</span> <span class="toctext">Title</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Allusions"><span class="tocnumber">6</span> <span class="toctext">Allusions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#To_other_works"><span class="tocnumber">6.1</span> <span class="toctext">To other works</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#To_actual_history_and_geography"><span class="tocnumber">6.2</span> <span class="toctext">To actual history and geography</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Adaptations"><span class="tocnumber">7</span> <span class="toctext">Adaptations</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes"><span class="tocnumber">9</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Plot_summary">Plot summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Name_of_the_Rose&amp;action=edit&amp;section=1" title="Edit section: Plot summary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Franciscan" title="Franciscan">Franciscan friar</a> <a href="/wiki/William_of_Baskerville" title="William of Baskerville">William of Baskerville</a> and his <a href="/wiki/Novice#Christianity" title="Novice">novice</a> Adso of <a href="/wiki/Stift_Melk" title="Stift Melk" class="mw-redirect">Melk</a> travel to a <a href="/wiki/Benedictine" title="Benedictine" class="mw-redirect">Benedictine</a> monastery in Northern Italy to attend a <a href="/wiki/Disputation" title="Disputation">theological disputation</a>. As they arrive, the monastery is disturbed by a suicide. As the story unfolds, several other monks die under mysterious circumstances. William is tasked by the <a href="/wiki/Abbot" title="Abbot">abbot</a> of the monastery to investigate the deaths, and fresh clues with each murder victim lead William to dead ends and new clues. The protagonists explore a labyrinthine medieval library, discuss the subversive power of laughter, and come face to face with the <a href="/wiki/Medieval_Inquisition" title="Medieval Inquisition">Inquisition</a>, a reaction to the <a href="/wiki/Waldensians" title="Waldensians">Waldensians</a>, a movement which was started in the 12th century and advocated an adherence to the Gospel as taught by Jesus and his disciples. William's innate curiosity and highly developed powers of logic and deduction provide the keys to unraveling the mysteries of the abbey.</p>
+<h2><span class="mw-headline" id="Characters">Characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Name_of_the_Rose&amp;action=edit&amp;section=2" title="Edit section: Characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Primary characters</dt>
+</dl>
+<ul>
+<li><a href="/wiki/William_of_Baskerville" title="William of Baskerville">William of Baskerville</a>âmain protagonist, a Franciscan friar</li>
+<li>Adso of <a href="/wiki/Melk" title="Melk">Melk</a>ânarrator, <a href="/wiki/Benedictine" title="Benedictine" class="mw-redirect">Benedictine</a> novice accompanying William</li>
+</ul>
+<dl>
+<dt>At the monastery</dt>
+</dl>
+<ul>
+<li>Abo of <a href="/wiki/Fossanova_Abbey" title="Fossanova Abbey">Fossanova</a>âthe abbot of the Benedictine monastery</li>
+<li>Severinus of <a href="/wiki/Sankt_Wendel" title="Sankt Wendel">Sankt Wendel</a>âherbalist who helps William</li>
+<li>Malachi of <a href="/wiki/Hildesheim" title="Hildesheim">Hildesheim</a>âlibrarian</li>
+<li>Berengar of <a href="/wiki/Arundel" title="Arundel">Arundel</a>âassistant librarian</li>
+<li>Adelmo of <a href="/wiki/Otranto" title="Otranto">Otranto</a>â<a href="/wiki/Limner" title="Limner">illuminator</a>, novice</li>
+<li>Venantius of <a href="/w/index.php?title=Salvemec&amp;action=edit&amp;redlink=1" class="new" title="Salvemec (page does not exist)">Salvemec</a>âtranslator of manuscripts</li>
+<li>Benno of <a href="/wiki/Uppsala" title="Uppsala">Uppsala</a>âstudent of rhetoric</li>
+<li>Alinardo of <a href="/wiki/Grottaferrata" title="Grottaferrata">Grottaferrata</a>âeldest monk</li>
+<li>Jorge of <a href="/wiki/Burgos" title="Burgos">Burgos</a>âelderly blind librarian</li>
+<li>Remigio of <a href="/wiki/Varazze" title="Varazze">Varagine</a>âcellarer</li>
+<li>Salvatore of <a href="/wiki/Montferrat" title="Montferrat">Montferrat</a>âmonk, associate of Remigio</li>
+<li>Nicholas of <a href="/wiki/Morimondo" title="Morimondo">Morimondo</a>âglazier</li>
+<li>Aymaro of <a href="/wiki/Alessandria" title="Alessandria">Alessandria</a>âgossipy, sneering monk</li>
+<li>Pacificus of <a href="/wiki/Tivoli,_Lazio" title="Tivoli, Lazio">Tivoli</a></li>
+<li>Peter of <a href="/wiki/Sant%27Albano_Stura" title="Sant'Albano Stura">SantâAlbano</a></li>
+<li>Waldo of <a href="/wiki/Hereford" title="Hereford">Hereford</a></li>
+<li>Magnus of <a href="/wiki/Iona" title="Iona">Iona</a></li>
+<li>Patrick of <a href="/wiki/Clonmacnoise" title="Clonmacnoise">Clonmacnois</a></li>
+<li>Rabano of <a href="/wiki/Toledo,_Spain" title="Toledo, Spain">Toledo</a></li>
+</ul>
+<dl>
+<dt>Outsiders</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Ubertino_of_Casale" title="Ubertino of Casale">Ubertino of</a> <a href="/wiki/Casale_Monferrato" title="Casale Monferrato">Casale</a>âFranciscan friar in exile, friend of William</li>
+<li><a href="/wiki/Michael_of_Cesena" title="Michael of Cesena">Michael of Cesena</a>âleader of Spiritual Franciscans</li>
+<li><a href="/wiki/Bernard_Gui" title="Bernard Gui">Bernard Gui</a>âInquisitor</li>
+<li><a href="/wiki/Bertrand_du_Pouget" title="Bertrand du Pouget">Bertrand del Poggetto</a>âCardinal and leader of the Papal legation</li>
+<li>Peasant girl from the village below the monastery</li>
+</ul>
+<h2><span class="mw-headline" id="Major_themes">Major themes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Name_of_the_Rose&amp;action=edit&amp;section=3" title="Edit section: Major themes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-style ambox-essay-like" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>is written like a <a href="/wiki/Wikipedia:What_Wikipedia_is_not#ESSAY" title="Wikipedia:What Wikipedia is not">personal reflection or opinion essay</a> that states the Wikipedia editor's particular <a href="/wiki/Feeling" title="Feeling">feelings</a> about a topic, rather than the opinions of experts</b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=The_Name_of_the_Rose&amp;action=edit">help improve it</a> by rewriting it in an <a href="/wiki/Wikipedia:Encyclopedic_style" title="Wikipedia:Encyclopedic style" class="mw-redirect">encyclopedic style</a>.</span> <small><i>(July 2011)</i></small></span></td>
+</tr>
+</table>
+<p>Eco, being a <a href="/wiki/Semiotics" title="Semiotics">semiotician</a>, is hailed by semiotics students who like to use his novel to explain their discipline. The techniques of telling stories within stories, partial fictionalization, and purposeful linguistic ambiguity are all apparent. The solution to the central murder mystery hinges on the contents of <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a>'s <a href="/wiki/Poetics_(Aristotle)" title="Poetics (Aristotle)">book on Comedy</a>, of which <a href="/wiki/Lost_book" title="Lost book" class="mw-redirect">no copy survives</a>; Eco nevertheless plausibly describes it and has his characters react to it appropriately in their medieval setting â which, though realistically described, is partly based on Eco's scholarly guesses and imagination. It is virtually impossible to untangle fact / history from fiction / conjecture in the novel. Through the motive of this lost and possibly suppressed book which might have aestheticized the farcical, the unheroic and the skeptical, Eco also makes an ironically slanted plea for tolerance and against dogmatic or self-sufficient metaphysical truths â an angle which reaches the surface in the final chapters.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>Umberto Eco is a significant <a href="/wiki/Postmodern" title="Postmodern" class="mw-redirect">postmodernist</a> theorist and <i>The Name of the Rose</i> is a postmodern novel.<sup id="cite_ref-butler_2-0" class="reference"><a href="#cite_note-butler-2"><span>[</span>2<span>]</span></a></sup> The quote in the novel, "books always speak of other books, and every story tells a story that has already been told," refers to a postmodern idea that all texts perpetually refer to other texts, rather than external reality.<sup id="cite_ref-butler_2-1" class="reference"><a href="#cite_note-butler-2"><span>[</span>2<span>]</span></a></sup> In true postmodern style, the novel ends with uncertainty: "very little is discovered and the detective is defeated" (postscript). William of Baskerville solves the mystery in part by mistake; he thought there was a pattern but it in fact, numerous "patterns" were involved and combined with haphazard mistakes by the killers. William concludes in fatigue that there "was no pattern". Thus Eco turns the modernist quest for finality, certainty and meaning on its head, leaving the overall plot partly the result of accident and arguably without meaning.<sup id="cite_ref-butler_2-2" class="reference"><a href="#cite_note-butler-2"><span>[</span>2<span>]</span></a></sup> Even the novel's title alludes to the possibility of many meanings or of nebulous meaning; Eco saying in the Postscript he chose the title "because the rose is a symbolic figure so rich in meanings that by now it hardly has any meaning left".<sup id="cite_ref-postscript_3-0" class="reference"><a href="#cite_note-postscript-3"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="The_Aedificium.27s_Labyrinth">The Aedificium's Labyrinth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Name_of_the_Rose&amp;action=edit&amp;section=4" title="Edit section: The Aedificium&#039;s Labyrinth">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The mystery revolves around the abbey library, situated in a fortified tower called the Aedificium. This structure has three floors - the ground floor contains the kitchen and <a href="/wiki/Refectory" title="Refectory">refectory</a>, the first floor the <a href="/wiki/Scriptorium" title="Scriptorium">scriptorium</a> and the top floor is occupied by the library.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> The two lower floors are open to all, while only the librarian may enter the last. A catalogue of books is kept in the scriptorium, where <a href="/wiki/Manuscript" title="Manuscript">manuscripts</a> are read and copied. A monk who wishes to read a book would send a request to the librarian, who, if he thought the request justified, would bring it to the scriptorium. Finally, the library is in the form of a labyrinth, whose secret only the librarian and the assistant librarian know. <sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>The Aedificium has four towers at the four cardinal points, and the top floor of each has seven rooms on the outside, surrounding a central room. There are another eight rooms on the outer walls, and sixteen rooms in the centre of the maze. Thus, the library has a total of fifty-six rooms.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> Each room has a scroll containing a verse from the <a href="/wiki/Book_of_Revelation" title="Book of Revelation">Book of Revelation</a>. The first letter of the verse is the letter corresponding to that room.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> The letters of adjacent rooms, read together, give the name of a region (e.g. <a href="/wiki/Hibernia" title="Hibernia">Hibernia</a> in the West tower), and those rooms contain books from that region. The geographical regions are:</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Aedificium_Labyrinth.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aedificium_Labyrinth.svg/220px-Aedificium_Labyrinth.svg.png" width="220" height="186" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aedificium_Labyrinth.svg/330px-Aedificium_Labyrinth.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aedificium_Labyrinth.svg/440px-Aedificium_Labyrinth.svg.png 2x" data-file-width="2556" data-file-height="2159" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Aedificium_Labyrinth.svg" class="internal" title="Enlarge"></a></div>
+The aedificium's labyrinth</div>
+</div>
+</div>
+<ul>
+<li><i>Fons Adae</i>, 'The earthly paradise' contains Bibles and commentaries, East Tower</li>
+<li><i>Acaia</i>, Greece, Northeast</li>
+<li><i>Iudaia</i>, Judea, East</li>
+<li><i>Aegyptus</i>, Egypt, Southeast</li>
+<li><i>Leones</i>, 'South' contains books from Africa, South Tower</li>
+<li><i>Yspania</i>, Spain, Sothwest outer</li>
+<li><i>Roma</i>, Italy, Southwest inner</li>
+<li><i>Hibernia</i>, Ireland, West Tower</li>
+<li><i>Gallia</i>, France, Northwest</li>
+<li><i>Germania</i>, Germany, North</li>
+<li><i>Anglia</i>, England, North Tower</li>
+</ul>
+<p>Two rooms have no lettering - the easternmost room, which has an alter, and the central room on the South Tower, the 'finis Africae' (tip of Africa) which contains the most heavily guarded books, and can only be entered through a secret door. The entrance to the library is in the central room of the East Tower, which is connected to the scriptorium by a staircase.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Title">Title</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Name_of_the_Rose&amp;action=edit&amp;section=5" title="Edit section: Title">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Much attention has been paid to the mystery of what the title of the novel refers to. In fact, Eco has stated that his intention was to find a "totally neutral title".<sup id="cite_ref-postscript_3-1" class="reference"><a href="#cite_note-postscript-3"><span>[</span>3<span>]</span></a></sup> In one version of the story, when he had finished writing the novel, Eco hurriedly suggested some ten names for it and asked a few of his friends to choose one. They chose <i>The Name of the Rose</i>.<sup id="cite_ref-onLiterature_9-0" class="reference"><a href="#cite_note-onLiterature-9"><span>[</span>9<span>]</span></a></sup> In another version of the story, Eco had wanted the neutral title <i>Adso of Melk</i>, but that was vetoed by his publisher, and then the title <i>The Name of the Rose</i> "came to me virtually by chance."</p>
+<p>The book's last line, <span lang="la" xml:lang="la"><i>"Stat rosa pristina nomine, nomina nuda tenemus"</i></span> translates as: "The primordial rose abides only in its name; we hold names stripped." The general sense, as Eco pointed out,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> was that from the beauty of the past, now disappeared, we hold only the name. In this novel, the lost "rose" could be seen as <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a>'s <a href="/wiki/Poetics_(Aristotle)" title="Poetics (Aristotle)">book on comedy</a> (now forever lost), the exquisite library now destroyed, or the beautiful peasant girl now dead. We only know them by the description Adso provides us â we only have the name of the book on comedy, not its contents. As Adso points out at the end of the fifth day, he does not even know the name of the peasant girl to lament her. Does this mean she does not endure at all?</p>
+<p>Perhaps this is a deliberate mis-translation. This quote has also been translated as "Yesterday's Rome stands only in name, we hold only empty names". This line is a verse by twelfth century monk <a href="/wiki/Bernard_of_Cluny" title="Bernard of Cluny">Bernard of Cluny</a> (also known as Bernard of Morlaix). Medieval manuscripts of this line are not in agreement (but the best are secure for Roma). Roma here introduces a "false" quantity, with a short-o for the Classical long-o; thus, a foolish scribe, or a mere fool, wrote the "Classically impeccable" rosa, which betrays the overall context and flexible prosody of Bernard. Eco quotes one Medieval variant verbatim,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> but Eco was not aware at the time of the text more commonly printed in modern editions, in which the reference is to <a href="/wiki/Rome" title="Rome">Rome</a> (<i>Roma</i>), not to a rose (<i>rosa</i>).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> The alternative text, with its context, runs: <i>Nunc ubi Regulus aut ubi Romulus aut ubi Remus? [Remus here also has a "false" long-e]/ Stat Roma pristina nomine, nomina nuda tenemus</i>. This translates as "Where now is Regulus, or Romulus, or Remus? / Primordial Rome abides only in its name; we hold names stripped (of presence)". See the new excellent source edition of 2009: Bernard of Cluny, De contemptu mundi: Une vision du monde vers 1144, ed. and trans. A. Cresson, TÃ©moins de notre histoire (Turnhout, 2009), p.&#160;126 (bk. 1, 952), and note thereto p.&#160;257.</p>
+<p>Also the title of the book has been inspired by a poem written by the Mexican poet and mystic <a href="/wiki/Nun" title="Nun">Sor</a> <a href="/wiki/Juana_In%C3%A9s_de_la_Cruz" title="Juana InÃ©s de la Cruz">Juana InÃ©s de la Cruz</a> (1651â1695):</p>
+<blockquote>
+<p>Rosa que al prado, encarnada,<br />
+te ostentas presuntuosa<br />
+de grana y carmÃ­n baÃ±ada:<br />
+campa lozana y gustosa;<br />
+pero no, que siendo hermosa<br />
+tambiÃ©n serÃ¡s desdichada.</p>
+</blockquote>
+<p>which appears in Eco's <i>Postscript to the Name of the Rose</i>, and is translated into English in "Note 1" of that book as:</p>
+<blockquote>
+<p>Red rose growing in the meadow,<br />
+you vaunt yourself bravely<br />
+bathed in crimson and carmine:<br />
+a rich and fragrant show.<br />
+But no: Being fair,<br />
+You will be unhappy soon.<sup id="cite_ref-postscript_3-2" class="reference"><a href="#cite_note-postscript-3"><span>[</span>3<span>]</span></a></sup></p>
+</blockquote>
+<h2><span class="mw-headline" id="Allusions">Allusions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Name_of_the_Rose&amp;action=edit&amp;section=6" title="Edit section: Allusions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-style ambox-essay-like" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>is written like a <a href="/wiki/Wikipedia:What_Wikipedia_is_not#ESSAY" title="Wikipedia:What Wikipedia is not">personal reflection or opinion essay</a> that states the Wikipedia editor's particular <a href="/wiki/Feeling" title="Feeling">feelings</a> about a topic, rather than the opinions of experts</b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=The_Name_of_the_Rose&amp;action=edit">help improve it</a> by rewriting it in an <a href="/wiki/Wikipedia:Encyclopedic_style" title="Wikipedia:Encyclopedic style" class="mw-redirect">encyclopedic style</a>.</span> <small><i>(July 2011)</i></small></span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=The_Name_of_the_Rose&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(June 2010)</i></small></span></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="To_other_works">To other works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Name_of_the_Rose&amp;action=edit&amp;section=7" title="Edit section: To other works">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The historical novel with medieval time setting was re-discovered in Italy a short time before by <a href="/wiki/Italo_Alighiero_Chiusano" title="Italo Alighiero Chiusano">Italo Alighiero Chiusano</a>, with his <i><a href="/wiki/L%27ordalia" title="L'ordalia">L'ordalia</a></i>. The similarities between the two novels (time setting, the fact that both are <i><a href="/wiki/Bildungsroman" title="Bildungsroman">bildungsroman</a></i> [coming-of-age novels], the novice main character, and the older monk mentor), and the notoriety that <i>Lâ²ordalia</i> had in 1979,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> of which an expert on literature such as Umberto Eco was definitely aware, making <i>L'ordalia</i> likely one of the first sources of inspiration of <i>The Name of the Rose</i>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2011)">citation needed</span></a></i>]</sup></p>
+<p>The name of the central character, William of Baskerville, alludes both to the fictional detective <a href="/wiki/Sherlock_Holmes" title="Sherlock Holmes">Sherlock Holmes</a> (compare <i><a href="/wiki/The_Hound_of_the_Baskervilles" title="The Hound of the Baskervilles">The Hound of the Baskervilles</a></i> â also, Adso's description of William in the beginning of the book resembles, almost word for word, Dr. Watson's description of Sherlock Holmes when he first makes his acquaintance in <i><a href="/wiki/A_Study_in_Scarlet" title="A Study in Scarlet">A Study in Scarlet</a></i>) and to <a href="/wiki/William_of_Ockham" title="William of Ockham">William of Ockham</a> (see the next section).</p>
+<p>The name of the narrator, his apprentice Adso of Melk is among other things a pun on Simplicio from <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo Galilei</a>'s <i>Dialogue</i>; <b>Adso</b> = <b>ad</b> <b>S</b>implici<b>o</b> ("to Simplicio"). Adso's putative place of origin, Melk, is the site of a famous medieval library, at <a href="/wiki/Melk_Abbey" title="Melk Abbey">Melk Abbey</a>.</p>
+<p>The blind librarian Jorge from <a href="/wiki/Burgos" title="Burgos">Burgos</a> is a nod to <a href="/wiki/Argentina" title="Argentina">Argentinian</a> writer <a href="/wiki/Jorge_Luis_Borges" title="Jorge Luis Borges">Jorge Luis Borges</a>, a major influence on Eco. Borges was blind during his later years and was also director of <a href="/wiki/National_Library_of_the_Argentine_Republic" title="National Library of the Argentine Republic">Argentina's national library</a>; his <a href="/wiki/Short_story" title="Short story">short story</a> "<a href="/wiki/The_Library_of_Babel" title="The Library of Babel">The Library of Babel</a>" is a clear inspiration for the secret library in Eco's book: "The Library is composed of an indefinite, perhaps infinite, number of <a href="/wiki/Hexagon" title="Hexagon">hexagonal</a> galleries, with enormous ventilation shafts in the middle, encircled by very low railings." Another of Borges's stories, "<a href="/wiki/The_Secret_Miracle" title="The Secret Miracle">The Secret Miracle</a>", features a blind librarian. In addition, a number of other themes drawn from various of Borges's works are used throughout <i>The Name of the Rose</i>: <a href="/wiki/Labyrinth" title="Labyrinth">labyrinths</a>, mirrors, sects and obscure manuscripts and books.</p>
+<p>The ending also owes a debt to Borges's "<a href="/wiki/Death_and_the_Compass" title="Death and the Compass">Death and the Compass</a>", in which a detective proposes a theory for the behavior of a murderer. The murderer learns of the theory and uses it to trap the detective. In <i>The Name of the Rose</i>, the librarian Jorge uses William's belief that the murders are based on the <a href="/wiki/Revelation_of_John" title="Revelation of John" class="mw-redirect">Revelation of John</a> to misdirect William, though in Eco's tale, the detective succeeds in solving the crime.</p>
+<p>The "poisoned page" gimmick is taken from the film <i><a href="/wiki/Il_gioved%C3%AC" title="Il giovedÃ¬" class="mw-redirect">Il giovedÃ¬</a></i> (1963) by Italian director <a href="/wiki/Dino_Risi" title="Dino Risi">Dino Risi</a>.<sup id="cite_ref-Lolito_14-0" class="reference"><a href="#cite_note-Lolito-14"><span>[</span>14<span>]</span></a></sup></p>
+<p>Eco seems also to have been aware of <a href="/wiki/Rudyard_Kipling" title="Rudyard Kipling">Rudyard Kipling</a>'s short story <i><a href="/wiki/Debits_and_Credits_(Kipling)" title="Debits and Credits (Kipling)">The Eye of Allah</a></i>, which touches on many of the same themes â optics, manuscript-illumination, music, medicine, priestly authority and the Church's attitude to scientific discovery and independent thought â and which includes a character named John of <a href="/wiki/Burgos" title="Burgos">Burgos</a>.</p>
+<p>Eco spent some time at the <a href="/wiki/University_of_Toronto" title="University of Toronto">University of Toronto</a> while writing the book. Throughout the book, there are <a href="/wiki/Latin" title="Latin">Latin</a> quotes, authentic and apocryphal. There are also discussions of the philosophy of <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a> and of a variety of <a href="/wiki/Millenarism" title="Millenarism" class="mw-redirect">millenarist</a> heresies, especially those associated with the <a href="/wiki/Fraticelli" title="Fraticelli">fraticelli</a>. Numerous other philosophers are referenced throughout the book, often anachronistically, including <a href="/wiki/Wittgenstein" title="Wittgenstein" class="mw-redirect">Wittgenstein</a>.</p>
+<h3><span class="mw-headline" id="To_actual_history_and_geography">To actual history and geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Name_of_the_Rose&amp;action=edit&amp;section=8" title="Edit section: To actual history and geography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:602px;"><a href="/wiki/File:Sacra_di_San_Michele_e_monti_Valle_di_Susa.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sacra_di_San_Michele_e_monti_Valle_di_Susa.jpg/600px-Sacra_di_San_Michele_e_monti_Valle_di_Susa.jpg" width="600" height="265" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sacra_di_San_Michele_e_monti_Valle_di_Susa.jpg/900px-Sacra_di_San_Michele_e_monti_Valle_di_Susa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/7/7f/Sacra_di_San_Michele_e_monti_Valle_di_Susa.jpg 2x" data-file-width="1087" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sacra_di_San_Michele_e_monti_Valle_di_Susa.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Sacra_di_San_Michele" title="Sacra di San Michele">Saint Michael's Abbey</a> and the Alps of <a href="/wiki/Susa_Valley" title="Susa Valley">Susa Valley</a>, <a href="/wiki/Piedmont" title="Piedmont">Piedmont</a></div>
+</div>
+</div>
+<p>William of Ockham, who lived during the time at which the novel is set, first put forward the principle known as "<a href="/wiki/Ockham%27s_Razor" title="Ockham's Razor" class="mw-redirect">Ockham's Razor</a>": often summarised as the <i>dictum</i> that one should always accept as most-likely the simplest explanation that accounts for all the facts (a method used by William of Baskerville in the novel).</p>
+<p>The book describes monastic life in the 14th century. The action takes place at a <a href="/wiki/Benedictine" title="Benedictine" class="mw-redirect">Benedictine</a> abbey during the controversy surrounding the <a href="/wiki/Apostolic_poverty" title="Apostolic poverty">Apostolic poverty</a> between branches of <a href="/wiki/Franciscans" title="Franciscans" class="mw-redirect">Franciscans</a> and <a href="/wiki/Dominican_Order" title="Dominican Order">Dominicans</a>; <i>see <a href="/wiki/Franciscan#Renewed_controversy_on_the_question_of_poverty" title="Franciscan">Renewed controversy on the question of poverty</a></i>. The setting was inspired by monumental <a href="/wiki/Sacra_di_San_Michele" title="Sacra di San Michele">Saint Michael's Abbey</a> in <a href="/wiki/Susa_Valley" title="Susa Valley">Susa Valley</a>, <a href="/wiki/Piedmont" title="Piedmont">Piedmont</a> and visited by Umberto Eco.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (May 2014)">not in citation given</span></a></i>]</sup> The Spirituals abhor wealth, bordering on the <a href="/wiki/Apostolics" title="Apostolics" class="mw-redirect">Apostolics</a> or <a href="/wiki/Dulcinian" title="Dulcinian">Dulcinian</a> <a href="/wiki/Heresy" title="Heresy">heresy</a>. The book highlights this tension that existed within <a href="/wiki/Christianity" title="Christianity">Christianity</a> during the medieval era: the Spirituals, one faction within the Franciscan order, demanded that the Church should abandon all wealth, and some heretical sects began killing the well-to-do, while the majority of the Franciscans and the clergy took to a broader interpretation of the gospel.</p>
+<p>A number of the characters, such as the <a href="/wiki/Inquisitor" title="Inquisitor">Inquisitor</a> <a href="/wiki/Bernard_Gui" title="Bernard Gui">Bernard Gui</a>, <a href="/wiki/Ubertino_of_Casale" title="Ubertino of Casale">Ubertino of Casale</a> and the <a href="/wiki/Minorite" title="Minorite" class="mw-redirect">Minorite</a> <a href="/wiki/Michael_of_Cesena" title="Michael of Cesena">Michael of Cesena</a>, are historical figures, though the novel's characterization of them is not always historically accurate. <a href="/wiki/Dante_Alighieri" title="Dante Alighieri">Dante Alighieri</a> and his <i>Comedy</i> are mentioned once in passing. However, Eco notes in a companion book that he had to site the monastery in mountains so it would experience early frosts, in order for that action to take place at a time when Bernard Gui could have been in the area. For the purposes of the plot, he needed a quantity of pig blood, but at that time pigs were not usually slaughtered until a frost had arrived. Later in the year Gui was known to have been away from Italy and could not have participated in the events at the monastery.</p>
+<p>Part of the dialogue in the inquisition scene of the novel is lifted bodily from the historical Bernard's own Manual for Inquisitors, the <i>Practica Inquisitionis Heretice Pravitatis</i>, for example the dialogue: "What do you believe?" "What do you believe, my Lord?" "I believe in all that the Creed teaches." "So I believe, My Lord"; whereupon Bernard points out that what Remigius the cellarer is saying is not that <i>he</i> (Remigius himself) believes in the Creed, but that he believes that <i>Bernard</i> believes in the Creed. This is itself an example given by Bernard in his book to warn inquisitors against the slipperiness and manipulation of words by heretics. This usage of Bernard's own book by Eco is self-consciously of a piece with his perspective that "books always speak of other books"; in this case, the author makes his character Bernard speak the historical Bernard's own words literally as the latter's text becomes part of the drama played out in the novel.</p>
+<p>Adso's description of the portal of the monastery is recognisably that of the portal of the church at <a href="/wiki/Moissac" title="Moissac">Moissac, France</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2011)">citation needed</span></a></i>]</sup> There is also a quick reference to a famous "Umberto of Bologna" â Umberto Eco himself.</p>
+<h2><span class="mw-headline" id="Adaptations">Adaptations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Name_of_the_Rose&amp;action=edit&amp;section=9" title="Edit section: Adaptations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a href="/wiki/The_Name_of_the_Rose_(film)" title="The Name of the Rose (film)">The Name of the Rose</a></i> was made into a <a href="/wiki/The_Name_of_the_Rose_(film)" title="The Name of the Rose (film)">film</a> in 1986, directed by <a href="/wiki/Jean-Jacques_Annaud" title="Jean-Jacques Annaud">Jean-Jacques Annaud</a> and starring <a href="/wiki/Sean_Connery" title="Sean Connery">Sean Connery</a> as <a href="/wiki/William_of_Baskerville" title="William of Baskerville">William of Baskerville</a> and <a href="/wiki/Christian_Slater" title="Christian Slater">Christian Slater</a> as Adso.</li>
+<li>A play adaptation by Grigore GonÅ£a had its premiere at <a href="/wiki/National_Theatre_Bucharest" title="National Theatre Bucharest">National Theatre Bucharest</a> in 1998, starring <a href="/wiki/Radu_Beligan" title="Radu Beligan">Radu Beligan</a>, <a href="/wiki/Gheorghe_Dinic%C4%83" title="Gheorghe DinicÄ">Gheorghe DinicÄ</a> and <a href="/wiki/Ion_Cojar" title="Ion Cojar">Ion Cojar</a>.</li>
+<li>A 2 part radio drama based on the novel and adapted by <a href="/wiki/Chris_Dolan" title="Chris Dolan">Chris Dolan</a> was broadcast on <a href="/wiki/BBC_Radio_4" title="BBC Radio 4">BBC Radio 4</a> on the 16th and 23 June 2006.</li>
+<li>A radio <a href="/wiki/Parody" title="Parody">parody</a> inspired by the film adaptation was made as part of the <i>CrÃ¨me de la Crime</i> series by <a href="/wiki/Punt_and_Dennis" title="Punt and Dennis">Punt and Dennis</a>, also on <a href="/wiki/BBC_Radio_4" title="BBC Radio 4">BBC Radio 4</a>.</li>
+<li>A <a href="/wiki/Spain" title="Spain">Spanish</a> <a href="/wiki/Video_game" title="Video game">video game</a> adaptation was released in 1987 under the title <i><a href="/wiki/La_Abad%C3%ADa_del_Crimen" title="La AbadÃ­a del Crimen">La AbadÃ­a del Crimen</a></i> (<i>The Abbey of Crime</i>).</li>
+<li>A <a href="/wiki/Boardgame" title="Boardgame" class="mw-redirect">boardgame</a> with the same name has been published in 2008 by <a href="/wiki/Ravensburger" title="Ravensburger">Ravensburger</a>. The game is written by <a href="/w/index.php?title=Stephan_Feld&amp;action=edit&amp;redlink=1" class="new" title="Stephan Feld (page does not exist)">Stephan Feld</a> and is based on the events of the book.</li>
+<li>An <a href="/wiki/Graphic_adventure_game" title="Graphic adventure game">adventure</a> <a href="/wiki/Video_game" title="Video game">video game</a> adaptation titled "Murder in the Abbey" developed by <a href="/w/index.php?title=Alcachofa_Soft&amp;action=edit&amp;redlink=1" class="new" title="Alcachofa Soft (page does not exist)">Alcachofa Soft</a> and published in 2008 by <a href="/wiki/DreamCatcher_Interactive" title="DreamCatcher Interactive">DreamCatcher Interactive</a>.</li>
+<li>The British Melodic Hard Rock band <a href="/wiki/Ten_(band)" title="Ten (band)">Ten</a> released an album entitled <a href="/wiki/The_Name_of_the_Rose_(album)" title="The Name of the Rose (album)">The Name of the Rose</a> in 1996, the eponymus track of which is loosely based around some of the philosophical concepts of the novel.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Name_of_the_Rose&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint portal tright" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px">
+<tr style="vertical-align:middle">
+<td style="text-align:center"><a href="/wiki/File:Book_collection.jpg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Book_collection.jpg/32px-Book_collection.jpg" width="32" height="25" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Book_collection.jpg/48px-Book_collection.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Book_collection.jpg/64px-Book_collection.jpg 2x" data-file-width="299" data-file-height="238" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Novels" title="Portal:Novels">Novels portal</a></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a href="/wiki/Historical_whodunnit" title="Historical whodunnit" class="mw-redirect">Historical whodunnit</a></li>
+<li><a href="/wiki/Le_Monde%27s_100_Books_of_the_Century" title="Le Monde's 100 Books of the Century"><i>Le Monde'</i>s 100 Books of the Century</a></li>
+<li><a href="/wiki/The_Name_of_the_Rose_(film)" title="The Name of the Rose (film)">The Name of the Rose (film)</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Name_of_the_Rose&amp;action=edit&amp;section=11" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="/wiki/Lars_Gustafsson" title="Lars Gustafsson">Lars Gustafsson</a>, postscript to Swedish edition <i>The Name of the Rose</i></span></li>
+<li id="cite_note-butler-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-butler_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-butler_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-butler_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="/wiki/Christopher_Butler" title="Christopher Butler">Christopher Butler</a>. <i>Postmodernism: A Very Short Introduction</i>. <a href="/wiki/OUP" title="OUP" class="mw-redirect">OUP</a>, 2002. <a href="/wiki/Special:BookSources/9780192802392" class="internal mw-magiclink-isbn">ISBN 978-0-19-280239-2</a> â see pages 32 and 126 for discussion of the novel.</span></li>
+<li id="cite_note-postscript-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-postscript_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-postscript_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-postscript_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">"Postscript to the Name of the Rose", printed in <i>The Name of the Rose</i> (Harcourt, Inc., 1984), p. 506.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">First Day, Terce, paragraph 37</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">First Day, Terce, paragraph 67</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Third Day, Vespers, paragraphs 50-56</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Third Day, Vespers, paragraphs 64-68</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Fourth Day, After Compline</span></li>
+<li id="cite_note-onLiterature-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-onLiterature_9-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Umberto_Eco" title="Umberto Eco">Umberto Eco</a>. <i>On Literature</i>. Secker &amp; Warburg, 2005, p. 129-130. <a href="/wiki/Special:BookSources/0436210177" class="internal mw-magiclink-isbn">ISBN 0-436-21017-7</a>.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20070121024505/http://www.umbertoeco.com/id-39/UmbertEco_Name_of_the_Rose_Umberto_Eco.html">"Name of the Rose: Title and Last Line"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.umbertoeco.com/id-39/UmbertEco_Name_of_the_Rose_Umberto_Eco.html">the original</a> on 2007-01-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-03-15</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Name+of+the+Rose&amp;rft.btitle=Name+of+the+Rose%3A+Title+and+Last+Line&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.umbertoeco.com%2Fid-39%2FUmbertEco_Name_of_the_Rose_Umberto_Eco.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Eco would have found this reading in, for example, the standard text edited by H.C. Hoskier (London 1929); only the Hiersemann manuscript preserves "Roma". For the verse quoted in this form before Eco, see e.g. Alexander Cooke, <i>An essay on the origin, progress, and decline of rhyming Latin verse</i> (1828), <a rel="nofollow" class="external text" href="http://books.google.com/books?id=u2_DthwIpvsC&amp;pg=PA59&amp;dq=%22stat+rosa+pristina%22">p. 59</a>, and Hermann Adalbert Daniel, <i>Thesaurus hymnologicus sive hymnorum canticorum sequentiarum</i> (1855), <a rel="nofollow" class="external text" href="http://books.google.com/books?id=6ScPAAAAIAAJ&amp;pg=PA290&amp;dq=%22stat+rosa+pristina%22">p. 290</a>. See further Pepin, Ronald E. "Adso's closing line in The Name of the Rose." <i>American notes and queries</i> (MayâJune 1986): 151â152.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">As Eco wrote in <a rel="nofollow" class="external text" href="http://www.themodernword.com/eco/eco_author.html">"The Author and his Interpreters"</a> "Thus the title of my novel, had I come across another version of Morlay's poem, could have been <i>The Name of Rome</i> (thus acquiring fascist overtones)".</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://lists.peacelink.it/nonviolenza/2008/09/msg00040.html">"Letture", n. 614, February 2005: <i>Memoria. Marco Beck ricorda Italo Alighiero Chiusano</i></a></span></li>
+<li id="cite_note-Lolito-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lolito_14-0">^</a></b></span> <span class="reference-text">notes to <span class="citation book">Daniele Luttazzi. <i>Lolito</i>. pp.&#160;514â15.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Name+of+the+Rose&amp;rft.au=Daniele+Luttazzi&amp;rft.aulast=Daniele+Luttazzi&amp;rft.btitle=Lolito&amp;rft.genre=book&amp;rft.pages=514-15&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.avosacra.it/sito/curiosita_sulla_sacra.html">http://www.avosacra.it/sito/curiosita_sulla_sacra.html</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Name_of_the_Rose&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="citation book">Eco, Umberto (1983). <i>The Name of the Rose</i>. Harcourt.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Name+of+the+Rose&amp;rft.au=Eco%2C+Umberto&amp;rft.aufirst=Umberto&amp;rft.aulast=Eco&amp;rft.btitle=The+Name+of+the+Rose&amp;rft.date=1983&amp;rft.genre=book&amp;rft.pub=Harcourt&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Coletti, Theresa (1988). <i>Naming the Rose</i>. Cornell University Press.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Name+of+the+Rose&amp;rft.au=Coletti%2C+Theresa&amp;rft.aufirst=Theresa&amp;rft.aulast=Coletti&amp;rft.btitle=Naming+the+Rose&amp;rft.date=1988&amp;rft.genre=book&amp;rft.pub=Cornell+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Haft, Adele (1999). <i>The Key to The Name of the Rose</i>. University of Michigan Press.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Name+of+the+Rose&amp;rft.aufirst=Adele&amp;rft.au=Haft%2C+Adele&amp;rft.aulast=Haft&amp;rft.btitle=The+Key+to+The+Name+of+the+Rose&amp;rft.date=1999&amp;rft.genre=book&amp;rft.pub=University+of+Michigan+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <a href="/wiki/Special:BookSources/9780472086214" class="internal mw-magiclink-isbn">ISBN 978-0-472-08621-4</a></li>
+<li><span class="citation web">Ketzan, Erik. <a rel="nofollow" class="external text" href="http://www.themodernword.com/borges/borges_papers_ketzan.html">"Borges and The Name of the Rose"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-08-18</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Name+of+the+Rose&amp;rft.aufirst=Erik&amp;rft.au=Ketzan%2C+Erik&amp;rft.aulast=Ketzan&amp;rft.btitle=Borges+and+The+Name+of+the+Rose&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.themodernword.com%2Fborges%2Fborges_papers_ketzan.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Wischermann, Heinfried (1997). <i>Romanesque</i>. Konemann.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Name+of+the+Rose&amp;rft.aufirst=Heinfried&amp;rft.aulast=Wischermann&amp;rft.au=Wischermann%2C+Heinfried&amp;rft.btitle=Romanesque&amp;rft.date=1997&amp;rft.genre=book&amp;rft.pub=Konemann&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Name_of_the_Rose&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="//en.wikiquote.org/wiki/Umberto_Eco" class="extiw" title="q:Umberto Eco">Umberto Eco</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/worldservice/specials/133_wbc_archive_new/page2.shtml">Umberto Eco discusses <i>The Name of the Rose</i></a> on the BBC <i><a href="/wiki/World_Book_Club" title="World Book Club">World Book Club</a></i></li>
+<li><a rel="nofollow" class="external text" href="http://imdb.com/title/tt0091605/">IMDb.com Listing: The Name of the Rose</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.klostereberbach.com">Filming location Kloster Eberbach, Germany</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.postmodernmystery.com/name_of_the_rose.html"><i>The Name of the Rose</i> by Umberto Eco, reviewed by Ted Gioia (Postmodern Mystery)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nytimes.com/books/98/12/06/specials/eco-rose.html"><i>NY Times</i> Review</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Umberto_Eco" title="Template:Umberto Eco"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Umberto_Eco" title="Template talk:Umberto Eco"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Umberto_Eco&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Umberto_Eco_bibliography" title="Umberto Eco bibliography">Works</a> of <a href="/wiki/Umberto_Eco" title="Umberto Eco">Umberto Eco</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Novels</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><strong class="selflink">The Name of the Rose</strong></i></li>
+<li><i><a href="/wiki/Foucault%27s_Pendulum" title="Foucault's Pendulum">Foucault's Pendulum</a></i></li>
+<li><i><a href="/wiki/The_Island_of_the_Day_Before" title="The Island of the Day Before">The Island of the Day Before</a></i></li>
+<li><i><a href="/wiki/Baudolino" title="Baudolino">Baudolino</a></i></li>
+<li><i><a href="/wiki/The_Mysterious_Flame_of_Queen_Loana" title="The Mysterious Flame of Queen Loana">The Mysterious Flame of Queen Loana</a></i></li>
+<li><i><a href="/wiki/The_Prague_Cemetery" title="The Prague Cemetery">The Prague Cemetery</a></i></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Umberto_Eco_1984.jpg" class="image"><img alt="Umberto Eco 1984.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Umberto_Eco_1984.jpg/125px-Umberto_Eco_1984.jpg" width="125" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Umberto_Eco_1984.jpg/188px-Umberto_Eco_1984.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Umberto_Eco_1984.jpg/250px-Umberto_Eco_1984.jpg 2x" data-file-width="851" data-file-height="1280" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Non-fiction</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/w/index.php?title=The_Aesthetics_of_Thomas_Aquinas&amp;action=edit&amp;redlink=1" class="new" title="The Aesthetics of Thomas Aquinas (page does not exist)">The Aesthetics of Thomas Aquinas</a></i></li>
+<li><i><a href="/w/index.php?title=Art_and_Beauty_in_the_Middle_Ages&amp;action=edit&amp;redlink=1" class="new" title="Art and Beauty in the Middle Ages (page does not exist)">Art and Beauty in the Middle Ages</a></i></li>
+<li><i><a href="/wiki/The_Open_Work" title="The Open Work" class="mw-redirect">The Open Work</a></i></li>
+<li><i><a href="/w/index.php?title=Misreadings&amp;action=edit&amp;redlink=1" class="new" title="Misreadings (page does not exist)">Misreadings</a></i></li>
+<li><i><a href="/w/index.php?title=Apocalypse_Postponed&amp;action=edit&amp;redlink=1" class="new" title="Apocalypse Postponed (page does not exist)">Apocalypse Postponed</a></i></li>
+<li><i><a href="/w/index.php?title=The_Middle_Ages_of_James_Joyce&amp;action=edit&amp;redlink=1" class="new" title="The Middle Ages of James Joyce (page does not exist)">The Middle Ages of James Joyce</a></i></li>
+<li><i>The Absent Structure</i></li>
+<li><i><a href="/wiki/Faith_in_Fakes" title="Faith in Fakes">Faith in Fakes: Travels in Hyperreality</a></i></li>
+<li><i><a href="/w/index.php?title=A_Theory_of_Semiotics&amp;action=edit&amp;redlink=1" class="new" title="A Theory of Semiotics (page does not exist)">A Theory of Semiotics</a></i></li>
+<li><i>Il Superuomo di massa</i></li>
+<li><i>Dalla periferia dell'impero</i></li>
+<li><i>Lector in fabula</i></li>
+<li><i><a href="/w/index.php?title=The_Role_of_the_Reader&amp;action=edit&amp;redlink=1" class="new" title="The Role of the Reader (page does not exist)">The Role of the Reader: Explorations in the Semiotics of Texts</a></i></li>
+<li><i>Sette anni di desiderio</i></li>
+<li><i><a href="/w/index.php?title=Postscript_to_The_Name_of_the_Rose&amp;action=edit&amp;redlink=1" class="new" title="Postscript to The Name of the Rose (page does not exist)">Postscript to The Name of the Rose</a></i></li>
+<li><i><a href="/w/index.php?title=Semiotics_and_the_Philosophy_of_Language&amp;action=edit&amp;redlink=1" class="new" title="Semiotics and the Philosophy of Language (page does not exist)">Semiotics and the Philosophy of Language</a></i></li>
+<li><i>De Bibliotheca</i></li>
+<li><i><a href="/w/index.php?title=The_Limits_of_Interpretation&amp;action=edit&amp;redlink=1" class="new" title="The Limits of Interpretation (page does not exist)">The Limits of Interpretation</a></i></li>
+<li><i>Interpretation and Overinterpretation</i></li>
+<li><i><a href="/wiki/The_Search_for_the_Perfect_Language" title="The Search for the Perfect Language" class="mw-redirect">The Search for the Perfect Language</a></i></li>
+<li><i><a href="/wiki/Six_Walks_in_the_Fictional_Woods" title="Six Walks in the Fictional Woods">Six Walks in the Fictional Woods</a></i></li>
+<li><i><a href="/w/index.php?title=Incontro_-_Encounter_-_Rencontre&amp;action=edit&amp;redlink=1" class="new" title="Incontro - Encounter - Rencontre (page does not exist)">Incontro - Encounter - Rencontre</a></i></li>
+<li><i><a href="/wiki/Belief_or_Nonbelief%3F" title="Belief or Nonbelief?">Belief or Nonbelief?: A Dialogue</a></i></li>
+<li><i>Five Moral Pieces</i></li>
+<li><i><a href="/wiki/Kant_and_the_Platypus" title="Kant and the Platypus">Kant and the Platypus: Essays on Language and Cognition</a></i></li>
+<li><i><a href="/wiki/Serendipities" title="Serendipities">Serendipities: Language and Lunacy</a></i></li>
+<li><i>How to Travel with a Salmon &amp; Other Essays</i></li>
+<li><i><a href="/w/index.php?title=Experiences_in_Translation&amp;action=edit&amp;redlink=1" class="new" title="Experiences in Translation (page does not exist)">Experiences in Translation</a></i></li>
+<li><i>On Literature</i></li>
+<li><i>Mouse or Rat?: Translation as negotiation</i></li>
+<li><i>Turning Back the Clock: Hot Wars and Media Populism</i></li>
+<li><i>On Beauty</i>/<i>History of Beauty</i></li>
+<li><i>On Ugliness</i></li>
+<li><i>Dall'albero al labirinto: studi storici sul segno e l'interpretazione</i></li>
+<li><i><a href="/wiki/The_Infinity_of_Lists" title="The Infinity of Lists">The Infinity of Lists</a></i></li>
+<li><i><a href="/w/index.php?title=Confessions_of_a_Young_Novelist&amp;action=edit&amp;redlink=1" class="new" title="Confessions of a Young Novelist (page does not exist)">Confessions of a Young Novelist</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Manual</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>Come si fa una tesi di laurea</i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Books for children</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>The Bomb and the General</i></li>
+<li><i>The Three Astronauts</i></li>
+<li><i>The Gnomes of Gnu</i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1100
+CPU time usage: 0.500 seconds
+Real time usage: 0.622 seconds
+Preprocessor visited node count: 2190/1000000
+Preprocessor generated node count: 0/1500000
+Postâexpand include size: 51445/2097152 bytes
+Template argument size: 3092/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 6/500
+Lua time usage: 0.140/10.000 seconds
+Lua memory usage: 3.12 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  402.095      1 - -total
+ 21.86%   87.914      1 - Template:Infobox_book
+ 18.61%   74.831      1 - Template:Infobox
+ 16.09%   64.685      1 - Template:Reflist
+ 12.60%   50.681      1 - Template:About
+ 11.36%   45.683      7 - Template:Category_handler
+ 10.72%   43.123      1 - Template:Hatnote
+  8.73%   35.110      2 - Template:Cite_web
+  8.66%   34.826      1 - Template:Refimprove_section
+  7.85%   31.580      3 - Template:Ambox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:186397-0!*!0!!en!4!* and timestamp 20150214131159 and revision id 646155642
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from &quot;<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=The_Name_of_the_Rose&amp;oldid=646155642">http://en.wikipedia.org/w/index.php?title=The_Name_of_the_Rose&amp;oldid=646155642</a>&quot;					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Novels_set_in_the_14th_century" title="Category:Novels set in the 14th century">Novels set in the 14th century</a></li><li><a href="/wiki/Category:1980_novels" title="Category:1980 novels">1980 novels</a></li><li><a href="/wiki/Category:Books_in_semiotics" title="Category:Books in semiotics">Books in semiotics</a></li><li><a href="/wiki/Category:Historical_crime_novels" title="Category:Historical crime novels">Historical crime novels</a></li><li><a href="/wiki/Category:Italian_novels_adapted_into_films" title="Category:Italian novels adapted into films">Italian novels adapted into films</a></li><li><a href="/wiki/Category:Metafictional_works" title="Category:Metafictional works">Metafictional works</a></li><li><a href="/wiki/Category:Novels_by_Umberto_Eco" title="Category:Novels by Umberto Eco">Novels by Umberto Eco</a></li><li><a href="/wiki/Category:Novels_set_in_Italy" title="Category:Novels set in Italy">Novels set in Italy</a></li><li><a href="/wiki/Category:Novels_set_in_the_Middle_Ages" title="Category:Novels set in the Middle Ages">Novels set in the Middle Ages</a></li><li><a href="/wiki/Category:Philosophical_novels" title="Category:Philosophical novels">Philosophical novels</a></li><li><a href="/wiki/Category:Philosophy_of_religion" title="Category:Philosophy of religion">Philosophy of religion</a></li><li><a href="/wiki/Category:Postmodern_novels" title="Category:Postmodern novels">Postmodern novels</a></li><li><a href="/wiki/Category:Debut_novels" title="Category:Debut novels">Debut novels</a></li><li><a href="/wiki/Category:Roman_Catholic_church_in_fiction" title="Category:Roman Catholic church in fiction">Roman Catholic church in fiction</a></li><li><a href="/wiki/Category:Works_set_in_libraries" title="Category:Works set in libraries">Works set in libraries</a></li><li><a href="/wiki/Category:Works_set_in_monasteries" title="Category:Works set in monasteries">Works set in monasteries</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_non-English-language_text" title="Category:Articles containing non-English-language text">Articles containing non-English-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_style_editing_from_July_2011" title="Category:Wikipedia articles needing style editing from July 2011">Wikipedia articles needing style editing from July 2011</a></li><li><a href="/wiki/Category:All_articles_needing_style_editing" title="Category:All articles needing style editing">All articles needing style editing</a></li><li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2010" title="Category:Articles needing additional references from June 2010">Articles needing additional references from June 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2011" title="Category:Articles with unsourced statements from January 2011">Articles with unsourced statements from January 2011</a></li><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_May_2014" title="Category:Articles with failed verification from May 2014">Articles with failed verification from May 2014</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2011" title="Category:Articles with unsourced statements from October 2011">Articles with unsourced statements from October 2011</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Name+of+the+Rose&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Name+of+the+Rose" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/The_Name_of_the_Rose"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:The_Name_of_the_Rose"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/The_Name_of_the_Rose" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=The_Name_of_the_Rose&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=The_Name_of_the_Rose&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content â the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Name_of_the_Rose" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Name_of_the_Rose" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=The_Name_of_the_Rose&amp;oldid=646155642" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=The_Name_of_the_Rose&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q172850" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Name_of_the_Rose&amp;id=646155642" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Name+of+the+Rose">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=The+Name+of+the+Rose&amp;oldid=646155642&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=The_Name_of_the_Rose&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A7%D8%B3%D9%85_%D8%A7%D9%84%D9%88%D8%B1%D8%AF%D8%A9" title="Ø§Ø³Ù Ø§ÙÙØ±Ø¯Ø© â Arabic" lang="ar" hreflang="ar">Ø§ÙØ¹Ø±Ø¨ÙØ©</a></li>
+													<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%98%D0%BC%D0%B5%D1%82%D0%BE_%D0%BD%D0%B0_%D1%80%D0%BE%D0%B7%D0%B0%D1%82%D0%B0" title="ÐÐ¼ÐµÑÐ¾ Ð½Ð° ÑÐ¾Ð·Ð°ÑÐ° â Bulgarian" lang="bg" hreflang="bg">ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸</a></li>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/El_nom_de_la_rosa" title="El nom de la rosa â Catalan" lang="ca" hreflang="ca">CatalÃ </a></li>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Jm%C3%A9no_r%C5%AF%C5%BEe" title="JmÃ©no rÅ¯Å¾e â Czech" lang="cs" hreflang="cs">ÄeÅ¡tina</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Rosens_navn" title="Rosens navn â Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Der_Name_der_Rose" title="Der Name der Rose â German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%A4%CE%BF_%CF%8C%CE%BD%CE%BF%CE%BC%CE%B1_%CF%84%CE%BF%CF%85_%CF%81%CF%8C%CE%B4%CE%BF%CF%85" title="Î¤Î¿ ÏÎ½Î¿Î¼Î± ÏÎ¿Ï ÏÏÎ´Î¿Ï â Greek" lang="el" hreflang="el">ÎÎ»Î»Î·Î½Î¹ÎºÎ¬</a></li>
+													<li class="interlanguage-link interwiki-es badge-Q17437798 badge-goodarticle" title="good article"><a href="//es.wikipedia.org/wiki/El_nombre_de_la_rosa" title="El nombre de la rosa â Spanish" lang="es" hreflang="es">EspaÃ±ol</a></li>
+													<li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Il_nome_della_rosa" title="Il nome della rosa â Esperanto" lang="eo" hreflang="eo">Esperanto</a></li>
+													<li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Il_nome_della_rosa" title="Il nome della rosa â Basque" lang="eu" hreflang="eu">Euskara</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%86%D8%A7%D9%85_%DA%AF%D9%84_%D8%B3%D8%B1%D8%AE" title="ÙØ§Ù Ú¯Ù Ø³Ø±Ø® â Persian" lang="fa" hreflang="fa">ÙØ§Ø±Ø³Û</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Le_Nom_de_la_rose_(roman)" title="Le Nom de la rose (roman) â French" lang="fr" hreflang="fr">FranÃ§ais</a></li>
+													<li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Il_nome_della_rosa" title="Il nome della rosa â Galician" lang="gl" hreflang="gl">Galego</a></li>
+													<li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%9E%A5%EB%AF%B8%EC%9D%98_%EC%9D%B4%EB%A6%84" title="ì¥ë¯¸ì ì´ë¦ â Korean" lang="ko" hreflang="ko">íêµ­ì´</a></li>
+													<li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Ime_ru%C5%BEe_(roman)" title="Ime ruÅ¾e (roman) â Croatian" lang="hr" hreflang="hr">Hrvatski</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Il_nome_della_rosa" title="Il nome della rosa â Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A9%D7%9D_%D7%94%D7%95%D7%95%D7%A8%D7%93" title="×©× ××××¨× â Hebrew" lang="he" hreflang="he">×¢××¨××ª</a></li>
+													<li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%95%E1%83%90%E1%83%A0%E1%83%93%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%90%E1%83%AE%E1%83%94%E1%83%9A%E1%83%98" title="ááá ááá¡ á¡áá®ááá â Georgian" lang="ka" hreflang="ka">á¥áá áá£áá</a></li>
+													<li class="interlanguage-link interwiki-la"><a href="//la.wikipedia.org/wiki/Il_nome_della_rosa" title="Il nome della rosa â Latin" lang="la" hreflang="la">Latina</a></li>
+													<li class="interlanguage-link interwiki-lb"><a href="//lb.wikipedia.org/wiki/Il_nome_della_rosa" title="Il nome della rosa â Luxembourgish" lang="lb" hreflang="lb">LÃ«tzebuergesch</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/A_r%C3%B3zsa_neve_(reg%C3%A9ny)" title="A rÃ³zsa neve (regÃ©ny) â Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%B1%E0%B5%8B%E0%B4%B8%E0%B4%BF%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%86_%E0%B4%AA%E0%B5%87%E0%B4%B0%E0%B5%8D" title="à´±àµà´¸à´¿à´¨àµà´±àµ à´ªàµà´°àµ â Malayalam" lang="ml" hreflang="ml">à´®à´²à´¯à´¾à´³à´</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/De_naam_van_de_roos" title="De naam van de roos â Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E8%96%94%E8%96%87%E3%81%AE%E5%90%8D%E5%89%8D" title="èèã®åå â Japanese" lang="ja" hreflang="ja">æ¥æ¬èª</a></li>
+													<li class="interlanguage-link interwiki-no badge-Q17437798 badge-goodarticle" title="good article"><a href="//no.wikipedia.org/wiki/Rosens_navn" title="Rosens navn â Norwegian (bokmÃ¥l)" lang="no" hreflang="no">Norsk bokmÃ¥l</a></li>
+													<li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Rosens_navn" title="Rosens navn â Norwegian Nynorsk" lang="nn" hreflang="nn">Norsk nynorsk</a></li>
+													<li class="interlanguage-link interwiki-oc"><a href="//oc.wikipedia.org/wiki/Lo_Nom_de_la_r%C3%B2sa" title="Lo Nom de la rÃ²sa â Occitan" lang="oc" hreflang="oc">Occitan</a></li>
+													<li class="interlanguage-link interwiki-pa"><a href="//pa.wikipedia.org/wiki/%E0%A8%A6%E0%A8%BE_%E0%A8%A8%E0%A9%87%E0%A8%AE_%E0%A8%86%E0%A8%AB%E0%A8%BC_%E0%A8%A6%E0%A8%BE_%E0%A8%B0%E0%A9%8B%E0%A8%9C%E0%A8%BC" title="à¨¦à¨¾ à¨¨à©à¨® à¨à¨«à¨¼ à¨¦à¨¾ à¨°à©à¨à¨¼ â Punjabi" lang="pa" hreflang="pa">à¨ªà©°à¨à¨¾à¨¬à©</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Imi%C4%99_r%C3%B3%C5%BCy" title="ImiÄ rÃ³Å¼y â Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/O_Nome_da_Rosa" title="O Nome da Rosa â Portuguese" lang="pt" hreflang="pt">PortuguÃªs</a></li>
+													<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Numele_trandafirului" title="Numele trandafirului â Romanian" lang="ro" hreflang="ro">RomÃ¢nÄ</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%98%D0%BC%D1%8F_%D1%80%D0%BE%D0%B7%D1%8B" title="ÐÐ¼Ñ ÑÐ¾Ð·Ñ â Russian" lang="ru" hreflang="ru">Ð ÑÑÑÐºÐ¸Ð¹</a></li>
+													<li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Meno_ru%C5%BEe" title="Meno ruÅ¾e â Slovak" lang="sk" hreflang="sk">SlovenÄina</a></li>
+													<li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Ime_ro%C5%BEe" title="Ime roÅ¾e â Slovenian" lang="sl" hreflang="sl">SlovenÅ¡Äina</a></li>
+													<li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%98%D0%BC%D0%B5_%D1%80%D1%83%D0%B6%D0%B5_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)" title="ÐÐ¼Ðµ ÑÑÐ¶Ðµ (ÑÐ¾Ð¼Ð°Ð½) â Serbian" lang="sr" hreflang="sr">Ð¡ÑÐ¿ÑÐºÐ¸ / srpski</a></li>
+													<li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Il_nome_della_rosa" title="Il nome della rosa â Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / ÑÑÐ¿ÑÐºÐ¾ÑÑÐ²Ð°ÑÑÐºÐ¸</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Ruusun_nimi" title="Ruusun nimi â Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Rosens_namn" title="Rosens namn â Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/G%C3%BCl%C3%BCn_Ad%C4%B1" title="GÃ¼lÃ¼n AdÄ± â Turkish" lang="tr" hreflang="tr">TÃ¼rkÃ§e</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%86%D0%BC%27%D1%8F_%D1%80%D0%BE%D0%B7%D0%B8" title="ÐÐ¼&#039;Ñ ÑÐ¾Ð·Ð¸ â Ukrainian" lang="uk" hreflang="uk">Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°</a></li>
+													<li class="interlanguage-link interwiki-zh-classical"><a href="//zh-classical.wikipedia.org/wiki/%E7%8E%AB%E7%91%B0%E4%B9%8B%E5%90%8D" title="ç«ç°ä¹å â Classical Chinese" lang="zh-classical" hreflang="zh-classical">æè¨</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%8E%AB%E7%91%B0%E4%B9%8B%E5%90%8D" title="ç«ç°ä¹å â Chinese" lang="zh" hreflang="zh">ä¸­æ</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q172850#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 8 February 2015, at 07:39.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. WikipediaÂ® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=The_Name_of_the_Rose&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf17/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf17/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf17/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":126,"wgHostname":"mw1149"});
+}</script>
+	</body>
+</html>

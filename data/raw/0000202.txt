@@ -1,0 +1,2092 @@
+<!DOCTYPE html>
+<!--
+
+    "We keep moving forward, opening up new doors and
+      doing new things, because we're curious ...
+        and curiosity keeps leading us down new paths."
+
+                              Walt Disney
+
+-->
+<!--[if lt IE 9]><html class="no-js no-media-query"><![endif]-->
+<!--[if (gte IE 9)|(!IE)]><!-->
+<html class="no-js" version="HTML+RDFa 1.1" lang="en">
+<!--<![endif]-->
+<head prefix="fb: http://ogp.me/ns/fb# og: http://ogp.me/ns#" dir="ltr">
+  <title>The Lion King | Disney Movies</title>
+  <script type="text/javascript">this.Disney={"portal":"movies.disney.com","ajaxBase":"/","locales":["en","en-US"],"didBase":"https://a.dilcdn.com/_did/","rtl":false};</script>
+<script src="//a.dilcdn.com/a/head-382fc5f66417.js" type="text/javascript"></script>
+<script type="text/javascript">Disney.redirect=new Disney.Rdr({"can:quebec":"http://www.disney.ca/","usa,gum,pri,asm,vir,mnp,can":true,"bel":"http://www.disney.be/","bra":"http://www.disney.com.br/","bgr":"http://www.disney.bg/","chn":"http://www.disney.cn/","cze":"http://www.disney.cz/","dnk":"http://www.disney.dk/","fin":"http://www.disney.fi/","grc":"http://www.disney.gr/","hkg":"http://www.disney.com.hk/","hun":"http://www.disney.hu/","ind":"http://www.disney.in/","isr":"http://www.disney.co.il/","jpn":"http://www.disney.co.jp/","kor":"http://www.disney.co.kr/","mys":"http://www.disney.com.my/","nld":"http://www.disney.nl/","nor":"http://www.disney.no/","pol":"http://www.disney.pl/","prt":"http://www.disney.pt/","rou":"http://www.disney.ro/","rus":"http://www.disney.ru/","sgp":"http://www.disney.com.sg/","zaf":"http://www.disney.co.za/","esp":"http://www.disney.es/","swe":"http://www.disney.se/","che":"http://www.disney.ch/","twn":"http://www.disney.com.tw/","tur":"http://www.disneyturkiye.com.tr/","dza,bhr,egy,irn,irq,jor,kwt,lbn,lby,mar,omn,pse,qat,sau,som,tun,are,yem,syr":"http://www.disneyme.com/","arg,blz,bol,chl,col,cri,dom,ecu,slv,gtm,hnd,mex,nic,pan,pry,per,ury,ven":"http://www.disneylatino.com/","fra,ncl,guf,glp,mtq,reu,myt":"http://www.disney.fr/","ita,vat,smr":"http://www.disney.it/","aus,nzl":"http://www.disney.com.au/","gbr,irl":"http://www.disney.co.uk/","deu,aut":"http://www.disney.de/","srb,scg":"http://www.disney.rs/","other":"http://www.disneyinternational.com/"}).run()</script>
+<link rel="stylesheet" href="//a.dilcdn.com/a/application-14ec6d0ebe7e.css" type="text/css">
+<link rel="stylesheet" href="//a.dilcdn.com/a/modules-03636a82c23d.css" type="text/css">
+<link rel="stylesheet" href="//a.dilcdn.com/a/unique-modules-06f17fcc376a.css" type="text/css">
+<link rel="stylesheet" href="//a.dilcdn.com/a/international-modules-d347e7b223c7.css" type="text/css">
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="//a.dilcdn.com/a/ie-application-56690f25fd13.css" type="text/css">
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="//a.dilcdn.com/a/goc/responsive-f77267503465.css"><link rel="stylesheet" type="text/css" href="//a.dilcdn.com/a/goc/responsive-desktop-30986f7f4f0f.css" media="all and (min-width: 1025px)"><link rel="stylesheet" type="text/css" href="//a.dilcdn.com/a/goc/responsive-mobile-4057a9e6598a.css" media="only all and (max-width: 1024px)"><!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="//a.dilcdn.com/a/goc/responsive-desktop-30986f7f4f0f.css"><![endif]--><script type="text/javascript">(function(e){"use strict";var t=e.GOC=e.GOC||{};t.queue=t.queue||[],t.opts=t.opts||{}})(this),GOC.load=function(e,t){"use strict";var n=document,r=n.getElementsByTagName("script")[0],i=n.createElement("script");i.type="text/javascript",i.async="async",i.onload=i.onreadystatechange=function(e,n){var r=this,i=r.readyState,s=r.parentNode;s&&(n||!i||i==="complete"||i==="loaded")&&(s.removeChild(this),!n&&t&&t())},i.src=e,r.parentNode.insertBefore(i,r),i=n=r=null},function(e){"use strict";var t=e.encodeURIComponent;e.GOC.load("//a.dilcdn.com/g/domains/"+t(e.location.hostname)+".js")}(this),function(e){"use strict";var t=e.GOC,n=e.encodeURIComponent;t.ao=function(e){var r=[],i=t.opts,s=i.footer;i.lang&&r.push("lang="+n(i.lang)),i.cds&&r.push("cds"),i.searchtype&&r.push("searchtype="+n(i.searchtype)),i.hide_desktop_menu&&r.push("hide_desktop_menu");if(s)for(var o in s)s.hasOwnProperty(o)&&r.push("footer["+encodeURIComponent(o)+"]="+encodeURIComponent(s[o]));return r.length&&(e+=(e.indexOf("?")<0?"?":"&")+r.join("&")),e}}(this),GOC.css=function(e){"use strict";var t=document,n=t.createElement("style"),r=t.getElementsByTagName("head")[0],i=(r||t).getElementsByTagName("script")[0];e&&(n.setAttribute("type","text/css"),i?i.parentNode.insertBefore(n,i):r.appendChild(n),n.styleSheet?n.styleSheet.cssText=e:n.appendChild(t.createTextNode(e)))},function(e,t){"use strict";var n=e.GOC,r=e.screen,i=e.document,s=i.documentElement,o=function(){var e=r&&r.fontSmoothingEnabled,n,s,o,u,a;if(e!==t)return e;try{n=i.createElement("canvas"),n.width=n.height=32,s=n.getContext("2d"),s.textBaseline="top",s.font="32px Arial",s.fillStyle=s.strokeStyle="black",s.fillText("O",0,0);for(o=0;o<32;o++)for(u=0;u<32;u++){a=s.getImageData(o,u,1,1).data[3];if(a!==255&&a!==0)return!0}return!1}catch(f){return t}},u=function(e){var t=i.createElement("div");t.innerHTML="M",t.style.fontFamily=e,s.insertBefore(t,s.firstChild),s.clientWidth,s.removeChild(t)};n.pf=function(e,t){o()===!0&&(n.css(e),u(t))}}(this);GOC.pf("@font-face{font-family:'Matterhorn';src:url(\"//a.dilcdn.com/a/m4-573eba883466.eot#\") format(\"eot\"),url(\"//a.dilcdn.com/a/m4-4f55e08dfcef.woff\") format(\"woff\"),url(\"//a.dilcdn.com/a/m4-e3b605e8daea.ttf\") format(\"truetype\"),url(\"//a.dilcdn.com/a/m4-b63bf5e5da5f.svg#Matterhorn\") format(\"svg\");font-weight:400;font-style:normal}\n","Matterhorn");GOC.opts.cds=false;GOC.opts.bg="dark";GOC.opts.footer={"comscore":"Disney Lifestyle"};GOC.opts.hide_desktop_menu=null;GOC.opts.searchtype="is";GOC.load("//a.dilcdn.com/a/goc/responsive-9a80dd60a67c.js");GOC.a="//a.dilcdn.com/g/us/movies/sac/";GOC.is="//a.dilcdn.com/g/us/movies/is/";GOC.queue.push(["_sMenu","//a.dilcdn.com/g/us/movies/responsive/menu-fcee6bb22e00.js"]);</script>
+<link rel="canonical" href="http://movies.disney.com/the-lion-king">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<link rel="shortcut icon" href="//a.dilcdn.com/a/favicon-4e5a8e1c0964.ico">
+<meta name="description" content="Visit The Lion King official website where you can play games, find activities, meet the characters, shop for products, and more!">
+<meta property="fb:app_id" content="154100628064645">
+<meta property="og:title" content="The Lion King presented by Disney Movies">
+<meta property="og:description" content="Visit The Lion King official website where you can play games, find activities, meet the characters, shop for products, and more!">
+<meta property="og:type" content="video.movie">
+<meta property="og:site_name" content="Disney Movies">
+<meta property="og:url" content="http://movies.disney.com/the-lion-king">
+<meta property="og:image" content="http://cdnvideo.dolimg.com/cdn_assets/fbe70d3f4d22087adadeda4e2d9cdeee44d466b9.jpg">
+</head>
+<body dir="ltr" data-ad_system="dfp">
+  <div id="style-pack-theming"><style type="text/css">
+
+  /* base-level page background styles */
+  /* NOTE: footer inverted stuffs on footer and #goc-ft currently handled by js */
+
+
+  /* module-level color themes */
+
+
+
+  /* module-level icon colors */
+
+  /* font styles */
+
+</style>
+</div>
+  <div id="takeover-styles-default"></div>
+  <div id="takeover-styles-module-override"></div>
+
+  <div id="goc-body">
+<div class="goc-el goc-bg-dark" id="goc-bar">
+  <div class="goc-bound">
+    <ul id="goc-user">
+      <li class="goc-login"><span role="button" onclick=""><u>Login</u></span></li>
+      <li class="goc-logout"><span role="button" onclick=""><u>Logout</u></span></li>
+    </ul>
+    <form class="goc-search" action="http://search.disney.com/search" method="GET">
+      <input type="hidden" name="o" value="movies">
+      <input type="text" name="q" class="instant-search-input" placeholder="Search">
+    </form>
+    <ul id="goc-desktop-global" class="goc-desktop-global">
+      <li class="goc-desktop"><a href="http://disney.com/" class=""><u>Disney.com</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://www.disneystore.com/transfer/280559/?CMP=OTL-Dcom:ChromShpIconB" class=""><u>Store</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://disneyparks.disney.go.com/?DISCID=DI_mtt_chrome" class=""><u>Parks &amp; Travel</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://video.disney.com/" class=""><u>Video</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://movies.disney.com" class=""><u>Movies</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://shows.disney.com" class=""><u>TV</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://music.disney.com" class=""><u>Music</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://games.disney.com" class=""><u>Games</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://books.disney.com/" class=""><u>Books</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://liveshows.disney.com" class=""><u>Live Shows</u></a></li>
+    </ul>
+  </div>
+</div>
+<div id="goc-nav" class="goc-el goc-bg-dark">
+  <span id="goc-logo" title="Disney"></span>
+  <span id="goc-e" role="button" title="Navigate"></span>
+</div>
+<script type="text/javascript">GOC.queue.push(["trigger","accept:base"]);</script>
+  
+  <div id="nav-local" class="nav-local ">
+  <div id="nav-pushdown"></div>
+  <div class="bound">
+    <a href="http://movies.disney.com" title="Disney Movies" class="nav-logo"id="nav-logo"><span>Movies</span> </a>
+    <span id="nav-e" role="button" title="Navigate"></span>
+    <ul>
+      <li><a href="/in-theaters">In Theaters</a></li>
+      <li><a href="/watch-at-home">At Home</a></li>
+      <li><a href="http://www.disneymoviesanywhere.com?cmp=DMA%7CRON%7CMOVIES-DISNEY-COM%7CHEADER%7C20150127">Movies Anywhere</a></li>
+      <li><a href="/all-movies">All Movies</a></li>
+      <li><a href="http://www.disneymovierewards.go.com/?cmp=SYN%7Cdmr%7Csustain%7Cdmovies%7Cbrowse%7Cchrome%7C102612%7Cdmr%7Cvisitsite%7CdcomM%7C%7C%7C%7C">Movie Rewards</a></li>
+      <li><a href="https://disneymovieclub.go.com/webapp/wcs/stores/servlet/AcquisitionBrowseView?langId=-1&amp;storeId=10001&amp;catalogId=10051&amp;headerText=Bestsellers&amp;categoryId=5024504&amp;offerId=25566D&amp;source=DCOM&amp;sourceId=x">Movie Club</a></li>
+    </ul>
+      <span id="search_cancel_text">Cancel</span>
+  </div>
+</div>
+
+
+  <div id="base-bg"></div>
+  <div id="burger-container">
+    <div id="background-styles">
+        <div class="site-default-gradient">
+          <div class="safety-color"></div>
+        </div>
+    
+        <div id="body-bg">
+          <div class="safety-color"></div>
+          <div class="main"></div>
+          <div class="color-fade"></div>
+        </div>
+    
+        <div id="takeover-area">
+          <div class="overlay default">
+            <div class="safety-color">
+              <div class="color-block"></div>
+            </div>
+            <div class="main-color"></div>
+            <div class="repeating repeating-color"></div>
+            <div class="repeating repeating-image"></div>
+            <div class="main-image"></div>
+            <div class="fade-out"></div>
+          </div>
+          <div class="overlay module-override">
+            <div class="safety-color">
+              <div class="color-block"></div>
+            </div>
+            <div class="main-color"></div>
+            <div class="repeating repeating-color"></div>
+            <div class="repeating repeating-image"></div>
+            <div class="main-image"></div>
+            <div class="fade-out"></div>
+          </div>
+        </div>
+    </div>
+
+    <div id="nav-body">
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+      <script type="text/javascript">window.jQuery || document.write('<script src ="//a.dilcdn.com/a/jquery-35f326448996.js" type="text/javascript"><\/script>')</script>
+      <script type="text/javascript">Disney.DidOpts={"loc":"en-US"};</script>
+      <script src="//a.dilcdn.com/a/application-dfb13d9136f4.js" type="text/javascript"></script>
+<script src="//a.dilcdn.com/a/portals/movies.disney.com/application-89f6e894dcb7.js" type="text/javascript"></script>
+      <div id="spinner">
+        <img src="//a.dilcdn.com/a/utility/loading/loading-72a4c28445e9.gif">
+        <p></p>
+      </div>
+      <div id="main"><article id="burger" class="frozen">
+<style type="text/css">
+
+  <!-- /* hero_universal module 1-0 */ -->
+
+  
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module hero_universal ref-1-0  primary-theme skip-styles skip-bottom-border skip-top-border full-height full-width ">
+          <div class="bound">
+
+  <div class="carousel  universal">
+    <ul class="slides">
+        <li><div class="branding">
+  <div class="scaler"></div>
+
+
+  
+
+  <div class="background">
+    
+    <img src="http://cdnvideo.dolimg.com/cdn_assets/454702d19ff160b4e6c452fdfcc6c1beaf10d303.jpg" alt="Lion King Property Homepage Hero">
+  </div>
+
+
+  
+
+  
+</div>
+
+<div class="content left">
+  <div class="logo">
+
+    <a href="" class="heading">
+      <h2 class="light" ></h2>
+      <h3 class="light"></h3>
+    </a>
+
+  </div>
+</div>
+
+</li>
+    </ul>
+  </div>
+  
+</div>
+
+        </section><style type="text/css">
+
+  <!-- /* property_nav module 1-1 */ -->
+
+  
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module property_nav ref-1-1  primary-theme  bun">
+          <style type="text/css">
+  
+    .property_nav_wrap{
+      background-color: #b82400;
+      background-image: -webkit-gradient(linear, left top, left bottom, from(#ff4e00), to(#b82400));
+      background-image: -webkit-linear-gradient(top, #ff4e00, #b82400);
+      background-image: -moz-linear-gradient(top, #ff4e00, #b82400);
+      background-image: -o-linear-gradient(top, #ff4e00, #b82400);
+      background-image: linear-gradient(to bottom, #ff4e00, #b82400);
+    }
+   .property_nav_wrap ul li:hover{
+      background-color: #911800;
+      background-image: -webkit-gradient(linear, left top, left bottom, from(#942d00), to(#911800));
+      background-image: -webkit-linear-gradient(top, #942d00, #911800);
+      background-image: -moz-linear-gradient(top, #942d00, #911800);
+      background-image: -o-linear-gradient(top, #942d00, #911800);
+      background-image: linear-gradient(to bottom, #942d00, #911800);
+    }
+    .property_nav_wrap ul li.active{
+      background-color: #cd3500;
+      background-image: -webkit-gradient(linear, left top, left bottom, from(#911800), to(#cd3500));
+      background-image: -webkit-linear-gradient(top, #911800, #cd3500);
+      background-image: -moz-linear-gradient(top, #911800, #cd3500);
+      background-image: -o-linear-gradient(top, #911800, #cd3500);
+      background-image: linear-gradient(to bottom, #911800, #cd3500);
+    }
+    .module.property_nav .property_nav_wrap ul li a{ color: #ffffff; }
+  
+</style>
+
+  <div class="property_nav_wrap">
+    <div class="property_nav_scroller">
+      <ul class="links-">
+        <li class=""><a href="http://movies.disney.com/the-lion-king" title="Movie Home">Movie Home</a></li><li class=""><a href="http://movies.disney.com/the-lion-king/characters" title="Characters">Characters</a></li><li class=""><a href="http://movies.disney.com/the-lion-king/games-activities" title="Games &amp; Activities">Games &amp; Activities</a></li><li class=""><a href="http://movies.disney.com/the-lion-king-gallery" title="Gallery">Gallery</a></li><li class=""><a href="http://www.disneystore.com/transfer/280559/mn/1000030/?cmp=OTL-Dcom&amp;att=Dcom_FS_TheLionKing_PPN" title="Store">Store</a></li><li class=""><a href="http://disneyparks.disney.go.com/?CMP=AFC-DPFY13Q1DIENT0964G" title="Parks">Parks</a></li>
+      </ul>
+    </div>
+  </div>
+
+        </section><style type="text/css">
+
+  <!-- /* property_description module 1-2 */ -->
+
+  
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module property_description ref-1-2  primary-theme  bun">
+          <div class="bound">
+  <div class="module_body">
+    <div class="content" data-title="The Lion King">
+      <div class="header">
+        <h1 style="color:">The Lion King</h1>
+
+        <div class="meta">
+          <p><span class="meta-heading">Rated:</span> G</p>
+          <p><span class="meta-heading">Release Date:</span> April 30, 2013</p>
+        </div>
+      </div>
+      <p class="desc">Embark on an extraordinary coming-of-age adventure as Simba, a lion cub who cannot wait to be king, searches for his destiny in the great &quot;Circle of Life.&quot; You will be thrilled by the breathtaking animation, unforgettable Academy AwardÂ®âwinning music (1994: Best Original Score; Best Original Song, &quot;Can You Feel The Love Tonight&quot;) and timeless story.</p>
+
+      
+
+    </div>
+
+    <div class="ad-container">
+      
+      
+    </div>
+  </div>
+</div>
+
+        </section><style type="text/css">
+
+  <!-- /* characters module 1-3 */ -->
+
+  
+
+     /* background images */
+      @media screen and (min-width: 680px){
+        .module.ref-1-3, .module.ref-1-3.primary-theme, .module.ref-1-3.secondary-theme{
+          background-size: 100% auto;
+          background-image: url(http://cdnvideo.dolimg.com/cdn_assets/5d09b89c1df44e8382504ddf8f6b374b5ec89afa.jpg);
+          background-position: bottom left;
+        }
+      }
+        @media screen and (-webkit-min-device-pixel-ratio: 1.5) and (min-width: 680px), screen and (min-resolution: 144dpi) and (min-width: 680px){
+          .module.ref-1-3, .module.ref-1-3.primary-theme, .module.ref-1-3.secondary-theme{
+            background-image: url(http://cdnvideo.dolimg.com/cdn_assets/f6be4dab7f620e284cc95dbd013c61ea22840f44.jpg);
+          }
+        }
+
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module slider ref-1-3  primary-theme  ">
+          <div class="bound character ">
+
+  
+
+  
+
+  <div class="slides peek-4 no-peek">
+    <ol class="slider-list peek-4">
+        <li class="slider-page">
+          <ul class="col-container cols-4 rows-1">
+              <span class="col item  "><div class="entity-container entity-type-personality
+              ratio-baseball_card
+              links-out
+              corners-slight
+              title-overlay
+              
+              show-details
+              
+            ">
+
+    <a href="http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"  class="entity-link" >
+
+    <div class="personality-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/1b314d908f791d6a66f7d00de77f6226283964f0.jpg" class="thumb" alt="Simba">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                skip-styles
+                skip-styles
+                text-center
+                
+              ">
+
+      <a href="http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"  class="entity-link" >
+        <h3 class="title">Simba</h3>
+    </a>
+
+
+    
+    <p class="desc">Cheerful, feisty lion cub Simba &quot;Just Can't Wait to Be King,&quot; but with the loss of his dad, Mufasa, his adventures take a new path.</p>
+    
+    
+
+      <a href="http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+              <span class="col item  "><div class="entity-container entity-type-personality
+              ratio-baseball_card
+              links-out
+              corners-slight
+              title-overlay
+              
+              show-details
+              
+            ">
+
+    <a href="http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"  class="entity-link" >
+
+    <div class="personality-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/31567f32c560957b5083728fc3657617fba14057.jpg" class="thumb" alt="Timon">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                skip-styles
+                skip-styles
+                text-center
+                
+              ">
+
+      <a href="http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"  class="entity-link" >
+        <h3 class="title">Timon</h3>
+    </a>
+
+
+    
+    <p class="desc">A hyperactive meerkat with a motor mouth is the self-proclaimed &quot;brains of the outfit.&quot;</p>
+    
+    
+
+      <a href="http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+              <span class="col item  "><div class="entity-container entity-type-personality
+              ratio-baseball_card
+              links-out
+              corners-slight
+              title-overlay
+              
+              show-details
+              
+            ">
+
+    <a href="http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"  class="entity-link" >
+
+    <div class="personality-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/53492e5f36842f9ee7b672f3e7d02e876527e121.jpg" class="thumb" alt="Pumbaa">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                skip-styles
+                skip-styles
+                text-center
+                
+              ">
+
+      <a href="http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"  class="entity-link" >
+        <h3 class="title">Pumbaa</h3>
+    </a>
+
+
+    
+    <p class="desc">This well-padded warthog is a bit clumsy but more than makes up for his slow thought processes with empathy and intuition.</p>
+    
+    
+
+      <a href="http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+              <span class="col item  "><div class="entity-container entity-type-personality
+              ratio-baseball_card
+              links-out
+              corners-slight
+              title-overlay
+              
+              show-details
+              
+            ">
+
+    <a href="http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"  class="entity-link" >
+
+    <div class="personality-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/4a962cceaf342b640e20655f59a64aaf8a5a7bb2.jpg" class="thumb" alt="Mufasa">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                skip-styles
+                skip-styles
+                text-center
+                
+              ">
+
+      <a href="http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"  class="entity-link" >
+        <h3 class="title">Mufasa</h3>
+    </a>
+
+
+    
+    <p class="desc">As ready to play as he is to instruct, Mufasa guides young Simba with a voice as golden as his magnificent mane.</p>
+    
+    
+
+      <a href="http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+          </ul>
+        </li>
+    </ol>
+    <div class="peek"></div> 
+  </div>
+</div>
+
+        </section><style type="text/css">
+
+  <!-- /* slider module 1-4 */ -->
+
+  
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module slider ref-1-4  primary-theme slider-view pagination-styles ">
+          <div class="bound game ">
+
+  
+
+  
+
+<div class="module_header">
+  <div class="title">
+    <h2>Play Games </h2>
+    
+  </div>
+  <p>Check out these Lion King games</p>
+</div>
+
+
+  <div class="slides peek-4 no-peek">
+    <ol class="slider-list peek-4">
+        <li class="slider-page">
+          <ul class="col-container cols-4 rows-1">
+              <span class="col item  "><div class="entity-container entity-type-game
+              ratio-4x3
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="http://games.disney.com/timon-pumbaa-s-sudoku"  class="entity-link" >
+
+    <div class="game-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/39034d865d96096d829615f56c1dbe92a079c19d.jpg" class="thumb" alt="Timon &amp; Pumbaa's Sudoku">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="http://games.disney.com/timon-pumbaa-s-sudoku"  class="entity-link" >
+        <h3 class="title">Timon &amp; Pumbaa's Sudoku</h3>
+    </a>
+
+
+    
+    <p class="desc">Play Timon and Pumbaa's Sudoku!</p>
+    
+    
+
+      <a href="http://games.disney.com/timon-pumbaa-s-sudoku"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">Play Game</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+              <span class="col item  "><div class="entity-container entity-type-game
+              ratio-4x3
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="http://games.disney.com/grub-ridin"  class="entity-link" >
+
+    <div class="game-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/5c3b4246a903d3fee6c765f6695c8543086722cc.jpg" class="thumb" alt="The Lion King - Grub Ridin'">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="http://games.disney.com/grub-ridin"  class="entity-link" >
+        <h3 class="title">The Lion King - Grub Ridin'</h3>
+    </a>
+
+
+    
+    <p class="desc">Hop on the grubs and go grub ridin'!</p>
+    
+    
+
+      <a href="http://games.disney.com/grub-ridin"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">Play Game</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+              <span class="col item  "><div class="entity-container entity-type-game
+              ratio-4x3
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="https://itunes.apple.com/us/app/pixeld/id529626244?cmp=SYN%7Cpxld%7CiTunes%7Cdgames%7Csliderdownload%7C%7C011813%7CLionKing%7C%7CsynergyBrand%7C%7C%7C"  class="entity-link" >
+
+    <div class="game-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/e44d8bfa49348f880c96366e4594bda8dd10faba.png" class="thumb" alt="Pixel'd - Lion King">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="https://itunes.apple.com/us/app/pixeld/id529626244?cmp=SYN%7Cpxld%7CiTunes%7Cdgames%7Csliderdownload%7C%7C011813%7CLionKing%7C%7CsynergyBrand%7C%7C%7C"  class="entity-link" >
+        <h3 class="title">Pixel'd - Lion King</h3>
+    </a>
+
+
+    
+    
+    
+    
+
+      <a href="https://itunes.apple.com/us/app/pixeld/id529626244?cmp=SYN%7Cpxld%7CiTunes%7Cdgames%7Csliderdownload%7C%7C011813%7CLionKing%7C%7CsynergyBrand%7C%7C%7C"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+          </ul>
+        </li>
+    </ol>
+    <div class="peek"></div> 
+  </div>
+</div>
+
+        </section><style type="text/css">
+
+  <!-- /* rich_image module 1-6 */ -->
+
+  
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module rich_image ref-1-6  primary-theme full-height full-width ">
+          <div class="bound">
+  <a href="http://www.disneymusicemporium.com/rgshop/lion-king/?utm_campaign=LK%20Product&amp;utm_source=disneycom&amp;utm_medium=moviestatic"  class="age-gated" data-age="13"  title="The Legacy Collection: The Lion King" alt="The Legacy Collection: The Lion King" target="_blank">
+    <img src="http://cdnvideo.dolimg.com/cdn_assets/c7a4bf400de3f85c618ea2603f9d5165c340d8f0.jpg">
+  </a>
+</div>
+
+
+        </section><style type="text/css">
+
+  <!-- /* slider module 1-7 */ -->
+
+  
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module slider ref-1-7  primary-theme slider-view pagination-styles ">
+          <div class="bound movie ">
+
+  
+
+  
+
+<div class="module_header no-desc">
+  <div class="title">
+    <h2>Activities</h2>
+    
+  </div>
+  
+</div>
+
+
+  <div class="slides peek-4 no-peek">
+    <ol class="slider-list peek-4">
+        <li class="slider-page">
+          <ul class="col-container cols-4 rows-1">
+              <span class="col item  "><div class="entity-container entity-type-movie
+              ratio-poster
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="http://a.dolimg.com/franchise/lionking/media/printables/LKD_Activities_print.pdf"  class="entity-link" >
+
+    <div class="movie-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/38aaeff0d1df9ed857389d52cba57dd3fcbf297a.jpg" class="thumb" alt="Activities and Puzzles">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="http://a.dolimg.com/franchise/lionking/media/printables/LKD_Activities_print.pdf"  class="entity-link" >
+        <h3 class="title">Activities and Puzzles</h3>
+    </a>
+
+
+    
+    
+    
+    
+
+      <a href="http://a.dolimg.com/franchise/lionking/media/printables/LKD_Activities_print.pdf"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+              <span class="col item  "><div class="entity-container entity-type-movie
+              ratio-poster
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="http://spoonful.com/parties/jungle-party-for-kids?cmp=SYN-DIS_Dcom_LionKingActivities_JungleParty_FFcom"  class="entity-link" >
+
+    <div class="movie-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/ee6817131f5cdb9d3ae5441ebcedbb7b099550c7.jpg" class="thumb" alt="Jungle Party">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="http://spoonful.com/parties/jungle-party-for-kids?cmp=SYN-DIS_Dcom_LionKingActivities_JungleParty_FFcom"  class="entity-link" >
+        <h3 class="title">Jungle Party</h3>
+    </a>
+
+
+    
+    
+    
+    
+
+      <a href="http://spoonful.com/parties/jungle-party-for-kids?cmp=SYN-DIS_Dcom_LionKingActivities_JungleParty_FFcom"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+              <span class="col item  "><div class="entity-container entity-type-movie
+              ratio-poster
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="http://a.dolimg.com/franchise/lionking/media/printables/LKD_AnimalFacts_print.pdf"  class="entity-link" >
+
+    <div class="movie-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/e41a4ab699a28ccf48f0465033f094d287f7bf93.jpg" class="thumb" alt="Animal Fun Facts">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="http://a.dolimg.com/franchise/lionking/media/printables/LKD_AnimalFacts_print.pdf"  class="entity-link" >
+        <h3 class="title">Animal Fun Facts</h3>
+    </a>
+
+
+    
+    
+    
+    
+
+      <a href="http://a.dolimg.com/franchise/lionking/media/printables/LKD_AnimalFacts_print.pdf"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+              <span class="col item  "><div class="entity-container entity-type-movie
+              ratio-poster
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="http://a.dolimg.com/franchise/lionking/media/printables/LKD_Maze_print.pdf"  class="entity-link" >
+
+    <div class="movie-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/7d1bac7835316494112828d9a06ecf11e865d826.jpg" class="thumb" alt="Simba's Safari Maze">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="http://a.dolimg.com/franchise/lionking/media/printables/LKD_Maze_print.pdf"  class="entity-link" >
+        <h3 class="title">Simba's Safari Maze</h3>
+    </a>
+
+
+    
+    
+    
+    
+
+      <a href="http://a.dolimg.com/franchise/lionking/media/printables/LKD_Maze_print.pdf"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+          </ul>
+        </li>
+    </ol>
+    <div class="peek"></div> 
+  </div>
+</div>
+
+        </section><style type="text/css">
+
+  <!-- /* rich_image module 1-8 */ -->
+
+  
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module rich_image ref-1-8  primary-theme full-height full-width ">
+          <div class="bound">
+  <a href="https://disneyworld.disney.go.com/resorts/art-of-animation-resort/?CMP=AFC-DPFY13Q1DIENT0932Q"  title="Walt Disney World - Art of Animation Resorts - Lion King Suites" alt="Walt Disney World - Art of Animation Resorts - Lion King Suites" target="_blank">
+    <img src="http://cdnvideo.dolimg.com/cdn_assets/2b40324a95a7d958b68379a5d9b1d0635374b1ef.jpg">
+  </a>
+</div>
+
+
+        </section><style type="text/css">
+
+  <!-- /* slider module 1-9 */ -->
+
+  
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module slider ref-1-9  primary-theme slider-view pagination-styles ">
+          <div class="bound product ">
+
+  
+
+  
+
+<div class="module_header no-desc">
+  <div class="title">
+    <h2>Shop</h2>
+    <a class="all" href="http://www.disneystore.com/transfer/280559/mn/1000030/?cmp=OTL-Dcom&amp;att=Dcom_FS_TheLionKing_HP_SeeAll">See More</a>
+  </div>
+  
+</div>
+
+
+  <div class="slides peek-4 no-peek">
+    <ol class="slider-list peek-4">
+        <li class="slider-page">
+          <ul class="col-container cols-4 rows-1">
+              <span class="col item  "><div class="entity-container entity-type-product
+              ratio-square
+              links-out
+              corners-default
+              
+              
+              show-details
+              
+            ">
+
+    <a href="http://www.disneystore.com/transfer/280559/giclees-art-collectibles-the-lion-king-kingdom-pride-giclee-on-canvas-by-rodel-gonzalez-framed/mp/1259472/1000272/?cmp=OTL-Dcom&amp;att=Dcom_FS_TheLionKing_Home_Feed"  class="entity-link" >
+
+    <div class="product-box entity-box
+                  thumb-border
+                  subtle-hover
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdn.s7.disneystore.com/is/image/DisneyShopping/301789?$full$" class="thumb" alt="The Lion King ''Kingdom Pride'' GiclÃ©e on Canvas by Rodel Gonzalez - Framed">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              has-price
+              
+                skip-styles
+                
+                
+                
+              ">
+
+      <a href="http://www.disneystore.com/transfer/280559/giclees-art-collectibles-the-lion-king-kingdom-pride-giclee-on-canvas-by-rodel-gonzalez-framed/mp/1259472/1000272/?cmp=OTL-Dcom&amp;att=Dcom_FS_TheLionKing_Home_Feed"  class="entity-link" >
+        <h3 class="title">The Lion King ''Kingdom Pride'' GiclÃ©e on Canvas by Rodel Gonzalez - Framed</h3>
+    </a>
+
+
+    
+    
+    <p class="price skip-text-styles">$924.50</p>
+    
+
+      <a href="http://www.disneystore.com/transfer/280559/giclees-art-collectibles-the-lion-king-kingdom-pride-giclee-on-canvas-by-rodel-gonzalez-framed/mp/1259472/1000272/?cmp=OTL-Dcom&amp;att=Dcom_FS_TheLionKing_Home_Feed"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+              <span class="col item  "><div class="entity-container entity-type-product
+              ratio-square
+              links-out
+              corners-default
+              
+              
+              show-details
+              
+            ">
+
+    <a href="http://www.disneystore.com/transfer/280559/tees-tops-shirts-clothes-the-lion-king-the-broadway-musical-tee-for-adults-hakuna-matata/mp/1366414/1000228/?cmp=OTL-Dcom&amp;att=Dcom_FS_TheLionKing_Home_Feed"  class="entity-link" >
+
+    <div class="product-box entity-box
+                  thumb-border
+                  subtle-hover
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdn.s7.disneystore.com/is/image/DisneyShopping/6801047590944?$full$" class="thumb" alt="The Lion King: The Broadway Musical Tee for Adults - ''Hakuna Matata''">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              has-price
+              
+                skip-styles
+                
+                
+                
+              ">
+
+      <a href="http://www.disneystore.com/transfer/280559/tees-tops-shirts-clothes-the-lion-king-the-broadway-musical-tee-for-adults-hakuna-matata/mp/1366414/1000228/?cmp=OTL-Dcom&amp;att=Dcom_FS_TheLionKing_Home_Feed"  class="entity-link" >
+        <h3 class="title">The Lion King: The Broadway Musical Tee for Adults - ''Hakuna Matata''</h3>
+    </a>
+
+
+    
+    
+    <p class="price skip-text-styles">$34.95</p>
+    
+
+      <a href="http://www.disneystore.com/transfer/280559/tees-tops-shirts-clothes-the-lion-king-the-broadway-musical-tee-for-adults-hakuna-matata/mp/1366414/1000228/?cmp=OTL-Dcom&amp;att=Dcom_FS_TheLionKing_Home_Feed"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+              <span class="col item  "><div class="entity-container entity-type-product
+              ratio-square
+              links-out
+              corners-default
+              
+              
+              show-details
+              
+            ">
+
+    <a href="http://www.disneystore.com/transfer/280559/fleece-throws-blankets-bed-bath-home-decor-the-lion-king-the-broadway-musical-plush-fleece-blanket/mp/1366373/1000334/?cmp=OTL-Dcom&amp;att=Dcom_FS_TheLionKing_Home_Feed"  class="entity-link" >
+
+    <div class="product-box entity-box
+                  thumb-border
+                  subtle-hover
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdn.s7.disneystore.com/is/image/DisneyShopping/6804047590942?$full$" class="thumb" alt="The Lion King: The Broadway Musical Plush Fleece Blanket">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              has-price
+              
+                skip-styles
+                
+                
+                
+              ">
+
+      <a href="http://www.disneystore.com/transfer/280559/fleece-throws-blankets-bed-bath-home-decor-the-lion-king-the-broadway-musical-plush-fleece-blanket/mp/1366373/1000334/?cmp=OTL-Dcom&amp;att=Dcom_FS_TheLionKing_Home_Feed"  class="entity-link" >
+        <h3 class="title">The Lion King: The Broadway Musical Plush Fleece Blanket</h3>
+    </a>
+
+
+    
+    
+    <p class="price skip-text-styles">$34.95</p>
+    
+
+      <a href="http://www.disneystore.com/transfer/280559/fleece-throws-blankets-bed-bath-home-decor-the-lion-king-the-broadway-musical-plush-fleece-blanket/mp/1366373/1000334/?cmp=OTL-Dcom&amp;att=Dcom_FS_TheLionKing_Home_Feed"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+              <span class="col item  "><div class="entity-container entity-type-product
+              ratio-square
+              links-out
+              corners-default
+              
+              
+              show-details
+              
+            ">
+
+    <a href="http://www.disneystore.com/transfer/280559/plush-toys-pumbaa-plush-the-lion-king-the-broadway-musical-mini-bean-bag-9/mp/1366367/1000267/?cmp=OTL-Dcom&amp;att=Dcom_FS_TheLionKing_Home_Feed"  class="entity-link" >
+
+    <div class="product-box entity-box
+                  thumb-border
+                  subtle-hover
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdn.s7.disneystore.com/is/image/DisneyShopping/6805047590946?$full$" class="thumb" alt="Pumbaa Plush - The Lion King: The Broadway Musical - Mini Bean Bag - 9''">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              has-price
+              
+                skip-styles
+                
+                
+                
+              ">
+
+      <a href="http://www.disneystore.com/transfer/280559/plush-toys-pumbaa-plush-the-lion-king-the-broadway-musical-mini-bean-bag-9/mp/1366367/1000267/?cmp=OTL-Dcom&amp;att=Dcom_FS_TheLionKing_Home_Feed"  class="entity-link" >
+        <h3 class="title">Pumbaa Plush - The Lion King: The Broadway Musical - Mini Bean Bag - 9''</h3>
+    </a>
+
+
+    
+    
+    <p class="price skip-text-styles">$16.95</p>
+    
+
+      <a href="http://www.disneystore.com/transfer/280559/plush-toys-pumbaa-plush-the-lion-king-the-broadway-musical-mini-bean-bag-9/mp/1366367/1000267/?cmp=OTL-Dcom&amp;att=Dcom_FS_TheLionKing_Home_Feed"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+          </ul>
+        </li>
+    </ol>
+    <div class="peek"></div> 
+  </div>
+</div>
+
+        </section><style type="text/css">
+
+  <!-- /* halfling module 1-10 */ -->
+
+  
+
+     /* background images */
+      @media screen and (min-width: 680px){
+        .module.ref-1-10, .module.ref-1-10.primary-theme, .module.ref-1-10.secondary-theme{
+          background-size: 100% auto;
+          background-image: url(http://cdnvideo.dolimg.com/cdn_assets/a56bbce13660381b0c5b666238721418cc13dfb0.jpg);
+          background-position: top left;
+        }
+      }
+
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module side_by_side ref-1-10  primary-theme half-view ">
+
+<div class="bound promo ">
+    <div class="item">
+      
+
+<div class="module_header no-desc">
+  <div class="title">
+    <h2>The Lion King On Broadway</h2>
+    
+  </div>
+  
+</div>
+
+      <div class="entity-container entity-type-promo
+                    ratio-square
+                    links-out
+                    corners-default
+                    
+                    
+                    hide-details
+                    
+                  ">
+      
+          <a href="http://www.lionking.com?cmp=SYN%7Clkonb%7Cbroadway%7Cdmovies%7Chalfling%7C%7C050113%7Clionking%7Cexternal%7CdcomM%7C%7C%7C"  class="entity-link" >
+      
+          <div class="promo-box entity-box
+                        thumb-border
+                        
+                      ">
+      
+          
+      
+            <div class="aspect"> 
+                <img src="http://cdnvideo.dolimg.com/cdn_assets/48fe87584cf9e5c3e21990c212a63334e31ccee8.jpg" class="thumb" alt="The Lion King On Broadway">
+                
+              
+              
+            </div>
+      
+          </div>
+        </a>
+      
+        <div class="entity-details
+                    
+                    
+                      
+                      
+                      
+                      
+                    ">
+      
+            <a href="http://www.lionking.com?cmp=SYN%7Clkonb%7Cbroadway%7Cdmovies%7Chalfling%7C%7C050113%7Clionking%7Cexternal%7CdcomM%7C%7C%7C"  class="entity-link" >
+              <h3 class="title">The Lion King On Broadway</h3>
+          </a>
+      
+      
+          
+          
+          
+          
+      
+            <a href="http://www.lionking.com?cmp=SYN%7Clkonb%7Cbroadway%7Cdmovies%7Chalfling%7C%7C050113%7Clionking%7Cexternal%7CdcomM%7C%7C%7C"  class="entity-link cta-link" >
+                <h4 class="cta-button blue button large">See More</h4>
+            </a>
+      
+        </div>
+      </div>
+      
+      
+    </div>
+</div>
+
+        </section><style type="text/css">
+
+  <!-- /* stream module 1-11 */ -->
+
+  
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module stream ref-1-11  primary-theme  ">
+          <div class="bound promo ">
+
+  
+
+<div class="module_header no-desc">
+  <div class="title">
+    <h2>Social</h2>
+    
+  </div>
+  
+</div>
+
+
+  <div class="cols-4"><span class="col item  "><div class="entity-container entity-type-promo
+              ratio-square
+              links-out
+              corners-default
+              
+              
+              hide-details
+              
+            ">
+
+    <a href="https://www.facebook.com/DisneyTheLionKing"  class="entity-link" >
+
+    <div class="promo-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/653dcac4f00c648a69ace3dc02ac3a06a81f1b40.jpg" class="thumb" alt="The Lion King on Facebook">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                
+                
+              ">
+
+      <a href="https://www.facebook.com/DisneyTheLionKing"  class="entity-link" >
+        <h3 class="title">The Lion King on Facebook</h3>
+    </a>
+
+
+    
+    
+    
+    
+
+      <a href="https://www.facebook.com/DisneyTheLionKing"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span><span class="col item  "><div class="entity-container entity-type-promo
+              ratio-square
+              links-out
+              corners-default
+              
+              
+              hide-details
+              
+            ">
+
+    <a href="https://twitter.com/DisneyPictures"  class="entity-link age-gated" data-age="13">
+
+    <div class="promo-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/e419b63cceec54c00095389ecaa35e20b99a5277.jpg" class="thumb" alt="The Lion King on Twitter">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                
+                
+              ">
+
+      <a href="https://twitter.com/DisneyPictures"  class="entity-link age-gated" data-age="13">
+        <h3 class="title">The Lion King on Twitter</h3>
+    </a>
+
+
+    
+    
+    
+    
+
+      <a href="https://twitter.com/DisneyPictures"  class="entity-link cta-link age-gated" data-age="13">
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span><span class="col item  "><div class="entity-container entity-type-promo
+              ratio-square
+              links-out
+              corners-default
+              
+              
+              hide-details
+              
+            ">
+
+    <a href="http://www.youtube.com/DisneyMovies"  class="entity-link" >
+
+    <div class="promo-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/3b544c4ea4c1501d1430aa5430ac6c4c0fae02c3.jpg" class="thumb" alt="The Lion King on YouTube">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                
+                
+              ">
+
+      <a href="http://www.youtube.com/DisneyMovies"  class="entity-link" >
+        <h3 class="title">The Lion King on YouTube</h3>
+    </a>
+
+
+    
+    
+    
+    
+
+      <a href="http://www.youtube.com/DisneyMovies"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span></div>
+  <div class="show_more_container">
+    <div class="bottom-peek"></div>
+    <div class="show_more blue button large" role="button" onclick="">
+    	<span class="label">Show More</span> <span class="spinner"></span>
+    </div>
+  </div>
+</div>
+
+        </section><style type="text/css">
+
+  <!-- /* recommended module 1-12 */ -->
+
+  
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module recommended ref-1-12  primary-theme  ">
+          <div class="bound movie ">
+
+  
+
+<div class="module_header no-desc">
+  <div class="title">
+    <h2>Recommended Movies</h2>
+    
+  </div>
+  
+</div>
+
+
+  <div class="cols-4 col-container">
+    <span class="col item  "><div class="entity-container entity-type-movie
+              ratio-poster
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="http://movies.disney.com/the-little-mermaid"  class="entity-link" >
+
+    <div class="movie-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/4f614e59bf16049e37930b54e0f30780baad264f.jpg" class="thumb" alt="The Little Mermaid">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="http://movies.disney.com/the-little-mermaid"  class="entity-link" >
+        <h3 class="title">The Little Mermaid</h3>
+    </a>
+
+
+    
+    <p class="desc">Venture under the sea where Ariel, a free-spirited mermaid princess, longs to be part of the human world.</p>
+    
+    
+
+      <a href="http://movies.disney.com/the-little-mermaid"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+<span class="col item  "><div class="entity-container entity-type-movie
+              ratio-poster
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="http://movies.disney.com/the-lion-king-2-simbas-pride"  class="entity-link" >
+
+    <div class="movie-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/c2143befe57294665e5649b84819db414ee1aaa4.jpg" class="thumb" alt="The Lion King II: Simba's Pride">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="http://movies.disney.com/the-lion-king-2-simbas-pride"  class="entity-link" >
+        <h3 class="title">The Lion King II: Simba's Pride</h3>
+    </a>
+
+
+    
+    <p class="desc">Experience &quot;Upendi&quot;âwhich means &quot;love&quot;âas Kiara, Simba's daughter, seeks adventure away from her father's watchful gaze.</p>
+    
+    
+
+      <a href="http://movies.disney.com/the-lion-king-2-simbas-pride"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+<span class="col item  "><div class="entity-container entity-type-movie
+              ratio-poster
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="http://movies.disney.com/the-lion-king-1-1-2"  class="entity-link" >
+
+    <div class="movie-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/8e0226c5b23798effdefcc487c24e7a845bfd9bf.jpg" class="thumb" alt="The Lion King 1Â½">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="http://movies.disney.com/the-lion-king-1-1-2"  class="entity-link" >
+        <h3 class="title">The Lion King 1Â½</h3>
+    </a>
+
+
+    
+    <p class="desc">Timon and Pumbaa reveal where they came from and how they helped Simba save the Serengeti.</p>
+    
+    
+
+      <a href="http://movies.disney.com/the-lion-king-1-1-2"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+<span class="col item  "><div class="entity-container entity-type-movie
+              ratio-poster
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="http://movies.disney.com/lady-and-the-tramp"  class="entity-link" >
+
+    <div class="movie-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/65f53a3f63aada68b1dabfe533103888e18f03b2.jpg" class="thumb" alt="Lady and the Tramp">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="http://movies.disney.com/lady-and-the-tramp"  class="entity-link" >
+        <h3 class="title">Lady and the Tramp</h3>
+    </a>
+
+
+    
+    <p class="desc">Live the journey of Lady, a beloved cocker spaniel, and Tramp, a mutt with a heart of gold in one of the best love stories of all time.</p>
+    
+    
+
+      <a href="http://movies.disney.com/lady-and-the-tramp"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+  </div>
+
+</div>
+
+        </section>
+</article>
+<script type="text/javascript">this.Grill?Grill.topper=null:(function(){var a=document.getElementsByTagName("html")[0];a.setAttribute("class",a.getAttribute("class")+" grill-error")})();this.Grill?Grill.burger={"title":"The Lion King | Disney Movies","cto":{"country":"","contentDescription":"","contentType":"","property":"lio","propertyId":"4b9974109d9cbb84fc68753a","buId":"4bb23ddb2ad8cdde025a775d","buCode":"wdas","region":"","intBreadcrumbs":"","cmsId":"MH","program":"","comscorekw":"disneymovies","account":"disneymovies","categoryCode":"dcom","siteCode":"dmovies","brandSegment":"movies","pageName":"the-lion-king","breadcrumbs":"movies:the-lion-king","ctoSrcPath":"/stat/dolWebAnalytics.js"},"cds":0,"pda":true,"href":"http://movies.disney.com/the-lion-king","stack":[{"view":"hero_universal","ref":"1-0","type":"hero","count":1,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[{"id":"4db86048c32bd91d6098c056","slug":"lion-king-property-homepage-hero","entity_type":"hero","entity_config":{},"title":"Lion King Property Homepage Hero","contentPosition":"left","largeLink":true,"editorialColor":"light","takeover_styles":{"pushdown_safety_color":"#c93b1a","local_chrome_color":"light","local_chrome_dark":false,"main_background_color":"#fedd5b","top_gradient":{"color":"#c93b1a","color_stop":"216px"}},"image_assets":{"retina":{"wide_src":"http://cdnvideo.dolimg.com/cdn_assets/f17ffd6ae2e0d485f437e14bbe3dce6e896b2e67.jpg","mobile_src":"http://cdnvideo.dolimg.com/cdn_assets/b9976df8e9920c565564191b7942d35e2010e68b.jpg"},"non_retina":{"wide_src":"http://cdnvideo.dolimg.com/cdn_assets/454702d19ff160b4e6c452fdfcc6c1beaf10d303.jpg","mobile_src":"http://cdnvideo.dolimg.com/cdn_assets/b9976df8e9920c565564191b7942d35e2010e68b.jpg"}},"hero":"http://cdnvideo.dolimg.com/cdn_assets/454702d19ff160b4e6c452fdfcc6c1beaf10d303.jpg","hero2x":"http://cdnvideo.dolimg.com/cdn_assets/f17ffd6ae2e0d485f437e14bbe3dce6e896b2e67.jpg","hero_mobile":"http://cdnvideo.dolimg.com/cdn_assets/b9976df8e9920c565564191b7942d35e2010e68b.jpg","cta_button_title":"See More","type":"Hero"}],"style":{"images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"slide_timer":"3","translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"property_nav","ref":"1-1","type":"propertynav","count":1,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[{"pn_style":{"background_color":"#b82400","gradient_color":"#ff4e00","hover_color":"#911800","hover_gradient_color":"#942d00","active_color":"#cd3500","active_gradient_color":"#911800","font_color":"#ffffff"},"pn_links":[{"title":"Movie Home","type":"ExternalLink","href":"http://movies.disney.com/the-lion-king"},{"title":"Characters","type":"ExternalLink","href":"http://movies.disney.com/the-lion-king/characters"},{"title":"Games & Activities","type":"ExternalLink","href":"http://movies.disney.com/the-lion-king/games-activities"},{"title":"Gallery","type":"ExternalLink","href":"http://movies.disney.com/the-lion-king-gallery"},{"title":"Store","type":"ExternalLink","href":"http://www.disneystore.com/transfer/280559/mn/1000030/?cmp=OTL-Dcom&att=Dcom_FS_TheLionKing_PPN"},{"title":"Parks","type":"ExternalLink","href":"http://disneyparks.disney.go.com/?CMP=AFC-DPFY13Q1DIENT0964G"}],"id":"50720b7ca7483805b551936c","slug":"lion-king","entity_type":"propertynav","entity_config":{},"title":"Lion King","cta_button_title":"See More","type":"PropertyNav"}],"style":{"images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"property_description","ref":"1-2","type":"movie","count":1,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[{"rating":"G","year":1994,"desc":"Embark on an extraordinary coming-of-age adventure as Simba, a lion cub who cannot wait to be king, searches for his destiny in the great \"Circle of Life.\" You will be thrilled by the breathtaking animation, unforgettable Academy Award\u00ae\u2013winning music (1994: Best Original Score; Best Original Song, \"Can You Feel The Love Tonight\") and timeless story.","release":"April 30, 2013","id":"4b9060054c5df50f422a8ba2","slug":"the-lion-king","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"The Lion King","poster":"http://cdnvideo.dolimg.com/cdn_assets/fbe70d3f4d22087adadeda4e2d9cdeee44d466b9.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/fbe70d3f4d22087adadeda4e2d9cdeee44d466b9.jpg","description":"Embark on an extraordinary coming-of-age adventure as Simba, a lion cub who cannot wait to be king, searches for his destiny in the great \"Circle of Life.\" You will be thrilled by the breathtaking animation, unforgettable Academy Award\u00ae\u2013winning music (1994: Best Original Score; Best Original Song, \"Can You Feel The Love Tonight\") and timeless story.","short_desc":"Simba, a lion cub who cannot wait to be king, searches for his destiny in the great \"Circle of Life.\"","cta_button_title":"See More","type":"Movie","ping":"http://ad.doubleclick.net/activity;src=3944448;type=disne065;cat=lionk758;ord=%%rng%%?","href":"http://movies.disney.com/the-lion-king"}],"style":{"images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images","rated":"Rated","release_date":"Release Date"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"characters","ref":"1-3","type":"character","count":9,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[{"person":null,"role":null,"title":"Simba","photo":"http://cdnvideo.dolimg.com/cdn_assets/1b314d908f791d6a66f7d00de77f6226283964f0.jpg","id":"4b9060051b2ac50f422a8ba2","slug":"simba","entity_type":"personality","entity_config":{"title_overlay":true,"extended_title":true,"rounded_corners":"slight","thumb_outline":true,"aspect_ratio":"baseball_card","skip_styles":true,"text_alignment":"center","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/1b314d908f791d6a66f7d00de77f6226283964f0.jpg","description":"Cheerful, feisty lion cub Simba \"Just Can't Wait to Be King,\" but with the loss of his dad, Mufasa, his adventures take a new path. Simba flees accusations, guilt and the Pride Land meeting new friends along the way who teach him a worry free philosophy. As Simba grows into adulthood, he discovers that his father's courage and wisdom are a part of him and reclaims his place as the King of the Pride Lands.","short_desc":"Cheerful, feisty lion cub Simba \"Just Can't Wait to Be King,\" but with the loss of his dad, Mufasa, his adventures take a new path.","cta_button_title":"See More","type":"Character","href":"http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"},{"person":null,"role":null,"title":"Timon","photo":"http://cdnvideo.dolimg.com/cdn_assets/31567f32c560957b5083728fc3657617fba14057.jpg","id":"4b9060051b37c50f422a8ba2","slug":"timon","entity_type":"personality","entity_config":{"title_overlay":true,"extended_title":true,"rounded_corners":"slight","thumb_outline":true,"aspect_ratio":"baseball_card","skip_styles":true,"text_alignment":"center","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/31567f32c560957b5083728fc3657617fba14057.jpg","description":"A hyperactive meerkat with a motor mouth is the self-proclaimed \"brains of the outfit.\" Between making good-natured jokes at Pumbaa's expense, giving gourmet commentary on the bugs de jour and pitching his free-wheeling lifestyle to Simba, he is a loyal little guy who'd give his last wisecrack to help a friend.","short_desc":"A hyperactive meerkat with a motor mouth is the self-proclaimed \"brains of the outfit.\"","cta_button_title":"See More","type":"Character","href":"http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"},{"person":null,"role":null,"title":"Pumbaa","photo":"http://cdnvideo.dolimg.com/cdn_assets/53492e5f36842f9ee7b672f3e7d02e876527e121.jpg","id":"4b9060051aeb050f422a8ba2","slug":"pumbaa","entity_type":"personality","entity_config":{"title_overlay":true,"extended_title":true,"rounded_corners":"slight","thumb_outline":true,"aspect_ratio":"baseball_card","skip_styles":true,"text_alignment":"center","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/53492e5f36842f9ee7b672f3e7d02e876527e121.jpg","description":"This well-padded warthog is a bit clumsy but more than makes up for his slow thought processes with empathy and intuition. Pumbaa is ready to trust anyone, even a carnivore like Simba and is fragrantly by his side when destiny calls.","short_desc":"This well-padded warthog is a bit clumsy but more than makes up for his slow thought processes with empathy and intuition.","cta_button_title":"See More","type":"Character","href":"http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"},{"person":null,"role":null,"title":"Mufasa","photo":"http://cdnvideo.dolimg.com/cdn_assets/4a962cceaf342b640e20655f59a64aaf8a5a7bb2.jpg","id":"4b9060051ace550f422a8ba2","slug":"mufasa","entity_type":"personality","entity_config":{"title_overlay":true,"extended_title":true,"rounded_corners":"slight","thumb_outline":true,"aspect_ratio":"baseball_card","skip_styles":true,"text_alignment":"center","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/4a962cceaf342b640e20655f59a64aaf8a5a7bb2.jpg","description":"Mufasa and his mate, Sarabi, are Simba's parents. As ready to play as he is to instruct, Mufasa guides young Simba with a voice as golden as his magnificent mane. Strong, brave and wise, Mufasa is a true leader whose courage comes from a great, calm certainty about who he is and how he fits into the great Circle of Life.","short_desc":"As ready to play as he is to instruct, Mufasa guides young Simba with a voice as golden as his magnificent mane.","cta_button_title":"See More","type":"Character","href":"http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"},{"person":null,"role":null,"title":"Nala","photo":"http://cdnvideo.dolimg.com/cdn_assets/d40766266fc3d953a7a8852ae62dce92e9ee1e14.jpg","id":"4b9060051ada150f422a8ba2","slug":"nala","entity_type":"personality","entity_config":{"title_overlay":true,"extended_title":true,"rounded_corners":"slight","thumb_outline":true,"aspect_ratio":"baseball_card","skip_styles":true,"text_alignment":"center","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/d40766266fc3d953a7a8852ae62dce92e9ee1e14.jpg","description":"As a cub, Nala is playful, spirited, and spunky. Although she and Simba were best friends, the two never admitted to being in love until they were reunited years later. She was shown to be a fierce fighter, and she was known for a special move, where she would flip an attacker onto his back and pin him to the ground.","short_desc":"Nala and Simba are best friends, and the two never admitted to being in love until they were reunited years later.","cta_button_title":"See More","type":"Character","href":"http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"},{"person":null,"role":null,"title":"Rafiki","photo":"http://cdnvideo.dolimg.com/cdn_assets/2730895304d09375f40c064ef1c63ae1fdef2d0d.jpg","id":"4b9060051af7550f422a8ba2","slug":"rafiki","entity_type":"personality","entity_config":{"title_overlay":true,"extended_title":true,"rounded_corners":"slight","thumb_outline":true,"aspect_ratio":"baseball_card","skip_styles":true,"text_alignment":"center","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/2730895304d09375f40c064ef1c63ae1fdef2d0d.jpg","description":"The old baboon that travels his own road, sings his own songs and knows what he knows. Appearing first to anoint new-born Simba, Rafiki wanders on his mystical way returning when the time is right to help guide Simba back to the path he is meant to follow.","short_desc":"The old baboon that travels his own road, sings his own songs and knows what he knows.","cta_button_title":"See More","type":"Character","href":"http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"},{"person":null,"role":null,"title":"Zazu","photo":"http://cdnvideo.dolimg.com/cdn_assets/4aa570f7053f9d85e37561f70063a10e7bfae876.jpg","id":"4b9060051b44450f422a8ba2","slug":"zazu","entity_type":"personality","entity_config":{"title_overlay":true,"extended_title":true,"rounded_corners":"slight","thumb_outline":true,"aspect_ratio":"baseball_card","skip_styles":true,"text_alignment":"center","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/4aa570f7053f9d85e37561f70063a10e7bfae876.jpg","description":"Mufasa's most trusted advisor, Zazu is a prim and proper hornbill bird with a strong sense of personal dignity. Although Zazu's feathers can be easily ruffled, he is dedicated to Mufasa and stays with the pride through good and bad times.","short_desc":"Mufasa's most trusted advisor, Zazu is a prim and proper hornbill bird with a strong sense of personal dignity.","cta_button_title":"See More","type":"Character","href":"http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"},{"person":null,"role":null,"title":"Scar","photo":"http://cdnvideo.dolimg.com/cdn_assets/710010467df8ea676cb5e8942ef1beaabe34c7f8.jpg","id":"4b9060051b1cf50f422a8ba2","slug":"scar","entity_type":"personality","entity_config":{"title_overlay":true,"extended_title":true,"rounded_corners":"slight","thumb_outline":true,"aspect_ratio":"baseball_card","skip_styles":true,"text_alignment":"center","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/710010467df8ea676cb5e8942ef1beaabe34c7f8.jpg","description":"As Mufasa's brother, Scar was next in line to take the throne until Simba came along. Scar's lack of physical prowess is more than made up for by his devious cunning as he plots to take back his birthright with his henchmen hyenas by his side. He is a selfish and greedy leader, nearly destroying the pride and the land in which they live.","short_desc":"Scar is a selfish and greedy leader as he plots to take back his birthright with his henchmen hyenas by his side.","cta_button_title":"See More","type":"Character","href":"http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"},{"person":null,"role":null,"title":"The Hyenas","photo":"http://cdnvideo.dolimg.com/cdn_assets/fd3ac6069696782b11996472c54bc8e3015f1325.jpg","id":"4b9060051ac2150f422a8ba2","slug":"the-hyenas","entity_type":"personality","entity_config":{"title_overlay":true,"extended_title":true,"rounded_corners":"slight","thumb_outline":true,"aspect_ratio":"baseball_card","skip_styles":true,"text_alignment":"center","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/fd3ac6069696782b11996472c54bc8e3015f1325.jpg","description":"The troublemakers of the plains, these three wisecracking goons are always on the lookout for their next meal or an innocent victim to taunt. When they are not slinking around the elephant graveyard, they do Scar's dirty work. Bansai and Shenzi do all the talking and joking while Ed, the third trouble maker, only laughs hysterically.","short_desc":"These three wisecracking goons are always on the lookout for their next meal or an innocent victim to taunt.","cta_button_title":"See More","type":"Character","href":"http://characters.disney.com/movies/the-lion-king-4b9060054c5df50f422a8ba2"}],"style":{"images":{"background_image":{"url":"http://cdnvideo.dolimg.com/cdn_assets/5d09b89c1df44e8382504ddf8f6b374b5ec89afa.jpg","retina_url":"http://cdnvideo.dolimg.com/cdn_assets/f6be4dab7f620e284cc95dbd013c61ea22840f44.jpg","alignment":"bottom"},"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"slider","ref":"1-4","type":"game","count":4,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":"Play Games ","data":[{"primaryImageName":"game","id":"4c766a2ec43365d52173bbb6","slug":"timon-pumbaa-s-sudoku","entity_type":"game","entity_config":{"rounded_corners":"default","parent_title":false,"thumb_outline":true,"aspect_ratio":"4x3","button_cta":"play_game","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Timon & Pumbaa's Sudoku","go_pub_id":"161745","game_type":"Online: Single-Player","game_data":{"description":"Play Timon and Pumbaa's Sudoku!","fileUrl":"http://a.dolimg.com/media/en-US/games/nondxdgames/tpu_spl_puz_sudoku/tpu_spl_puz_sudoku.swf","height":410,"html5Url":"","id":"161745","images":{"img750x500":""},"minimumFlashPlayerVersion":"10","reportingAssetName":"gam|dc|tpu|dol|spl|act|161745|sudoku","title":"Timon & Pumbaa's Sudoku","type":"AS2","width":580,"apiVersion":"","genre":"puz","lastPublishedDate":"","core_id":"4db85e9b865199ec7698fef1"},"desc":"Play Timon and Pumbaa's Sudoku!","compatibility_flags":["flash"],"thumb":"http://cdnvideo.dolimg.com/cdn_assets/39034d865d96096d829615f56c1dbe92a079c19d.jpg","thumb_4x3":"http://cdnvideo.dolimg.com/cdn_assets/39034d865d96096d829615f56c1dbe92a079c19d.jpg","publish_date":"April 29, 2013","description":"Play Timon and Pumbaa's Sudoku!","short_desc":"Play Timon and Pumbaa's Sudoku!","cta_button_title":"Play Game","sub_type":"online_single_player","type":"Game","href":"http://games.disney.com/timon-pumbaa-s-sudoku"},{"primaryImageName":"game","id":"4c766a2ebec715d52173bbb6","slug":"grub-ridin","entity_type":"game","entity_config":{"rounded_corners":"default","parent_title":false,"thumb_outline":true,"aspect_ratio":"4x3","button_cta":"play_game","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"The Lion King - Grub Ridin'","go_pub_id":"161744","game_type":"Online: Single-Player","game_data":{"description":"Hop on the grubs and go grub ridin'!","fileUrl":"http://a.dolimg.com/media/en-US/games/nondxdgames/tpu_spl_act_grubridin/tpu_spl_act_grubridin.swf","height":410,"html5Url":"","id":"161744","images":{"img750x500":""},"minimumFlashPlayerVersion":"10","reportingAssetName":"gam|dc|tpu|dol|spl|act|161744|grubridin","title":"The Lion King - Grub Ridin'","type":"AS2","width":580,"genre":"arc","lastPublishedDate":"","core_id":"4db85ffec6145390cd0d87eb"},"desc":"Hop on the grubs and go grub ridin'!","compatibility_flags":["flash"],"catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/c19c2d3d9c39c971a5d74948a4d1b991c19e0f06.jpg","sidekick_desktop":"http://cdnvideo.dolimg.com/cdn_assets/4deaf866ba82e40f89cc942ddfc5a603ff896548.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/5c3b4246a903d3fee6c765f6695c8543086722cc.jpg","thumb_4x3":"http://cdnvideo.dolimg.com/cdn_assets/5c3b4246a903d3fee6c765f6695c8543086722cc.jpg","publish_date":"April 29, 2013","description":"Hop on the grubs and go grub ridin'!","short_desc":"Hop on the grubs and go grub ridin'!","cta_button_title":"Play Game","sub_type":"online_single_player","type":"Game","href":"http://games.disney.com/grub-ridin"},{"type":"game","primaryImageName":"logo","id":"4d3e4044c5ab923ede0199ce","slug":"pixel-d-lion-king","entity_type":"game","entity_config":{"rounded_corners":"default","parent_title":false,"thumb_outline":true,"aspect_ratio":"4x3","button_cta":"play_game","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Pixel'd - Lion King","logo":"http://cdnvideo.dolimg.com/cdn_assets/e44d8bfa49348f880c96366e4594bda8dd10faba.png","thumb":"http://cdnvideo.dolimg.com/cdn_assets/e44d8bfa49348f880c96366e4594bda8dd10faba.png","promo":"http://cdnvideo.dolimg.com/cdn_assets/e44d8bfa49348f880c96366e4594bda8dd10faba.png","ref_title_slug":"pixel-d-lion-king","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/e44d8bfa49348f880c96366e4594bda8dd10faba.png","href":"https://itunes.apple.com/us/app/pixeld/id529626244?cmp=SYN%7Cpxld%7CiTunes%7Cdgames%7Csliderdownload%7C%7C011813%7CLionKing%7C%7CsynergyBrand%7C%7C%7C"}],"header_data":{"title":"Play Games ","desc":"Check out these Lion King games"},"style":{"images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See More","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images","ad":"Advertisement"},"see_all_text":"See More","cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8","desc":"Check out these Lion King games"},{"view":"featured_gallery","ref":"1-5","type":"gallery","count":1,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[{"gallery_title":"The Lion King Gallery","parent_page_title":"Visit The Lion King","images":[{"caption":"These childhood friends found each other again as adult lions and fell in love.","id":"52f5316b0a172d5ba8007920","image_d_asset_id":"4dbaf716c4b417e52308b86d","image_filename":"d390c01afc24cf5febf8625f03b7ceacb9223fb4.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/d390c01afc24cf5febf8625f03b7ceacb9223fb4.jpg","mobile_image_d_asset_id":"4f1d5d6e5c2ad1300a0088f5","mobile_image_filename":"dfa943b3b5a00c1af53382d784e94f5bde2acdf9.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/dfa943b3b5a00c1af53382d784e94f5bde2acdf9.jpg","seo_title":"Simba and Nala","thumbnail_image_d_asset_id":"4f1d5d6d2f2b93c655eb1fd0","thumbnail_image_filename":"1212d68e24c97defbaaa80f4774658136de4d29a.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/1212d68e24c97defbaaa80f4774658136de4d29a.jpg","seo":{"title":"Simba and Nala","description":"These childhood friends found each other again as adult lions and fell in love."},"seoCaption":"These childhood friends found each other again as adult lions and fell in love.","image":"http://cdnvideo.dolimg.com/cdn_assets/d390c01afc24cf5febf8625f03b7ceacb9223fb4.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/dfa943b3b5a00c1af53382d784e94f5bde2acdf9.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/1212d68e24c97defbaaa80f4774658136de4d29a.jpg","title":"Simba and Nala"},{"caption":"\"They call me Mr. Pig!\"","id":"52f5316b0a172d5ba800791f","image_d_asset_id":"4dbaf7dfd2f5062932539b02","image_filename":"2029b122c8d431cac5b9ce531fa0337df11291fe.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/2029b122c8d431cac5b9ce531fa0337df11291fe.jpg","mobile_image_d_asset_id":"4f1d5d72136a9fef04db1d9f","mobile_image_filename":"617e1bf68bad23147fc8722a41611b2ada8fb16c.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/617e1bf68bad23147fc8722a41611b2ada8fb16c.jpg","seo_title":"Pumbaa","thumbnail_image_d_asset_id":"4f1d5d70a0b498e5fabc9a49","thumbnail_image_filename":"8e7d3773efa13d4cdb0c95e69b7fb189665e90cb.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/8e7d3773efa13d4cdb0c95e69b7fb189665e90cb.jpg","seo":{"title":"Pumbaa","description":"\"They call me Mr. Pig!\""},"seoCaption":"\"They call me Mr. Pig!\"","image":"http://cdnvideo.dolimg.com/cdn_assets/2029b122c8d431cac5b9ce531fa0337df11291fe.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/617e1bf68bad23147fc8722a41611b2ada8fb16c.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/8e7d3773efa13d4cdb0c95e69b7fb189665e90cb.jpg","title":"Pumbaa"},{"caption":"Mufasa may be king, but his brother has other plans.","id":"52f5316b0a172d5ba800791e","image_d_asset_id":"4dbaf8f893ebb7e4f218b86d","image_filename":"fdd8cf5eb6c7604cbd3774ff1dd52c5adcf551a8.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/fdd8cf5eb6c7604cbd3774ff1dd52c5adcf551a8.jpg","mobile_image_d_asset_id":"4f1d5d75837fc1300a0088f5","mobile_image_filename":"894854aa07b0f6ae9e5dad46f4a2a7f9b7b4964f.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/894854aa07b0f6ae9e5dad46f4a2a7f9b7b4964f.jpg","seo_title":"Scar","thumbnail_image_d_asset_id":"4f1d5d7437b554098e286950","thumbnail_image_filename":"72d00625d9daa8becc5e48d1d386f749eac4c23e.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/72d00625d9daa8becc5e48d1d386f749eac4c23e.jpg","seo":{"title":"Scar","description":"Mufasa may be king, but his brother has other plans."},"seoCaption":"Mufasa may be king, but his brother has other plans.","image":"http://cdnvideo.dolimg.com/cdn_assets/fdd8cf5eb6c7604cbd3774ff1dd52c5adcf551a8.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/894854aa07b0f6ae9e5dad46f4a2a7f9b7b4964f.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/72d00625d9daa8becc5e48d1d386f749eac4c23e.jpg","title":"Scar"},{"caption":"The next heir to the jungle throne is born.","id":"52f5316b0a172d5ba800791d","image_d_asset_id":"4dbaf95b473c09ff04739d31","image_filename":"b0ac051dc4da0b9768c699bd088615c38b40d435.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/b0ac051dc4da0b9768c699bd088615c38b40d435.jpg","mobile_image_d_asset_id":"4f1d5d792132de4ba9aa9b4f","mobile_image_filename":"73d497951e5a0c12a8d53cc6296d67e8c32c8bee.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/73d497951e5a0c12a8d53cc6296d67e8c32c8bee.jpg","seo_title":"Baby Simba","thumbnail_image_d_asset_id":"4f1d5d77ad8d140955c8694f","thumbnail_image_filename":"92ed94893e70be0366b0a8bb9bceaa1685a99461.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/92ed94893e70be0366b0a8bb9bceaa1685a99461.jpg","seo":{"title":"Baby Simba","description":"The next heir to the jungle throne is born."},"seoCaption":"The next heir to the jungle throne is born.","image":"http://cdnvideo.dolimg.com/cdn_assets/b0ac051dc4da0b9768c699bd088615c38b40d435.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/73d497951e5a0c12a8d53cc6296d67e8c32c8bee.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/92ed94893e70be0366b0a8bb9bceaa1685a99461.jpg","title":"Baby Simba"},{"caption":"Rafiki displays Simba to the rest of the jungle.","id":"52f5316b0a172d5ba800791c","image_d_asset_id":"4dbafadace6479d67d397e27","image_filename":"7a6b99449afbed4076af34f79e9f490b1bfe56ba.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/7a6b99449afbed4076af34f79e9f490b1bfe56ba.jpg","mobile_image_d_asset_id":"4f1d5d7cb28db4fb2f19ddab","mobile_image_filename":"8a2a35829674869586924cb2ad18515408c88361.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/8a2a35829674869586924cb2ad18515408c88361.jpg","seo_title":"Circle of Life","thumbnail_image_d_asset_id":"4f1d5d7b7902d8e632ac9a49","thumbnail_image_filename":"8666f9d697a79f57dd9905932bdc129f974aa9d8.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/8666f9d697a79f57dd9905932bdc129f974aa9d8.jpg","seo":{"title":"Circle of Life","description":"Rafiki displays Simba to the rest of the jungle."},"seoCaption":"Rafiki displays Simba to the rest of the jungle.","image":"http://cdnvideo.dolimg.com/cdn_assets/7a6b99449afbed4076af34f79e9f490b1bfe56ba.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/8a2a35829674869586924cb2ad18515408c88361.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/8666f9d697a79f57dd9905932bdc129f974aa9d8.jpg","title":"Circle of Life"},{"caption":"When Simba needs a little help getting past the hyenas, Timon does the hula.","id":"52f5316b0a172d5ba800791b","image_d_asset_id":"4dbafd2e4c89b9d64cd97e27","image_filename":"734c4bd2e0eb1832e5d0d66b5453641d960d4d07.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/734c4bd2e0eb1832e5d0d66b5453641d960d4d07.jpg","mobile_image_d_asset_id":"4f1d5d803751fe4ba9aa9b4f","mobile_image_filename":"1b00f3cabb8e53d94b2071edfce17b2a086a914d.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/1b00f3cabb8e53d94b2071edfce17b2a086a914d.jpg","seo_title":"A Little Distraction","thumbnail_image_d_asset_id":"4f1d5d7ee7f918e632ac9a49","thumbnail_image_filename":"17ad9e54956daf488306017fdef45a7e5f0eba47.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/17ad9e54956daf488306017fdef45a7e5f0eba47.jpg","seo":{"title":"A Little Distraction","description":"When Simba needs a little help getting past the hyenas, Timon does the hula."},"seoCaption":"When Simba needs a little help getting past the hyenas, Timon does the hula.","image":"http://cdnvideo.dolimg.com/cdn_assets/734c4bd2e0eb1832e5d0d66b5453641d960d4d07.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/1b00f3cabb8e53d94b2071edfce17b2a086a914d.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/17ad9e54956daf488306017fdef45a7e5f0eba47.jpg","title":"A Little Distraction"},{"caption":"Timon and Pumbaa teach Simba about how to live life by their motto.","id":"52f5316b0a172d5ba800791a","image_d_asset_id":"4dbafe9c82acc7e4f218b86d","image_filename":"7a6da9750be601b26aac32d6178a2b70ecb38a12.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/7a6da9750be601b26aac32d6178a2b70ecb38a12.jpg","mobile_image_d_asset_id":"4f1d5d839365740955c8694f","mobile_image_filename":"8f0e6d1db922af0b23b8aac69417605b2e2e1de4.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/8f0e6d1db922af0b23b8aac69417605b2e2e1de4.jpg","seo_title":"Hakuna Matata","thumbnail_image_d_asset_id":"4f1d5d823d9fa40955c8694f","thumbnail_image_filename":"616a30f14432dc9714aa0b9e54738b932c01cf22.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/616a30f14432dc9714aa0b9e54738b932c01cf22.jpg","seo":{"title":"Hakuna Matata","description":"Timon and Pumbaa teach Simba about how to live life by their motto."},"seoCaption":"Timon and Pumbaa teach Simba about how to live life by their motto.","image":"http://cdnvideo.dolimg.com/cdn_assets/7a6da9750be601b26aac32d6178a2b70ecb38a12.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/8f0e6d1db922af0b23b8aac69417605b2e2e1de4.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/616a30f14432dc9714aa0b9e54738b932c01cf22.jpg","title":"Hakuna Matata"},{"caption":"Mufasa teaches Simba about what it takes to be king.","id":"52f5316b0a172d5ba8007919","image_d_asset_id":"4dbaff03342e36296a139b02","image_filename":"20fe49e7cc1bcdd4b2a8c951c6ca2fa125b82732.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/20fe49e7cc1bcdd4b2a8c951c6ca2fa125b82732.jpg","mobile_image_d_asset_id":"4f1d5d86bc7c61300a0088f5","mobile_image_filename":"9e404f0a3a52f5abc1ae93d18c122f0899182dae.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/9e404f0a3a52f5abc1ae93d18c122f0899182dae.jpg","seo_title":"Morning Lesson","thumbnail_image_d_asset_id":"4f1d5d85864348e5fabc9a49","thumbnail_image_filename":"79051083bda7a2879ed320f6119350ea68aa828a.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/79051083bda7a2879ed320f6119350ea68aa828a.jpg","seo":{"title":"Morning Lesson","description":"Mufasa teaches Simba about what it takes to be king."},"seoCaption":"Mufasa teaches Simba about what it takes to be king.","image":"http://cdnvideo.dolimg.com/cdn_assets/20fe49e7cc1bcdd4b2a8c951c6ca2fa125b82732.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/9e404f0a3a52f5abc1ae93d18c122f0899182dae.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/79051083bda7a2879ed320f6119350ea68aa828a.jpg","title":"Morning Lesson"},{"caption":"Simba, with help from Nala and the animals of Pride Rock, tells Zazu about what life will be like when he's king.","id":"52f5316b0a172d5ba8007918","image_d_asset_id":"4dbaff556fe967e52298b86d","image_filename":"f24421c870363a36e4255c621e09ad9915c0bcd4.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/f24421c870363a36e4255c621e09ad9915c0bcd4.jpg","mobile_image_d_asset_id":"4f1d5d8ab985a73d400ca0f2","mobile_image_filename":"379570be599373b4247be714c393e6b8bc17c3e1.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/379570be599373b4247be714c393e6b8bc17c3e1.jpg","seo_title":"Just Can't Wait","thumbnail_image_d_asset_id":"4f1d5d893e81c4098e286950","thumbnail_image_filename":"8009eda5f123fe39752d1a3ea0a69f46398a3ef1.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/8009eda5f123fe39752d1a3ea0a69f46398a3ef1.jpg","seo":{"title":"Just Can't Wait","description":"Simba, with help from Nala and the animals of Pride Rock, tells Zazu about what life will be like when he's king."},"seoCaption":"Simba, with help from Nala and the animals of Pride Rock, tells Zazu about what life will be like...","image":"http://cdnvideo.dolimg.com/cdn_assets/f24421c870363a36e4255c621e09ad9915c0bcd4.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/379570be599373b4247be714c393e6b8bc17c3e1.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/8009eda5f123fe39752d1a3ea0a69f46398a3ef1.jpg","title":"Just Can't Wait"},{"caption":"Timon warns Pumbaa about what will happen when Nala and Simba fall in love.","id":"52f5316b0a172d5ba8007917","image_d_asset_id":"4dbb002ea3ae79ff04c39d31","image_filename":"a7a8f2bd45b131d5faa92bc8be5ba5a2aaf8c61e.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/a7a8f2bd45b131d5faa92bc8be5ba5a2aaf8c61e.jpg","mobile_image_d_asset_id":"4f1d5d8e63ec040955c8694f","mobile_image_filename":"693ce503888e53c28315206a14fb022003b1412d.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/693ce503888e53c28315206a14fb022003b1412d.jpg","seo_title":"Trio's Down to Two","thumbnail_image_d_asset_id":"4f1d5d8cf5419e4ba9aa9b4f","thumbnail_image_filename":"4ae37cfa3a3428acbb03421ffc82e65acf15be1b.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/4ae37cfa3a3428acbb03421ffc82e65acf15be1b.jpg","seo":{"title":"Trio's Down to Two","description":"Timon warns Pumbaa about what will happen when Nala and Simba fall in love."},"seoCaption":"Timon warns Pumbaa about what will happen when Nala and Simba fall in love.","image":"http://cdnvideo.dolimg.com/cdn_assets/a7a8f2bd45b131d5faa92bc8be5ba5a2aaf8c61e.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/693ce503888e53c28315206a14fb022003b1412d.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/4ae37cfa3a3428acbb03421ffc82e65acf15be1b.jpg","title":"Trio's Down to Two"},{"caption":"Mufasa and Sarabi look on proudly as Rafiki holds their newborn son.","id":"52f5316b0a172d5ba8007916","image_d_asset_id":"4dbb01924098a7e52308b86d","image_filename":"a9ad8a5bf8ddbc8c28be04a9262f5f68bbe8afc0.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/a9ad8a5bf8ddbc8c28be04a9262f5f68bbe8afc0.jpg","mobile_image_d_asset_id":"4f1d5d91cb35e4095598694f","mobile_image_filename":"c5fe32916d90f43e9c7ae0a24a22aa3e539133f5.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/c5fe32916d90f43e9c7ae0a24a22aa3e539133f5.jpg","seo_title":"A New Family Member","thumbnail_image_d_asset_id":"4f1d5d909fdd74fb2f19ddab","thumbnail_image_filename":"9927d568799be2ef139a10f4ccaf5980e8ba2020.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/9927d568799be2ef139a10f4ccaf5980e8ba2020.jpg","seo":{"title":"A New Family Member","description":"Mufasa and Sarabi look on proudly as Rafiki holds their newborn son."},"seoCaption":"Mufasa and Sarabi look on proudly as Rafiki holds their newborn son.","image":"http://cdnvideo.dolimg.com/cdn_assets/a9ad8a5bf8ddbc8c28be04a9262f5f68bbe8afc0.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/c5fe32916d90f43e9c7ae0a24a22aa3e539133f5.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/9927d568799be2ef139a10f4ccaf5980e8ba2020.jpg","title":"A New Family Member"},{"caption":"Simba takes his rightful place as the king of Pride Rock.","id":"52f5316b0a172d5ba8007915","image_d_asset_id":"4dbb04d0a3c3e6296a739b02","image_filename":"e915ca42041057c9580a5a4fc5a2501938a9ed87.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/e915ca42041057c9580a5a4fc5a2501938a9ed87.jpg","mobile_image_d_asset_id":"4f1d5d94f24ae4fb2f19ddab","mobile_image_filename":"241b829509457b7592745493440949e87d324f51.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/241b829509457b7592745493440949e87d324f51.jpg","seo_title":"Simba's Land","thumbnail_image_d_asset_id":"4f1d5d93bad354fb2f19ddab","thumbnail_image_filename":"93f4e83b62df80ebcc73f4ecb0165b27378bb483.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/93f4e83b62df80ebcc73f4ecb0165b27378bb483.jpg","seo":{"title":"Simba's Land","description":"Simba takes his rightful place as the king of Pride Rock."},"seoCaption":"Simba takes his rightful place as the king of Pride Rock.","image":"http://cdnvideo.dolimg.com/cdn_assets/e915ca42041057c9580a5a4fc5a2501938a9ed87.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/241b829509457b7592745493440949e87d324f51.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/93f4e83b62df80ebcc73f4ecb0165b27378bb483.jpg","title":"Simba's Land"}],"id":"4f1d5d951ad57989c57dc629","slug":"the-lion-king-gallery","entity_type":"gallery","entity_config":{"rounded_corners":"none","thumb_outline":true,"aspect_ratio":"4x3","button_cta":"view_slideshow","stack_box":true,"subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"The Lion King Gallery","banner":"http://cdnvideo.dolimg.com/cdn_assets/c2e76348d6fbef42699fe8a4cbf0550f2ca020d8.jpg","parent_page":"http://movies.disney.com/the-lion-king","numImages":12,"thumbnail":"http://cdnvideo.dolimg.com/cdn_assets/defa1630a948d077fb7208d31aaf19ebde35c8ff.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/defa1630a948d077fb7208d31aaf19ebde35c8ff.jpg","description":"Look through some of your favorite moments with Simba and his friends and relive the adventure","short_desc":"Look through some of your favorite moments with Simba and his friends and relive the adventure","cta_button_title":"View Slideshow","type":"Gallery","href":"http://movies.disney.com/the-lion-king-gallery"}],"style":{"images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images","view_slideshow":"View Slideshow"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"rich_image","ref":"1-6","type":"promo","count":1,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[{"type":"promo","primaryImageName":"square","id":"509f86b6085e8d219958cbfd","slug":"the-legacy-collection-the-lion-king","entity_type":"promo","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","details_visibility":"hide","allow_title_overlay":false,"allow_details_visibility":"hide"},"title":"The Legacy Collection: The Lion King","age_gate":13,"ref_title_slug":"the-legacy-collection-the-lion-king-rich-image","cta_button_title":"See More","href":"http://www.disneymusicemporium.com/rgshop/lion-king/?utm_campaign=LK%20Product&utm_source=disneycom&utm_medium=moviestatic"}],"style":{"images":{"foreground_image":{"url":"http://cdnvideo.dolimg.com/cdn_assets/c7a4bf400de3f85c618ea2603f9d5165c340d8f0.jpg","retina_url":"http://cdnvideo.dolimg.com/cdn_assets/c7a4bf400de3f85c618ea2603f9d5165c340d8f0.jpg","mobile_url":"http://cdnvideo.dolimg.com/cdn_assets/2152b557c7ae5640993f6447d78f2f94e8162c12.jpg","mobile_retina_url":"http://cdnvideo.dolimg.com/cdn_assets/2152b557c7ae5640993f6447d78f2f94e8162c12.jpg","alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"slider","ref":"1-7","type":"movie","count":11,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":"Activities","data":[{"type":"movie","primaryImageName":"poster","id":"4db89372f00c16cb873308a5","slug":"activities-and-puzzles","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Activities and Puzzles","poster":"http://cdnvideo.dolimg.com/cdn_assets/38aaeff0d1df9ed857389d52cba57dd3fcbf297a.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/38aaeff0d1df9ed857389d52cba57dd3fcbf297a.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/38aaeff0d1df9ed857389d52cba57dd3fcbf297a.jpg","ref_title_slug":"lion-king-activities-1","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/38aaeff0d1df9ed857389d52cba57dd3fcbf297a.jpg","href":"http://a.dolimg.com/franchise/lionking/media/printables/LKD_Activities_print.pdf"},{"type":"movie","primaryImageName":"poster","id":"4dbab58426b4359df53db7d2","slug":"jungle-party","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Jungle Party","poster":"http://cdnvideo.dolimg.com/cdn_assets/ee6817131f5cdb9d3ae5441ebcedbb7b099550c7.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/ee6817131f5cdb9d3ae5441ebcedbb7b099550c7.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/ee6817131f5cdb9d3ae5441ebcedbb7b099550c7.jpg","ref_title_slug":"jungle-party","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/ee6817131f5cdb9d3ae5441ebcedbb7b099550c7.jpg","href":"http://spoonful.com/parties/jungle-party-for-kids?cmp=SYN-DIS_Dcom_LionKingActivities_JungleParty_FFcom"},{"type":"movie","primaryImageName":"poster","id":"4db895dab5448390cd0d87eb","slug":"animal-fun-facts","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Animal Fun Facts","poster":"http://cdnvideo.dolimg.com/cdn_assets/e41a4ab699a28ccf48f0465033f094d287f7bf93.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/e41a4ab699a28ccf48f0465033f094d287f7bf93.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/e41a4ab699a28ccf48f0465033f094d287f7bf93.jpg","ref_title_slug":"lion-king-activities-2","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/e41a4ab699a28ccf48f0465033f094d287f7bf93.jpg","href":"http://a.dolimg.com/franchise/lionking/media/printables/LKD_AnimalFacts_print.pdf"},{"type":"movie","primaryImageName":"poster","id":"4db896d4c2b8d91d3038c056","slug":"simba-s-safari-maze","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Simba's Safari Maze","poster":"http://cdnvideo.dolimg.com/cdn_assets/7d1bac7835316494112828d9a06ecf11e865d826.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/7d1bac7835316494112828d9a06ecf11e865d826.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/7d1bac7835316494112828d9a06ecf11e865d826.jpg","ref_title_slug":"lion-king-activities-3","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/7d1bac7835316494112828d9a06ecf11e865d826.jpg","href":"http://a.dolimg.com/franchise/lionking/media/printables/LKD_Maze_print.pdf"},{"type":"movie","primaryImageName":"poster","id":"4dbab5b7e0eb17136822f910","slug":"tiger-and-zebra-costumes","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Tiger and Zebra Costumes","poster":"http://cdnvideo.dolimg.com/cdn_assets/16d25854845538ebca15aa685009b05b128643c5.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/16d25854845538ebca15aa685009b05b128643c5.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/16d25854845538ebca15aa685009b05b128643c5.jpg","ref_title_slug":"tiger-and-zebra-costumes","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/16d25854845538ebca15aa685009b05b128643c5.jpg","href":"http://spoonful.com/crafts/tiger-and-zebra-costumes?cmp=SYN-DIS_Dcom_LionKingActivities_%20Tiger%20and%20Zebra%20Costumes_FFcom"},{"type":"movie","primaryImageName":"poster","id":"4db897840339c91d6098c056","slug":"meet-the-characters","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Meet the Characters","poster":"http://cdnvideo.dolimg.com/cdn_assets/2bf1f54d80b2156ee5d6d28b9c5649050e51b6f6.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/2bf1f54d80b2156ee5d6d28b9c5649050e51b6f6.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/2bf1f54d80b2156ee5d6d28b9c5649050e51b6f6.jpg","ref_title_slug":"lion-king-activities-4","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/2bf1f54d80b2156ee5d6d28b9c5649050e51b6f6.jpg","href":"http://a.dolimg.com/franchise/lionking/media/printables/LKD_Characters.pdf"},{"type":"movie","primaryImageName":"poster","id":"4db8979fa65265e0e69ea3de","slug":"how-to-draw-pumbaa","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"How to Draw Pumbaa","poster":"http://cdnvideo.dolimg.com/cdn_assets/7b5a83cf555496f604f6eef68e39ccc8b613ee3f.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/7b5a83cf555496f604f6eef68e39ccc8b613ee3f.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/7b5a83cf555496f604f6eef68e39ccc8b613ee3f.jpg","ref_title_slug":"lion-king-activities-5","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/7b5a83cf555496f604f6eef68e39ccc8b613ee3f.jpg","href":"http://a.dolimg.com/franchise/lionking/media/printables/LKD_HTDprint_Pumbaa.pdf"},{"type":"movie","primaryImageName":"poster","id":"4dbab56704c839ec7728fef1","slug":"spotted-giraffe","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Spotted Giraffe","poster":"http://cdnvideo.dolimg.com/cdn_assets/3fdfb427cf4495786b3176f1c7c675d8b96c4a54.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/3fdfb427cf4495786b3176f1c7c675d8b96c4a54.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/3fdfb427cf4495786b3176f1c7c675d8b96c4a54.jpg","ref_title_slug":"spotted-giraffe","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/3fdfb427cf4495786b3176f1c7c675d8b96c4a54.jpg","href":"http://spoonful.com/crafts/spotted-giraffe?cmp=SYN-DIS_Dcom_LionKingActivities_Spotted%20Giraffe_FFcom"},{"type":"movie","primaryImageName":"poster","id":"4db897c81390842cacdd33d7","slug":"how-to-draw-timon","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"How to Draw Timon","poster":"http://cdnvideo.dolimg.com/cdn_assets/1404c81638ec1389b056e88837787e9b331686c9.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/1404c81638ec1389b056e88837787e9b331686c9.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/1404c81638ec1389b056e88837787e9b331686c9.jpg","ref_title_slug":"lion-king-activities-6","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/1404c81638ec1389b056e88837787e9b331686c9.jpg","href":"http://a.dolimg.com/franchise/lionking/media/printables/LKD_HTDprint_Timon.pdf"},{"type":"movie","primaryImageName":"poster","id":"4db897efcd31a91cbf78c056","slug":"recipes","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Recipes","poster":"http://cdnvideo.dolimg.com/cdn_assets/7fb40bba1d1a88c42b5733ec599d6a418516d09b.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/7fb40bba1d1a88c42b5733ec599d6a418516d09b.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/7fb40bba1d1a88c42b5733ec599d6a418516d09b.jpg","ref_title_slug":"lion-king-activities-7","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/7fb40bba1d1a88c42b5733ec599d6a418516d09b.jpg","href":"http://a.dolimg.com/franchise/lionking/media/printables/LKD_Recipes_print.pdf"},{"type":"movie","primaryImageName":"poster","id":"4dbab539d6d346ca771308a4","slug":"tiger-cake-recipe","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Tiger Cake Recipe","poster":"http://cdnvideo.dolimg.com/cdn_assets/be42f6651d632b79fd801dfabf2da1d3da11e3c9.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/be42f6651d632b79fd801dfabf2da1d3da11e3c9.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/be42f6651d632b79fd801dfabf2da1d3da11e3c9.jpg","ref_title_slug":"tiger-cake-recipe","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/be42f6651d632b79fd801dfabf2da1d3da11e3c9.jpg","href":"http://spoonful.com/recipes/tiger-cake?cmp=SYN-DIS_Dcom_LionKingActivities_TigerCake_FFcom"}],"header_data":{"title":"Activities"},"style":{"images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See More","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images","ad":"Advertisement"},"see_all_text":"See More","cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"rich_image","ref":"1-8","type":"promo","count":1,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[{"type":"promo","primaryImageName":"square","id":"4dbb105ed75c391d6098c056","slug":"walt-disney-world-art-of-animation-resorts-lion-king-suites","entity_type":"promo","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","details_visibility":"hide","allow_title_overlay":false,"allow_details_visibility":"hide"},"title":"Walt Disney World - Art of Animation Resorts - Lion King Suites","ref_title_slug":"walt-disney-world-art-of-animation-resorts-lion-king-suites-link","cta_button_title":"See More","href":"https://disneyworld.disney.go.com/resorts/art-of-animation-resort/?CMP=AFC-DPFY13Q1DIENT0932Q"}],"style":{"images":{"foreground_image":{"url":"http://cdnvideo.dolimg.com/cdn_assets/2b40324a95a7d958b68379a5d9b1d0635374b1ef.jpg","retina_url":"http://cdnvideo.dolimg.com/cdn_assets/dc6c00e0f2afb8e14e14125ee2db9bc1898623cc.jpg","mobile_url":"http://cdnvideo.dolimg.com/cdn_assets/af580f43fd4e3522f4d945087e52f594a1cdadb3.jpg","mobile_retina_url":"http://cdnvideo.dolimg.com/cdn_assets/af580f43fd4e3522f4d945087e52f594a1cdadb3.jpg","alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"slider","ref":"1-9","type":"product","count":12,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":"Shop","data":[{"id":"1259472/1000272","slug":"the-lion-king-kingdom-pride-giclee-on-canvas-by-rodel-gonzalez-framed","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"The Lion King ''Kingdom Pride'' Gicl\u00e9e on Canvas by Rodel Gonzalez - Framed","product":"product","price":"$924.50","thumb":"http://cdn.s7.disneystore.com/is/image/DisneyShopping/301789?$full$","cta_button_title":"See More","type":"Product","href":"http://www.disneystore.com/transfer/280559/giclees-art-collectibles-the-lion-king-kingdom-pride-giclee-on-canvas-by-rodel-gonzalez-framed/mp/1259472/1000272/?cmp=OTL-Dcom&att=Dcom_FS_TheLionKing_Home_Feed"},{"id":"1366414/1000228","slug":"the-lion-king-the-broadway-musical-tee-for-adults-hakuna-matata","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"The Lion King: The Broadway Musical Tee for Adults - ''Hakuna Matata''","product":"product","price":"$34.95","thumb":"http://cdn.s7.disneystore.com/is/image/DisneyShopping/6801047590944?$full$","cta_button_title":"See More","type":"Product","href":"http://www.disneystore.com/transfer/280559/tees-tops-shirts-clothes-the-lion-king-the-broadway-musical-tee-for-adults-hakuna-matata/mp/1366414/1000228/?cmp=OTL-Dcom&att=Dcom_FS_TheLionKing_Home_Feed"},{"id":"1366373/1000334","slug":"the-lion-king-the-broadway-musical-plush-fleece-blanket","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"The Lion King: The Broadway Musical Plush Fleece Blanket","product":"product","price":"$34.95","thumb":"http://cdn.s7.disneystore.com/is/image/DisneyShopping/6804047590942?$full$","cta_button_title":"See More","type":"Product","href":"http://www.disneystore.com/transfer/280559/fleece-throws-blankets-bed-bath-home-decor-the-lion-king-the-broadway-musical-plush-fleece-blanket/mp/1366373/1000334/?cmp=OTL-Dcom&att=Dcom_FS_TheLionKing_Home_Feed"},{"id":"1366367/1000267","slug":"pumbaa-plush-the-lion-king-the-broadway-musical-mini-bean-bag-9","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"Pumbaa Plush - The Lion King: The Broadway Musical - Mini Bean Bag - 9''","product":"product","price":"$16.95","thumb":"http://cdn.s7.disneystore.com/is/image/DisneyShopping/6805047590946?$full$","cta_button_title":"See More","type":"Product","href":"http://www.disneystore.com/transfer/280559/plush-toys-pumbaa-plush-the-lion-king-the-broadway-musical-mini-bean-bag-9/mp/1366367/1000267/?cmp=OTL-Dcom&att=Dcom_FS_TheLionKing_Home_Feed"},{"id":"1363851/1000350","slug":"the-lion-king-the-broadway-musical-logo-mug","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"The Lion King: The Broadway Musical Logo Mug","product":"product","price":"$14.95","thumb":"http://cdn.s7.disneystore.com/is/image/DisneyShopping/6804047590934?$full$","cta_button_title":"See More","type":"Product","href":"http://www.disneystore.com/transfer/280559/drinkware-kitchen-dinnerware-home-decor-the-lion-king-the-broadway-musical-logo-mug/mp/1363851/1000350/?cmp=OTL-Dcom&att=Dcom_FS_TheLionKing_Home_Feed"},{"id":"1363849/1000295","slug":"the-lion-king-the-broadway-musical-bracelet-set","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"The Lion King: The Broadway Musical Bracelet Set","product":"product","price":"$14.95","thumb":"http://cdn.s7.disneystore.com/is/image/DisneyShopping/6803047590935?$full$","cta_button_title":"See More","type":"Product","href":"http://www.disneystore.com/transfer/280559/jewelry-accessories-the-lion-king-the-broadway-musical-bracelet-set/mp/1363849/1000295/?cmp=OTL-Dcom&att=Dcom_FS_TheLionKing_Home_Feed"},{"id":"1363819/1000295","slug":"the-lion-king-the-broadway-musical-charm-bracelet","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"The Lion King: The Broadway Musical Charm Bracelet","product":"product","price":"$34.95","thumb":"http://cdn.s7.disneystore.com/is/image/DisneyShopping/6803047590942?$full$","cta_button_title":"See More","type":"Product","href":"http://www.disneystore.com/transfer/280559/jewelry-accessories-the-lion-king-the-broadway-musical-charm-bracelet/mp/1363819/1000295/?cmp=OTL-Dcom&att=Dcom_FS_TheLionKing_Home_Feed"},{"id":"1363789/1000272","slug":"the-lion-king-father-and-son-giclee-by-michelle-st-laurent","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"The Lion King ''Father and Son'' Gicl\u00e9e by Michelle St.Laurent","product":"product","price":"$750.00","thumb":"http://cdn.s7.disneystore.com/is/image/DisneyShopping/6811047990912?$full$","cta_button_title":"See More","type":"Product","href":"http://www.disneystore.com/transfer/280559/giclees-art-collectibles-the-lion-king-father-and-son-giclee-by-michelle-stlaurent/mp/1363789/1000272/?cmp=OTL-Dcom&att=Dcom_FS_TheLionKing_Home_Feed"},{"id":"1363173/1000228","slug":"the-lion-king-tee-for-women","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"The Lion King Tee for Women","product":"product","price":"$19.95","thumb":"http://cdn.s7.disneystore.com/is/image/DisneyShopping/5701047785763?$full$","cta_button_title":"See More","type":"Product","href":"http://www.disneystore.com/transfer/280559/tees-tops-shirts-clothes-the-lion-king-tee-for-women/mp/1363173/1000228/?cmp=OTL-Dcom&att=Dcom_FS_TheLionKing_Home_Feed"},{"id":"1362556/1000267","slug":"simba-disney-s-babies-plush-doll-and-blanket","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"Simba Disney's Babies Plush Doll and Blanket","product":"product","price":"$23.95","thumb":"http://cdn.s7.disneystore.com/is/image/DisneyShopping/7512055880136?$full$","cta_button_title":"See More","type":"Product","href":"http://www.disneystore.com/transfer/280559/plush-toys-simba-disneys-babies-plush-doll-and-blanket/mp/1362556/1000267/?cmp=OTL-Dcom&att=Dcom_FS_TheLionKing_Home_Feed"},{"id":"1359717/1000234","slug":"the-lion-king-the-legacy-collection-cd","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"The Lion King The Legacy Collection CD","product":"product","price":"$19.95","thumb":"http://cdn.s7.disneystore.com/is/image/DisneyShopping/1343039291592?$full$","cta_button_title":"See More","type":"Product","href":"http://www.disneystore.com/transfer/280559/music-entertainment-the-lion-king-the-legacy-collection-cd/mp/1359717/1000234/?cmp=OTL-Dcom&att=Dcom_FS_TheLionKing_Home_Feed"},{"id":"1359630/1000327","slug":"pumbaa-plush-pillow-the-lion-king","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"Pumbaa Plush Pillow - The Lion King","product":"product","price":"$32.95","thumb":"http://cdn.s7.disneystore.com/is/image/DisneyShopping/7512055880122?$full$","cta_button_title":"See More","type":"Product","href":"http://www.disneystore.com/transfer/280559/bedding-bed-bath-home-decor-pumbaa-plush-pillow-the-lion-king/mp/1359630/1000327/?cmp=OTL-Dcom&att=Dcom_FS_TheLionKing_Home_Feed"}],"header_data":{"title":"Shop"},"seeAll":"http://www.disneystore.com/transfer/280559/mn/1000030/?cmp=OTL-Dcom&att=Dcom_FS_TheLionKing_HP_SeeAll","style":{"images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See More","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images","ad":"Advertisement"},"see_all_text":"See More","cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"halfling","ref":"1-10","type":"promo","count":1,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[{"type":"promo","primaryImageName":"square","id":"4db87983fa9bc42c747d33d7","slug":"the-lion-king-on-broadway","entity_type":"promo","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","details_visibility":"hide","allow_title_overlay":false,"allow_details_visibility":"hide"},"title":"The Lion King On Broadway","square":"http://cdnvideo.dolimg.com/cdn_assets/48fe87584cf9e5c3e21990c212a63334e31ccee8.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/48fe87584cf9e5c3e21990c212a63334e31ccee8.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/48fe87584cf9e5c3e21990c212a63334e31ccee8.jpg","ref_title_slug":"disney-on-broadway-the-lion-king","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/48fe87584cf9e5c3e21990c212a63334e31ccee8.jpg","href":"http://www.lionking.com?cmp=SYN%7Clkonb%7Cbroadway%7Cdmovies%7Chalfling%7C%7C050113%7Clionking%7Cexternal%7CdcomM%7C%7C%7C"}],"style":{"layout":"left","images":{"background_image":{"url":"http://cdnvideo.dolimg.com/cdn_assets/a56bbce13660381b0c5b666238721418cc13dfb0.jpg","retina_url":null,"alignment":"top"},"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"stream","ref":"1-11","type":"promo","count":3,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":"Social","data":[{"type":"promo","primaryImageName":"square","id":"4db883f5de43191cbf78c056","slug":"the-lion-king-on-facebook","entity_type":"promo","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","details_visibility":"hide","allow_title_overlay":false,"allow_details_visibility":"hide"},"title":"The Lion King on Facebook","square":"http://cdnvideo.dolimg.com/cdn_assets/653dcac4f00c648a69ace3dc02ac3a06a81f1b40.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/653dcac4f00c648a69ace3dc02ac3a06a81f1b40.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/653dcac4f00c648a69ace3dc02ac3a06a81f1b40.jpg","ref_title_slug":"the-lion-king-facebook","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/653dcac4f00c648a69ace3dc02ac3a06a81f1b40.jpg","href":"https://www.facebook.com/DisneyTheLionKing"},{"type":"promo","primaryImageName":"square","id":"4db8842ee7be0390cd2d87eb","slug":"the-lion-king-on-twitter","entity_type":"promo","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","details_visibility":"hide","allow_title_overlay":false,"allow_details_visibility":"hide"},"title":"The Lion King on Twitter","square":"http://cdnvideo.dolimg.com/cdn_assets/e419b63cceec54c00095389ecaa35e20b99a5277.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/e419b63cceec54c00095389ecaa35e20b99a5277.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/e419b63cceec54c00095389ecaa35e20b99a5277.jpg","age_gate":13,"ref_title_slug":"the-lion-king-twitter","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/e419b63cceec54c00095389ecaa35e20b99a5277.jpg","href":"https://twitter.com/DisneyPictures"},{"type":"promo","primaryImageName":"square","id":"4db8862816d6291dcf98c057","slug":"the-lion-king-on-youtube","entity_type":"promo","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","details_visibility":"hide","allow_title_overlay":false,"allow_details_visibility":"hide"},"title":"The Lion King on YouTube","square":"http://cdnvideo.dolimg.com/cdn_assets/3b544c4ea4c1501d1430aa5430ac6c4c0fae02c3.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/3b544c4ea4c1501d1430aa5430ac6c4c0fae02c3.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/3b544c4ea4c1501d1430aa5430ac6c4c0fae02c3.jpg","ref_title_slug":"the-lion-king-youtube","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/3b544c4ea4c1501d1430aa5430ac6c4c0fae02c3.jpg","href":"http://www.youtube.com/DisneyMovies"}],"header_data":{"title":"Social"},"style":{"images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See More","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images"},"see_all_text":"See More","cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"recommended","ref":"1-12","type":"movie","count":5,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":"Recommended Movies","data":[{"rating":"G","year":null,"desc":"With unforgettable characters, thrilling adventures, soaring Academy Award\u00ae-winning music (1989: Best Music, Original Score, and Best Music, Original Song, \u201cUnder The Sea\u201d), The Little Mermaid is one of the most celebrated animated films of all time. Now spectacularly transformed for the first time on Blu-ray with digitally restored picture and brilliant high-definition sound!\r\n\r\nVenture under the sea where Ariel, a free-spirited mermaid princess, longs to be part of the human world. After bravely striking a bargain with Ursula, a sneaky sea witch, Ariel embarks on the adventure of a lifetime. With Flounder and Sebastian at her side, Ariel will need all of her courage and determination to make things right in both her worlds.","release":"October 1, 2013","id":"4b9060054cacb50f422a8ba2","slug":"the-little-mermaid","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"The Little Mermaid","watch_message":"Own it now for the first time on Blu-ray\u2122 combo pack and digital HD","reRelease":"October 1, 2013","tid":"4bd800c8613d293a6ac45c67","ttitle":"The Little Mermaid Trailer","tduration":"1:13","re_release_date":"2013-10-01","poster":"http://cdnvideo.dolimg.com/cdn_assets/4f614e59bf16049e37930b54e0f30780baad264f.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/4f614e59bf16049e37930b54e0f30780baad264f.jpg","catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/d14caa17a81751ecc8ce09339ec0e5b76663dc14.jpg","thref":"http://video.disney.com/watch/the-little-mermaid-trailer-4bd800c8613d293a6ac45c67","tthumb":"http://cdnvideo.dolimg.com/cdn_assets/afccb968d765b0f438588b4eeb800bfa9e3c41f2.jpg","description":"With unforgettable characters, thrilling adventures, soaring Academy Award\u00ae-winning music (1989: Best Music, Original Score, and Best Music, Original Song, \u201cUnder The Sea\u201d), The Little Mermaid is one of the most celebrated animated films of all time. Now spectacularly transformed for the first time on Blu-ray with digitally restored picture and brilliant high-definition sound!\r\n\r\nVenture under the sea where Ariel, a free-spirited mermaid princess, longs to be part of the human world. After bravely striking a bargain with Ursula, a sneaky sea witch, Ariel embarks on the adventure of a lifetime. With Flounder and Sebastian at her side, Ariel will need all of her courage and determination to make things right in both her worlds.","short_desc":"Venture under the sea where Ariel, a free-spirited mermaid princess, longs to be part of the human world.","cta_button_title":"See More","type":"Movie","href":"http://movies.disney.com/the-little-mermaid"},{"rating":null,"year":null,"desc":"Experience the power of \"Upendi\" - which means \"love\" - as Kiara, Simba's strong-willed daughter, seeks adventure away from her father's watchful gaze. Timon and Pumbaa can do only so much to protect her, especially when she encounters an intriguing rival, Kovu, a cub who is being groomed to lead Scar's pride. As Kiara and Kovu search for their proper places in the great \"Circle of Life,\" they discover that it may be their destiny to reunite their prides and bring peace to the Pride Lands.\r\n\r\nFeaturing the original all-star voice cast, breathtaking animation, and enchanting songs, Kiara and Kovu's adventure thrills audiences of all ages as the glorious \"Circle of Life\" continues for a new generation.","release":null,"id":"4ba34c711177659e961b9666","slug":"the-lion-king-2-simbas-pride","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"The Lion King II: Simba's Pride","poster":"http://cdnvideo.dolimg.com/cdn_assets/c2143befe57294665e5649b84819db414ee1aaa4.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/c2143befe57294665e5649b84819db414ee1aaa4.jpg","catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/c2143befe57294665e5649b84819db414ee1aaa4.jpg","description":"Experience the power of \"Upendi\" - which means \"love\" - as Kiara, Simba's strong-willed daughter, seeks adventure away from her father's watchful gaze. Timon and Pumbaa can do only so much to protect her, especially when she encounters an intriguing rival, Kovu, a cub who is being groomed to lead Scar's pride. As Kiara and Kovu search for their proper places in the great \"Circle of Life,\" they discover that it may be their destiny to reunite their prides and bring peace to the Pride Lands.\r\n\r\nFeaturing the original all-star voice cast, breathtaking animation, and enchanting songs, Kiara and Kovu's adventure thrills audiences of all ages as the glorious \"Circle of Life\" continues for a new generation.","short_desc":"Experience \"Upendi\"\u2014which means \"love\"\u2014as Kiara, Simba's daughter, seeks adventure away from her father's watchful gaze.","cta_button_title":"See More","type":"Movie","href":"http://movies.disney.com/the-lion-king-2-simbas-pride"},{"rating":null,"year":null,"desc":"From their uniquely hysterical perspective, Timon and his windy pal Pumbaa - the greatest unsung heroes of the Savanna - reveal where they came from, how they helped Simba save the Serengeti, and what really happened behind the scenes of The Lion King's biggest events.\r\n\r\nThis essential chapter of The Lion King trilogy features your favorite characters voiced by the original cast (Nathan Lane, Matthew Broderick, Ernie Sabella, plus Julie Kavner and Jerry Stiller) and music by Elton John and Tim Rice. You'll feel the love for every outrageously funny moment.","release":null,"id":"4ba34c710cf7259e961b9666","slug":"the-lion-king-1-1-2","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"The Lion King 1\u00bd","poster":"http://cdnvideo.dolimg.com/cdn_assets/8e0226c5b23798effdefcc487c24e7a845bfd9bf.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/8e0226c5b23798effdefcc487c24e7a845bfd9bf.jpg","catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/8e0226c5b23798effdefcc487c24e7a845bfd9bf.jpg","description":"From their uniquely hysterical perspective, Timon and his windy pal Pumbaa - the greatest unsung heroes of the Savanna - reveal where they came from, how they helped Simba save the Serengeti, and what really happened behind the scenes of The Lion King's biggest events.\r\n\r\nThis essential chapter of The Lion King trilogy features your favorite characters voiced by the original cast (Nathan Lane, Matthew Broderick, Ernie Sabella, plus Julie Kavner and Jerry Stiller) and music by Elton John and Tim Rice. You'll feel the love for every outrageously funny moment.","short_desc":"Timon and Pumbaa reveal where they came from and how they helped Simba save the Serengeti.","cta_button_title":"See More","type":"Movie","href":"http://movies.disney.com/the-lion-king-1-1-2"},{"rating":"G","year":null,"desc":"Experience the thrilling adventures of Lady, a lovingly pampered cocker spaniel, and Tramp, a freewheeling mutt with a heart of gold. When Lady's master and mistress, Jim Dear and Darling, leave town for a few days, Aunt Sarah arrives with her two cats to babysit. This heartwarming tale features exquisite animation, unforgettable songs and one of the greatest love stories of all time.","release":"June 22, 1955","id":"4b9060054be2650f422a8ba2","slug":"lady-and-the-tramp","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Lady and the Tramp","tid":"4bb39bd10480ea8833003b15","ttitle":"Lady and the Tramp Trailer","tduration":"1:18","poster":"http://cdnvideo.dolimg.com/cdn_assets/65f53a3f63aada68b1dabfe533103888e18f03b2.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/65f53a3f63aada68b1dabfe533103888e18f03b2.jpg","catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/65f53a3f63aada68b1dabfe533103888e18f03b2.jpg","thref":"http://video.disney.com/watch/lady-and-the-tramp-trailer-4bb39bd10480ea8833003b15","tthumb":"http://cdnvideo.dolimg.com/cdn_assets/056499298627f951ca0b3ddcabc75ca119e3ebad.jpg","description":"Experience the thrilling adventures of Lady, a lovingly pampered cocker spaniel, and Tramp, a freewheeling mutt with a heart of gold. When Lady's master and mistress, Jim Dear and Darling, leave town for a few days, Aunt Sarah arrives with her two cats to babysit. This heartwarming tale features exquisite animation, unforgettable songs and one of the greatest love stories of all time.","short_desc":"Live the journey of Lady, a beloved cocker spaniel, and Tramp, a mutt with a heart of gold in one of the best love stories of all time.","cta_button_title":"See More","type":"Movie","href":"http://movies.disney.com/lady-and-the-tramp"},{"rating":"G","year":null,"desc":"Hotshot rookie race car Lightning McQueen is living life in the fast lane until he hits a detour on his way to the most important race of his life. Stranded in Radiator Springs, a forgotten town on the old Route 66, he meets Sally, Mater, Doc Hudson and a variety of quirky characters who help him discover that there's more to life than trophies and fame.","release":"June 9, 2006","id":"4b9060054bcab50f422a8ba2","slug":"cars","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Cars","poster":"http://cdnvideo.dolimg.com/cdn_assets/90dc1edd388a9198962a95cb1fab9098666219e1.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/90dc1edd388a9198962a95cb1fab9098666219e1.jpg","description":"Hotshot rookie race car Lightning McQueen is living life in the fast lane until he hits a detour on his way to the most important race of his life. Stranded in Radiator Springs, a forgotten town on the old Route 66, he meets Sally, Mater, Doc Hudson and a variety of quirky characters who help him discover that there's more to life than trophies and fame.","short_desc":"In Radiator Springs, Lightning McQueen meets quirky characters who help him discover that there's more to life than trophies and fame.","cta_button_title":"See More","type":"Movie","href":"http://cars.disney.com/cars"}],"header_data":{"title":"Recommended Movies"},"style":{"images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"}],"style":null,"adData":{"config":{"targeting":{"unit":"dol","siteSection":"the-lion-king","contentType":"movie","pageName":"the-lion-king","contentId":"4b9060054c5df50f422a8ba2","property":"lio","propertyId":"4b9974109d9cbb84fc68753a","actor":"","character":"","characterId":null,"keywords":null,"product":null,"movieGenre":"Adventure","movieRating":"G","movieTitle":"The Lion King","gameGenre":null,"gameTitle":null,"gameType":null},"web":"/7046/dcom/movies/the-lion-king","mobile":"/7046/dcom-mobile/movies/the-lion-king"},"cds":0,"disableAds":false,"pda":true,"adSystem":"dfp","adTargeting":{"unit":"dol","siteSection":"the-lion-king","contentType":"movie","pageName":"the-lion-king","contentId":"4b9060054c5df50f422a8ba2","property":"lio","propertyId":"4b9974109d9cbb84fc68753a","actor":"","character":"","characterId":null,"keywords":null,"product":null,"movieGenre":"Adventure","movieRating":"G","movieTitle":"The Lion King","gameGenre":null,"gameTitle":null,"gameType":null},"cmsIdKalturaMap":[{"description":"US","kaltura_act_id":"628012","cms_id":"604"}],"dfpAdRule":1},"market_code":"us","browser_warning":{"header":"We recommend you view this site in a newer web browser.","body":"Disney wants to bring you the best online experiences that use the latest technology. You may continue to the site, but we cannot guarantee that things will look and behave correctly.","continue_button":"Continue"},"age_gate_text":{},"optimizely":{},"global_chrome":{"background":"dark"},"branding":"Disney Lifestyle","ping":"http://ad.doubleclick.net/activity;src=3944448;type=disne065;cat=lionk758;ord=%%rng%%?"}:(function(){var a=document.getElementsByTagName("html")[0];a.setAttribute("class",a.getAttribute("class")+" grill-error")})();</script>
+<!-- pageview_candidate comscorekw=disneymovies -->
+</div>
+    </div>
+    <footer>
+      <h2 class="outline">Footer</h2>
+      <nav id="bottomnav">
+        <div class="mobile-home">
+          <h3><a href="/">Home</a></h3>
+        </div>
+        <ul class="cols-4"><li class="col item">
+          <h3><a href="http://movies.disney.com/in-theaters">In Theaters</a></h3>
+            <a href="http://movies.disney.com/mcfarland-usa"  data-module-title="In Theaters">McFarland USA</a>
+            <a href="http://movies.disney.com/into-the-woods/"  data-module-title="In Theaters">Into the Woods</a>
+        </li><li class="col item">
+          <h3><a href="http://movies.disney.com/watch-at-home">In Stores</a></h3>
+            <a href="http://movies.disney.com/big-hero-6/"  data-module-title="In Stores">Big Hero 6</a>
+            <a href="http://marvel.com/movies/movie/179/guardians_of_the_galaxy"  data-module-title="In Stores">Marvel's Guardians of the Galaxy</a>
+            <a href="http://movies.disney.com/alexander-and-the-terrible-horrible-no-good-very-bad-day"  data-module-title="In Stores">Alexander and the Terrible, Horrible, No Good, Very Bad Day</a>
+            <a href="http://frozen.disney.com/products"  data-module-title="In Stores">Frozen</a>
+        </li><li class="col item">
+          <h3><a href="http://movies.disney.com/watch-at-home">At Home</a></h3>
+            <a href="http://www.disneymoviesanywhere.com/?cmp=SYN%7CDMA%7Cannounce%7CDisCom%7CMoviePortal%7CFooter%7C20140512%7C%7C%7CCOARgi%7C%7C"  data-module-title="At Home">Disney Movies Anywhere</a>
+            <a href="http://www.disneymovierewards.go.com/?cmp=DMR%7CSYN%7CDCOM%7CMovies%7CBAC%7CHome"  data-module-title="At Home">Disney Movie Rewards</a>
+            <a href="https://disneymovieclub.go.com/webapp/wcs/stores/servlet/AcquisitionBrowseView?langId=-1&amp;storeId=10001&amp;catalogId=10051&amp;headerText=Bestsellers&amp;categoryId=5024504&amp;offerId=25583D&amp;source=DCOM&amp;sourceId=x"  data-module-title="At Home">Disney Movie Club</a>
+            <a href="http://disneysecondscreen.go.com/"  data-module-title="At Home">Disney Second Screen</a>
+            <a href="http://disney.go.com/vodppv/index.html"  data-module-title="At Home">On VOD &amp; PPV</a>
+        </li><li class="col item">
+          <h3><a href="http://www.disneystudioshelp.com/">Get Support</a></h3>
+            <a href="http://www.digitalcopyplus.com/"  data-module-title="Get Support">Disney Digital Copy</a>
+            <a href="http://www.disneystudioshelp.com/"  data-module-title="Get Support">Technical Support</a>
+            <a href="http://cdn.dolimg.com/franchise/worldofwonder/WOW_BD_56pgBooklet%20-%20BD.pdf"  data-module-title="Get Support">World of Wonder User Manual</a>
+        </li></ul>
+      </nav>
+    
+      <section id="utility" class="">
+        <div class="divider">
+            <form class="search" action="http://search.disney.com/search" method="GET">
+              <input type="hidden" name="o" value="home">
+              <div class="search-field">
+                <input type="text" name="q" placeholder="Search" autocomplete="off" id="searchField_Footer">
+                <span class="search-icon"></span>
+              </div>
+            </form>
+        </div>
+      </section>
+    
+    
+    </footer>
+  </div>
+
+  
+  <div id="goc-ft">
+  <section id="help">
+    <h2 class="outline">Help</h2>
+    <div id="logo"></div>
+    <nav>
+      <h3 class="outline">About and Legal</h3>
+      <ul id="about">
+          <li><a target="" href="http://corporate.disney.go.com/index.html?ppLink=pp_wdig">About Disney</a></li>
+          <li><a target="" href="https://help.disney.com/">Disney Help</a></li>
+          <li><a target="" href="http://disneycareers.com/en/default/">Careers</a></li>
+          <li><a target="" href="http://disney.go.com/guestservices/">Contact Us</a></li>
+          <li><a target="" href="http://family.disney.com/">Family</a></li>
+          <li><a target="" href="http://www.babble.com/">Babble</a></li>
+      </ul>
+      <ul id="legal">
+          <li><a target="" href="http://disneytermsofuse.com">Terms of Use</a></li>
+          <li><a target="" href="http://disney.go.com/guestservices/legalnotices?ppLink=pp_wdig">Legal Notices</a></li>
+          <li><a target="" href="https://disneyprivacycenter.com/">Privacy Policy</a></li>
+          <li><a target="" href="https://disneyprivacycenter.com/notice-to-california-residents/">Your California Privacy Rights</a></li>
+          <li><a target="" href="https://disneyprivacycenter.com/kids-privacy-policy/english/">Children's Online Privacy Policy</a></li>
+          <li><a target="" href="http://disney.go.com/guestservices/disclaimers/redirect?destination=http://preferences.truste.com/2.0/?type=disneycolor&amp;affiliateId=115">Interest-Based Ads</a></li>
+      </ul>
+      <div id="copyright">
+        Â© Disney, All Rights Reserved, <span class="branding">Disney Lifestyle</span>
+      </div>
+    </nav>
+  </section>
+</div>
+</div>
+  <div id="browser_warning" class="modal-prompt-window">
+  <div class="modal-info">
+    <ul id="modal_message">
+      <h3 class="modal-title" style="text-align:left">We recommend you view this site in a newer web browser.</h3>
+      <p class="modal-content">Disney wants to bring you the best online experiences that use the latest technology. You may continue to the site, but we cannot guarantee that things will look and behave correctly.</p>
+      <div class="modal-accept">
+        <a id="modal_accept" class="button large blue"></a>
+      </div>
+    </ul>
+  </div>
+</div>
+<div class="modal-overlay"></div>
+
+</body>
+</html>

@@ -1,0 +1,2659 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+<meta charset="UTF-8" />
+<title>  Inception Ending Explained</title><meta name="description" content="Confused about the ending of <i>'Inception'</i>? Here's an explanation of what really happened in the film." /><link name="syndication-source" href="http://screenrant.com/inception-spoilers-discussion-kofi-68330/" /><link rel="stylesheet" type="text/css" media="all" href="http://screenrant.com/wp-content/themes/sr7.9k/style.css?v=25" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<meta name="robots" content="noodp,noydir" />
+<link rel="publisher" href="http://plus.google.com/+ScreenRant/posts"/>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feedproxy.google.com/ScreenRant" />
+<link rel="pingback" href="http://screenrant.com/xmlrpc.php" />
+<meta property="og:locale" content="en_US" />
+<!-- <meta property="og:type" content="website" /> -->
+<meta property="og:site_name" content="Screen Rant" />
+<meta property="article:publisher" content="http://www.facebook.com/ScreenRant" />
+<meta property="fb:app_id" content="165146876864" />
+<meta name="twitter:domain" content="ScreenRant.com">
+<meta property="fb:admins" content="1048215690">
+<!-- Open Graph headers -->
+<meta name="twitter:title" content="Inception Ending Explained">
+<meta name="twitter:description" content="Confused about the ending of 'Inception'? Here's an explanation of what really happened in the film.">
+<meta name="twitter:image:src" content="">
+<!-- META DATA // have home and all singular pages need to also do category/archive pages. -->
+<link rel="canonical" href="http://screenrant.com/inception-spoilers-discussion-kofi-68330/" />
+<meta name="news_keywords" content="Inception, Movie News" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Inception Ending Explained" />
+<meta property="og:description" content="Confused about the ending of <i>'Inception'</i>? Here's an explanation of what really happened in the film." />
+<meta property="og:url" content="http://screenrant.com/inception-spoilers-discussion-kofi-68330/" />
+<meta property="article:tag" content="Inception, Inception, " />
+<meta property="article:section" content="Movie News,Movie News" />
+<meta property="article:published_time" content="2010-07-19T12:43:03+00:00" />
+<meta property="article:modified_time" content="2012-06-02T19:16:17+00:00" />
+<meta property="og:updated_time" content="2012-06-02T19:16:17+00:00" />
+<meta property="og:image" content="" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@screenrant">
+<meta property="article:author" content="Kofi Outlaw" />
+<meta name="twitter:creator" content="@@ppnkof">
+<!-- / -->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "9213422" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=9213422&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Please set Google Analytics position to "manual" in the settings, or remove this call to yoast_analytics(); --><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script async type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> <!-- Chartbeat -->
+<script async type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-537e0c8e16fab71e"></script>
+<script async type="text/javascript" src="http://screenrant.com/wp-content/themes/sr7.9k/js/jquery.tools.sr-min.js"></script>
+<script async src="http://screenrant.com/wp-content/themes/sr7.9k/js/unminified/draft2.js?v=1.0"></script>
+<script>var clickCount = 0;</script>
+
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-1923027-1']);
+				            _gaq.push(['_setCustomVar',1,'post_type','post',3],['_setCustomVar',2,'author','kofi-outlaw',3],['_setCustomVar',3,'tags','inception',3],['_setCustomVar',4,'category','movie-news',3],['_setCustomVar',5,'categories','movie-news',3],['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>
+			<link rel="alternate" type="application/rss+xml" title="Screen Rant &raquo; Inception Ending Explained Comments Feed" href="http://screenrant.com/inception-spoilers-discussion-kofi-68330/feed/" />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://cdn.screenrant.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.2' type='text/css' media='all' />
+
+<!-- This site is using AdRotate v3.11.2 Professional to display their advertisements - https://www.adrotateplugin.com/ -->
+<!-- AdRotate CSS -->
+<style type="text/css" media="screen">
+	.g { margin:0px; padding:0px; overflow:hidden; line-height:1; zoom:1; }
+	.g-col { position:relative; float:left; }
+	.g-col:first-child { margin-left: 0; }
+	.g-col:last-child { margin-right: 0; }
+	.g-9 { margin:1px 1px 1px 1px; }
+	.g-13 { margin:1px 1px 1px 1px; }
+	.g-16 { margin:1px 1px 1px 1px; }
+	.g-18 { margin:1px 1px 1px 1px; }
+	.g-19 { margin:1px 1px 1px 1px; }
+	.g-20 { margin:1px 1px 1px 1px; }
+	.g-21 { margin:1px 1px 1px 1px; }
+	.g-22 { margin:1px 1px 1px 1px; }
+	.g-23 { margin:1px 1px 1px 1px; }
+	.g-24 { margin:1px 1px 1px 1px; }
+	.g-25 { margin:1px 1px 1px 1px; }
+	.g-26 { margin:1px 1px 1px 1px; }
+	.g-27 { margin:1px 1px 1px 1px; }
+	.g-28 { margin:1px 1px 1px 1px; }
+	.g-29 { margin:1px 1px 1px 1px; }
+	.g-30 { margin:1px 1px 1px 1px; }
+	@media only screen and (max-width: 480px) {
+		.g-col, .g-dyn, .g-single { width:100%; margin-left:0; margin-right:0; }
+	}
+</style>
+<!-- /AdRotate CSS -->
+
+<link rel="stylesheet" type="text/css" href="http://cdn.screenrant.com/wp-content/plugins/most-shared-posts/most-shared-posts.css">
+
+<meta name="robots" content="noodp,noydir"/><script type="text/javascript">
+jQuery(document).ready(function($){
+  if (navigator.platform == "iPad") return;
+  jQuery("img").not(".ssimg,.nolazy").lazyload({
+    effect:"fadeIn",
+    placeholder: "http://cdn.screenrant.com/wp-content/themes/live/images/bk_sidenav.png",
+    threshold: 300
+  });
+});
+</script>
+<style>
+
+#trending { /** header settings for the site **/
+        width:1060px;
+        padding-top:4px;
+        height:30px;
+        z-index:1;
+        clear: both; /* Keeps the elements vertical */
+        margin: 0px auto; /* The 5px is top and bottom, the auto centers horizontal */
+        align:left;
+        font-family:'HelveticaNeueRegular','Trebuchet MS',verdana,arial,helvetica,sans-serif;
+        font-size:18px;
+        font-weight:bold;
+}
+.sidebar_m_content
+{
+        padding: 0 0 0 100px; /* width of image + padding space */
+        position: relative;
+}
+.sidebar_m_content img
+{
+                left: 0;
+                position: absolute;
+                top: 0;
+}
+</style>
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '752985568058258']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=752985568058258&amp;ev=NoScript" /></noscript>
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  'http://cdn.taboola.com/libtrc/screenrant-screenrant/loader.js');
+</script>
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://cdn.screenrant.com/wp-content/themes/live/images/sr-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://cdn.screenrant.com/wp-content/themes/live/images/sr-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://cdn.screenrant.com/wp-content/themes/live/images/sr-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://cdn.screenrant.com/wp-content/themes/live/images/sr-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" href="http://cdn.screenrant.com/wp-content/themes/live/images/sr-touch-icon.png" />
+<link rel="icon" href="http://cdn.screenrant.com/favicon.ico" type="images/x-icon" />
+<script type='text/javascript' src='http://www.screenrant.com/wp-includes/js/comment-reply.js?ver=20090102'></script>
+
+</head>
+<body class="single single-post postid-68330 single-format-standard">
+
+<!-- Start trueanthem code -->
+<script>
+  (function (w, d) {
+    var s1 = d.getElementsByTagName('script')[0],
+        s = d.createElement('script');
+        s.src = '//tru.am/scripts/ta-pagesocial-sdk.js';
+    if (s.addEventListener) {
+      s.addEventListener('load', function () {
+          w.TRUE_ANTHEM.configure('240');
+      }, false);
+    } else {
+      s.onreadystatechange = function () {
+        if (s.readyState in {loaded: 1, complete: 1}) {
+          s.onreadystatechange = null;
+          w.TRUE_ANTHEM.configure('240');
+        }
+      };
+    }
+    s1.parentNode.insertBefore(s, s1);
+  }(window, document));
+</script>
+<!-- End trueanthem code -->
+
+<div id="headerwrap">
+
+<!-- <div id="ad_leaderboard" style="margin-top:10px;min-height:96px;"> -->
+<div id="ad_leaderboard" style="margin-top:10px;min-height:96px;width:1000px;display:block;margin-left:auto;margin-right:auto;">
+ 
+<!-- ||||||||||||||||||||||||||||| -->
+<!-- INTERGI Ad Tag 728x 90 ID 3192806 || Category = Movie News  -->
+<!-- ||||||||||||||||||||||||||||| -->
+
+<div align="center">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/postscribe/1.1.2/postscribe.min.js"></script>
+<div id="respondmr"></div>
+<script type="text/javascript">
+  $(function() 
+  {
+    postscribe('#respondmr', '<scr'+'ipt language="javascript1.1" src="http://ads.intergi.com/addyn/3.0/5205/3192806/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=696;misc='+new Date().getTime()+'"></scri'+'pt>');
+  });
+</script>
+<noscript><a href="http://ads.intergi.com/adlink/3.0/5205/3192806/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=696" target="_blank"><img src="http://ads.intergi.com/adserv/3.0/5205/3192806/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=696" border="0"></a></noscript>
+</div>
+    </div>
+        <div id="header">
+                <a href="http://screenrant.com/" id="lic"></a>
+                <a href="http://screenrant.com/" id="sri"></a>
+                <div id="slogan">The #1 Independent Movie & TV News Website</div>
+<div id="navmenu">
+                        <ul>
+<!--                                <li><a href="http://screenrant.com/comic-con/">COMIC-CON 2014</a></li> -->
+                                <li><a href="http://screenrant.com/sr-originals/">SR EXCLUSIVES</a></li>
+                                <li><a href="http://screenrant.com/movie-news/" class="active">MOVIE NEWS</a></li>
+                                <li><a href="http://screenrant.com/movie-trailers/">MOVIE TRAILERS</a></li>
+                                <li><a href="http://screenrant.com/movie-reviews/" >MOVIE REVIEWS</a></li>
+                                <li><a href="http://screenrant.com/tv-news/" >TV NEWS</a></li>
+                                <li><a href="http://screenrant.com/podcasts/">PODCASTS</a></li>
+<!--                                <li><a href="http://screenrant.com/comic-con/">COMIC-CON 2014</a></li> -->
+                        </ul>
+                </div>
+                <div id="bing-to">
+     <form action="http://screenrant.com/search.php" id="cse-search-box">
+    <input type="hidden" name="cx" value="012450045813064774497:kkwr6f6u3rs" />
+    <input type="hidden" name="cof" value="FORID:9" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="25" />
+    <input type="submit" name="sa" value="Search" />
+  </form>
+  </div>
+  </div>
+<div id="trending" align="left";>
+<strong>Currently Hot Topics: &nbsp;</strong>
+<a  href='http://screenrant.com/tag/star-wars/'>Star Wars 7</a> 
+&nbsp;|&nbsp; 
+				<a  href='http://screenrant.com/tag/alien-5/'>Alien 5</a> 
+&nbsp;|&nbsp; 
+				<a  href='http://screenrant.com/tag/the-avengers-2/'>Avengers 2</a> 
+&nbsp;|&nbsp; 
+				<a  href='http://screenrant.com/tag/gotham/'>Gotham Trailer</a> 
+&nbsp;|&nbsp; 
+				<a  href='http://screenrant.com/tag/terminator-5/'>Terminator 5</a> 
+&nbsp;|&nbsp; 
+				<a  href='http://screenrant.com/tag/pirates-of-the-caribbean-5/'>Pirates Of The Caribbean 5</a> 
+&nbsp;|&nbsp; 
+				<a  href='http://screenrant.com/tag/aquaman/'>Aquaman</a> 
+								</div>
+<div id="wrapper">
+<div itemscope itemtype="http://schema.org/Article">
+<meta itemprop="url" content="http://screenrant.com/inception-spoilers-discussion-kofi-68330/">
+<meta itemprop="image" content="" />
+<div id="content">
+  <div class="cblock">
+    <div style="padding-left:5px;">
+    <h1 itemprop="name" class="ptitle">Inception Ending Explained</h1>
+        <div style="margin-top:10px;"></div>
+    <span class="alignleft by">
+    Published 4 years ago  
+    by 
+    <link rel="author" href="https://plus.google.com/u/0/111983995640878856120/posts" />
+    <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="http://screenrant.com/author/kofi/" title="Posts by Kofi Outlaw" rel="author">Kofi Outlaw</a></span></span>
+	, Updated June 2nd, 2012 at 7:16 pm,   
+	<span content="July 19th, 2010" class="single-date"></span> 
+	   </span>
+   
+<div style="padding-top: 20px;height: 43px;margin-left: 0px;">
+  <div style="float:left;">
+<!--    <div class="addthis_sharing_toolbox" style="margin-bottom:10px;"></div> -->
+    <div class="addthis_jumbo_share" style="margin-bottom:10px;"></div>
+  </div>
+</div>   
+
+    <div itemprop="articleBody" class="entry" style="clear:both;">
+	  <p class="ggnoads" align="center"><img class="aligncenter size-full wp-image-68333" title="inception-explanation-spoilers" src="http://cdn.screenrant.com/wp-content/uploads/inception-explanation-spoilers.jpg" alt="inception explanation spoilers Inception Ending Explained" width="553" height="263" /></p>
+<p>While we have an <a href="http://screenrant.com/inception-movie-reviews-vic-68744/" ><strong><em>Inception</em></strong> review</a> where you can leave comments, we&#8217;ve set up this page as a place where you can discuss the <strong><em>Inception</em></strong> ending and other spoilers without worrying about ruining the movie for folks who haven&#8217;t seen it yet.</p>
+<p>To help steer discussion we&#8217;ve added a lengthy analysis of <em>Inception </em>(especially the ending) and explained why our analysis of the film fits with the story Christopher Nolan intended to tell.</p>
+<p>Does our <em>Inception</em> explanation match your theory? Find out!</p>
+<p><span id="more-68330"></span><p><div id="zergnet-widget-22204"></div>
+
+<script language="javascript" type="text/javascript">
+	(function() {
+		var zergnet = document.createElement('script');
+		zergnet.type = 'text/javascript'; zergnet.async = true;
+		zergnet.src = 'http://www.zergnet.com/zerg.js?id=22204';
+		var znscr = document.getElementsByTagName('script')[0];
+		znscr.parentNode.insertBefore(zergnet, znscr);
+	})();
+</script></p></p>
+<p>Many people walked away from <em>Inception</em> impressed. Some were confused, some were even feeling like they had their brains woken by the most exciting and thought-provoking movie experience to come along all year.</p>
+<p>I realize that most people who saw <em>Inception</em> have already made up their minds about what they perceived the film to be (and Nolan will undoubtedly be proud of that). However, for those of you still looking for an <em>Inception</em> explanation, we like to offer a few thoughts.</p>
+<p>We&#8217;ve organized things by category for you, in case you&#8217;re more interested in one facet of the film than another. If you want to read about specific points you can follow the links below:</p>
+<ul>
+<li>The Rules of the Dream World (this page)</li>
+<li><a href="http://screenrant.com/inception-spoilers-discussion-kofi-68330/2/" >The characters and their functions</a></li>
+<li><a href="http://screenrant.com/inception-spoilers-discussion-kofi-68330/3/" ><em>Inception</em> Ending Explained</a></li>
+</ul>
+<p style="text-align: center;">-</p>
+<h3>The Rules</h3>
+<p style="text-align: center;"><img class="aligncenter" title="Inception production  still 4" src="http://cdn.screenrant.com/wp-content/uploads/Inception-production-still-4.jpg" alt="Inception production still 4 Inception Ending Explained" width="570" height="380" /></p>
+<p>So, the first thing to talk about are the rules of the dream world Nolan created for the film. With all the action that happened onscreen, it was easy to forget some of the finer details &#8211; but once the lights came up, and people had time to think, I know the question of who was dreaming which dreams certainly came up (among others questions as well).</p>
+<p>Remember the basic premise: Cobb (the extractor) and his team are con artists, and like any con artists their job is to construct a false reality and manipulate it in order to confuse and/or fool a mark (in this case industrialist Robert Fischer, played by Cillian Murphy). Nolan takes the classic concept of a con man a step further by making Cobb and his team dream thieves, but in the end, the basic concept is still your classic con/heist movie.</p>
+<p><strong>Dream Levels and Dream Time</strong></p>
+<p>Nolan throws a lot of fancy math at you but it&#8217;s all really inconsequential. All you need to really know are the basic concepts:</p>
+<p>The dream within a dream process puts you into a deeper state of dreaming. The deeper you go, the further removed your mind is from reality. We all know what that&#8217;s like: the deeper you sleep, the harder it is to be woken up and the more vivid and real-feeling a dream becomes. If you&#8217;re in a deep enough sleep, not even the usual physical ques to wake up effect you, such as the sensation of falling (&#8220;the kick&#8221;) or even, say, having to go to the bathroom.</p>
+<p style="text-align: center;"><img class="aligncenter" title="Inception   production still 3" src="http://cdn.screenrant.com/wp-content/uploads/Inception-production-still-3.jpg" alt="Inception production still 3 Inception Ending Explained" width="570" height="380" /></p>
+<p>By the time you reach the Limbo state it can be so difficult to wake, and the dream can feel so vividly real, that the mind stops trying to wake at all &#8211; the mind accepts the dream as its reality, like slipping into a coma.</p>
+<p>When you wake up in Limbo you don&#8217;t remember that there is such a thing as a &#8220;real world&#8221; &#8211; as in any dream, you wake up in the middle ofÂ  a scene and simply accept it for what it is. Breaking yourself out of this cycle is extremely difficult, which is why Cobb and his wife Mal were trapped in Limbo for what seemed like decades.</p>
+<p>Time is the other factor. The deeper you go into a dream state, the faster your mind is able to imagine and perceive things within that dream state. We&#8217;re told the increase is exponential, so going deeper into dreams turns minutes into hours, into days, into years. This is why Cobb and his team are able to pull off the Fischer job while the van is still falling through the air, before the soldiers break into the snow fortress, before Arthur rigs the elevator, and all within the span of a flight from Sydney Australia to LA.</p>
+<p style="text-align: center;"><img class="aligncenter" title="Inception  DiCaprio Murphy on plane" src="http://cdn.screenrant.com/wp-content/uploads/Inception-DiCaprio-Murphy-on-plane.jpg" alt="Inception DiCaprio Murphy on plane Inception Ending Explained" width="551" height="367" /></p>
+<p>In Limbo, the mind works so fast that actual minutes can be interpreted as years gone by. When Saito &#8220;dies&#8221; from the gunshot wound he received on level 1 of the dream, his mind falls into Limbo, and Saito remains there for the minutes it takes Cobb and Ariadne (Ellen Page) to follow him into Limbo &#8211; those minutes in one dream state feel like decades to Saito in his Limbo state.Â  By the time Cobb deals with expelling Mal&#8217;s &#8220;shadow&#8221; from his subconscious, Saito has begun to perceive himself as an old man.</p>
+<p>Mal&#8217;s shadow stabs Cobb during the film&#8217;s climax, which throws Cobb back out into Limbo and onto the shores of Saito&#8217;s limbo house. When Cobb has to &#8220;wake&#8221; again in Limbo, his mind is muddled just like old man Saito&#8217;s brain. Through Saito&#8217;s memory of Cobb&#8217;s totem and some shared dialogue that included key trigger phrases &#8211; &#8220;Leap of faith,&#8221; &#8220;Old man full of regret, waiting to die alone,&#8221; etc. &#8211; Cobb and Saito are able to remember the meaningful conversations they had and that there is a reality they existed in before Limbo, where both of them had deep desires still waiting to be fulfilled (Cobb and his kids, Saito and his business). Once they remember that limbo is limbo,Â  they are able to wake themselves up (likely with a gunshot to the head).</p>
+<p><a href="http://screenrant.com/inception-spoilers-discussion-kofi-68330/2/" >Continue to the characters and their functions&#8230;</a></p>
+      
+	  
+
+	        
+	        
+       	           
+
+      <p class="aligncenter"><span class="contentjumplink"><strong>&laquo;</strong></span> <span class="contentjumpnumber">1</span> <a class="contentjumpnumber" href="http://screenrant.com/inception-spoilers-discussion-kofi-68330/2/">2</a> <a class="contentjumpnumber" href="http://screenrant.com/inception-spoilers-discussion-kofi-68330/3/">3</a><!-- <a class="contentjumpall" href="http://screenrant.com/inception-spoilers-discussion-kofi-68330/all/1">View All</a> --><a class="contentjumplink" href="http://screenrant.com/inception-spoilers-discussion-kofi-68330/2/">&raquo;</a></p>
+<div style="margin-top:10px;margin-bottom:10px;text-transform:capitalize;padding-top:10px;font-size:14px;">
+<!-- <div class="addthis_sharing_toolbox" style="margin-bottom:20px;"></div> -->
+<div class="addthis_responsive_sharing" style="margin-bottom:20px;"></div>
+
+
+<div style="margin:40px 0 0 35px;font-size:15px"><strong>Get our free email alerts on the topics and author of this article:</strong></div>
+<div id="followistic-root" style="margin: 0 0 30px 35px;"></div>
+<!-- <div id="followistic-root" style="margin: 40px 0 30px 35px;"></div> -->
+     <script type="text/javascript">
+    (function(m,u,s,i,c,a,l){m['FollowisticObject']=c;m[c]=m[c]||function(){(m[c].p=m[c].p||[]).push(arguments)},
+    a=u.createElement(s),l=u.getElementsByTagName(s)[0];a.async=1;a.src=i;l.parentNode.insertBefore(a,l)})
+    (window,document,'script','//static.followistic.com/widget/flw.js','followistic');
+
+    followistic('account', '6788af6175c95fe952cbd34bbd1f7c6e');
+    </script>
+   
+      TAGS: <a href="http://screenrant.com/tag/inception/" title="inception">inception</a>
+<div class="ebzNative"></div> <!-- Playwire video unit -->
+
+<!-- Start Widgets -->
+<div style="margin-top:20px;">
+<div class="g g-23"><div class="g-single a-107"><div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script></div></div></div>
+<!-- End Widgets -->
+
+</div>
+
+</div>
+</div>
+    <div style="clear:both;"></div>
+  <p class="inview"></p>
+
+  <div class="cblock"><a name="comments"></a>
+
+
+<!-- You can start editing here. -->
+
+
+	
+		<h2 class="ptitle" style="margin:0;">7,885 Comments - <i>Comments are closed.</i></h2>
+
+		<div class="paginatedcomments"><a class="prev page-numbers" href="http://screenrant.com/inception-spoilers-discussion-kofi-68330/comment-page-106/#comments">&laquo; Previous</a>
+<a class='page-numbers' href='http://screenrant.com/inception-spoilers-discussion-kofi-68330/comment-page-1/#comments'>1</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='http://screenrant.com/inception-spoilers-discussion-kofi-68330/comment-page-105/#comments'>105</a>
+<a class='page-numbers' href='http://screenrant.com/inception-spoilers-discussion-kofi-68330/comment-page-106/#comments'>106</a>
+<span class='page-numbers current'>107</span></div>
+
+		<ol class="commentlist">
+
+				<li class="comment even thread-even depth-1" id="li-comment-509346">
+	<div id="comment-509346">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/22e8fa948cee65014d23c6ea652cbb86?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Bailey Case</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>I think he&#8217;s still dreaming; think about it, Nolan made it a big deal to tell us, that no one is allowed to touch each others totem..well when Cobb goes into limbo to find saito, he is brought I&#8217;n by guards, and they tell saito he was found with this, and this; and they laid out a pistol and cobb&#8217;s totem saito picked it up, which if the whole thing is true, he would of ruined it&#8217;s purpose. I&#8217;ve watched this movie seventeen times I&#8217;n one month to figure this out, nolan did a great job with this project and it had inspire me to write countless screenplays myself, just think about it, cause if all I said is true&#8230;then he is still dreaming!! Please get back to me I love discussing movies specially this one!</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-2" id="li-comment-521210">
+	<div id="comment-521210">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/d5554a90047cf7f5cf4d879141198f83?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">i lov inception</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>okay well that does make sense&#8230; but&#8230;.the kids are wearing different shoes. and their ages are different..so it must be reality..</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+	<li class="comment even depth-2" id="li-comment-521585">
+	<div id="comment-521585">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/15e6221f51f3e2e59ab1b291ec018433?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">warren cancilla</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>What you have missed in the Rule of the Totem, though, is that you don&#8217;t share your totem with anybody in the real world. In a dream it doesn&#8217;t matter, because the totem owner is still the only person to know the actual weight and feel of the totem (and how it acts in the real world), so it is okay to share a totem if you are positive that you are in a dream. The other dreamers do not necessarily know that this is your totem or how it actually acts/feels/looks/etc. in the real world</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+	<li class="comment odd alt depth-2" id="li-comment-523644">
+	<div id="comment-523644">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/51a3cddb42030ad73109d07ec89c37a7?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">rob</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>noooo &#8221; see your getting it all wrong. The purpose of not letting someone touch your totem is because if they see every detail of it, they can trick you &amp; you wont be able to know whats a dream or not</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-3" id="li-comment-525851">
+	<div id="comment-525851">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/2a0ddadd195f0c7d8c0450c349a02aa7?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Breanna</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Well, if they don&#8217;t know that it&#8217;s your totem, then they wouldn&#8217;t know to manipulate it to trick you.  If they think it&#8217;s just a random object in you, then it&#8217;s useless to them.  Also, they JUST found him, and brought him to Saito (don&#8217;t know how to spell his name) right away so they wouldn&#8217;t have had time to change the top.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-4" id="li-comment-525852">
+	<div id="comment-525852">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/2a0ddadd195f0c7d8c0450c349a02aa7?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Breanna</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Well, if they don&#8217;t know that it&#8217;s your totem, then they wouldn&#8217;t know to manipulate it to trick you.  If they think it&#8217;s just a random object on you, then it&#8217;s useless to them.  Also, they JUST found him, and brought him to Saito (don&#8217;t know how to spell his name) right away so they wouldn&#8217;t have had time to change the top.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-5" id="li-comment-530638">
+	<div id="comment-530638">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/636fe417749af319e9c2550995b75043?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Ryan</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>The totem has it&#8217;s alternate effect in the dream world, controlled by the architect.  If the top were spun in the dream world it would be the architect&#8217;s perception of physics that would determine if it spun continuously or fell.  </p>
+<p>We do, however, see a couple of guns &#8220;thought&#8221; into the dream world by mere participants in the scene before the van is about to leave the warehouse. This implies the participants have a certain level of control within the dream.  If this were true the top would spin if the spinner wanted it to, and could also fall if they wanted it to, thereby destroying the absolute notion of true reality.</p>
+<p>We don&#8217;t know if Dicaprio remembers how he got to the original interaction with Saito at the start of the movie; He does perceive memories but none are shown regarding recent events leading to that moment, nor could any be shown without documenting his entire life.  Therefore, any events we consider ties to reality could all have been part of a dream world from the start.</p>
+<p>I personally don&#8217;t see any way of knowing what is real and what isn&#8217;t.  All of the characters could be projections in Dicaprio&#8217;s own mind.  He states early on that he is the best extractor in the world and later implies that he is the only one that has achieved inception.  How could he definitively know this?  Perhaps it is a merely a brag session, perhaps there is some evidence, or perhaps it all happens in his own mind.  It is a bit far fetched to think he would be exiled from the US and blamed for his wife&#8217;s death when I&#8217;m sure the investigators would be able to determine that she plummeted from a different building than the one he was standing in.  And her cleared psych evaluations used to confirm her claims of him being a danger to the children would be discarded when they determined she had committed suicide.</p>
+<p>But again, its a movie and we don&#8217;t know everything about the world contained within it, so there are no real cues to follow to make a determination of his reality.</p>
+<p>He also could be in a massive delusion for whatever reason and we are simply never subjected to the stimili outside of his own mind.  Maybe he doesn&#8217;t have kids, maybe he never had a wife, maybe he&#8217;s a fat guy in a straight jacket (think Identity).</p>
+<p>Look at it how you want and maybe learn a little about yourself <img src="http://cdn.screenrant.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> </p>
+<p>rant over</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-6" id="li-comment-530654">
+	<div id="comment-530654">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>good rant</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-509412">
+	<div id="comment-509412">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7e713892c8712b9b3a8ad71c78d5c122?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Cleo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Happily, I did not get dizzy from watching this film as I expected from South Park&#8217;s Insheeption spoof of the film &#8211; all I came away with is how unpleasant Leonardo Di Caprio is &#8211; his face is not worth the screen time but he does resemble the Japanese guy sitting across the airplane aisle form him.  And Neither of them resemble consistently cute Joseph Gordon Levitt or Ellen Page. </p>
+<p>I didn&#8217;t get hung up about the dream within a dream quandary at all.  I am totatlly fed up with the lead actor however.  SO unpleasant.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1" id="li-comment-509413">
+	<div id="comment-509413">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7e713892c8712b9b3a8ad71c78d5c122?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Cleo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>What is he &#8211; a child?  Why would Leo need a pickup at the airport from an old man?  That makes no sense.  Just catch a cab.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-2" id="li-comment-510792">
+	<div id="comment-510792">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/3ef420340f1201145678ff695403a1b8?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Archaeon</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Cleo&#8230;Cobb hasn&#8217;t been in the U.S. for quite awhile, so his father is likely just trying to help him settle in to the idea of being back home.</p>
+<p>That was my take&#8230;</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-509423">
+	<div id="comment-509423">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7aca82c5f503828a3d3c4bc3ecfa83c3?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Martin</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>In reply to Archaeon:</p>
+<p>&#8220;I know how English grammar works. I TEACH it.&#8221;</p>
+<p>I also teach grammar.  The difference between you and me is that I actually know what I am talking about.</p>
+<p>In the sentence &#8220;There are a lot of people here&#8221;, &#8220;a lot of&#8221; is an idiomatic expression.  It means &#8220;a large number of&#8221; or &#8220;many&#8221;.  There is also the literal meaning of &#8220;a lot of&#8221; as in &#8220;He owns a lot of land&#8221;.  The expression could also be used with uncountable nouns to mean &#8220;a large amount&#8221; as in &#8220;There is a lot of sand&#8221;.  &#8220;People&#8221; and &#8220;theories&#8221; are counatble nouns however so &#8220;There is a lot of people&#8221; is obviously wrong.</p>
+<p>Look, you don&#8217;t believe me?  Fine.  Check out &#8220;Essential Grammar in Use Second Edition&#8221; (Cambridge University Press 1990, 1997) by Raymond Murphy, page 172.  It gives the example &#8220;There ARE a lot of trees/shops/people&#8230;(plural verb)&#8221;.  The emphasis is theirs.  Are you going to argue now with Cambridge University about what is correct grammar.  Seriously?</p>
+<p>Similarly, &#8220;a ton of theories&#8221; as in &#8220;There are a ton of theories&#8221; does not literally mean &#8220;theories measured out to weigh one ton&#8221;.  &#8220;a ton of&#8221; is not seriously meant as a measure but as an idiomatic expression meaning, in this case, &#8220;a large number&#8221;.  The verb-subject agreement is with the nound theories which is clearly plural.  It would be as if you said &#8220;There are a million theories.&#8221;</p>
+		<div class="reply">
+					</div>
+	</div>
+<pre class="i-am-lazy"></pre><ul class="children">
+	<li class="comment even depth-2" id="li-comment-509843">
+	<div id="comment-509843">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/3ef420340f1201145678ff695403a1b8?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Archaeon</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Martin&#8230;</p>
+<p>I hope you&#8217;re more polite and respectful in your classes than you were at the beginning of the above response.</p>
+<p>I, too, know my subject matter and my chosen profession, but I am always willing to review what I&#8217;ve said and the particulars of a given conversation. In this case, I went back and looked at the original statement, the one that started this whole pointless mess. I also looked at various classroom materials and online sources.</p>
+<p>One thing I realized (and it amazes me that I had let this detail slip by) is that I NEVER SAW THE ORIGINAL STATEMENT. For some odd reason, I thought I had, but I had only gone as far back as Arturo&#8217;s initial correction. Thus, I must, in fairness, admit that the original usage might indeed lend credence to your perspective.</p>
+<p>This is not to say that my perspective is wrong, however. I DID find several sources that proved your point, admittedly. I did, ALSO, find a few that gave weight to my argument, as well. My mistake was in being too general in my definition of what was being described and expressed. The formality/informality of the original statement, its referent(s), and the point made by the original author (and, thus, his surrounding/leading statements) influenced the form his sentence took. I should have considered these things instead of simply glomming on to Arturo&#8217;s comment. For THAT (and ONLY that), I do apologize.</p>
+<p>Otherwise, I stand by what I said&#8230;with the addendum that it is not an absolute.</p>
+<p>Now, can we PLEASE drop what has become a truly pointless off-topic conversation and get back to &#8220;Inception&#8221;?</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-3" id="li-comment-510487">
+	<div id="comment-510487">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7aca82c5f503828a3d3c4bc3ecfa83c3?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Martin</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>&#8220;I hope youâre more polite and respectful in your classes than you were at the beginning of the above response.&#8221;</p>
+<p>You mean when I said âI know how English grammar works. I TEACH it.â?  Oh, wait, that was me quoting you.</p>
+<p>In the future you might want to try being a little less arrogant, especially when you obviously haven&#8217;t bothered to check any references to see if what you are saying is actually true and not just complete nonsense.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-4" id="li-comment-510773">
+	<div id="comment-510773">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/3ef420340f1201145678ff695403a1b8?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Archaeon</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>&#8220;The difference between you and me is that I actually know what I am talking about.&#8221;</p>
+<p>THAT is the statement to which I was responding. THAT is the very definition of arrogance.</p>
+<p>I realized a mistake I had made, in terms of my initial observation, NOT my conclusion. I attempted to correct my mistake (or, at least, to explain it). I even tried, honestly and fairly, to point out that we both had made valid points. I did not speak down to you in MY response. I pity your students if that&#8217;s how you behave in class. Act like an ass if you wish, but you are not worth any more of my time.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-5" id="li-comment-511206">
+	<div id="comment-511206">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7aca82c5f503828a3d3c4bc3ecfa83c3?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Martin</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>If you were my student, I would give you a failing grade and yet you presume to teach others&#8230; and you call ME arrogant.</p>
+<p>I was making a factual statement.  You didn&#8217;t know what you were talking about.  Go cry to somebody else.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even depth-2" id="li-comment-510025">
+	<div id="comment-510025">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/4d0e5973c16051e49cb84b2d6d831d63?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">BRIAN</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Wow! Is this guy for real?! One thing you didn&#8217;t learn while majoring in one of the most regretted degrees in America (english,) is manors! I suggest you develop some.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+	<li class="comment odd alt depth-2" id="li-comment-511418">
+	<div id="comment-511418">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7b4d00ca735a0e8041c82d36af6592f1?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Name</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>&#8220;you and me&#8221; it&#8217;s suppose to ben&#8221; you and I&#8221; im an 8th grade student and i know more about grammar then you.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-3" id="li-comment-511658">
+	<div id="comment-511658">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7aca82c5f503828a3d3c4bc3ecfa83c3?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Martin</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>&#8220;between you and I&#8221;?  No, try again.  &#8220;Between&#8221; is a preposition and &#8220;you and me&#8221; is the object of that preposition.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-4" id="li-comment-511660">
+	<div id="comment-511660">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7aca82c5f503828a3d3c4bc3ecfa83c3?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Martin</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Oh and, by the way, I know more about grammar THAN you.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-5" id="li-comment-528267">
+	<div id="comment-528267">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/ab7704a0ec9ecc132ccf41bc256b743a?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Andrew</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>I&#8217;d rather have manners than grammar, you online cretin warrior.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-6" id="li-comment-529006">
+	<div id="comment-529006">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7aca82c5f503828a3d3c4bc3ecfa83c3?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Martin</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Yeah, well, let me know when you have learned some manners then. <img src="http://cdn.screenrant.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> </p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even depth-2" id="li-comment-511419">
+	<div id="comment-511419">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7b4d00ca735a0e8041c82d36af6592f1?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Name</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>&#8220;you and me&#8221; it&#8217;s suppose to be &#8220;you and I&#8221; im an 8th grade student and i know more about grammar then you.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-3" id="li-comment-529064">
+	<div id="comment-529064">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7aca82c5f503828a3d3c4bc3ecfa83c3?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Martin</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>*supposed *I&#8217;m *I *than</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-509869">
+	<div id="comment-509869">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/03ada5dc0127f04b50cc6e90d4aceb9f?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">aja</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>&#8230;.did you not forget the concept that he may still be dreaming, from after when he goes to trial test out the asians guys own compound&#8230;after he wakes we see a shot of him in the bathroom watching his totem spin, but someone interupts him and he knocks it over himself&#8230;..so we never know whether it was going to still spin or not??!!&#8230;..</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-2" id="li-comment-510071">
+	<div id="comment-510071">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>That scene was only for Saito. &#8220;Ive seen one before..many many years ago&#8221;</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+	<li class="comment even depth-2" id="li-comment-514631">
+	<div id="comment-514631">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/9cc24b633edf043ef9d735db94606997?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Mike</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Very good point!!! Omg got me questioning the whole movie again now lool</p>
+		<div class="reply">
+					</div>
+	</div>
+<pre class="i-am-lazy"></pre></li><!-- #comment-## -->
+	<li class="comment odd alt depth-2" id="li-comment-514632">
+	<div id="comment-514632">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/9cc24b633edf043ef9d735db94606997?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Mike</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Very good point. argh you have me questioning the whole movie again now lool</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+	<li class="comment even depth-2" id="li-comment-514633">
+	<div id="comment-514633">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/9cc24b633edf043ef9d735db94606997?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Mikey Lad</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Very good point. argh you have me questioning the whole movie again now lool.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-510072">
+	<div id="comment-510072">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Soon 8000 comments? Where is the article about this article? It has gone too far, and it will probably end up lost in Limbo if its pushed further.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-510695">
+	<div id="comment-510695">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/b3309988260f679b79c55d4ce259148b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">JTS</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Please don&#8217;t use terms like &#8220;subconscious&#8221; when you mean unconscious. Subconscious is a made-up Hollywood idea. Real psychology deals purely with the unconscious mind.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-2" id="li-comment-513728">
+	<div id="comment-513728">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Ah, it is a &#8216;made-up Hollywood&#8217; movie&#8230;</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-511571">
+	<div id="comment-511571">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/07cb05b7f4235b18685ecaa2622b319a?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Dustin</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>As much as I respect the well planned layout of this site, I have problems with your arguments.</p>
+<p>1. Was Saito truly powerful enough to make one phone call and end Cobbâs problems or was that just Cobb in limbo projecting his subconscious wish to go home? You can argue logistics all you want, but if itâs said that Saito is a powerful and wealthy man (he bought a whole airline on a whim), then thereâs reason enough to infer that he could bend the legal system for Cobb. Rich powerful people bend laws all the time.</p>
+<p>You assume Saito isn&#8217;t a projection. I&#8217;m arguing from the perspective that his wife was indeed correct in believing that the &#8220;real world&#8221; Leonardo came back into was still a dream. </p>
+<p>Did Cobbâs father (Michael Caine) arrange to meet him at the airport or is he there because heâs Cobbâs projection? At this point weâre reading way too much into things. There is a phone on the plane, so Cobb couldâve easily arranged for pickup. This was also an intricate plan they were hatching, so arranging for airport pickup would probably be on the to-do list.</p>
+<p>But yet one point remains clear and is repeated. One shot shows Cobb seeing his father at the airport, the next shows him at home with his father. It&#8217;s reading too much into it to assume that Cobb knew how he actually got home.</p>
+<p>In early dream scenes Cobb is wearing a wedding band that doesnât appear in the âreal worldâ scenes or the end scenes in the airport â does that mean the ending is âreality?â Details like that are certainly strong evidence that there is a real world and that Cobb does live in it at times â such as when he isnât wearing a wedding band.</p>
+<p>In a dream, one can manipulate objects at will sometimes. If he is indeed convinced that his &#8220;real world&#8221; is real, then he would perceive himself without the ring. Quite simple really.</p>
+<p>Does the fact that Cobb uses Malâs totem mean it doesnât work as a totem and therefore he never knows if heâs in reality or not? Again, weâre reading a little too deep into things. The only people who know the weight and feel of that totem are Mal and Cobb, and since Mal is dead, Cobb is the only one left who knows the totemâs tactile details. So yes, he could certainly use it as a measure of reality, the totem was not âruinedâ by him using it.</p>
+<p>This also goes along with the wedding ring. He can manipulate the object all he wants. What gives that certain object any special ability over any cup or bowl in his dream? Especially if he&#8217;s the architect.</p>
+<p>At the end, Cobbâs kids seem to be the same age and are seemingly wearing the same clothes as they were in his memory of them â is it âproofâ heâs still dreaming? As carefully documented by our own Vic Holtreman, at the end of the film Cobbâs kids are wearing similar outfits to the ones he remembers, but their shoes are different. As for their ages: if you check IMDB, there are actually two set of actors credited with playing Cobbâs kids. The daughter, Phillipa, is credited as being both 3 and 5 years old, while the son, James, is credited as being both 20 months and 3 years old. This suggests that while it might be subtle, there is a difference between the kids in Cobbâs memories and the kids Cobb comes home to. That would suggest the homecoming is in fact âreality.â But feel free to debate that.</p>
+<p>He can also manipulate what his kids look like based upon his own belief in the dream. What is clear, though, is that the human mind isn&#8217;t truly revolutionary in creating it&#8217;s own ideas. It draws off previous or existing details. So he alters the shoes and ages, big deal. What is striking ARE the similarities. </p>
+<p>Will the spinning top keep spinning or was it about to fall over just before Nolan cut to black? </p>
+<p>Again, what does it matter if he&#8217;s the architect and created every item in the dream. He can manipulate it all.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-2" id="li-comment-512739">
+	<div id="comment-512739">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Micheal Caine was not Cobb&#8217;s father. He was his father in law. He introduced Mal and Cobb to Dreamshare.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-3" id="li-comment-513727">
+	<div id="comment-513727">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Nice round-up Dustin, I generally agree.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1" id="li-comment-512505">
+	<div id="comment-512505">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/ec9ecf6b3c26ba5b87a092238195accc?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">dan</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>if mal created the idea of a totem, why didn&#8217;t she just spin it to see if she was in a dream or reality before killing herself?</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-2" id="li-comment-512726">
+	<div id="comment-512726">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>She ultimately understood that Cobb found her top in Limbo and altered the idea. She could not break free, and had to take a Leap of Faith when waiting for the train. And once free..the idea was stuck. And that is what an Inception does. It sticks in reality, and no matter how many times she would reality check herself it would not matter since her secret of the totem was no longer a secret. Cobb knew this too and he did not have the heart to tell her. He only tells himself and Ariadne in the end when he comes clean about it.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-3" id="li-comment-513717">
+	<div id="comment-513717">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>@Tyken, at what point did she &#8220;ultimately understand that Cobb altered her top in limbo&#8221;?</p>
+<p>In response to @dan, I think we must assume she did spin it.  Whether Cobb ever tried it himself would be another question.</p>
+<p>But what happens when she spins it?  If it falls, Mal would just look for other excuses to support her deeply &#8216;incepted&#8217; beliefs.  She even says to Cobb that their current world seems real to him, only because he believes it to be real, she probably thinks his beliefs are overriding hers, here, in what she still believes to be limbo, or perhaps a dream level.  (Again, the confusion concerning even this small detail is intentional, allowing the film to maintain its ambiguity.  Where did Mal think she was?!)</p>
+<p>On the otherhand, it the top did keep on spinning&#8230; well, i&#8217;ll let you come to your own conclusions.  But if it did, imo, it probably fell over the second Cobb ever entered the same room where she was spinning it.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-4" id="li-comment-513720">
+	<div id="comment-513720">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>She always knew, I mean..who else could have found out her secret but Cobb? But she still had to take a leap of faith when they escaped on the tracks. And she gave him the same ultimatum when she escaped after coming back to reality.. sadly.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-5" id="li-comment-513731">
+	<div id="comment-513731">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>No she didn&#8217;t realize Cobb set the totem spinning, did she?</p>
+<p>Wasn&#8217;t this inception Cobb&#8217;s great deception?</p>
+		<div class="reply">
+					</div>
+	</div>
+<pre class="i-am-lazy"></pre><ul class="children">
+	<li class="comment even depth-6" id="li-comment-513733">
+	<div id="comment-513733">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Mal would not question finding it spinning, not in a dream?  Weird stuff like that happens in dreams, and no doubt in limbo.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-7" id="li-comment-513736">
+	<div id="comment-513736">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>She didn&#8217;t even find the totem spinning. Once Cobb spun it, she was already given the idea that &#8220;your world is not real&#8221;. It helped her escape limbo. But it did the same in reality too, which is something Cobb couldn&#8217;t foresee as it was the first Inception. And a dangerous idea to plant..</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+	<li class="comment even depth-7" id="li-comment-513740">
+	<div id="comment-513740">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>&#8220;Happens in dreams&#8221; is one thing, &#8220;happens in Dreamshare&#8221; is quite another. And &#8220;happening in Limbo through Dreamshare&#8221; is a whole new playfield. Cobb and Mal were Gods in their own world. Nothing was by chance down there. Mal knew this, and made a conscious choice to forget reality while using Dreamshare. Ultimately they were both Dreamshare addicts, with sad consequences.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-8" id="li-comment-514260">
+	<div id="comment-514260">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Even looking at it that way, I still fail to see how Mal &#8220;ultimately knew&#8221;?</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-9" id="li-comment-520315">
+	<div id="comment-520315">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>She had a radical notion. Nuff said <img src="http://cdn.screenrant.com/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" /> </p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-10" id="li-comment-530549">
+	<div id="comment-530549">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>She had a radical notion that &#8220;Her world wasn&#8217;t real&#8221;,</p>
+<p>not that Cobb had Incepted her.  She never knew.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-514617">
+	<div id="comment-514617">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/de2a77a21efad6c660f9ecdb62fbf346?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Jeff</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Here is another point about the dream.  When they all went under on the plane, it was raining because the one guy had to take a leak, right ? Well, when they got the kick and to wake up when the van was falling off the bridge&#8230;it was still &#8220;RAINING.&#8221;<br />
+So does that mean that they were still at that one level down in the dream after all and NOT in the real world ??</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-2" id="li-comment-515604">
+	<div id="comment-515604">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7aca82c5f503828a3d3c4bc3ecfa83c3?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Martin Phipps</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Of course.  The kick brought them back to the first level.  They woke up when the sedative wore off.  Likewise, Cobb and Saito were never in danger of going into a coma and not waking up: the danger was that they would not remember who they were when they woke up.  We see Saito going for a gun, presumably to shoot himself so he would wake up but it could be they woke up because the sedative had worn off.</p>
+<p>Which is a good point.  There&#8217;s no doubt that Cobb woke up on the plane.  The real question is whether or not the entire movie was a dream.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-3" id="li-comment-516044">
+	<div id="comment-516044">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>I think it is also important to make the distinction between </p>
+<p>&#8216;the entire movie was a dream&#8217; </p>
+<p>versus </p>
+<p>&#8216;the entire movie takes place within dreamshare and limbo&#8217;.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-4" id="li-comment-516047">
+	<div id="comment-516047">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>The first version imply&#8217;s that the Pasiv device is the figment of a fevered dream.</p>
+<p>The second, that the Pasiv device is very real and Cobb has become utterly lost within it.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-514771">
+	<div id="comment-514771">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/9fe7c6ef6e61e7f8afc4a05afee448a8?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">adam</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Alright&#8230;.so I know the debate of the film is over&#8230;.I just got done watching it and was wondering if anyone else had this thought&#8230;.is it possible that the college girl, architect, was investigating Cobb?  And that the reason Cobb was sent free was because it was determined by his encounter with his wife at the end of the film that he truly did not kill his wife?  I know there aren&#8217;t any direct statements within the film to prove this theory to be correct, but it&#8217;s an interesting thought that during this inception Cobb may have been under investigation for the murder of his wife <img src="http://cdn.screenrant.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> </p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-2" id="li-comment-516049">
+	<div id="comment-516049">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Fresh take Adam, nice angle, I like it.  </p>
+<p>The more theories the better in my opinion&#8230; as long as they only contradict audience assumptions, and not the facts as they are stated.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-515868">
+	<div id="comment-515868">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/3612a3627e49b558b9ed088e2a6f96ac?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">ahmauri613</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>I watched it when it first came out and was satisfied but then i kept thinking, why are the kids still wearing the same thing and in the same spot? Why are they the same age as when he left? Why don&#8217;t we see the top stop spinning? So I ask is he the one that is still dreaming and his wife right and she out but he&#8217;s still in? Help me</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1" id="li-comment-516442">
+	<div id="comment-516442">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/0ee0e0a5b6e714df256e1e5ff74c1b6c?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">jo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Nice explanation. but the key is in Yusuf basement, when Cobb goes into sleep and dream about mal, he falls into limbo there and the rest of all movie is a Cobb dream. You can notice that when he suposly wakes up from that dream the top falls to the ground and never was tested. The only thing that changes is the way Cobb thinks about its relation with mal.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-2" id="li-comment-516703">
+	<div id="comment-516703">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/3ef420340f1201145678ff695403a1b8?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Archaeon</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Jo&#8230;</p>
+<p>The key&#8230;AS YOU SEE IT. Plenty of others have found just as much evidence to indicate Cobb DOES awaken to actual reality by the end of the film.</p>
+		<div class="reply">
+					</div>
+	</div>
+<pre class="i-am-lazy"></pre></li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-520024">
+	<div id="comment-520024">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/9167e76560b8c036d57d1e1e648fc4f2?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Gene</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Nobody really cares who knows more about grammar guys&#8230; Just post a comment about the film or shut up and go on another website -.-</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-520225">
+	<div id="comment-520225">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/d70a452ff0f2531c6c5229aacc3828d8?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Belles</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>JTS, there is a difference. Unconscious is a STATE, whereas subconscious is an element of the mind.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-522933">
+	<div id="comment-522933">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/2f4d9068e8eacf07ca981d7ff0864399?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Collin</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Just because Cobb gets distracted by his kids at the end of the movie preventing him (and the audience) from knowing whether he&#8217;s still dreaming or not doesn&#8217;t mean he will never know for sure if he&#8217;s still dreaming. He can just go back to the top anytime after and see if it&#8217;s still spinning or if it stopped. Sure we as the audience will never know the truth, but let Cobb enjoy his kids whether he&#8217;s dreaming or not, all he wants is to experience happiness.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-2" id="li-comment-523664">
+	<div id="comment-523664">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Exactly. He needs to get back home in the real world, cause thats the only place he can see his childrens faces. Assurance of reality ^</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1" id="li-comment-523489">
+	<div id="comment-523489">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/39b8c4554880795a5f6d08c9b4640a90?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">prince inferno</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>There was one small scene that I noticed. When Cobb is finding his team, he meets up with the gentleman (forgive me for not knowing the characters names) that has a room full of men that share dreams together. The man states that the dreams are extremely stable. Cobb has a dream about mal (his dead, crazy wife) and then wakes himself up. When he goes into the bathroom to check and see if he is still dreaming, Sato (the guy making the deal with him) interrupts him and ask him if everything is all right. Cobb picks up the totem and walks away saying yes. Could it be possible that he was sleeping for 8 hours like the rest if the men in the room and dreamt that he completes the job and went home to his kids. In addition, after that moment in the bathroom, Cobb never pulls out the totem until the end&#8230;. Food for thought.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-2" id="li-comment-523663">
+	<div id="comment-523663">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Nah. Cobb followed up after that with the experiments. And besides, Saito had seen the totem, &#8220;many many years ago&#8221;, and he did in that bathroom.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+	<li class="comment odd alt depth-2" id="li-comment-529004">
+	<div id="comment-529004">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/2e87f0f1584ff81918b09e4251f36edd?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Voidokm</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>That doesn&#8217;t really matter I think. People seem to forget that the special object only works if you are in somebody else&#8217;s dream. Because of the whole &#8220;not being allowed to know the weight of the object&#8221;.</p>
+<p>Because if the dreamer knows the object then the dreamer can manipulate the object and make it do the correct actions. So if Cobb was in his own dream down in Yusuf&#8217;s room, then whether or not Saito knocked it down doesn&#8217;t matter because Cobb can dream the object to do whatever he wants.</p>
+<p>So with that piece of information, I don&#8217;t think that he is still dreaming when he spins, because that would be a major plothole, considering it doesn&#8217;t even matter in his own dream.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-3" id="li-comment-529016">
+	<div id="comment-529016">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7aca82c5f503828a3d3c4bc3ecfa83c3?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Martin</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>The top was originally Mal&#8217;s totem and he said that &#8220;Mal could make the top spin and spin forever&#8221; and presumably he could too and that was how he convinced her that she was dreaming.  Now if they move one level up Mal should realize that they are still dreaming and try the top and presumably she did and it spun and spun and she was convinced that she was still dreaming but she couldn&#8217;t convince Cobb: he was so convinced that he was in the real world that when he saw the top it would stop spinning but in the end he isn&#8217;t looking at the top so it keeps spinning.  So that suggests that he had been dreaming the whole movie.  I think Terryfinn&#8217;s argument for him being in a dream world is the simplest yet, although it could also be argued that it was just something that Nolan either overlooked or didn&#8217;t show: perhaps they did kill themselves a few more times to get back to reality but she was still unconvinced that her world was real.  The spinning top at the end, however, suggests that they didn&#8217;t and that they were still dreaming.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-524173">
+	<div id="comment-524173">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/eea507250e093b3625a8d08255510774?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Vantasia</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>I loved this movie. It&#8217;s probably the best movie I&#8217;ve ever seen! They had a very unusual story line, and I liked it. I was also pulled in to how they ended up being put in a dream, then another dream, and so forth. I was intrigued by the paradoxes and impossible shapes and physics. I thought it was fascinating how the time was distorted according to dissimilar levels. They had 10 hours in reality, days in the 1st level, weeks in the 2nd level, a decade in the 3rd level, and decades in Limbo. Overall, I thought this movie was outstanding.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-524537">
+	<div id="comment-524537">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/d0230025d2fdaa9a0629cdf6edb48071?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Just a Guy</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Doesn&#8217;t really matter whether or not Cobb is still in Limbo or returned to the &#8220;Real World&#8221;. All that really matters is that he is with his children (real or not) and is ultimately a happier person than what he was in the beginning of the movie. (even if it is just false happiness, created by his own subconsciousness)</p>
+<p>My view? The ending was left to keep you guessing so I don&#8217;t think there needs to be a concrete answer. (Doesn&#8217;t matter how much you want one, you won&#8217;t get it. The ending is a big tease, and I like it that way)</p>
+<p>Why am I commenting? I just watched the movie again and I felt like it.</p>
+<p>[Random Note: Laughed really hard that Scarecrow was the man who got "Incepted". -Yeah dude you use toxins to make people hallucinate huh? Well I just went into your mind and put your subconscious into a dream, into a dream, and then into another dream to just mess with you man... Yeah, who's the BA now?- Love it!]</p>
+<p>You actually read this comment? Good going, but I just wasted like a minute of your life&#8230; Sorry. But here is some good news, I wasted five minutes of my life to waste a minute of your life, so I basically screwed myself over&#8230; Oh well&#8230;</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-524907">
+	<div id="comment-524907">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/0279d31e792317bed15bdf5ef6602e55?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Robyn</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Just been reading all the comments and really like all the theories. I&#8217;m not sure what I think but is this a valid idea: what if we are always in cobbs dream and mal keeps trying to enter it to wake him? And in limbo near the end mal realises that she is loosing the battle to convince cobb that he is dreaming and decideds never to come back? Does that mean is is always in a limbo? But if he is why isnt Cobb or the chrildren getting older or is he projecting himself in that imagd? Is any of that even possible or have I missed the idea?? I&#8217;m getting mind boggled from this film and now questioning everything about it like mal! But this is definatly reality we are in&#8230; <img src="http://cdn.screenrant.com/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> </p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-527829">
+	<div id="comment-527829">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/2abe3a14a31165f7bad0538c30e1cfc3?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Raffi1990</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Well, Cobb actually reveals to Ariadne how his totems works, so the ending might aswell be Ariadnes work, the fact that Cobb and Saito dont wake up in the Van like everyone else, but they wake up straight into the plane, could be a hint that Cobb actually never reached Saito, but from the moment he was on the beach into Saitos limbo he was actually in Ariadnes dream/architecture. So that would mean that, with ariadne knowing how Cobb&#8217;s totem works, she might aswell &#8216;fool&#8217; him into thinking its the real world even if in reality Cobb is dreaming.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-528957">
+	<div id="comment-528957">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/f18fb908af978ff3017f78eacf0d51d9?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">TerryFinn</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Everyone overlooks a few simple details:</p>
+<p>The more levels deep you are, the more times you will have to kill yourself. Killing yourself within a dream within a dream will bring you back to the original dream.</p>
+<p>Mal and Cobb was in Limbo, which we think is atleast four levels deep.<br />
+They were waiting for a train, and when the train hit them, they wake up.</p>
+<p>Wait, don&#8217;t they have to kill themselves three more times after waking up from Limbo?</p>
+		<div class="reply">
+					</div>
+	</div>
+<pre class="i-am-lazy"></pre><ul class="children">
+	<li class="comment even depth-2" id="li-comment-529007">
+	<div id="comment-529007">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7aca82c5f503828a3d3c4bc3ecfa83c3?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Martin</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Sounds legit.  Arthur only moved up one level when he died in the opening sequence.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-3" id="li-comment-529017">
+	<div id="comment-529017">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Arthur was not under a powerful sedative during the first mission on Saito, thats why he woke up one level above. If you ask me, perhaps the levels above Cobb and Mal in Limbo had collapsed because they died in the dreamlevels while influenced by a powerful sedative, and thats how they ended up in Limbo in the first place. When Cobb and Saito escapes Limbo in the end, the levels above them are gone.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-4" id="li-comment-529057">
+	<div id="comment-529057">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7aca82c5f503828a3d3c4bc3ecfa83c3?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Martin</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>It wasn&#8217;t made clear due to the frantic pace of the action (and hence little time for exposition) but I take it that Cobb and Saito woke up when the sedative wore off.  Cobb had to find Saito and remind him that his world was not real so that he would remember who he was when he woke up and be able to make the phone call that would enable Cobb to see his family.</p>
+<p>That brings up another point though.  If Cobb and Mal were in Limbo for 50 years then didn&#8217;t their sedative wear off?  And if it didn&#8217;t wear off because they had taken too much then would killing themselves in the dream work?  Some people say that Cobb and Saito shot themselves and woke up but that should only work if the sedative had worn off.  So if the sedative has worn off then killing yourself in the dream wakes up but if the sedative has not worn off then killing yourself in the dream won&#8217;t work.</p>
+<p>So what does that mean with Arthur in the opening scene?  He &#8220;dies&#8221; in the dream but he only goes up one level.  Oh, I see, it is because the architect was still dreaming and Arthur was in his dream and Arthur could not wake up until his dream was over, not unless he died again with the sedative having worn off.  Saito and Cobb could wake up because the Ames, Arthur and the chemist had already woken up: as you say &#8220;the dreams had collapsed&#8221; because the dreamers had woken up.</p>
+<p>But then that brings up another question!  Who went to sleep with Mal and Cobb that they were able to get to Limbo and stay there for 50 years?  That was never explained.  For the job, they needed at least three people, one person dreaming each level.  I don&#8217;t see how Cobb and Mal reached Limbo by working alone.  That was never explained.  Could they take turns, with Cobb dreaming the first level and Mal dreaming the second level, etc.?  But then the levels above them haven&#8217;t collapsed because they are the ones dreaming those levels.  Oops.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-5" id="li-comment-529144">
+	<div id="comment-529144">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>They were on a powerful sedative, went into the first level and died. Then woke up to a new reality, called Limbo.</p>
+<p>Arthur however was not on a powerful sedative, so he woke up the level above as usual.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-6" id="li-comment-529467">
+	<div id="comment-529467">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/3ef420340f1201145678ff695403a1b8?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Archaeon</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>tykjen&#8230;</p>
+<p>That is how I understood it. Also, didn&#8217;t they actually explain this in the film? I&#8217;ve never felt any confusion about this particular issue&#8230;</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-7" id="li-comment-529601">
+	<div id="comment-529601">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Indeed. No confusion what so ever, but many people in these comments are indeed confused <img src="http://cdn.screenrant.com/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> </p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-8" id="li-comment-529629">
+	<div id="comment-529629">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7aca82c5f503828a3d3c4bc3ecfa83c3?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Martin</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>But you are forgetting that it isn&#8217;t normal for people to take drugs, go to sleep and then wake up not knowing what is real.</p>
+<p>Oh&#8230; wait&#8230; I take it back.  That is EXACTLY what happens when you take drugs, assuming you wake up at all.  Never mind. <img src="http://cdn.screenrant.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> </p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-9" id="li-comment-530539">
+	<div id="comment-530539">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>The particulars of Mal and Cobb&#8217;s getting to limbo were intentionally glossed over.  The best we got was that they went too deep.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-10" id="li-comment-530542">
+	<div id="comment-530542">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>We can only assume they died to get to limbo, just as we can only assume that there are only 4 levels of dreamshare.  The lack of specifics serves the ambiguity, hence the lack of specifics.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1" id="li-comment-529651">
+	<div id="comment-529651">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/026cc367b7f1b3aa0cab5e16a65e2d74?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">joop</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>As I understand it, the limbo is not a higher level of dreamstate, rather it is an &#8216;unconstructed&#8217; dreamstate as mentioned in the film. Therefore you can fall into a limbo without having constructed multiple dream layers. You can just construct a single dream layer then kill yourself to fall into an unconstructed limbo(on the supposition that you are under a strong enough sedation). And thats how cobb and mal were able to fall into a limbo without extra personel. They took a strong sedative that would stop them from waking up before it would ware off and killed themselves at the first level of dreamstate, thus falling into an unconstructed limbo where mal refused to wake up(kill her self) even after the sedation would have worn off because she accepted the limbo as reality( losing her mind, like when Adrine tells Cobb after he decides to stay in the limbo to find saito &#8220;dont lose your mind&#8221;). Cobb then had to convince her that they were in a limbo and they killed themselves waking up after spending a lifetime in the limbo.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-2" id="li-comment-529728">
+	<div id="comment-529728">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/3ef420340f1201145678ff695403a1b8?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Archaeon</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>YES.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+	<li class="comment odd alt depth-2" id="li-comment-529899">
+	<div id="comment-529899">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>But Cobb did speak from experience. I dont think they went in only one level before they ended up in limbo. I believe Cobb and Mal experimented with &#8220;Great depth&#8221; but ultimately lots of stuff went wrong..and &#8220;years&#8221; went by playing God in Limbo after one of them died and one perhaps followed. The scene at the anniversary..could that be when? There is so much that is unsaid in Inception, which we can only imagine. Why did Mal want to stay in Limbo and not wake up? At one time they both understood Limbo, but Mal chose to stay there. She fooled herself with her own totem, placing it toppled, in &#8220;reality mode&#8221; in her own safe. She did this on purpose to herself.. yet another experiment that went wrong.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-3" id="li-comment-529916">
+	<div id="comment-529916">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/026cc367b7f1b3aa0cab5e16a65e2d74?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">joop</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Yes you are right Cobb did say that he and mal experimented with dream stages. And IMO, based strictly on my assumption, during those experiments,possibly with other people and sometimes Cobb staying on one level and Mal going into another, they may have stumbled upon the existence of the Limbo. Then they both decided to go into limbo together via the method I have suggested above without the help of others. And they did spend years playing God in the limbo during which Mal &#8216;lost her mind&#8217; ( the attraction of the limbo was too great, similar to why Ariadne came back to cobb&#8217;s workshop)and decided to lockaway her symbol of reality into her subconscious SAFE, losing her sense of whats real and what isnt completely. Cobb who was still aware, used inception ( breaking into her subconscious safe and spinning her totem) to plant the idea in Mal&#8217;s mind that the limbo is a dream. And they both killed themselves together by going under the train. After they came back to reality, the idea that Cobb had put into Mal&#8217;s subconscious kept own growing like a virus and eventually Mal started to doubt the world in which they were in and was convinced that she was still dreaming and tried to persuade Cobb as well. Cobb refused and so Mal devised a plan to commit suicide on their wedding aniversary telling the authorities false lies about Cobb, putting him in danger so that he will commit suicide with her. Mal died and Cobb became a fugitive.</p>
+		<div class="reply">
+					</div>
+	</div>
+<pre class="i-am-lazy"></pre><ul class="children">
+	<li class="comment odd alt depth-4" id="li-comment-529932">
+	<div id="comment-529932">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Well put. And yea, Nolan is a true genius alright. Truly open film. I sometimes watch the anniversary scene as something that may have happened in one of the dreamlevels they experimented with. Mal tried to convince Cobb they were still stuck after escaping Limbo. And she took her leap of faith and woke up, but Cobb was the one that stayed behind and forever after lost in a loop, and projects everyone and everything around him, figments of his own personality to guide him out. Ariadne was clearly a female version of Cobb in a way. She kept &#8220;pushing and pushing&#8221;, wanted Cobb to go deeper, further. </p>
+<p>I think you might like this. The whole Jungian aspect is mindblowing to read.</p>
+<p><a href="http://www.cinemablend.com/new/What-If-Inception-Were-Analyzed-By-Dream-Experts-19638.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-comment','http://www.cinemablend.com']);" rel="nofollow">http://www.cinemablend.com/new/What-If-Inception-Were-Analyzed-By-Dream-Experts-19638.html</a></p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even depth-2" id="li-comment-530474">
+	<div id="comment-530474">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7aca82c5f503828a3d3c4bc3ecfa83c3?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Martin</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Okay, I see where you are going with this.  So they kill themselves in their dream to wake up but because they have taken a strong sedative they don&#8217;t wake up but go into Limbo.  They need to spend years in Limbo because it was a strong sedative and they will need to have a few hours pass in the real world if the sedative is to wear off.  They kill themselves again and Cobb believes he is back in the real world but Mal is not sure: she kills herself but she is unable to convince Cobb to kill himself.  So is Cobb still dreaming or not?  I think they were still dreaming because I don&#8217;t think the dream above them had collapsed.  That makes a big difference: Arthur died in a dream but he didn&#8217;t wake up, he just went up one level.  Cobb and Saito may have woken up from Limbo but Cobb that is irrelevant because Cobb is still dreaming.  We didn&#8217;t actually see Cobb and Saito shoot each other: the fact that they realized they were in a dream, with the sedative having worn off, may have been enough to cause them to wake up.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-3" id="li-comment-530500">
+	<div id="comment-530500">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>During the Saito mission, Arthur was killed in level 2 and woke up in level 1. Same with Saito, who thought he was waking up in his own apartment in reality. Cobb was woken up with a kick since the slap he got from Nash didnt do anything.(See? very stable.) Normal procedure for Dreamshare to wake up when you die. But the thing with the mission was something new, something even the great Saito didnt know: They were 2 levels down, and the same rules still applied. If Arthur had been killed in level 1 = hed woken up on the train in reality.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-4" id="li-comment-530515">
+	<div id="comment-530515">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/026cc367b7f1b3aa0cab5e16a65e2d74?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">joop</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>As we all seem to be assuming out of context here ( very interestingly so), I think if mal did wake up instead of falling to her death, she&#8217;d surely have tried to wake up Cobb by giving him the &#8216;kick&#8217; which is quicker and more effective than coming back to his subconscious and persuading him to kill hisself. And so the fact that we dont see cobb being given the kick( apart from the ones involved in the &#8216;job&#8217;)  I would say that argument is a lil farfetched..nonetheless very imaginative and engaging.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-5" id="li-comment-530544">
+	<div id="comment-530544">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>That&#8217;s why i value the ambiguity surrounding the possibilty that the pair of them reached limbo, not through a first-level-death, but through a much deeper-level-death.  Which, of course, is to indulge the assumption that more than 4 dream levels are a possibility.  But if anyone can give me something solid to disprove the idea, i&#8217;d be happy to close the book on it.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-6" id="li-comment-530545">
+	<div id="comment-530545">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>The significance of which, I should add, is the extended time ratio which multiple levels would provide.  The time it takes for Mal to stand up and give him the &#8216;kick&#8217; could be a year for Cobb. </p>
+<p>Also, the limbo to reality time ratio is never given to us explicitly.  And for that matter, if you go to limbo from level 1, is your time ratio to reality the same as if you go to limbo from level 4, or how&#8217;s that work.  Does limbo have a time ratio constant?</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-7" id="li-comment-530560">
+	<div id="comment-530560">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/e38f949f3d1a8a5fb7a3b93d480e6d7e?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">SQLGuy</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>The movie seemed to establish, though, that a different dreamer in the same Dreamshare was needed for each level. With only Cobb and Mal, they shouldn&#8217;t have been able to go more than two levels down, and then one of them would already have been left out. For the type of timescale difference you&#8217;re suggesting between Cobb and a woken up Mal, they would have had to have been many more levels down, and they would have needed a few more dreamers.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-8" id="li-comment-530594">
+	<div id="comment-530594">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Not necessarily, the movie only establishes the guidelines like that because it is essential for the team to have a strategy for kicking themselves back to reality, hence the different dreamers in each level.</p>
+<p>I posit that taking turns between 2 people could have worked.  After all, the Pasiv device is new technology, and even Cobb still experiments with it, and he is considered an expert to some degree, so surely we can&#8217;t be sure of anything that isn&#8217;t otherwise stated in the film.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-9" id="li-comment-530607">
+	<div id="comment-530607">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Agreed. Who&#8217;s to say they couldn&#8217;t take turns? After all they were experimenting, going deeper and deeper, further. Downwards is the only way forwards..</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+	<li class="comment even depth-9" id="li-comment-530622">
+	<div id="comment-530622">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>BTW, on a strong sedative (1:20) one need only be 4 levels deep to turn 2 seconds into 370 days.  I can show you the math if you like.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt depth-5" id="li-comment-530564">
+	<div id="comment-530564">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>But the problem is if you wake/kick up someone from Limbo, they will be in a state of coma. It was important for teh subject to truly KNOW that Limbo wasnt real before leaving.</p>
+<p>But Mal was not sure when she left with Cobb. Mal loved Cobb too much, and wanted to leave with him on the traintracks without question. But when Mal was leaving Cobb, he could not. He was always so sure what was real or not..<br />
+But Mal was the complex one, who really knew the absolute:</p>
+<p>They could be 100% certain, that they could never be sure.</p>
+<p>And the Inception sadly caused Mal to be fixxed on the idea given by Cobb: &#8220;You world is not real&#8221;. She got that idea in Limbo after 50 years..must have been tough to leave.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-6" id="li-comment-530597">
+	<div id="comment-530597">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>I forgot that thanks Ty.</p>
+<p>Also, 1. Do you think it is possible for a kick to reach from reality to limbo, if the intervening dream levels have already been deconstructed.</p>
+<p>and 2. If they went from the first level to limbo, what do you imagine their time ratio would be, as I was getting at?</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-7" id="li-comment-530604">
+	<div id="comment-530604">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Great depth was a hot topic of discussion within Inception, so I firmly believe Cobb and Mal experimented with 3+ levels. This is very important to not overlook because Cobb speaks of experience. Yusuf says at first its impossible when talking about 3 levels. Cobb says one only has to add a sedative. Yusuf corrects Cobb by adding POWERFUL sedative, to which Cobb nods without saying a word. </p>
+<p>As for your questions, I dont think a kick in reality would wake up anyone from Limbo. Anyone who is in Limbo, needs to be delivered a message that its not real before they can leave, is my inkling anyway. Eames is the one who only brushes upon that if one ends in Limbo, and wakes up from it, theres a great chance youd have brains for scrambled eggs.</p>
+<p>As for your second point, I see Limbo as its own level with its own time compression. One could die in level 3 and go there, or in level 1 and go there, and the time compression does not matter down there. 1 second in reality can be a year for that matter in limbo. Limbo is for me also a state of mind, outside reality. Where there are no rules, no time.</p>
+		<div class="reply">
+					</div>
+	</div>
+<pre class="i-am-lazy"></pre><ul class="children">
+	<li class="comment even depth-8" id="li-comment-530626">
+	<div id="comment-530626">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Yeah I think I tend to agree, Limbo would have it&#8217;s own independent time ratio, and as it is pretty much the act of one directly interfacing with their subconscious one would expect that it would be at maximum ratio, whatever that might be.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt depth-6" id="li-comment-530624">
+	<div id="comment-530624">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/026cc367b7f1b3aa0cab5e16a65e2d74?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Joop</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Please do correct me if I am wrong but didnt Ariadne wake up from a limbo(unconstructured dream she went into with cobb to find Fischer) by throwing herself off cobb/mals apartment? And she and others rode the synchronised kick to the first level to wait for the sedative to wear off? The reason why Cobb, who also (eventually)died from the Mal-inflicted stab wound in the limbo didnt wake up is because the dream right up above had collapsed &#8211; dream 3(eames) and 2(arthur)-and drowned in the first dream(yusef) hence he got lost into a further limbo, waking up on Saito&#8217;s armed shore. The only way cobb and saito could get out of the limbo now was to wait for the sedatives to wear off and hope that the team would give them the kick as soon as they awoke. Therefore the limbo is not a coma, its merely an unconstructed dream from which you can easily awake with a kick however the problem in this case was that everyone who could give cobb/saito the kick was also still in the dream and they were all under a strong sedative set on a timer which is a loooong time for saito. And this is the reason why cobb chose to stay in the limbo to find saito; not because saito would fall into a coma and never wake up, but because saito could forget who he was and could become mentally ill when he wakes up( Like MAL). Thats why we see cobb and saito exchange a dialogue in saito&#8217;s castle, reminding themselves of who they were(even cobb seems confused). And this is also why we see cobb and saito wake up naturally on the plane rather than through a kick, because the team couldn&#8217;t know for sure if cobb had managed to remind saito of the truth, so they put away all the equipment so that fischer wouldnt get suspicious but left cobb and saito to sleep.<br />
+(THIS DOES NOT MEAN TO SAY THAT COBB ACTUALLY WOKE UP INTO REALITY. going to find saito was cobb&#8217;s plan (which ariadne knew) and how cobb imagagined he would wake up.so it could be either)</p>
+<p>And Sambo, if as you say, there was another level into which cobb and mal awoke from their limbo (train track death) and that cobb is still on this dream level while mal could be a level higher or even in supposed reality, then the time difference between mal and cobb may not be years but minutes or hours because cobb will not in a limbo anymore but in one of their structured dreams, 1 or 2 levels above depending on how many they created. So if mal was to give him the kick in whichever stage that she may be, throughout the timespan of the movie( at least a few weeks) we should have seen cobb feel the kick or some even sort of a sign.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-7" id="li-comment-530640">
+	<div id="comment-530640">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Limbo or not, if Cobb IS, again&#8230; that&#8217;s if he IS by some chance 5 layers deep, 1 second in reality would be just over ten years to him.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-8" id="li-comment-530642">
+	<div id="comment-530642">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>So he should be expecting Mal&#8217;s kick anytime in the next 20 to 30 years or so, lol, let&#8217;s hope she doesn&#8217;t decide to go to the bathroom first, ha.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment even depth-9" id="li-comment-530645">
+	<div id="comment-530645">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>That is on a 1:20 sedative as Yusuf suggests, I should add.<br />
+Without sedative the ratio is 1:12.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt depth-8" id="li-comment-530661">
+	<div id="comment-530661">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/026cc367b7f1b3aa0cab5e16a65e2d74?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">joop</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Yes you are right haha. Scary. But if as u say they were 5 dreams deep and the lvls above hadn&#8217;t collapsed, killing yourself at level 5 as mal did by jumping from her hotel room, would only bring you to the next level up-4. So we&#8217;d have to calculate the time difference between lvl 5 and lvl4, rather than lvl 5 and reality to see when mals kick would reach cobb</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even depth-7" id="li-comment-530644">
+	<div id="comment-530644">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/026cc367b7f1b3aa0cab5e16a65e2d74?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Joop</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>sorry for all the spelling/gramar errors.. lol awful.. need ms word <img src="http://cdn.screenrant.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> </p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-8" id="li-comment-530649">
+	<div id="comment-530649">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Ur fine.. maybe throw some line breaks in though, makes it easier to not lose your place when reading is all, lol.</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-529861">
+	<div id="comment-529861">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/026cc367b7f1b3aa0cab5e16a65e2d74?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Joop</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Furthermore.. having debates over the validity of cobb&#8217;s totem and whether it was about to topple at the very end is counterproductive and will have us circling in a paradoxical loop.<br />
+1. Saito&#8217;s handling of Cobb&#8217;s totem does not ruin its purpose, they were already in a constructed dream.<br />
+   The reason why arthur teaches ariadne to keep her totem safe from others reach is because if an architect in the real world gets hold of her totem and observes its purpose, then the architect is be able to imitate such a totem and construct it into his architecture defeating the purpose and integrity of ariadne&#8217;s totem.</p>
+<p>Therefore the integrity of Cobb&#8217;s totem is protected throughout the film, the only other person who knew about the totem, mal, is dead.</p>
+<p>2. The ending doesnt simply pivot around the simple notion  that if the totem spins on its a dream and if it topples its reality. We must take note of the scene where cobb tries to persuade mal of the fact that they are in reality by confronting her with his inability to control his totem. Mal argues back saying &#8216;thats because you dont know you are dreaming&#8217;. This is a very very important factor.</p>
+<p>The last dreamstate or limbo cobb puts himself into is his own. The previous dreams of eames, arthur and yusef have collapsed due to the synchronised kicks.<br />
+Lets suppose cobb was still in the limbo when he came home to his kids. From the moment cobbs wakes up on the plane he looks confused and he checks the others to see if anything is strange. He gets home and still very unsure, spins his totem but before he could see if it toppled he runs to see his kids.Now up until this very moment cobbs had restricted himself from seeing his kids faces until he was sure that they were real. But now he&#8217;s not so sure. He doenst know for a &#8216;fact&#8217; that this is real but his wanting to &#8216;believe&#8217;that its real ( mal&#8217; what do you believe&#8217;) has carried him from the aiport to his home and to his kids. But then why does the totem seem like it is about to topple at the very last cut? Because he doesnt know for sure and/or doesnt want to believe that this is a dream. And because this is HIS dream he has control over his totem and his subconcious, his longing for his kids, may well have toppled his totem to convince himself that this is REAL.</p>
+<p>So as you can see, whether the totem topples is not so much the issue because at this very last scene and at this last scene only his totem has lost its purpose. The totem could topple in both dream and reality. This film has given us a truly open ending. chris nolan is a genius.</p>
+		<div class="reply">
+					</div>
+	</div>
+<ul class="children">
+	<li class="comment odd alt depth-2" id="li-comment-529934">
+	<div id="comment-529934">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/20f4dfed50cf81ac68ad26c23e3e8343?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">tykjen</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Wholeheartedly agreed. The whole totem/ending discussion has so far not, and certainly will not develop into anything absolute. Unless Nolan tells about it, which he wont. Inception is as of now, Nolan&#8217;s own real life totem <img src="http://cdn.screenrant.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> </p>
+		<div class="reply">
+					</div>
+	</div>
+<pre class="i-am-lazy"></pre><ul class="children">
+	<li class="comment even depth-3" id="li-comment-530537">
+	<div id="comment-530537">
+		<div class="commentinfo">
+			<div class="comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/aa05caf3ae85baad20006078172b796b?s=48&amp;d=http%3A%2F%2Fscreenrant.com%2Fgravatar2.jpg%3Fs%3D48&amp;r=PG' class='avatar avatar-48 photo' height='48' width='48' />			</div>
+						<div class="comment-meta commentmetadata"><cite class="fn">Sambo</cite>&nbsp;&nbsp;&nbsp;&nbsp;2 years ago</div>
+		</div>
+		<p>Well said Joop</p>
+		<div class="reply">
+					</div>
+	</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+		</ol>
+
+		<div class="paginatedcomments"><a class="prev page-numbers" href="http://screenrant.com/inception-spoilers-discussion-kofi-68330/comment-page-101/#comments">&laquo; Previous</a>
+<a class='page-numbers' href='http://screenrant.com/inception-spoilers-discussion-kofi-68330/comment-page-1/#comments'>1</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='http://screenrant.com/inception-spoilers-discussion-kofi-68330/comment-page-100/#comments'>100</a>
+<a class='page-numbers' href='http://screenrant.com/inception-spoilers-discussion-kofi-68330/comment-page-101/#comments'>101</a>
+<span class='page-numbers current'>102</span></div>
+
+	
+
+</div>
+  </div>
+</div>
+
+<div id="sidebar" >
+<div id="ad_billboard" style="margin-left:23px;margin-top:30px;margin-bottom:9px;">
+
+
+
+<!-- ||||||||||||||||||||||||||||| -->
+<!-- INTERGI Ad Tag ID 3192805 || Category = Movie News  -->
+<!-- ||||||||||||||||||||||||||||| -->
+<div class="sadabove2">
+<script language="javascript"><!--
+document.write('<scr'+'ipt language="javascript1.1" src="http://ads.intergi.com/addyn/3.0/5205/3192805/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=696;misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://ads.intergi.com/adlink/3.0/5205/3192805/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=696" target="_blank"><img src="http://ads.intergi.com/adserv/3.0/5205/3192805/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=696" border="0" width="300" height="250"></a></noscript>
+<!-- End of JavaScript Tag -->
+
+</div>
+</div>
+
+        <div id="subbox">
+<div class="addthis_horizontal_follow_toolbox" style="float:left;margin-left:45px"></div>
+      <a rel="nofollow" target="_blank" href="http://itunes.apple.com/us/podcast/screen-rant-underground/id462034263">
+      <img src="http://cdn.screenrant.com/wp-content/themes/live/images/itunes-icon.jpg" height="32" width="32" style="margin:16px 0 0 2px" alt="SR Underground on iTunes"></a>
+        </div>
+<div class="sbox"><h2 class="sectiontitle">GET DAILY EMAIL UPDATES</h2>
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+        #mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif;  width:300px;}
+}
+</style>
+
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="http://screenrant.us7.list-manage.com/subscribe/post?u=b96b5d60b49fedb102cc300c7&amp;id=54f590b75a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <label for="mce-EMAIL"></label>
+        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" style="float:right;" class="button">
+        <input type="email" value="" name="EMAIL" style="width:180px;" class="email" id="mce-EMAIL" placeholder="email address" required>
+</form>
+</div>
+<!--End mc_embed_signup-->
+   </div>
+
+<div class="sbox"><h2 class="sectiontitle">LATEST PODCAST</h2>
+                  <a href="http://screenrant.com/fifty-shades-grey-podcast-kingsman-movie/">            <img src="http://cdn.screenrant.com/wp-content/uploads/sr-underground-183-50-shades-grey-kingsman-295x158.jpg" width="300" height="158" alt="Latest SR Underground Podcast" /></a>
+    </div>
+
+    <div class="sbox"><h2 class="sectiontitle">TODAY'S HOT STORIES</h2>
+ 
+			<ul style="background: rgba(229,229,229,0.11);padding: 0px 5px 5px 7px;width: 290px;">
+    
+<li class="sidethumb" style="width:285px;">
+<a class="sthumbtitle" href="http://screenrant.com/big-hero-6-movie-sequel-directors/">
+<img class="nolazy" src="http://cdn.screenrant.com/wp-content/uploads/big-hero-6-movie-sequel-285x137.jpg" width="285"  height="137" style="width:285px;" alt="'Big Hero 6' Sequel Not Currently in Development" /></a>
+						<div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/big-hero-6-movie-sequel-directors/">'Big Hero 6' Sequel Not Currently in Development</a></div>
+
+</li>
+
+
+	  
+<li class="sidethumb" style="width:285px;">
+<a class="sthumbtitle" href="http://screenrant.com/terminator-genisys-script-details-reviews/">
+<img class="nolazy" src="http://cdn.screenrant.com/wp-content/uploads/Terminator-fan-art-by-Ashasylum-285x137.jpg" width="285"  height="137" style="width:285px;" alt="'Terminator: Genisys' Script Reviews" /></a>
+						<div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/terminator-genisys-script-details-reviews/">'Terminator: Genisys' Script Reviews</a></div>
+
+</li>
+
+
+	  
+<li class="sidethumb" style="width:285px;">
+<a class="sthumbtitle" href="http://screenrant.com/daredevil-marvel-netflix-tv-show-ratings-titles-directors/">
+<img class="nolazy" src="http://cdn.screenrant.com/wp-content/uploads/Charlie-Cox-as-Matt-Murdoch-in-Daredevil-285x137.jpg" width="285"  height="137" style="width:285px;" alt="'Daredevil' Will Contain 'Strong, Bloody Violence'" /></a>
+						<div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/daredevil-marvel-netflix-tv-show-ratings-titles-directors/">'Daredevil' Will Contain 'Strong, Bloody Violence'</a></div>
+
+</li>
+
+
+	  
+<li class="sidethumb" style="width:285px;">
+<a class="sthumbtitle" href="http://screenrant.com/aquaman-jason-mamoa-movie-costume-image/">
+<img class="nolazy" src="http://cdn.screenrant.com/wp-content/uploads/Batman-V-Superman-Jason-Mamoa-Aquaman-Costume-285x137.jpeg" width="285"  height="137" style="width:285px;" alt="Jason Momoa Revealed as Aquaman" /></a>
+						<div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/aquaman-jason-mamoa-movie-costume-image/">Jason Momoa Revealed as Aquaman</a></div>
+
+</li>
+
+
+	    </ul>
+
+</div>
+
+<div style="clear:both;margin-top:19px;margin-left:20px;">
+<iframe src="/adsindie/300x250.php?id=3192805" scrolling="no" frameborder="0" style="border:none; width:308px; height:258px;" allowTransparency="true"></iframe>
+
+</div>
+
+<!-- Traffic widget -->
+<div style="clear:both;"></div>
+<div id="taboola-right-rail-thumbnails" style="margin-left:20px;margin-right:13px;padding-top:10px;"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-b',
+    container: 'taboola-right-rail-thumbnails',
+    placement: 'Right Rail Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+
+<div style="clear:both;"></div>
+<div class="sadabove" style="margin-left:17px;margin-top:19px;margin-bottom:9px;min-height:200px"></div>
+
+<div class="sbox"><h2 class="sectiontitle">SR EXCLUSIVES</h2>
+<ul style="background: rgba(229,229,229,0.11);padding: 0px 5px 5px 7px;width: 290px;">
+		<li class="sidethumb " style="width:285px;">
+		<a href="http://screenrant.com/video-game-movies-challenges/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Assassins-Creed-4-pirates-570x285.jpg" height="137" width="285" style="width:285px;" alt="Why Are Video Game Movies Such a Hard Sell?" /></a>
+			<div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/video-game-movies-challenges/">Why Are Video Game Movies Such a Hard Sell?</a></div>
+		</li>
+		<li class="sidethumb " style="width:285px;">
+		<a href="http://screenrant.com/gillian-jacobs-interview-hot-tub-time-machine-2/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Gillian-Jacobs-Interview-Hot-Tub-Time-Machine-2-570x285.jpg" height="137" width="285" style="width:285px;" alt="Hot Tub Time Machine 2: Gillian Jacobs Interview" /></a>
+			<div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/gillian-jacobs-interview-hot-tub-time-machine-2/">Hot Tub Time Machine 2: Gillian Jacobs Interview</a></div>
+		</li>
+		<li class="sidethumb " style="width:285px;">
+		<a href="http://screenrant.com/jason-momoa-aquaman-armor-tattoos-meaning-explanation/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Jason-Momoa-Aquaman-Tattoo-Meanings-570x285.jpg" height="137" width="285" style="width:285px;" alt="Jason Momoa's 'Aquaman' Armor & Tattoos Explained" /></a>
+			<div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/jason-momoa-aquaman-armor-tattoos-meaning-explanation/">Jason Momoa's 'Aquaman' Armor & Tattoos Explained</a></div>
+		</li>
+		<li class="sidethumb " style="width:285px;">
+		<a href="http://screenrant.com/doctor-who-season-9-details-master-return-missy-fate/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Doctor-Who-Season-9-Peter-Capaldi-570x285.jpg" height="137" width="285" style="width:285px;" alt="'Doctor Who' Season 9 Premiere: Can Moffat Make Up For Season 8 Finale Faults?" /></a>
+			<div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/doctor-who-season-9-details-master-return-missy-fate/">'Doctor Who' Season 9 Premiere: Can Moffat Make Up For Season 8 Finale Faults?</a></div>
+		</li>
+</ul></div>
+
+<div class="sbox"><h2 class="sectiontitle">LATEST TRAILERS</h2>
+<ul style="background: rgba(229,229,229,0.11);padding: 0px 5px 5px 7px;width: 290px;">
+<li class="sidethumb " style="width:285px;"><a href="http://screenrant.com/kill-me-three-times-red-band-trailer-simon-pegg/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Kill-Me-Three-Times-Simon-Pegg-570x285.jpg" height="137" width="285" style="width:285px;" alt="Kill Me Three Times (Red Band)" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/kill-me-three-times-red-band-trailer-simon-pegg/">Kill Me Three Times (Red Band)</a></div></li>
+<li class="sidethumb " style="width:285px;"><a href="http://screenrant.com/fast-furious-7-trailer-vin-diesel-michelle-rodriguez/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/fast-furious-7-trailer-vin-diesel-paul-walker-570x285.jpg" height="137" width="285" style="width:285px;" alt="Furious 7 (International)" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/fast-furious-7-trailer-vin-diesel-michelle-rodriguez/">Furious 7 (International)</a></div></li>
+<li class="sidethumb " style="width:285px;"><a href="http://screenrant.com/mad-max-fury-road-trailer-preview-2015-hardy-theron/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Mad-Max-Fury-Road-artwork-570x285.jpg" height="137" width="285" style="width:285px;" alt="Mad Max: Fury Road (International Trailer)" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/mad-max-fury-road-trailer-preview-2015-hardy-theron/">Mad Max: Fury Road (International Trailer)</a></div></li>
+<li class="sidethumb " style="width:285px;"><a href="http://screenrant.com/hunger-games-mockingjay-part-1-deleted-scenes/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Josh-Hutcherson-in-The-Hunger-Games-Mockingjay-Part-1-570x294.png" height="137" width="285" style="width:285px;" alt="The Hunger Games: Mockingjay - Part 1 (Deleted Scenes)" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/hunger-games-mockingjay-part-1-deleted-scenes/">The Hunger Games: Mockingjay - Part 1 (Deleted Scenes)</a></div></li>
+</ul>
+</div>
+<div class="sadabove" style="margin-left:17px;margin-top:19px;margin-bottom:9px;min-height:200px"></div>
+
+<div style="clear:both;"></div>
+<div class="sfeatures" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sadabove" style="margin-left:17px;margin-top:19px;margin-bottom:9px;min-height:200px"></div>
+<div style="clear:both;"></div>
+<div class="sreviews" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="slists" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sadabove" style="margin-left:17px;margin-top:19px;margin-bottom:9px;min-height:200px"></div>
+<div style="clear:both;"></div>
+<div class="trailers" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sfeatures" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sadabove" style="margin-left:17px;margin-top:19px;margin-bottom:9px;min-height:200px"></div>
+<div style="clear:both;"></div>
+<div class="sreviews" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="slists" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sadabove" style="margin-left:17px;margin-top:19px;margin-bottom:9px;min-height:200px"></div>
+<div style="clear:both;"></div>
+<div class="trailers" style="position:static;min-height:200px;"></div>
+<div class="sfeatures" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sadabove" style="margin-left:17px;margin-top:19px;margin-bottom:9px;min-height:200px"></div>
+<div style="clear:both;"></div>
+<div class="trailers" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sfeatures" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sadabove" style="margin-left:17px;margin-top:19px;margin-bottom:9px;min-height:200px"></div>
+<div style="clear:both;"></div>
+<div class="sreviews" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="slists" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sadabove" style="margin-left:17px;margin-top:19px;margin-bottom:9px;min-height:200px"></div>
+<div style="clear:both;"></div>
+<div class="trailers" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sfeatures" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sadabove" style="margin-left:17px;margin-top:19px;margin-bottom:9px;min-height:200px"></div>
+<div style="clear:both;"></div>
+<div class="trailers" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sfeatures" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sadabove" style="margin-left:17px;margin-top:19px;margin-bottom:9px;min-height:200px"></div>
+<div style="clear:both;"></div>
+<div class="sreviews" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="slists" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sadabove" style="margin-left:17px;margin-top:19px;margin-bottom:9px;min-height:200px"></div>
+<div style="clear:both;"></div>
+<div class="trailers" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sfeatures" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sadabove" style="margin-left:17px;margin-top:19px;margin-bottom:9px;min-height:200px"></div>
+<div style="clear:both;"></div>
+<div class="trailers" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sfeatures" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sadabove" style="margin-left:17px;margin-top:19px;margin-bottom:9px;min-height:200px"></div>
+<div style="clear:both;"></div>
+<div class="sreviews" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="slists" style="position:static;min-height:200px;"></div>
+<div style="clear:both;"></div>
+<div class="sadabove" style="margin-left:17px;margin-top:19px;margin-bottom:9px;min-height:200px"></div>
+<div style="clear:both;"></div>
+</div>
+
+<div id="footer">
+
+        <div class="ftext">&copy; 2003-2014 Screen Rant, LLC | 
+
+        	<a href="http://screenrant.com/about/">ABOUT</a> | 
+
+       		<a href="http://screenrant.com/contact/">CONTACT US</a> | 
+
+        	<a href="http://screenrant.com/privacy-policy/">PRIVACY POLICY</a> | 
+
+        	<a href="http://screenrant.com/dmca-take-down-policy/">COPYRIGHT</a> | 
+
+        	<a href="http://screenrant.com/archive/">ARCHIVE</a>
+
+        </div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+ <div align="center" style="margin-top:20px;">
+
+	
+
+		<div style="padding-top:15px;">
+		<script>
+		document.write('<scr'+'ipt language="javascript1.1" src="http://ads.intergi.com/addyn/3.0/5205/3192806/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=696;misc='+new Date().getTime()+'"></scri'+'pt><noscript><a href="http://ads.intergi.com/adlink/3.0/5205/3192806/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=696" target="_blank"><img src="http://ads.intergi.com/adserv/3.0/5205/3192806/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=696" border="0"></a></noscript>');
+		</script>
+
+		<noscript><a href="http://ads.intergi.com/adlink/3.0/5205/3192806/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=696" target="_blank"><img src="http://ads.intergi.com/adserv/3.0/5205/1170542/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=696" border="0" width="300" height="250"></a></noscript>
+
+		</div>
+
+	
+
+
+</div>
+
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js?ver=1.6.1'></script>
+<script type='text/javascript' src='http://screenrant.com/wp-content/themes/live/js/jquery.lazyload.mini.js?ver=1.5.0'></script>
+<script type='text/javascript' src='http://screenrant.com/wp-includes/js/comment-reply.min.js?ver=3.9.3'></script>
+<script type="text/javascript">
+    (function(){var d=document,s=d.createElement("script");s.type="text/javascript";s.async=true;
+    s.src=("https:"==d.location.protocol?"https://":"http://")+"zomri.net/6/vhttp;!!screenrant.com-rev2?purl=yes&adb=1";
+    var x=d.getElementsByTagName("script")[0];x.parentNode.insertBefore(s,x);})();/*dc*/</script>
+	<div style="display:none">
+	<div class="grofile-hash-map-22e8fa948cee65014d23c6ea652cbb86">
+	</div>
+	<div class="grofile-hash-map-d5554a90047cf7f5cf4d879141198f83">
+	</div>
+	<div class="grofile-hash-map-15e6221f51f3e2e59ab1b291ec018433">
+	</div>
+	<div class="grofile-hash-map-51a3cddb42030ad73109d07ec89c37a7">
+	</div>
+	<div class="grofile-hash-map-2a0ddadd195f0c7d8c0450c349a02aa7">
+	</div>
+	<div class="grofile-hash-map-636fe417749af319e9c2550995b75043">
+	</div>
+	<div class="grofile-hash-map-aa05caf3ae85baad20006078172b796b">
+	</div>
+	<div class="grofile-hash-map-7e713892c8712b9b3a8ad71c78d5c122">
+	</div>
+	<div class="grofile-hash-map-3ef420340f1201145678ff695403a1b8">
+	</div>
+	<div class="grofile-hash-map-7aca82c5f503828a3d3c4bc3ecfa83c3">
+	</div>
+	<div class="grofile-hash-map-4d0e5973c16051e49cb84b2d6d831d63">
+	</div>
+	<div class="grofile-hash-map-cae0a90ed35fe5d5b8820ebefa5ff689">
+	</div>
+	<div class="grofile-hash-map-ab7704a0ec9ecc132ccf41bc256b743a">
+	</div>
+	<div class="grofile-hash-map-03ada5dc0127f04b50cc6e90d4aceb9f">
+	</div>
+	<div class="grofile-hash-map-20f4dfed50cf81ac68ad26c23e3e8343">
+	</div>
+	<div class="grofile-hash-map-9cc24b633edf043ef9d735db94606997">
+	</div>
+	<div class="grofile-hash-map-b3309988260f679b79c55d4ce259148b">
+	</div>
+	<div class="grofile-hash-map-07cb05b7f4235b18685ecaa2622b319a">
+	</div>
+	<div class="grofile-hash-map-ec9ecf6b3c26ba5b87a092238195accc">
+	</div>
+	<div class="grofile-hash-map-de2a77a21efad6c660f9ecdb62fbf346">
+	</div>
+	<div class="grofile-hash-map-9fe7c6ef6e61e7f8afc4a05afee448a8">
+	</div>
+	<div class="grofile-hash-map-139399a54d10e071a7673247838fdd7e">
+	</div>
+	<div class="grofile-hash-map-0ee0e0a5b6e714df256e1e5ff74c1b6c">
+	</div>
+	<div class="grofile-hash-map-9167e76560b8c036d57d1e1e648fc4f2">
+	</div>
+	<div class="grofile-hash-map-d70a452ff0f2531c6c5229aacc3828d8">
+	</div>
+	<div class="grofile-hash-map-2f4d9068e8eacf07ca981d7ff0864399">
+	</div>
+	<div class="grofile-hash-map-39b8c4554880795a5f6d08c9b4640a90">
+	</div>
+	<div class="grofile-hash-map-2e87f0f1584ff81918b09e4251f36edd">
+	</div>
+	<div class="grofile-hash-map-eea507250e093b3625a8d08255510774">
+	</div>
+	<div class="grofile-hash-map-d0230025d2fdaa9a0629cdf6edb48071">
+	</div>
+	<div class="grofile-hash-map-0279d31e792317bed15bdf5ef6602e55">
+	</div>
+	<div class="grofile-hash-map-2abe3a14a31165f7bad0538c30e1cfc3">
+	</div>
+	<div class="grofile-hash-map-f18fb908af978ff3017f78eacf0d51d9">
+	</div>
+	<div class="grofile-hash-map-026cc367b7f1b3aa0cab5e16a65e2d74">
+	</div>
+	<div class="grofile-hash-map-e38f949f3d1a8a5fb7a3b93d480e6d7e">
+	</div>
+	</div>
+<script type='text/javascript' src='http://cdn.screenrant.com/wp-content/plugins/adrotate-pro/library/jquery.adrotate.dyngroup.js?ver=0.5.3'></script>
+<script type='text/javascript' src='http://cdn.screenrant.com/wp-content/plugins/adrotate-pro/library/jquery.adrotate.clicktracker.js?ver=0.6'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201508'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Febaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.screenrant.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.9.3'></script>
+
+	<script src="http://stats.wp.com/e-201508.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.2',blog:'3930648',post:'68330',tz:'-8'});
+	var load_cmc = function(){linktracker_init(3930648,68330,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script><!-- AdRotate JS -->
+<script type="text/javascript">
+var tracker_url = 'http://screenrant.com/wp-content/plugins/adrotate-pro/library/clicktracker.php';
+</script>
+<!-- /AdRotate JS -->
+
+
+</div>
+
+<!-- Start Chartbeat -->
+
+<script async type="text/javascript">
+
+var _sf_async_config={uid:22975,domain:"screenrant.com"};
+
+(function(){
+
+  function loadChartbeat() {
+
+    window._sf_endpt=(new Date()).getTime();
+
+    var e = document.createElement('script');
+
+    e.setAttribute('language', 'javascript');
+
+    e.setAttribute('type', 'text/javascript');
+
+    e.setAttribute('src',
+
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+
+       "js/chartbeat.js");
+
+    document.body.appendChild(e);
+
+  }
+
+  var oldonload = window.onload;
+
+  window.onload = (typeof window.onload != 'function') ?
+
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+
+})();
+
+</script>
+
+<!-- End Chartbeat -->
+
+
+
+
+<!-- custom footer code -->
+<!--  Movie News -->
+	<script language="javascript"><!--
+
+	document.write('<scr'+'ipt language="javascript1.1" src="http://ads.intergi.com/addyn/3.0/5205/3192807/0/16/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=696;misc='+new Date().getTime()+'"></scri'+'pt>');
+
+	//-->
+
+	</script><noscript><a href="http://ads.intergi.com/adlink/3.0/5205/3192807/0/16/ADTECH;loc=300;key=key1+key2+key3+key4;grp=696" target="_blank"><img src="http://ads.intergi.com/adserv/3.0/5205/3192807/0/16/ADTECH;loc=300;key=key1+key2+key3+key4;grp=696" border="0" width="1" height="1"></a></noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+
+<script type="text/javascript" src="http://screenrant.com/wp-content/themes/sr7.9d/js/inview.js?v=4.5"></script>
+
+<script>
+	$(document).ready(function()
+
+	{
+		//This function sets the height of the sidebar to match the article
+		var oheight = $('.cblock').height();
+		$('#sidebar').css({'max-height' : oheight+'px', 'width':'333px', 'overflow':'hidden'});
+		//$(".cblock p:nth-child(2)").css("color", "red"); // gets the third P element makes it red.
+
+	});
+
+
+
+
+
+
+$(function() 
+
+{	
+
+
+
+ 	function goboom() 
+
+	{
+
+   	   $('.notinview').slideUp(2000);
+
+	   $('.notinview').empty();	
+
+	   $('.notinview').removeAttr('style');
+
+	   $('#ad_billboard').removeattr('style');
+
+	   console.log('Ad Has Left Viewport and Destroyed');
+
+	} 
+
+	
+
+  	
+
+  
+
+  //This code is designed to remove the background color from images without captions. 	
+
+  $("div[id^='attachment_']").bind('inview', function(event, visible)
+
+  	{
+
+  	if (visible)
+
+  		{
+
+  			//console.log('THIS JUST GOT REAL');
+
+	  		//$(this).attr("style","background-color:none;");
+
+  		}
+
+
+
+  	});
+
+ 
+
+ $('div.sadabove2').bind('inview', function(event,visible)
+
+ {
+
+ 	if(visible)
+
+ 	{
+
+ 		$(this).attr("class","notinview");
+
+ 	}
+
+ 	else
+
+ 	{
+
+ 		//setTimeout(goboom,5000);
+
+ 	}
+
+ });
+
+
+
+  $('div.sad').bind('inview', function(event, visible) 
+
+  {
+
+	  if (visible) 
+
+	  {
+
+	   $(this).closest('.sad').html('<iframe src="/adsindie/300x250btf.php" scrolling="no" frameborder="0" style="border:none; width:308px; height:258px;" allowTransparency="true"></iframe>');
+
+	   $(this).attr("class", "notinview");
+
+  		_gaq.push(['_trackEvent', 'Ad Views', '1', 'Kofi Outlaw']);
+
+
+
+	 
+
+
+
+	  } 
+
+	  else 
+
+	  { 
+
+	  	//setTimeout(goboom,1000); 
+
+	  } 
+
+
+
+  });
+
+  $('div.sadabove').bind('inview', function (event, visible) 
+
+  {
+
+	  if (visible) 
+
+	  {
+
+       postscribe($(this).closest('.sadabove'), '<iframe src="/adsindie/300x250.php?id=3192805" scrolling="no" frameborder="0" style="border:none; width:308px; height:258px;" allowTransparency="true"></iframe>');
+
+
+
+	   $(this).attr("class", "notinview");
+
+		_gaq.push(['_trackEvent', 'Ad Views', '1', 'Kofi Outlaw']);
+
+
+
+	  } 
+
+	  else 
+
+	  { 
+
+	  	//setTimeout(goboom,1000); 
+
+	  } 
+
+
+
+  });  
+
+
+
+
+
+  	$('div.trailers').bind('inview', function (event, visible) 
+
+	  {
+
+		  if (visible)   
+
+		  	{ 
+
+		  		$(this).html('<div class="sbox"><h2 class="sectiontitle">LATEST TRAILERS</h2><ul class="upcomingtags" style="background: rgba(229,229,229,0.11);padding: 0px 5px 5px 7px;width: 290px;"><li class="sidethumb" style="width:285px;"><a href="http://screenrant.com/kill-me-three-times-red-band-trailer-simon-pegg/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Kill-Me-Three-Times-Simon-Pegg.jpg" height="137" width="285" style="width:285px;" alt="<?php sr_shorttitle() ?>" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/kill-me-three-times-red-band-trailer-simon-pegg/">&#8216;Kill Me Three Times&#8217; Red-Band Trailer: Don&#8217;t Double Cross Simon Pegg</a></div></li><li class="sidethumb" style="width:285px;"><a href="http://screenrant.com/fast-furious-7-trailer-vin-diesel-michelle-rodriguez/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/fast-furious-7-trailer-vin-diesel-paul-walker.jpg" height="137" width="285" style="width:285px;" alt="<?php sr_shorttitle() ?>" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/fast-furious-7-trailer-vin-diesel-michelle-rodriguez/">&#8216;Furious 7&#8242; International Trailer: You Ride, I Ride</a></div></li><li class="sidethumb" style="width:285px;"><a href="http://screenrant.com/mad-max-fury-road-trailer-preview-2015-hardy-theron/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Mad-Max-Fury-Road-artwork.jpg" height="137" width="285" style="width:285px;" alt="<?php sr_shorttitle() ?>" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/mad-max-fury-road-trailer-preview-2015-hardy-theron/">&#8216;Mad Max: Fury Road&#8217; International Trailer: Let the Chase Begin</a></div></li><li class="sidethumb" style="width:285px;"><a href="http://screenrant.com/hunger-games-mockingjay-part-1-deleted-scenes/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Josh-Hutcherson-in-The-Hunger-Games-Mockingjay-Part-1.png" height="137" width="285" style="width:285px;" alt="<?php sr_shorttitle() ?>" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/hunger-games-mockingjay-part-1-deleted-scenes/">&#8216;Hunger Games: Mockingjay &#8211; Part 1&#8242; Deleted Scenes: We Need to Talk About Peeta</a></div></li>'); 
+
+		  		$(this).removeAttr('style');
+
+			} 
+
+	}); 
+
+	
+
+	$('div.sfeatures').bind('inview', function (event, visible) 
+
+	  {
+
+		  if (visible)   
+
+		  	{   
+
+		  		$(this).closest('.sfeatures').html('<div class="sbox"><h2 class="sectiontitle">SPECIAL FEATURES</h2><ul class="upcomingtags" style="background: rgba(229,229,229,0.11);padding: 0px 5px 5px 7px;width: 290px;"><li class="sidethumb" style="width:285px;"><a href="http://screenrant.com/video-game-movies-challenges/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Assassins-Creed-4-pirates.jpg" height="137" width="285" style="width:285px;" alt="<?php sr_shorttitle() ?>" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/video-game-movies-challenges/">Taking Away the Controller: Why Video Game Movies Are Such A Hard Sell</a></div></li><li class="sidethumb" style="width:285px;"><a href="http://screenrant.com/hot-tub-time-machine-2-reviews/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Hot-Tub-Time-Machine-2-Reviews.jpg" height="137" width="285" style="width:285px;" alt="<?php sr_shorttitle() ?>" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/hot-tub-time-machine-2-reviews/">&#8216;Hot Tub Time Machine 2&#8242; Review</a></div></li><li class="sidethumb" style="width:285px;"><a href="http://screenrant.com/jason-momoa-aquaman-armor-tattoos-meaning-explanation/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Jason-Momoa-Aquaman-Tattoo-Meanings.jpg" height="137" width="285" style="width:285px;" alt="<?php sr_shorttitle() ?>" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/jason-momoa-aquaman-armor-tattoos-meaning-explanation/">Jason Momoa&#8217;s &#8216;Aquaman&#8217; Armor &#038; Tattoos Explained</a></div></li><li class="sidethumb" style="width:285px;"><a href="http://screenrant.com/aquaman-jason-mamoa-movie-costume-image/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Batman-V-Superman-Jason-Mamoa-Aquaman-Costume.jpeg" height="137" width="285" style="width:285px;" alt="<?php sr_shorttitle() ?>" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/aquaman-jason-mamoa-movie-costume-image/">Jason Momoa&#8217;s Aquaman Revealed in New &#8216;Batman V Superman&#8217; Image</a></div></li>'); 
+
+		  		$(this).attr("style","min-height:200px");
+
+
+
+			} 
+
+	  });
+
+	
+
+	$('div.slists').bind('inview', function (event, visible) 
+
+	  {
+
+		  if (visible)  
+
+		  {  
+
+		  	$(this).closest('.slists').html('<div class="sbox"><h2 class="sectiontitle">SR EXCLUSIVES</h2><ul class="upcomingtags" style="background: rgba(229,229,229,0.11);padding: 0px 5px 5px 7px;width: 290px;"><li class="sidethumb" style="width:285px;"><a href="http://screenrant.com/video-game-movies-challenges/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Assassins-Creed-4-pirates.jpg" height="137" width="285" style="width:285px;" alt="<?php sr_shorttitle() ?>" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/video-game-movies-challenges/">Taking Away the Controller: Why Video Game Movies Are Such A Hard Sell</a></div></li><li class="sidethumb" style="width:285px;"><a href="http://screenrant.com/gillian-jacobs-interview-hot-tub-time-machine-2/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Gillian-Jacobs-Interview-Hot-Tub-Time-Machine-2.jpg" height="137" width="285" style="width:285px;" alt="<?php sr_shorttitle() ?>" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/gillian-jacobs-interview-hot-tub-time-machine-2/">How The Unique World of &#8216;Hot Tub Time Machine&#8217; Attracted Gillian Jacobs</a></div></li><li class="sidethumb" style="width:285px;"><a href="http://screenrant.com/jason-momoa-aquaman-armor-tattoos-meaning-explanation/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Jason-Momoa-Aquaman-Tattoo-Meanings.jpg" height="137" width="285" style="width:285px;" alt="<?php sr_shorttitle() ?>" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/jason-momoa-aquaman-armor-tattoos-meaning-explanation/">Jason Momoa&#8217;s &#8216;Aquaman&#8217; Armor &#038; Tattoos Explained</a></div></li><li class="sidethumb" style="width:285px;"><a href="http://screenrant.com/doctor-who-season-9-details-master-return-missy-fate/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Doctor-Who-Season-9-Peter-Capaldi.jpg" height="137" width="285" style="width:285px;" alt="<?php sr_shorttitle() ?>" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/doctor-who-season-9-details-master-return-missy-fate/">&#8216;Doctor Who&#8217; Season 9 Premiere: Can Moffat Make Up For Season 8 Finale Faults?</a></div></li>'); 
+
+	  		$(this).removeAttr('style');
+
+		  } 
+
+
+
+	  }); 
+
+	
+
+	$('div.sreviews').bind('inview', function (event, visible) 
+
+	  {
+
+		  if (visible)  
+
+		  {  
+
+		  	$(this).closest('.sreviews').html('<div class="sbox"><h2 class="sectiontitle">LATEST REVIEWS</h2><ul class="upcomingtags" style="background: rgba(229,229,229,0.11);padding: 0px 5px 5px 7px;width: 290px;"><li class="sidethumb" style="width:285px;"><a href="http://screenrant.com/duff-movie-reviews-2015/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/The-Duff-Movie-Mae-Whitman-Robbie-Amell.jpg" height="137" width="285" style="width:285px;" alt="<?php sr_shorttitle() ?>" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/duff-movie-reviews-2015/">&#8216;The Duff&#8217; Review</a></div></li><li class="sidethumb" style="width:285px;"><a href="http://screenrant.com/mcfarland-usa-reviews-movie-2015/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/mcfarland-usa-movie-reviews-kevin-costner.jpg" height="137" width="285" style="width:285px;" alt="<?php sr_shorttitle() ?>" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/mcfarland-usa-reviews-movie-2015/">&#8216;McFarland, USA&#8217; Review</a></div></li><li class="sidethumb" style="width:285px;"><a href="http://screenrant.com/hot-tub-time-machine-2-reviews/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Hot-Tub-Time-Machine-2-Reviews.jpg" height="137" width="285" style="width:285px;" alt="<?php sr_shorttitle() ?>" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/hot-tub-time-machine-2-reviews/">&#8216;Hot Tub Time Machine 2&#8242; Review</a></div></li><li class="sidethumb" style="width:285px;"><a href="http://screenrant.com/kingsman-secret-service-movie-reviews/"><img class="nolazy" src="http://static.srcdn.com/slir/w285-h137-c2.0:1/http://screenrant.com/wp-content/uploads/Kingsman-Secret-Service-Colin-Firth-Samuel-L-Jackson-Taron-Egerton.jpg" height="137" width="285" style="width:285px;" alt="<?php sr_shorttitle() ?>" /></a><div style="padding:148px 0 7px 5px;width:inherit;"><a href="http://screenrant.com/kingsman-secret-service-movie-reviews/">&#8216;Kingsman: The Secret Service&#8217; Review</a></div></li>');	
+
+	  		$(this).removeAttr('style');
+
+		  } 
+
+
+
+	  });
+
+	
+
+	$('div.taboola').bind('inview', function (event, visible) 
+
+	  {
+
+		  if (visible) 
+
+		  {
+
+			   $(this).closest('.taboola').html('<div id="taboola-right-rail-thumbnails2" style="margin-left:17px;padding-right:4px;padding-top:10px;"></div>');		  
+
+		  		function taboola()
+
+				{
+
+					window._taboola = window._taboola || [];
+
+						_taboola.push({
+
+						mode: 'alternating-thumbs-6r',
+
+						container: 'taboola-right-rail-thumbnails2',
+
+						placement: 'Right Rail Thumbnails 2nd',
+
+						target_type: 'mix'
+
+					});
+
+				}
+
+	  	 		setTimeout(taboola,500); 	
+
+		  } 
+
+	  }); 
+
+
+
+});
+
+</script>
+
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-537e0c8e16fab71e"></script>
+
+
+
+<!-- Start Taboola -->
+
+<script type="text/javascript">
+
+  window._taboola = window._taboola || [];
+
+  _taboola.push({flush: true});
+
+</script>
+
+<!-- End Taboola -->
+
+<!--JavaScript Tag // Tag for network 5205: Intergi // Website: Screen Rant // Page: screenrant // Placement: screenrant_2x2 (3403396) // created at: Nov 20, 2014 5:26:24 PM-->
+<script language="javascript"><!--
+document.write('<scr'+'ipt language="javascript1.1" src="http://ads.intergi.com/addyn/3.0/5205/3403396/0/277/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://ads.intergi.com/adlink/3.0/5205/3403396/0/277/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" target="_blank"><img src="http://ads.intergi.com/adserv/3.0/5205/3403396/0/277/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" border="0" width="2" height="2"></a></noscript>
+<!-- End of JavaScript Tag -->
+
+<!-- Slide in top follow buttons --> 
+
+
+<!--JavaScript Tag // Tag for network 5205: Intergi // Website: Screen Rant // Page: screenrant // Placement: screenrant_custom (2420216) // created at: Nov 25, 2014 9:07:31 AM-->
+<script language="javascript"><!--
+document.write('<scr'+'ipt language="javascript1.1" src="http://ads.intergi.com/addyn/3.0/5205/2420216/0/509/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://ads.intergi.com/adlink/3.0/5205/2420216/0/509/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" target="_blank"><img src="http://ads.intergi.com/adserv/3.0/5205/2420216/0/509/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" border="0" width="2" height="1"></a></noscript>
+<!-- End of JavaScript Tag -->
+
+</body>
+
+</html>
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching 32/168 queries in 0.384 seconds using disk
+Content Delivery Network via cdn.screenrant.com
+
+ Served from: screenrant.com @ 2015-02-20 15:28:20 by W3 Total Cache -->

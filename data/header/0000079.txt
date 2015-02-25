@@ -1,0 +1,24 @@
+Server: Apache
+Content-Length: 85965
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: ev_sid=54e78cbce4b0947ffb9158ad; expires=Wed, 20-Feb-2019 19:36:28 GMT; path=/
+Access-Control-Allow-Origin: *
+Vary: Accept-Encoding
+X-XSS-Protection: 1; mode=block
+X-Varnish: 26363507 25813751
+X-Type: post
+X-Section: page-turner
+X-Id: 1681231
+X-Format: gallery
+X-Cacheable: YES
+X-Author: rachel arons
+X-Access: n
+Varnish-X-Cache-Hits: 1
+Varnish-X-Cache: HIT
+Link: <http://www.newyorker.com/?p=1681231>; rel=shortlink
+Expires: Fri, 20 Feb 2015 19:36:28 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Fri, 20 Feb 2015 19:36:28 GMT
+Connection: close
+

@@ -1,0 +1,206 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>The DaVinci Code</title>
+<style type="text/css">
+<!--
+
+body {
+	background-image: url(images-home/background.jpg);
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadimages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadimages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body onLoad="MM_preloadimages('images-home/btn_utc_over.jpg','images-home/btn_dvc_over.jpg','images-home/btn_db_over.jpg','images-home/btn_danbrown_over.jpg','images-home/btn_movie_over.jpg','images-home/travel_journal_over.jpg','images-home/bottoml_over.jpg')">
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-5079460-14");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<form name="form1" id="form1" method="POST" action="http://www.randomhouse.com/cgi-bin/newsletters/index.php"  onsubmit="return emvSubmit(this);"><script language="javascript" type="text/javascript" src="http://www.randomhouse.com/js/emv-2-0.js"></script><input type="hidden" name="emv_tag" value="4020000D3238EA04" /><input type="hidden" name="emv_ref" value="BdX7CqkdFowxxRAPAJJ_677UKk9yadzD_g0h" />
+<input type="hidden" name="REDIRECT_URI" value="http://www.randomhouse.com/doubleday/signup/danbrown/subscribe.html"/>
+<input type="hidden" name="EXACTTARGET_EMAIL_CUSTOMER_KEY_FIELD" value="1760"/>
+<div align="center">
+<table cellpadding="0" cellspacing="0" width="700">
+<tr><td><img src="images-home/title.jpg" alt="The Da Vinci Code" width="700" height="183"></td>
+<tr><td>
+	<table cellpadding="0" cellspacing="0" width="100%">
+		<tr>
+			<td><a href="index-ctc.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('btn1','','images-home/btn_dvc_over.jpg',1)"><img src="images-home/btn_dvc.jpg" alt="The Da Vinci Code WebQuest" name="btn1" width="350" height="100" border="0"></a></td>
+			<td><a href="index-utc.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('btn2','','images-home/btn_utc_over.jpg',1)"><img src="images-home/btn_utc.jpg" alt="Uncover The Code" name="btn2" width="350" height="100" border="0"></a></td>
+		</tr>
+	</table>
+</td></tr>
+<tr><td>
+	<table cellpadding="0" cellspacing="0" width="100%">
+		<tr>
+			<td><a href="http://www.danbrown.com" target="_blank" onMouseOver="MM_swapImage('Image15','','images-home/btn_danbrown_over.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images-home/btn_danbrown.jpg" alt="DanBrown.com" name="Image15" width="350" height="74" border="0"></a></td>
+			<td><a href="http://www.TheDaVinciCode-Movie.com" target="_blank" onMouseOver="MM_swapImage('img4','','images-home/btn_movie_over.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images-home/btn_movie.jpg" alt="The DaVinci Code Official Movie Site" name="img4" width="350" height="74" border="0"></a></td>
+		</tr>
+	</table></td></tr>
+<tr><td>
+	<table cellpadding="0" cellspacing="0" width="100%">
+		<tr>
+			<td><img src="images-home/blank_04l.jpg" width="236" height="148"></td>
+			<td><a href="http://www.randomhouse.com/catalog/display.pperl?isbn=9780385504201" target="_blank"><img src="images-home/book_original.jpg" alt="The Da Vinci Code Hardcover" width="114" height="148" border="0"></a></td>
+			<td><a href="http://www.randomhouse.com/catalog/display.pperl?isbn=9780307277671" target="_blank"><img src="images-home/book_paperback.jpg" alt="The Da Vinci Code Paperback" width="114" height="148" border="0"></a></td>
+			<td><img src="images-home/blank_04r.jpg" width="236" height="148"></td>
+		</tr>
+	</table>
+</td></tr>
+
+<tr><td>
+	<table cellpadding="0" cellspacing="0" width="100%">
+		<tr>
+			<td><a href="http://www.randomhouse.com/catalog/display.pperl?isbn=9780767926034" target="_blank"><img src="images-home/book_illustrated.jpg" alt="The Da Vinci Code Illustrated Edition" width="219" height="167" border="0"></a></td>
+			<td background="images-home/newsletter_bg.jpg" width="261" height="167" valign="top" align="left">
+			<div style="padding-top: 0px; padding-left: 20px; padding-right: 0px; padding-bottom: 0px;margin: 0px; border: 0px; height: 167px; width: 219px; overflow: hidden">
+			
+			
+<!-- NEWSLETTER CODE -->
+			
+			
+			<div style="margin-top:40px;">
+			<div style="padding: 0px; color: white; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px">
+
+			 
+			
+			<input type="hidden" value="1" name="DAN_BROWN_FIELD">
+			<div align="left">
+			Sign up to receive the Dan Brown newsletter from Random House, Inc.
+			</div>
+			<div align="left" style="padding:0px; padding-top: 10px; padding-bottom: 0px;">
+			Enter your email: <input name="EMAIL_FIELD" type="text" class="footerBtn" id="email" size="15"  style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: black">
+			</div>
+<!--			
+			<div align="right" style="padding:0px; padding-top: 5px">
+			 <INPUT name="action" TYPE="radio" value="subscribe" CLASS="footerBtn" CHECKED style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: black"> Subscribe
+			 <INPUT name="action"  TYPE="radio" value="unsubscribe" CLASS="footerBtn" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: black"> Unsubscribe<BR>
+			 </div>
+-->
+			 <div align="left"  style="padding:0px; padding-top: 5px">
+			 <INPUT TYPE="submit" VALUE="Submit" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: black">
+			</div> 	
+			</div>
+			</div>
+			
+<!-- END NEWSLETTER CODE -->			
+			
+			</div>
+
+			</td>
+			<td><a href="http://www.randomhouse.com/catalog/display.pperl?isbn=9780767926027" target="_blank"><img src="images-home/book_screenplay.jpg" width="220" height="167" border="0" alt="The Da Vinci Code Illustrated Screenplay"></a></td>
+		</tr>
+	</table>
+</td></tr>
+
+
+<tr><td><img src="images-home/bottom.jpg" width="700" height="74"></td>
+</tr>
+
+<tr><td>
+	<table cellpadding="0" cellspacing="0" width="100%">
+		<tr>
+			<td><a href="http://www.randomhouse.com/catalog/display.pperl?isbn=9780739339794 " target="_blank" onMouseOver="MM_swapImage('audioLink','','images-home/bottoml_over.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images-home/bottoml.jpg" alt="The Da Vinci Code Audio Book" name="audioLink" width="122" height="64" border="0"></a></td>
+			<td><a href="http://www.randomhouse.com/catalog/display.pperl?isbn=9780385504201"><img src="images-home/bottomc.jpg" width="456" height="64" border="0"></a></td>
+			<td><a href="http://www.randomhouse.com/catalog/display.pperl?isbn=9780307345769" target="_blank" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('travel','','images-home/travel_journal_over.jpg',1)"><img src="images-home/travel_journal.jpg" alt="The Da Vinci Code Travel Journal" name="travel" width="122" height="64" border="0"></a></td>
+		</tr>
+	</table>
+</td></tr>
+
+</table>
+
+<font color="#FFFFFF" size="+1">New from Dan Brown<br><a href="http://www.danbrown.com" style="color:#FFFFFF"><em>The Lost Symbol</em></a> - In Stores 9.15.09</font>
+<Br><Br>
+
+</div>
+
+			</form>
+<!-- SiteCatalyst code version: H.17.
+Copyright 1997-2008 Omniture, Inc. More info available at
+
+http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript"><!--
+var s_account="ranhddbroadway,ranhrollup";
+//rh_division = "Doubleday Broadway";
+//rh_imprint = "";
+//--></script>
+<script language="JavaScript" type="text/javascript" src="/js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.rhEan="__###REPLACE###.ean.safe__";
+s.pageName="";
+s.server="";
+s.channel="";
+s.pageType="";
+s.prop1="__###REPLACE###.ti_division.safe__";
+s.prop2="__###REPLACE###.category_display.safe__";
+s.prop3="";
+s.prop4="";
+s.prop5="__###REPLACE###.imprint.safe__";
+s.prop6="__###REPLACE###.title.safe__";
+s.prop7="__###REPLACE###.author_display.safe__";
+s.prop8="__###REPLACE###.media.safe__";
+s.prop9="";
+s.prop10="__###REPLACE###.query_title_subtitle_auth_isbn__";
+s.prop11="__###REPLACE###.num_of_matches__";
+/* Conversion Variables */
+s.campaign="";
+s.events="";
+s.eVar1="__###REPLACE###.query_title_subtitle_auth_isbn__";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://code.randomhouse.com/b/ss/ranhrollup/1/H.17--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.17. -->
+</body>
+</html>

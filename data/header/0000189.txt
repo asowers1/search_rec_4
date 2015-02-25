@@ -1,0 +1,13 @@
+Set-Cookie: ServerID=1602; path=/
+Date: Fri, 20 Feb 2015 21:13:52 GMT
+Set-Cookie: JSESSIONID=70ECC5F98700082DD8C0AA037131C01E; Path=/; HttpOnly
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Vary: User-Agent,Accept-Encoding
+FLX-Server: web502.flixster.com
+RT-Commit: RTRELEASE.2015-02-19.12-07-52 168658a
+FLX-Commit: ADMINRELEASE.2015-02-19.11-31-51 854dd1f
+FLX-Build-Date: 2015-02-19 14:13:50
+Connection: close
+Transfer-Encoding: chunked
+

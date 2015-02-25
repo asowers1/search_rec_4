@@ -1,0 +1,76 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><title>Elton John Song Lyrics</title><link rel="stylesheet" type="text/css" href="/css/style3.css" /><script type="text/javascript">
+function goHome() {document.location="/index.html";}
+</script>
+<meta name="description" content="
+Lyrics to every one of Elton John's 650+ songs he's ever released, even some
+that are still unreleased.  Includes band credits and where to buy the song.
+"/></head><body><div class="center_800"><div class="header" onclick="location.href='/index.html';" style="cursor: pointer;"><a href="/index.html"><img src="/pix/blank.gif" style="position:absolute;left:10px;top:10px;width:780px;height:150px;z-index:3;" border="0"></a><div class="title_subtext">The online illustrated Elton John Discography<br/>by David Bodoh</div></div><div class="tabbed_menu"><img class="menu_bevel", src="/pix/tab_bevel.gif"/><a href="/songs/index.html"><img class="menu_button"
+          src="/pix/lyrics_tab_front.gif" alt="Elton John lyrics"
+          onmouseover="this.src='/pix/lyrics_tab_front_over.gif';"
+          onmouseout="this.src='/pix/lyrics_tab_front.gif';"/></a><a href="/albums/standard/index.html"><img class="menu_button"
+          src="/pix/albums_tab_back.gif" alt="Elton John Albums"
+          onmouseover="this.src='/pix/albums_tab_back_over.gif';"
+          onmouseout="this.src='/pix/albums_tab_back.gif';"/></a><a href="/singles/index.html"><img class="menu_button"
+          src="/pix/singles_tab_back.gif" alt="Elton John singles"
+          onmouseover="this.src='/pix/singles_tab_back_over.gif';"
+          onmouseout="this.src='/pix/singles_tab_back.gif';"/></a><a href="/tours/index.html"><img class="menu_button"
+          src="/pix/tours_tab_back.gif" alt="Elton John tours"
+          onmouseover="this.src='/pix/tours_tab_back_over.gif';"
+          onmouseout="this.src='/pix/tours_tab_back.gif';"/></a><a href="/books/index.html"><img class="menu_button"
+          src="/pix/books_tab_back.gif" alt="Elton John books"
+          onmouseover="this.src='/pix/books_tab_back_over.gif';"
+          onmouseout="this.src='/pix/books_tab_back.gif';"/></a><a href="/news/index.html"><img class="menu_button"
+          src="/pix/news_tab_back.gif" alt="Facebook"
+          onmouseover="this.src='/pix/news_tab_back_over.gif';"
+          onmouseout="this.src='/pix/news_tab_back.gif';"/></a></div><div class="lyric_page"><div class="lyrics_letters"><a href="/songs/0_index.html" class="song_letter">#</a><a href="/songs/A_index.html" class="song_letter">A</a><a href="/songs/B_index.html" class="song_letter">B</a><a href="/songs/C_index.html" class="song_letter">C</a><a href="/songs/D_index.html" class="song_letter">D</a><a href="/songs/E_index.html" class="song_letter">E</a><a href="/songs/F_index.html" class="song_letter">F</a><a href="/songs/G_index.html" class="song_letter">G</a><a href="/songs/H_index.html" class="song_letter">H</a><a href="/songs/I_index.html" class="song_letter">I</a><a href="/songs/J_index.html" class="song_letter">J</a><a href="/songs/K_index.html" class="song_letter">K</a><a href="/songs/L_index.html" class="song_letter">L</a><a href="/songs/M_index.html" class="song_letter">M</a><a href="/songs/N_index.html" class="song_letter">N</a><a href="/songs/O_index.html" class="song_letter">O</a><a href="/songs/P_index.html" class="song_letter">P</a><a href="/songs/Q_index.html" class="song_letter">Q</a><a href="/songs/R_index.html" class="song_letter">R</a><a href="/songs/S_index.html" class="song_letter">S</a><a href="/songs/T_index.html" class="song_letter">T</a><a href="/songs/U_index.html" class="song_letter">U</a><a href="/songs/V_index.html" class="song_letter">V</a><a href="/songs/W_index.html" class="song_letter">W</a><a href="/songs/X_index.html" class="song_letter">X</a><a href="/songs/Y_index.html" class="song_letter">Y</a><a href="/songs/Z_index.html" class="song_letter">Z</a></div><div class="lyrics_search"><form action="/cgi-bin/lyrics-search.cgi" METHOD=POST>
+    Search Elton John song lyrics: <input type="TEXT" SIZE="45" name="query" maxsize=60>
+  </form></div><div class="songtitle">Elton John Song Lyrics</div><div class="margin20 important"><introduction>
+This section catalogs the lyrics to every song recorded by Elton John throughout
+his entire career.  It contains only songs that he recorded in studio, either as
+a solo vocalist, or as a duet with other artists.  Elton has also performed several
+additional songs live in concert, but those are too numerous to include here. 
+Most of these songs were record for his studio albums, but there are also those
+that were singles, b-sides, or tracks included on various special projects. These
+lyrics are <b>unofficial</b>. Many have been transcribed by ear, and some still have
+empty spaces where the vocals cannot be deciphered.<p />
+Use the alphabetical links above to browse by song title, or use the lyrics search box
+to find lyrics with specific words or phrases.
+</introduction>
+
+</div><div class="bubble small"><copyright>
+NOTICE<br />
+WARNING CONCERNING COPYRIGHT RESTRICTIONS<p />
+The copyright law of the United States (Title 17, United States Code) governs the making
+of photocopies or other reproductions of copyrighted material.<p />
+Under certain conditions specified in the law, libraries and archives are authorized to
+furnish a photocopy or other reproduction. One of these specified conditions is that the
+photocopy or reproduction is not to be "used for any purpose other than private study,
+scholarship, or research." If a user makes a request for, or later uses, a photocopy or
+reproduction for purposes in excess of "fair use," that user may be liable for copyright
+infringement.<p />
+This provider of these pages reserves the right to refuse to accept a copying order if,
+in its judgement, fulfillment of the order would involve violation of copyright law.<p />
+Many entries in this archive do not contain individual copyright notices. The lack of
+a notice does not imply that the entry is unprotected by copyright law.
+</copyright>
+
+
+</div></div><div class="googlead">
+  <script type="text/javascript"><!--
+  google_ad_client = "pub-1622175966048288";
+  google_ad_width = 468;
+  google_ad_height = 60;
+  google_ad_format = "468x60_as";
+  google_ad_type = "text";
+  google_ad_channel = "";
+  google_color_border = "99E1FF";
+  google_color_bg = "99E1FF";
+  google_color_link = "0000FF";
+  google_color_text = "000000";
+  google_color_url = "008000";
+  //-->
+  </script>
+  <script type="text/javascript"
+    src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  </script>
+  </div><div class="trailer">Copyright &copy; 2014 <a href="/contact/index.html">David Bodoh</a></div><script type="text/javascript" src="//www.auctionnudge.com/item_build/js/SellerID/captain_fantastic/siteid/0/theme/simple_list/MaxEntries/6/show_logo/1"></script><div id="auction-nudge-items" class="auction-nudge"><a href="http://www.auctionnudge.com/your-ebay-items">eBay on my website by Auction Nudge</a></div></div></body></html>

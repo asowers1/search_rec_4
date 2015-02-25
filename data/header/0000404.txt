@@ -1,0 +1,13 @@
+Date: Sat, 21 Feb 2015 01:28:23 GMT
+Server: Server
+x-amz-id-1: 052P6AYQAQQV3G4E05P1
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-frame-options: SAMEORIGIN
+x-amz-id-2: uVHtXyn6XgqwvjIRx0L/uNKO67JVCe9aobMra6x4+kPjy2r+SVpWSccnBwWU6oBm
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=ISO-8859-1
+Set-cookie: x-wl-uid=1IlSw05659tBbEXXUBwmR5ZxXLqHlQacVNXQz9d7rJw78xF92TOZ2ltYI/SiY+cPzFFC+0BnGmfs=; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Set-cookie: session-id-time=2082787201l; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Set-cookie: session-id=180-1753812-2724733; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Transfer-Encoding: chunked
+

@@ -1,0 +1,267 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en-US" class="no-js"> <!--<![endif]-->
+
+<head>
+    <!-- Meta Tags -->
+    <meta name="viewport" content="width=1200" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <!-- Title -->
+    <title>The Da Vinci Code | Dan Brown</title>
+
+    <!-- 1140px Grid styles for IE -->
+    <!--[if lte IE 9]>
+    <link rel="stylesheet" href="http://www.danbrown.com/wp-content/themes/danbrown/css/grid/ie.css" type="text/css"
+          media="screen"/>
+    <![endif]-->
+
+    <!-- The 1140px Grid - http://cssgrid.net/ -->
+    <link rel="stylesheet" href="http://www.danbrown.com/wp-content/themes/danbrown/css/grid/1140.css" type="text/css"
+          media="screen"/>
+
+
+    <!-- Stylesheets -->
+        <link rel="stylesheet" href="http://www.danbrown.com/wp-content/themes/danbrown/css/mediaelementplayer.css" />
+
+    <link rel="stylesheet" href="http://www.danbrown.com/wp-content/themes/danbrown/style.css" type="text/css" media="screen"/>
+    <link rel="stylesheet"
+          href="http://www.danbrown.com/wp-content/themes/danbrown/css/skins/skin.css"
+          type="text/css" media="screen" id="site_skin">
+
+
+    <script> 
+        //var _gaq = _gaq || [];
+        var TEMPLATE_PATH = "http://www.danbrown.com/wp-content/themes/danbrown";
+    </script>
+    <link rel="alternate" type="application/rss+xml" title="Dan Brown &raquo; Feed" href="http://www.danbrown.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dan Brown &raquo; Comments Feed" href="http://www.danbrown.com/comments/feed/" />
+<script type='text/javascript' src='http://www.danbrown.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/css3-mediaqueries.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/modernizr-2.6.1.min.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/preloader.js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.danbrown.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.danbrown.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1.1" />
+<link rel='shortlink' href='http://www.danbrown.com/?p=460' />
+<!-- Custom Styling -->
+<style type="text/css" id="custom-style">
+body { 
+	background-color: ;
+	background-image:  none;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: top left; 
+}
+</style>
+<link rel="shortcut icon" href="http://www.danbrown.com/wp-content/uploads/2013/01/favicon.ico"/>
+
+<!-- All in One SEO Pack 2.2.4 by Michael Torbert of Semper Fi Web Design[481,524] -->
+<meta name="description"  content="The Greatest Conspiracy of the past 2000 years is about to unravel..." />
+
+<link rel="canonical" href="http://www.danbrown.com/the-davinci-code/" />
+<!-- /all in one seo pack -->
+    <!-- audio player stuff, must be in head to support ie8 -->
+     <script src="http://www.danbrown.com/wp-content/themes/danbrown/js/mediaelement-and-player.min.js"></script>
+    </head>
+
+<body  class="page page-id-460 page-template page-template-book page-template-book-php">
+
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=308079915979291";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+<div id="main" role="main" class="book-detail">
+    <section id="dctop" class="page-container post-385 fp-sections type-fp-sections status-publish hentry book-header book-interstitial"><div class="page-background"><img class="bgimage" src="http://www.danbrown.com/wp-content/themes/danbrown/images/db/books/dvc/01.jpg" alt="dctop" /><div class="bgimage"></div></div><div class="wrapper container"><div class="row"><div class="page-content twelvecol">
+
+</div></div></div></section>
+<div id="detail-bar-holder" class="page-container"><img id="detail-bar" src="http://www.danbrown.com/wp-content/themes/danbrown/images/db/detail.topbar.png"/></div><a href="http://www.danbrown.com/#books" id="back-button"></a><a href="http://www.danbrown.com/the-lost-symbol/" id="prev-book"></a><a href="http://www.danbrown.com/angels-demons/" id="next-book"></a>
+<section id="dcdesc" class="page-container post-385 fp-sections type-fp-sections status-publish hentry book-description"><div class="page-background"><div class="bgimage"></div></div><div class="wrapper container"><div class="row"><div class="page-content twelvecol">
+<h1>The Greatest Conspiracy of the Past 2000<br/>Years is About to Unravel</h1>
+<div class="desc-interior">
+<img src="http://www.danbrown.com/wp-content/themes/danbrown/images/db/covers/dvc.jpg"/>
+<p>
+While in Paris on business, Harvard symbologist Robert Langdon receives an urgent late-night phone call: the elderly curator of the Louvre has been murdered inside the museum. Near the body, police have found a baffling cipher. Solving the enigmatic riddle, Langdon is stunned to discover it leads to a trail of clues hidden in the works of da Vinciâ¦clues visible for all to seeâ¦and yet ingeniously disguised by the painter.
+</p><p>
+Langdon joins forces with a gifted French cryptologist, Sophie Neveu, and learns the late curator was involved in the Priory of Sionâan actual secret society whose members included Sir Isaac Newton, Botticelli, Victor Hugo, and da Vinci, among others. The Louvre curator has sacrificed his life to protect the Priory&#8217;s most sacred trust: the location of a vastly important religious relic, hidden for centuries.
+</p><p>
+In a breathless race through Paris, London, and beyond, Langdon and Neveu match wits with a faceless powerbroker who appears to work for Opus Deiâa clandestine, Vatican-sanctioned Catholic sect believed to have long plotted to seize the Priory&#8217;s secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle in time, the Priory&#8217;s secretâand a stunning historical truthâwill be lost forever.
+</p><p>
+In an exhilarating blend of relentless adventure, scholarly intrigue, and cutting wit, symbologist Robert Langdon (first introduced in Dan Brown&#8217;s bestselling Angels &#038; Demons) is the most original character to appear in years. The Da Vinci Code heralds the arrival of a new breed of lightning-paced, intelligent thriller&#8230;surprising at every twist, absorbing at every turn, and in the end, utterly unpredictable&#8230;right up to its astonishing conclusion.
+</p>
+<p class="book-info-buttons">
+<a href="http://www.danbrown.com/wp-content/themes/danbrown/assets/db_dvc_book_excerpts.pdf" class="db-button" target="_blank"><span>DOWNLOAD EXCERPT</span></a><a href="http://www.randomhouse.com/book/19309/the-da-vinci-code-by-dan-brown" class="db-button" target="_blank"><span>BUY THE BOOK</span></a><br /><a href="javascript:void(0)" class="db-button centered audio-excerpt" data-audio-url="http://dan-brown.s3.amazonaws.com/audio-excerpts/davinci_code.mp3"><span>AUDIO EXCERPT</span></a>
+</p>
+</div>
+</div></div></div></section>
+<section id="dcint1" class="page-container post-385 fp-sections type-fp-sections status-publish hentry book-interstitial"><div class="page-background"><img class="bgimage" src="http://www.danbrown.com/wp-content/themes/danbrown/images/db/books/dvc/02.jpg" alt="dcint1" /><div class="bgimage"></div></div><div class="wrapper container"><div class="row"><div class="page-content twelvecol">
+
+</div></div></div></section>
+<section id="dcreviews" class="page-container post-385 fp-sections type-fp-sections status-publish hentry book-reviews"><div class="page-background"><div class="bgimage"></div></div><div class="wrapper container"><div class="row"><div class="page-content twelvecol">
+<h1>Reviews</h1>
+<p>
+WOW&#8230;Blockbuster perfection. An exhilaratingly brainy thriller.  Not since the advent of Harry Potter has an author so flagrantly delighted in leading readers on a breathless chase and coaxing them through hoops.
+<br/>
+<span class="orange">- Janet Maslin, <em>The New York Times</em></span>
+</p>
+<p>
+A new master of smart thrills. A pulse-quickening, brain-teasing adventure.
+<br/>
+<span class="orange"><em>- People Magazine</em></span>
+</p>
+<p>
+This is pure genius.  Dan Brown has to be one of the best, smartest, and most accomplished writers in the country.
+<br/>
+<span class="orange"><em>- Nelson Demille</em></span>
+</p>
+<p>
+Thriller writing doesn&#8217;t get any better than this.
+<br/>
+<span class="orange"><em>- The Denver Post</em></span>
+</p>
+<p>
+This masterpiece should be mandatory reading.  Brown solidifies his reputation as one of the most skilled thriller writers on the planet with his best book yet, a compelling blend of history and page-turning suspense. Highly recommended.
+<br/>
+<span class="orange"><em>- Library Journal</em></span>
+</p>
+<p>
+A heart-racing thriller.  This story has so many twists &#8212; all satisfying, most unexpected &#8212; that it would be a sin to reveal too much of the plot in advance. Let&#8217;s just say that if this novel doesn&#8217;t get your pulse racing, you need to check your meds.
+<br/>
+<span class="orange"><em>- The San Francisco Chronicle</em></span>
+</p>
+</div></div></div></section>
+<section id="dcint2" class="page-container post-385 fp-sections type-fp-sections status-publish hentry book-interstitial"><div class="page-background"><img class="bgimage" src="http://www.danbrown.com/wp-content/themes/danbrown/images/db/books/dvc/03.jpg" alt="dcint2" /><div class="bgimage"></div></div><div class="wrapper container"><div class="row"><div class="page-content twelvecol">
+
+</div></div></div></section>
+<section id="dcfacts" class="page-container post-385 fp-sections type-fp-sections status-publish hentry book-facts"><div class="page-background"><div class="bgimage"></div></div><div class="wrapper container"><div class="row"><div class="page-content twelvecol">
+<h1>BIZARRE FACTS</h1>
+<p>
+<span class="orange">The Secret Life of Leonardo da Vinci</span><br/>
+A prankster and genius, Leonardo da Vinci is widely believed to have hidden secret messages within much of his artwork. Most scholars agree that even da Vinciâs most famous pieces â works like The Mona Lisa, The Last Supper, and Madonna of the Rocks â contain startling anomalies that all seem to be whispering the same cryptic messageâ¦a message that hints at a shocking historical secret that allegedly has been guarded since 1099 by a European secret society known as the Priory of Sion. In 1975, Parisâs BibliothÃ¨que Nationale discovered parchments known as Les Dossiers Secrets, identifying numerous members of the Priory of Sion, including Sir Isaac Newton, Victor Hugo, Botticelli, and Leonardo da Vinci. French president FranÃ§ois Mitterrand, is rumored to have been a member, although there exists no proof of this.
+</p><p>
+<span class="orange">An Unbroken Code</span><br/>
+There exists a chapel in Great Britain that contains a ceiling from which hundreds of stone blocks protrude, jutting down to form a bizarre multi-faceted surface. Each block is carved with a symbol, seemingly at random, creating a cipher of unfathomable proportion. Modern cryptographers have never been able to break this code, and a generous reward is offered to anyone who can decipher the baffling message. In recent years, geological ultrasounds have revealed the startling presence of an enormous subterranean vault hidden beneath the chapel. To this day, the curators of the chapel have permitted no excavation.
+</p><p>
+<span class="orange">243 Lexington Avenue, New York</span><br/>
+The Vatican prelature known as Opus Dei is a deeply devout Catholic sect that has become controversial recently due to allegations of brainwashing, coercion, and a dangerous practice knock as âcorporal mortification.â Opus Dei has recently completed construction of a $47 million, 133,000-square-foot North American Headquarters at 243 Lexington Avenue in New York City.
+</p><p>
+<span class="orange">Someone is watching you&#8230; or are they?</span><br/>
+The Louvre Museum in Paris is one of the longest buildings on Earth. Walking around the entire perimeter of this horseshoe-shaped edifice is a three-mile journey. Even so, the Louvreâs collection of art is so vast that only a fraction of its works can be displayed on the walls. Inside the galleries, a multitude of security cameras watch over visitors. The number of cameras is so great that a staff of several hundred wardens would be required to monitor all of them. In fact, most of the cameras are fake.
+</p><p>
+<span class="orange">Da Vinciâs slap on the wrist</span><br/>
+Da Vinciâs original commission for his famous Madonna of the Rocks came from an organization knock as the Confraternity of the Immaculate Conception, which needed a painting for the centerpiece of an altar triptych in their church of San Francesco Grand in Milan. The nuns gave a Leonardo specific dimensions and a desired theme â the Virgin Mary, baby John the Baptist, Uriel, and Baby Jesus sheltering in a cave. Although da Vinci did as they requested, when he delivered the work, the group reacted with horror. The painting contained several disturbing âun-Christianâ anomalies, that seemed to convey a hidden message and alternative meaning. Da Vinci eventually mollified the confraternity by painting a second version of Madonna of the Rocks, which now hangs in Londonâs National Gallery under the name Virgin of the Rocks. Da Vinciâs original hangs at the Louvre in Paris.
+</p>
+</div></div></div></section>
+<section id="dcint3" class="page-container post-385 fp-sections type-fp-sections status-publish hentry book-interstitial"><div class="page-background"><img class="bgimage" src="http://www.danbrown.com/wp-content/themes/danbrown/images/db/books/dvc/04.jpg" alt="dcint3" /><div class="bgimage"></div></div><div class="wrapper container"><div class="row"><div class="page-content twelvecol">
+
+</div></div></div></section>
+<section id="dcbuy" class="page-container post-385 fp-sections type-fp-sections status-publish hentry book-buy"><div class="page-background"><div class="bgimage"></div></div><div class="wrapper container"><div class="row"><div class="page-content twelvecol">
+<img src="http://www.danbrown.com/wp-content/themes/danbrown/images/db/dc.quote.png"/>
+</div></div></div></section></div>
+<a id="scroll-top">
+
+</a>
+
+<div id="lightbox-container">
+	<div class="lightbox-background">
+
+	</div>
+	<div id="lightbox-contents">
+
+	</div>
+	<a href="" id="lightbox-close" class="lightbox-close"></a>
+</div>
+
+<div id="nav-sharebox">
+<div id="twitter-content">
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://danbrown.com">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<a class="share-visit" href="http://www.twitter.com/authordanbrown" target="_blank"><span>VISIT DAN BROWN ON TWITTER</span></a>
+</div>
+<div id="facebook-content">
+
+<div class="fb-like" data-href="http://danbrown.com" data-send="true" data-layout="button_count" data-width="90" data-show-faces="false" data-font="arial"></div>
+
+<a class="share-visit" href="http://www.facebook.com/danbrown" target="_blank"><span>VISIT DAN BROWN ON FACEBOOK</span></a>
+</div>
+<script language="javascript" type="text/javascript" src="http://www.randomhouse.com/js/emv-2-0.js"></script>
+<div id="mailing-content">
+	<form id="mail-form" method="POST" name="signup_list" action="http://www.randomhouse.com/cgi-bin/newsletters/index.php" onsubmit="return emvSubmit(this);" target="_blank">
+		<input type="text" name="EMAIL_FIELD" id="EMAIL_FIELD" />
+		<input type="hidden" value="KDPG_DAN_BROWN" name="RH_REQUEST_SUBCODES[]" />
+		<input type="hidden" name="EXACTTARGET_EMAIL_CUSTOMER_KEY_FIELD" value="1760"/>
+	</form>
+	<a class="share-visit" id="mail-submit"><span>JOIN THE MAILING LIST</span></a>
+</div>
+
+<div id="search-content">
+	<form id="search-form" action="http://www.danbrown.com" method="GET">
+		<input type="text" name="s" id="search-box" autocomplete="off"/>
+	</form>
+	<a class="share-visit" id="search-submit"><span>SEARCH</span></a>
+</div>
+
+</div>
+<img src="http://www.danbrown.com/wp-content/themes/danbrown/images/job_38_11.png"/ id="job_surprise">
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34824482-1']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/jquery.smartresize.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/jquery-ui-1.9.2.custom.min.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/functions/js/twitter.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/retina.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/smf.nav.js?v=2'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/smf.lightbox.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/jquery.jscrollpane.min.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/jquery.localscroll-1.2.7-min.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/jquery.scrollTo.min.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/jquery.inview.min.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/jquery.mousewheel.min.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/superfish.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/jquery.fitvids.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/jquery.isotope.min.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/jquery.slidebox.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/jquery.touchSwipe.min.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/jquery.flexslider-min.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/common.js'></script>
+<script type='text/javascript' src='http://www.danbrown.com/wp-content/themes/danbrown/js/front.page.js'></script>
+
+<script>
+jQuery(document).ready(function ($) {
+	$('#job_surprise').appendTo('#secret-lattice');
+	
+	$('#job').on('click', function() {
+		$('#job_surprise').fadeIn(500, function() {
+			$(this).fadeOut(500);
+		});
+	});
+});
+</script>
+</body>
+</html>  
+
+<!-- Dynamic page generated in 0.485 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-02-19 10:20:01 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->

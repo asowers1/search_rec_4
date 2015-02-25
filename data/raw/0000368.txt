@@ -1,0 +1,2217 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.apple.com/itms/" lang="en">
+
+
+  <head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="keywords" content="download Mariah Carey, music, songs, Pop, higher quality than mp3, iTunes" /><meta name="description" content="Preview and download top songs and albums by Mariah Carey on the iTunes Store. Songs by Mariah Carey start at just $0.69." /><meta name="platform-cache-id" content="8" />
+<link rel="canonical" href="https://itunes.apple.com/us/artist/mariah-carey/id91853" />
+
+<title>iTunes - Music - Mariah Carey</title>
+
+
+
+
+
+
+<script>
+if (!window.its) {
+    window.its = {};
+}
+its.markupLoadStartTime = new Date().getTime();
+
+if (!window.onerror) window.onerror = function(message, url, lineNumber) {
+    if (!window._earlyOnerrorException) {
+        window._earlyOnerrorException = {message: message,
+                                         url: url,
+                                         lineNumber: lineNumber};
+    }
+};
+</script>
+
+
+<link charset="utf-8" rel="stylesheet" type="text/css" href="https://s.mzstatic.com/htmlResources/C72F/web-storefront-base.css" />
+<link charset="utf-8" rel="stylesheet" type="text/css" href="https://s.mzstatic.com/htmlResources/C72F/web-storefront-preview.css" />
+
+
+
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript" charset="utf-8" src="/htmlResources/C72F/frameworks-primaryinit01.js"></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript" charset="utf-8">its.serverData={"storePlatformData":{},"pageData":{},"constants":{"Urls":{"upgradeITunesUrl":"http://www.apple.com/itunes/download/","upgradeSafariUrl":"http://www.apple.com/safari/download/"},"MZMediaType":{"EBooks":{"id":11,"name":"EBooks"},"MobileSoftware":{"id":8,"name":"MobileSoftwareApplications"},"MacSoftware":{"id":12,"name":"DesktopApps"},"Music":{"id":1,"name":"Music"},"Audiobooks":{"id":3,"name":"Audiobooks"},"Podcasts":{"id":2,"name":"Podcasts"},"ClassicSoftware":{"id":7,"name":"iPodGames"},"MusicVideos":{"id":5,"name":"MusicVideos"},"TVShows":{"id":4,"name":"TVShows"},"iTunesU":{"id":10,"name":"iTunesU"},"Movies":{"id":6,"name":"Movies"},"Ringtones":{"id":9,"name":"Ringtones"}},"SFSortOrder":{"PlaylistName":{"id":9},"RecentBestSellers":{"id":18},"SeriesOrder":{"id":17},"CmcRecommended":{"id":10},"Popularity":{"id":3},"ArtistName":{"id":8},"Featured":{"id":1},"TopRated":{"id":5},"Duration":{"id":11},"ReleaseDate":{"id":2},"TrackNumber":{"id":13},"Name":{"id":0},"AllTimeBestSellers":{"id":14},"ExpirationDate":{"id":6},"Price":{"id":7},"MostRecent":{"id":16},"PurchaseDate":{"id":4},"DateAdded":{"id":15},"DiscNumber":{"id":12}},"SFEntityType":{"Artist":{"id":1},"Playlist":{"id":4},"TopContents":{"id":7},"MultiRoom":{"id":3},"Search":{"id":6},"WeMix":{"id":8},"Cmc":{"id":2},"Work":{"id":10},"Wishlist":{"id":9},"TopAuthors":{"id":12},"Room":{"id":5},"TheyMix":{"id":11}},"countryCode":"usa","languageCode":"en","SFCustomComponentCountryCode":"usa","IXDisplayableKind":{"Artist":{"id":20,"cssClasses":[],"name":"artist"},"MobileSoftware":{"id":11,"cssClasses":["application"],"name":"iosSoftware","mtId":"8"},"Album":{"id":2,"cssClasses":["album","music"],"name":"album","mtId":"1"},"ShortFilm":{"id":8,"cssClasses":["short-film","movie","video"],"name":"shortFilm","mtId":"6"},"PodcastEpisode":{"id":15,"cssClasses":["podcast-episode"],"name":"podcastEpisode","mtId":"2"},"ApplePubEBook":{"id":36,"cssClasses":["ebook"],"name":"ibook","mtId":"11"},"Song":{"id":1,"cssClasses":["song","music"],"name":"song","mtId":"1"},"MovieBundle":{"id":24,"cssClasses":["bundle","movie","video"],"name":"movieBundle","mtId":"6"},"RingtoneAlbum":{"id":22,"cssClasses":[],"name":"ringtoneAlbum","mtId":"9"},"Book":{"id":3,"cssClasses":["audiobook"],"name":"book","mtId":"3"},"ToneAlbum":{"id":32,"cssClasses":[],"name":"toneAlbum","mtId":"9"},"TVEpisode":{"id":6,"cssClasses":["tv-episode","tv","video"],"name":"tvEpisode","mtId":"4"},"TVSeason":{"id":7,"cssClasses":["tv-season","tv","video"],"name":"tvSeason","mtId":"4"},"Course":{"id":34,"cssClasses":["course","itunes-u"],"name":"course","mtId":"10"},"ClassicSoftwarePackage":{"id":18,"cssClasses":["ipod-game"],"name":"gamePackage","mtId":"7"},"Movie":{"id":9,"cssClasses":["movie","video"],"name":"movie","mtId":"6"},"Booklet":{"id":13,"cssClasses":["booklet","music"],"name":"booklet","mtId":"1"},"SocialArtist":{"id":28,"cssClasses":[],"name":"socialArtist"},"EBook":{"id":25,"cssClasses":["ebook"],"name":"epubBook","mtId":"11"},"MacSoftware":{"id":30,"cssClasses":["application","mac-application"],"name":"desktopApp","mtId":"12"},"MusicVideo":{"id":5,"cssClasses":["music-video","music","video"],"name":"musicVideo","mtId":"5"},"Ringtone":{"id":21,"cssClasses":[],"name":"ringtone","mtId":"9"},"Podcast":{"id":4,"cssClasses":["podcast"],"name":"podcast","mtId":"2"},"Concert":{"id":26,"cssClasses":[],"name":"concert","mtId":"1"},"ApplePubTextbook":{"id":37,"cssClasses":["ebook"],"name":"ibookTextbook","mtId":"13"},"SoftwareAddOn":{"id":16,"cssClasses":["software-add-on","application"],"name":"softwareAddOn","mtId":"8"},"Tone":{"id":31,"cssClasses":[],"name":"tone","mtId":"9"},"WeMix":{"id":19,"cssClasses":["wemix","music"],"name":"itunesMix","mtId":"1"},"SocialPerson":{"id":27,"cssClasses":[],"name":"socialPerson"},"ClassicSoftware":{"id":10,"cssClasses":["ipod-game"],"name":"ipodGame","mtId":"7"},"MetaEBook":{"id":35,"cssClasses":["ebook"],"name":"metaEbook","mtId":"13"},"iTunesPass":{"id":12,"cssClasses":["itunes-pass","album","music"],"name":"itunesPass","mtId":"1"},"Mix":{"id":14,"cssClasses":["mix","music"],"name":"mix","mtId":"1"},"TheyMix":{"id":33,"cssClasses":[],"name":"thirdPartyMix"}},"AddToWishlistResult":{"ItemIsFree":{"id":6},"ListFull":{"id":3},"SomeContentAlreadyOwnedButUnfulfilled":{"id":5},"SomeContentAlreadyInWishlist":{"id":1},"Success":{"id":0},"Failure":{"id":2},"SomeContentAlreadyOwned":{"id":4}},"getEmailUrl":"https://itunes.apple.com/WebObjects/MZStore.woa/wa/generateEmail?cc=us"},"properties":{"clientStatsLoadTimeGroup":"4006","MZHtmlResourcesUtil.allowDeferJsLoad":true,"countryCodeIso2a":"us","currencyFormat":"$#,##0.00;$#,##0.00;-$#,##0.00","currencySymbol":"$","currencyThousandSeparator":",","currencyDecimalSeparator":".","MZFeatureEnabler.isCadillacEnabled":true,"MZFinance.VolumeBuyQuantityUpperLimit":25000,"iTunesUEnrollLink":"","ITSServerEnvironment":"prod","ITSServerInstance":"2003906","ITSResourceRevNum":"C72F","resourceUrlPrefix":"https://s.mzstatic.com","ITSLogger.ServerReportingProtocol":"https","ITSLogger.ServerReportingDomain":"metrics.mzstatic.com","ITSLogger.ServerReportingApp":"MZUserXP","ITSLogger.RecordStatsAction":"recordStats","ITSLogger.SenderName":"ITSClient","ITSLogger.mirrorToServerByDefaultOnErrors":true,"DynaLoader.allowDynaLoading":true,"itsLoggerQueueProcessingInterval":10000,"cobaltBundleId":"com.apple.itunesu","getCobaltAppLink":"https://itunes.apple.com/us/app/id490217893","cobaltLearnMore":"https://itunes.apple.com/us/learn-more?about=iTunesUUpgradePage&type=2","isCobaltEnabled":true,"isCobaltJavascriptRedirectEnabled":true,"isCobaltUpsellPageEnabled":true,"isRadioHistoryEnabled":true,"personalizedButtonsEnabled":true,"SF6.Personalization.isCMAEnabled":true,"SF6.Personalization.isCMSEnabled":true,"SFJ.isNFAEnabledInStorefront":true,"SFJ.isRecommendationsSwooshEnabledInStorefront":true,"SF6.StorePlatform.whitelistParams":["caller","dsid","id","p"],"vendLastSupportedVersionIfAvailable":true,"vendLastSupportedVersionMacOs":true,"isBookGiftingEnabled":true,"metrics":{"metricsUrl":"https://xp.apple.com/report","compoundSeparator":"_","tokenSeparator":"|","postFrequency":60000,"blacklistedFields":["capacitySystem","capacitySystemAvailable","capacityDisk","capacityData","capacityDataAvailable"],"fieldsMap":{"single":{"targetId":["id","adamId","contentId","type","fcId","station-hash"]},"custom":{"location":["id","adamId","dataSetId","name","fcKind","kindIds","type","station-hash","core-seed-name"],"impressions":["id","adamId","station-hash"]},"cookies":["itcCt"],"multi":{}},"metricsBase":{"storeFrontHeader":"","language":"1","platformId":"8","platformName":"ItunesPreview","storeFront":"143441","environmentDataCenter":"ST11"}},"MZStore.shouldAttemptToEvaluateXpathSecondTime":true,"MZStore.shouldCacheElementTypeProtoObjects":true}}</script>
+<script type="text/javascript" charset="utf-8">
+if (!window.iTSLocalization) { iTSLocalization = {}; }
+iTSLocalization._strings = {"Js.MyAlerts.GeniusActivationNeeded.Button":"Go to Genius", "Js.Pagination.NextPage":"Next Page", "Js.Wishlist.RemoveTooltip":"Remove from Wish List", "Js.CNConnections.RequestSent":"Request sent", "Js.Showcase.Next":"Next Item", "Js.CNConnections.Dialog.GetStarted":"Get Started", "Js.ReportAConcern.SigninMessage":"Enter your Apple ID and password, then click Sign In.", "CNConnections.Upload.UploadErrorMessage":"Sorry, there was an error during upload.", "Js.InlineReview.SigninMessage":"Enter your Apple ID and password, then click Sign In.", "Js.TextTruncation.More":"More", "Js.QuickView.Unavailable.Title":"Quick View is currently unavailable for this item.", "Less":"Less", "Js.MyAlerts.GeniusActivationNeeded.Message":"This requires Genius.", "CNConnections.Dialog.Post.Review.SignIn.Title":"Sign in to post.", "Js.ManageArtistAlerts.CheckAll.Artists":"Check All Artists", "CNConnections.Upload.UploadErrorHeading":"There is a Problem With Your Upload", "Js.TellAFriend.SigninMessage":"Enter your Apple ID and password, then click Sign In.", "CNConnections.Dialog.StopFollowing.Message":"CNConnections.Dialog.StopFollowing.Message", "CNConnections.Dialog.OptIn.Title":"Ping Will No Longer Be Available as of September 30", "CNConnections.Dialog.StopFollowing.Title":"Are you sure you want to stop following @@fullName@@?", "Js.InlineReview.SigninTitle":"Sign in to write a review.", "Js.InlineRating.SigninMessage":"Sign in to continue.", "Js.MyAlerts.GeniusActivationNeeded.Explanation":"Alerts based on your library content will not be enabled until you have turned on Genius. To learn more, click Go to Genius.", "_thousandsSeparator":",", "InAppPurchases":"In-App Purchases", 
+"Js.CNConnections.LoginRequired.Message":"This requires Ping. Ping will no longer be available as of September 30, and we are not accepting new members. If you are already a Ping member, sign in below to continue.", "Js.Pagination.PreviousPage":"Previous Page", "Js.TellAFriend.SigninTitle":"Sign in to tell a friend.", "Js.InlineReview.RateThis":"Rate this", "Js.InlineReview.5":"it's great", "Js.InlineReview.4":"it's good", "Js.Pagination.Back":"Back", "Js.InlineReview.3":"it's ok", "CNConnections.Dialog.PrivateUser.IllegalAction.Message":"If you would like to perform this action, please change your privacy settings.", "Js.InlineReview.2":"don't like it", "Js.InlineReview.1":"hate it", "Js.InlinePreview.StopPreview":"Stop preview of @@title@@", "Js.QuickView.Unavailable.Text":"Please try again later.", "Js.MyAlerts.ConfirmEmailSignUp.Explanation":"You can change this preference at any time from your My Alerts page.", "Js.CNConnections.Dialog.Cancel":"Cancel", "Js.CNConnections.PeoplePopupMore":"and @@count@@ other@@s@@...", "CNConnections.Dialog.OptIn.Message":"Liking a review requires Ping, and we are no longer accepting new members.", "Js.CNConnections.Confirmed":"Confirmed", "Js.CNConnections.UserReview.YouLiked":"You Liked", "Js.CreateAccount":"Create Apple ID", "Js.CNConnections.OptInRequired.Title":"Ping", "Js.Pagination.Next":"Next", "Js.ManageArtistAlerts.CheckAll.Actors":"Check All Actors", "Js.ManageArtistAlerts.CheckAll":"Check All", "Js.ReportAConcern.SigninTitle":"Sign in to report a concern.", "Js.MyAlerts.CancelEmailSignUp.Explanation":"You can change this preference at any time from your My Alerts page.", "CNConnections.Dialog.PrivateUser.LeakyAction.Message":"This action will make your profile photo and name visible to others.", "Js.TextLimit.Remaining":"@@count@@ characters remaining", "More":"More", "CNConnections.Dialog.PrivateUser.LeakyAction.Title":"Are you sure you want to perform this action?", "Js.Pagination.PageNumberTitle":"page @@num@@", "Js.Pagination.DisabledButtonText":"disabled @@button_text@@", "Js.MyAlerts.CancelEmailSignUp.Message":"Are you sure you want to stop receiving email alerts?", "JS.errors.requiredLite":"Please fill in all required fields.", "CNConnections.Dialog.Post.Review.SignIn.Message":"Enter your Apple ID or AOL screen name and your password, then click Sign In.", "Js.InlineReview.Thanks":"Thanks!", "Js.InlineReview.Error":"Error", "CNConnections.Dialog.Like.Review.SignIn.Message":"Enter your Apple ID or AOL screen name and your password, then click Sign In.", "Js.ManageArtistAlerts.UncheckAll.Artists":"Uncheck All Artists", "Js.List.Item":"item", "Js.iTunesStoreError.Explanation":"There was an error in the iTunes Store. Please try again later.  (@@errorNum@@)", "Js.InlineReview.ClickToRate":"Click to rate", "CNConnections.Dialog.PrivateUser.IllegalAction.Title":"Private users may not perform this action.", "Js.InlineRating.SigninTitle":"Sign in to rate this item.", "Js.MyAlerts.ConfirmEmailSignUp.Message":"Are you sure you want to receive email alerts?", "Js.ManageArtistAlerts.UncheckAll.Actors":"Uncheck All Actors", "CNConnections.Dialog.OptIn.ButtonSubmit":"Learn More", "_decimalSeparator":".", "CNConnections.Dialog.OptIn.ButtonCancel":"Cancel", 
+"Js.CNConnections.OptInRequired.Message":"This requires Ping. Ping will no longer be available as of September 30, and we are not accepting new members. If you are already a Ping member, sign in below to continue.", "Js.CNConnections.LoginRequired.Title":"Sign in to access Ping.", "CNConnections.Dialog.OptIn.ButtonSignIn":"Sign In", "Js.Pagination.PageNumber":"Page @@num@@", "Js.Search.HintsTitle":"Suggestions", "Js.InlinePreview.PlayPreview":"Play preview of @@title@@", "CNConnections.Dialog.Like.Review.SignIn.Title":"Sign in to like a review.", "Js.ManageArtistAlerts.UncheckAll":"Uncheck All", "Js.iTunesStoreError.Message":"We could not complete your request.", "CNConnections.Upload.MaxPhotosErrorMessage":"You can have no more than 20 photos in one post."}
+</script>
+
+<script type="text/javascript" charset="utf-8" src="/htmlResources/C72F/web-storefront-base.js"></script>
+<script type="text/javascript" charset="utf-8" src="/htmlResources/C72F/web-storefront-preview.js"></script>
+<script type="text/javascript" charset="utf-8" src="/htmlResources/C72F/web-storefront-previewRegionSensitive.js"></script>
+
+
+<link charset="utf-8" href="https://www.apple.com/ac/globalheader/1.0/styles/globalheader.css" id="globalheader-stylesheet" rel="stylesheet" type="text/css" />
+
+
+
+
+
+</head>
+ 
+  <body onload="detectAndOpenItunes();" class="geo-us lang-en-us lang-en">
+  <script type="text/javascript">
+      checkIfAskPermissionApprovalSheet();
+  </script>
+  
+    
+    <script language ="JavaScript" type="text/javascript">
+      ITSMediaPlayer.insertMediaPlayer();
+    </script>
+  
+
+  
+  <nav id="globalheader" class="globalheader gh-selected-tab-itunes" role="navigation" aria-label="Global Navigation" data-hires="false" data-analytics-region="global nav" lang="en-us"><div id="gh-content" class="gh-content">
+		<ul class="gh-menu">
+<li id="gh-menu-icon-toggle" class="gh-menu-icon gh-menu-icon-toggle"><button id="gh-svg-icons" class="gh-svg-wrapper"><span class="gh-text-replace">Menu</span></button></li>
+			<li id="gh-menu-icon-home" class="gh-menu-icon gh-menu-icon-home"><a href="http://www.apple.com/"><span class="gh-text-replace">Apple</span></a></li>
+		</ul>
+<!--/gh-menu--><div class="gh-nav">
+			<div class="gh-nav-view">
+				<ul class="gh-nav-list">
+<li class="gh-tab gh-tab-apple"><a class="gh-tab-link" href="http://www.apple.com/"><span class="gh-tab-inner"><span class="gh-text-replace">Apple</span></span></a></li>
+					<li class="gh-tab gh-tab-store"><a class="gh-tab-link" href="http://store.apple.com/us"><span class="gh-tab-inner"><span class="gh-text-replace">Store</span></span></a></li>
+					<li class="gh-tab gh-tab-mac"><a class="gh-tab-link" href="http://www.apple.com/mac/"><span class="gh-tab-inner"><span class="gh-text-replace">Mac</span></span></a></li>
+					<li class="gh-tab gh-tab-iphone"><a class="gh-tab-link" href="http://www.apple.com/iphone/"><span class="gh-tab-inner"><span class="gh-text-replace">iPhone</span></span></a></li>
+					<li class="gh-tab gh-tab-watch"><a class="gh-tab-link" href="http://www.apple.com/watch/"><span class="gh-tab-inner"><span class="gh-text-replace">Watch</span></span></a></li>
+					<li class="gh-tab gh-tab-ipad"><a class="gh-tab-link" href="http://www.apple.com/ipad/"><span class="gh-tab-inner"><span class="gh-text-replace">iPad</span></span></a></li>
+					<li class="gh-tab gh-tab-ipod"><a class="gh-tab-link" href="http://www.apple.com/ipod/"><span class="gh-tab-inner"><span class="gh-text-replace">iPod</span></span></a></li>
+					<li class="gh-tab gh-tab-itunes"><a class="gh-tab-link" href="http://www.apple.com/itunes/"><span class="gh-tab-inner"><span class="gh-text-replace">iTunes</span></span></a></li>
+					<li class="gh-tab gh-tab-support"><a class="gh-tab-link" href="http://www.apple.com/support/"><span class="gh-tab-inner"><span class="gh-text-replace">Support</span></span></a></li>
+					<li id="gh-tab-search" class="gh-tab gh-tab-search">
+						<div id="gh-search" class="gh-search" role="search">
+							<form action="/search/" method="post" class="gh-search-form" id="gh-search-form" data-search-recommended-results='{"url":"https://www.apple.com/global/nav/scripts/shortcuts.php","requestName":"recommendedResults","queryName":"q","dataType":"xml"}' data-search-suggested-searches='{"url":"https://www.apple.com/search/instant/getSuggestions","requestName":"suggestedSearches","queryName":"query","queryParams":{"model":"marcom_en_US","locale":"en_US"},"dataType":"json"}'>
+								<div class="gh-search-input-wrapper">
+									<label for="gh-search-input" class="gh-text-replace">Search apple.com</label>
+									<input type="text" name="q" id="gh-search-input" class="gh-search-input" placeholder="Search apple.com">
+</div>
+								<button disabled type="submit" id="gh-search-submit" class="gh-search-submit gh-search-magnify"><span class="gh-text-replace">Search apple.com</span></button>
+								<button disabled type="reset" id="gh-search-reset" class="gh-search-reset"><span class="gh-text-replace">Reset</span></button>
+							</form>
+						</div>
+						<a class="gh-search-magnify" href="http://www.apple.com/search/"><span class="gh-text-replace">Search apple.com</span></a>
+					</li>
+				</ul>
+</div>
+		</div>
+<!--/gh-nav-->
+	</div>
+</nav><script src="https://www.apple.com/ac/globalheader/1.0/scripts/globalheader.js" type="text/javascript" charset="utf-8"></script><div id="productheader"><div class="localnav" data-analytics-region="product nav"><h2><img src="https://s.mzstatic.com/images/web/itunes_preview/itunespreview_en@2x.png" alt="iTunes" height="32" width="263"></h2><ul class="localnav-links"><li><a href="http://www.apple.com/itunes/overview/" class="localnav-link">Overview</a></li><li><a href="http://www.apple.com/itunes/music/" class="localnav-link">Music</a></li><li><a href="http://www.apple.com/itunes/video/" class="localnav-link">Video</a></li><li><a href="http://www.apple.com/itunes/charts/" class="localnav-link">Charts</a></li></ul></div></div>
+
+  <div id="main">
+    <div id="itunes-detector">
+  <div id="launching-itunes">
+
+    <div id="status">
+      <div class="opening-itunes" id="loadingItunes"><span>Opening the iTunes Store.</span><span>If iTunes doesn't open, click the iTunes application icon in your Dock or on your Windows desktop.</span><span class="spinner">Progress Indicator</span></div>
+      <div class="opening-itunes" id="loadingIbooks"><span>Opening the iBooks Store.</span><span>If iBooks doesn't open, click the iBooks app in your Dock.</span><span class="spinner">Progress Indicator</span></div>
+  </div>
+</div>
+
+  <div id="itunes-client-required">
+    <div class="callout">
+      <div class="left">iTunes</div>
+
+      <h2>iTunes is the world's easiest way to organize and add to your digital media collection.</h2>
+
+      <p preview-capable-text="We are unable to find iTunes on your computer. To buy and download music by [?], get iTunes now." class="intro has-preview-capable-text">
+        We are unable to find iTunes on your computer. To preview and buy music by [?], download iTunes now.          
+      </p>
+
+      <div class="download">
+        <p>Already have iTunes? Click I Have iTunes to open it now.</p>
+        <a class="i-have-itunes" onclick="its.detect.userOverrideSetItunesInstalled(); its.detect.openItunes(); return true;" href="#">
+          <img alt="I Have iTunes" src="/images/web/ihaveitunes.png" />
+        </a>
+        <a href="#" onclick="javascript:window.location='http://www.apple.com/itunes/affiliates/download/?id=91853'; return true;"><img alt="Free Download" src="/images/web/freedownload.png" /></a>
+      </div>
+
+      <a class="macpc" href="#">iTunes for Mac + PC</a>
+    </div>
+  </div>
+</div>
+
+
+    
+    
+    
+  
+
+    <div id="content">
+      
+      <div class="padder">
+
+        <div id="title" class="intro">
+          <h1>Mariah Carey</h1>
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/artist/mariah-carey/id91853&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+          <p preview-capable-text="To preview a song, mouse over the title and click Play. Open iTunes to buy and download music." class="has-preview-capable-text">
+            To preview a song, mouse over the title and click Play. Open iTunes to buy and download music.          
+          </p>
+        </div>
+
+        <div class="center-stack">
+            <div id="biography" metrics-loc="Titledbox_Biography" class="biography">
+  
+    <h4>
+      
+      Biography
+    </h4>
+    
+  
+  
+  
+    <div more-text="More" will-truncate-max-height="72"><p class="extra">The best-selling female performer of the 1990s and one of the most popular artists through the 2010s, Mariah Carey rose to superstardom on the strength of her stunning five-octave voice. An elastic talent who moved easily from glossy ballads to hip-hop-inspired dance-pop, she earned frequent comparison to rivals Whitney Houston and Celine Dion, but did them both one better by co-writing almost all her material. Like all artists with lengthy periods in the mainstream spotlight, Carey experienced creative and commercial lulls, yet each one of her proper studio albums peaked within the Top Five of the Billboard 200. </p><p class="extra">Born in Long Island, New York, on March 27, 1970, Carey moved to New York City at the age of 17 &#8212; just one day after graduating high school &#8212; to pursue a music career; there she befriended keyboardist Ben Margulies, with whom she began writing songs. Her big break came as a backing vocalist on a studio session with dance-pop singer Brenda K. Starr, who handed Carey's demo tape to Columbia Records head Tommy Mottola at a party. According to legend, Mottola listened to the tape in his limo while driving home that same evening, and was so immediately struck by Carey's talent that he doubled back to the party to track her down. </p><p class="extra">After signing to Columbia, Carey entered the studio to begin work on her 1990 self-titled debut LP. The heavily promoted album was a chart-topping smash, launching no less than four number one singles: "Vision of Love," "Love Takes Time," "Someday," and "I Don't Wanna Cry." Her overnight success earned Grammy Awards as Best New Artist and Best Female Vocalist, and expectations were high for Carey's follow-up, 1991's Emotions. The album did not disappoint, as the title track reached number one &#8212; a record fifth consecutive chart-topper &#8212; while both "Can't Let Go" and "Make It Happen" landed in the Top Five. Carey's next release was 1992's MTV Unplugged EP, which generated a number one cover of the Jackson 5's "I'll Be There." Featured on the track was backup singer Trey Lorenz, whose appearance immediately helped him land a recording contract of his own. </p><p class="extra">In June 1993, Carey wed Mottola &#8212; some two decades her senior &#8212; in a headline-grabbing ceremony; months later, she released her third full-length effort, Music Box, which became her best-selling record to date. Two more singles, "Dreamlover" and "Hero," reached the top spot on the charts. Carey's first tour followed and was widely panned by critics; undaunted, she resurfaced in 1994 with a holiday release titled Merry Christmas, scoring a seasonal smash with "All I Want for Christmas Is You." Released in 1995, Daydream reflected a new artistic maturity; the first single, "Fantasy," debuted at number one, making Carey the first female artist and just the second performer ever to accomplish the feat. The follow-up, "One Sweet Day" &#8212; a collaboration with Boyz II Men &#8212; repeated the trick, and remained lodged at the top of the charts for a record 16 weeks. </p><p class="extra">After separating from Mottola, Carey returned in 1997 with Butterfly, another staggering success and her most hip-hop-flavored recording to date. #1's &#8212; a collection featuring her 13 previous chart-topping singles as well as "The Prince of Egypt (When You Believe)," a duet with Whitney Houston effectively pairing the two most successful female recording artists in pop history &#8212; followed late the next year. With "Heartbreaker," the first single from her 1999 album Rainbow, Carey became the first artist to top the charts in each year of the 1990s; the record also pushed her ahead of the Beatles as the artist with the most cumulative weeks spent atop the Hot 100 singles chart.</p><p class="extra">However, the early 2000s weren't as kind to Carey. After signing an $80 million deal in 2001 with Virgin &#8212; the biggest record contract ever &#8212; she experienced a very public personal and professional meltdown that included rambling; suicidal messages on her website; an appearance on TRL where, clad only in a T-shirt, she handed out Popsicles to the audience; and last but not least, the poorly received movie Glitter and its attendant soundtrack (which was also her Virgin Records debut). The film did poorly critically as well as commercially, making just under $4 million in its total U.S. gross. Despite this, the soundtrack eventually went platinum. Following these setbacks, Virgin and Carey parted ways early in 2002, with the label paying her $28 million. That spring, she found a new home with Island/Def Jam, where she set up her own label, MonarC Music. In December, she released her ninth album, Charmbracelet, her first proper studio album to go merely platinum rather than multi-platinum.</p><p class="extra">The Emancipation of Mimi, her most successful work in years, appeared in 2005. It climbed to multi-platinum status and earned Carey three Grammy awards &#8212; Best Contemporary R&amp;B Album and, for the single "We Belong Together," Best Female R&amp;B Vocal Performance and Best R&amp;B Song &#8212; thus restoring her status as a megastar. Two weeks before the release of her subsequent album, 2008's E=MC2, Carey scored her 18th number one hit with "Touch My Body," a feat that pushed her into second place (past Elvis, no less) among all artists with the most chart-topping singles. Although that hit song, along with the late April news that she had married Nick Cannon, kept her in the spotlight that year, the remainder of the album's spinoffs weren't nearly as successful; only "Bye Bye" managed to scrape the Top 20 of the Billboard Hot 100.</p><p class="extra">Carey went back to work fairly quickly, however, and in 2009, Memoirs of an Imperfect Angel &#8212; featuring collaborations with the-Dream, as well as a cover of Foreigner's "I Want to Know What Love Is" &#8212; became her 12th studio album. Despite some positive reviews, it was her least successful studio album; only one of its singles, "Obsessed," reached the Top 10. The following year, Carey released her second Christmas album, Merry Christmas II You. She gave birth to twins in 2011, and within a year, she was performing again and judged the 12th season of American Idol. The Miguel collaboration "#Beautiful," the lead single to her next album, was released in 2013 and went platinum. Me. I Am Mariah: The Elusive Chanteuse, her first album for Def Jam, followed in 2014, and reached number two on the album charts. </p></div>
+  
+  
+</div>
+<div metrics-loc="Titledbox_Top Albums" class="top-albums">
+  
+    <h3>
+      
+      Top Albums
+    </h3>
+    
+  
+  
+  
+    
+<div metrics-loc="Swoosh_" rows="4" class="swoosh lockup-container album music large">
+
+  
+    
+    <div num-items="20" class="content"><div>
+<div role="group" metrics-loc="Lockup_" adam-id="294299359" preview-artist="Mariah Carey" aria-label="Merry Christmas, Mariah Carey" preview-title="Merry Christmas" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/merry-christmas/id294299359" class="artwork-link"><div class="artwork"><img width="100" height="99" alt="Merry Christmas, Mariah Carey" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Music/v4/27/b0/3b/27b03b89-4740-2790-2714-449e6821d5ae/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Music/v4/27/b0/3b/27b03b89-4740-2790-2714-449e6821d5ae/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>1. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/merry-christmas/id294299359" class="name">Merry Christmas</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/merry-christmas/id294299359&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="277823569" preview-artist="Mariah Carey" aria-label="E=MC&sup2;, Mariah Carey" preview-title="E=MCÂ²" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/e-mc2/id277823569" class="artwork-link"><div class="artwork"><img width="100" height="99" alt="E=MCÂ², Mariah Carey" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Music/v4/4f/3a/1d/4f3a1d33-10bb-4a39-d093-89930171b171/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Music/v4/4f/3a/1d/4f3a1d33-10bb-4a39-d093-89930171b171/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>2. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/e-mc2/id277823569" class="name">E=MCÂ²</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/e-mc2/id277823569&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="61479838" preview-artist="Mariah Carey" aria-label="The Emancipation of Mimi, Mariah Carey" preview-title="The Emancipation of Mimi" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/the-emancipation-of-mimi/id61479838" class="artwork-link"><div class="artwork"><img width="99" height="100" alt="The Emancipation of Mimi, Mariah Carey" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Music/v4/f0/75/63/f07563a7-b88a-96e9-3be2-e728abfc8ca9/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Music/v4/f0/75/63/f07563a7-b88a-96e9-3be2-e728abfc8ca9/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>3. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/the-emancipation-of-mimi/id61479838" class="name">The Emancipation of Mimi</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/the-emancipation-of-mimi/id61479838&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="585972750" preview-artist="Mariah Carey" aria-label="Merry Christmas, Mariah Carey" preview-title="Merry Christmas" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/merry-christmas/id585972750" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Merry Christmas, Mariah Carey" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Music4/v4/f7/04/0c/f7040cc4-be4a-8935-094e-a3e9c23eb6b2/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Music4/v4/f7/04/0c/f7040cc4-be4a-8935-094e-a3e9c23eb6b2/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>4. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/merry-christmas/id585972750" class="name">Merry Christmas</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/merry-christmas/id585972750&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="190173909" preview-artist="Mariah Carey" aria-label="Greatest Hits, Mariah Carey" preview-title="Greatest Hits" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/greatest-hits/id190173909" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Greatest Hits, Mariah Carey" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Music/v4/ed/f8/74/edf874ad-5d80-cd23-1317-154e37f2576b/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Music/v4/ed/f8/74/edf874ad-5d80-cd23-1317-154e37f2576b/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>5. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/greatest-hits/id190173909" class="name">Greatest Hits</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/greatest-hits/id190173909&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="202585939" preview-artist="Mariah Carey" aria-label="#1's, Mariah Carey" preview-title="#1's" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/1s/id202585939" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="#1&apos;s, Mariah Carey" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Music/v4/68/b9/ee/68b9eeed-b403-c9ba-89fe-d5b096d4f8e4/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Music/v4/68/b9/ee/68b9eeed-b403-c9ba-89fe-d5b096d4f8e4/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>6. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/1s/id202585939" class="name">#1's</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/1s/id202585939&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="399833155" preview-artist="Mariah Carey" aria-label="Merry Christmas II You, Mariah Carey" preview-title="Merry Christmas II You" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/merry-christmas-ii-you/id399833155" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Merry Christmas II You, Mariah Carey" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Music/v4/9f/f8/ab/9ff8ab7c-9cc6-7879-5a60-dc3f3fd13c61/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Music/v4/9f/f8/ab/9ff8ab7c-9cc6-7879-5a60-dc3f3fd13c61/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>7. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/merry-christmas-ii-you/id399833155" class="name">Merry Christmas II You</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/merry-christmas-ii-you/id399833155&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="330946605" preview-artist="Mariah Carey" aria-label="Memoirs of an Imperfect Angel, Mariah Carey" preview-title="Memoirs of an Imperfect Angel" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/memoirs-of-an-imperfect-angel/id330946605" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Memoirs of an Imperfect Angel, Mariah Carey" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Music/v4/0f/fc/87/0ffc8700-8ce6-cb9b-ccad-dd69127c0540/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Music/v4/0f/fc/87/0ffc8700-8ce6-cb9b-ccad-dd69127c0540/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>8. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/memoirs-of-an-imperfect-angel/id330946605" class="name">Memoirs of an Imperfect Angel</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/memoirs-of-an-imperfect-angel/id330946605&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-riaa="500" role="group" metrics-loc="Lockup_" adam-id="872238798" preview-artist="Mariah Carey" aria-label="Me. I Am Mariah&hellip;The Elusive Chanteuse (Deluxe Version), Mariah Carey" preview-title="Me. I Am Mariahâ¦The Elusive Chanteuse (Deluxe Version)" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/me.-i-am-mariah...the-elusive/id872238798" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Me. I Am Mariahâ¦The Elusive Chanteuse (Deluxe Version), Mariah Carey" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Music4/v4/0b/71/a9/0b71a9a9-3d9f-eb55-363a-d307cf16e818/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Music4/v4/0b/71/a9/0b71a9a9-3d9f-eb55-363a-d307cf16e818/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>9. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/me.-i-am-mariah...the-elusive/id872238798" class="name">Me. I Am Mariahâ¦The Elusive Chanteuse (Deluxe Version)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/me.-i-am-mariah...the-elusive/id872238798&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="192812283" preview-artist="Mariah Carey" aria-label="Butterfly, Mariah Carey" preview-title="Butterfly" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/butterfly/id192812283" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Butterfly, Mariah Carey" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Music/v4/b3/0b/8d/b30b8de5-be5e-6eb4-22f2-2962f05b0168/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Music/v4/b3/0b/8d/b30b8de5-be5e-6eb4-22f2-2962f05b0168/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>10. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/butterfly/id192812283" class="name">Butterfly</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/butterfly/id192812283&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="169605890" preview-artist="Mariah Carey" aria-label="Mariah Carey, Mariah Carey" preview-title="Mariah Carey" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/mariah-carey/id169605890" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Mariah Carey, Mariah Carey" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Music/v4/1b/4c/96/1b4c96d6-3a07-c2d7-b8c6-fac284c65d84/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Music/v4/1b/4c/96/1b4c96d6-3a07-c2d7-b8c6-fac284c65d84/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>11. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/mariah-carey/id169605890" class="name">Mariah Carey</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/mariah-carey/id169605890&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="169962059" preview-artist="Mariah Carey" aria-label="Daydream, Mariah Carey" preview-title="Daydream" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/daydream/id169962059" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Daydream, Mariah Carey" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Music/v4/7f/90/1f/7f901f00-74e6-a9b3-e8ce-d591db74533f/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Music/v4/7f/90/1f/7f901f00-74e6-a9b3-e8ce-d591db74533f/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>12. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/daydream/id169962059" class="name">Daydream</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/daydream/id169962059&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="171021009" preview-artist="Mariah Carey" aria-label="Music Box, Mariah Carey" preview-title="Music Box" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/music-box/id171021009" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Music Box, Mariah Carey" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Music/v4/ae/e4/4a/aee44acb-33f6-f20c-a550-78ec250e5bac/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Music/v4/ae/e4/4a/aee44acb-33f6-f20c-a550-78ec250e5bac/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>13. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/music-box/id171021009" class="name">Music Box</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/music-box/id171021009&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="186214441" preview-artist="Mariah Carey" aria-label="The Remixes, Mariah Carey" preview-title="The Remixes" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/the-remixes/id186214441" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="The Remixes, Mariah Carey" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Music/v4/70/0d/67/700d674e-d0b0-87b2-7b0a-efc264bc762a/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Music/v4/70/0d/67/700d674e-d0b0-87b2-7b0a-efc264bc762a/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>14. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/the-remixes/id186214441" class="name">The Remixes</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/the-remixes/id186214441&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="171047440" preview-artist="Mariah Carey" aria-label="Rainbow, Mariah Carey" preview-title="Rainbow" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/rainbow/id171047440" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Rainbow, Mariah Carey" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Music/v4/70/3c/2d/703c2d59-687e-47a2-3bdc-e570f2f66e2d/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Music/v4/70/3c/2d/703c2d59-687e-47a2-3bdc-e570f2f66e2d/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>15. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/rainbow/id171047440" class="name">Rainbow</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/rainbow/id171047440&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="181447728" preview-artist="Mariah Carey" aria-label="MTV Unplugged: Mariah Carey (Live), Mariah Carey" preview-title="MTV Unplugged: Mariah Carey (Live)" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/mtv-unplugged-mariah-carey/id181447728" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="MTV Unplugged: Mariah Carey (Live), Mariah Carey" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Music/v4/23/aa/e6/23aae666-8156-f618-7f41-00dbf13dcc5b/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Music/v4/23/aa/e6/23aae666-8156-f618-7f41-00dbf13dcc5b/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>16. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/mtv-unplugged-mariah-carey/id181447728" class="name">MTV Unplugged: Mariah Carey (Live)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/mtv-unplugged-mariah-carey/id181447728&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="193524777" preview-artist="Mariah Carey" aria-label="Emotions, Mariah Carey" preview-title="Emotions" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/emotions/id193524777" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Emotions, Mariah Carey" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Music/v4/10/5b/29/105b2964-0c40-35e3-e7d3-9308781d5c50/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Music/v4/10/5b/29/105b2964-0c40-35e3-e7d3-9308781d5c50/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>17. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/emotions/id193524777" class="name">Emotions</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/emotions/id193524777&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="310133795" preview-artist="Mariah Carey" aria-label="Charmbracelet, Mariah Carey" preview-title="Charmbracelet" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/charmbracelet/id310133795" class="artwork-link"><div class="artwork"><img width="98" height="100" alt="Charmbracelet, Mariah Carey" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Music/v4/a7/7c/a0/a77ca008-663b-35ba-ce88-c73b1f0e0a1e/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Music/v4/a7/7c/a0/a77ca008-663b-35ba-ce88-c73b1f0e0a1e/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>18. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/charmbracelet/id310133795" class="name">Charmbracelet</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/charmbracelet/id310133795&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="277928354" preview-artist="Mariah Carey" aria-label="Touch My Body (Remixes), Mariah Carey" preview-title="Touch My Body (Remixes)" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/touch-my-body-remixes/id277928354" class="artwork-link"><div class="artwork"><img width="100" height="99" alt="Touch My Body (Remixes), Mariah Carey" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Music/v4/bd/d2/05/bdd20514-89f6-b11f-8125-c95db373a20f/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Music/v4/bd/d2/05/bdd20514-89f6-b11f-8125-c95db373a20f/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>19. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/touch-my-body-remixes/id277928354" class="name">Touch My Body (Remixes)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/touch-my-body-remixes/id277928354&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-riaa="500" role="group" metrics-loc="Lockup_" adam-id="872263306" preview-artist="Mariah Carey" aria-label="Me. I Am Mariah&hellip;The Elusive Chanteuse, Mariah Carey" preview-title="Me. I Am Mariahâ¦The Elusive Chanteuse" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/me.-i-am-mariah...the-elusive/id872263306" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Me. I Am Mariahâ¦The Elusive Chanteuse, Mariah Carey" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Music4/v4/5d/e9/29/5de92938-a5c2-6714-b200-11c9462ab228/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Music4/v4/5d/e9/29/5de92938-a5c2-6714-b200-11c9462ab228/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>20. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/me.-i-am-mariah...the-elusive/id872263306" class="name">Me. I Am Mariahâ¦The Elusive Chanteuse</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/me.-i-am-mariah...the-elusive/id872263306&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+</div></div>
+  
+</div>
+<ul class="list paginate"><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?albumPage=1#albumPage" class="selected">1</a></li><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?albumPage=2#albumPage">2</a></li><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?albumPage=3#albumPage">3</a></li><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?albumPage=4#albumPage">4</a></li></ul>
+  
+  
+</div>
+<div metrics-loc="Titledbox_Top Songs" class="top-songs">
+  
+    <h3>
+      
+      Top Songs
+    </h3>
+    
+  
+  
+  
+    
+
+
+
+
+
+	<div metrics-loc="TrackList" role="grid" aria-readonly="true" class="track-list song music">
+	     
+		<div class="tracklist-content-box" role="presentation">
+		  <table role="presentation" column-classes="index,name,album,time,price,view-in-itunes" class="tracklist-table content sortable total-flexible-columns-2 total-columns-6">
+		    
+		    
+	          <thead>
+	            <tr>
+	              
+	                 <th role="columnheader" aria-sort="ascending" class="index ascending">
+	                    
+	                    &nbsp;
+	                  </th>
+	              
+	                 <th role="columnheader" class="name flexible-col">
+	                    Name
+	                    
+	                  </th>
+	              
+	                 <th role="columnheader" class="album flexible-col">
+	                    Album
+	                    
+	                  </th>
+	              
+	                 <th role="columnheader" class="time">
+	                    Time
+	                    
+	                  </th>
+	              
+	                 <th role="columnheader" class="price">
+	                    Price
+	                    
+	                  </th>
+	              
+	                 <th role="columnheader" class="view-in-itunes">
+	                    
+	                    &nbsp;
+	                  </th>
+	              
+	            </tr>
+	          </thead>
+		     
+		    <tbody>
+	            
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a534.phobos.apple.com/us/r1000/087/Music/a8/a7/ad/mzm.deluqqzb.aac.p.m4a" preview-album="Babyface: A Collection of His Greatest Hits" preview-artist="Babyface, Mariah Carey, Kenny G & Shelia E." preview-title="Every Time I Close My Eyes" preview-duration="30000" adam-id="250690035" row-number="0" class="song music">
+      
+        <td role="gridcell" sort-value="1" class="index ascending">
+          <span class="index"><span>1</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Every Time I Close My Eyes" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/every-time-i-close-my-eyes/id250689978?i=250690035">Every Time I Close My Eyes</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Babyface: A Collection of His Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/babyface-collection-his-greatest/id250689978"><span class="text">Babyface: A Collection of His Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="297467" class="time">
+          <span><span class="text">4:57</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.69" class="price">
+          <span>$0.69</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/every-time-i-close-my-eyes/id250689978?i=250690035&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1323.phobos.apple.com/us/r1000/106/Music/7a/63/d3/mzm.ronqpuas.aac.p.m4a" preview-album="The Emancipation of Mimi" preview-artist="Mariah Carey" preview-title="We Belong Together" preview-duration="30000" adam-id="61479846" row-number="1" class="song music">
+      
+        <td role="gridcell" sort-value="2" class="index ascending">
+          <span class="index"><span>2</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="We Belong Together" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/we-belong-together/id61479838?i=61479846">We Belong Together</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Emancipation of Mimi" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/the-emancipation-of-mimi/id61479838"><span class="text">The Emancipation of Mimi</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="201400" class="time">
+          <span><span class="text">3:21</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/we-belong-together/id61479838?i=61479846&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1507.phobos.apple.com/us/r1000/085/Music/9d/3d/0b/mzm.mpbpfneu.aac.p.m4a" preview-album="#1's" preview-artist="Mariah Carey" preview-title="Always Be My Baby" preview-duration="30000" adam-id="202586093" row-number="2" class="song music">
+      
+        <td role="gridcell" sort-value="3" class="index ascending">
+          <span class="index"><span>3</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Always Be My Baby" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/always-be-my-baby/id202585939?i=202586093">Always Be My Baby</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="#1&#39;s" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/1s/id202585939"><span class="text">#1's</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="257760" class="time">
+          <span><span class="text">4:17</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/always-be-my-baby/id202585939?i=202586093&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr rating-riaa="500" parental-rating="1" role="row" metrics-loc="Track_" audio-preview-url="http://a1548.phobos.apple.com/us/r1000/054/Music2/v4/53/a5/32/53a53265-c1f4-fbaa-4b9a-72f121c2f17c/mzaf_5242004281241993650.plus.aac.p.m4a" preview-album="Me. I Am Mariah&hellip;The Elusive Chanteuse (Deluxe Version)" preview-artist="Mariah Carey" preview-title="#Beautiful (feat. Miguel)" preview-duration="30000" adam-id="872238804" row-number="3" class="song music">
+      
+        <td role="gridcell" sort-value="4" class="index ascending">
+          <span class="index"><span>4</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="#Beautiful (feat. Miguel)" class="name flexible-col">
+          <span><span class="badges"><span class="explicit">Explicit</span></span><a href="https://itunes.apple.com/us/album/beautiful-feat.-miguel/id872238798?i=872238804">#Beautiful (feat. Miguel)</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Me. I Am Mariahâ¦The Elusive Chanteuse (Deluxe Version)" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/me.-i-am-mariah...the-elusive/id872238798"><span class="text">Me. I Am Mariahâ¦The Elusive Chanteuse (Deluxe Version)</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="201493" class="time">
+          <span><span class="text">3:21</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/beautiful-feat.-miguel/id872238798?i=872238804&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a166.phobos.apple.com/us/r1000/116/Music/8e/50/b2/mzm.wvcwlfkg.aac.p.m4a" preview-album="Greatest Hits" preview-artist="Mariah Carey" preview-title="Fantasy" preview-duration="30000" adam-id="190175231" row-number="4" class="song music">
+      
+        <td role="gridcell" sort-value="5" class="index ascending">
+          <span class="index"><span>5</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Fantasy" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/fantasy/id190173909?i=190175231">Fantasy</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits/id190173909"><span class="text">Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="244107" class="time">
+          <span><span class="text">4:04</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/fantasy/id190173909?i=190175231&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1628.phobos.apple.com/us/r1000/061/Music/60/53/29/mzm.diqrkwng.aac.p.m4a" preview-album="Memoirs of an Imperfect Angel" preview-artist="Mariah Carey" preview-title="Obsessed" preview-duration="30000" adam-id="330946968" row-number="5" class="song music">
+      
+        <td role="gridcell" sort-value="6" class="index ascending">
+          <span class="index"><span>6</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Obsessed" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/obsessed/id330946605?i=330946968">Obsessed</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Memoirs of an Imperfect Angel" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/memoirs-of-an-imperfect-angel/id330946605"><span class="text">Memoirs of an Imperfect Angel</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="242169" class="time">
+          <span><span class="text">4:02</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/obsessed/id330946605?i=330946968&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1091.phobos.apple.com/us/r1000/100/Music/v4/6e/48/67/6e48674c-c8bc-8e84-5bb5-998e63bc4942/mzaf_1789951523204077383.aac.m4a" preview-album="Legacy: The Greatest Hits Collection (Deluxe Edition)" preview-artist="Boyz II Men & Mariah Carey" preview-title="One Sweet Day" preview-duration="30000" adam-id="330466391" row-number="6" class="song music">
+      
+        <td role="gridcell" sort-value="7" class="index ascending">
+          <span class="index"><span>7</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="One Sweet Day" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/one-sweet-day/id5277893?i=330466391">One Sweet Day</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Legacy: The Greatest Hits Collection (Deluxe Edition)" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/legacy-greatest-hits-collection/id5277893"><span class="text">Legacy: The Greatest Hits Collection (Deluxe Edition)</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="281507" class="time">
+          <span><span class="text">4:41</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/one-sweet-day/id5277893?i=330466391&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a136.phobos.apple.com/us/r1000/071/Music/9d/4d/47/mzm.ekgtujdo.aac.p.m4a" preview-album="E=MC&sup2;" preview-artist="Mariah Carey" preview-title="Touch My Body" preview-duration="30000" adam-id="277823571" row-number="7" class="song music">
+      
+        <td role="gridcell" sort-value="8" class="index ascending">
+          <span class="index"><span>8</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Touch My Body" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/touch-my-body/id277823569?i=277823571">Touch My Body</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="E=MCÂ²" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/e-mc2/id277823569"><span class="text">E=MCÂ²</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="204733" class="time">
+          <span><span class="text">3:24</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/touch-my-body/id277823569?i=277823571&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1885.phobos.apple.com/us/r1000/062/Music/a5/ec/cb/mzm.hccggnip.aac.p.m4a" preview-album="The Emancipation of Mimi" preview-artist="Mariah Carey" preview-title="Shake It Off" preview-duration="30000" adam-id="61479858" row-number="8" class="song music">
+      
+        <td role="gridcell" sort-value="9" class="index ascending">
+          <span class="index"><span>9</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Shake It Off" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/shake-it-off/id61479838?i=61479858">Shake It Off</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Emancipation of Mimi" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/the-emancipation-of-mimi/id61479838"><span class="text">The Emancipation of Mimi</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="232840" class="time">
+          <span><span class="text">3:52</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/shake-it-off/id61479838?i=61479858&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1420.phobos.apple.com/us/r1000/087/Music/68/7a/34/mzm.itzhpjuo.aac.p.m4a" preview-album="#1's" preview-artist="Mariah Carey" preview-title="Hero" preview-duration="30000" adam-id="202586142" row-number="9" class="song music">
+      
+        <td role="gridcell" sort-value="10" class="index ascending">
+          <span class="index"><span>10</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Hero" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/hero/id202585939?i=202586142">Hero</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="#1&#39;s" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/1s/id202585939"><span class="text">#1's</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="257533" class="time">
+          <span><span class="text">4:17</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/hero/id202585939?i=202586142&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1226.phobos.apple.com/us/r1000/074/Music/64/ce/1e/mzm.xxzgfsoy.aac.p.m4a" preview-album="#1's" preview-artist="Mariah Carey" preview-title="Fantasy (feat. O.D.B.)" preview-duration="30000" adam-id="202586135" row-number="10" class="song music">
+      
+        <td role="gridcell" sort-value="11" class="index ascending">
+          <span class="index"><span>11</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Fantasy (feat. O.D.B.)" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/fantasy-feat.-o.d.b./id202585939?i=202586135">Fantasy (feat. O.D.B.)</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="#1&#39;s" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/1s/id202585939"><span class="text">#1's</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="289933" class="time">
+          <span><span class="text">4:49</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.99" class="price">
+          <span>$0.99</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/fantasy-feat.-o.d.b./id202585939?i=202586135&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a599.phobos.apple.com/us/r1000/103/Music/65/50/be/mzm.nwwkkhul.aac.p.m4a" preview-album="Greatest Hits" preview-artist="Mariah Carey" preview-title="One Sweet Day" preview-duration="30000" adam-id="190175292" row-number="11" class="song music">
+      
+        <td role="gridcell" sort-value="12" class="index ascending">
+          <span class="index"><span>12</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="One Sweet Day" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/one-sweet-day/id190173909?i=190175292">One Sweet Day</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits/id190173909"><span class="text">Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="280800" class="time">
+          <span><span class="text">4:40</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/one-sweet-day/id190173909?i=190175292&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1504.phobos.apple.com/us/r1000/083/Music2/v4/b7/c7/c1/b7c7c147-824f-976f-4aa9-89e273bfe928/mzaf_7392035147884427742.aac.m4a" preview-album="The Emancipation of Mimi (Ultra Platinum Edition)" preview-artist="Mariah Carey" preview-title="Don't Forget About Us" preview-duration="30000" adam-id="89686562" row-number="12" class="song music">
+      
+        <td role="gridcell" sort-value="13" class="index ascending">
+          <span class="index"><span>13</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Don&#39;t Forget About Us" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/dont-forget-about-us/id89686358?i=89686562">Don't Forget About Us</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Emancipation of Mimi (Ultra Platinum Edition)" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/emancipation-mimi-ultra-platinum/id89686358"><span class="text">The Emancipation of Mimi (Ultra Platinum Edition)</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="233867" class="time">
+          <span><span class="text">3:53</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/dont-forget-about-us/id89686358?i=89686562&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1235.phobos.apple.com/us/r1000/096/Music/bd/e2/56/mzm.ldgbmyae.aac.p.m4a" preview-album="Greatest Hits" preview-artist="Mariah Carey" preview-title="Heartbreaker (feat. Jay-Z)" preview-duration="30000" adam-id="190175970" row-number="13" class="song music">
+      
+        <td role="gridcell" sort-value="14" class="index ascending">
+          <span class="index"><span>14</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Heartbreaker (feat. Jay-Z)" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/heartbreaker-feat.-jay-z/id190173909?i=190175970">Heartbreaker (feat. Jay-Z)</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits/id190173909"><span class="text">Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="285667" class="time">
+          <span><span class="text">4:45</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/heartbreaker-feat.-jay-z/id190173909?i=190175970&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1329.phobos.apple.com/us/r1000/060/Music/f2/c1/ea/mzm.rsbubpvl.aac.p.m4a" preview-album="Greatest Hits" preview-artist="Mariah Carey" preview-title="Dreamlover" preview-duration="30000" adam-id="190174817" row-number="14" class="song music">
+      
+        <td role="gridcell" sort-value="15" class="index ascending">
+          <span class="index"><span>15</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Dreamlover" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/dreamlover/id190173909?i=190174817">Dreamlover</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits/id190173909"><span class="text">Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="234267" class="time">
+          <span><span class="text">3:54</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/dreamlover/id190173909?i=190174817&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1849.phobos.apple.com/us/r1000/115/Music/b9/b6/bb/mzm.tyuaqwri.aac.p.m4a" preview-album="Greatest Hits" preview-artist="Mariah Carey" preview-title="Hero" preview-duration="30000" adam-id="190174911" row-number="15" class="song music">
+      
+        <td role="gridcell" sort-value="16" class="index ascending">
+          <span class="index"><span>16</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Hero" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/hero/id190173909?i=190174911">Hero</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits/id190173909"><span class="text">Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="257973" class="time">
+          <span><span class="text">4:17</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/hero/id190173909?i=190174911&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1106.phobos.apple.com/us/r1000/100/Music/2d/fa/71/mzm.ofncngfz.aac.p.m4a" preview-album="It Ain't Safe No More..." preview-artist="Busta Rhymes & Mariah Carey" preview-title="I Know What You Want" preview-duration="30000" adam-id="304737691" row-number="16" class="song music">
+      
+        <td role="gridcell" sort-value="17" class="index ascending">
+          <span class="index"><span>17</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="I Know What You Want" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/i-know-what-you-want/id304737669?i=304737691">I Know What You Want</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="It Ain&#39;t Safe No More..." class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/it-aint-safe-no-more.../id304737669"><span class="text">It Ain't Safe No More...</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="324307" class="time">
+          <span><span class="text">5:24</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/i-know-what-you-want/id304737669?i=304737691&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a329.phobos.apple.com/us/r1000/086/Music/2e/42/0b/mzm.gqcaxnni.aac.p.m4a" preview-album="Greatest Hits" preview-artist="Mariah Carey" preview-title="Always Be My Baby" preview-duration="30000" adam-id="190175307" row-number="17" class="song music">
+      
+        <td role="gridcell" sort-value="18" class="index ascending">
+          <span class="index"><span>18</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Always Be My Baby" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/always-be-my-baby/id190173909?i=190175307">Always Be My Baby</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits/id190173909"><span class="text">Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="257867" class="time">
+          <span><span class="text">4:17</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/always-be-my-baby/id190173909?i=190175307&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1532.phobos.apple.com/us/r1000/096/Music/1f/d4/96/mzm.izsmxspr.aac.p.m4a" preview-album="Greatest Hits" preview-artist="Mariah Carey" preview-title="Emotions" preview-duration="30000" adam-id="190174505" row-number="18" class="song music">
+      
+        <td role="gridcell" sort-value="19" class="index ascending">
+          <span class="index"><span>19</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Emotions" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/emotions/id190173909?i=190174505">Emotions</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits/id190173909"><span class="text">Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="248973" class="time">
+          <span><span class="text">4:08</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/emotions/id190173909?i=190174505&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1812.phobos.apple.com/us/r1000/065/Music/a7/42/ac/mzm.nokbhpnt.aac.p.m4a" preview-album="#1's" preview-artist="Mariah Carey & Whitney Houston" preview-title="When You Believe (From &quot;The Prince of Egypt&quot;)" preview-duration="30000" adam-id="202585989" row-number="19" class="song music">
+      
+        <td role="gridcell" sort-value="20" class="index ascending">
+          <span class="index"><span>20</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="When You Believe (From &#34;The Prince of Egypt&#34;)" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/when-you-believe-from-prince/id202585939?i=202585989">When You Believe (From &quot;The Prince of Egypt&quot;)</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="#1&#39;s" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/1s/id202585939"><span class="text">#1's</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="274467" class="time">
+          <span><span class="text">4:34</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/when-you-believe-from-prince/id202585939?i=202585989&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1476.phobos.apple.com/us/r1000/117/Music/76/7a/3d/mzm.iifbfkxa.aac.p.m4a" preview-album="Greatest Hits" preview-artist="Mariah Carey" preview-title="Without You" preview-duration="30000" adam-id="190174947" row-number="20" class="song music">
+      
+        <td role="gridcell" sort-value="21" class="index ascending">
+          <span class="index"><span>21</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Without You" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/without-you/id190173909?i=190174947">Without You</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits/id190173909"><span class="text">Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="214040" class="time">
+          <span><span class="text">3:34</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/without-you/id190173909?i=190174947&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a968.phobos.apple.com/us/r1000/081/Music/17/b2/fd/mzm.wgnhyctz.aac.p.m4a" preview-album="E=MC&sup2;" preview-artist="Mariah Carey" preview-title="Bye Bye" preview-duration="30000" adam-id="277823597" row-number="21" class="song music">
+      
+        <td role="gridcell" sort-value="22" class="index ascending">
+          <span class="index"><span>22</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Bye Bye" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/bye-bye/id277823569?i=277823597">Bye Bye</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="E=MCÂ²" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/e-mc2/id277823569"><span class="text">E=MCÂ²</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="266827" class="time">
+          <span><span class="text">4:26</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/bye-bye/id277823569?i=277823597&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a498.phobos.apple.com/us/r1000/114/Music/e7/66/9d/mzm.pusxgtyd.aac.p.m4a" preview-album="Greatest Hits" preview-artist="Mariah Carey" preview-title="My All" preview-duration="30000" adam-id="190175580" row-number="22" class="song music">
+      
+        <td role="gridcell" sort-value="23" class="index ascending">
+          <span class="index"><span>23</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="My All" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/my-all/id190173909?i=190175580">My All</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits/id190173909"><span class="text">Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="230400" class="time">
+          <span><span class="text">3:50</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/my-all/id190173909?i=190175580&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a202.phobos.apple.com/us/r1000/085/Music/b0/a0/c3/mzm.cspgkqvl.aac.p.m4a" preview-album="Butterfly" preview-artist="Mariah Carey" preview-title="Breakdown (Featuring Krayzie Bone &amp; Wish Bone)" preview-duration="30000" adam-id="192813436" row-number="23" class="song music">
+      
+        <td role="gridcell" sort-value="24" class="index ascending">
+          <span class="index"><span>24</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Breakdown (Featuring Krayzie Bone &amp; Wish Bone)" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/breakdown-featuring-krayzie/id192812283?i=192813436">Breakdown (Featuring Krayzie Bone &amp; Wish Bone)</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Butterfly" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/butterfly/id192812283"><span class="text">Butterfly</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="283573" class="time">
+          <span><span class="text">4:43</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.99" class="price">
+          <span>$0.99</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/breakdown-featuring-krayzie/id192812283?i=192813436&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1947.phobos.apple.com/us/r1000/115/Music/59/97/3e/mzm.qlpgppre.aac.p.m4a" preview-album="Greatest Hits" preview-artist="Mariah Carey" preview-title="Honey" preview-duration="30000" adam-id="190175543" row-number="24" class="song music">
+      
+        <td role="gridcell" sort-value="25" class="index ascending">
+          <span class="index"><span>25</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Honey" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/honey/id190173909?i=190175543">Honey</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits/id190173909"><span class="text">Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="299373" class="time">
+          <span><span class="text">4:59</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/honey/id190173909?i=190175543&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+
+		    </tbody>
+		  </table>
+		</div>
+		
+		
+		
+    </div>
+
+    <ul class="list paginate"><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?trackPage=1#trackPage" class="selected">1</a></li><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?trackPage=2#trackPage">2</a></li><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?trackPage=3#trackPage">3</a></li><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?trackPage=4#trackPage">4</a></li><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?trackPage=5#trackPage">5</a></li><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?trackPage=6#trackPage">6</a></li><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?trackPage=7#trackPage">7</a></li><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?trackPage=8#trackPage">8</a></li><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?trackPage=9#trackPage">9</a></li><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?trackPage=10#trackPage">10</a></li><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?trackPage=2#trackPage" class="paginate-more">Next</a></li></ul>
+  
+  
+</div>
+<div metrics-loc="Titledbox_Top Music Videos" class="top-albums">
+  
+    <h3>
+      
+      Top Music Videos
+    </h3>
+    
+  
+  
+  
+    
+<div metrics-loc="Swoosh_" rows="4" class="swoosh lockup-container music-video music video large album">
+
+  
+    
+    <div num-items="20" class="content"><div>
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1299.v.phobos.apple.com/us/r1000/045/Video/6b/9a/c1/mzm.ahlawbfw..640x360.h264lc.u.p.m4v" adam-id="276972354" preview-artist="Mariah Carey" video-preview-width="640" aria-label="Touch My Body, Mariah Carey" preview-duration="259359.0" preview-title="Touch My Body" video-preview-height="360" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/touch-my-body/id276972354" class="artwork-link"><div class="artwork"><img width="100" height="53" alt="Touch My Body, Mariah Carey" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Video/v4/bb/db/88/bbdb888f-4c7c-9748-0103-1cd69a6e3e8c/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Video/v4/bb/db/88/bbdb888f-4c7c-9748-0103-1cd69a6e3e8c/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>1. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/touch-my-body/id276972354" class="name">Touch My Body</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/touch-my-body/id276972354&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1885.v.phobos.apple.com/us/r1000/007/Video/e5/07/2b/mzm.kewmjxhp..640x352.h264lc.u.p.m4v" adam-id="291179892" preview-artist="Mariah Carey" video-preview-width="640" aria-label="Just Stand Up! (Just Stand Up Live: A Benefit for Stand Up to Cancer), Mariah Carey" preview-duration="33933.0" preview-title="Just Stand Up! (Just Stand Up Live: A Benefit for Stand Up to Cancer)" video-preview-height="352" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/just-stand-up!-just-stand/id291179892" class="artwork-link"><div class="artwork"><img width="100" height="56" alt="Just Stand Up! (Just Stand Up Live: A Benefit for Stand Up to Cancer), Mariah Carey" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Video/v4/f3/23/95/f32395cb-9c3d-3c9f-76a1-0e25767aa9ca/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Video/v4/f3/23/95/f32395cb-9c3d-3c9f-76a1-0e25767aa9ca/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>2. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/just-stand-up!-just-stand/id291179892" class="name">Just Stand Up! (Just Stand Up Live: A Benefit for Stand Up to Cancer)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/just-stand-up!-just-stand/id291179892&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a119.v.phobos.apple.com/us/r1000/059/Video/54/0b/f5/mzm.ewniwrcb..640x320.h264lc.u.p.m4v" adam-id="156331955" preview-artist="Mariah Carey" video-preview-width="640" aria-label="We Belong Together, Mariah Carey" preview-duration="30000.0" preview-title="We Belong Together" video-preview-height="320" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/we-belong-together/id156331955" class="artwork-link"><div class="artwork"><img width="100" height="75" alt="We Belong Together, Mariah Carey" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Video/v4/27/84/57/2784575d-28d1-b93e-eb75-55b3e6f5bcc1/cover204x150.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Video/v4/27/84/57/2784575d-28d1-b93e-eb75-55b3e6f5bcc1/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>3. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/we-belong-together/id156331955" class="name">We Belong Together</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/we-belong-together/id156331955&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-riaa="0" role="group" metrics-loc="Lockup_" video-preview-url="http://a1773.v.phobos.apple.com/us/r1000/039/Video/5b/59/f3/mzm.ieilqhju..640x360.h264lc.u.p.m4v" adam-id="153717028" preview-artist="Mariah Carey" video-preview-width="640" aria-label="Say Somethin', Mariah Carey" preview-duration="233199.0" preview-title="Say Somethin'" video-preview-height="360" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/say-somethin/id153717028" class="artwork-link"><div class="artwork"><img width="100" height="75" alt="Say Somethin&apos;, Mariah Carey" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Video/v4/24/46/83/24468320-a836-ee26-c727-bee50a2a026f/cover204x150.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Video/v4/24/46/83/24468320-a836-ee26-c727-bee50a2a026f/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>4. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/say-somethin/id153717028" class="name">Say Somethin'</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/say-somethin/id153717028&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a544.v.phobos.apple.com/us/r1000/027/Video/84/d5/66/mzm.ljrrzxar..640x352.h264lc.u.p.m4v" adam-id="280507538" preview-artist="Mariah Carey" video-preview-width="640" aria-label="Bye Bye, Mariah Carey" preview-duration="30989.0" preview-title="Bye Bye" video-preview-height="352" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/bye-bye/id280507538" class="artwork-link"><div class="artwork"><img width="100" height="55" alt="Bye Bye, Mariah Carey" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video/v4/4b/41/33/4b4133b3-2268-37c5-6ffc-0e91f3fb4f7c/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Video/v4/4b/41/33/4b4133b3-2268-37c5-6ffc-0e91f3fb4f7c/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>5. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/bye-bye/id280507538" class="name">Bye Bye</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/bye-bye/id280507538&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1443.v.phobos.apple.com/us/r1000/025/Video/0f/41/73/mzm.nqihytcx..640x336.h264lc.u.p.m4v" adam-id="324186400" preview-artist="Mariah Carey" video-preview-width="640" aria-label="Obsessed, Mariah Carey" preview-duration="30000.0" preview-title="Obsessed" video-preview-height="336" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/obsessed/id324186400" class="artwork-link"><div class="artwork"><img width="100" height="54" alt="Obsessed, Mariah Carey" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Video/v4/c8/41/51/c8415137-556d-0512-cae8-47ce1d83ab17/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Video/v4/c8/41/51/c8415137-556d-0512-cae8-47ce1d83ab17/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>6. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/obsessed/id324186400" class="name">Obsessed</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/obsessed/id324186400&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1264.v.phobos.apple.com/us/r1000/010/Video/05/10/6e/mzm.nsoghmop..640x336.h264lc.u.p.m4v" adam-id="285120157" preview-artist="Mariah Carey" video-preview-width="640" aria-label="I'll Be Lovin' U Long Time (feat. T.I.), Mariah Carey" preview-duration="30000.0" preview-title="I'll Be Lovin' U Long Time (feat. T.I.)" video-preview-height="336" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/ill-be-lovin-u-long-time-feat./id285120157" class="artwork-link"><div class="artwork"><img width="100" height="54" alt="I&apos;ll Be Lovin&apos; U Long Time (feat. T.I.), Mariah Carey" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Video/v4/f8/e5/57/f8e557fa-ea3d-5f2e-202c-0927883e90c4/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Video/v4/f8/e5/57/f8e557fa-ea3d-5f2e-202c-0927883e90c4/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>7. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/ill-be-lovin-u-long-time-feat./id285120157" class="name">I'll Be Lovin' U Long Time (feat. T.I.)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/ill-be-lovin-u-long-time-feat./id285120157&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1720.v.phobos.apple.com/us/r1000/056/Video/ae/ab/52/mzm.rbcfgshs..640x480.h264lc.u.p.m4v" adam-id="353237458" preview-artist="Mariah Carey" video-preview-width="640" aria-label="Up Out My Face (feat. Nicki Minaj), Mariah Carey" preview-duration="30000.0" preview-title="Up Out My Face (feat. Nicki Minaj)" video-preview-height="480" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/up-out-my-face-feat.-nicki/id353237458" class="artwork-link"><div class="artwork"><img width="100" height="75" alt="Up Out My Face (feat. Nicki Minaj), Mariah Carey" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Video/v4/cf/7e/8c/cf7e8c16-3ed7-fd81-3006-0883b594e472/cover204x150.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Video/v4/cf/7e/8c/cf7e8c16-3ed7-fd81-3006-0883b594e472/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>8. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/up-out-my-face-feat.-nicki/id353237458" class="name">Up Out My Face (feat. Nicki Minaj)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/up-out-my-face-feat.-nicki/id353237458&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a876.v.phobos.apple.com/us/r1000/050/Video/16/d0/3a/mzm.ekbvdfgp..640x336.h264lc.u.p.m4v" adam-id="330947902" preview-artist="Mariah Carey" video-preview-width="640" aria-label="Obsessed, Mariah Carey" preview-duration="30000.0" preview-title="Obsessed" video-preview-height="336" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/obsessed/id330947902" class="artwork-link"><div class="artwork"><img width="100" height="54" alt="Obsessed, Mariah Carey" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Video/v4/7f/04/8d/7f048db3-93a6-cd4c-0479-40b55357eebe/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Video/v4/7f/04/8d/7f048db3-93a6-cd4c-0479-40b55357eebe/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>9. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/obsessed/id330947902" class="name">Obsessed</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/obsessed/id330947902&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-riaa="0" role="group" metrics-loc="Lockup_" video-preview-url="http://a1340.v.phobos.apple.com/us/r1000/029/Video/23/8e/57/mzm.fwnwmtjm..640x464.h264lc.u.p.m4v" adam-id="308029189" preview-artist="The-Dream & Mariah Carey" video-preview-width="640" aria-label="My Love, The-Dream &amp; Mariah Carey" preview-duration="30000.0" preview-title="My Love" video-preview-height="464" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/my-love/id308029189" class="artwork-link"><div class="artwork"><img width="100" height="74" alt="My Love, The-Dream &amp; Mariah Carey" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Video/v4/08/cd/ef/08cdef1c-431e-b5a5-5d28-238d6a8da76a/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Video/v4/08/cd/ef/08cdef1c-431e-b5a5-5d28-238d6a8da76a/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>10. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/my-love/id308029189" class="name">My Love</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/my-love/id308029189&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a77.v.phobos.apple.com/us/r1000/042/Video/18/97/6b/mzm.proonrac..640x360.h264lc.u.p.m4v" adam-id="160422515" preview-artist="Mariah Carey" video-preview-width="640" aria-label="Shake It Off, Mariah Carey" preview-duration="30000.0" preview-title="Shake It Off" video-preview-height="360" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/shake-it-off/id160422515" class="artwork-link"><div class="artwork"><img width="100" height="75" alt="Shake It Off, Mariah Carey" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Video/v4/a4/e5/3b/a4e53bf9-4c64-4a4e-141d-1d9046a30a0f/cover204x150.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Video/v4/a4/e5/3b/a4e53bf9-4c64-4a4e-141d-1d9046a30a0f/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>11. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/shake-it-off/id160422515" class="name">Shake It Off</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/shake-it-off/id160422515&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1573.v.phobos.apple.com/us/r1000/069/Video/de/43/b7/mzi.ectwpqqk..640x352.h264lc.u.p.m4v" adam-id="485787515" preview-artist="Justin Bieber" video-preview-width="640" aria-label="All I Want for Christmas Is You (Super Festive!), Justin Bieber" preview-duration="30000.0" preview-title="All I Want for Christmas Is You (Super Festive!)" video-preview-height="352" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/all-i-want-for-christmas-is/id485787515" class="artwork-link"><div class="artwork"><img width="100" height="55" alt="All I Want for Christmas Is You (Super Festive!), Justin Bieber" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Video/v4/bf/d0/36/bfd0364d-40e6-be6f-d99a-c21130d354dd/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Video/v4/bf/d0/36/bfd0364d-40e6-be6f-d99a-c21130d354dd/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>12. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/all-i-want-for-christmas-is/id485787515" class="name">All I Want for Christmas Is You (Super Festive!)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/all-i-want-for-christmas-is/id485787515&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-riaa="0" role="group" metrics-loc="Lockup_" video-preview-url="http://a832.v.phobos.apple.com/us/r1000/050/Video/e7/e4/f6/mzm.tvkrqvkn..640x321.h264lc.u.p.m4v" adam-id="160422558" preview-artist="Mariah Carey" video-preview-width="640" aria-label="It's Like That, Mariah Carey" preview-duration="211878.0" preview-title="It's Like That" video-preview-height="321" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/its-like-that/id160422558" class="artwork-link"><div class="artwork"><img width="100" height="75" alt="It&apos;s Like That, Mariah Carey" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video/v4/57/dc/f8/57dcf890-f35b-e1f8-e039-415dd8ac5433/cover204x150.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Video/v4/57/dc/f8/57dcf890-f35b-e1f8-e039-415dd8ac5433/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>13. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/its-like-that/id160422558" class="name">It's Like That</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/its-like-that/id160422558&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-riaa="0" role="group" metrics-loc="Lockup_" video-preview-url="http://a85.v.phobos.apple.com/us/r1000/040/Video/92/62/17/mzm.ozndjpog..640x480.h264lc.u.p.m4v" adam-id="259776227" preview-artist="Bone Thugs-N-Harmony featuring Mariah Carey & Bow Wow" video-preview-width="640" aria-label="Lil Love, Bone Thugs-N-Harmony featuring Mariah Carey &amp; Bow Wow" preview-duration="234526.0" preview-title="Lil Love" video-preview-height="480" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/lil-love/id259776227" class="artwork-link"><div class="artwork"><img width="100" height="75" alt="Lil Love, Bone Thugs-N-Harmony featuring Mariah Carey &amp; Bow Wow" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video/v4/cf/6c/21/cf6c212b-235a-8fae-69c6-00d1311e05d9/cover204x150.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Video/v4/cf/6c/21/cf6c212b-235a-8fae-69c6-00d1311e05d9/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>14. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/lil-love/id259776227" class="name">Lil Love</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/lil-love/id259776227&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1969.v.phobos.apple.com/us/r1000/019/Video/86/14/c1/mzm.apeoirli..640x336.h264lc.u.p.m4v" adam-id="325069093" preview-artist="Mariah Carey" video-preview-width="640" aria-label="Obsessed (Remix) [feat. Gucci Mane], Mariah Carey" preview-duration="30000.0" preview-title="Obsessed (Remix) [feat. Gucci Mane]" video-preview-height="336" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/obsessed-remix-feat.-gucci/id325069093" class="artwork-link"><div class="artwork"><img width="100" height="54" alt="Obsessed (Remix) [feat. Gucci Mane], Mariah Carey" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Video/v4/a4/c9/95/a4c99537-7c16-e2ba-19f9-91d0598bff7c/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Video/v4/a4/c9/95/a4c99537-7c16-e2ba-19f9-91d0598bff7c/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>15. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/obsessed-remix-feat.-gucci/id325069093" class="name">Obsessed (Remix) [feat. Gucci Mane]</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/obsessed-remix-feat.-gucci/id325069093&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a342.v.phobos.apple.com/us/r1000/084/Video/5a/2a/5f/mzi.ggxspiws..640x368.h264lc.u.p.m4v" adam-id="266083501" preview-artist="Luther Vandross & Mariah Carey" video-preview-width="640" aria-label="Endless Love (Duet with Mariah Carey), Luther Vandross &amp; Mariah Carey" preview-duration="30000.0" preview-title="Endless Love (Duet with Mariah Carey)" video-preview-height="368" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/endless-love-duet-mariah-carey/id266083501" class="artwork-link"><div class="artwork"><img width="100" height="58" alt="Endless Love (Duet with Mariah Carey), Luther Vandross &amp; Mariah Carey" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video/v4/cf/b6/a2/cfb6a257-1cbe-ddfe-5299-831e75eb8bb1/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Video/v4/cf/b6/a2/cfb6a257-1cbe-ddfe-5299-831e75eb8bb1/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>16. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/endless-love-duet-mariah-carey/id266083501" class="name">Endless Love (Duet with Mariah Carey)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/endless-love-duet-mariah-carey/id266083501&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1580.v.phobos.apple.com/us/r1000/037/Video/96/b6/ae/mzm.zlqlrgle..640x384.h264lc.u.p.m4v" adam-id="352721638" preview-artist="Mariah Carey" video-preview-width="640" aria-label="Angels Cry (feat. Ne-Yo), Mariah Carey" preview-duration="30000.0" preview-title="Angels Cry (feat. Ne-Yo)" video-preview-height="384" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/angels-cry-feat.-ne-yo/id352721638" class="artwork-link"><div class="artwork"><img width="100" height="60" alt="Angels Cry (feat. Ne-Yo), Mariah Carey" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Video/v4/b3/a6/ab/b3a6ab26-1eae-e8fc-ad75-ab681bea6735/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Video/v4/b3/a6/ab/b3a6ab26-1eae-e8fc-ad75-ab681bea6735/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>17. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/angels-cry-feat.-ne-yo/id352721638" class="name">Angels Cry (feat. Ne-Yo)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/angels-cry-feat.-ne-yo/id352721638&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a577.v.phobos.apple.com/us/r1000/015/Video/25/65/7d/mzm.wjkptwme..640x240.h264lc.u.p.m4v" adam-id="341231776" preview-artist="Mariah Carey" video-preview-width="640" aria-label="I Want to Know What Love Is, Mariah Carey" preview-duration="30000.0" preview-title="I Want to Know What Love Is" video-preview-height="240" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/i-want-to-know-what-love-is/id341231776" class="artwork-link"><div class="artwork"><img width="100" height="38" alt="I Want to Know What Love Is, Mariah Carey" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Video/v4/ef/21/a4/ef21a4ac-634b-da90-143a-60d7daa1a45e/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Video/v4/ef/21/a4/ef21a4ac-634b-da90-143a-60d7daa1a45e/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>18. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/i-want-to-know-what-love-is/id341231776" class="name">I Want to Know What Love Is</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/i-want-to-know-what-love-is/id341231776&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a781.v.phobos.apple.com/us/r1000/033/Video/a3/63/65/mzm.jdubewni..640x480.h264lc.u.p.m4v" adam-id="345923951" preview-artist="Mariah Carey" video-preview-width="640" aria-label="H.A.T.E.U., Mariah Carey" preview-duration="30000.0" preview-title="H.A.T.E.U." video-preview-height="480" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/h.a.t.e.u./id345923951" class="artwork-link"><div class="artwork"><img width="100" height="75" alt="H.A.T.E.U., Mariah Carey" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Video/v4/f3/44/cc/f344cc03-8fa4-833e-0782-4d19c3621f68/cover204x150.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Video/v4/f3/44/cc/f344cc03-8fa4-833e-0782-4d19c3621f68/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>19. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/h.a.t.e.u./id345923951" class="name">H.A.T.E.U.</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/h.a.t.e.u./id345923951&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1839.v.phobos.apple.com/us/r1000/012/Video/fc/6b/3c/mzm.prjunept..640x464.h264lc.u.p.m4v" adam-id="281280560" preview-artist="Mariah Carey" video-preview-width="640" aria-label="All I Want for Christmas Is You, Mariah Carey" preview-duration="30000.0" preview-title="All I Want for Christmas Is You" video-preview-height="464" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/all-i-want-for-christmas-is-you/id281280560" class="artwork-link"><div class="artwork"><img width="100" height="73" alt="All I Want for Christmas Is You, Mariah Carey" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video/v4/fd/48/60/fd48601a-d26b-5f3c-2c68-ddcbc40b171e/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Video/v4/fd/48/60/fd48601a-d26b-5f3c-2c68-ddcbc40b171e/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>20. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/all-i-want-for-christmas-is-you/id281280560" class="name">All I Want for Christmas Is You</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/all-i-want-for-christmas-is-you/id281280560&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+</div></div>
+  
+</div>
+<ul class="list paginate"><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?musicVideoPage=1#musicVideoPage" class="selected">1</a></li><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?musicVideoPage=2#musicVideoPage">2</a></li><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?musicVideoPage=3#musicVideoPage">3</a></li><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853?musicVideoPage=4#musicVideoPage">4</a></li></ul>
+  
+  
+</div>
+<div metrics-loc="Titledbox_Top Movies" class="top-albums">
+  
+    <h3>
+      
+      Top Movies
+    </h3>
+    
+  
+  
+  
+    
+<div metrics-loc="Swoosh_" rows="4" class="swoosh lockup-container movie video large album">
+
+  
+    
+    <div num-items="7" class="content"><div>
+<div parental-rating="1" rating-movie="400,mpaa" role="group" metrics-loc="Lockup_" video-preview-url="http://a360.v.phobos.apple.com/us/r1000/002/Video/9a/36/f6/mzm.beegrfrt..640x460.h264lc.d2.p.m4v" adam-id="354657251" preview-artist="Lee Daniels" video-preview-width="853" aria-label="Precious: Based On the Novel 'Push' By Sapphire" preview-title="Precious: Based On the Novel 'Push' By Sapphire" video-preview-height="460" class="lockup small movie video">
+  
+    <a href="https://itunes.apple.com/us/movie/precious-based-on-novel-push/id354657251" class="artwork-link"><div class="artwork"><img width="93" height="140" alt="Precious: Based On the Novel &apos;Push&apos; By Sapphire" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Video/v4/99/38/63/99386386-594c-654f-d352-98fd62fef2df/poster280x280.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Video/v4/99/38/63/99386386-594c-654f-d352-98fd62fef2df/poster140x140.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>1. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/movie/precious-based-on-novel-push/id354657251" class="name">Precious: Based On the Novel 'Push' By Sapphire</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/movie/precious-based-on-novel-push/id354657251&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-movie="0,mpaa" role="group" metrics-loc="Lockup_" video-preview-url="http://a199.v.phobos.apple.com/us/r1000/054/Video/v4/fa/25/9e/fa259e0c-7785-723e-13f0-1b594cd6bfd9/mzvf_4606008101151812879.640x480.h264lc.D2.p.m4v" adam-id="697985152" preview-artist="Spike Lee" video-preview-width="853" aria-label="Michael Jackson Bad25" preview-title="Michael Jackson Bad25" video-preview-height="480" class="lockup small movie video">
+  
+    <a href="https://itunes.apple.com/us/movie/michael-jackson-bad25/id697985152" class="artwork-link"><div class="artwork"><img width="93" height="140" alt="Michael Jackson Bad25" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Video1/v4/35/52/22/355222c5-0472-fa2c-49ab-d4feda5b929e/poster280x280.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Video1/v4/35/52/22/355222c5-0472-fa2c-49ab-d4feda5b929e/poster140x140.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>2. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/movie/michael-jackson-bad25/id697985152" class="name">Michael Jackson Bad25</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/movie/michael-jackson-bad25/id697985152&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-movie="300,mpaa" role="group" metrics-loc="Lockup_" video-preview-url="http://a1381.v.phobos.apple.com/us/r1000/069/Video/d2/bb/90/mzm.tvidtwni..640x480.h264lc.d2.p.m4v" adam-id="302510606" preview-artist="Jason A. Carbone, Steve Cohen & Gary Sinyor" video-preview-width="640" aria-label="The Bachelor (1999)" preview-title="The Bachelor (1999)" video-preview-height="480" class="lockup small movie video">
+  
+    <a href="https://itunes.apple.com/us/movie/the-bachelor-1999/id302510606" class="artwork-link"><div class="artwork"><img width="93" height="140" alt="The Bachelor (1999)" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Video/v4/3f/d6/29/3fd629a9-180f-4692-65fa-f0325afc27ea/poster280x280.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Video/v4/3f/d6/29/3fd629a9-180f-4692-65fa-f0325afc27ea/poster140x140.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>3. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/movie/the-bachelor-1999/id302510606" class="name">The Bachelor (1999)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/movie/the-bachelor-1999/id302510606&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-movie="0,mpaa" role="group" metrics-loc="Lockup_" video-preview-url="http://a1321.v.phobos.apple.com/us/r1000/009/Video6/v4/88/9f/9d/889f9d0c-81b7-90bb-646a-b7d6ecb82428/mzvf_8847300421649261714.640x478.h264lc.D2.p.m4v" adam-id="962172517" preview-artist="Mariah Carey" video-preview-width="632" aria-label="Mariah Carey: Fantasy - Mariah Carey At Madison Square Garden" preview-duration="99865.0" preview-title="Mariah Carey: Fantasy - Mariah Carey At Madison Square Garden" video-preview-height="478" class="lockup small movie video">
+  
+    <a href="https://itunes.apple.com/us/movie/mariah-carey-fantasy-mariah/id962172517" class="artwork-link"><div class="artwork"><img width="93" height="140" alt="Mariah Carey: Fantasy - Mariah Carey At Madison Square Garden" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Video3/v4/41/a9/84/41a984a8-4aab-8a82-bd52-286afe6cd08a/poster280x280.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Video3/v4/41/a9/84/41a984a8-4aab-8a82-bd52-286afe6cd08a/poster140x140.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>4. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/movie/mariah-carey-fantasy-mariah/id962172517" class="name">Mariah Carey: Fantasy - Mariah Carey At Madison Square Garden</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/movie/mariah-carey-fantasy-mariah/id962172517&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-movie="0,mpaa" role="group" metrics-loc="Lockup_" video-preview-url="http://a1294.v.phobos.apple.com/us/r1000/002/Video3/v4/95/fa/87/95fa8730-a4e1-9408-90c4-5b865fbae3b9/mzvf_3063826511509340845.640x478.h264lc.D2.p.m4v" adam-id="909692277" preview-artist="Mariah Carey" video-preview-width="632" aria-label="Mariah Carey: MTV Unplugged +3" preview-duration="77511.0" preview-title="Mariah Carey: MTV Unplugged +3" video-preview-height="478" class="lockup small movie video">
+  
+    <a href="https://itunes.apple.com/us/movie/mariah-carey-mtv-unplugged-+3/id909692277" class="artwork-link"><div class="artwork"><img width="93" height="140" alt="Mariah Carey: MTV Unplugged +3" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video3/v4/44/bf/da/44bfda6d-f8c0-1d63-6703-eab6d33bfb07/poster280x280.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Video3/v4/44/bf/da/44bfda6d-f8c0-1d63-6703-eab6d33bfb07/poster140x140.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>5. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/movie/mariah-carey-mtv-unplugged-+3/id909692277" class="name">Mariah Carey: MTV Unplugged +3</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/movie/mariah-carey-mtv-unplugged-+3/id909692277&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-movie="100,mpaa" role="group" metrics-loc="Lockup_" video-preview-url="http://a1033.v.phobos.apple.com/us/r1000/150/Video1/v4/62/be/54/62be54b3-00bb-b0ac-b00a-7c7198b72219/mzvf_966644201783502680.640x478.h264lc.D2.p.m4v" adam-id="943039252" preview-artist="Mariah Carey" video-preview-width="632" aria-label="Mariah Carey: Around the World" preview-duration="49483.0" preview-title="Mariah Carey: Around the World" video-preview-height="478" class="lockup small movie video">
+  
+    <a href="https://itunes.apple.com/us/movie/mariah-carey-around-the-world/id943039252" class="artwork-link"><div class="artwork"><img width="93" height="140" alt="Mariah Carey: Around the World" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Video1/v4/7c/5f/db/7c5fdbd0-2343-967f-42ec-6fa2bd4ce59e/poster280x280.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Video1/v4/7c/5f/db/7c5fdbd0-2343-967f-42ec-6fa2bd4ce59e/poster140x140.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>6. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/movie/mariah-carey-around-the-world/id943039252" class="name">Mariah Carey: Around the World</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/movie/mariah-carey-around-the-world/id943039252&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-movie="400,mpaa" role="group" metrics-loc="Lockup_" video-preview-url="http://a1241.v.phobos.apple.com/us/r1000/001/Video/99/b5/2a/mzm.sqwkjhty..640x364.h264lc.d2.p.m4v" adam-id="876770060" preview-artist="Aaron Woodley" video-preview-width="853" aria-label="Tennessee" preview-duration="121746.0" preview-title="Tennessee" video-preview-height="364" class="lockup small movie video">
+  
+    <a href="https://itunes.apple.com/us/movie/tennessee/id876770060" class="artwork-link"><div class="artwork"><img width="93" height="140" alt="Tennessee" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Video/v4/4f/01/14/4f0114cc-c893-edab-0c99-cdd3ee6354bd/poster280x280.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Video/v4/4f/01/14/4f0114cc-c893-edab-0c99-cdd3ee6354bd/poster140x140.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>7. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/movie/tennessee/id876770060" class="name">Tennessee</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/movie/tennessee/id876770060&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+</div></div>
+  
+</div>
+
+  
+  
+</div>
+<div metrics-loc="Titledbox_Top Books" class="top-albums">
+  
+    <h3>
+      
+      Top Books
+    </h3>
+    
+  
+  
+  
+    
+<div metrics-loc="Swoosh_" rows="4" class="swoosh lockup-container ebook large album">
+
+  
+    
+    <div num-items="8" class="content"><div>
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="525961323" preview-artist="Mariah Carey" aria-label="Mariah Carey - Merry Christmas (Songbook)" preview-title="Mariah Carey - Merry Christmas (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/mariah-carey-merry-christmas/id525961323?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="Mariah Carey - Merry Christmas (Songbook)" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Publication/v4/eb/c1/83/ebc18304-4e7c-86c2-c19a-ef116507e7e3/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Publication/v4/eb/c1/83/ebc18304-4e7c-86c2-c19a-ef116507e7e3/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>1. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/mariah-carey-merry-christmas/id525961323?mt=11" class="name">Mariah Carey - Merry Christmas (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/mariah-carey-merry-christmas/id525961323?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="534748665" preview-artist="Mariah Carey" aria-label="We Belong Together" preview-title="We Belong Together" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/we-belong-together/id534748665?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="We Belong Together" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Publication/v4/00/8c/ee/008cee75-ac74-cd2b-4e8d-da258ba62d10/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Publication/v4/00/8c/ee/008cee75-ac74-cd2b-4e8d-da258ba62d10/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>2. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/we-belong-together/id534748665?mt=11" class="name">We Belong Together</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/we-belong-together/id534748665?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="521110978" preview-artist="Mariah Carey" aria-label="Mariah Carey Anthology (Songbook)" preview-title="Mariah Carey Anthology (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/mariah-carey-anthology-songbook/id521110978?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="Mariah Carey Anthology (Songbook)" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Publication/v4/ba/6e/b5/ba6eb534-aac1-3503-6d12-32db65054037/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Publication/v4/ba/6e/b5/ba6eb534-aac1-3503-6d12-32db65054037/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>3. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/mariah-carey-anthology-songbook/id521110978?mt=11" class="name">Mariah Carey Anthology (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/mariah-carey-anthology-songbook/id521110978?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="521685120" preview-artist="Mariah Carey" aria-label="Best of Mariah Carey (Songbook)" preview-title="Best of Mariah Carey (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/best-of-mariah-carey-songbook/id521685120?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="Best of Mariah Carey (Songbook)" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Publication/v4/e7/b3/8b/e7b38b6c-9030-0ee7-5604-433683f76b20/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Publication/v4/e7/b3/8b/e7b38b6c-9030-0ee7-5604-433683f76b20/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>4. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/best-of-mariah-carey-songbook/id521685120?mt=11" class="name">Best of Mariah Carey (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/best-of-mariah-carey-songbook/id521685120?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="514343594" preview-artist="Mariah Carey" aria-label="Mariah Carey - The Ballads (Songbook)" preview-title="Mariah Carey - The Ballads (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/mariah-carey-ballads-songbook/id514343594?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="Mariah Carey - The Ballads (Songbook)" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Publication/v4/d6/e4/d5/d6e4d5f1-76aa-c139-0541-518b415d08f4/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Publication/v4/d6/e4/d5/d6e4d5f1-76aa-c139-0541-518b415d08f4/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>5. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/mariah-carey-ballads-songbook/id514343594?mt=11" class="name">Mariah Carey - The Ballads (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/mariah-carey-ballads-songbook/id514343594?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="522010086" preview-artist="Mariah Carey" aria-label="Mariah Carey - The Emancipation of Mimi (Songbook)" preview-title="Mariah Carey - The Emancipation of Mimi (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/mariah-carey-emancipation/id522010086?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="Mariah Carey - The Emancipation of Mimi (Songbook)" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Publication/v4/e5/dd/a6/e5dda6d4-6baf-c1ef-bff8-17566a65e9c4/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Publication/v4/e5/dd/a6/e5dda6d4-6baf-c1ef-bff8-17566a65e9c4/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>6. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/mariah-carey-emancipation/id522010086?mt=11" class="name">Mariah Carey - The Emancipation of Mimi (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/mariah-carey-emancipation/id522010086?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="517274182" preview-artist="Mariah Carey" aria-label="Mariah Carey - E=mc2 (Songbook)" preview-title="Mariah Carey - E=mc2 (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/mariah-carey-e-mc2-songbook/id517274182?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="Mariah Carey - E=mc2 (Songbook)" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Publication/v4/fc/d8/ac/fcd8ac10-2403-10ce-d615-6af544bf795b/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Publication/v4/fc/d8/ac/fcd8ac10-2403-10ce-d615-6af544bf795b/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>7. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/mariah-carey-e-mc2-songbook/id517274182?mt=11" class="name">Mariah Carey - E=mc2 (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/mariah-carey-e-mc2-songbook/id517274182?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="520812662" preview-artist="Mariah Carey" aria-label="Mariah Carey - Original Keys for Singers (Songbook)" preview-title="Mariah Carey - Original Keys for Singers (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/mariah-carey-original-keys/id520812662?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="Mariah Carey - Original Keys for Singers (Songbook)" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Publication/v4/f6/d6/e9/f6d6e98f-b52c-cbee-bec8-0fc5a94326db/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Publication/v4/f6/d6/e9/f6d6e98f-b52c-cbee-bec8-0fc5a94326db/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>8. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/mariah-carey-original-keys/id520812662?mt=11" class="name">Mariah Carey - Original Keys for Singers (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/mariah-carey-original-keys/id520812662?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+</div></div>
+  
+</div>
+
+  
+  
+</div>
+
+        </div> 
+       
+        
+
+        
+        <div id="left-stack"><div class="bio-stats"><h5>Born:</h5><p>March 27, 1970 in Huntington, NY</p><h5>Genre</h5><div class="genres"><a href="https://itunes.apple.com/us/genre/music-pop/id14">Pop</a></div><h5>Years Active:</h5><p> '80s, '90s, '00s, '10s</p></div><div metrics-loc="Titledbox_Influencers">
+  
+    <h4>
+      
+      Influencers
+    </h4>
+    
+  
+  
+  
+    <ul class="list"><li><a href="https://itunes.apple.com/us/artist/deniece-williams/id462263">Deniece Williams</a></li><li><a href="https://itunes.apple.com/us/artist/madonna/id20044">Madonna</a></li><li><a href="https://itunes.apple.com/us/artist/janet-jackson/id1272779">Janet Jackson</a></li><li><a href="https://itunes.apple.com/us/artist/whitney-houston/id13952">Whitney Houston</a></li><li><a href="https://itunes.apple.com/us/artist/aretha-franklin/id98742">Aretha Franklin</a></li><li><a href="https://itunes.apple.com/us/artist/minnie-riperton/id12209">Minnie Riperton</a></li><li><a href="https://itunes.apple.com/us/artist/diana-ross/id47566">Diana Ross</a></li></ul>
+  
+  
+</div>
+<div metrics-loc="Titledbox_Followers">
+  
+    <h4>
+      
+      Followers
+    </h4>
+    
+  
+  
+  
+    <ul class="list"><li><a href="https://itunes.apple.com/us/artist/christina-aguilera/id259398">Christina Aguilera</a></li><li><a href="https://itunes.apple.com/us/artist/jennifer-lopez/id463009">Jennifer Lopez</a></li><li><a href="https://itunes.apple.com/us/artist/jana/id44165868">Jana</a></li><li><a href="https://itunes.apple.com/us/artist/jennifer-hudson/id72909049">Jennifer Hudson</a></li><li><a href="https://itunes.apple.com/us/artist/leona-lewis/id208651273">Leona Lewis</a></li><li><a href="https://itunes.apple.com/us/artist/debelah-morgan/id884122">Debelah Morgan</a></li><li><a href="https://itunes.apple.com/us/artist/jessica-simpson/id632051">Jessica Simpson</a></li><li><a href="https://itunes.apple.com/us/artist/soluna/id3445889">Soluna</a></li><li><a href="https://itunes.apple.com/us/artist/myra/id3299247">Myra</a></li><li><a href="https://itunes.apple.com/us/artist/tarralyn-ramsey/id2546719">Tarralyn Ramsey</a></li></ul>
+  
+  
+</div>
+<div metrics-loc="Titledbox_Contemporaries">
+  
+    <h4>
+      
+      Contemporaries
+    </h4>
+    
+  
+  
+  
+    <ul class="list"><li><a href="https://itunes.apple.com/us/artist/toni-braxton/id15935">Toni Braxton</a></li><li><a href="https://itunes.apple.com/us/artist/jennifer-lopez/id463009">Jennifer Lopez</a></li><li><a href="https://itunes.apple.com/us/artist/monica/id334240">Monica</a></li><li><a href="https://itunes.apple.com/us/artist/mary-j.-blige/id1392280">Mary J. Blige</a></li><li><a href="https://itunes.apple.com/us/artist/tamia/id163125">Tamia</a></li><li><a href="https://itunes.apple.com/us/artist/usher/id15885">Usher</a></li><li><a href="https://itunes.apple.com/us/artist/vanessa-williams/id85990">Vanessa Williams</a></li><li><a href="https://itunes.apple.com/us/artist/faith-evans/id17437">Faith Evans</a></li><li><a href="https://itunes.apple.com/us/artist/swv/id17387">SWV</a></li><li><a href="https://itunes.apple.com/us/artist/tlc/id17360">TLC</a></li></ul>
+  
+  
+</div>
+</div>
+        
+      </div> 
+
+      
+    </div>
+  
+  </div>
+
+    
+    
+    
+    <object classID="CLSID:D719897A-B07A-4C0C-AEA9-9B663A28DFCB" width="1" height="1" id="iTunesDetectorIE" ></object>
+    <script type="text/javascript">itms.PageData.itunesDownloadUrl='http://www.apple.com/itunes/affiliates/download/?id=91853';</script>
+
+  
+  
+      <div id="socialwrapper">
+        <aside class="social selfclear"><section class="column first"><h1><img src="https://www.apple.com/itunes/shared/itunes-this-week/images/social_appstore_title.png" alt="App Store on Facebook and Twitter" width="261" height="20"></h1>
+		<iframe src="//www.facebook.com/plugins/like.php?app_id=116556461780510&amp;href=http%3A%2F%2Fwww.facebook.com%2FAppStore&amp;send=false&amp;layout=box_count&amp;width=85&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=75&amp;locale=en_US" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:75px;" allowtransparency="true" class="right"></iframe>
+		<img src="https://www.apple.com/global/elements/itunesmodule/facebook_appstore_icon.png" alt="" width="55" height="55" class="left"><p>Discover and share<br> new apps.</p>
+		<p class="nopad">Follow us on <a href="http://tw.appstore.com/M7e">@AppStore</a>.</p>
+	</section><section class="column"><h1><img src="https://www.apple.com/itunes/shared/itunes-this-week/images/social_itunes_facebook_title.png" alt="iTunes on Facebook" width="146" height="20"></h1>
+		<iframe src="//www.facebook.com/plugins/like.php?app_id=161583840592879&amp;href=http%3A%2F%2Fwww.facebook.com%2FiTunes&amp;send=false&amp;layout=box_count&amp;width=85&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=75&amp;locale=en_US" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:75px;" allowtransparency="true" class="right"></iframe>
+		<img src="https://www.apple.com/global/elements/itunesmodule/facebook_itunes_icon.png" alt="" width="55" height="55" class="left"><p>Discover and share new music, movies, TV, books, and more.</p>
+	</section><section class="column last"><h1><img src="https://www.apple.com/itunes/shared/itunes-this-week/images/social_itunes_twitter_title.png" alt="iTunes on Twitter" width="126" height="20"></h1>
+		<img src="https://www.apple.com/global/elements/itunesmodule/twitter_icon.png" alt="" width="55" height="55" class="left"><p>Follow us <a href="http://tw.itunes.com/H8a">@iTunes</a> and discover <br>new iTunes Radio Stations<br> and the music we love.</p>
+	</section></aside>
+      </div>
+  
+  
+  <footer id="globalfooter"><div id="breadory">
+			<ol id="breadcrumbs">
+<li class="home"><a href="http://www.apple.com/">Home</a></li>
+				<li>iTunes</li>
+			</ol>
+<!--googleoff: all--><div id="directorynav" class="itunes">
+	<div id="dn-cola" class="column first">
+		<h3>iTunes</h3>
+		<ul>
+<li><a href="http://www.apple.com/itunes/download/">Download iTunes</a></li>
+			<li><a href="http://www.apple.com/itunes/features/">Features</a></li>
+			<li><a href="http://www.apple.com/itunes/charts/">iTunes Charts</a></li>
+		</ul>
+</div>
+	<div id="dn-colb" class="column">
+		<h3>More iTunes</h3>
+		<ul>
+<li><a href="http://www.apple.com/itunes/digital-music-basics/">Digital Music Basics</a></li>
+			<li><a href="http://www.apple.com/itunes/gifts/">iTunes Gifts</a></li>
+			<li><a href="http://www.apple.com/education/ipad/itunes-u/">iTunes U</a></li>
+			<li><a href="http://www.apple.com/support/ipod/">iPod + iTunes Support</a></li>
+			<li><a href="http://www.apple.com/airplay/">AirPlay</a></li>
+			<li><a href="http://www.apple.com/accessibility/other-products/">Accessibility</a></li>
+		</ul>
+</div>
+	<div id="dn-colc" class="column">
+		<h3>Working with iTunes</h3>
+		<ul>
+<li><a href="http://www.apple.com/itunes/working-itunes/">Overview</a></li>
+			<li><a href="http://www.apple.com/itunes/working-itunes/sell-content/">Sell Your Content</a></li>
+			<li><a href="http://www.apple.com/itunes/working-itunes/enhance/">Enhance Your Content</a></li>
+			<li><a href="http://www.apple.com/itunes/working-itunes/market/">Market with iTunes</a></li>
+			<li><a href="http://www.apple.com/itunes/link/">Link to iTunes</a></li>
+		</ul>
+</div>
+	<div id="dn-cold" class="column last">
+		<h3>iTunes Store</h3>
+		<ul>
+<li><a href="http://itunes.apple.com/us/browse/">Browse iTunes Store</a></li>
+			<li><a href="https://itunes.apple.com/us/genre/ios/id36?mt=8">Browse App Store</a></li>
+			<li><a href="http://itunes.apple.com/us/store">Buy Music Now</a></li>
+			<li><a href="http://store.apple.com/us/browse/home/giftcards/itunes/gallery">Buy iTunes Gift Cards</a></li>
+			<li><a href="https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/redeemLandingPage">Redeem iTunes Gift Cards</a></li>
+			<li><a href="http://www.apple.com/itunes/corporatesales/">iTunes Corporate Sales</a></li>
+			<li><a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMultiRoom?cc=us&amp;fcId=496598350">Free Single of the Week</a></li>
+		</ul>
+</div>
+	<div class="capbottom"></div>
+</div>
+<!--googleon: all-->
+
+		</div>
+<!--/breadory-->
+		<p class="gf-buy footer-shop"><span>Shop the <a href="http://store.apple.com/us">Apple Online Store</a> (1-800-MY-APPLE),</span> visit an <a href="http://www.apple.com/retail/">Apple Retail Store</a>, or find a <a href="http://www.apple.com/buy/">reseller</a>.</p>
+
+<ul class="gf-links piped footer-links">
+<li><a href="http://www.apple.com/about/" class="first">Apple Info</a></li>
+	<li><a href="http://www.apple.com/sitemap/">Site Map</a></li>
+	<li><a href="http://www.apple.com/hotnews/">Hot News</a></li>
+	<li><a href="http://www.apple.com/rss/">RSS Feeds</a></li>
+	<li><a href="http://www.apple.com/contact/" class="contact_us">Contact Us</a></li>
+	<li><a href="http://www.apple.com/choose-your-country/" class="choose">
+		
+			<img src="https://www.apple.com/global/elements/flags/22x22/usa.png" alt="Choose your country or region" width="22" height="22" data-hires="true"></a></li>
+</ul>
+<div class="gf-sosumi footer-sosumi">
+	<p>Copyright &copy; 2014 Apple Inc. All rights reserved.</p>
+	<ul class="piped">
+<li><a href="http://www.apple.com/legal/internet-services/terms/site.html" class="first">Terms of Use</a></li>
+		<li><a href="http://www.apple.com/legal/privacy/en-us/">Privacy Policy</a></li>
+	</ul>
+</div>
+
+	</footer>
+  <script language="JavaScript" type="text/javascript"><!--
+
+    var iTSMetricsCallbackFunction = function() {
+	    ITSMetrics.reportingSuite = "appleitmswww,appleitmsus";
+	    ITSMetrics.omniture = ITSMetrics.createBaselineOmnitureObject();
+	    
+	    ITSMetrics.isPageMetricsEnabled=true;
+	    
+	    
+	    
+	
+	    /* Page Metrics */
+	    ITSMetrics.omniture.pageName="SEO-Artist-US-Mariah Carey-91853";
+ITSMetrics.omniture.channel="SEO";
+ITSMetrics.omniture.prop22="HTML";
+ITSMetrics.omniture.eVar22="HTML";
+
+	    
+	    
+	    
+	    /* User Agent */
+	    var userAgentForMetrics = ITSMetrics.userAgentForMetrics();
+	    ITSMetrics.omniture.prop12 = userAgentForMetrics;
+	    ITSMetrics.omniture.eVar12 = userAgentForMetrics;
+	    
+	    // check if Game Center
+	    var gcUserAgent = "GameCenter";
+	    var isGameCenter = userAgentForMetrics.length >= gcUserAgent.length && userAgentForMetrics.substr(0, gcUserAgent.length) == gcUserAgent;
+	    if (isGameCenter) {
+	        // prepend "GameCenter" to page and channel name
+	        if (ITSMetrics.omniture.pageName) ITSMetrics.omniture.pageName = "GameCenter-" + ITSMetrics.omniture.pageName;
+	        if (ITSMetrics.omniture.channel) ITSMetrics.omniture.channel = "GameCenter-" + ITSMetrics.omniture.channel;
+	    }
+	    
+	    
+	    /* Browser Plugins */
+	    ITSMetrics.shouldTrackBrowserPlugins = false;
+	    
+	    /* Pass-thru query params */
+	    ITSMetrics.processQueryParameterInfoInCurrentRequest(ITSMetrics.omniture);
+	    
+	    if (ITSMetrics.isPageMetricsEnabled && ITSMetrics.isOmnitureSupportedOnClient()) {
+	        ITSMetrics.emitPagePing = function() {
+	            var s_code=ITSMetrics.omniture.t();
+                // Make a second ping to Figaro for Preview
+                if (window.webPreview) {
+                    var queryParams = {};
+                    queryParams.responseType="image";
+                    queryParams.eventVersion = 1;  // begin query parameters
+                    queryParams.eventType = "page";  // hardcoded
+
+                    var time = new Date();
+                    queryParams.eventTime = time.getTime();
+                    queryParams.pageName = ITSMetrics.omniture.pageName;
+                    queryParams.pageUrl = window.location.href;  // current page url
+                    queryParams.refUrl = document.referrer; //Refer
+                    queryParams.pageType = ITSMetrics.omniture.channel; //Channel
+
+                    queryParams.userAgent = window.navigator.userAgent; //User agent
+
+                    queryParams.screenWidth = screen.width;
+                    queryParams.screenHeight = screen.height; // screen size
+
+                    queryParams.windowInnerWidth = window.innerWidth;  // browser width
+                    queryParams.windowInnerHeight = window.innerHeight;  // browser height
+
+                    queryParams.app = navigator.appName;
+
+                    var url = "https://xp.apple.com/report/2/xp_its_preview";
+
+                    url = its.url.appendUrlParameters(url, queryParams);
+                    var image = new Image();
+                    image.src = url;
+                }
+                if (s_code) {
+	                var containingDiv = document.createElement('div');
+	                containingDiv.innerHTML = s_code;
+	                document.body.appendChild(containingDiv);
+	            }
+	        };
+	        its.x.addEventListener(window, 'load', function() { window.setTimeout(ITSMetrics.emitPagePing, 1) }, false );
+	    }
+    };
+
+    if (!window["ITSMetrics"]){ 
+	    iTSDefer.register(function() {
+	        iTSMetricsCallbackFunction();
+	    });
+    } else {
+        iTSMetricsCallbackFunction();
+    }
+--></script>
+    <script>
+        if (!window.its) {
+            window.its = {};
+        }
+        window.its.markupLoadEndTime = new Date().getTime();
+    </script>
+
+
+
+</body>
+
+
+
+</html>

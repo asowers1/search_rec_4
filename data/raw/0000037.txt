@@ -1,0 +1,799 @@
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN' 'http://www.w3.org/TR/html4/loose.dtd'>
+<html xmlns:fb="http://www.facebook.com/2008/fbml" lang="en">
+    <head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYAWVZXGwIFVFlaAQg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(3),t(4),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:6,4:5,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:21,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],10:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","trackUserAction","finished","traceEvent","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:19,2:20,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-536.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:19,2:10,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],19:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style id="acj">body{display:none !important;}</style>
+	<script type="text/javascript">
+	    if (self === top) {
+		var antiClickjack = document.getElementById("acj");
+		antiClickjack.parentNode.removeChild(antiClickjack);
+	    } else {
+		top.location = self.location;
+	    }
+
+	</script>
+	<title>And Then There Were None Notes</title>
+	<link href='http://www.bookrags.com/notes/none/' rel='canonical' />
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<meta name='description' content='Plot summary of And Then There Were None by Agatha Christie. Part of a free Study Guide by BookRags.com.'>
+<meta name='keywords' content='And Then There Were None, Plot summary, book overview, synopsis, study guide, analysis'>	<link href='https://d22o6al7s0pvzr.cloudfront.net/css/bookrags/minified/site_base.css?1422408907' rel='stylesheet' type='text/css'>
+	<link href='https://d22o6al7s0pvzr.cloudfront.net/css/bookrags/minified/compiled.css?1422408907' rel='stylesheet' type='text/css'>
+	<script>/*
+CSS Browser Selector v0.4.0 (Nov 02, 2010)
+Rafael Lima (http://rafael.adm.br)
+http://rafael.adm.br/css_browser_selector
+License: http://creativecommons.org/licenses/by/2.5/
+Contributors: http://rafael.adm.br/css_browser_selector#contributors
+*/
+function css_browser_selector(u){
+	var ua=u.toLowerCase(),is=function(t){
+		return ua.indexOf(t)>-1
+		},g='gecko',w='webkit',s='safari',o='opera',m='mobile',h=document.documentElement,b=[(!(/opera|webtv/i.test(ua))&&/msie\s(\d)/.test(ua))?('ie ie'+RegExp.$1):is('firefox/2')?g+' ff2':is('firefox/3.5')?g+' ff3 ff3_5':is('firefox/3.6')?g+' ff3 ff3_6':is('firefox/3')?g+' ff3':is('gecko/')?g:is('opera')?o+(/version\/(\d+)/.test(ua)?' '+o+RegExp.$1:(/opera(\s|\/)(\d+)/.test(ua)?' '+o+RegExp.$2:'')):is('konqueror')?'konqueror':is('blackberry')?m+' blackberry':is('android')?m+' android':is('chrome')?w+' chrome':is('iron')?w+' iron':is('applewebkit/')?w+' '+s+(/version\/(\d+)/.test(ua)?' '+s+RegExp.$1:''):is('mozilla/')?g:'',is('j2me')?m+' j2me':is('iphone')?m+' iphone':is('ipod')?m+' ipod':is('ipad')?m+' ipad':is('mac')?'mac':is('darwin')?'mac':is('webtv')?'webtv':is('win')?'win'+(is('windows nt 6.0')?' vista':''):is('freebsd')?'freebsd':(is('x11')||is('linux'))?'linux':'','js'];
+	c = b.join(' ');
+	h.className += ' '+c;
+	return c;
+};
+css_browser_selector(navigator.userAgent);
+</script>
+
+	<link rel='icon' href='/favicon.ico'><link rel='Shortcut icon' href='/favicon.ico'>
+	<script type='text/javascript' src='//code.jquery.com/jquery-1.10.1.min.js'></script>
+	<script type='text/javascript' src='https://d22o6al7s0pvzr.cloudfront.net/js/bookrags/minified/site_base.js?1422408907'></script>
+	<link href='https://d22o6al7s0pvzr.cloudfront.net/css/bookrags/minified/content.css?1422408907' rel='stylesheet' type='text/css'>
+<meta property='og:url' content='http://www.bookrags.com/notes/none/'></meta>
+<meta property='og:title' content='And Then There Were None Summary'></meta>
+<meta property='og:description' content='This detailed study guide includes chapter summaries and analysis, important themes, significant quotes, and more - everything you need to ace your essay or test on And Then There Were None!'></meta>
+<meta property='og:type' content='book'></meta>
+<meta property='og:image' content='http://dolmv3q9e9skh.cloudfront.net/productImage/?sku=notes-none&w=200'></meta>
+<meta property='og:site_name' content='www.BookRags.com'></meta>
+
+<meta property='og:url' content='http://www.bookrags.com/notes/none/'></meta>
+<meta property='og:title' content='And Then There Were None Summary'></meta>
+<meta property='og:description' content='This detailed study guide includes chapter summaries and analysis, important themes, significant quotes, and more - everything you need to ace your essay or test on And Then There Were None!'></meta>
+<meta property='og:type' content='book'></meta>
+<meta property='og:image' content='http://dolmv3q9e9skh.cloudfront.net/productImage/?sku=notes-none&w=200'></meta>
+<meta property='og:site_name' content='www.BookRags.com'></meta>
+
+
+
+</head>
+<body >
+<script type="text/javascript">var dataLayer = [];</script>
+<script type="text/javascript">dataLayer.push({"ga_id":"UA-169599-1","lyris":"DInyyTipBJsPFl","dm":0,"pageID":"Content","uk":0});</script>
+<script type="text/javascript">dataLayer.push({"sku":"notes-none","prodtype":"notes","itemid":"none"});</script>
+
+    <div class="device-xs visible-xs"></div>
+    <div class="device-sm visible-sm"></div>
+    <div class="device-md visible-md"></div>
+    <div class="device-lg visible-lg"></div>
+
+    <style type="text/css">
+.logged-in { display: none; }    </style>
+
+    <div class="header">
+
+	<div class="container">
+
+	    <div class="row">
+
+		<div class="col-md-4 col-sm-4 col-xs-8 header-pad">
+		    <a href="http://www.bookrags.com"><img src="https://d22o6al7s0pvzr.cloudfront.net/images/bookrags/bookrags_logo.png?1422408907" class="logo"></a>
+		</div>
+		
+		<div class="col-xs-4 visible-xs navbar-toggle-container">
+		    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		    </button>
+		</div>
+
+		<div class="col-md-4 col-sm-4 hidden-xs header-pad" id="searchFullHead">
+
+		   <style>
+			/* Fix search box area */
+			#searchFullHead .gsc-control-cse {
+			    background-color: transparent;
+			    border: none;
+			    margin-top: 16px !important;
+			    padding: 6px !important;
+			}
+
+			/* Fix the input box */
+			#searchFullHead .gsc-input {
+			    margin-right: 0 !important;
+			    padding-right: 0 !important;
+			    background-color: transparent !important;
+			}
+
+			#searchFullHead .gsc-input-box {
+			    border: 1px solid #888;
+			    border-radius: 6px 0 0 6px !important;
+			    margin-right: -4px !important;
+			    padding-right: 0 !important;
+			}
+
+			/* Fix the button */
+			#searchFullHead .gsc-search-button {
+			    height: 25px !important;
+			    width: 25px !important;
+			    padding: 3px !important;
+			    margin: 0 !important;
+			    border-radius: 0 6px 6px 0 !important;
+			}
+
+			#searchFullHead .gsc-search-button {
+			    margin-left: 0;
+			}
+
+			#searchFullHead .gsib_b {
+			    width: 0;
+			}
+
+			#searchFullHead .gsc-selected-option {
+			    width: 90px;
+			}
+    		    </style>
+		    		    <script>
+			 (function() {
+			   var cx = '003029722833644024257:qtuvoh3mi8o';
+			   var gcse = document.createElement('script');
+			   gcse.type = 'text/javascript';
+			   gcse.async = true;
+			   gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+				   '//www.google.com/cse/cse.js?cx=' + cx;
+			   var s = document.getElementsByTagName('script')[0];
+			   s.parentNode.insertBefore(gcse, s);
+			 })();
+		   </script>
+		   			<gcse:search></gcse:search>
+		   				</div>
+
+		<div class="col-md-4 col-sm-4 hidden-xs box-row">
+		    <div class="box">
+
+			
+    			<div class="box box-user">
+    			    <div><a href="https://www.bookrags.com/qa/register.php?context=header&sku=notes-none">Sign Up</a></div>
+    			    <span class="box-separator">|</span>
+    			    <div><a href="http://www.bookrags.com/qa/login.php?finishpg=http%3A%2F%2Fwww.bookrags.com%2Fnotes%2Fnone%2F">Sign In</a></div>
+    			</div>
+
+			
+		    </div>
+
+		    <div class="box box-help">
+			<div>
+			    <a href="http://www.bookrags.com/custserv">? HELP</a>
+			</div>
+		    </div>
+		    
+		</div>
+	    </div>
+	</div>
+    </div>
+
+    <hr class="header" />
+
+    <div class="navigation navbar navbar-default" role="navigation">
+
+	<div class="container">
+	    	    <div class="row">
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse in" id="bs-example-navbar-collapse-1">
+
+		    <ul class="nav navbar-nav">
+			<li><a href="http://www.bookrags.com/browse/studyguides/">study guides</a></li><li><a href="http://www.bookrags.com/browse/plans/">lesson plans</a></li><li><a href="http://www.bookrags.com/browse/biography/">bios</a></li><li><a href="http://www.bookrags.com/browse/critessays/">essays</a></li><li class="active"><a href="http://www.bookrags.com/questions/">homework help</a></li>
+			
+    			<li class="visible-xs"><a href="http://www.bookrags.com/qa/login.php?finishpg=http%3A%2F%2Fwww.bookrags.com%2Fnotes%2Fnone%2F">Sign In</a></li>
+
+					    </ul>
+
+		    <ul class="nav navbar-nav navbar-right">
+			<li class="share">Share:</li>
+			<li><a href="#" class='addthis_button_facebook'><span class="icon-facebook"></span></a></li>
+			<li><a href="#" class='addthis_button_twitter' tw:count='none' tw:via='ArgosOnBookRags'><span class="icon-twitter"></span></a></li>
+			<li><a href="#" class='addthis_button_google_plusone_share'><span class="icon-googleplus"></span></a></li>
+			<li><a href="#" class='addthis_button_email'><span class="icon-mail"></span></a></li>
+		    </ul>
+
+		</div><!-- /.navbar-collapse -->
+	    </div>
+	    	</div>
+    </div><!-- /.container-fluid -->
+
+    <div class="header-separator"></div>
+
+    <div class="body-container container override-bootstrap">
+
+	
+	<!-- BEGIN PAGE BODY -->
+	<div id='pageWrapper'>
+	<div id='pageWrapperTop'></div>
+
+	<div id='pageBody' class='clearfix'>
+	
+<div id='pageColLeft'><!-- LEFT COLUMN -->
+<!-- BEGIN BUY THE BOOK -->
+<div id='buyTheBook' class='stdBlock'>
+<div class='nohead'></div>
+<div class='body'>
+	<a href='http://www.amazon.com/s/ref=nb_sb_noss?SubscriptionId=AKIAINWTLHI2USOG4VUA&tag=bookrags&url=search-alias=aps&field-keywords=Ten+Little+Indians' target='amazUrl'><img src='https://dolmv3q9e9skh.cloudfront.net/productImage/?sku=notes-none&w=150' alt='And Then There Were None by Agatha Christie' width='150'>
+	<div class='desc'>Get And Then There Were None from Amazon.com</div>
+	</a>
+</div>
+</div> <!-- #buyTheBook -->
+<!-- END BUY THE BOOK -->
+
+<div id='contentSPUpsellBlock'>
+	<a href='http://www.bookrags.com/And_Then_There_Were_None/'>
+		<div class='body'>
+			View the Study Pack
+		</div>
+	</a>
+</div>
+
+<div id='contentLPSGUpsellBlock'>
+	<a href='http://www.bookrags.com/lessonplan/tenlittleindians/'>
+		<div class='body'>
+			View the Lesson Plans
+		</div>
+	</a>
+</div>
+<script>
+// Open/close the parent items when clicked.
+$(document).ready(function()
+{
+	$(".treeView .item").each(function()
+	{
+		if ($(this).next('.kids').children()[0])
+		{
+			$(this).click(function(e)
+			{
+				$(this).children('.plusminus').text($(this).children('.plusminus').text() === "+" ? "-" : "+");
+				$(this).next().toggle();
+				return false;
+			});
+		}
+	});
+});
+</script>
+<!-- BEGIN CONTENT NAV MENU BLOCK -->
+<div id='contentNavMenuBlock' class='stdBlock'>
+<div class='head'>Book Notes</div>
+<div class='body'>
+<div id='navMenuTree' class='treeView'>
+
+
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/index.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/index.html'>Table of Contents</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/bio.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/bio.html'>Author/Context</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item currSection '>
+			<a href='http://www.bookrags.com/notes/none/'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/'>Plot Summary</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/chr.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/chr.html'>Major Characters</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/obj.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/obj.html'>Objects/Places</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/quo.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/quo.html'>Quotes</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/top1.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/top1.html'>Topic Tracking: Clues</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/top2.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/top2.html'>Topic Tracking: Guilt and Responsibility</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/top3.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/top3.html'>Topic Tracking: Trust and Suspicion</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/part1.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/part1.html'>Chapter 1</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/part2.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/part2.html'>Chapter 2</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/part3.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/part3.html'>Chapter 3</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/part4.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/part4.html'>Chapter 4</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/part5.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/part5.html'>Chapter 5</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/part6.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/part6.html'>Chapter 6</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/part7.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/part7.html'>Chapter 7</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/part8.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/part8.html'>Chapter 8</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/part9.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/part9.html'>Chapter 9</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/part10.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/part10.html'>Chapter 10</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/part11.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/part11.html'>Chapter 11</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/part12.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/part12.html'>Chapter 12</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/part13.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/part13.html'>Chapter 13</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/part14.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/part14.html'>Chapter 14</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/part15.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/part15.html'>Chapter 15</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/part16.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/part16.html'>Chapter 16</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/part17.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/part17.html'>Epilogue</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+		<div class='item  '>
+			<a href='http://www.bookrags.com/notes/none/part18.html'><span class='plusminus'>&nbsp;</span></a><span class='itemtext'><a href='http://www.bookrags.com/notes/none/part18.html'>Manuscript</span></a>
+		</div>
+		<div class='kids' style='display:none'>
+
+		</div>
+	
+</div> <!-- .treeView -->
+</div>
+</div> <!-- #contentNavMenuBlock -->
+<!-- END CONTENT NAV MENU BLOCK -->
+
+<!-- BEGIN RELATED TOPICS WIDGET -->
+<div id='relatedTopics' class='stdBlock'>
+<div class='head'>Related Topics</div>
+<div class='body'>
+
+	<div class='item'><a href='http://www.bookrags.com/Agatha_Christie/' title='Agatha Christie Biography'>Agatha Christie</a></div>
+
+	<div class='item'><a href='http://www.bookrags.com/A_Murder_Is_Announced/' title='A Murder Is Announced'>A Murder Is Announced</a></div>
+
+	<div class='item'><a href='http://www.bookrags.com/At_Bertram&#39;s_Hotel/' title='At Bertram&#39;s Hotel'>At Bertram&#39;s Hotel</a></div>
+
+	<div class='item'><a href='http://www.bookrags.com/Cards_on_the_Table/' title='Cards on the Table'>Cards on the Table</a></div>
+
+	<div class='item'><a href='http://www.bookrags.com/Curtain_(novel)/' title='Curtain'>Curtain</a></div>
+
+</div>
+</div>
+<!-- END RELATED TOPICS WIDGET -->
+
+</div><!-- #pageColLeft -->
+
+<div id='pageColCenter'><!-- CENTER COLUMN -->
+
+<!-- BEGIN CONTENT TITLE BLOCK -->
+<div id='contentTitleBlock' class='stdBlock'>
+	<div class='nohead'></div>
+	<div class='body'>
+		<h1 class='desc'>And Then There Were None Notes</h1>
+		<div class='author'><a href='/Agatha_Christie/' title='Agatha Christie Biography'>Agatha Christie</a></div>
+		<div style='clear: both'></div>
+		<div class='bottomDesc'>This section contains 939Â words<br>
+				(approx. 4Â pages at  300 words per page)</div>
+	</div>
+</div> <!-- #contentTitleBlock -->
+<!-- END CONTENT TITLE BLOCK -->
+
+<!-- BEGIN CONTENT TOOLBAR BLOCK -->
+<div id='contentToolbarBlock' class='stdBlock'>
+<div class='nohead'></div>
+<div class='body'>
+	
+	<span class='item'>
+	<a rel='nofollow' href='http://www.bookrags.com/notes/none/?mode=print'><img src='https://d22o6al7s0pvzr.cloudfront.net/images/bookrags/aero300/content/icon_printfriendly.png?1422408907' alt='Buy and print the And Then There Were None Book Notes'  title='Buy and print the And Then There Were None Book Notes'>Print</a>
+	</span>
+
+	
+	<span class='item'>
+	<a rel='nofollow' href='http://www.bookrags.com/notes/none/?mode=doc'><img src='https://d22o6al7s0pvzr.cloudfront.net/images/bookrags/aero300/content/icon_rtf.png?1422408907' alt='Buy and download the And Then There Were None Book Notes' title='Buy and download the And Then There Were None Book Notes'>Word</a>
+	</span>
+
+	
+	<span class='item'>
+	<a rel='nofollow' href='http://www.bookrags.com/notes/none/?mode=pdf'><img src='https://d22o6al7s0pvzr.cloudfront.net/images/bookrags/aero300/content/icon_pdf.png?1422408907' alt='Buy and download the And Then There Were None Book Notes' title='Buy and download the And Then There Were None Book Notes'>PDF</a>
+	</span>
+
+	<div class='shareThis'>
+		<div class='addthis_toolbox addthis_default_style'>
+			<a class='addthis_button_twitter' tw:count='none' tw:via='ArgosOnBookRags'><img src='https://d22o6al7s0pvzr.cloudfront.net/images/bookrags/addThis/btn_twitter.png?1422408907' alt='Tweet about the And Then There Were None Book Notes'/></a>
+			<a class='addthis_button_google_plusone' g:plusone:count='false' g:plusone:size='medium'></a>
+			<a class='addthis_button_email'><img src='https://d22o6al7s0pvzr.cloudfront.net/images/bookrags/addThis/btn_email.png?1422408907' alt='Email the And Then There Were None Book Notes to a friend'/></a>
+			<a class='addthis_button_facebook'><img src='https://d22o6al7s0pvzr.cloudfront.net/images/bookrags/addThis/btn_facebook.png?1422408907' alt='Share the And Then There Were None Book Notes on Facebook'/></a>
+		</div>
+	</div>
+</div>
+</div> <!-- #contentToolbarBlock -->
+<!-- END CONTENT TOOLBAR BLOCK -->
+
+<!-- BEGIN CONTENT BODY BLOCK -->
+<div id='contentBodyBlock' class='stdBlock guides'>
+<div class='nohead'></div>
+<div class='body'>
+
+<table width='100%' cellspacing='0'><tbody><tr>
+<td align='right' valign='top'>
+	<a rel='nofollow' href='https://www.bookrags.com/checkout/?p=lens&u=and_then_there_were_none'><img class='wImageBtn' width='230' height='32' src='https://d22o6al7s0pvzr.cloudfront.net/images/bookrags/aero300/topic/btn_buy_studypack.png?1422408907' alt='Get the premium And Then There Were None Book Notes'></a>
+</td>
+</tr>
+</tbody></table>
+
+<h2>And Then There Were None Notes &amp; Analysis</h2>
+
+<p>The free <em>And Then There Were None</em> notes include comprehensive information and
+analysis to help you understand the book. These free notes consist of about 59 pages (17,625 words)
+and contain the following sections:</p>
+<ul>
+<li><a href='http://www.bookrags.com/notes/none/bio.html'>Author Information</a></li>
+<li><a href='http://www.bookrags.com/notes/none/'>Plot Summary</a></li>
+<li><a href='http://www.bookrags.com/notes/none/chr.html'>Characters</a></li>
+<li><a href='http://www.bookrags.com/notes/none/obj.html'>Places & Objects</a></li>
+<li><a href='http://www.bookrags.com/notes/none/part1.html'>Chapter Notes & Analysis</a></li>
+</ul>
+<p>These free notes also contain <a href='http://www.bookrags.com/notes/none/quo.html'>Quotes</a> and <a href='http://www.bookrags.com/notes/none/top1.html'>Themes &amp; Topics</a> on <em>And Then There Were None</em> by Agatha Christie.</p>
+<div class='content'><h2>And Then There Were None Plot Summary</h2>
+<P>Eight strangers are lured to the mysterious Indian Island.  Some of them believes that they've been invited by an old friend - one that they can't contact to confirm the invitation.  The rest have been hired by a mysterious employer.  Once they arrive at the Island they meet the last two 'guests', the husband and wife butler-cook team.  In each of their rooms is a poem entitled 'Ten Little Indians' which tells the story of ten Indian boys who die in unusual fashions.  A conversation between two of the guests leads them to realize that none of them know their host - the mysterious U. N. Owen.  At dinner, they notice ten Indian figurines on the table, matching the poem.  After their first dinner, once they're all in the drawing-room, a voice reads out a list of accusations against them - each one of them is accused of murdering at least one person, and they have been brought to the Island to pay for their crimes.  No one is sure what to make of the recording, until Marston takes a drink - and dies of Cyanide poisoning.  Just as the poem predicted.</P>
+
+<P>Everyone goes to bed uneasy, some feeling guilty about the crimes they've committed, others just worried about their safety.  In the morning, they discover that the cook has died in the night as well, although it may have been natural causes...  The boat that is supposed to bring supplies is very late, and soon they realize that no one is coming to take them off the Island.  They notice, as well, that every time someone dies one of the ten ceramic figurines disappear.  As everyone begins to suspect one another, three of the men decide to search the Island to make sure that no one else is hiding on it.  After an exhaustive search, they discover that there are definitely only eight people on the Island.  For a moment, they believe that the deaths are just a horrible coincidence - until someone turns up with their head smashed in.  Since there is no one else on the Island, that means that the killer can only be one of them.</P>
+
+<P>The Judge leads everyone to suspect each other, making sure that everyone understands that no one can be trusted.  Everyone goes to sleep scared, some of them slowly being driven mad by their guilt.  The next morning, Rogers, the butler, has disappeared.  They quickly find his body - he's been murdered with an axe.  Everyone starts getting paranoid.  Emily, the old woman, begins acting strange, and everyone leaves her alone for a little while - when they return, she's been murdered, leaving only five people left.  Wargrave, the Judge, suggests that they lock up all their possible weapons, including the revolver that Lombard brought.  The revolver has been stolen though.  They tear the house apart looking for it, but they can't find it.</P>
+
+<P>Everyone decides to just sit around, with only one leaving at any one time - theoretically, they should all be safe that way.  Vera, the one most wracked by guilt, goes up to her room and is frightened by a strand of seaweed that represents the boy she murdered by drowning.  Everyone goes to check on her, and when they return to the drawing room, they discover that the Judge has been murdered - but they can't figure out who had the chance to do it.  That night, the ex-policeman, Blore, hears someone sneaking out.  He searches the remaining rooms, and discover that Armstrong, the doctor, is missing - so he must be the killer.</P>
+
+<P>The next day, Lombard, Blore and Vera, the three remaining guests, walk around the Island, trying to signal the mainland with a mirror.  Blore goes back to the hoe for lunch, but is crushed by a falling slab of marble.  Lombard and Vera are sure Armstrong is the murderer - until they find his body washed up against some rocks.  Even though evidence has shown that neither of them could be the killer, Lombard and Vera don't trust each other.  Vera steals Lombard's gun and shoots him.  Happy to finally be safe and alone, and more than a little crazy, Vera walks back to the house, and finds that someone has set up a noose in her room.  Finally giving into her guilt, she hangs herself.</P>
+
+<P>The police find the Island a few days later, and are puzzled by the mystery - they can't figure out who killed everyone, since there are only bodies on the Island, and no one could have escaped it.  A few weeks later, a bottle is caught  a fisherman.  Inside it is a confession written by Wargrave - it explains  and why he killed everyone.  His whole life he had twin conflicting desires - one for justice, the other to kill people.  He'd enjoyed killing the guilty by sentencing them to death in his court, but that wasn't good enough.  He wanted to kill people himself.  Once he found that he was dying of cancer, he decided to go through with it.  He found nine guilty people and lured them to the Island, then murdered them one by one, using Armstrong to help fake his death so that he wouldn't be a suspect.  Once everyone was dead, he arranged to kill himself so that it would look like his fake death - so the police would be confused by an unsolvable crime.  Lastly, he sealed up his confession in a bottle and threw it out to sea, because he couldn't bear the thought of no one ever knowing about how brilliant he was.</P></div>
+
+<div class='footer'>
+	<div class='btnPrev'><a rel='prev' href='http://www.bookrags.com/notes/none/bio.html'><img src='https://d22o6al7s0pvzr.cloudfront.net/images/bookrags/aero300/content/btn_prev.png?1422408907' class='wImageBtn btnPrev' alt='View And Then There Were None Author/Context'></a></div>
+	<div class='btnNext'><a rel='next' href='http://www.bookrags.com/notes/none/chr.html'><img src='https://d22o6al7s0pvzr.cloudfront.net/images/bookrags/aero300/content/btn_next.png?1422408907' class='wImageBtn btnNext' alt='View And Then There Were None Major Characters'></a></div>
+
+	<div style='clear:both'></div>
+</div> <!-- .footer -->
+
+</div>
+</div> <!-- #contentBodyBlock -->
+<!-- END CONTENT BODY BLOCK -->
+
+<!-- BEGIN CONTENT EXTRA BLOCK -->
+<div id='contentExtraBlock' class='stdBlock guides'>
+<div class='nohead'></div>
+<div class='body'>
+<div>
+	<b>More summaries and resources for <a href='http://www.bookrags.com/And_Then_There_Were_None/'>teaching or studying And Then There Were None</a>.</b>
+</div>
+<p><a href='http://www.bookrags.com/browse/Book+Notes//'>Browse all BookRags Book Notes.</a>
+</div>
+</div> <!-- #contentExtraBlock -->
+<!-- END CONTENT EXTRA BLOCK -->
+
+	<!-- BEGIN CONTENT COPYRIGHT BLOCK -->
+	<div id='contentCopyrightBlock' class='stdBlock'>
+	<div class='nohead'></div>
+	<div class='body'>
+		<div class='copy'>Copyrights</div>
+
+		<div class='icon'>
+			<img src='https://d22o6al7s0pvzr.cloudfront.net/images/bookrags/gb/gb_litguide_notes.gif' alt='BookRags Book Notes'>
+		</div>
+
+		<div class='text'>
+			And Then There Were None from <i>BookRags Book Notes</i>. (c)2015 BookRags, Inc. All rights reserved.
+		</div>
+
+		<div style='clear:both'></div>
+	</div>
+	</div> <!-- #contentCopyrightBlock -->
+	<!-- END CONTENT COPYRIGHT BLOCK -->
+	
+</div><!-- #pageColCenter -->
+
+
+
+<div id='pageColRight'><!-- RIGHT COLUMN -->
+
+<!-- FACEBOOK "LIKE" WIDGET -->
+<div id='widFacebook' class='stdBlock'>
+<div class='head'>Follow Us on Facebook</div>
+<div class='body'>
+
+<iframe src='http://www.facebook.com/plugins/likebox.php?id=121371054554478&width=300&colorscheme=light&show_faces=false&connections=10&stream=false&header=false&border_color=%23DDDDDD'
+		scrolling='no' frameborder='0' style='border:none; overflow:hidden; width:300px;height:260px;'></iframe>
+
+</div>
+</div><!-- End FACEBOOK "LIKE" WIDGET -->
+<div style='clear:both'></div>
+
+<!-- BEGIN HOMEWORK HELP WIDGET -->
+<div id='widHomeworkHelp' class='stdBlock narrow'>
+<div class='head'>Homework Help</div>
+<div class='body'>
+
+<div class='question odd'>
+
+	<div class='qBody'>
+		<h2><a href='http://www.bookrags.com/questions/english-and-literature/And_Then_There_Were_None/whose-invitation-was-not-by-the-Owen-family-182749/'>Whose Invitation Was Not By the Owen Family?</a></h2>
+
+	</div>
+	<div style='clear:both'></div>
+</div>
+
+<div class='question even'>
+
+	<div class='qBody'>
+		<h2><a href='http://www.bookrags.com/questions/english-and-literature/And_Then_There_Were_None/What-is-chapter-7-of-and-then-there-was-none-about-180846/'>What Is Chapter 7 of and Then There Was None About</a></h2>
+
+	</div>
+	<div style='clear:both'></div>
+</div>
+
+<div class='question odd'>
+
+	<div class='qBody'>
+		<h2><a href='http://www.bookrags.com/questions/english-and-literature/And_Then_There_Were_None/in-the-converstion-between-Vera-and-Emily-who-is-getting-hysterical-180845/'>In the Converstion Between Vera and Emily Who Is Getting Hysterical?</a></h2>
+
+	</div>
+	<div style='clear:both'></div>
+</div>
+
+<div class='question even'>
+
+	<div class='qBody'>
+		<h2><a href='http://www.bookrags.com/questions/english-and-literature/And_Then_There_Were_None/When-and-what-page-do-they-talk-about-drugs-in-the-book-And-Then-There-Were-None-by-Agatha-Christie-171115/'>When and What Page Do They Talk About Drugs in the Book "And Then There Were None" By Agatha Christie?</a></h2>
+
+	</div>
+	<div style='clear:both'></div>
+</div>
+
+<div class='question odd'>
+
+	<div class='qBody'>
+		<h2><a href='http://www.bookrags.com/questions/english-and-literature/And_Then_There_Were_None/why-is-the-setting-in-and-then-there-were-none-important-170574/'>Why Is the Setting in and Then There Were None Important?</a></h2>
+
+	</div>
+	<div style='clear:both'></div>
+</div>
+
+<div class='moreLink'>
+	<a href='/questions/all/And_Then_There_Were_None/?qlistfilterby=all&qlistsortby=NewestQuestions'>View all questions on this topic</a>
+</div>
+<div class='askQuestion'>
+<a href='http://www.bookrags.com/qa/postaquestion.php?topic=And_Then_There_Were_None&cat=4'><img class='wImageBtn' src='https://d22o6al7s0pvzr.cloudfront.net/images/bookrags/aero300/content/btn_askquestion_blue.png?1422408907' width='149' height='29' border='0' alt='Ask a question via Homework Help' title='Ask a question at our Q&A homepage'></a>
+</div>
+
+	</div>
+</div>
+<!-- END HOMEWORK HELP WIDGET -->
+
+</div><!-- #pageColRight -->
+
+<div style='clear:both'></div>
+
+<!-- Google Code for Study Guide Remarketing Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1059911285;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "p72FCLPs3gIQ9eyz-QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1059911285/?label=p72FCLPs3gIQ9eyz-QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript><!-- PAGE FOOTER -->
+
+    </div> <!-- END .pageBody -->
+    </div> <!-- END .pageWrapper -->
+    
+</div> <!-- END .container .body-container -->
+
+<div class="footer">
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-md-2 hidden-xs hidden-sm">
+            </div>
+            <div class="col-md-6 footer-links">
+		
+            <a href='http://www.bookrags.com/about/'>About BookRags</a> |
+            <a href='http://www.bookrags.com/custserv/'>Customer Service</a> |
+            <a href='http://www.bookrags.com/about/terms.htm'>Terms of Use</a> |
+            <a href='http://www.bookrags.com/about/privacy.htm'>Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            
+                <div class='copyright'>
+                    Copyright 2015 by BookRags, Inc.
+                </div>            </div> <!-- .col-md-6 -->
+
+            <div class="col-md-2 social">
+		    		<p class="follow-bookrags">FOLLOW BOOKRAGS:</p>
+    		<ul>
+    		    <li>
+    			<a href="#" class="addthis_button_facebook_follow" addthis:userid="121371054554478">
+    			    <img src="https://d22o6al7s0pvzr.cloudfront.net/images/bookrags/socialicons/facebook-socialicon.png?1422408907" class="footer-social-icons" alt="Follow BookRags on Facebook">
+    			</a>
+    		    </li>
+    		    <li>
+    			<a href="#" class="addthis_button_twitter_follow" addthis:userid="ArgosOnBookRags">
+    			    <img src="https://d22o6al7s0pvzr.cloudfront.net/images/bookrags/socialicons/twitter-socialicon.png?1422408907" class="footer-social-icons" alt="Follow BookRags on Twitter">
+    			</a>
+    		    </li>
+    		    <li>
+    			<a href="#" class="addthis_button_google_follow" addthis:userid="115419710073546627759">
+    			    <img src="https://d22o6al7s0pvzr.cloudfront.net/images/bookrags/socialicons/gplus-socialicon.png?1422408907" class="footer-social-icons" alt="Follow BookRags on Google Plus">
+    			</a>
+    		    </li>
+    		    <li>
+    			<a href="#" class="addthis_button_pinterest_follow" addthis:userid="BookRags">
+    			    <img src="https://d22o6al7s0pvzr.cloudfront.net/images/bookrags/socialicons/pinterest-socialicon.png?1422408907" class="footer-social-icons" alt="Follow BookRags on Pinterest">
+    			</a>
+    		    </li>
+    		</ul>
+		            </div>
+
+        </div>
+
+    </div> <!-- .container -->
+
+</div> <!-- .footer -->
+
+<div class="container-fluid post-footer"></div>
+
+<script type='text/javascript' src='//s7.addthis.com/js/250/addthis_widget.js#pubid=bookrags'></script>
+<script type='text/javascript'>
+var addthis_config={
+pubid:'bookrags',
+data_use_flash: false,
+data_track_clickback:true,
+data_track_textcopy:true,
+data_ga_property:'UA-169599-1'};
+var addthis_share={
+url:'http://www.bookrags.com/notes/none/',
+title:'And Then There Were None Summary',
+description:'This detailed study guide includes chapter summaries and analysis, important themes, significant quotes, and more - everything you need to ace your essay or test on And Then There Were None!',
+templates: { twitter: '{{title}} {{url}} (via @ArgosOnBookRags)' }};
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WPX2Z2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WPX2Z2');</script>
+<!-- End Google Tag Manager -->
+<span id="layout" class="undetected"><!-- Do not reference this element directly, instead look at the JS layer. --></span>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"5f310533c1","applicationID":"1508869","transactionName":"ZQEGbRNXXBcHBhcPW1xLJ0wSQl0JSRcME0BXXhdQFVNtFAcCBjlXXQoQXA9C","queueTime":0,"applicationTime":66,"atts":"SUYFG1tNTxk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-536.min.js"}</script></body>
+
+</html>
+<!-- End PAGE FOOTER -->

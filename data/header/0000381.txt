@@ -1,0 +1,22 @@
+Last-Modified: Sat, 21 Feb 2015 01:17:08 GMT
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=31536000
+x-apple-translated-wo-url: /WebObjects/MZStore.woa/wa/viewArtist?id=63729&cc=us&urlDesc=/celine-dion
+x-apple-orig-url: https://itunes.apple.com/us/artist/celine-dion/id63729
+x-apple-application-site: ST11
+apple-timing-app: 630 ms
+x-apple-aka-ttl: Generated Fri Feb 20 17:17:08 PST 2015, Expires Fri Feb 20 17:18:08 PST 2015, TTL 60s
+x-apple-application-instance: 2126198
+Content-Type: text/html; charset=UTF-8
+x-webobjects-loadaverage: 0
+x-apple-jingle-correlation-key: CDD7YB2C5PMPZ2IBLQRLULWFRM
+Server: ATS/4.1.0
+X-Apple-ATS-Cache-Key: /17.173.38.162/80/us/artist/celine-dion/id63729/iDevice/https
+Vary: Accept-Encoding
+Cache-Control: no-transform, max-age=60
+Date: Sat, 21 Feb 2015 01:17:08 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+X-Apple-Partner: origin.0
+

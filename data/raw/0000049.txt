@@ -1,0 +1,1280 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.23" />
+<meta name="keywords" content="The Chronicles of Narnia Wiki,narnia,The Lion, the Witch and the Wardrobe (book),WikiNarnia Format,C. S. Lewis,Pauline Baynes,The Magician&#039;s Nephew,Prince Caspian (book),The Horse and His Boy,Peter Pevensie,The Lion, the Witch, and the Wardrobe (book),Susan Pevensie,Edmund Pevensie" />
+<meta name="description" content="The Lion, the Witch and the Wardrobe, often shortened to LWW, was written by C. S. Lewis and..." />
+<meta name="google-site-verification" content="FWDIEKdYsseJudHwDCmJdPHBH4nEW4f-WqzSI7xiwnw" />
+<link rel="canonical" href="http://narnia.wikia.com/wiki/The_Lion,_the_Witch_and_the_Wardrobe_(book)" />
+<link rel="apple-touch-icon" href="http://img4.wikia.nocookie.net/__cb22/narnia/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/narnia/images/6/64/Favicon.ico/revision/latest?cb=20080521162036" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="The Chronicles of Narnia Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://narnia.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="The Chronicles of Narnia Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>The Lion, the Witch and the Wardrobe (book) - WikiNarnia - The Chronicles of Narnia, C.S. Lewis</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1424388494/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg2.wikia.nocookie.net%252F__cb22%252Fnarnia%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D1065%26background-image-width%3D1915%26color-body%3D%2523f4f9fc%26color-body-middle%3D%2523a5b5c5%26color-buttons%3D%25234f4341%26color-header%3D%25234f4341%26color-links%3D%25230148c2%26color-page%3D%2523a5b5c6%26page-opacity%3D100%26widthType%3D2%26wordmark-font%3Dimfell/skins/oasis/css/oasis.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationHubsMenu.scss,extensions/wikia/UserLogin/css/UserLoginDropdown.globalNavigation.scss,extensions/wikia/WallNotifications/styles/WallNotifications.globalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationOasis.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearchOasis.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://narnia.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: narnia:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="books",
+wgWikiCategories=["movies"],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":true,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"pageArticleId":20,"pageIsArticle":true,"pageName":"The_Lion,_the_Witch_and_the_Wardrobe_(book)","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"egnre=action;egnre=family;egnre=fantasy;media=movie;mom=mom;women=women-mom","wikiDbName":"narnia","wikiDirectedAtChildren":true,"wikiLanguage":"en","wikiVertical":"Entertainment"},"providers":[],"slots":{"bottomLeaderboardImpressionCapping":[2,4,6]},"forceProviders":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[5,10,13,14,15,18,20,22,23,129,142,100056,100057,100058,100059,100100,100428],
+wgWikiFactoryTagNames=["movie","fantasy","teens_(14-17)","kids_(13)","male","family","adults_(18-35)","female","novel","entertainment","dvd/blu-ray","wow","t9","skyscraper","skyscrapperwow","sanctum","apertureenabled"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1424388494",
+wgDBname="narnia",
+wgCityId="822",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=20,
+wgCategories=["Articles that need proper formatting","Books","The Lion, the Witch, and the Wardrobe"],
+wgPageName="The_Lion,_the_Witch_and_the_Wardrobe_(book)",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="book",
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1424388494",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/average","env":"prod","hostname":"ap-s43","wiki":"narnia","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"average"},
+wgEnableOpenXSPC=true;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>
+function syslogReport(priority,message,context){context=context||null;var url='//jserrorslog.wikia.com/',i=new Image(),data={'@message':message,'syslog_pri':priority};if(context){data['@context']=context;}
+try{data['@fields']={server:document.cookie.match(/server.([A-Z]*).cache/)[1]};}catch(e){}
+try{i.src=url+'l?'+JSON.stringify(data);}catch(e){i.src=url+'e?'+e;}}</script><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1424388494&amp;c=822&amp;lc=en&amp;lid=75&amp;x=narnia&amp;y=c1&amp;u=0&amp;a=20&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1424388494&amp;c=822&amp;lc=en&amp;lid=75&amp;x=narnia&amp;y=c1&amp;u=0&amp;a=20&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://narnia.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1424388494/groups/-/abtesting,oasis_blocking,analytics_gas_js,adengine2_tracking_js,adengine2_rubicon_rtp_js,adengine2_amazon_match_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="The Chronicles of Narnia Wiki" />
+	<meta property="og:title" content="The Lion, the Witch and the Wardrobe (book)" />
+	<meta property="og:description" content="The Lion, the Witch and the Wardrobe, often shortened to LWW, was written by C. S. Lewis and published in 1950. It records the adventure of four ordinary English children - Peter, Susan, Edmund, and Lucy Pevensie - who found their way into the magical land of Narnia by way of a wardrobe that they stumbled across in an old house. The Lion, the Witch, and the Wardrobe was the first of the Chronicles of Narnia to be written and published, but it comes second in the chronological history of Narnia." />
+	<meta property="og:url" content="http://narnia.wikia.com/wiki/The_Lion,_the_Witch_and_the_Wardrobe_(book)" />
+	<meta property="og:image" content="http://img2.wikia.nocookie.net/__cb20080525010218/narnia/images/8/8f/LionWitchWardrobeFirstEd.jpg" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-The_Lion_the_Witch_and_the_Wardrobe_book  TOC_hide wikinav2 skin-oasis background-fixed background-not-tiled background-dynamic">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fnarnia.wikia.com%2Fwiki%2FThe_Lion%2C_the_Witch_and_the_Wardrobe_%28book%29%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require(["ext.wikia.adEngine.amazonMatchOld", "wikia.geo", "wikia.instantGlobals"], function (amazon, geo, globals) {
+		var ac = globals["wgAmazonMatchOldCountries"];
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+	require(["ext.wikia.adEngine.amazonMatch", "wikia.geo", "wikia.instantGlobals"], function (amazon, geo, globals) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+</script>
+<!-- Unsupported language for AnalyticsProviderIVW2 -->
+<!-- Start for RubiconRTP, page_view -->
+<script>
+	require(['wikia.geo', 'wikia.instantGlobals', 'ext.wikia.adEngine.rubiconRtp'], function (geo, instantGlobals, rtp) {
+		var rtpCountries = ["US","GB","BR"], country = geo.getCountryCode();
+
+		if (rtpCountries.indexOf(country) !== -1 && !instantGlobals.wgSitewideDisableRubiconRTP) {
+			rtp.call({"disabled":false,"oz_site":"7450\/11979","oz_zone":"145168","oz_ad_slot_size":"728x90","skin":["oasis"],"oz_cached_only":false,"slotname":["BOTTOM_LEADERBOARD","CORP_TOP_LEADERBOARD","HOME_TOP_LEADERBOARD","HUB_TOP_LEADERBOARD","TOP_LEADERBOARD"]});
+		}
+	});
+</script><div class="WikiaSiteWrapper">
+	<h1>Wikia</h1>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+	<nav class="global-navigation" id="globalNavigation">
+	<div class="page-width">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com"
+				class="wikia-logo"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+			</a>
+		</div>
+		<div class="hubs-container table-cell" id="hubsEntryPoint">
+			<a class="hubs-entry-point"></a>
+<nav id="hubs" class="hubs-menu">
+	<ul class="hub-list">
+					<li>
+								<a data-vertical="comics" href="http://comicshub.wikia.com/wiki/Comics_Hub" class="comics hub-link ">
+					<span class="icon"></span>
+					<span class="label">Comics</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="tv" href="http://tvhub.wikia.com/wiki/TV_Hub" class="tv hub-link ">
+					<span class="icon"></span>
+					<span class="label">TV</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="movies" href="http://movieshub.wikia.com/wiki/Movies_Hub" class="movies hub-link ">
+					<span class="icon"></span>
+					<span class="label">Movies</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="music" href="http://musichub.wikia.com/wiki/Music_Hub" class="music hub-link ">
+					<span class="icon"></span>
+					<span class="label">Music</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="books" href="http://bookshub.wikia.com/wiki/Books_Hub" class="books hub-link  active">
+					<span class="icon"></span>
+					<span class="label">Books</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="games" href="http://gameshub.wikia.com/wiki/Games_Hub" class="games hub-link ">
+					<span class="icon"></span>
+					<span class="label">Games</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="lifestyle" href="http://lifestylehub.wikia.com/wiki/Lifestyle_Hub" class="lifestyle hub-link ">
+					<span class="icon"></span>
+					<span class="label">Lifestyle</span>
+				</a>
+							</li>
+			</ul>
+	<div class="hub-links">
+		<div class="hub-menu-section books-links active">
+			<ul>
+			<strong>THIS MONTH</strong>
+							<li>
+					<a href="http://ow.ly/J5UL7">Read Supernatural Page-Turner The Mime Order with YA Society</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5UMP">Author Sarah J. Maas Tells All In Our Exclusive Interview</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5UOJ">10 Facts about 50 Shades of Grey</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>FROM COMMUNITY</strong>
+							<li>
+					<a href="http://ow.ly/J5UtT">New Stills from the Upcoming Insurgent Movie</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Uvg">Sneak Preview of the Soundtrack to Showtimeâs Outlander</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Ux0">Review of Marisa Meyerâs newest novel Fairest</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>TRENDING BOOK COMMUNITIES</strong>
+							<li>
+					<a href="http://ow.ly/J5Uyw">One Wiki to Rule Them All</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5UzP">Warrior Cats Series</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5UCj">Pooh Adventures</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>NEW RELEASES</strong>
+							<li>
+					<a href="http://ow.ly/J5UFL">Trigger Warning by Neil Gaiman</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5UGG">The Ruby Circle: Bloodlines Series</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5UIq">Fairest: The Lunar Chronicles</a>
+				</li>
+					</ul>
+		<a class="more" href="http://bookshub.wikia.com/wiki/Books_Hub">More Books</a>
+</div>
+	</div>
+</nav>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://narnia.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search within The Chronicles of Narnia Wiki..." data-search-url="http://narnia.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search within The Chronicles of Narnia Wiki..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell">
+	<li class="account-navigation-first-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=The_Lion,_the_Witch_and_the_Wardrobe_(book)" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">				<div class="avatar-container anon-avatar-placeholder">
+									</div>
+			</a>
+							<span class="sign-in-label">Sign in</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+		</div>
+		<div id="UserLoginDropdown" class="UserLoginDropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Sign up</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="The_Lion,_the_Witch_and_the_Wardrobe_(book)">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_LEADERBOARD"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_BUTTON_WIDE"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_SKIN"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h1 class="wordmark medium graphic font-imfell">
+	<a accesskey="z" href="/wiki/The_Chronicles_of_Narnia_Wiki">
+					<img src="http://img2.wikia.nocookie.net/__cb22/narnia/images/8/89/Wiki-wordmark.png" alt="The Chronicles of Narnia Wiki"  width="250" height="65" >
+			</a>
+</h1>
+        <nav class="WikiNav">
+    	        <h1>The Chronicles of Narnia Wiki Navigation</h1>
+        		<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Category:Books">Books</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/The_Lion,_the_Witch_and_the_Wardrobe_(book)">The Lion, the Witch and the Wardrobe</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Prince_Caspian_(book)">Prince Caspian</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/The_Voyage_of_the_Dawn_Treader">The Voyage of the Dawn Treader</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/The_Chronicles_of_Narnia">More...<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Silver_Chair">The Silver Chair</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Horse_and_His_Boy">The Horse and His Boy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Magician%27s_Nephew">The Magician's Nephew</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Last_Battle">The Last Battle</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Aslan">Aslan</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Peter">Peter</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Susan">Susan</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Edmund">Edmund</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Lucy">Lucy</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Reepicheep">Reepicheep</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Characters">More...<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Caspian_X">Caspian</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eustace_Scrubb">Eustace Scrubb</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jill_Pole">Jill Pole</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Digory_Kirke">Digory Kirke</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Polly_Plummer">Polly Plummer</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jadis">The White Witch Jadis</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Miraz">Miraz</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lady_of_the_Green_Kirtle">Lady of the Green Kirtle</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rabadash">Rabadash</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Movies">Movies</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/The_Lion,_the_Witch_and_the_Wardrobe_(film)">The Lion, the Witch and the Wardrobe</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Prince_Caspian_(film)">Prince Caspian</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/The_Voyage_of_the_Dawn_Treader_(film)">The Voyage of the Dawn Treader</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Movies">More...<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Lion,_the_Witch,_and_the_Wardrobe_(BBC)">The Lion, the Witch, and the Wardrobe (BBC)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Prince_Caspian_%26_The_Voyage_of_the_Dawn_Treader_(BBC)">Prince Caspian & The Voyage of the Dawn Treader (BBC)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Silver_Chair_(BBC)">The Silver Chair (BBC)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Lion,_the_Witch,_and_the_Wardrobe_(Animated)">The Lion, the Witch, and the Wardrobe (Animated)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Lion_Awakes">The Lion Awakes</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Actors">Actors</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/William_Moseley">William Moseley</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Anna_Popplewell">Anna Popplewell</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Skandar_Keynes">Skandar Keynes</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Georgie_Henley">Georgie Henley</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Ben_Barnes">Ben Barnes</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>    </nav>
+	    <div class="buttons">
+		<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+					<a href="#" class="wikia-button share-button secondary"  data-id="shareButton"> Share<span class="share-dot"></span><span class="share-pixel"></span></a>
+    </div>
+	    <div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>    </div>
+</header>
+
+				
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+				<header id="WikiaPageHeader" class="WikiaPageHeader">
+    <h1>The Lion, the Witch and the Wardrobe (book)</h1>
+
+	<nav class="wikia-menu-button loginToEditProtectedPage" >
+	<a accesskey="e"  href="/wiki/Special:SignUp?returnto=The_Lion,_the_Witch_and_the_Wardrobe_(book)&amp;returntoquery=action%3Dedit&amp;type=login" data-id="edit" id="ca-viewsource">
+		<img alt="" class="sprite edit-pencil" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Edit this article	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/The_Lion,_the_Witch_and_the_Wardrobe_(book)?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Talk:The_Lion,_the_Witch_and_the_Wardrobe_(book)" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Talk<span class="commentsbubble">9</span></a>
+        <div class="tally">
+			<em>782</em><span>pages on<br /> this wiki</span>        </div>
+		</header>
+<script>
+    
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write(
+        '<div id="monetization-adunit-below_title" class="monetization-module adunit hide-for-edit below-title" ' +
+        'data-mon-type="adunit" data-mon-slot="below_title"><div class="ad-header">Advertisement</div><div>' +
+        '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">' +
+        '</scr' + 'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" ' +
+        'data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_af_bt_ic_fsm_ffa mon_hub_book mon_sl_bt" ' +
+        'data-ad-type="text" ' + 'data-font-size="medium" ' +'data-font-face="arial" ' +
+        ' data-color-bg="#a5b5c6" data-color-border="#a5b5c6" data-color-link="#0148c2" data-color-url="#0148c2" data-color-text="#3a3a3a" ></ins>' +
+        '<script>(adsbygoogle = window.adsbygoogle || []).push({});</scr' + 'ipt></div></div>'
+    );
+}
+</script>
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+
+					
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><table class="cleanup" style="margin: 0 auto; background: #f7fbff; border: 2px solid #003300; padding: .2em; margin-bottom: 3px; font-size: 95%; width: auto;">
+<tr>
+<td style="padding-right: 4px; padding-left: 4px;"> <a href="http://vignette4.wikia.nocookie.net/narnia/images/6/66/Tumnus.JPG/revision/latest?cb=20060217224212" 	class="image image-thumbnail" 	 	 	><img src="http://vignette4.wikia.nocookie.net/narnia/images/6/66/Tumnus.JPG/revision/latest/scale-to-width/100?cb=20060217224212" 	 alt="Tumnus"  	class="" 	 	data-image-key="Tumnus.JPG" 	data-image-name="Tumnus.JPG" 	 	 width="100"  	 height="125"  	 	 	 	></a>
+</td><td> <font size="3"><b>"Heâs a stranger here, your majesty... he couldnât possibly know."</b><br /></font>
+<p>This article must be adapted to the <a href="/wiki/WikiNarnia_Format" title="WikiNarnia Format" class="mw-redirect">WikiNarnia Format</a>. Particular violations of the Format may be specified on the article's <a href="/wiki/Talk:The_Lion,_the_Witch_and_the_Wardrobe_(book)" title="Talk:The Lion, the Witch and the Wardrobe (book)">discussion page</a>.  <br />
+<small>Please follow the WikiNarnia guidelines so that the article will fit in as a properly formatted WikiNarnia article. </small>
+</p>
+</td></tr></table>
+<p><br />
+</p>
+<table border="0" cellspacing="0" cellpadding="4" style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:1px solid #007BA7; font-size:smaller; line-height:1.5;">
+
+<tr>
+<th colspan="2" style="color:#FFF; background:darkgreen; font-size:larger;">The Lion, the Witch and the Wardrobe (book)
+</th></tr>
+<tr>
+<th colspan="2" style="padding:0; background:#F0F8FF; color:#FFF;"><a href="http://vignette3.wikia.nocookie.net/narnia/images/8/8f/LionWitchWardrobeFirstEd.jpg/revision/latest?cb=20080525010218" 	class="image image-thumbnail" 	 	 	><img src="http://vignette3.wikia.nocookie.net/narnia/images/8/8f/LionWitchWardrobeFirstEd.jpg/revision/latest/scale-to-width/250?cb=20080525010218" 	 alt="LionWitchWardrobeFirstEd"  	class="" 	 	data-image-key="LionWitchWardrobeFirstEd.jpg" 	data-image-name="LionWitchWardrobeFirstEd.jpg" 	 	 width="250"  	 height="355"  	 	 	 	></a><br />
+</th></tr>
+<tr>
+<th colspan="2" style="text-align:left; font-weight:normal; background:#BCD4E6; color:#ffffff"><small><b>Book information</b></small>
+</th></tr>
+
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #F0F8FF">Author
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #F0F8FF">
+<p><a href="/wiki/C._S._Lewis" title="C. S. Lewis">C. S. Lewis</a>
+</p>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #F0F8FF">Illustrator
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #F0F8FF">
+<p><a href="/wiki/Pauline_Baynes" title="Pauline Baynes">Pauline Baynes</a>
+</p>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #F0F8FF">Publisher
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #F0F8FF">
+<p>Geoffrey Bles
+</p>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #F0F8FF">First Edition Published
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #F0F8FF">
+<p>1950
+</p>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #F0F8FF">Country
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #F0F8FF">
+<p>England
+</p>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #F0F8FF">Language
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #F0F8FF">
+<p>English
+</p>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #F0F8FF">Pages
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #F0F8FF">
+<p>208
+</p>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #F0F8FF">Preceded by
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #F0F8FF">
+<p>None (published)<br /><a href="/wiki/The_Magician%27s_Nephew" title="The Magician&#39;s Nephew">The Magician's Nephew</a> (chronologically)
+</p>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #F0F8FF">Followed by
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #F0F8FF">
+<p><a href="/wiki/Prince_Caspian_(book)" title="Prince Caspian (book)">Prince Caspian</a> (published)<br /><a href="/wiki/The_Horse_and_His_Boy" title="The Horse and His Boy">The Horse and His Boy</a> (chronological)
+</p>
+</td></tr>
+</table>
+<div class="quote">
+<dl><dd><span title="Source:Â  The Lion, the Witch, and the Wardrobe (book)">"<i>This is going to be exciting enough without pretending.</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Peter_Pevensie" title="Peter Pevensie">Peter Pevensie</a> (Chapter 6) <sup class="noprint"><a href="/wiki/The_Lion,_the_Witch,_and_the_Wardrobe_(book)" title="The Lion, the Witch, and the Wardrobe (book)" class="mw-redirect">[src]</a></sup></div>
+</dd></dl>
+<p><br />
+</p><p><i><b>The Lion, the Witch and the Wardrobe</b></i>, often shortened to <b>LWW</b>, was written by <a href="/wiki/C._S._Lewis" title="C. S. Lewis">C. S. Lewis</a> and published in 1950. It records the adventure of four ordinary English children - <a href="/wiki/Peter_Pevensie" title="Peter Pevensie">Peter</a>, <a href="/wiki/Susan_Pevensie" title="Susan Pevensie">Susan</a>, <a href="/wiki/Edmund_Pevensie" title="Edmund Pevensie">Edmund</a>, and <a href="/wiki/Lucy_Pevensie" title="Lucy Pevensie">Lucy</a> Pevensie - who found their way into the magical land of <a href="/wiki/Narnia" title="Narnia">Narnia</a> by way of a <a href="/wiki/Wardrobe" title="Wardrobe">wardrobe</a> that they stumbled across in an old house.
+</p><p><i>The Lion, the Witch, and the Wardrobe</i> was the first of the Chronicles of Narnia to be written and published, but it comes second in the chronological history of Narnia.
+</p><p><br />
+</p>
+<nav id="toc" class="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a href="#" class="internal" id="togglelink" data-show="show" data-hide="hide">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Chapter_Listing">Chapter Listing</span></h2>
+<ol><li><a href="/wiki/Lucy_Pevensie" title="Lucy Pevensie">Lucy</a> Looks into a <a href="/wiki/Wardrobe" title="Wardrobe">Wardrobe</a>.<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/narnia/images/c/c0/Lucy2.jpg/revision/latest?cb=20110227160122" 	class="image image-thumbnail" 	 	 	><img src="http://vignette2.wikia.nocookie.net/narnia/images/c/c0/Lucy2.jpg/revision/latest/scale-to-width/180?cb=20110227160122" 	 alt="Lucy2"  	class="thumbimage " 	 	data-image-key="Lucy2.jpg" 	data-image-name="Lucy2.jpg" 	 	 width="180"  	 height="180"  	 	 	 	></a>  	<figcaption> 		 			<a href="/wiki/File:Lucy2.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Lucy Pevensie hiding in the woods</p> 		 	</figcaption> </figure>
+</li><li>What Lucy found There
+</li><li><a href="/wiki/Edmund_Pevensie" title="Edmund Pevensie">Edmund</a> and the Wardrobe
+</li><li><a href="/wiki/Turkish_Delight" title="Turkish Delight">Turkish Delight</a>
+</li><li>Back on This Side of the Door
+</li><li>Into the <a href="/wiki/Narnia_(country)" title="Narnia (country)" class="mw-redirect">Forest</a>
+</li><li>A Day with the <a href="/wiki/Beavers" title="Beavers" class="mw-redirect">Beavers</a>
+</li><li>What Happened After Dinner
+</li><li>In the <a href="/wiki/Jadis" title="Jadis">Witch</a>'s House
+</li><li>The <a href="/wiki/Spell" title="Spell" class="mw-redirect">Spell</a> Begins to Break
+</li><li><a href="/wiki/Aslan" title="Aslan">Aslan</a> is Nearer
+</li><li><a href="/wiki/Peter_Pevensie" title="Peter Pevensie">Peter</a>'s First Battle
+</li><li>Deep <a href="/wiki/Magic" title="Magic">Magic</a> from the Dawn of Time
+</li><li>The Triumph of the Witch
+</li><li>Deeper Magic from Before the Dawn of Time
+</li><li>What Happened about the Statues
+</li><li>The Hunting of the <a href="/wiki/White_Stag" title="White Stag">White Stag</a>
+</li></ol>
+<script>
+    if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write(
+            '<div id="monetization-sharethrough-in_content" class="monetization-module sharethrough hide-for-edit in-content" ' +
+            'data-mon-type="sharethrough" data-mon-slot="in_content">' +
+            '<div data-str-native-key="ee7aabcf" style="display: none;"></div>' +
+            '<script type="text/javascript" src="//native.sharethrough.com/assets/tag.js" async></scr' + 'ipt>' +
+            '</div>'
+        );
+    } else 
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write(
+        '<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" ' +
+        'data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div>' +
+        '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">' +
+        '</scr' + 'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" ' +
+        'data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_af_bt_ic_fsm_ffa mon_hub_book mon_sl_ic" ' +
+        'data-ad-type="text" ' + 'data-font-size="medium" ' +'data-font-face="arial" ' +
+        ' data-color-bg="#a5b5c6" data-color-border="#a5b5c6" data-color-link="#0148c2" data-color-url="#0148c2" data-color-text="#3a3a3a" ></ins>' +
+        '<script>(adsbygoogle = window.adsbygoogle || []).push({});</scr' + 'ipt></div></div>'
+    );
+}
+</script><h2><span class="mw-headline" id="About_Narnia">About Narnia</span></h2>
+<h3><span class="mw-headline" id="Time">Time </span></h3>
+<p>The events of <i>The Lion, the Witch, and the Wardrobe</i> occured between 1000 and 1015 <a href="/wiki/Narnian-years" title="Narnian-years" class="mw-redirect">NY</a>, and in 1940 AD on <a href="/wiki/Earth" title="Earth">Earth</a>. After their reign of more than a decade in Narnia, the children returned to Earth at the exact moment they left (see <a href="/wiki/Narnian_Time" title="Narnian Time">Narnian Time</a> for more information).
+</p>
+<h3><span class="mw-headline" id="Atmosphere"> Atmosphere </span></h3>
+<p>In Narnia, the atmosphere felt different than Earth's- as if the air was sweeter - and it stirred in the children--and all other visitors from our world--feelings of bravery and maturity.
+</p>
+<h2><span class="mw-headline" id="Events_Summary"> Events Summary </span></h2>
+<h3><span class="mw-headline" id="Inside_the_Wardrobe">Inside the Wardrobe </span></h3>
+<p>Because of the dangers of <a href="/wiki/World_War_II" title="World War II">World War II</a> , the four Pevensie children were sent away from London to the home of Professor <a href="/wiki/Digory_Kirke" title="Digory Kirke">Digory Kirke</a>, who lived in a large old house with many rooms useful for hiding and exploration.
+</p><p>While exploring the house with her siblings, Lucy decided to investigate an old <a href="/wiki/Wardrobe" title="Wardrobe">wardrobe</a> she found in one of the remote rooms. Upon entering the wardrobe, Lucy found herself walking through trees, rather than the expected coats. She pressed on and found herself standing in the middle of a snowy wood next to a <a href="/wiki/Lamp-post" title="Lamp-post">lamp-post</a>, where she met <a href="/wiki/Tumnus" title="Tumnus">Tumnus</a> the <a href="/wiki/Faun" title="Faun">Faun</a>, who invited her to his home for tea. He later told her that he had intended to hand her over to the <a href="/wiki/White_Witch" title="White Witch" class="mw-redirect">White Witch</a>, the usurping Queen of Narnia. The faun, feeling guilty for what he had planned to do, helped Lucy find her way back to the wardrobe, despite the risk that the White Witch would find him out and punish him.
+</p><p>Later, Lucy tried to tell her siblings about the strange land she had found, but they did not believe her. During a game of hide-and-seek, Lucy returned to the country in the wardrobe, and Edmund followed her so he could go on teasing her about her "imaginary" country. Although he denied it when the older children asked him, soon all four of them had gone into the wardrobe and seen Narnia. Susan, the most sensible of them, wanted to return home, but Lucy convinced Peter that they needed to help her new friend, Mr. Tumnus, who was arrested.
+</p>
+<h3><span class="mw-headline" id="The_Prophecy"><a href="/wiki/Golden_Age_Prophecy" title="Golden Age Prophecy">The Prophecy</a> </span></h3>
+<div class="quote">
+<dl><dd><span title="Source:Â The Lion, the Witch, and the Wardrobe (book)">"<i>...down at Cair Paravel there are four thrones and it's a saying in Narnia time out of mind that when two Sons of Adam and two Daughters of Eve sit on those four thrones, then it will be the end only of the White Witch's reign but of her life...</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Mr._Beaver" title="Mr. Beaver">Mr. Beaver</a><sup class="noprint"><a href="/wiki/The_Lion,_the_Witch,_and_the_Wardrobe_(book)" title="The Lion, the Witch, and the Wardrobe (book)" class="mw-redirect">[src]</a></sup></div>
+</dd></dl>
+<p>The four children were soon found by <a href="/wiki/Mr._Beaver" title="Mr. Beaver">Mr. Beaver</a>, who took them home, introduced them to his wife Mrs. Beaver, and they had dinner. He told them of Aslan the Great Lion, and a Prophecy that said when two Sons of Adam and two Daughters of Eve sat upon the four thrones at Cair Paravel, all Narnia would be put to rights.
+</p><p>While they were talking they found out that Edmund had slipped away and they decided to flee, after realizing that he would tell where they were to the White Witch.
+</p><p>On their journey, they met Father Christmas, who gave Lucy a cordial made from the juice of fireflowers that would heal others with a single drop, and a dagger, and gave Susan bow and arrows, and a horn which could bring help whenever it was blown; and Peter a sword and a shield.
+</p>
+<div class="quote">
+<dl><dd><span title="Source:Â The Lion, the Witch, and the Wardrobe (book)">"<i>Come out, Mrs Beaver. Come out, Sons and Daughters of Adam. It's all right! It isn't </i>Her<i>!</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Mr._Beaver" title="Mr. Beaver">Mr. Beaver</a><sup class="noprint"><a href="/wiki/The_Lion,_the_Witch,_and_the_Wardrobe_(book)" title="The Lion, the Witch, and the Wardrobe (book)" class="mw-redirect">[src]</a></sup></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source:Â The Lion, the Witch, and the Wardrobe (book)">"<i>This was bad grammar of course, but that is how beavers talk when they are excited; I mean in Narnia - in our world they usually don't talk at all</i>"</span>
+</dd><dd>&#8213;C.S Lewis<sup class="noprint"><a href="/wiki/The_Lion,_the_Witch,_and_the_Wardrobe_(book)" title="The Lion, the Witch, and the Wardrobe (book)" class="mw-redirect">[src]</a></sup></div>
+</dd></dl>
+<p>Later, after they arrived at <a href="/wiki/Aslan%27s_Camp" title="Aslan&#39;s Camp" class="mw-redirect">Aslan's Camp</a>, while Susan and Lucy were having fun near the woods, two <a href="/wiki/Wolf" title="Wolf">wolves</a> attacked them. Susan called for help with her horn and Peter and Aslan came to their rescue. Peter killed <a href="/wiki/Maugrim" title="Maugrim">Maugrim</a>, one of the wolves, in his first fight, and Aslan let the other wolf go, followed by centaurs and eagles from Aslan's army. That wolf led them right to Edmund, whom they rescued.
+</p><p>Later, the Witch requested an audience with Aslan. There, she claimed that since Edmund was a traitor, according to the Deep Magic, his blood belonged to her. Eventually, she and Aslan went inside the tent, where they reached an agreement that she would kill him later that night, but renounce her claim on Edmund. Aslan eventually went, though without telling anyone. However Lucy and Susan saw him leaving, and followed. There, they saw Aslan being killed, after which the Witch's army left.
+</p><p>In the morning, just as they were about to leave, they heard the Stone Table crack. When they turned around to look, they saw Aslan standing before them, who revealed to them the Deeper Magic from before the Dawn of Time stated that when "a willing victim is killed in a traitor's stead, the Table would crack and even death would start working backwards."
+</p><p>Afterwards, they went to the Witch's castle, and revived all the statues. Lucy found Mr. Tumnus, begged Aslan to revive him, and soon afterward she and the revived Faun were dancing happily. They then joined the battle between Aslan's army, and the Witch's, which had started earlier that morning.
+</p><p>When it was all over, after Aslan had killed the Witch, the children were crowned High King Peter the Magnificent, Queen Susan the Gentle, King Edmund the Just, and Queen Lucy the Valiant.
+</p>
+<h3><span class="mw-headline" id="Back_to_London">Back to London</span></h3>
+<p>The four of them ruled over Narnia for many years, and grew into adults. The land prospered under them, and the time of their rule became known as the <a href="/wiki/Golden_Age" title="Golden Age" class="mw-redirect">Golden Age</a> of Narnia. But one day, as they were hunting a <a href="/wiki/White_Stag" title="White Stag">White Stag</a> in the woods, they came across a lamppost, and soon they were tumbling back out of the wardrobe in the back room of the Professor's house.
+</p>
+<h2><span class="mw-headline" id="Adaptations"> Adaptations </span></h2>
+<p><i>The Lion, the Witch, and the Wardrobe</i> has been made into the following films for theater and television: -
+</p>
+<ul><li>1979: <a href="/wiki/The_Lion,_the_Witch,_and_the_Wardrobe_(Animated)" title="The Lion, the Witch, and the Wardrobe (Animated)" class="mw-redirect">The Lion, the Witch, and the Wardrobe (Animated)</a>
+</li><li>1988: <a href="/wiki/The_Lion,_the_Witch,_and_the_Wardrobe_(BBC)" title="The Lion, the Witch, and the Wardrobe (BBC)" class="mw-redirect">The Lion, the Witch, and the Wardrobe (BBC)</a>
+</li><li>2005: <a href="/wiki/The_Lion,_the_Witch,_and_the_Wardrobe_(Disney_movie)" title="The Lion, the Witch, and the Wardrobe (Disney movie)" class="mw-redirect">The Lion, the Witch, and the Wardrobe (Disney movie)</a>
+</li></ul>
+<p>It has also been produced in audio format: -
+</p>
+<ul><li>1998: <a href="/wiki/The_Lion,_the_Witch,_and_the_Wardrobe_(Focus_on_the_Family_Radio_Theatre)" title="The Lion, the Witch, and the Wardrobe (Focus on the Family Radio Theatre)" class="mw-redirect">The Lion, the Witch, and the Wardrobe (Focus on the Family Radio Theatre)</a>
+</li><li> Harper Audio audiobook read by <a  class="external text exitstitial" href="http://en.wikipedia.org/wiki/Michael_York_%28actor%29">Michael York</a>
+</li></ul>
+<h2><span class="mw-headline" id="Locations">Locations</span></h2>
+<ul><li><a href="/wiki/London" title="London">London</a> countryside
+</li><li><a href="/wiki/Digory_Kirke%27s_House" title="Digory Kirke&#39;s House">The Professor's House</a>
+</li><li><a href="/wiki/Wardrobe" title="Wardrobe">Wardrobe</a>
+</li><li><a href="/wiki/Lamp-post" title="Lamp-post">Lamp post</a>
+</li><li><a href="/wiki/Narnia" title="Narnia">Narnia</a>
+</li><li><a href="/wiki/Tumnus%27_Cave" title="Tumnus&#39; Cave">Tumnus' Cave</a>
+</li><li><a href="/wiki/Cair_Paravel" title="Cair Paravel">Cair Paravel</a>
+</li><li><a href="/wiki/Beaver%27s_Dam" title="Beaver&#39;s Dam">Beaver's Dam</a>
+</li><li><a href="/wiki/Fords_of_Beruna" title="Fords of Beruna">Fords of Beruna</a>
+</li><li><a href="/wiki/Aslan%27s_Camp" title="Aslan&#39;s Camp" class="mw-redirect">Aslan's Camp</a>
+</li><li><a href="/wiki/The_Stone_Table" title="The Stone Table" class="mw-redirect">The Stone Table</a>
+</li><li><a href="/wiki/White_Witch%27s_camp" title="White Witch&#39;s camp">White Witch's camp</a>
+</li><li>Frozen Lake
+</li><li><a href="/wiki/Archenland" title="Archenland">Archenland</a>
+</li><li><a href="/wiki/Ettinsmoor" title="Ettinsmoor">Ettinsmoor</a>
+</li></ul>
+<h2><span class="mw-headline" id="Characters">Characters </span></h2>
+<ul><li><a href="/wiki/Aslan" title="Aslan">Aslan</a>
+</li><li><a href="/wiki/Father_Christmas" title="Father Christmas">Father Christmas</a>
+</li><li><a href="/wiki/He-Beaver" title="He-Beaver" class="mw-redirect">Mr</a> and <a href="/wiki/She-Beaver" title="She-Beaver" class="mw-redirect">Mrs.</a> <a href="/wiki/Beavers" title="Beavers" class="mw-redirect">Beaver</a>
+</li><li><a href="/wiki/Macready" title="Macready">Mrs. Macready</a>
+</li><li><a href="/wiki/Maugrim" title="Maugrim">Maugrim</a>
+</li><li><a href="/wiki/Peter_Pevensie" title="Peter Pevensie">Peter Pevensie</a>
+</li><li><a href="/wiki/Susan_Pevensie" title="Susan Pevensie">Susan Pevensie</a>
+</li><li><a href="/wiki/Edmund_Pevensie" title="Edmund Pevensie">Edmund Pevensie</a>
+</li><li><a href="/wiki/Lucy_Pevensie" title="Lucy Pevensie">Lucy Pevensie</a>
+</li><li><a href="/wiki/Digory_Kirke" title="Digory Kirke">The Professor</a>
+</li><li>The Robin
+</li><li>The <a href="/wiki/Giant" title="Giant">Giant</a>, <a href="/wiki/Rumblebuffin" title="Rumblebuffin">Rumblebuffin</a>
+</li><li><a href="/wiki/Tumnus" title="Tumnus">Mr. Tumnus</a>
+</li><li><a href="/wiki/The_White_Witch" title="The White Witch" class="mw-redirect">The White Witch</a>
+</li><li><a href="/wiki/Ginarrbrik" title="Ginarrbrik">Witch's Dwarf</a>
+</li></ul>
+<h2><span class="mw-headline" id="Behind_the_Scenes">Behind the Scenes</span></h2>
+<h3><span class="mw-headline" id="Dedication">Dedication</span></h3>
+<p>The book is dedicated to C.S. Lewis's goddaughter, <a href="/wiki/Lucy_Barfield" title="Lucy Barfield">Lucy Barfield</a>, a remarkable young girl who Lewis both based and named the fictional Lucy after.
+</p><p>In May 1949, Lewis sent her the completed manuscript of <i>The Lion, the Witch and the Wardrobe</i>, with a letter.
+</p><p>In October 1950, when the book was published, this letter became its dedication: -
+</p>
+<dl><dd><i>MY DEAR LUCY,</i>
+</dd></dl>
+<dl><dd><i>I wrote this story for you, but when I began it I had not realized that girls grow quicker than books. As a result you are already too old for fairy tales, and by the time it is printed and bound you will be older still. But some day you will be old enough to start reading fairy tales again. You can then take it down from some upper shelf, dust it, and tell me what you think of it. I shall probably be too deaf to hear, and too old to understand, a word you say, but I shall still be</i>
+</dd></dl>
+<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><i>your affectionate Godfather,</i>
+</dd></dl>
+</dd></dl>
+</dd></dl>
+</dd></dl>
+</dd></dl>
+<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><i>C. S. Lewis</i>
+</dd></dl>
+</dd></dl>
+</dd></dl>
+</dd></dl>
+</dd></dl>
+</dd></dl>
+</dd></dl>
+</dd></dl>
+</dd></dl>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 256/300000
+Postâexpand include size: 7935/2097152 bytes
+Template argument size: 1855/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key narnia:pcache:idhash:20-0!*!0!!en!2!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://narnia.wikia.com/wiki/The_Lion,_the_Witch_and_the_Wardrobe_(book)?oldid=42459">http://narnia.wikia.com/wiki/The_Lion,_the_Witch_and_the_Wardrobe_(book)?oldid=42459</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Articles that need proper formatting" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Articles_that_need_proper_formatting" title="Category:Articles that need proper formatting">Articles that need proper formatting</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Books" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Books" title="Category:Books">Books</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="The Lion, the Witch, and the Wardrobe" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:The_Lion,_the_Witch,_and_the_Wardrobe" title="Category:The Lion, the Witch, and the Wardrobe">The Lion, the Witch, and the Wardrobe</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+						<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+				<script>
+    
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write(
+        '<div id="monetization-adunit-above_footer" class="monetization-module adunit hide-for-edit above-footer" ' +
+        'data-mon-type="adunit" data-mon-slot="above_footer"><div class="ad-header">Advertisement</div><div>' +
+        '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">' +
+        '</scr' + 'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" ' +
+        'data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_af_bt_ic_fsm_ffa mon_hub_book mon_sl_af" ' +
+        'data-ad-type="text" ' + 'data-font-size="medium" ' +'data-font-face="arial" ' +
+        ' data-color-bg="#a5b5c6" data-color-border="#a5b5c6" data-color-link="#0148c2" data-color-url="#0148c2" data-color-text="#3a3a3a" ></ins>' +
+        '<script>(adsbygoogle = window.adsbygoogle || []).push({});</scr' + 'ipt></div></div>'
+    );
+}
+</script>				<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+					<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+					<div id="WikiaRail" class="WikiaRail">
+
+	<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+			<div class="loading"></div>
+	
+</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<!-- BEGIN SLOTNAME: LEFT_SKYSCRAPER_3 -->
+<div id="LEFT_SKYSCRAPER_3" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["LEFT_SKYSCRAPER_3"]);
+</script>
+</div>
+<!-- END SLOTNAME: LEFT_SKYSCRAPER_3 -->
+	
+			<section>
+	<div class="header-container">
+		<h1>Around Wikia's network</h1>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/822" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer row">
+	<nav>
+		<div class="branding vertical-books black">
+			<a class="wikia-logo" href="http://bookshub.wikia.com/wiki/Books_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>Books</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["GPT_FLUSH"]);
+</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: INVISIBLE_1 -->
+<div id="INVISIBLE_1" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_1"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_1 -->
+<!-- BEGIN SLOTNAME: INVISIBLE_2 -->
+<div id="INVISIBLE_2" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_2"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_2 -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"narnia","kv_article_id":20,"kv_wpage":"The_Lion,_the_Witch_and_the_Wardrobe_(book)","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"egnre=action;egnre=family;egnre=fantasy;media=movie;mom=mom;women=women-mom","kv_domain":"narnia.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://narnia.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis%26ve%3D1/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Lion,_the_Witch_and_the_Wardrobe_(book)","wgTitle":"The Lion, the Witch and the Wardrobe (book)","wgCurRevisionId":42459,"wgArticleId":20,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles that need proper formatting","Books","The Lion, the Witch, and the Wardrobe"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"The_Lion,_the_Witch_and_the_Wardrobe_(book)","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"true","background-image":"http://img2.wikia.nocookie.net/__cb22/narnia/images/5/50/Wiki-background","background-image-height":"1065","background-image-width":"1915","color-body":"#f4f9fc","color-body-middle":"#a5b5c5","color-buttons":"#4f4341","color-header":"#4f4341","color-links":"#0148c2","color-page":"#a5b5c6","page-opacity":"100","widthType":2,"wordmark-font":"imfell"},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"The Chronicles of Narnia Wiki","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1424388494/common","wgSitename":"The Chronicles of Narnia Wiki","wgMWrevId":false,"wgRevisionId":42459,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=The_Lion,_the_Witch_and_the_Wardrobe_(book)","fbReturnToTitle":"The_Lion,_the_Witch_and_the_Wardrobe_(book)","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"http://slot1.images.wikia.nocookie.net/__cb1424388494/common/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdWvwETAAAAACS_0luypJPV7aiQkpLzoZN26YAf","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":true,"verticalName":"Entertainment","WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"The Lion, the Witch and the Wardrobe (book)"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"enablerichtext":1,"editor":2,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"founderemails-joins-822":0,"founderemails-edits-822":0,"founderemails-views-digest-822":0,"founderemails-complete-digest-822":0,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501":false,"searchNs502":false,"searchNs503":
+false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: narnia:resourceloader:filter:minify-js:7:6c9e7fd448eb808f1882c224f0c2ffda */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikiaViewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.wikiaInYourLang"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1424388494/groups/-/oasis_shared_core_js,adengine2_js,adengine2_late_js,oasis_shared_js,oasis_anon_with_new_global_nav_js,liftium_ads_js,liftium_ads_extra_js,adengine2_oasis_ads_js,adengine2_interactive_maps_js,toc_js,qualaroo_js,global_footer_js,spotlights_js,relatedpages_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CImagePlaceholder%2COasis-generic&amp;uselang=en&amp;cb=1424388494.0.76268"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1424388494/group/-/monetization_module_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1424388494/group/-/global_navigation_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://narnia.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://narnia.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/site"></script>
+<script type='text/javascript'>
+var agllGroup = "Entertainment";
+!function(){
+var a=document.createElement("script");a.type="text/javascript";a.async=!0;var b=["http://a98dc034c7781a941eba-bac02262202668bbe918ea9fb5289cd2.r58.cf2.rackcdn.com","https://52e473ee9859b886964f-bac02262202668bbe918ea9fb5289cd2.ssl.cf2.rackcdn.com"];a.src=("https:"==document.location.protocol?b[1]:b[0])+"/c59hk50tip94.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(a,c)
+}();</script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationHubsMenu.scss","extensions\/wikia\/UserLogin\/css\/UserLoginDropdown.globalNavigation.scss","extensions\/wikia\/WallNotifications\/styles\/WallNotifications.globalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationOasis.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearchOasis.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

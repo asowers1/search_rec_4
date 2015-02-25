@@ -1,0 +1,17 @@
+Server: nginx
+Vary: Accept-Encoding,Cookie
+X-Cacheable: SHORT
+Cache-Control: max-age=600, must-revalidate
+X-Cache: MISS
+Content-Type: text/html; charset=UTF-8
+X-Cache-Group: normal
+Date: Sat, 21 Feb 2015 01:22:54 GMT
+X-Pingback: http://www.rollingstones.com/xmlrpc.php
+Keep-Alive: timeout=20
+Link: <http://www.rollingstones.com/?p=49913>; rel=shortlink
+X-Type: default
+Transfer-Encoding: chunked
+Connection: close
+X-Pass-Why: 
+Set-Cookie: X-Mapping-fjhppofk=9DEA21C11751EEC26E55418B78C065D4; path=/
+

@@ -1,0 +1,13 @@
+Content-Type: text/html; charset=UTF-8
+Content-Length: 77042
+Connection: close
+Age: 0
+Cache-Control: max-age=600
+Date: Sat, 21 Feb 2015 00:23:36 GMT
+Last-Modified: Sat, 21 Feb 2015 00:23:36 GMT
+Server: nginx
+Vary: Accept-Encoding,CloudFront-Is-Mobile-Viewer,CloudFront-Is-Desktop-Viewer,CloudFront-Is-Tablet-Viewer
+X-Cache: Miss from cloudfront
+Via: 1.1 a5a1dc601d839c2c32cfd8342147119d.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: VyKEnUJO8P5Hrp7T0tAaUwxsZ-GmpbrRTCo3sVBqyVQa_zivzFFd2g==
+

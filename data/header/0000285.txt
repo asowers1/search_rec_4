@@ -1,0 +1,15 @@
+Server: Apache/2.2.23 (Unix) mod_ssl/2.2.23 OpenSSL/0.9.8x-fips PHP/5.3.16
+Content-Length: 60893
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: PHP/5.3.16
+Vary: Accept-Encoding
+X-PageCached: false
+X-Cache-Term: short
+Link: <http://www.thebacklot.com/?p=44655>; rel=shortlink
+X-Pingback: http://www.thebacklot.com/xmlrpc.php
+Pragma: no-cache
+Cache-Control: max-age=180
+Expires: Sat, 21 Feb 2015 00:28:29 GMT
+Date: Sat, 21 Feb 2015 00:25:29 GMT
+Connection: close
+

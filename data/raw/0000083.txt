@@ -1,0 +1,970 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Anne of Green Gables - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf16" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Anne_of_Green_Gables" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Anne_of_Green_Gables&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Anne_of_Green_Gables&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Anne_of_Green_Gables" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Anne_of_Green_Gables" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Anne_of_Green_Gables","wgTitle":"Anne of Green Gables","wgCurRevisionId":646571528,"wgRevisionId":646571528,"wgArticleId":58406,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles that link to Wikisource","All articles with unsourced statements","Articles with unsourced statements from November 2011","Commons category with local link same as on Wikidata","1908 novels","Anne of Green Gables books","New Canadian Library","Novels by Lucy Maud Montgomery","Works about adoption","Novels about orphans","Canadian children's novels","Novels set in Prince Edward Island","Debut novels"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Anne_of_Green_Gables","wgRelevantArticleId":58406,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"830":true,"831":true,"447":true,"2600":false,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q565911"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf16/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Anne_of_Green_Gables skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><i>Anne of Green Gables</i></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about the novel.  For other uses, see <a href="/wiki/Anne_of_Green_Gables_(disambiguation)" title="Anne of Green Gables (disambiguation)" class="mw-disambig">Anne of Green Gables (disambiguation)</a>.</div>
+<table class="infobox vcard" style="width:22em">
+<caption style="font-style:italic;padding-bottom:0.2em;">Anne of Green Gables</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Montgomery_Anne_of_Green_Gables.jpg" class="image"><img alt="Montgomery Anne of Green Gables.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Montgomery_Anne_of_Green_Gables.jpg/220px-Montgomery_Anne_of_Green_Gables.jpg" width="220" height="338" srcset="//upload.wikimedia.org/wikipedia/commons/8/8b/Montgomery_Anne_of_Green_Gables.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/8/8b/Montgomery_Anne_of_Green_Gables.jpg 2x" data-file-width="300" data-file-height="461" /></a>
+<div><i>Anne of Green Gables</i> first edition cover.</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Author</th>
+<td><a href="/wiki/Lucy_Maud_Montgomery" title="Lucy Maud Montgomery">Lucy Maud Montgomery</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Illustrator</th>
+<td>M. A. and W. A. J. Claus</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Country</th>
+<td>written and set in Canada. Published in United States<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Language</th>
+<td>English</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Series</th>
+<td>Anne of Green Gables</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Genre</th>
+<td>Novel</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Published</th>
+<td>June 1908 (<a href="/w/index.php?title=L.C._Page_%26_Co.&amp;action=edit&amp;redlink=1" class="new" title="L.C. Page &amp; Co. (page does not exist)">L.C. Page &amp; Co.</a>)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Followed&#160;by</th>
+<td><i><a href="/wiki/Anne_of_Avonlea" title="Anne of Avonlea">Anne of Avonlea</a></i></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Text</th>
+<td><i><a href="//en.wikisource.org/wiki/Anne_of_Green_Gables" class="extiw" title="s:Anne of Green Gables">Anne of Green Gables</a></i> at <a href="/wiki/Wikisource" title="Wikisource">Wikisource</a></td>
+</tr>
+</table>
+<p><i><b>Anne of Green Gables</b></i> is a 1908 novel by Canadian author <a href="/wiki/Lucy_Maud_Montgomery" title="Lucy Maud Montgomery">Lucy Maud Montgomery</a>. Written for all ages, it has been considered a children's novel since the mid-twentieth century. It recounts the adventures of <a href="/wiki/Anne_Shirley" title="Anne Shirley">Anne Shirley</a>, an 11-year-old orphan girl who is mistakenly sent to Matthew and Marilla Cuthbert, a middle-aged brother and sister who had intended to adopt a boy to help them on their farm in <a href="/wiki/Prince_Edward_Island" title="Prince Edward Island">Prince Edward Island</a>. The novel recounts how Anne makes her way with the Cuthberts, in school, and within the town.</p>
+<p>Since publication, <i>Anne of Green Gables</i> has sold more than 50 million copies and has been translated into 20 languages.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> Numerous sequels were written by Montgomery, and since her death another sequel has been published, as well as an authorized prequel. The original book is taught to students around the world.</p>
+<p>It has been adapted as film, made-for-television movies, and animated and live-action television series. Anne Shirley was played by <a href="/wiki/Megan_Follows" title="Megan Follows">Megan Follows</a> in the 1985 Canadian produced movie. Plays and musicals have also been created, with productions annually in Canada since 1964 of the first musical production, which has toured in Canada, the United States, Europe and Japan. Others have been produced in Canada and the United States.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Plot_summary"><span class="tocnumber">2</span> <span class="toctext">Plot summary</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Characters"><span class="tocnumber">3</span> <span class="toctext">Characters</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Related_works"><span class="tocnumber">4</span> <span class="toctext">Related works</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Tourism_and_merchandising"><span class="tocnumber">5</span> <span class="toctext">Tourism and merchandising</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Legacy_and_honors"><span class="tocnumber">6</span> <span class="toctext">Legacy and honors</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Representation_in_other_media"><span class="tocnumber">7</span> <span class="toctext">Representation in other media</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Film"><span class="tocnumber">7.1</span> <span class="toctext">Film</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Television_movies"><span class="tocnumber">7.2</span> <span class="toctext">Television movies</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Television_series"><span class="tocnumber">7.3</span> <span class="toctext">Television series</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Stage"><span class="tocnumber">7.4</span> <span class="toctext">Stage</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Parodies"><span class="tocnumber">8</span> <span class="toctext">Parodies</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Further_reading"><span class="tocnumber">10</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_of_Green_Gables&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In writing the novel, Montgomery was inspired by notes she had made as a young girl, about a couple who were mistakenly sent an orphan girl instead of the boy they had requested yet decided to keep her. She drew upon her own childhood experiences in rural Prince Edward Island. Montgomery used a photograph of <a href="/wiki/Evelyn_Nesbit" title="Evelyn Nesbit">Evelyn Nesbit</a> as the model for the face of Anne Shirley, which she had clipped from New Yorkâs <i><a href="/wiki/Metropolitan_Magazine_(New_York)" title="Metropolitan Magazine (New York)">Metropolitan Magazine</a></i> and put on the wall of her bedroom.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Montgomery was also inspired by the "formula Ann" orphan stories which were popular at the time and distinguished her character by spelling her name as "Anne." She based other characters such as <a href="/wiki/Gilbert_Blythe" title="Gilbert Blythe">Gilbert Blythe</a> in part on people she knew. She said that she wrote the novel in the twilight of the day, while sitting at her window and overlooking the fields of <a href="/wiki/Cavendish,_Prince_Edward_Island" title="Cavendish, Prince Edward Island">Cavendish</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Plot_summary">Plot summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_of_Green_Gables&amp;action=edit&amp;section=2" title="Edit section: Plot summary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Anne, a young orphan from the fictional community of Bolingbroke, <a href="/wiki/Nova_Scotia" title="Nova Scotia">Nova Scotia</a> (based upon the real community of <a href="/wiki/New_London,_Prince_Edward_Island" title="New London, Prince Edward Island">New London</a>), is sent to Prince Edward Island after a childhood spent in strangers' homes and orphanages. Marilla and Matthew Cuthbert, siblings in their fifties and sixties, had decided to adopt a boy from the orphanage to help Matthew run their farm. They live at <a href="/wiki/Green_Gables" title="Green Gables">Green Gables</a>, their <a href="/wiki/Avonlea_(Anne_of_Green_Gables)" title="Avonlea (Anne of Green Gables)">Avonlea</a> farmhouse on Prince Edward Island. Through a misunderstanding, the orphanage sends Anne Shirley.</p>
+<p>Anne is described as bright and quick, eager to please, talkative, and extremely imaginative. She has a pale face with <a href="/wiki/Freckles" title="Freckles" class="mw-redirect">freckles</a> and usually braids her <a href="/wiki/Red_hair" title="Red hair">red hair</a>. Marilla at first says the girl must return to the orphanage, but after a few days she decides to let her stay. Marilla feels that she could be a good influence on the girl and had also learned that another disagreeable woman in town might take Anne in instead.</p>
+<p>As a child of imagination, Anne takes much joy in life and adapts quickly, thriving in the close-knit farming village. Her talkativeness initially drives the prim, duty-driven Marilla to distraction, although Matthew falls for her charm immediately. Anne says that they are "kindred spirits."</p>
+<p>The book recounts Anne's adventures in making a home: the country school where she quickly excels in her studies; her friendship with Diana Barry (her best or "bosom friend" as Anne fondly calls her); her budding literary ambitions; and her rivalry with classmate <a href="/wiki/Gilbert_Blythe" title="Gilbert Blythe">Gilbert Blythe</a>, who teases her about her red hair. For that he earns her instant hatred, although he apologizes many times. As time passes, Anne realizes she no longer hates Gilbert but cannot bring herself to speak to him.</p>
+<p>The book also follows Anne's adventures in quiet, old-fashioned Avonlea. Episodes include her play time with friends (Diana, Jane Andrews and Ruby Gillis), her run-ins with the unpleasant Pye sisters (Gertie and Josie), and domestic mishaps such as dyeing her hair green (while intending to dye it black) or accidentally getting Diana drunk (by giving her what she thinks is raspberry cordial but is currant wine).</p>
+<p>At fifteen, Anne goes to Queen's Academy to earn a teaching license, along with Gilbert, Ruby, Josie, Jane and several other students. She obtains her license in one year instead of the usual two and wins the Avery Scholarship for the top student in English. Her attainment of this scholarship would allow her to pursue a Bachelor of Arts (B.A.) degree at the fictional Redmond College (based on the real <a href="/wiki/Dalhousie_University" title="Dalhousie University">Dalhousie University</a>) on the mainland in Nova Scotia.</p>
+<p>Near the end of the book, Matthew dies of a heart attack after learning that all of his and Marilla's money has been lost in a <a href="/wiki/Bank_failure" title="Bank failure">bank failure</a>. Out of devotion to Marilla and Green Gables, Anne gives up the Avery Scholarship to stay at home and help Marilla, whose eyesight is diminishing. She plans to teach at the Carmody school, the nearest school available, and return to Green Gables on weekends. In an act of friendship, Gilbert Blythe gives up his teaching position at the Avonlea School to work at White Sands School instead, knowing that Anne wants to stay close to Marilla after Matthew's death. After this kind act, Anne and Gilbert's friendship is cemented, and Anne looks forward to the next "bend in the road."</p>
+<h2><span class="mw-headline" id="Characters">Characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_of_Green_Gables&amp;action=edit&amp;section=3" title="Edit section: Characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b><a href="/wiki/Anne_Shirley" title="Anne Shirley">Anne Shirley</a></b>âAn imaginative, talkative, red-headed orphan who comes to live with Matthew Cuthbert and Marilla Cuthbert, who are siblings.</p>
+<p><b>Marilla Cuthbert</b>âMatthew's sister, she is an austere woman who tries to subdue Anne's imaginative, unusual ways. Though she is conservative in her rules, she does love Anne and has the glimmerings of a sense of humour and a hidden soft side.</p>
+<p><b>Matthew Cuthbert</b>âMarilla's brother, a shy, awkward man who takes a liking to Anne from the start. The two become fast friends. He is a good listener. Because Marilla has primary responsibility for rearing the girl, he has no qualms about "spoiling" her and indulging her in pretty clothes and other frivolities.</p>
+<p><b>Diana Barry</b>âAnne's bosom friend and kindred spirit. Anne and Diana become best friends from the moment they meet. She is the only girl of Anne's age who lives close to Green Gables. Anne admires Diana for being pretty and for her amiable disposition. Diana lacks Anne's powerful imagination but is a loyal friend.</p>
+<p><b><a href="/wiki/Gilbert_Blythe" title="Gilbert Blythe">Gilbert Blythe</a></b>âA handsome classmate who tried to get Anne's attention by pulling her hair and calling her "Carrots" (unaware of her sensitivity about her red hair). Anne reacted by refusing to have anything to do with him for the next few years. Although Gilbert repeatedly apologized, Anne rebuffed him for years. However, Gilbert never abandoned his quest for her friendship (and eventually, love). Anne had unknowingly forgiven him when he had saved her from drowning, but had only just let her pride down when he gave up his job as teacher at the Avonlea school for her, to enable her to live at Green Gables with Marilla.</p>
+<p><b>Mrs. Rachel Lynde</b>âA neighbour of Matthew and Marilla, and the nosiest person in town. She soon warms to the freckle-faced orphan. She is industrious and helpful, and does work for the church. She is married and has raised ten children, but her husband, Thomas Lynde, is mentioned briefly and never speaks.</p>
+<p><b>Miss Muriel Stacy</b>âAnne's energetic new teacher. Her warm and sympathetic nature appeals to her students, but Avonlea's conservative parents disapprove of her liberal teaching methods. She forms a special relationship with Anne, who views her as a mentor. Miss Stacy encourages Anne to develop her character and intellect, and helps prepare her for the entrance exam at Queen's Academy, where she finishes in a tie for first with Gilbert Blythe.</p>
+<p><b>Josie Pye</b>âA classmate generally disliked by the other girls (as are her siblings). Josie is vain, dishonest and jealous of Anne's popularity.</p>
+<p><b>Jane Andrews</b>âOne of Anne's friends from school, she is plain and sensible. She does well enough academically to join Anne's class at Queen's.</p>
+<p><b>Ruby Gillis</b>âAnother of Anne's friends. Having several "grown up" sisters, Ruby loves to share her knowledge of beaus with her friends. Ruby is portrayed as traditionally beautiful with long golden hair, and she suffers from consumption/<a href="/wiki/Tuberculosis" title="Tuberculosis">tuberculosis</a>.</p>
+<p><b>Reverend and Mrs. Allan</b>âThe minister and his wife also befriend Anne, with Mrs. Allan becoming particularly close. She is described as pretty.</p>
+<p><b>Minnie May Barry</b>âDiana's baby sister, whose life is saved by Anne when she comes down with <a href="/wiki/Croup" title="Croup">croup</a>.</p>
+<p><b>Mr. &amp; Mrs. Barry</b>âDiana's parents. Mr. Barry farms, and, near the end of the book, offers to rent some tracts to help out Anne and Marilla, after Matthew's passing. Mrs. Barry has a severe personality, expecting her children to follow strict rules. After Anne accidentally gets Diana drunk, Mrs. Barry rejects the girl, forbidding Diana to have anything to do with Anne... until after she saves Minnie May, of course.</p>
+<p><b>Miss Josephine Barry</b>âDiana's aunt. Initially portrayed in a negative light, she is quickly charmed by Anne's imagination, and eventually invites her and Diana to tea. She refers to Anne as 'the Anne-girl'and even sends Anne beaded slippers as a Christmas present.</p>
+<p><b>Mr. Phillips</b>âAnne's first teacher at Avonlea, whom she despises (he spelled Anne's name without an 'E', among other things). She refuses to attend school for a long time, after Mr. Phillips punished only her among 12 pupils who arrived late. He is described as lacking discipline, and "courts" one of his pupils openly... (less frowned upon then as opposed to more contemporary times).</p>
+<h2><span class="mw-headline" id="Related_works">Related works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_of_Green_Gables&amp;action=edit&amp;section=4" title="Edit section: Related works">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Based on the popularity of her first book, Montgomery wrote a series of sequels to continue the story of her heroine Anne Shirley. They are listed chronologically below by Anne's age in each of the novels.</p>
+<table style="border:1px; border:thin solid white; background:#f7f8ff; text-align:center;">
+<caption><i>Lucy Maud Montgomery's books on Anne Shirley:</i></caption>
+<tr style="background:#e6e9ff;">
+<td>#</td>
+<td>Book</td>
+<td>Date published</td>
+<td>Anne Shirley's age</td>
+</tr>
+<tr>
+<td>1</td>
+<td align="left"><i>Anne of Green Gables</i></td>
+<td>1908</td>
+<td>11â16</td>
+</tr>
+<tr>
+<td>2</td>
+<td align="left"><i><a href="/wiki/Anne_of_Avonlea" title="Anne of Avonlea">Anne of Avonlea</a></i></td>
+<td>1909</td>
+<td>16â18</td>
+</tr>
+<tr>
+<td>3</td>
+<td align="left"><i><a href="/wiki/Anne_of_the_Island" title="Anne of the Island">Anne of the Island</a></i></td>
+<td>1915</td>
+<td>18â22</td>
+</tr>
+<tr>
+<td>4</td>
+<td align="left"><i><a href="/wiki/Anne_of_Windy_Poplars" title="Anne of Windy Poplars">Anne of Windy Poplars</a></i> (US &amp; Canada)<br />
+<i>Anne of Windy Willows</i> (Other)</td>
+<td>1936</td>
+<td>22â25</td>
+</tr>
+<tr>
+<td>5</td>
+<td align="left"><i><a href="/wiki/Anne%27s_House_of_Dreams" title="Anne's House of Dreams">Anne's House of Dreams</a></i></td>
+<td>1917</td>
+<td>25â27</td>
+</tr>
+<tr>
+<td>6</td>
+<td align="left"><i><a href="/wiki/Anne_of_Ingleside" title="Anne of Ingleside">Anne of Ingleside</a></i></td>
+<td>1939</td>
+<td>34â40</td>
+</tr>
+<tr>
+<td colspan="4" style="background:#fff;">&#160;</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center; background:#fff;"><i>The following books focus on Anne's children, or on other family friends. Anne appears in these volumes, but plays a lesser part.</i></td>
+</tr>
+<tr style="text-align:center; background:#e6e9ff;">
+<td>#</td>
+<td>Book</td>
+<td>Date published</td>
+<td>Anne Shirley's age</td>
+</tr>
+<tr>
+<td>7</td>
+<td align="left"><i><a href="/wiki/Rainbow_Valley" title="Rainbow Valley">Rainbow Valley</a></i></td>
+<td>1919</td>
+<td>41â43</td>
+</tr>
+<tr>
+<td>8</td>
+<td align="left"><i><a href="/wiki/Rilla_of_Ingleside" title="Rilla of Ingleside">Rilla of Ingleside</a></i></td>
+<td>1921</td>
+<td>49â53</td>
+</tr>
+<tr>
+<td>9</td>
+<td align="left"><i><a href="/wiki/The_Blythes_Are_Quoted" title="The Blythes Are Quoted">The Blythes Are Quoted</a></i></td>
+<td>2009</td>
+<td>40â75</td>
+</tr>
+<tr>
+<td colspan="4" style="background:#fff;">&#160;</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center; background:#fff;"><i>Anne Shirley features in one story (and is referenced in other stories) in each of the following collections:</i></td>
+</tr>
+<tr style="text-align:center; background:#e6e9ff;">
+<td>#</td>
+<td>Book</td>
+<td>Date published</td>
+<td>Anne Shirley's age</td>
+</tr>
+<tr>
+<td>â</td>
+<td align="left"><i><a href="/wiki/Chronicles_of_Avonlea" title="Chronicles of Avonlea">Chronicles of Avonlea</a></i></td>
+<td>1912</td>
+<td>approx. 20</td>
+</tr>
+<tr>
+<td>â</td>
+<td align="left"><i><a href="/wiki/Further_Chronicles_of_Avonlea" title="Further Chronicles of Avonlea">Further Chronicles of Avonlea</a></i></td>
+<td>1920</td>
+<td>approx. 20</td>
+</tr>
+</table>
+<p>The prequel, <i><a href="/wiki/Before_Green_Gables" title="Before Green Gables">Before Green Gables</a></i> (2008), was written by <a href="/wiki/Budge_Wilson" title="Budge Wilson">Budge Wilson</a> with authorization of heirs of L. M. Montgomery.</p>
+<h2><span class="mw-headline" id="Tourism_and_merchandising">Tourism and merchandising</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_of_Green_Gables&amp;action=edit&amp;section=5" title="Edit section: Tourism and merchandising">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Day256eanneq.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Day256eanneq.JPG/220px-Day256eanneq.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Day256eanneq.JPG/330px-Day256eanneq.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Day256eanneq.JPG/440px-Day256eanneq.JPG 2x" data-file-width="1280" data-file-height="960" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Day256eanneq.JPG" class="internal" title="Enlarge"></a></div>
+The <i><a href="/wiki/Green_Gables" title="Green Gables">Green Gables</a></i> farmhouse located in <a href="/wiki/Cavendish,_Prince_Edward_Island" title="Cavendish, Prince Edward Island">Cavendish</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Day256eannej.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/43/Day256eannej.JPG/220px-Day256eannej.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/43/Day256eannej.JPG/330px-Day256eannej.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/43/Day256eannej.JPG/440px-Day256eannej.JPG 2x" data-file-width="1280" data-file-height="960" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Day256eannej.JPG" class="internal" title="Enlarge"></a></div>
+Sign marking trail through Balsam Hollow</div>
+</div>
+</div>
+<p>The province and tourist facilities have highlighted the local connections to the internationally popular novels. <i>Anne of Green Gables</i> has been translated into 36 languages.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> "Tourism by Anne fans is an important part of the Island economy".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> Merchants offer items based on the novels.</p>
+<p>The <a href="/wiki/Green_Gables" title="Green Gables">Green Gables</a> farmhouse is located in <a href="/wiki/Cavendish,_Prince_Edward_Island" title="Cavendish, Prince Edward Island">Cavendish, Prince Edward Island</a>. Many tourist attractions on <a href="/wiki/Prince_Edward_Island" title="Prince Edward Island">Prince Edward Island</a> have been developed based on the fictional Anne, and provincial licence plates once bore her image.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> Balsam Hollow, the forest that inspired the Haunted Woods and Campbell Pond, the body of water which inspired The Lake of Shining Waters, both described in the book, are located in the vicinity.<sup id="cite_ref-PEI_11-0" class="reference"><a href="#cite_note-PEI-11"><span>[</span>11<span>]</span></a></sup> In addition, the <a href="/wiki/Confederation_Centre_of_the_Arts" title="Confederation Centre of the Arts">Confederation Centre of the Arts</a> has featured the wildly successful <a href="/wiki/Anne_of_Green_Gables_(musical)" title="Anne of Green Gables (musical)" class="mw-redirect">Anne of Green Gables musical</a> on its mainstage every summer for the past 48 years.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>The novel has been very popular in Japan, which is known as <i>Red-haired Anne</i>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> where it has been included in the national school curriculum since 1952. 'Anne' is revered as "an icon" in Japan, especially since 1979 when this story had been broadcast as <a href="/wiki/Anime" title="Anime">anime</a>, <a href="/wiki/Anne_of_Green_Gables_(anime)" title="Anne of Green Gables (anime)">Anne of Green Gables</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> Japanese couples travel to Prince Edward Island to have civil wedding ceremonies on the grounds of the Green Gables farm. Some Japanese girls arrive as tourists with red-dyed hair styled in pigtails, to look like Anne.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> In 2014, <a href="/wiki/Asadora" title="Asadora">Asadora</a> '<a href="/wiki/Hanako_to_Anne" title="Hanako to Anne">Hanako to Anne</a>'(Hanako Muraoka is the first translator in Japan) was broadcast and Anne became popular among old and youngï¼alikeï¼.</p>
+<p>The Avonlea theme park near Cavendish and the Cavendish Figurines shop have trappings so that tourists may dress like the book's characters for photos.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup> Souvenir shops throughout Prince Edward Island offer numerous foods and products based on details of the 'Anne Shirley' novels. Straw hats for girls with sewn-in red braids are common, as are bottles of raspberry cordial soda.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> In the first book, Lucy Maud Montgomery established the cordial soda as the favorite beverage of Anne, who declared: "I just love bright red drinks!"</p>
+<div class="thumb tnone" style="clear:both">
+<div class="thumbinner">
+<div class="overflowbugx" style="overflow: auto;"><a href="/wiki/File:Greengablesfarmpano.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Greengablesfarmpano.jpg/999px-Greengablesfarmpano.jpg" width="999" height="234" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Greengablesfarmpano.jpg/1498px-Greengablesfarmpano.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Greengablesfarmpano.jpg/1997px-Greengablesfarmpano.jpg 2x" data-file-width="3344" data-file-height="784" /></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Greengablesfarmpano.jpg" title="File:Greengablesfarmpano.jpg"></a></div>
+Panorama of Green Gable farmhouse and grounds</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Legacy_and_honors">Legacy and honors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_of_Green_Gables&amp;action=edit&amp;section=6" title="Edit section: Legacy and honors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Bala%27s_Museum" title="Bala's Museum">Bala's Museum</a>, located in <a href="/wiki/Bala,_Ontario" title="Bala, Ontario">Bala, Ontario</a>, Canada, is dedicated to Lucy M. Montgomery information and heritage. The house museum is located in the former home of <a href="/w/index.php?title=Fanny_Pike&amp;action=edit&amp;redlink=1" class="new" title="Fanny Pike (page does not exist)">Fanny Pike</a>, where Montgomery and her family stayed for a vacation in 1922. She based her novel <i><a href="/wiki/The_Blue_Castle" title="The Blue Castle">The Blue Castle</a></i> on the region, changing the town's name to Deerwood. This was the only book she wrote that was set in other than <a href="/wiki/Atlantic_Canada" title="Atlantic Canada">Atlantic Canada</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2011)">citation needed</span></a></i>]</sup></li>
+</ul>
+<ul>
+<li>On May 15, 1975 Canada Post issued 'Lucy Maud Montgomery, Anne of Green Gables' designed by Peter Swan and typographed by Bernard N.J. Reilander. The 8Â¢ stamps are perforated 13 and were printed by Ashton-Potter Limited.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>In the UK, <i>Anne of Green Gables</i> was listed at number 41 on the BBC's <a href="/wiki/The_Big_Read" title="The Big Read">The Big Read</a>, a 2003 survey with the goal of finding the "nation's best-loved novel."<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>In 2008 <a href="/wiki/Canada_Post_stamp_releases_(2005-2009)" title="Canada Post stamp releases (2005-2009)" class="mw-redirect">Canada Post</a> issued two postage stamps and a souvenir sheet honouring Anne and the "Green Gables" house.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Representation_in_other_media">Representation in other media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_of_Green_Gables&amp;action=edit&amp;section=7" title="Edit section: Representation in other media">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Film">Film</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_of_Green_Gables&amp;action=edit&amp;section=8" title="Edit section: Film">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>1919: <i><a href="/wiki/Anne_of_Green_Gables_(1919_film)" title="Anne of Green Gables (1919 film)">Anne of Green Gables</a></i> - a <a href="/wiki/Silent_film" title="Silent film">silent film</a> adapted to the screen by <a href="/wiki/Frances_Marion" title="Frances Marion">Frances Marion</a>, it was directed by <a href="/wiki/William_Desmond_Taylor" title="William Desmond Taylor">William Desmond Taylor</a> and starred <a href="/wiki/Mary_Miles_Minter" title="Mary Miles Minter">Mary Miles Minter</a> as Anne. This is considered a <a href="/wiki/Lost_film" title="Lost film">lost film</a>.</li>
+<li>1934: <i><a href="/wiki/Anne_of_Green_Gables_(1934_film)" title="Anne of Green Gables (1934 film)">Anne of Green Gables</a></i> - directed by <a href="/w/index.php?title=George_Nichols_Jr.&amp;action=edit&amp;redlink=1" class="new" title="George Nichols Jr. (page does not exist)">George Nichols Jr.</a>, this black &amp; white "talkie" starred <a href="/wiki/Dawn_Evelyn_Paris" title="Dawn Evelyn Paris" class="mw-redirect">Dawn O'Day</a> as Anne Shirley. After filming, O'Day changed her <a href="/wiki/Stage_name" title="Stage name">screen name</a> to "Anne Shirley".</li>
+<li>1940: <i><a href="/w/index.php?title=Anne_of_Windy_Poplars_(1940_film)&amp;action=edit&amp;redlink=1" class="new" title="Anne of Windy Poplars (1940 film) (page does not exist)">Anne of Windy Poplars</a></i> - directed by <a href="/w/index.php?title=Jack_Hively&amp;action=edit&amp;redlink=1" class="new" title="Jack Hively (page does not exist)">Jack Hively</a>, this black &amp; white "talkie" starred <a href="/wiki/Dawn_Evelyn_Paris" title="Dawn Evelyn Paris" class="mw-redirect">Dawn O'Day</a> as Anne Shirley, now billed as "Anne Shirley".</li>
+</ul>
+<h3><span class="mw-headline" id="Television_movies">Television movies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_of_Green_Gables&amp;action=edit&amp;section=9" title="Edit section: Television movies">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>1956: <i><a href="/wiki/Anne_of_Green_Gables_(1956_film)" title="Anne of Green Gables (1956 film)">Anne of Green Gables</a></i> - made for television, this version was directed by <a href="/wiki/Norman_Campbell" title="Norman Campbell">Norman Campbell</a> and starred <a href="/wiki/Toby_Tarnow" title="Toby Tarnow">Toby Tarnow</a> as Anne. Tarnow performed as the first musical Anne.</li>
+<li>1972: <i><a href="/wiki/Anne_of_Green_Gables_(1972_film)" title="Anne of Green Gables (1972 film)" class="mw-redirect">Anne of Green Gables</a></i> - a made for television 5-part mini-series, this British version was directed by <a href="/w/index.php?title=Joan_Craft&amp;action=edit&amp;redlink=1" class="new" title="Joan Craft (page does not exist)">Joan Craft</a>, with <a href="/wiki/Kim_Braden" title="Kim Braden">Kim Braden</a> in the role of Anne.</li>
+<li>1975: <i><a href="/wiki/Anne_of_Avonlea_(1975_film)" title="Anne of Avonlea (1975 film)">Anne of Avonlea</a></i> - a made for television 4-part mini-series, this British version was directed by <a href="/w/index.php?title=Joan_Craft&amp;action=edit&amp;redlink=1" class="new" title="Joan Craft (page does not exist)">Joan Craft</a> with <a href="/wiki/Kim_Braden" title="Kim Braden">Kim Braden</a> in the role of Anne.</li>
+<li>1985: <i><a href="/wiki/Anne_of_Green_Gables_(1985_film)" title="Anne of Green Gables (1985 film)">Anne of Green Gables</a></i> - a <a href="/wiki/CBC_Television" title="CBC Television">CBC</a> 4-hour television mini series, it was directed by <a href="/wiki/Kevin_Sullivan_(director)" title="Kevin Sullivan (director)" class="mw-redirect">Kevin Sullivan</a> with <a href="/wiki/Megan_Follows" title="Megan Follows">Megan Follows</a> as Anne.</li>
+<li>1987: <i><a href="/wiki/Anne_of_Avonlea_(1987_film)" title="Anne of Avonlea (1987 film)">Anne of Green Gables: The Sequel</a></i>, a sequel to the 1985 miniseries, this aired on the <a href="/wiki/Disney_Channel" title="Disney Channel">Disney Channel</a> as <i>Anne of Avonlea: The Continuing Story of Anne of Green Gables</i>.</li>
+<li>2000: <i><a href="/wiki/Anne_of_Green_Gables:_The_Continuing_Story" title="Anne of Green Gables: The Continuing Story">Anne of Green Gables: The Continuing Story</a></i> was a television miniseries loosely based upon the novels.</li>
+<li>2009: <i><a href="/wiki/Anne_of_Green_Gables:_A_New_Beginning" title="Anne of Green Gables: A New Beginning">Anne of Green Gables: A New Beginning</a></i> is a television miniseries whose script is not based on the novels.</li>
+</ul>
+<h3><span class="mw-headline" id="Television_series">Television series</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_of_Green_Gables&amp;action=edit&amp;section=10" title="Edit section: Television series">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Anne_of_Green_Gables_(anime_series_-_screenshot).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ab/Anne_of_Green_Gables_%28anime_series_-_screenshot%29.jpg/220px-Anne_of_Green_Gables_%28anime_series_-_screenshot%29.jpg" width="220" height="169" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/a/ab/Anne_of_Green_Gables_%28anime_series_-_screenshot%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/a/ab/Anne_of_Green_Gables_%28anime_series_-_screenshot%29.jpg 2x" data-file-width="257" data-file-height="198" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Anne_of_Green_Gables_(anime_series_-_screenshot).jpg" class="internal" title="Enlarge"></a></div>
+Anne as she appeared in the 1979 Japanese anime adaptation of <i>Anne of Green Gables</i>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:7CARRIAG.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/3/30/7CARRIAG.jpg/220px-7CARRIAG.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/3/30/7CARRIAG.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/3/30/7CARRIAG.jpg 2x" data-file-width="300" data-file-height="225" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:7CARRIAG.jpg" class="internal" title="Enlarge"></a></div>
+<i>Anne of Green Gables: The Animated Series</i></div>
+</div>
+</div>
+<ul>
+<li>1952: <i>Anne of Green Gables</i> - a BBC television series starring Carole Lorimer as Anne.</li>
+<li>1979: <i><a href="/wiki/Anne_of_Green_Gables_(anime)" title="Anne of Green Gables (anime)">Akage no An</a></i> ("Red-Haired Anne") - an animated television series, part of <a href="/wiki/Nippon_Animation" title="Nippon Animation">Nippon Animation</a>'s <a href="/wiki/World_Masterpiece_Theater" title="World Masterpiece Theater">World Masterpiece Theater</a>, produced in Japan in 1979, directed by <a href="/wiki/Isao_Takahata" title="Isao Takahata">Isao Takahata</a>.</li>
+<li>1990 - 1996: <i><a href="/wiki/Road_to_Avonlea" title="Road to Avonlea">Road to Avonlea</a></i> - a live-action television series produced by Kevin Sullivan, based upon characters and episodes from several of <a href="/wiki/Lucy_Maud_Montgomery" title="Lucy Maud Montgomery">L.M. Montgomery's</a> books, excluding Anne Shirley. <a href="/wiki/Gilbert_Blythe" title="Gilbert Blythe">Gilbert Blythe</a>, Marilla Cuthbert, and other characters from the <i>Anne</i> books are included. Shown on The Disney Channel in the U.S. under the title <i>Avonlea</i>.</li>
+<li>2000: <i><a href="/wiki/Anne_of_Green_Gables:_The_Animated_Series" title="Anne of Green Gables: The Animated Series">Anne: The Animated Series</a></i> - a <a href="/wiki/Public_Broadcasting_Service" title="Public Broadcasting Service" class="mw-redirect">PBS</a> animated series for older children ages eight to twelve airing on PBS, created by <a href="/wiki/Sullivan_Entertainment" title="Sullivan Entertainment" class="mw-redirect">Sullivan Entertainment Inc.</a>.</li>
+<li>2009: <i><a href="/wiki/Kon%27nichiwa_Anne:_Before_Green_Gables" title="Kon'nichiwa Anne: Before Green Gables">Kon'nichiwa Anne: Before Green Gables</a></i> - part of the <i><a href="/wiki/World_Masterpiece_Theater" title="World Masterpiece Theater">World Masterpiece Theater</a></i>.</li>
+<li>2013+: A 13-part television adaptation of the book by <a href="/wiki/Breakthrough_Films_%26_Television" title="Breakthrough Films &amp; Television">Breakthrough Films &amp; Television</a> is scheduled to begin filming in Canada in 2013.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Stage">Stage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_of_Green_Gables&amp;action=edit&amp;section=11" title="Edit section: Stage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i><a href="/wiki/Anne_of_Green_Gables_-_The_Musical" title="Anne of Green Gables - The Musical" class="mw-redirect">Anne of Green Gables - The Musical</a></i>. This show has been performed annually in the summer since 1964, when the <a href="/wiki/Confederation_Centre_of_the_Arts" title="Confederation Centre of the Arts">Confederation Centre of the Arts</a> opened. Its annual <a href="/wiki/Charlottetown_Festival" title="Charlottetown Festival">Charlottetown Festival</a> features Canada's longest-running main stage musical production, which has had a total audience of more than 2 million. <i>Anne of Green Gables - The Musical</i> was composed by Canadians <a href="/wiki/Don_Harron" title="Don Harron">Don Harron</a> and <a href="/wiki/Norman_Campbell" title="Norman Campbell">Norman Campbell</a>, with lyrics by <a href="/w/index.php?title=Elaine_Campbell&amp;action=edit&amp;redlink=1" class="new" title="Elaine Campbell (page does not exist)">Elaine Campbell</a> and <a href="/wiki/Mavor_Moore" title="Mavor Moore">Mavor Moore</a>. The production has been performed before <a href="/wiki/Elizabeth_II_of_the_United_Kingdom" title="Elizabeth II of the United Kingdom" class="mw-redirect">Queen Elizabeth II</a> and has also toured across Canada, the United States, and Europe. It had a run in <a href="/wiki/London" title="London">London</a>'s <a href="/wiki/West_End_theatre" title="West End theatre">West End</a> in 1969. The Charlottetown Festival production performed at the <a href="/wiki/1970_World%27s_Fair" title="1970 World's Fair" class="mw-redirect">1970 World's Fair</a> in <a href="/wiki/Osaka,_Japan" title="Osaka, Japan" class="mw-redirect">Osaka, Japan</a>. <a href="/wiki/Walter_Learning" title="Walter Learning">Walter Learning</a> directed and organized a successful national tour of the musical in Japan in 1991.</li>
+</ul>
+<ul>
+<li>The Guild in Charlottetown, Prince Edward Island, hosts <i>Anne and Gilbert, The Musical</i>. Written by <a href="/wiki/Nancy_White_(singer-songwriter)" title="Nancy White (singer-songwriter)">Nancy White</a>, Bob Johnston and Jeff Hochhauser, the production is based on Montgomery's sequels featuring Anne Shirley.</li>
+</ul>
+<ul>
+<li><i>The Nine Lives of L.M. Montgomery</i>, a musical adapted from Montgomery's novel and her life, opened at Kings Playhouse in <a href="/wiki/Georgetown,_Prince_Edward_Island" title="Georgetown, Prince Edward Island">Georgetown, Prince Edward Island</a> on June 20, 2008, the 100th anniversary of the book's publication. With book and lyrics by Adam-Michael James and music by <a href="/wiki/Emmy_Award" title="Emmy Award">Emmy</a>-nominated composer <a href="/wiki/Leo_Marchildon" title="Leo Marchildon">Leo Marchildon</a>, the musical depicts events from Montgomeryâs life and features as characters heroines from all of her novels. Anne figures prominently, and is shown from age 12 into her 40s. Gilbert Blythe also appears. The showâs second production was at the Carrefour Theatre in <a href="/wiki/Charlottetown,_Prince_Edward_Island" title="Charlottetown, Prince Edward Island" class="mw-redirect">Charlottetown, Prince Edward Island</a> and opened July 11, 2009. Both years, the musical was nominated for The Prince Edward Island Museum and Heritage Foundation's Wendell Boyle Award. In July 2010, a concert version of the show toured Prince Edward Island, with four performances at Green Gables.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>Theatreworks USA, a New York-based children's theatre company, produced an <i>Anne of Green Gables</i> musical in 2006 at the <a href="/wiki/Lucille_Lortel_Theatre" title="Lucille Lortel Theatre">Lucille Lortel Theatre</a>. A revived production, with musical contributions from <a href="/wiki/Gretchen_Cryer" title="Gretchen Cryer">Gretchen Cryer</a>, is planned to tour grade-schools.</li>
+</ul>
+<ul>
+<li>The Peterborough Players, based in <a href="/wiki/Peterborough,_New_Hampshire" title="Peterborough, New Hampshire">Peterborough, New Hampshire</a>, staged an adaptation by Joseph Robinette of <i>Anne of Green Gables</i> in August 2009.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Parodies">Parodies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_of_Green_Gables&amp;action=edit&amp;section=12" title="Edit section: Parodies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As one of the most familiar characters in Canadian literature, <i>Anne of Green Gables</i> has been parodied by several Canadian comedy troupes, including <a href="/wiki/CODCO" title="CODCO">CODCO</a> (<i>Anne of Green Gut</i>) and <a href="/wiki/The_Frantics_(comedy)" title="The Frantics (comedy)">The Frantics</a> (<i>Fran of the <a href="/wiki/Bay_of_Fundy" title="Bay of Fundy">Fundy</a></i>).</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_of_Green_Gables&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation book">Devereux, Cecily Margaret (2004). <a rel="nofollow" class="external text" href="http://books.google.com.au/books?id=9kpgvRjMlNMC&amp;pg=PA42"><i>A Note on the Text</i></a>. In Montgomery <a href="#CITEREFMontgomery2004">(2004)</a>, p.42. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781551113623" title="Special:BookSources/9781551113623">9781551113623</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnne+of+Green+Gables&amp;rft.au=Devereux%2C+Cecily+Margaret&amp;rft.aufirst=Cecily+Margaret&amp;rft.aulast=Devereux&amp;rft.btitle=A+Note+on+the+Text&amp;rft.date=2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com.au%2Fbooks%3Fid%3D9kpgvRjMlNMC%26pg%3DPA42&amp;rft.isbn=9781551113623&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span id="CITEREFMontgomery2004" class="citation book">Montgomery, Lucy Maud (2004) [1908]. Devereux, Cecily Margaret, ed. <i>Anne of Green Gables</i>. Peterborough, Ontario: Broadview Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-55111-362-7" title="Special:BookSources/1-55111-362-7">1-55111-362-7</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnne+of+Green+Gables&amp;rft.aufirst=Lucy+Maud&amp;rft.aulast=Montgomery&amp;rft.au=Montgomery%2C+Lucy+Maud&amp;rft.btitle=Anne+of+Green+Gables&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=1-55111-362-7&amp;rft.place=Peterborough%2C+Ontario&amp;rft.pub=Broadview+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.theguardian.pe.ca/People/2009-12-12/article-1303657/Anne-of-Green-Gables-1st-edition-sells-at-auction-for-US37500-a-new-record/1">'Anne of Green Gables' 1st edition sells at auction for US$37,000, a new record</a>, "The Guardian", December 12, 2009</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.reuters.com/article/lifestyleMolt/idUSN1754861220080319">Reuters.com</a> on <i>Anne of Green Gables</i> (March 19, 2008)</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=ymXbhAyLuDo&amp;feature=player_embedded">YouTube.com</a>, Irene Gammel, <i>Looking for Anne of Green Gables: The Story of L. M. Montgomery and her Literary Classic</i> (New York: <a href="/wiki/St._Martin%E2%80%99s_Press" title="St. Martinâs Press" class="mw-redirect">St. Martinâs Press</a>, 2009).</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Irene Gammel, "The Mystery of Anne Revealed," <i>Looking for Anne of Green Gables</i>.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://anne2008.com/events.php">Anne of Green Gables - Celebrate 100 Years</a><br />
+"Anne of Green Gables has sold millions of copies in more than 36 languages"</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.usatoday.com/travel/destinations/2008-07-31-prince-edward-island-anne_N.htm">"'Anne of Green Gables' still rules Prince Edward Island"</a>, <i>USA Today</i>, August 5, 2008</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">CBC News (June 19, 2008). <a rel="nofollow" class="external text" href="http://www.cbc.ca/arts/story/2008/06/19/f-anne-100.html">CBC.ca</a>, "100 years of Anne of Green Gables".</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.theguardian.pe.ca/Business/Natural-resources/2007-04-05/article-1372314/Licence-plate-goes-green/">"License plate goes green"</a>, "The Guardian", April 5th 2007</span></li>
+<li id="cite_note-PEI-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-PEI_11-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gov.pe.ca/greengables/">Green Gables</a> Government of Prince Edward Island. Retrieved on July 24, 2006</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.charlottetownfestival.com/en/2-Anne-of-Green-Gables-The-Musical">"Anne of Green Gables - The Musical"</a> "Confederation Centre of the Arts", August 14th 2012</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web">Yuka Kajihara (April 4, 2004). <a rel="nofollow" class="external text" href="http://yukazine.com/lmm/e/AnneJapan.html">"Anne in Japan FAQ 1.0"</a>. Yukazine.com. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20110718150018/http://yukazine.com/lmm/e/AnneJapan.html">Archived</a> from the original on July 18, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-06-06</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnne+of+Green+Gables&amp;rft.aulast=Yuka+Kajihara&amp;rft.au=Yuka+Kajihara&amp;rft.btitle=Anne+in+Japan+FAQ+1.0&amp;rft.date=April+4%2C+2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fyukazine.com%2Flmm%2Fe%2FAnneJapan.html&amp;rft.pub=Yukazine.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://yukazine.com/buttercups/index.html">"Buttercups: L.M. Montgomery &amp; Anne of Green Gables fan club in Japan"</a>, <i>Yukazine</i>, April 4, 2004</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Morris, C. (May 11, 2008). <a rel="nofollow" class="external text" href="http://www.canoe.ca/Travel/Canada/AtlanticCanada/2008/04/24/5407991-sun.html">"P.E.I. honours Anne's 100th"</a>, Canadian Press. canoe.ca</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Bruni, Frank (November 18, 2007). <a rel="nofollow" class="external text" href="http://travel.nytimes.com/2007/11/18/travel/18Prince-Edward-Island.html?pagewanted=2&amp;ref=todayspaper">"Beckoned by Bivalves: Prince Edward Island"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation web">Oct 10 '10. <a rel="nofollow" class="external text" href="http://tackytouristphotos.com/2010/10/cloning-anne-of-green-gables/">"Cloning Anne of Green Gables."</a>. Tacky Tourist Photos. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20110716183031/http://tackytouristphotos.com/2010/10/cloning-anne-of-green-gables/">Archived</a> from the original on July 16, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-06-06</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnne+of+Green+Gables&amp;rft.aulast=Oct+10+%2710&amp;rft.au=Oct+10+%2710&amp;rft.btitle=Cloning+Anne+of+Green+Gables.&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ftackytouristphotos.com%2F2010%2F10%2Fcloning-anne-of-green-gables%2F&amp;rft.pub=Tacky+Tourist+Photos&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://theheroinesbookshelf.com/2010/10/12/anne-of-green-gables/">"The Heroine's Bookshelf: Anne of Green Gables"</a>. Theheroinesbookshelf.com. October 12, 2010. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20110717002304/http://theheroinesbookshelf.com/2010/10/12/anne-of-green-gables/">Archived</a> from the original on July 17, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-06-06</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnne+of+Green+Gables&amp;rft.btitle=The+Heroine%27s+Bookshelf%3A+Anne+of+Green+Gables&amp;rft.date=October+12%2C+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ftheheroinesbookshelf.com%2F2010%2F10%2F12%2Fanne-of-green-gables%2F&amp;rft.pub=Theheroinesbookshelf.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(artist.A790,C790.)+Or+(null.B742.)&amp;l=50&amp;d=STMP&amp;p=1&amp;u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&amp;r=36&amp;f=G&amp;Sect1=STMP">Canada Post stamp</a></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/arts/bigread/top100.shtml">"BBC - The Big Read"</a>. BBC. April 2003, Retrieved October 27, 2012</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.canadapost.ca/shop/collecting/official-first-day-cover/2008/anne-of-green-gables-ofdc/p-40370614X.jsf?execution=e1s1">"Canada Post - Anne of Green Gables"</a>. <i>Canada Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-16</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnne+of+Green+Gables&amp;rft.atitle=Canada+Post+-+Anne+of+Green+Gables&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.canadapost.ca%2Fshop%2Fcollecting%2Fofficial-first-day-cover%2F2008%2Fanne-of-green-gables-ofdc%2Fp-40370614X.jsf%3Fexecution%3De1s1&amp;rft.jtitle=Canada+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.cbc.ca/news/arts/story/2012/06/11/pei-anne-green-gables-television-584.html">"Anne of Green Gables returns to TV"</a>. <i>CBC News</i>. June 11, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">June 21,</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnne+of+Green+Gables&amp;rft.atitle=Anne+of+Green+Gables+returns+to+TV&amp;rft.date=June+11%2C+2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Farts%2Fstory%2F2012%2F06%2F11%2Fpei-anne-green-gables-television-584.html&amp;rft.jtitle=CBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ninelivesoflmm.com">"The Nine Lives of L.M. Montgomery"</a>. Ninelivesoflmm.com. February 15, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-11-03</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnne+of+Green+Gables&amp;rft.btitle=The+Nine+Lives+of+L.M.+Montgomery&amp;rft.date=February+15%2C+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ninelivesoflmm.com&amp;rft.pub=Ninelivesoflmm.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.peterboroughplayers.org/2009/anne-of-green-gables">"PeterBoroughPlayers.org"</a>. PeterBoroughPlayers.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-06-06</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnne+of+Green+Gables&amp;rft.btitle=PeterBoroughPlayers.org&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.peterboroughplayers.org%2F2009%2Fanne-of-green-gables&amp;rft.pub=PeterBoroughPlayers.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_of_Green_Gables&amp;action=edit&amp;section=14" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin" style="">
+<ul>
+<li><span class="citation book">Lucy Maud Montgomery (June 3, 2008). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=WJoOkASCJ6wC&amp;pg=PA1"><i>The Green Gables Collection</i></a>. Doubleday Canada. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-385-66599-5" title="Special:BookSources/978-0-385-66599-5">978-0-385-66599-5</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnne+of+Green+Gables&amp;rft.aulast=Lucy+Maud+Montgomery&amp;rft.au=Lucy+Maud+Montgomery&amp;rft.btitle=The+Green+Gables+Collection&amp;rft.date=June+3%2C+2008&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DWJoOkASCJ6wC%26pg%3DPA1&amp;rft.isbn=978-0-385-66599-5&amp;rft.pub=Doubleday+Canada&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Norman Campbell (1972). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=3FU2RG2YUAUC&amp;pg=PP1"><i>Anne of Green Gables</i></a>. Samuel French, Inc. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-573-68002-1" title="Special:BookSources/978-0-573-68002-1">978-0-573-68002-1</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnne+of+Green+Gables&amp;rft.aulast=Norman+Campbell&amp;rft.au=Norman+Campbell&amp;rft.btitle=Anne+of+Green+Gables&amp;rft.date=1972&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D3FU2RG2YUAUC%26pg%3DPP1&amp;rft.isbn=978-0-573-68002-1&amp;rft.pub=Samuel+French%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Ned Bustard (January 2009). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=yuJ15T-pgOEC&amp;pg=PP1"><i>Anne of Green Gables Comprehension Guide</i></a>. Veritas Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-932168-79-2" title="Special:BookSources/978-1-932168-79-2">978-1-932168-79-2</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnne+of+Green+Gables&amp;rft.aulast=Ned+Bustard&amp;rft.au=Ned+Bustard&amp;rft.btitle=Anne+of+Green+Gables+Comprehension+Guide&amp;rft.date=January+2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DyuJ15T-pgOEC%26pg%3DPP1&amp;rft.isbn=978-1-932168-79-2&amp;rft.pub=Veritas+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>Irene Gammel, <i>Looking for Anne of Green Gables: The Story of L.M. Montgomery and her Literary Classic</i> (2008), authorized by the heirs of L. M. Montgomery.</li>
+<li><span class="citation book">Irene Gammel; Benjamin Lefebvre (May 30, 2010). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=dHAb7M7xvegC&amp;pg=PP1"><i>Anne's World: A New Century of Anne of Green Gables</i></a>. University of Toronto Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4426-1106-1" title="Special:BookSources/978-1-4426-1106-1">978-1-4426-1106-1</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnne+of+Green+Gables&amp;rft.au=Benjamin+Lefebvre&amp;rft.au=Irene+Gammel&amp;rft.aulast=Irene+Gammel&amp;rft.btitle=Anne%27s+World%3A+A+New+Century+of+Anne+of+Green+Gables&amp;rft.date=May+30%2C+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DdHAb7M7xvegC%26pg%3DPP1&amp;rft.isbn=978-1-4426-1106-1&amp;rft.pub=University+of+Toronto+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_of_Green_Gables&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Anne_of_Green_Gables" class="extiw" title="commons:Category:Anne of Green Gables">Anne of Green Gables</a></b></i>.</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has original text related to this article:
+<div style="margin-left: 10px;"><b><a href="//en.wikisource.org/wiki/Special:Search/Anne_of_Green_Gables" class="extiw" title="wikisource:Special:Search/Anne of Green Gables">Anne of Green Gables</a></b></div>
+</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="//en.wikiquote.org/wiki/Special:Search/Anne_of_Green_Gables" class="extiw" title="q:Special:Search/Anne of Green Gables">Anne of Green Gables</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.lmm-anne.net">The Anne of Green Gables and L. M. Montgomery Lexicon</a>, collection of Anne book cover artwork, games, recipes, time line and more</li>
+<li><span class="citation gutenberg"><i><a href="http://www.gutenberg.org/etext/45" class="extiw" title="gutenberg:45">Anne of Green Gables</a></i> at <a href="/wiki/Project_Gutenberg" title="Project Gutenberg">Project Gutenberg</a></span></li>
+<li><a rel="nofollow" class="external text" href="http://librivox.org/anne-of-green-gables-by-lucy-maud-montgomery/">Anne of Green Gables</a> free audio book from <a href="/wiki/Librivox" title="Librivox" class="mw-redirect">Librivox</a> in ogg and mp3 formats</li>
+<li><a rel="nofollow" class="external text" href="http://www.ryerson.ca/mlc/anne/">Anne of Green Gables Centenary</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.lmmrc.ca/">"L.M. Montgomery Research Centre"</a>, <a href="/wiki/University_of_Guelph" title="University of Guelph">University of Guelph</a> Library Archival &amp; Special Collections.</li>
+<li><a rel="nofollow" class="external text" href="http://lmmonline.org/">L.M. Montgomery Online</a> Formerly the L.M. Montgomery Research Group, this site includes a blog, extensive lists of primary and secondary materials, detailed information about Montgomery's publishing history, and a filmography of screen adaptations of Montgomery texts. See, in particular, the page about <a rel="nofollow" class="external text" href="http://lmmonline.org/anne-of-green-gables/"><i>Anne of Green Gables</i></a>.</li>
+<li><a rel="nofollow" class="external text" href="http://home.earthlink.net/~bcavert/">The L.M. Montgomery Literary Society</a></li>
+<li><span class="citation web"><a rel="nofollow" class="external text" href="http://blog.schoollibraryjournal.com/afuse8production/2010/03/31/top-100-childrens-novels-9/">"Top 100 Childrenâs Novels #9"</a>. <i>School Library Journal Blog</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-05-20</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnne+of+Green+Gables&amp;rft.atitle=Top+100+Children%E2%80%99s+Novels+%239&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fblog.schoollibraryjournal.com%2Fafuse8production%2F2010%2F03%2F31%2Ftop-100-childrens-novels-9%2F&amp;rft.jtitle=School+Library+Journal+Blog&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.facebook.com/Foreveranne">All About Anne Facebook Page</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Lucy_Maud_Montgomery" title="Template:Lucy Maud Montgomery"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Lucy_Maud_Montgomery" title="Template talk:Lucy Maud Montgomery"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lucy_Maud_Montgomery&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Category:Works_by_Lucy_Maud_Montgomery" title="Category:Works by Lucy Maud Montgomery">Works</a> by <a href="/wiki/Lucy_Maud_Montgomery" title="Lucy Maud Montgomery">Lucy Maud Montgomery</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Novels_by_Lucy_Maud_Montgomery" title="Category:Novels by Lucy Maud Montgomery">Novels</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><i>Anne of Green Gables</i> series</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><strong class="selflink">Anne of Green Gables</strong></i> (1908)</li>
+<li><i><a href="/wiki/Anne_of_Avonlea" title="Anne of Avonlea">Anne of Avonlea</a></i> (1909)</li>
+<li><i><a href="/wiki/Anne_of_the_Island" title="Anne of the Island">Anne of the Island</a></i> (1915)</li>
+<li><i><a href="/wiki/Anne_of_Windy_Poplars" title="Anne of Windy Poplars">Anne of Windy Poplars</a></i> (1936)</li>
+<li><i><a href="/wiki/Anne%27s_House_of_Dreams" title="Anne's House of Dreams">Anne's House of Dreams</a></i> (1917)</li>
+<li><i><a href="/wiki/Anne_of_Ingleside" title="Anne of Ingleside">Anne of Ingleside</a></i> (1939)</li>
+<li><i><a href="/wiki/Rainbow_Valley" title="Rainbow Valley">Rainbow Valley</a></i> (1919)</li>
+<li><i><a href="/wiki/Rilla_of_Ingleside" title="Rilla of Ingleside">Rilla of Ingleside</a></i> (1921)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Emily trilogy</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Emily_of_New_Moon" title="Emily of New Moon">Emily of New Moon</a></i> (1923)</li>
+<li><i><a href="/wiki/Emily_Climbs" title="Emily Climbs">Emily Climbs</a></i> (1925)</li>
+<li><i><a href="/wiki/Emily%27s_Quest" title="Emily's Quest">Emily's Quest</a></i> (1927)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><i>Pat of Silver Bush</i></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Pat_of_Silver_Bush" title="Pat of Silver Bush">Pat of Silver Bush</a></i> (1932)</li>
+<li><i><a href="/wiki/Mistress_Pat" title="Mistress Pat">Mistress Pat</a></i> (1935)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><i>The Story Girl</i></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Story_Girl" title="The Story Girl">The Story Girl</a></i> (1911)</li>
+<li><i><a href="/wiki/The_Golden_Road_(Montgomery_novel)" title="The Golden Road (Montgomery novel)">The Golden Road</a></i> (1913)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Miscellaneous</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Kilmeny_of_the_Orchard" title="Kilmeny of the Orchard">Kilmeny of the Orchard</a></i> (1910)</li>
+<li><i><a href="/wiki/The_Blue_Castle" title="The Blue Castle">The Blue Castle</a></i> (1926)</li>
+<li><i><a href="/wiki/Magic_for_Marigold" title="Magic for Marigold">Magic for Marigold</a></i> (1929)</li>
+<li><i><a href="/wiki/A_Tangled_Web" title="A Tangled Web">A Tangled Web</a></i> (1931)</li>
+<li><i><a href="/wiki/Jane_of_Lantern_Hill" title="Jane of Lantern Hill">Jane of Lantern Hill</a></i> (1937)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Short_story_collections_by_Lucy_Maud_Montgomery" title="Category:Short story collections by Lucy Maud Montgomery">Short story collections</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Chronicles_of_Avonlea" title="Chronicles of Avonlea">Chronicles of Avonlea</a></i> (1912)</li>
+<li><i><a href="/wiki/Further_Chronicles_of_Avonlea" title="Further Chronicles of Avonlea">Further Chronicles of Avonlea</a></i> (1920)</li>
+<li><i>The Road to Yesterday</i> (1974)</li>
+<li><i>The Doctor's Sweetheart and Other Stories</i> (1979)</li>
+<li><i>Akin to Anne: Tales of Other Orphans</i> (1988)</li>
+<li><i>Along the Shore: Tales by the Sea</i> (1989)</li>
+<li><i>Among the Shadows: Tales from the Darker Side</i> (1990)</li>
+<li><i>After Many Days: Tales of Time Passed</i> (1991)</li>
+<li><i>Against the Odds: Tales of Achievement</i> (1993)</li>
+<li><i>At the Altar: Matrimonial Tales</i> (1994)</li>
+<li><i>Across the Miles: Tales of Correspondence</i> (1995)</li>
+<li><i>Christmas with Anne and Other Holiday Stories</i> (1995)</li>
+<li><i><a href="/wiki/The_Blythes_Are_Quoted" title="The Blythes Are Quoted">The Blythes Are Quoted</a></i> (2009)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/w/index.php?title=Category:Poetry_by_Lucy_Maud_Montgomery&amp;action=edit&amp;redlink=1" class="new" title="Category:Poetry by Lucy Maud Montgomery (page does not exist)">Poetry</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>The Watchman &amp; Other Poems</i> (1916)</li>
+<li><i>The Poetry of Lucy Maud Montgomery</i> (1987)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Books_by_Lucy_Maud_Montgomery" title="Category:Books by Lucy Maud Montgomery">Non-fiction</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Alpine_Path:_The_Story_of_My_Career" title="The Alpine Path: The Story of My Career">The Alpine Path: The Story of My Career</a></i> (1917)</li>
+<li><i>Courageous Women</i> (1934) (with Marian Keith and Mabel Burns McKinley)</li>
+<li><i><a href="/wiki/The_Selected_Journals_of_L._M._Montgomery" title="The Selected Journals of L. M. Montgomery">The Selected Journals of L. M. Montgomery</a>, Vol. IâV</i> (1985â2004)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Anne_of_Green_Gables" title="Template:Anne of Green Gables"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Anne_of_Green_Gables&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Anne of Green Gables (page does not exist)"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Anne_of_Green_Gables&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">The <i>Anne of Green Gables</i> series by <a href="/wiki/Lucy_Maud_Montgomery" title="Lucy Maud Montgomery">L. M. Montgomery</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Characters</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anne_Shirley" title="Anne Shirley">Anne Shirley</a></li>
+<li><a href="/wiki/Matthew_Cuthbert" title="Matthew Cuthbert" class="mw-redirect">Matthew Cuthbert</a></li>
+<li><a href="/wiki/Marilla_Cuthbert" title="Marilla Cuthbert" class="mw-redirect">Marilla Cuthbert</a></li>
+<li><a href="/wiki/Gilbert_Blythe" title="Gilbert Blythe">Gilbert Blythe</a></li>
+<li><a href="/wiki/Walter_Blythe" title="Walter Blythe">Walter Blythe</a></li>
+<li><a href="/wiki/Diana_Barry" title="Diana Barry" class="mw-redirect">Diana Barry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Original novels</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><strong class="selflink">Anne of Green Gables</strong></i> (1908)</li>
+<li><i><a href="/wiki/Anne_of_Avonlea" title="Anne of Avonlea">Anne of Avonlea</a></i> (1909)</li>
+<li><i><a href="/wiki/Anne_of_the_Island" title="Anne of the Island">Anne of the Island</a></i> (1915)</li>
+<li><i><a href="/wiki/Anne_of_Windy_Poplars" title="Anne of Windy Poplars">Anne of Windy Poplars</a></i> (1936)</li>
+<li><i><a href="/wiki/Anne%27s_House_of_Dreams" title="Anne's House of Dreams">Anne's House of Dreams</a></i> (1917)</li>
+<li><i><a href="/wiki/Anne_of_Ingleside" title="Anne of Ingleside">Anne of Ingleside</a></i> (1939)</li>
+<li><i><a href="/wiki/Rainbow_Valley" title="Rainbow Valley">Rainbow Valley</a></i> (1919)</li>
+<li><i><a href="/wiki/Rilla_of_Ingleside" title="Rilla of Ingleside">Rilla of Ingleside</a></i> (1921)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Companion books</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Chronicles_of_Avonlea" title="Chronicles of Avonlea">Chronicles of Avonlea</a></i> (1912)</li>
+<li><i><a href="/wiki/Further_Chronicles_of_Avonlea" title="Further Chronicles of Avonlea">Further Chronicles of Avonlea</a></i> (1920)</li>
+<li><i>The Road to Yesterday</i> (1974)</li>
+<li><i><a href="/wiki/Before_Green_Gables" title="Before Green Gables">Before Green Gables</a></i> (authorised prequel by <a href="/wiki/Budge_Wilson" title="Budge Wilson">Budge Wilson</a>, 2008)</li>
+<li><i><a href="/wiki/The_Blythes_Are_Quoted" title="The Blythes Are Quoted">The Blythes Are Quoted</a></i> (2009)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Films</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Anne_of_Green_Gables_(1919_film)" title="Anne of Green Gables (1919 film)">Anne of Green Gables</a></i> (1919)</li>
+<li><i><a href="/wiki/Anne_of_Green_Gables_(1934_film)" title="Anne of Green Gables (1934 film)">Anne of Green Gables</a></i> (1934)</li>
+<li><i>Anne of Windy Poplars</i> (1940)</li>
+<li><i><a href="/wiki/Anne_of_Green_Gables_(1956_film)" title="Anne of Green Gables (1956 film)">Anne of Green Gables</a></i> (1956)</li>
+<li><i>Anne de Green Gables</i> (1957)</li>
+<li><i>Anne of Green Gables</i> (1958)</li>
+<li><i><a href="/wiki/Anne_of_Green_Gables_(1985_film)" title="Anne of Green Gables (1985 film)">Anne of Green Gables</a></i> (1985)</li>
+<li><i><a href="/wiki/Anne_of_Avonlea_(1987_film)" title="Anne of Avonlea (1987 film)">Anne of Green Gables: The Sequel</a></i> (1987)</li>
+<li><i>Road to Avonlea: The Movie</i> (1990)</li>
+<li><i>Happy Christmas, Miss King</i> (1998)</li>
+<li><i><a href="/wiki/Anne_of_Green_Gables:_The_Continuing_Story" title="Anne of Green Gables: The Continuing Story">Anne of Green Gables: The Continuing Story</a></i> (2000)</li>
+<li><i><a href="/wiki/Anne_of_Green_Gables:_The_Animated_Series#Anne:_Journey_to_Green_Gables" title="Anne of Green Gables: The Animated Series">Anne: Journey to Green Gables</a></i> (2005)</li>
+<li><i><a href="/wiki/Anne_of_Green_Gables:_A_New_Beginning" title="Anne of Green Gables: A New Beginning">Anne of Green Gables: A New Beginning</a></i> (2008)</li>
+<li><i>Akage no An: Road to Green Gables</i> (2010)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Television series</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Anne_of_Green_Gables_(miniseries)" title="Anne of Green Gables (miniseries)">Anne of Green Gables</a></i> (1972)</li>
+<li><i><a href="/wiki/Anne_of_Avonlea_(1975_film)" title="Anne of Avonlea (1975 film)">Anne of Avonlea</a></i> (1975)</li>
+<li><i><a href="/wiki/Anne_of_Green_Gables_(anime)" title="Anne of Green Gables (anime)">Akage no An</a></i> (1979)</li>
+<li><i><a href="/wiki/Road_to_Avonlea" title="Road to Avonlea">Road to Avonlea</a></i> (1990-1996)</li>
+<li><i><a href="/wiki/Anne_of_Green_Gables:_The_Animated_Series" title="Anne of Green Gables: The Animated Series">Anne of Green Gables: The Animated Series</a></i> (2000)</li>
+<li><i>Anne</i> (2007)</li>
+<li><i><a href="/wiki/Kon%27nichiwa_Anne:_Before_Green_Gables" title="Kon'nichiwa Anne: Before Green Gables">Kon'nichiwa Anne: Before Green Gables</a></i> (2009)</li>
+<li><i>Anne of Green Gables</i> (2014)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Stage</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Anne_of_Green_Gables:_The_Musical" title="Anne of Green Gables: The Musical">Anne of Green Gables: The Musical</a></i> (since 1965)</li>
+<li><i><a href="/wiki/Anne_%26_Gilbert" title="Anne &amp; Gilbert">Anne &amp; Gilbert</a></i> (since 2005)</li>
+<li><i>Anne of Green Gables</i> (since 2006)</li>
+<li><i>The Nine Lives of L.M. Montgomery</i> (since 2008)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related articles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Avonlea_(Anne_of_Green_Gables)" title="Avonlea (Anne of Green Gables)">Avonlea</a></li>
+<li><a href="/wiki/Green_Gables" title="Green Gables">Green Gables</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1178
+CPU time usage: 0.405 seconds
+Real time usage: 0.506 seconds
+Preprocessor visited node count: 2555/1000000
+Preprocessor generated node count: 0/1500000
+Postâexpand include size: 76660/2097152 bytes
+Template argument size: 2999/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.108/10.000 seconds
+Lua memory usage: 3.72 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  352.479      1 - -total
+ 24.05%   84.760      1 - Template:Reflist
+ 13.61%   47.962      1 - Template:About
+ 13.43%   47.332      1 - Template:Infobox_book
+ 12.29%   43.308      3 - Template:Navbox
+ 11.94%   42.102      1 - Template:Commons_category
+ 11.77%   41.488      1 - Template:Hatnote
+ 11.27%   39.738      1 - Template:Infobox
+ 10.99%   38.725      6 - Template:Cite_book
+  9.12%   32.141      1 - Template:Citation_needed
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:58406-0!*!0!!en!4!* and timestamp 20150216141510 and revision id 646571528
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from &quot;<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Anne_of_Green_Gables&amp;oldid=646571528">http://en.wikipedia.org/w/index.php?title=Anne_of_Green_Gables&amp;oldid=646571528</a>&quot;					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1908_novels" title="Category:1908 novels">1908 novels</a></li><li><a href="/wiki/Category:Anne_of_Green_Gables_books" title="Category:Anne of Green Gables books">Anne of Green Gables books</a></li><li><a href="/wiki/Category:New_Canadian_Library" title="Category:New Canadian Library">New Canadian Library</a></li><li><a href="/wiki/Category:Novels_by_Lucy_Maud_Montgomery" title="Category:Novels by Lucy Maud Montgomery">Novels by Lucy Maud Montgomery</a></li><li><a href="/wiki/Category:Works_about_adoption" title="Category:Works about adoption">Works about adoption</a></li><li><a href="/wiki/Category:Novels_about_orphans" title="Category:Novels about orphans">Novels about orphans</a></li><li><a href="/wiki/Category:Canadian_children%27s_novels" title="Category:Canadian children&#039;s novels">Canadian children's novels</a></li><li><a href="/wiki/Category:Novels_set_in_Prince_Edward_Island" title="Category:Novels set in Prince Edward Island">Novels set in Prince Edward Island</a></li><li><a href="/wiki/Category:Debut_novels" title="Category:Debut novels">Debut novels</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_that_link_to_Wikisource" title="Category:Articles that link to Wikisource">Articles that link to Wikisource</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2011" title="Category:Articles with unsourced statements from November 2011">Articles with unsourced statements from November 2011</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Anne+of+Green+Gables&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Anne+of+Green+Gables" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Anne_of_Green_Gables"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Anne_of_Green_Gables"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Anne_of_Green_Gables" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Anne_of_Green_Gables&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Anne_of_Green_Gables&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content â the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Anne_of_Green_Gables" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Anne_of_Green_Gables" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Anne_of_Green_Gables&amp;oldid=646571528" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Anne_of_Green_Gables&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q565911" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Anne_of_Green_Gables&amp;id=646571528" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Anne+of+Green+Gables">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Anne+of+Green+Gables&amp;oldid=646571528&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Anne_of_Green_Gables&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%90%D0%BD%D0%BD_%D0%BE%D1%82_%E2%80%9E%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%82%D0%B5_%D0%BF%D0%BE%D0%BA%D1%80%D0%B8%D0%B2%D0%B8%E2%80%9C" title="ÐÐ½Ð½ Ð¾Ñ âÐÐµÐ»ÐµÐ½Ð¸ÑÐµ Ð¿Ð¾ÐºÑÐ¸Ð²Ð¸â â Bulgarian" lang="bg" hreflang="bg">ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Anne_fra_Gr%C3%B8nnebakken" title="Anne fra GrÃ¸nnebakken â Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Anne_auf_Green_Gables_(Buch)" title="Anne auf Green Gables (Buch) â German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Anne_of_Green_Gables" title="Anne of Green Gables â Spanish" lang="es" hreflang="es">EspaÃ±ol</a></li>
+													<li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Anne_of_Green_Gables_(libro)" title="Anne of Green Gables (libro) â Esperanto" lang="eo" hreflang="eo">Esperanto</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A2%D9%86%DB%8C_%D8%B4%D8%B1%D9%84%DB%8C_%D8%AF%D8%B1_%DA%AF%D8%B1%DB%8C%D9%86_%DA%AF%DB%8C%D8%A8%D9%84%D8%B2" title="Ø¢ÙÛ Ø´Ø±ÙÛ Ø¯Ø± Ú¯Ø±ÛÙ Ú¯ÛØ¨ÙØ² â Persian" lang="fa" hreflang="fa">ÙØ§Ø±Ø³Û</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Anne..._la_maison_aux_pignons_verts" title="Anne... la maison aux pignons verts â French" lang="fr" hreflang="fr">FranÃ§ais</a></li>
+													<li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%B9%A8%EA%B0%84_%EB%A8%B8%EB%A6%AC_%EC%95%A4" title="ë¹¨ê° ë¨¸ë¦¬ ì¤ â Korean" lang="ko" hreflang="ko">íêµ­ì´</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Anna_dai_capelli_rossi_(romanzo)" title="Anna dai capelli rossi (romanzo) â Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%94%D7%90%D7%A1%D7%95%D7%A4%D7%99%D7%AA" title="×××¡××¤××ª â Hebrew" lang="he" hreflang="he">×¢××¨××ª</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Anne_van_het_Groene_Huis" title="Anne van het Groene Huis â Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E8%B5%A4%E6%AF%9B%E3%81%AE%E3%82%A2%E3%83%B3" title="èµ¤æ¯ã®ã¢ã³ â Japanese" lang="ja" hreflang="ja">æ¥æ¬èª</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Anne_fra_Bj%C3%B8rkely" title="Anne fra BjÃ¸rkely â Norwegian (bokmÃ¥l)" lang="no" hreflang="no">Norsk bokmÃ¥l</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Ania_z_Zielonego_Wzg%C3%B3rza_(powie%C5%9B%C4%87)" title="Ania z Zielonego WzgÃ³rza (powieÅÄ) â Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Anne_of_Green_Gables_(livro)" title="Anne of Green Gables (livro) â Portuguese" lang="pt" hreflang="pt">PortuguÃªs</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%8F_%D1%81_%D1%84%D0%B5%D1%80%D0%BC%D1%8B_%C2%AB%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B5_%D0%9A%D1%80%D1%8B%D1%88%D0%B8%C2%BB" title="ÐÐ½Ñ Ñ ÑÐµÑÐ¼Ñ Â«ÐÐµÐ»ÐµÐ½ÑÐµ ÐÑÑÑÐ¸Â» â Russian" lang="ru" hreflang="ru">Ð ÑÑÑÐºÐ¸Ð¹</a></li>
+													<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Anne_of_Green_Gables" title="Anne of Green Gables â Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+													<li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Anna_zo_Zelen%C3%A9ho_domu" title="Anna zo ZelenÃ©ho domu â Slovak" lang="sk" hreflang="sk">SlovenÄina</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Annan_nuoruusvuodet" title="Annan nuoruusvuodet â Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Anne_p%C3%A5_Gr%C3%B6nkulla" title="Anne pÃ¥ GrÃ¶nkulla â Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Ye%C5%9Filin_K%C4%B1z%C4%B1_Anne" title="YeÅilin KÄ±zÄ± Anne â Turkish" lang="tr" hreflang="tr">TÃ¼rkÃ§e</a></li>
+													<li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Anne_t%C3%B3c_%C4%91%E1%BB%8F_d%C6%B0%E1%BB%9Bi_Ch%C3%A1i_nh%C3%A0_xanh" title="Anne tÃ³c Äá» dÆ°á»i ChÃ¡i nhÃ  xanh â Vietnamese" lang="vi" hreflang="vi">Tiáº¿ng Viá»t</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%B8%85%E7%A7%80%E4%BD%B3%E4%BA%BA" title="æ¸ç§ä½³äºº â Chinese" lang="zh" hreflang="zh">ä¸­æ</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q565911#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 10 February 2015, at 23:44.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. WikipediaÂ® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Anne_of_Green_Gables&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf16/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf16/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf16/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":123,"wgHostname":"mw1040"});
+}</script>
+	</body>
+</html>

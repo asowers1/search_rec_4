@@ -1,0 +1,622 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- 76.78.3.98 --><!-- regular -->  <head>
+    <title>Anne of Green Gables by Lucy Maud Montgomery - Free eBook</title>
+	<!--  -->
+	<!--  -->
+	<link rel="stylesheet" type="text/css" media="all" href="/_resources/css/combined.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="/_resources/css/style.css" />
+	<link media="only screen and (max-device-width: 480px)"
+		href="/_resources/css/iphone.css" type="text/css" rel="stylesheet" />
+	<link media="only screen and (min-device-width: 481px) and (max-device-width: 1024px)"
+		href="/_resources/css/ipad.css" type="text/css" rel="stylesheet" />
+	<link rel="stylesheet" media="only screen and (-webkit-min-device-pixel-ratio: 2)"
+		type="text/css" href="/_resources/css/iphone4.css" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<link rel="alternate" type="application/rss+xml" href="/index.xml" title="RSS 2.0 feed for manybooks.net" />
+<link rel="alternate" type="text/html" media="handheld" href="http://manybooks.net/m/" title="Mobile/PDA" />
+<link rel="Help" href="/help/" />
+<link rel="home" title="Manybooks Home" href="http://manybooks.net" />
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1" />
+
+<meta name="description" content="Free eBook: Anne of Green Gables by Lucy Maud Montgomery. A skinny, red-haired, and freckled orphan girl is mistakenly sent to live with a shy, elderly bachelor and his spinster sister on the north shore of Canada&#039;s Prince Edward Island; The elderly siblings had asked to adopt a young boy who could work on the family farm, but the imaginitive and rambunctious Anne Shirley arrives instead, and becomes the center of a series of entertaining adventures." />
+
+<meta name="keywords" content="download, ebooks, free ebooks, e-books, free e-books, gutenberg, mystery, fiction, romance, science, science fiction, scifi, western, adventure, women's studies, cookbooks, humor, satire, plucker, isilo, zTXT, PDF, TCR, iPod Notes, Mobipocket, iPhone, iPad, Kindle, Nook, Android, iLiad, Sony Reader, Newton, ePUB, eReader, FictionBook, Palm DOC, TiBR, Nokia tablet, ebookwise" />
+<meta http-equiv="Content-Language" content="en-us" />
+<meta name="ROBOTS" content="ALL" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta name="viewport" content="width=820" />
+<meta http-equiv="window-target" content="_top" /> 
+
+<meta property="og:title" content="Anne of Green Gables by Lucy Maud Montgomery" />
+<meta property="og:type" content="book" />
+<meta property="og:site_name" content="ManyBooks.net" />
+<meta property="og:image" content="http://manybooks.net/original_covers/m/montgome/montgomeetext92anne11-thumb.jpg" />
+<meta property="fb:app_id" content="113271318707090" />
+
+<link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript" language="javascript"></script>
+
+<script language="javascript" type="text/javascript">
+
+	$(document).ready(function(){
+	
+		$('.read-excerpt').click(function() {
+			$('.excerpt-smaller').animate({ height: '100%' }, 1500);
+		});
+		
+		$('a#show-login').click(function() {
+			$('.smallloginform').toggle('fast');
+			$('#uid').focus();
+		});
+		
+		$('a.toggle-editorCheckboxes').click(function() {
+			$('.editorCheckboxes').toggle('fast');
+		});
+		
+		$('a#show-qr').click(function() {
+			$('#QRbox').toggle('fast');
+			$('#overlay').toggle('fast');
+		});
+		
+		$('.QRclosebox').click(function() {
+			$('#QRbox').hide();
+			$('#overlay').hide();
+		});
+		
+		$('#overlay').click(function() {
+			$('#QRbox').hide();
+			$('#overlay').hide();
+		});
+		
+	});
+</script>
+<script language="javascript" type="text/javascript">
+<!--
+function openWindow(theURL,winName,features) {
+  window.open(theURL,winName,features);
+}
+
+function closeWindow(){
+	window.close();
+}
+//-->
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+  if (top.frames.length!=0)
+   top.location=self.document.location;
+// -->
+</script>
+
+<script language="javascript" type="text/javascript">
+	if (parent.frames.length > 0)
+	top.location.replace(document.location);
+</script>
+
+<!-- DFP -->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/4063526/MB-Top-Leaderboard', [728, 90], 'div-gpt-ad-1339428628847-0').addService(googletag.pubads());
+googletag.defineSlot('/4063526/MB-Bottom-Large-Rect', [336, 280], 'div-gpt-ad-1339428871038-0').addService(googletag.pubads());
+googletag.defineSlot('/4063526/MB-Homepage-Banner', [468, 60], 'div-gpt-ad-1339427595335-0').addService(googletag.pubads());
+googletag.defineSlot('/4063526/MB-Bookpage-Banner', [468, 60], 'div-gpt-ad-1339429480962-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+<!-- END DFP -->
+
+<!-- END /resources/_templates_new/head.php -->
+<script type="text/javascript">
+if(document.URL.indexOf("referer.us") >= 0){ 
+	alert('myPadMedia.com is a scam! These eBooks are FREE from manybooks.net. If you have paid for access you deserve a refund.');
+}
+</script>
+
+<!-- BEGIN /resources/_templates/top.php -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28198269-1']);
+  _gaq.push(['_setDomainName', 'manybooks.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+</head>
+
+
+<body>
+<!-- Email capt -->
+<script src="https://js.gleam.io/oi-Bb6Khqh.js" async></script>
+
+<!-- BuySellAds Ad Code -->
+<script type="text/javascript">
+(function(){
+  var bsa = document.createElement('script');
+     bsa.type = 'text/javascript';
+     bsa.async = true;
+     bsa.src = 'http://s3.buysellads.com/ac/bsa.js';
+  (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+})();
+</script>
+<!-- End BuySellAds Ad Code -->
+
+<div class="invisible">
+	<ul compact="compact">
+		<li><a href="#content" title="content" accesskey="2">Content</a></li>
+		<li><a href="#download" title="download" accesskey="d">Download</a></li>
+		<li><a href="#nav" title="navigation">Navigation</a></li>
+		<li><a href="#footer" title="footer">Footer</a></li>
+		<li><a href="http://mnybks.net" title="mnybks.net - cellphone site">Mobile Site</a></li>
+	</ul>
+</div> <!-- / .invisible -->
+
+
+                           
+<div style="background: none; background-color: #FF4C00; height: 98px; width: 846px; margin: 0 auto 0 auto;">
+		<a href="/" title="Manybooks.net - free ebooks" accesskey="1">
+			<img src="/_resources/templates/logo-thin.png" style="padding: 18px 0 0 20px; position: absolute; border: none;" />
+		</a>	
+	  <div style="margin-left: 80px; padding: 4px 0 4px 20px; background-color: #fff; height: 98px;" >
+			<!-- MB-Top-Leaderboard -->
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9231860735104128";
+/* MB Top Banner */
+google_ad_slot = "2326576415";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+		</div>
+</div>
+
+<div class="container_16"> 
+	
+<div class="grid_3 alpha">
+	
+	<div id="header" style="padding-top: 20px">
+		<!--	<a href="/" title="Manybooks.net - free ebooks" accesskey="1"><img src="/_resources/images/logo_red-text.gif" border="0" alt="MANYBOOKS.NET" class="site-logo-red" /></a> -->
+		
+		<form method="get" action="/search.php" class="form" >
+					
+					<input onfocus="if (this.value=='eBook Search'){this.value=''}" 
+	onblur="if (this.value==''){this.value='eBook Search'}" id="search" name="search" value="eBook Search" size="15" type="search" placeholder="eBook Search" />
+					<button type="submit" id="go" value="search">Go</button>
+					<br /><a href="/search-advanced.php" title="Advanced Search">Advanced Search</a>
+				</form>		
+	</div><!-- / #header -->
+
+	<div id="menu"><a name="nav"></a><ul id="menulist"><li id="one"><a href="/authors.php" title="Browse by Author Name." accesskey="a">Authors</a></li><li id="two"><a href="/titles.php" title="Browse by Title." accesskey="t">Titles</a></li><li id="three"><a href="/categories/" title="General Categories and Genres." accesskey="c">Genres</a></li><li id="four"><a href="/language.php" title="Foreign Language eBooks." accesskey="l">Languages</a></li><li id="empty"></li><li id="five"><a href="/recent_additions.php" title="New Titles">New Titles</a></li><li id="six"><a href="/eBook_recommendations.php" title="Recommendations from our readers." accesskey="r">Recommended</a></li><li id="seven"><a href="/statistics_weekly.php" title="Popular eBooks downloaded by our visitors">Popular Downloads</a></li></ul>
+	
+	<div class="userblock">
+		<a href="#" id="show-login">login</a> | <a href="/settings/registration.php">register</a>
+  <form method="post" action="/titles/montgomeetext92anne11.html" class="smallloginform">
+	<p>User ID<input type="text" name="uid" size="15" id="uid" /></p>
+	<p>Password<input type="password" name="pwd" size="15" id="pwd" /></p>
+	<p><input type="hidden" name="login" value="login" />
+	<input type="hidden" name="ref" value="" />
+	   <input type="submit" value="Sign In" /></p>
+	   <p><a href="/settings/password_reset.php">reset password</a></p>
+  </form>	</div>
+	
+		<ul id="submenulist">
+<li style="width: 103px;"><a style="color: #FE3B01" href="/promote.php" title="Authors, promote your eBook!">Promote your book</a></li>
+
+		  <li>
+		    <a href="/help/" title="help with manybooks.net" accesskey="?">Help</a>
+		  </li>
+			<li>
+				<a href="/ereaders/" title="eReader Comparison - Reviews and Ratings">eReaders</a>			
+			</li>
+			<li>
+				<a href="http://manybooks.net/rss/">RSS feeds</a>
+			</li>
+			<li>
+				<a href="/donate.php" title="Make a donation">Donations</a>
+			</li>
+			<li>
+				<a href="/contact.php" title="How to reach us" accesskey="9">Contact us</a>
+			</li>
+						<li>
+				<a href="/about/" title="About this site">About this site</a>
+			</li>
+                        <li>
+                             <a href="/about/privacy.php" title="Our Privacy Policy">Privacy Policy</a>
+                        </li>
+			<li>
+				<a href="/_admin/title_detail.php?tid=montgomeetext92anne11" title="Restricted Area" accesskey="m">Admin access</a>
+			</li>
+		</ul> <!-- / #submenulist -->
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<style>
+.addthis_vertical_follow_toolbox .addthis_follow_label {display: none !important;}
+.addthis_vertical_follow_toolbox a {display: inline !important; float: right;}
+</style>
+<div class="addthis_vertical_follow_toolbox"></div>
+
+
+	</div> <!-- / #menu -->
+</div> <!-- / .grid_3 alpha -->
+
+
+
+<!-- Survey Code -->
+<script language="javascript" type="text/javascript">
+<!--
+function popitup(url) {
+	newwindow=window.open(url,'name','height=600,width=600,scrollbars=no,left=100');
+	if (window.focus) {newwindow.focus()}
+	return false;
+}
+// -->
+</script>
+<!-- ENABLE SURVEY 
+<div style="width:172px;height:143px;background: url('/about/survey-arrow.png') top left no-repeat; position: fixed; left: 50%; margin-left:397px; bottom:20px;z-index:1000">
+  <a href="/about/survey.php" onclick="return popitup('/about/survey.php')" title="Take our survey!"><img style="margin-top:91px;" src="/about/survey-button.png" alt="Help us improve by taking our survey!" /></a>
+</div>
+ End Survey Code -->
+
+
+	<a name="content"></a>
+<!-- END /resources/_templates/top.php -->	
+
+<div class="grid_9 hreview-aggregate"><!-- google_ad_section_start --><div id="overlay" style="display:none"></div>
+				<div id="QRbox" style="display:none">
+					<img class="QRclosebox" src="/_resources/images/close.gif" alt="Close" 
+						 title="Close this window" />
+					<img id="QRimage" src="http://chart.apis.google.com/chart?chs=150x150&cht=qr&chl=http%3A%2F%2Fmanybooks.net%2Fm%2Ftitle_detail.php%3Ftid%3Dmontgomeetext92anne11" alt="QR code for this URL" width="300" height="300" /><br />
+				</div>
+			<div class="item"><h1 class="mediumheader booktitle fn">Anne of Green Gables</h1></div>
+
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style " style="margin-top: -10px;padding-bottom: 10px;">
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4ddadda9725c4454"></script>
+<!-- AddThis Button END --> 
+
+                       <div class="bookinfo grid_9 alpha omega">
+				<div class="grid_5 alpha"><div class="title-info">
+		<span>Author: </span>
+			<a href="/authors/montgome.html" accesskey="d" title="See the entire list of eBooks by Lucy Maud Montgomery">Lucy Maud Montgomery</a>
+	</div><!-- /title-info --><div class="title-info">
+			<span>Published: </span> 1908
+		</div><!-- /title-info --><div class="title-info">
+			<span>Language: </span>
+				<a href="/language.php?code=en" 
+			title="See other eBooks in English">English</a>
+		</div><!-- /title-info --><div class="title-info">
+			<span>Wordcount: </span>
+			102,216 / 288 pg
+			</div><!-- /title-info --><div class="title-info"><span>Flesch-Kincaid Reading Ease: </span>69</div><!-- /title-info --><div class="title-info">
+			<span>LoC Category: </span> <a href="/locc/PZ" title="Fiction and juvenile belles lettres">PZ</a>
+		</div><!-- /title-info --><div class="title-info">
+				<span>Series: </span><a href="/series/4.html">Anne of Green Gables</a> 
+			</div><!-- /title-info --></div> <!-- / .grid_5 alpha --><div class="grid_4 omega"><div class="title-info">
+			<span>Audiobook: </span><a href="http://librivox.org/anne-of-green-gables-by-lucy-maud-montgomery/">librivox.org</a>
+			</div><div class="title-info">
+			<span>Downloads: </span>51,927</div><div class="title-info">
+			<span>mnybks.net#: </span>5036</div><div class="title-info">
+			<span>Origin: </span><a href="http://www.gutenberg.org/etext/anne11" rel="nofollow">gutenberg.org</a>
+		</div><!-- /title-info --><div class="title-info">
+			<span>More Info: </span><a href="http://litsum.com/anne-of-green-gables/">litsum.com</a>
+		</div><!-- /title-info --></div> <!-- / .grid_4 prefx_1 omega -->
+					<div class="grid_9 alpha omega">
+					<div class="title-info">
+		<span>Genres: </span><a href="/categories/CHI">Young Readers</a>, <a href="/categories/FIC">Fiction and Literature</a>, <a href="/categories/AUD">Audiobook</a>, <a href="/categories/CAN">Canadian Literature</a>
+	</div><!-- /title-info --></div><!-- / .grid_9 -->
+<!--
+        <div class="grid_9 alpha omega" style="margin-top:20px;">
+          <div class="title-info">
+	    <span>Buy new from: </span>
+            <a href="http://www.amazon.com/s?url=search-alias%3Dstripbooks&field-keywords=Anne of Green Gables" rel="nofollow" style="color: #369;">Amazon</a> or
+            <a href="http://www.barnesandnoble.com/s/?store=allproducts&keyword=Anne of Green Gables" rel="nofollow" style="color: #369;">Barnes &amp; Noble</a>          
+          </div>
+          <div class="title-info">
+            <span>Find it used: </span>
+            <a href="http://www.ebay.com/sch/i.html?_sacat=267&_nkw=Anne of Green Gables" rel="nofollow" style="color: #369;">eBay</a> or
+            <a href="http://www.abebooks.com/servlet/SearchResults?sts=t&tn=Anne of Green Gables" rel="nofollow" style="color: #369;">AbeBooks</a>
+          </div>
+          <div class="title-info">
+            <span>Get as AudioBook: </span>
+            <a href="http://www.audible.com/search/?advsearchKeywords=Anne of Green Gables" rel="nofollow" style="color: #369;">Audible</a> or
+            <a href="http://www.audiobooks.com/search/book/Anne of Green Gables" rel="nofollow" style="color: #369;">AudioBooks.com</a>
+          </div>
+        </div>
+-->
+        <div class="grid_9 alpha omega" style="margin: 30px 0 10px 0;font-size:9px;color: #ccc;">Advertisement
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- MB - Book Page Banner (new) -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:60px"
+     data-ad-client="ca-pub-9231860735104128"
+     data-ad-slot="5313240550"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        </div>
+        
+        </div> <!-- / .bookinfo --><div class="notes grid_9 alpha omega" style="margin-bottom:0">
+				<p>A skinny, red-haired, and freckled orphan girl is mistakenly sent to live with a shy, elderly bachelor and his spinster sister on the north shore of Canada's Prince Edward Island; The elderly siblings had asked to adopt a young boy who could work on the family farm, but the imaginitive and rambunctious Anne Shirley arrives instead, and becomes the center of a series of entertaining adventures.</p>
+			</div> <!-- / .notes --><div class="grid_9 alpha omega" style="margin-bottom:15px">
+          <!-- MB-Bookpage-Banner -->
+          <div style='width:468px; height:6px;'>
+
+          </div>
+    </div><div class="excerptwrapper grid_9 alpha omega excerpt-smaller">
+			<a href="#" class="read-excerpt">Show Excerpt</a>
+					<div class="excerpt" id="excerpt">
+						<p>often.  Mrs. Rachel, ponder as she might,
+could make nothing of it and her afternoon's enjoyment was spoiled.<p>
+"I'll just step over to Green Gables after tea and find
+out from Marilla where he's gone and why," the worthy woman
+finally concluded.  "He doesn't generally go to town this
+time of year and he NEVER visits; if he'd run out of turnip
+seed he wouldn't dress up and take the buggy to go for more;
+he wasn't driving fast enough to be going for a doctor.  Yet
+something must have happened since last night to start him
+off.  I'm clean puzzled, that's what, and I won't know a
+minute's peace of mind or conscience until I know what has
+taken Matthew Cuthbert out of Avonlea today."<p>
+Accordingly after tea Mrs. Rachel set out; she had not
+far to go; the big, rambling, orchard-embowered house where
+the Cuthberts lived was a scant quarter of a mile up the
+road from Lynde's Hollow.  To be sure, the long lane made it
+a good deal further.  Matthew Cuthbert's father, as shy and
+silent as his son after him, had got a</p>
+					</div>
+				</div> <!-- / .excerptwrapper -->
+				<!-- google_ad_section_end --><div class="grid_9 alpha omega">
+		<div id="reviews"><a name="reviews"></a>
+				<h3>Reviews</h3>
+				<a href="/reviews/index.php?title_ID=montgomeetext92anne11">Add a review for this title.</a>
+				<div class="cssrating">
+					<span>Average Rating of <span class="rating"><span class="average">4.2</span></span> from <span class="votes">21</span> reviews: </span> <img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" />
+				</div><!-- / .rating -->
+				<div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2013.06.21</span><br /><a href="/reviews/filter.php?show=Mujgan Teyze">Mujgan Teyze</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"><img src="/_resources/images/starg.jpg" alt="." /><img src="/_resources/images/starg.jpg" alt="." /><img src="/_resources/images/starg.jpg" alt="." /><img src="/_resources/images/starg.jpg" alt="." /></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>Lured by the rave reviews, I started reading this book. However, though I am on page 170 I still couldn't manage to like Anne. I seem to be the only one who thinks so but I must admit I even found her and the way she expresses herself irritating.  </p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2012.11.02</span><br /><a href="/reviews/filter.php?show=Chanjana">Chanjana</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"><img src="/_resources/images/starg.jpg" alt="." /><img src="/_resources/images/starg.jpg" alt="." /></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>I love so much this book.I think anne is real world in a character.</p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2012.07.27</span><br /><a href="/reviews/filter.php?show=cordelia">cordelia</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"><img src="/_resources/images/starg.jpg" alt="." /></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>hi this book is one of the most wonder ful book that i ever read some times i think i am ann shirly </p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2011.12.28</span><br /><a href="/reviews/filter.php?show=Claire">Claire</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>When I started reading Anne of Green Gables I instantly was attached to the story...Up to now I still can't get enough of reading and watching the film and I'm already 33years old.  I hope my daughters will feel the same way I do when I introduce the book to them.</p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2011.12.03</span><br /><a href="/reviews/filter.php?show=Ezra">Ezra</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>I really love Anne of Green Gables. It always makes me feel always young, happy and increases my imagination as I read and follow her life. Sometimes I feel that I'm also one of the characters in the story. Ah! Its really hard to explain...thanks so much Ms. Lucy Montgomery for creating such a good, humorous,imaginative character of Anne. </p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2011.11.17</span><br /><a href="/reviews/filter.php?show=Rose">Rose</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>I t is not fair to categorize this under children\'s book<br />
+It is certainly for all ages. Sometimes I just cant help thinking of Anne Shirley .Such a darling character she is.<br />
+I had an imagination as goo as her but I wasn\'t such a darling child like her. I have read it for about 30 times and I know I will never be bored of reading the book.</p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2011.11.17</span><br /><a href="/reviews/filter.php?show=Rashi">Rashi</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>It is a wonderful book and I think it should be in our school lessons. School would be so interesting then.I can read it a hundred times.I wonder why it is not known among my mates . I think this is the best book I ever read .There is some special charm in this book which can not be told in words.I wonder what makes people rate other books as excellent .In all it is more than exellent.And I can conclude that this book is the best ever without considering others<br />
+</p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2011.06.02</span><br /><a href="/reviews/filter.php?show=Apoorva.V.C">Apoorva.V.C</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>A beautiful book. though it is catogorized under young readers I feel it is for everyone. O what amazing and wonderful lines. I laughed when Anne laughed and I cried When Anne cried. It is so real to praise it as a wonderful imagination. god am i relieved after reading it Because my character doesnt seem so strange after knowing my dear Anne...</p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2010.12.22</span><br /><a href="/reviews/filter.php?show=Emily">Emily</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"><img src="/_resources/images/starg.jpg" alt="." /></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>Great classic for young women. A bit strange, but in a charming way. </p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2010.12.03</span><br /><a href="/reviews/filter.php?show=Chelsea">Chelsea</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>This book is honestly the best book i have ever read and im only 12. i've read before green gables, and anne of green gables. i am most definitly going to keep reading the wonderful collection, because i am soul deep interested and excited to see what happens next.</p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2010.10.29</span><br /><a href="/reviews/filter.php?show=kwanita">kwanita</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"><img src="/_resources/images/starg.jpg" alt="." /><img src="/_resources/images/starg.jpg" alt="." /></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>i love and i am only 11 </p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2010.06.30</span><br /><a href="/reviews/filter.php?show=Savannah">Savannah</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>love it and im only 11</p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2010.06.21</span><br /><a href="/reviews/filter.php?show=ficbot">ficbot</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"><img src="/_resources/images/starg.jpg" alt="." /></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>In this classic Canadian children's story, plucky orphan Anne adjusts to life on the farm and changes the lives of those around her.<br />
+<br />
+Anne evolves in later stories into a more well-rounded person. She's a little too young and saccharine here. But this story has stood the test of time and is deservedly a classic.</p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2009.08.21</span><br /><a href="/reviews/filter.php?show=Derek Hagen">Derek Hagen</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"><img src="/_resources/images/starg.jpg" alt="." /><img src="/_resources/images/starg.jpg" alt="." /></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>I saw the TV show but it didn't really get me until one day on vacation a few years ago. I was engrossed in an exciting action beach book for guys when I heard my wife reading Anne Shirley to our granddaughter. I think it was the part where uncle Matthew meets her for the first time at the train station and takes her home to Green Gables. I had to put my book down just to pay attention to one of the most delightful passages in all literature. I have a lump in my throat right now, just thinking about that passage. Since then I have read the book, seen the play and bought the T-shirt. And I'm usually a guy who reads things like Tim Clancy, Stephen King, Louis Lamour. Lucy Maude, wherever you are, thank you so much.</p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2009.06.15</span><br /><a href="/reviews/filter.php?show=laud">laud</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>i first read this book back home in Ghana, when i was about 10. my impression? short version: "one of the the best books i've ever read, made me fall in love with reading, and it took me another 10 years before i could find the sequel to that. i mean, its Africa, so you know what i mean... I couldn't hide my joy. today someone told me that it's a book for 12 year old girls. i think that's rubbish!" i owe my reading life to L.M. Montgomery. God rest her soul!<br />
+</p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2009.06.15</span><br /><a href="/reviews/filter.php?show=Rethia Syahril">Rethia Syahril</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>First I read this book when i was an exchange student in USA. The book belongs to my host sister. Never finished it until I bought one for myself when I was in Canada for school trip. I watch the movie first and love it so much. And I start to read it again. And before I went back to my home country, my host mom give me 7 other books. <br />
+Everytime I read the books it always reminds me of my host family. </p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2008.04.20</span><br /><a href="/reviews/filter.php?show=aisha">aisha</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"><img src="/_resources/images/starg.jpg" alt="." /></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>I don't think it's just a children's book. It's a book for all ages. Any one who reads it would enjoy it. A lovely book surely.</p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2008.03.17</span><br /><a href="/reviews/filter.php?show=Navin">Navin</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>Wonderfully written. I just entered my 30s was a little grief sticken over it :p. <br />
+Reading this book and the entire series. Brought back memories of my childhood. and the fun I had. I too had a good imagination :D. COuld not keep the book down till i finished all the 6 books. Wonderful for kids Who are entering their teens just to get a glimpse of Life itself. Even though a story pains are never missed. Everyone has to go through pains. Life still goes on. Would surely recommend to all ages. </p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2008.03.13</span><br /><a href="/reviews/filter.php?show=Dinah">Dinah</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>As a child, I guess I missed reading this book.  I recently got Amazon's Kindle, and I'm loving the chance to read so many of these "childrens" books I missed on my new e-reader.  This book  is classified in the "young reader" catagory, but I have thoroughly enjoyed reading this book, and the second one "Anne of Avonlea".   I have laughed out loud at the mishaps that happen to Anne Shirley, because they are things that could happen to any of us.  It's very well written, and you can't help but fall in love with Anne.  She's an intelligent, curious, plucky little orphan that captures your heart right from the beginning of the book.  I plan to read every one of the "Anne" books in the series.  This one was an absolute pleasure!</p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2007.08.12</span><br /><a href="/reviews/filter.php?show=Bipolar Writer">Bipolar Writer</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"><img src="/_resources/images/starg.jpg" alt="." /></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>Delightful: Innocent, honest and fanciful Anne Shirley will charm you as she experiences life with the Cuthberts and at her new home in Green Gables. L.M. Montgomery perfectly protrays the simplicity and many wonders of childhood. Read it! A four. Because nothing is perfect. =)</p></div><!-- / .grid_7 --></div><!-- / .grid_9 --><div class="grid_9 alpha omega">
+			<div class="grid_2 alpha"><span>2005.10.09</span><br /><a href="/reviews/filter.php?show=Joanna">Joanna</a>
+				<div class="stars"><span class="score"><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /><img src="/_resources/images/star.jpg" alt="*" /></span><span class="score-empty"><img src="/_resources/images/starg.jpg" alt="." /><img src="/_resources/images/starg.jpg" alt="." /></span></div>
+			</div> <!-- / .grid_2 --> 
+			<div class="grid_7 omega"><p>This book is the first volume in the Green Gables series, which is comprised of Anne of Green Gables, Anne of Avonlea, Anne of the Island, Anne of Windy Poplars, Annes House of Dreams, Anne of Ingleside, Rainbow Valley and Rilla of Ingleside. It introduces Anne Shirley, an orphan who is adopted accidentally when Matthew and Marilla Cuthbert send to the orphanage for a boy and get her instead. The book is part of a sub-genre of plucky girl-orphan stories which were popular at the time (Heidi, Pollyanna, The Wizard of Oz etc.) and is one of the better ones. Anne's irrepressible spirit gets her into various humorous mishaps, she wins over the curmudegonly adults around her through her charm, makes friends with the good-hearted locals and over the course of the series, grows up and has her own family.</p></div><!-- / .grid_7 --></div><!-- / .grid_9 --></div><br/></div></div><!-- .grid_9 --><div class="grid_4">
+				<div class="columnized"><a href="#" onclick="openWindow('/original_covers/m/montgome/montgomeetext92anne11.jpg','zoom','scrollbars=yes,width=144,height=210')"
+				title=" by  - click to enlarge image."><img src="/original_covers/m/montgome/montgomeetext92anne11-thumb.jpg" hspace="10" border="0" alt="Cover image for " /></a><div class="download"><a name="download"></a><h4>Download</h4><form action="/_scripts/download-ebook.php" method="post" onsubmit="document.getElementById('submit_button').disabled = 1;"><input type="hidden" name="tid" value="montgomeetext92anne11" /><select name="book"><option value="3" selected="selected">select format...</option>
+
+  <!--     epub is in S3     -->  <option value="1:epub:.epub:epub">ePub (.epub) </option>
+
+  <!--     pml is in S3     -->  <option value="1:pml:.pdb:pml">eReader (.pdb) </option>
+
+  <!--     fb2 is in S3     -->  <option value="1:fb2:.fb2:fb2">FictionBook2 (.fb2) </option><option value="2:iliad_HTML.php:.zip:custHTML">HTML - custom (.zip) *</option><option value="1:ipod:.zip:ipod">iPod Notes (.zip) </option><option value="1:isiloX:.pdb:isiloX">iSilo (.pdb) </option>
+
+  <!--     kindle is in S3     -->  <option value="1:kindle:.azw:kindle">Kindle (.azw) </option><option value="1:mobi2:.mobi:mobi2">Mobipocket (.mobi) </option>
+
+  <!--     mobi is in S3     -->  <option value="1:mobi:.prc:mobi">Mobipocket (.prc) </option><option value="1:lit:.lit:lit">MS lit (slow) (.lit) </option><option value="2:newton_builder.php:.pkg:newton">Newton (.pkg) *</option>
+
+  <!--     doc is in S3     -->  <option value="1:doc:.pdb:doc">PalmDOC (.pdb) </option>
+
+  <!--     pdf is in S3     -->  <option value="1:pdf:.pdf:pdf">PDF (.pdf) </option><option value="2:pdf_builder.php:.pdf:custiliad">PDF - custom (.pdf) *</option>
+
+  <!--     pdfLRG is in S3     -->  <option value="1:pdfLRG:.pdf:pdfLRG">PDF Large Print (.pdf) </option><option value="1:text:.txt:text">Plain text (.txt) </option>
+
+  <!--     plkr is in S3     -->  <option value="1:plkr:.pdb:plkr">Plucker (.pdb) </option><option value="1:rbk:.rb:rbk">Rocketbook (.rb) </option>
+
+  <!--     rtf is in S3     -->  <option value="1:rtf:.rtf:rtf">RTF (.rtf) </option><option value="1:librie:.lrf:librie">Sony Reader.lrf (.lrf) </option><option value="1:tcr:.tcr:tcr">TCR (.tcr) </option><option value="1:wr:.pdb:wr">zTXT (.pdb) </option><option value="mnybksjar">JAR file</option><option value="PG">Project Gutenberg</option><option value="audiobook">Audiobook</option></select><br /><input type="submit" value="download" id="submit_button" /> </form></div></div>
+				<div class="grid_3" style="margin-top: 20px !important; margin-left: 25px;">
+				<a href="#" id="show-qr" title="Show QR code for Mobile Phones"><img src="/_resources/images/qrcode_badge.gif" alt="show mobile phone QR code" /></a>
+				<br/><br/>
+      	<center>Donate a small amount via Paypal below or read about some other ways that you can <a href="/donate.php">support ManyBooks</a>.
+        <br/> <br/>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post"> <input type="hidden" name="cmd" value="_s-xclick"> <input type="hidden" name="hosted_button_id" value="E22T7B2UKBCBE"> <input type="image" 
+src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" 
+border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"> <img alt="" border="0" 
+src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" 
+height="1">
+</form>
+</center>
+<br/>
+				<!-- facebook -->
+			
+				<!-- add this -->
+				
+				<!-- gads -->
+				<!-- egads -->
+				</div>
+				<div class="grid_3" prefix_1">
+				
+				</div>
+		  </div><!-- / .grid_4 -->
+<!-- BEGIN /resources/_templates/bottom.php -->
+
+
+
+
+<div class="grid_13 prefix_3">
+ <div style="margin-top:25px;margin-left:-10px;width:600px;height:350px;"> 
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9231860735104128";
+/* MB Bottom Large Rectangle */
+google_ad_slot = "4084265052";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+ </div>
+
+<div  style="margin-left: -10px; margin-top:00px;">
+<!-- MB Newsletter -->
+<script type="text/javascript" src="http://app.getresponse.com/view_webform.js?wid=5259905&u=Rysy"></script>
+</div>
+
+
+
+</div> <!-- /container_16 -->
+
+
+<!-- UserVoice JavaScript SDK (only needed once on a page) -->
+<script>(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/0FnYMTdzvWj20ddaYDzcpQ.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()</script>
+
+<!-- A tab to launch the Classic Widget -->
+<script>
+UserVoice = window.UserVoice || [];
+UserVoice.push(['showTab', 'classic_widget', {
+  mode: 'full',
+  primary_color: '#ff4d00',
+  link_color: '#007dbf',
+  default_mode: 'feedback',
+  forum_id: 208685,
+  tab_label: 'Feedback',
+  tab_color: '#ff4d00',
+  tab_position: 'middle-right',
+  tab_inverted: false
+}]);
+</script>
+
+
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '1453484471585177']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1453484471585177&amp;ev=NoScript" /></noscript>
+
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ddadda9725c4454"></script>
+
+</body>
+</html>

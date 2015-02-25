@@ -1,0 +1,15 @@
+Date: Sat, 21 Feb 2015 00:33:58 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.4.26-1+deb.sury.org~precise+1
+Set-Cookie: allmusic_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2239bee3a852b515cdec49d2fe9efde79a%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A18%3A%222607%3Af700%3A1%3A83%3A%3A92%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A71%3A%22Opera%2F9.80+%28Windows+NT+6.1%3B+WOW64%3B+U%3B+de%29+Presto%2F2.10.289+Version%2F12.01%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1424478838%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D9efa9337d468e50615bacbeec8ce2798; path=/
+Set-Cookie: allmusic_session=a%3A6%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2239bee3a852b515cdec49d2fe9efde79a%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A18%3A%222607%3Af700%3A1%3A83%3A%3A92%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A71%3A%22Opera%2F9.80+%28Windows+NT+6.1%3B+WOW64%3B+U%3B+de%29+Presto%2F2.10.289+Version%2F12.01%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1424478838%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3Bs%3A4%3A%22user%22%3Bi%3A0%3B%7Def066600d186765dc22696f96450daf5; path=/
+Expires: Sat, 21 Feb 2015 12:34:00 GMT
+Cache-Control: maxage=43200
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+X-Cache: MISS from bb-all-isquid03.allmusic.amn
+X-Cache-Lookup: MISS from bb-all-isquid03.allmusic.amn:80
+X-Cache: MISS from bb-all-esquid01.allmusic.amn
+X-Cache-Lookup: MISS from bb-all-esquid01.allmusic.amn:80
+Via: 1.0 bb-all-isquid03.allmusic.amn (squid/3.1.23), 1.0 bb-all-esquid01.allmusic.amn (squid/3.1.23)
+

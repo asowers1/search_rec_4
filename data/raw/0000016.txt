@@ -1,0 +1,937 @@
+<!doctype html>
+<!--[if IE 7]> <html class="no-js oldie ie8 ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#" itemscope itemtype="http://schema.org/BlogPosting"> <!--<![endif]-->
+<head>
+	
+
+    
+    
+    
+
+    
+    
+             
+        
+
+    
+             
+        
+
+    
+             
+        
+
+    
+        
+             
+        
+    
+
+    
+    
+        
+      
+    
+
+    
+      
+    
+ 
+    <script>
+    
+    var TNY = TNY || {};
+
+    
+          
+            TNY.meterVar = {
+              'meter_name'  : 'dft',
+              'meter_count'  : '1',
+              'meter_max'    : '6',
+              'meter_viewed' : 'false',
+              'num'          : '4',
+              'pid'          : '',
+              'entitlement'  : ''
+            }
+          
+      
+
+        
+      
+      if(TNY.meterVar == undefined){
+          TNY.meterVar = {
+              'meter_name'   : '',
+              'meter_count'  : '',
+              'meter_max'    : '',
+              'meter_viewed' : '',
+              'num'          : '',
+              'pid'          : '',
+              'entitlement'  : ''
+          }
+      }
+        TNY.meterVar.isBarrierFull = false;
+      
+
+        
+      
+      if(TNY.meterVar == undefined){
+          TNY.meterVar = {
+              'meter_name'   : '',
+              'meter_count'  : '',
+              'meter_max'    : '',
+              'meter_viewed' : '',
+              'num'          : '',
+              'pid'          : '',
+              'entitlement'  : ''
+          }
+      }
+        TNY.meterVar.isBarrierHalf = false;
+      
+    </script>
+
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUFVlRbGwcDV1ZRBwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(3),t(4),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:6,4:5,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:21,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],10:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","trackUserAction","finished","traceEvent","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:19,2:20,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-536.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:19,2:10,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],19:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+
+
+	
+<meta name="author" content="">
+
+<meta itemprop="name" content="The Strange Triumph of &#8220;The Little Prince&#8221;">
+<meta itemprop="publisher" content="The New Yorker" itemtype="http://schema.org/Organization">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+-->
+<!-- minimal-ui=1 -->
+<meta name="HandheldFriendly" content="true">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="The New Yorker">
+
+<meta name="environment" content="prod">
+<meta name="tny:id" content="1590811">
+<link rel="shortcut icon" href="/wp-content/assets/dist/img/icon/favicon.ico">
+<link rel="apple-touch-icon" href="/wp-content/assets/dist/img/icon/apple-touch-icon.png">
+<link rel="apple-touch-icon-precomposed" href="/wp-content/assets/dist/img/icon/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/wp-content/assets/dist/img/icon/apple-touch-icon-57x57-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/wp-content/assets/dist/img/icon/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/wp-content/assets/dist/img/icon/apple-touch-icon-144x144-precomposed.png">
+
+<meta name="google-site-verification" content="_jvLA9pRQom0-f6587wRKrNwfRtqyKzjfYWvwcZ5fxc" />
+
+
+<link rel="stylesheet" href="/wp-content/assets/dist/css/core.min.css?cb=20150218201315">
+<script src="//use.typekit.net/wth6gwt.js"></script>
+<script>try{Typekit.load();}catch(e){};</script>
+
+<link rel="dns-prefetch" href="//stats2.newyorker.com" /><link rel="dns-prefetch" href="//sstats.newyorker.com" />
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>The Strange Triumph of &#8220;The Little Prince&#8221; - The New Yorker</title>
+<link rel="canonical" href="http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" />
+<link rel="publisher" href="https://plus.google.com/+newyorker"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Strange Triumph of &#8220;The Little Prince&#8221; - The New Yorker" />
+<meta property="og:description" content="Of all the books written in French over the past century, Antoine de Saint-Exup&eacute;ry&#8217;s &#8220;Le Petit Prince&#8221; is surely the best loved in the most tongues. This is very strange, because the book&#8217;s meanings&mdash;its purpose and intent and moral&mdash;still seem far from transparent, even seventy-five-plus years after its first appearance.  Indeed, the startling thing, looking again at the first reviews of the book, is that, far from being welcomed as a necessary and beautiful parable, it bewildered and puzzled its readers. Among the early reviewers, only P. L. Travers&mdash;who had, with a symmetry that makes the nonbeliever shiver, written an equivalent myth for England in her Mary Poppins books&mdash;really grasped the book&#8217;s dimensions, or its importance.         " />
+<meta property="og:url" content="http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" />
+<meta property="og:site_name" content="The New Yorker" />
+<meta property="article:tag" content="Books" />
+<meta property="article:section" content="Page-Turner" />
+<meta property="article:published_time" content="2014-04-29T15:54:49+00:00" />
+<meta property="article:modified_time" content="2014-07-16T15:23:40+00:00" />
+<meta property="og:updated_time" content="2014-07-16T15:23:40+00:00" />
+<meta property="og:image" content="http://www.newyorker.com/wp-content/uploads/2014/04/little-prince.jpg" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@newyorker"/>
+<meta name="twitter:domain" content="The New Yorker"/>
+<meta name="twitter:creator" content="@newyorker"/>
+<meta name="twitter:image:src" content="http://www.newyorker.com/wp-content/uploads/2014/04/little-prince.jpg"/>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel='shortlink' href='http://www.newyorker.com/?p=1590811' />
+<meta name="news_keywords" content="Books"><!-- wp-parsely Plugin Version 1.6 -->
+<meta name='wp-parsely_version' id='wp-parsely_version' content='1.6' />
+<meta name='parsely-page' id='parsely-page' content='{"title":"The Strange Triumph of &#8220;The Little Prince&#8221;","link":"http:\/\/www.newyorker.com\/books\/page-turner\/the-strange-triumph-of-the-little-prince","image_url":"http:\/\/www.newyorker.com\/wp-content\/uploads\/2014\/04\/little-prince-290-240.jpg","type":"post","post_id":"1590811","pub_date":"2014-04-29T15:54:49Z","section":"Page-Turner","author":"Adam Gopnik","tags":["books"]}' />
+
+		<style type="text/css">
+			body.customize-support #hd.collapsed #nav-container {
+				margin-top: 28px;
+			}
+		</style>
+<!-- End link subscription -->	</head>
+<body>
+	<nav role="navigation" class="mobile-nav">
+  <ul class="nav-links" >
+          	<li id="subscribe" class="mobile-subscribe">
+  		<div id="AMS_NYR_MOBILE_GLOBAL_SUBNAV" class="ecom-placement"><a class="failsafe" title="Subscribe to The New Yorker" target="_blank" href="http://www.newyorker.com/go/mobilefailsafe">Subscribe</a></div>  		<div id="AMS_NYR_TABLET_GLOBAL_SUBNAV" class="ecom-placement"><a class="failsafe" title="Subscribe to The New Yorker" target="_blank" href="http://www.newyorker.com/go/mobilefailsafe">Subscribe</a></div>    </li>
+    <li class="menu-item sub-nav mob-sign-in block-list user-ln-status-mobi">
+      <a id="user-sign-in" class="mobi-sign-in-button" title="Sign in to your account">Sign In</a>  
+      <span id="mobi-nav-link" class="link-sub-hamnav"> Link your subscription</span>
+    </li>
+  	<li id="mobi-account-link-1" class="menu-item sub-nav hiddenMobiMenu"></li>
+  	<li id="mobi-account-link-2" class="menu-item sub-nav hiddenMobiMenu"></li>
+  </ul>
+</nav>
+  <div class="page-container">
+    
+
+<div class="fix-fixed"><!-- Fixed --></div>
+<div class="header-wrapper">
+	<header id="hd" role="banner" class="viewed-topbanner">
+	  
+<div class="header-ad">
+  <div class="advertisement"><div id="header728x90_frame" class="displayAd displayAd728x90Js" data-cb-ad-id="header728x90_frame"></div></div><div class="advertisement"><div id="header_mobile320x50_frame" class="displayAd displayAd320x50Js" data-cb-ad-id="header_mobile320x50_frame"></div></div></div>		
+	  
+<section class="logo-container">
+  <span title="" id="mobile-nav" class="icon-menu"></span>
+
+      <div class="subscribe-links">
+      <div id="AMS_NYR_GLOBAL_HEADER" class="ecom-placement"><a href="http://www.newyorker.com/go/failsafe" target="_blank"><img alt="Cover of current issue" src="/wp-content/assets/dist/img/px.gif" data-src-desktop="//subscribe.condenet.com/images_covers/cover_newyorker_80.jpg"></a></div><div id="AMS_NYR_GLOBAL_HEADERCALLOUT" class="ecom-placement"><img src="/wp-content/assets/dist/img/px.gif" data-src-desktop="/wp-content/assets/dist/img/cn-ecom/failsafe/NYT_global_headercallout_150x110.png" usemap="#GLOBAL_HEADERCALLOUT_MAP" width="150" height="110" alt="Subscribe now"><map id="GLOBAL_HEADERCALLOUT_MAP" name="GLOBAL_HEADERCALLOUT_MAP"><area shape="rect" title="Subscribe Now" alt="Subscribe Now" coords="1,12,76,107" href="http://www.newyorker.com/go/failsafe" target="_blank" /><area shape="rect" title="Subscribe Now" alt="Subscribe Now" coords="78,12,147,40" href="http://www.newyorker.com/go/failsafe" target="_blank" /><area shape="rect" title="Renew your Subscription" alt="Renew your Subscription to the New Yorker magazine" coords="78,42,147,56" href="https://w1.buysub.com/pubs/N3/NYR/login.jsp?cds_page_id=135517&amp;cds_mag_code=NYR" target="_blank" /><area shape="rect" title="Give a Gift Subscription" alt="Give a Subscription to The New Yorker as a Gift" coords="78,58,147,75" href="http://www.newyorker.com/go/giftfailsafe" target="_blank" /><area shape="rect" title="Subscribe Now" alt="Subscribe to The New Yorker outside the USA" coords="78,77,147,107" href="http://www.newyorker.com/go/internationalfailsafe" target="_blank" /></map></div>    </div>
+  
+  <div id="logo">
+    <a href="http://www.newyorker.com" title="The New Yorker"><h1>The New Yorker</h1></a>
+  </div>
+  <div class="social-and-user-links">
+    <ul class="user-info">
+      <span id="sign_in" class="user-ln-status">
+      
+      <li id="sign-in-list" class="demo-link big plain"><span data-type="sign-in" class="header-nav-link" id="sign-in" title="Sign in to your account">
+      <span id="fallback-signin-link" class="nyer-plain-lnk">
+      Sign in       </span></span>
+       </li>
+      <li class="demo-link big plain"></li>
+      <li id="link-sub-nav" class="nyer-plain-lnk nav-menu">Link your subscription</li>
+      </span>
+      <li class="n-store"><a href="http://www.condenaststore.com/~/new-yorker-store?utm_medium=referral&amp;utm_source=NewYorker&amp;utm_content=SHOP&amp;AID=1247905545" target="_blank" title="The New Yorker Store">TNY Store</a></li>
+      <li class="demo-link big plain"><span id="sign-out-wrapper" class="big plain"></span></li>
+    </ul>
+    <ul class="social-menu">
+      <li class="facebook"><a href="https://facebook.com/newyorker" title="Facebook">F</a></li>
+      <li class="twitter"><a href="https://twitter.com/newyorker" title="Twitter">T</a></li>
+      <li class="google-plus"><a href="https://plus.google.com/+newyorker/posts" title="Google+">G+</a></li>
+    </ul>
+  </div>
+</section>	  
+<nav role="navigation" class="primary-nav">
+  <ul>
+    <li class="main-item tny-nav-icon">
+      <a href="http://www.newyorker.com/">Home</a>
+    </li>
+    <li class="tny-nav-news menu-item"><a href="http://www.newyorker.com/news">News</a></li>
+<li class="tny-nav-culture menu-item"><a href="http://www.newyorker.com/culture">Culture</a></li>
+<li class="tny-nav-books menu-item"><a href="http://www.newyorker.com/books">Books &#038; Fiction</a></li>
+<li class="tny-nav-tech menu-item"><a href="http://www.newyorker.com/tech">Science &#038; Tech</a></li>
+<li class="menu-item"><a href="http://www.newyorker.com/business">Business</a></li>
+<li class="tny-nav-humor menu-item"><a href="http://www.newyorker.com/humor">Humor</a></li>
+<li class="tny-nav-magazine menu-item"><a href="http://www.newyorker.com/magazine">Magazine</a></li>
+<li class="menu-item"><a href="http://video.newyorker.com/">Video</a></li>
+<li class="tny-nav-archive menu-item"><a href="http://www.newyorker.com/archive">Archive</a></li>
+    <li id="subscribe">
+    <div id="AMS_NYR_GLOBAL_NAVBAR" class="ecom-placement"><a title="Subscribe to The New Yorker" target="_blank" href="http://www.newyorker.com/go/failsafe">Subscribe</a></div>      <div id="subscribe-rollover">
+        <div class="subscribe-links-wrapper">
+          <div id="AMS_NYR_GLOBAL_NAVBAR_ROLLOVER" class="ecom-placement"><img rel="nofollow" src="/wp-content/assets/dist/img/px.gif" class="ecom-responsive" data-src-desktop="/wp-content/assets/dist/img/cn-ecom/failsafe/NYR_NavBarRollover_Redesign_300x200.jpg" usemap="#GLOBAL_NAVBAR_ROLLOVER_MAP" width="300" height="200" alt="Subscribe to The New Yorker" /><map id="GLOBAL_NAVBAR_ROLLOVER_MAP" name="GLOBAL_NAVBAR_ROLLOVER_MAP"><area shape="rect" coords="0,249,75,286" href="https://w1.buysub.com/loc/NYR/ATGFailsafeGift" alt="Give a Gift" target="_blank" /><area shape="rect" coords="76,249,203,286" href="https://w1.buysub.com/loc/NYR/ATGFailsafeInt" alt="International Orders" target="_blank" /><area shape="rect" coords="0,0,399,249" href="http://www.newyorker.com/go/failsafe" alt="Subscribe to The New Yorker" target="_blank" /><area shape="rect" coords="203,249,399,290" href="http://www.newyorker.com/go/failsafe" alt="Order Now" target="_blank" /></map></div>        </div>
+      </div>
+        </li>
+      <div id="navSearch" class="navSearch nav-search-container">
+	<form method="get" action="http://www.newyorker.com/search">
+		<input type="text" name="q" placeholder="Search The New Yorker" />
+		<input type="submit" value="Submit Search" />
+	</form>
+</div>     <li class="tny-nav-search"><a href="http://www.newyorker.com/search" title="Search" id="search-toggle" class="search-toggle bignav-search">Search</a></li>
+
+  </ul>
+  <div class="floatingAd-wrapper"><div id="floatingAd" style="display:none;">  <div id="floatingAd_content">    <div id="AMS_NYR_POPUP_FLOATINGAD" class="ecom-placement">    </div>    <div id="floatingAd_header"><a href="javascript:void(0)" class="close">Close</a></div>  </div></div></div>
+</nav>			
+	</header> 
+</div>
+
+    <div class="content-wrapper">
+		<div id="main" role="main" class="single-post single-blog post- tax-page-turner tax-Page-Turner tax-http://www.newyorker.com/books/page-turner ">
+	
+		<article itemscope itemtype="http://schema.org/Article" data-details='{"title":"The Strange Triumph of &#8220;The Little Prince&#8221;","author":[28448,"Adam Gopnik","http:\/\/www.newyorker.com\/contributors\/adam-gopnik"],"wordCount":1729,"paragraphCount":15}'>
+			<meta itemprop="url" content="http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" />
+			<meta itemprop="wordCount" content="1664" />
+			<header id="page-header">
+				<div class="section-info">
+											<figure>
+							<a href="http://www.newyorker.com/books/page-turner" title="Page-Turner" itemprop="articleSection">
+								<img src="/wp-content/assets/dist/img/header_graphics/blog/page-turner.png" alt="Page-Turner" />
+							</a>
+						</figure>
+										<h4><a href="http://www.newyorker.com/books/page-turner" title="Page-Turner" itemprop="articleSection">Page-Turner</a></h4>
+				</div>		
+				
+				<hgroup id="masthead">
+					<span class="timestamp "> <time datetime="20140429" itemprop="datePublished" content="2014-04-29">April 29, 2014</time></span>
+
+					<h1 itemprop="name">The Strange Triumph of &#8220;The Little Prince&#8221;</h1>
+
+					<h3>By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a href="http://www.newyorker.com/contributors/adam-gopnik" title="Adam Gopnik" rel="author" itemprop="name author">Adam Gopnik</a></span></h3>
+					<!-- TODO: Add LinkedIn and Pinterest Support [#98] -->
+
+
+
+<nav class="social-buttons">
+	<ul>
+    <li class="fb-btn"><div class="fb-share-button" data-href="http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" data-type="button"></div></li>    <li class="twitter-btn"><a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-url="http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" data-text="The Strange Triumph of &#8220;The Little Prince&#8221;" data-via="newyorker" data-dnt="true"></a></li>    <li class="gplus-btn"><div class="g-plusone" data-annotation="none" data-size="medium" data-href="http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince"></div></li>        	<li class="share-email"><a href="mailto:?subject=From%20newyorker.com: The%20Strange%20Triumph%20of%20The%20Little%20Prince&amp;body=  Of all the books written in French over the past century, Antoine de Saint-Exup&eacute;ry&#8217;s &#8220;Le Petit Prince&#8221; is surely the best loved in the most tongues. This is very strange, because the book&#8217;s meanings&mdash;its purpose and intent and moral&mdash;still seem far from transparent, even seventy-five-plus years after...%0A%0AContinue reading at http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" title="Email"><img src="/wp-content/assets/dist/img/icon/email.png" alt="Email"/></a></li>	<li class="share-print"><a href="javascript:window.print();"><img src="/wp-content/assets/dist/img/icon/printer.png" alt="Print"/></a></li>	</ul>
+</nav>
+				</hgroup>
+			</header>
+
+			<div class="module-container-rail non-solid-rail">
+				<div class="module-container-stacked post-content">
+					<div itemprop="articleBody" class="articleBody" id="articleBody">
+						
+												<figure class="vertical attachment-medium portrait featured">
+							<a href="http://www.newyorker.com/wp-content/uploads/2014/04/little-prince.jpg" title="The Strange Triumph of &#8220;The Little Prince&#8221;" itemprop="url">
+								<img itemprop="image" src="http://www.newyorker.com/wp-content/uploads/2014/04/little-prince.jpg" data-src="http://www.newyorker.com/wp-content/uploads/2014/04/little-prince.jpg"  class="post-load vertical attachment-medium" alt="">							</a>
+
+													</figure>
+						
+						
+<span data-attr="1" data-ma="6" data-bt="ALLOW_ACCESS" data-rv="false" data-sub=""></span>
+
+
+
+  
+    
+      <a class="tny-slot" name="/2" data-total-words="0"></a><a class="tny-page" name="/1" data-total-words="0"></a><p word_count="129">Of all the books written in French over the past century, Antoine de Saint-Exup&eacute;ry&#8217;s &#8220;Le Petit Prince&#8221; is surely the best loved in the most tongues. This is very strange, because the book&#8217;s meanings&mdash;its purpose and intent and moral&mdash;still seem far from transparent, even seventy-five-plus years after its first appearance.  Indeed, the startling thing, looking again at the first reviews of the book, is that, far from being welcomed as a necessary and beautiful parable, it bewildered and puzzled its readers. Among the early reviewers, only P. L. Travers&mdash;who had, with a symmetry that makes the nonbeliever shiver, written an equivalent myth for England in her Mary Poppins books&mdash;really grasped the book&#8217;s dimensions, or its importance.  </p> <p word_count="0">      <span id="more-1590811"></span> <div class="content-ad-wrapper first"><div class="advertisement"><div id="yrailTop300x250_frame" class="displayAd displayAd300x250Js" data-cb-ad-id="yrailTop300x250_frame"></div><div id="yrailTop320x50_frame" class="displayAd displayAd320x50Js" data-cb-ad-id="yrailTop300x250_frame"></div></div></div><p word_count="71">Over time, the suffrage of readers has altered that conclusion, of course: a classic is a classic.  But it has altered the conclusion without really changing the point. This year marks an efflorescence of attention, including a full-scale exhibition of Saint-Exup&eacute;ry&#8217;s original artwork at the Morgan Library &amp; Museum, in New York.  But we are no closer to penetrating the central riddle:  What is &#8220;The Little Prince&#8221; <em>about</em>?</p> <p word_count="96">Everyone knows the basic bones of the story: an aviator, downed in the desert and facing long odds of survival, encounters a strange young person, neither man nor really boy, who, it emerges over time, has travelled from his solitary home on a distant asteroid, where he lives alone with a single rose. The rose has made him so miserable that, in torment, he has taken advantage of a flock of birds to convey him to other planets. He is instructed by a wise if cautious fox, and by a sinister angel of death, the snake. </p> <p word_count="209">It took many years&#8212;and many readings&#8212;for this reader to begin to understand that the book is a <em>war story</em>. Not an allegory of war, rather, a fable of it, in which the central emotions of conflict&mdash;isolation, fear, and uncertainty&mdash;are alleviated only by intimate speech and love. But the &#8220;Petit Prince&#8221; is a war story in a very literal sense, too&mdash;everything about its making has to do not just with the onset of war but with the &#8220;strange defeat&#8221; of France, with the experience of Vichy and the Occupation.  Saint-Exup&eacute;ry&#8217;s sense of shame and confusion at the devasation led him   to make a fable   of abstract ideas set against specific loves.   In this enterprise, he sang in unconscious harmony with the other great poets of the war&#8217;s loss, from J. D. Salinger&mdash;whose great post-war story, &#8220;For Esm&eacute;&mdash;with Love and Squalor&#8221; shows us moral breakdown eased only by the speech of a lucid child&mdash;to his contemporary Albert Camus, who also took from the war the need to engage in a perpetual battle &#8220;between each man&#8217;s happiness and the illness of abstraction,&#8221; meaning the act of distancing real emotion from normal life. </p> <p word_count="0"><center>*&#160;*&#160;*&#160;</center></p> <p word_count="232">We know the circumstances of the composition of &#8220;The Little Prince&#8221; in detail now, courtesy of Stacy Schiff&#8217;s fine biography, &#8220;Saint-Exup&eacute;ry.&#8221; Escaped from Europe to an unhappy, monolingual exile in North America, engaged in petty but heated internecine warfare with the other exile and resisting groups (he had a poor opinion of DeGaulle, who, he wrongly thought, was setting the French against the French, rather than against the Germans), Saint-Exup&eacute;ry wrote this most French of fables in Manhattan and Long Island. The book&#8217;s desert setting derives from the aviator Saint-Exup&eacute;ry&#8217;s 1935 experience of having been lost for almost a week in the Arabian desert, with his memories of loneliness, hallucination, impending death (and enveloping beauty) in the desert realized on the page. The central love story of the Prince and Rose derives from his stormy love affair with his wife, Consuelo, from whom the rose takes her cough and her flightiness and her imperiousness and her sudden swoons.  (While he had been lost in the desert in &#8217;35, Schiff tells us, she had been publicly mourning his loss on her own &#8216;asteroid,&#8217; her table at the Brasserie Lipp.)  The desert and the rose&#8212;his life as an intrepid aviator and his life as a baffled lover&mdash;were his inspiration.  But between those two experiences, skewering them, dividing them with a line, was the war.  </p> <p word_count="143">In the deepest parts of his psyche, he had felt the loss of France not just as a loss of battle but also as a loss of <em>meaning</em>. The desert of the strange defeat was more bewildering than the desert of Libya had been; nothing any longer made sense. Saint-Ex&#8217;s own war was honorable: he flew with the GR II/33 reconnaissance squadron of the <em>Arm&eacute;e de l&rsquo;Air</em>. And, after the bitter defeat, he fled Europe like so many other patriotic Frenchmen, travelling through Portugal and arriving in New York on the last day of 1940. But, as anyone who lived through it knew, what made the loss so traumatic was the sense that the entire underpinning of French civilization, not merely its armies, had come, so to speak, under the scrutiny of the gods and, with remarkable speed, collapsed. </p> <a class="tny-slot" name="/3" data-total-words="880"></a><div class="content-ad-wrapper"><div class="advertisement"><div id="yrailBottom300x250_frame" class="displayAd displayAd300x250Js" data-cb-ad-id="yrailBottom300x250_frame"></div><div id="yrailBottom320x50_frame" class="displayAd displayAd320x50Js" data-cb-ad-id="yrailBottom300x250_frame"></div></div></div><a class="tny-page" name="/2" data-total-words="880"></a><p word_count="126">Searching for the causes of that collapse, the most honest honorable minds&mdash;Marc Bloch and Camus among them&mdash;thought that the real fault lay in the French habit of abstraction.  The French tradition that moved, and still moves, pragmatic questions about specific instances into a parallel paper universe in which the general theoretical question&mdash;the model&mdash;is what matters most had failed its makers. Certainly, one way of responding to the disaster was to search out some new set of abstractions, of overarching categories to replace those lost. But a more humane response was to engage in a ceaseless battle against all those abstractions that keep us from life as it is. No one put this better than the heroic Bloch himself:</p> <p word_count="64"> <blockquote>The first task of my trade (i.e. of the historian, but more broadly the humanist properly so called) consists in avoiding big-sounding abstract terms. Those who teach history should be continually concerned with the task of seeking the solid and concrete behind the empty and abstract. In other words, it is on men rather than functions that they should concentrate all their attention. </p></blockquote> <p word_count="133">This might seem like a very odd moral to take from the experience of something as devastating as the war.   But  it wasn&#8217;t merely intellectual, an amateur&#8217;s non-combatant epiphany.  At a   purely tactical, military level, the urge to abstraction had meant the urge to fetishize fixed, systematic solutions at the expense of tactical fluidity and resourcefulness.      The Maginot line was an abstract idea that had been allowed to replace   flexible strategy and common sense. (One recalls Picasso&#8217;s comment to Matisse, when the troubled French painter asked him, in 1940, &#8220;But what about our generals, what are they doing?&#8221;: &#8220;Our generals? They&#8217;re the masters at the Ecole des Beaux Arts!&#8221; Picasso responded, meaning men possessed by the same rote formulae and absence of observation and obsessive traditionalism as the academic artists.   </p> <p word_count="160">From an experience that was so dehumanizing and overwhelming&mdash;an experience that turns an entire human being with a complicated life history and destiny first into a cipher and then into a casualty&mdash;Saint-Exup&eacute;ry wanted to rescue the person, not the statistic.    The statistics could be any of those the men on the planets are obsessed with, the &#8216;counting&#8217; fetish that might take in stars if one is an astronomer or profits for businessmen.    The richest way to see &#8220;Le Petit Prince&#8221; is as an extended parable of the kinds and follies of abstraction&mdash;and the special intensity and poignance of the story is that Saint-Exup&eacute;ry dramatizes the struggle against abstraction not as a philosophical subject but as a life-and-death story. The book moves from asteroid to desert, from fable and comedy to enigmatic tragedy, in order to make one recurrent point: You can&#8217;t love roses. You can only love a rose. </p> <p word_count="186">For all of the Prince&#8217;s journey is a journey of exile, like Saint-Exup&eacute;ry&#8217;s, away from generic experience towards the eroticism of the particular flower. To be responsible for his rose, the Prince learns, is to see it as it really is, in all its fragility and vanity&mdash;indeed, in all its utter commonness!&mdash;without loving it less for being so fragile.  The persistent   triumph of specific experience can be found in something as idiosyncratic and bizarre as the opening image of a boa constrictor swallowing an elephant, which, the narrator tells us, the grownups can only see as a generic object. (This is where Saint-Ex and the Surrealists who admired him&mdash;a tracing of his hand appears in one of the issues of the Surrealist journal  <i>Minotaur</i>&mdash;touch. Rene Magritte&rsquo;s paintings, with their very similar obsession with middle-class hats, suggest that every time you see a bourgeois derby there may be a boa constrictor inside. The X-ray of every hat reveals a boa constrictor in every head. That could be the motto of every Surrealist exhibition.)</p> <a class="tny-slot" name="/4" data-total-words="1613"></a><p word_count="88">The men the Prince meets on his journey to Earth are all men who have, in Bloch&#8217;s sense, been reduced to functions.  The Businessman, the Astronomer, even the poor Lamplighter, have become their occupations, and gone blind to the stars.   It is, again, the essential movement we find in Camus, only in &#8220;The Little Prince&#8221; it is shown to us as comic fable rather than realistic novel. The world conspires to make us blind to its own workings; our real work is to see the world again. </p> <p word_count="27"><em>A version of this essay first appeared, in French, in the magazine France-Amerique; it was also the subject of a lecture at the Morgan Library &amp; Museum.</em></p>     
+  
+
+
+<!-- TODO: Add LinkedIn and Pinterest Support [#98] -->
+
+
+
+<nav class="social-buttons">
+	<ul>
+    <li class="fb-btn"><div class="fb-share-button" data-href="http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" data-type="button"></div></li>    <li class="twitter-btn"><a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-url="http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" data-text="The Strange Triumph of &#8220;The Little Prince&#8221;" data-via="newyorker" data-dnt="true"></a></li>    <li class="gplus-btn"><div class="g-plusone" data-annotation="none" data-size="medium" data-href="http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince"></div></li>        	<li class="share-email"><a href="mailto:?subject=From%20newyorker.com: The%20Strange%20Triumph%20of%20The%20Little%20Prince&amp;body=  Of all the books written in French over the past century, Antoine de Saint-Exup&eacute;ry&#8217;s &#8220;Le Petit Prince&#8221; is surely the best loved in the most tongues. This is very strange, because the book&#8217;s meanings&mdash;its purpose and intent and moral&mdash;still seem far from transparent, even seventy-five-plus years after...%0A%0AContinue reading at http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" title="Email"><img src="/wp-content/assets/dist/img/icon/email.png" alt="Email"/></a></li>	<li class="share-print"><a href="javascript:window.print();"><img src="/wp-content/assets/dist/img/icon/printer.png" alt="Print"/></a></li>	</ul>
+</nav>
+					</div>
+					<section class="article-contributors">
+						
+<section class="author-details" itemscope itemtype="http://schema.org/Person">
+		<article class="">
+						<figure>
+			  <a rel="me" itemprop="url" class="author-thumb" href="http://www.newyorker.com/contributors/adam-gopnik" title="Adam Gopnik"><img width="320" height="320" src="http://www.newyorker.com/wp-content/uploads/2014/03/gopnick.png" class="attachment-medium wp-post-image" alt="gopnick" itemprop="thumbnail" /></a>
+			</figure>
+						<div class="author-masthead">	
+				<p>Adam Gopnik, a staff writer, has been contributing to <em>The New Yorker</em> since 1986.</p>
+			</div>
+			<ul class="author-links">
+					<li>
+						<a class="light-button" href="http://www.newyorker.com/contributors/adam-gopnik" title="Adam Gopnik">Bio</a>
+					</li>
+					<li>
+						<a class="light-button" href="http://www.newyorker.com/contributors/adam-gopnik/all" title="Adam Gopnik">All work</a>
+					</li>
+										<li class="twitter">
+						<a rel="me" itemprop="url" href="https://twitter.com/adamgopnik"><i></i></a>
+					</li>
+																			</ul>
+		</article>
+</section>
+<div class="author-ampersand">&amp;</div>
+					</section>
+				</div>
+				
+<aside class="container-rail">
+
+  <section id="newsletter-signup">
+    <h5 class="popping">Sign up to get the best of The New Yorker delivered to your inbox every day</h5>
+    	<div class="newsletterContainer">
+	      <form action="/wp-admin/admin-ajax.php" method="post" name="newsletter-form" id="newsletter-form" novalidate="novalidate" class="newsletter-signup-form">
+	      <input type="hidden" name="action" value="newsletter_subscribe">
+	      <input type="hidden" name="formName" value="newsletter-form">
+	      <input type="hidden" name="url" value="http://www.newyorker.com"><input type="hidden" name="source_code" value="footer-unit">    <fieldset>
+	          <legend><h5>Sign up for newsletters</h5></legend>
+	          <label for="newsletter-email" class="replace">E-mail address</label>
+	          <input name="email" id="newsletter-email" type="email" placeholder="E-mail address" required="" class="">
+	          <button type="submit" name="submit-newsletter" id="submit-newsletter-content">Sign up</button>
+	      </fieldset>
+	      <div class="form_response"></div>        
+	          <ul class="subscribe-ids">
+	              <li>
+
+	                  <fieldset class="row newsletter checkbox">
+	                      <input type="checkbox" id="newsletterId_217" name="newsletterId[]" value="217" checked="checked">
+	                      <label for="newsletterId_217"></label>
+	                  </fieldset>
+	              </li>
+	              <li>
+	                  <fieldset class="row newsletter checkbox">
+	                      <input type="checkbox" id="newsletterId_442" name="newsletterId[]" value="442">
+	                      <label for="newsletterId_442"></label>
+	                  </fieldset>
+	              </li>
+	              <li>
+	                  <fieldset class="row newsletter checkbox">
+	                      <input type="checkbox" id="newsletterId_5129" name="newsletterId[]" value="5129">
+	                      <label for="newsletterId_5129"></label>
+	                  </fieldset>
+	              </li>
+	          </ul>
+	      </form>
+		    <span class="newsletter-message"></span>
+      </div>
+  </section>
+	<div class="recirculation">
+		<div class="tablet-half-wrapper">
+			<div id="most-popular-polar-text"></div>
+			<div class="clearfix"></div>
+	    </div> <!-- // div.tablet-left-wrapper -->
+
+		<div class="tablet-half-wrapper recirc-most-popular-wrapper">
+			<span class="post-load-module" data-name="most-popular" data-cache="10m" data-views="all"></span>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</aside>
+			</div>
+		</article>
+		<section class="module">
+	<div id="you-might-like" class="big-titled-curation" style="display: none;">
+		<h5 class="popping">You Might Like</h5>
+		<div id="yml-list" class="stories"></div>
+	</div>
+</section>
+	</div>
+	<aside id="footer-ad-google"><div class="ad" data-lazyad data-matchmedia="only screen and (min-width: 850px)"><script type="text/lazyad">
+<!--
+<script>  google_ad_client = 'ca-conde_newyorker';  google_ad_channel = 'newyorker_standard_a newyorker_standard_b';  google_language = 'en';  google_ad_width = '728';  google_ad_height = '90';  google_ad_format = '728x90_pas_abgc';  google_ad_type = 'text';  google_alternate_ad_url = '';  google_alternate_color = '';  google_color_bg = 'edefee';  google_color_border = '';  google_color_line = '000000';  google_color_url = '000000';  google_color_link = '000000';  google_color_text = '000000';  google_encoding = 'utf8';  google_safe = 'high';  google_adtest = 'off';  google_ad_section = 'default';</script>
+<script src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div>
+-->
+</script>
+</aside>
+<span class="post-load-module" data-name="promotions" data-cache="48h" data-views="desktop"></span>
+<span class="post-load-module" data-name="strongbox" data-cache="48h" data-views="desktop"></span>
+
+
+		<aside id="footer-ad">
+			<!-- Need to have mobile ad sizes reevaluated -->
+		  <div class="advertisement"><div id="footerMobile320x51_frame" class="displayAd displayAd320x51Js" data-cb-ad-id="footerMobile320x51_frame"></div></div>		  <div class="advertisement"><div id="footer728x90_frame" class="displayAd displayAd728x90Js" data-cb-ad-id="footer728x90_frame"></div></div>		</aside>
+
+		<div id="digital-editions"><div id="AMS_NYR_GLOBAL_FOOTER" class="ecom-placement"><a href="http://www.newyorker.com/go/failsafe" data-mobile="http://www.newyorker.com/go/mobilefailsafe" target="_blank"><img src="/wp-content/assets/dist/img/px.gif" class="ecom-responsive" data-src-desktop="/wp-content/assets/dist/img/cn-ecom/failsafe/NYR_Footer_Desktop_1020x180.jpg" data-src-tablet="/wp-content/assets/dist/img/cn-ecom/failsafe/NYR_Footer_TabletRedesign_728x128.jpg" data-src-mobile="/wp-content/assets/dist/img/cn-ecom/failsafe/NYR_Mobile_300x50.NavyTote.jpg" alt="Subscribe to The New Yorker" /></a></div></div>
+		<footer>
+			<nav id="tny-footer">
+			  <ul>
+				<li><a href="/about/us/?src=tny-footer" title="About Us">About Us</a></li>
+				<li><a href="/about/faq/?src=tny-footer" title="Frequently Asked Questions">FAQ</a></li>
+				<li><a href="http://w1.buysub.com/servlet/CSGateway?cds_mag_code=NYR" title="Customer Care">Customer Care</a></li>
+				<li><a href="http://www.condenaststore.com/-se/cartoonbank.htm?utm_medium=referral&amp;utm_source=NewYorker&amp;utm_content=tny-footer&amp;AID=1247905545" title="">Cartoon Bank</a></li>
+				<li><a href="http://www.newyorkeronthetown.com/?src=tny-footer" title="">On The Town</a></li>
+				<li><a href="/about/feeds/?src=tny-footer" title="">RSS</a></li>
+				<li><a href="/about/contact/?src=tny-footer" title="">Contact Us</a></li>
+			  </ul>
+			  <ul>
+		    	<li><a href="http://www.condenaststore.com/-se/newyorkerstore.htm?utm_medium=referral&amp;utm_source=NewYorker&amp;utm_content=tny-footer&amp;AID=1247905545" title="">The New Yorker Store</a></li>
+			    <li><a href="http://www.condenast.com/careers?src=tny-footer" title="">Careers</a></li>
+			    <li><a href="http://www.condenast.com/reprints-permissions?src=tny-footer" title="">Reprints/Permissions</a></li>
+			    <li><a href="/about/press/?src=tny-footer" title="Press Center">Press</a></li>
+			    <li><a href="http://www.condenast.com/brands/new-yorker/media-kit/?src=tny-footer" title="">The New Yorker Media Kit</a></li>
+			  </ul>
+			</nav>
+			<div id="conde-footer">
+  <div class="global-footer-logo">
+    <a href="http://www.condenast.com?src=tny-footer" title="Cond&eacute; Nast Digital">Cond&eacute; Nast Digital</a>
+  </div>
+  <div class="global-footer-subscriptions">
+      <form action="/" name="sub_dropmenus" id="sub_dropmenus">
+        <select onchange="(this.options[this.selectedIndex].value) ? window.open(this.options[this.selectedIndex].value) : null" name="sub_list" id="sub_list" size="1">
+            <option selected="selected" value="">Subscribe to a magazine</option>
+            <option value="">
+            </option><option value="http://www.magazinestoresubscriptions.com?src=univdropdown">View All Titles</option>
+            <option value="">- - - - - - - - - - - - - -</option>
+            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Allure?src=tny-footer">Allure</option>
+            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_ArchitecturalDigest?src=tny-footer">Architectural Digest</option>
+            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_BonAppetite?src=tny-footer">Bon App&eacute;tit</option>
+            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Brides?src=tny-footer">Brides</option>
+            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_CondeNastTraveler?src=tny-footer">Cond&eacute; Nast Traveler</option>
+            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Details?src=tny-footer">Details</option>
+            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Glamour?src=tny-footer">Glamour</option>
+            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GolfDigest?src=tny-footer">Golf Digest</option>
+            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GolfWorld?src=tny-footer">Golf World</option>
+            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GQ?src=tny-footer">GQ</option>
+            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Lucky?src=tny-footer">Lucky</option>
+            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Self?src=tny-footer">Self</option>
+            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_TeenVogue?src=tny-footer">Teen Vogue</option>
+            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_NewYorker?src=tny-footer">The New Yorker</option>
+            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_VanityFair?src=tny-footer">Vanity Fair</option>
+            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Vogue?src=tny-footer">Vogue</option>
+            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_W?src=tny-footer">W</option>
+            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Wired?src=tny-footer">Wired</option>
+          </select>
+      </form>
+  </div>
+  <div class="global-footer-sister-sites">
+      <form action="/" name="mag_dropmenus" id="mag_dropmenus">
+          <select onchange="(this.options[this.selectedIndex].value) ? window.open(this.options[this.selectedIndex].value) : null" name="mag_list" id="mag_list">
+            <option selected="selected" value="">Other Cond&eacute; Nast sites</option>
+            <option value="">- - - - - - - - - - - - - -</option>
+            <option value="http://www.allure.com?src=tny-footer">Allure</option>
+            <option value="http://www.architecturaldigest.com?src=tny-footer">Architectural Digest</option>
+            <option value="http://www.arstechnica.com?src=tny-footer">Ars Technica</option>
+            <option value="http://www.bonappetit.com?src=tny-footer">Bon App&eacute;tit</option>
+            <option value="http://www.brides.com?src=tny-footer">Brides.com</option>
+            <option value="http://www.concierge.com/cntraveler?src=tny-footer">Cond&eacute; Nast Traveler</option>
+            <option value="http://www.concierge.com?src=tny-footer">Concierge</option>
+            <option value="http://www.details.com?src=tny-footer">Details</option>
+            <option value="http://www.epicurious.com?src=tny-footer">Epicurious</option>
+            <option value="http://www.glamour.com?src=tny-footer">Glamour</option>
+            <option value="http://www.golfdigest.com?src=tny-footer">Golf Digest</option>
+            <option value="http://www.golfworld.com?src=tny-footer">Golf World</option>
+            <option value="http://www.gq.com?src=tny-footer">GQ</option>
+            <option value="http://www.hotelchatter.com?src=tny-footer">Hotel Chatter</option>
+            <option value="http://www.jaunted.com?src=tny-footer">Jaunted</option>
+            <option value="http://www.luckymag.com?src=tny-footer">Lucky</option>
+            <option value="http://www.nutritiondata.com?src=tny-footer">NutritionData</option>
+            <option value="http://www.reddit.com?src=tny-footer">Reddit</option>
+            <option value="http://thescene.com?src=tny-footer">The Scene</option>
+            <option value="http://www.self.com?src=tny-footer">Self</option>
+            <option value="http://www.style.com?src=tny-footer">Style</option>
+            <option value="http://www.teenvogue.com?src=tny-footer">Teen Vogue</option>
+            <option value="http://www.vanityfair.com?src=tny-footer">Vanity Fair</option>
+            <option value="http://www.vegaschatter.com?src=tny-footer">Vegas Chatter</option>
+            <option value="http://www.vogue.com?src=tny-footer">Vogue</option>
+            <option value="http://www.wmagazine.com?src=tny-footer">W</option>
+            <option value="http://www.wired.com?src=tny-footer">Wired</option>
+          </select>
+      </form>
+  </div>
+  <div id="copy">
+  	<p><small>Use of this site constitutes acceptance of our <a href="http://www.condenast.com/privacy-policy">User Agreement</a> (effective January 1, 2014) and <a href="http://www.condenast.com/privacy-policy#privacypolicy">Privacy Policy</a> (effective January 1, 2014). <a href="http://www.condenast.com/privacy-policy#privacypolicy-california">Your California Privacy Rights</a> The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Cond&eacute; Nast. <a href="http://www.condenast.com/privacy-policy#privacypolicy-optout">Ad Choices&nbsp;<img width="10" height="10" src="/wp-content/assets/dist/img/icon/ad_choices_arrow.png" alt="Ad Choices"></a></small></p>
+  </div>
+</div>
+		</footer>
+	</div> <!-- end .content-wrapper -->
+</div> <!-- end .page-container -->
+	<div id="CMU_RIGHTRAIL_CONTAINER">
+  <div id="AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A" class="ecom-placement"><a href="http://www.newyorker.com/go/failsafe" target="_blank"><img src="/wp-content/assets/dist/img/px.gif" data-src-desktop="/wp-content/assets/dist/img/cn-ecom/failsafe/NYR_Search_Tablet_300x250.jpg" alt="Subscribe to The New Yorker" /></a></div></div>	
+	<script>  var CN = CN || {};  /* <![CDATA[ */  var platformEnvironment = "production";  var sitehost = "http://www.newyorker.com";  var omniture_init = [];  CN.omniture = CN.omniture || {}; CN.omniture.conf = {"s_account":"conde-newyorker","server":"stats2.newyorker.com","secureServer":"sstats.newyorker.com","internalFilters":"javascript:,newyorker.com,advancemags.com"};  /* ]]> */</script>
+<script src="/wp-content/assets/dist/js/head.min.js?cb=20150218201315"></script>
+<script>var TNY = TNY || {}; TNY.Stats = TNY.Stats || {}; TNY.Stats.omniture = TNY.Stats.omniture || {}; TNY.Stats.omniture._conditions = TNY.Stats.omniture._conditions || {contentId: "1590811", cnUserServices: "true", templateName: "Article", keywordsList: "page-turner|books-tag|article|channel_books", deviceViewCallback: jQuery.devices.getDeviceView(), isSingular: true, setContentId: "1590811", isPost: true, setAuthorName: "Adam Gopnik", isPostOrArticle: true, dateTimePublished: "2014-04-29 15:54:49", dateTimeSince: "7130h|297d", id: "1590811", contributor: "Adam Gopnik", hero: "Eustace Tilley"}</script>
+<noscript>
+<a href="http://www.omniture.com" title="Web Analytics"><img src="http://condenast.112.2o7.net/b/ss/conde-newyorker/1/H.15.1--NS/0" height="1" width="1" border="0" alt="" /></a>
+</noscript>
+            <script type="text/javascript" class="site_init">
+            //<!--
+                CN.site.init({
+                    code:             'NYR',
+                    title:            'The New Yorker',
+                    name:             'newyorker',
+                    alias:            'newyorker.com',
+                    domain:           'newyorker.com',
+                    tld:              'newyorker.com',
+                    baseUrl:          'http://www.newyorker.com',
+                    mobilecompatible: 'true',
+                    httpStatusCode:    200,
+            userServiceUrl: 'http://user-service.condenast.com',
+userServiceKey: 'TE7pnBDUEVco2vXPPNQVZNFlipc=',
+ecomUrl: 'https://subscribe.newyorker.com/api/circ/xml/Transaction',
+socialRes: 'http://www.newyorker.com/services/livefyre/userToken',
+                    env: 'PROD'  // Put something consistent last so we don't have a trailing comma (appease IE)
+                });
+
+                CN.isMobile = TNY.initIsMobile;
+                CN.isTablet = jQuery.devices.tablet();
+                CN.checkDeviceView = jQuery.devices.checkDeviceView;
+            //-->
+            </script>
+                            <!-- AD INIT: CN.dart.init version 2 -->
+                <script type="text/javascript">
+                //<!--
+                    CN.dartKwsArray = [ "dphiffer","page_turner","books_tag","books","the_strange_triumph_of_the_little_prince","article","channel_books" ];
+
+                
+                if(TNY.meterVar == undefined){ TNY.meterVar = { 'meter_name' : '', 'meter_count' : '', 'meter_max' : '', 'meter_viewed' : '', 'num' : '', 'pid' : '', 'entitlement'  : '' } } if(TNY.meterVar != undefined){  if( TNY.meterVar.isBarrierHalf ){ CN.dartKwsArray.push('novideo'); }  if( TNY.meterVar.isBarrierFull ){ CN.dartKwsArray.push('noads'); } } 
+                    CN.dart.init({
+                        adUnits: {
+                            unit1: CN.isMobile ? 'newyorker.mobile.dart' : 'newyorker.dart',
+                            unit2: 'books',
+                            unit3: 'page-turner',
+                            unit4: ''
+                        },
+                        kws: CN.dartKwsArray,
+                        contentType: 'Article',
+                                            charmap : {' ' : '+', '-' : '_'}
+                    });
+                                //-->
+                    </script>
+                            <!-- CM: page-ads.js -->
+            <script type="text/javascript">
+            //<!--
+                var _ghearst_vars = (function() {
+                    var commonParams = 'ad_category_prefix=books'
+                                        + '&amp;browser_path=%2Fbooks%2Fpage-turner%2Fthe-strange-triumph-of-the-little-prince'
+                                        + '&amp;cat_prefixes=%2Cbooks%2Cpage-turner%2Cthe-strange-triumph-of-the-little-prince'
+                                        + '&amp;site_prefix=newyorker'
+                                        + '&amp;subdomain=mprod'
+                                        + '&amp;url_name=the-strange-triumph-of-the-little-prince';
+
+                                var metaKeyWords = (function() {
+                        var
+                            i                  = 0,
+                            metaKeywordContent = '',
+                            nameAttribute      = null,
+                            metaCollection     = document.getElementsByTagName('meta');
+
+                        for (i=0;i<metaCollection.length;i++) {
+                            nameAttribute = metaCollection[i].name.search(/keywords/);
+                            if (nameAttribute!= -1) {
+                                metaKeywordContent = metaCollection[i].content;
+                                metaKeywordContent = metaKeywordContent.replace(/,/g,'%2C'); // to replace ,
+                                metaKeywordContent = metaKeywordContent.replace(/ /g,''); // to replace space
+                            }
+                        }
+                        return encodeURIComponent(metaKeywordContent);
+                    })();
+            
+                    var deviceParams = (function() {
+                                                    if ( CN.checkDeviceView('desktop') ) {
+                                    return 'AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A%2CAMS_NYR_GLOBAL_FOOTER%2CAMS_NYR_GLOBAL_HEADER%2CAMS_NYR_GLOBAL_HEADERCALLOUT%2CAMS_NYR_GLOBAL_NAVBAR%2CAMS_NYR_GLOBAL_NAVBAR_ROLLOVER%2CAMS_NYR_GLOBAL_NAVBAR_STICKY%2CAMS_NYR_GLOBAL_NAVBAR_ROLLOVER_STICKY';
+                                }
+                                                                if ( CN.checkDeviceView('tablet') ) {
+                                    return 'AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A%2CAMS_NYR_GLOBAL_FOOTER%2CAMS_NYR_TABLET_GLOBAL_SUBNAV';
+                                }
+                                                                if ( CN.checkDeviceView('mobile') ) {
+                                    return 'AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A%2CAMS_NYR_GLOBAL_FOOTER%2CAMS_NYR_MOBILE_GLOBAL_SUBNAV';
+                                }
+                                                    })();
+
+            if(TNY.meterVar != undefined){  if(TNY.meterVar.isBarrierHalf) {    TNY.barrierStatus = "half";  } else if(TNY.meterVar.isBarrierFull) {    TNY.barrierStatus = "full";  }  TNY.checkIfBarrierIsShown = function(){      paywallCMU = "%2CAMS_NYR_PAYWALL_FULL_WIDTH_BARRIER%2CAMS_NYR_PAYWALL_BARRIER";    deviceParams = deviceParams + paywallCMU;  };  TNY.addBarrierState = function(){    deviceParams = deviceParams + "&article_count=" + TNY.barrierStatus;    TNY.deviceParams = deviceParams;  };  if(TNY.barrierStatus != undefined){    TNY.checkIfBarrierIsShown();    TNY.addBarrierState();  } } 
+                    return {
+                        'ams_ads_script_src' : 'https://subscribe.newyorker.com/ams/page-ads.js?'
+                                                + commonParams + ''
+                                                + '&amp;keywords=' + metaKeyWords + ''
+                                                + '&amp;position_list=' + deviceParams + ''
+                    };
+                })();
+
+                if (!window.$h) {window.$h = {}}
+                (function(){
+                    if (!$h.util) {
+                        $h.util = {
+                            buildScriptTag: function(src){
+                                if (!!src){ document.write('<scr' + 'ipt src="'+src+'" type="text/javascript"></scr' + 'ipt>');}
+                            }
+                        }
+                    }
+                    $h.util.buildScriptTag(_ghearst_vars.ams_ads_script_src)
+                })();
+            //-->
+            </script>
+            <script src="//assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-9cb2a39d627a819b6ca42ab76f651dbfa7b1a535.js"></script>
+    <script src="/wp-content/assets/dist/js/stats.min.js?cb=20150218201315"></script> 
+    <script src="/wp-content/assets/dist/js/core.min.js?cb=20150218201315"></script> 
+   <script type="text/javascript">if ( typeof CN !== "undefined" ) {
+if ( CN.dart ) {
+ CN.dart.call( "yrailBottom", { sz: ( CN.isMobile ? "320x50" : "300x250" ), kws: [ "bottom" ], collapse: true } );
+}
+}</script><script type="text/javascript">if ( typeof CN !== "undefined" ) {
+if ( CN.dart ) {
+ CN.dart.call( "yrailTop", { sz: ( CN.isMobile ? "320x50" : "300x250" ), kws: [ "top" ], collapse: true } );
+}
+}</script><script type="text/javascript">if ( typeof CN !== "undefined" ) {
+if ( ! CN.isMobile && CN.dart ) {
+ CN.dart.call( "header", { sz: "728x90", kws: [ "top" ], collapse: true } );
+} 
+}</script><script type="text/javascript">if ( typeof CN !== "undefined" ) {
+if ( CN.isMobile && CN.dart ) {
+ CN.dart.call( "header_mobile", { sz: ( "320x50" ), kws: [ "top" ], collapse: true } );
+} 
+}</script><script type="text/javascript">if ( typeof CN !== "undefined" ) {
+if ( CN.dart ) {
+ CN.dart.call( "yrailBottom", { sz: ( CN.isMobile ? "320x50" : "300x250" ), kws: [ "bottom" ], collapse: true } );
+}
+}</script><script type="text/javascript">if ( typeof CN !== "undefined" ) {
+if ( CN.dart ) {
+ CN.dart.call( "yrailTop", { sz: ( CN.isMobile ? "320x50" : "300x250" ), kws: [ "top" ], collapse: true } );
+}
+}</script><script type="text/javascript">if ( typeof CN !== "undefined" ) {
+if ( CN.dart ) {
+ CN.dart.call( "yrailBottom", { sz: ( CN.isMobile ? "320x50" : "300x250" ), kws: [ "bottom" ], collapse: true } );
+}
+}</script><script type="text/javascript">if ( typeof CN !== "undefined" ) {
+if ( CN.dart ) {
+ CN.dart.call( "yrailTop", { sz: ( CN.isMobile ? "320x50" : "300x250" ), kws: [ "top" ], collapse: true } );
+}
+}</script><script type="text/javascript">if ( typeof CN !== "undefined" ) {
+if ( CN.dart ) {
+ CN.dart.call( "yrailBottom", { sz: ( CN.isMobile ? "320x50" : "300x250" ), kws: [ "bottom" ], collapse: true } );
+}
+}</script><script type="text/javascript">if ( typeof CN !== "undefined" ) {
+if ( CN.dart ) {
+ CN.dart.call( "yrailTop", { sz: ( CN.isMobile ? "320x50" : "300x250" ), kws: [ "top" ], collapse: true } );
+}
+}</script><script type="text/javascript">if ( typeof CN !== "undefined" ) {
+if ( CN.isMobile && CN.dart ) {
+ CN.dart.call( "footerMobile", { sz: ( "320x51" ), kws: [ "bottom" ], collapse: true } );
+} 
+}</script><script type="text/javascript">if ( typeof CN !== "undefined" ) {
+if ( ! CN.isMobile && CN.dart ) {
+ CN.dart.call( "footer", { sz: "728x90", kws: [ "bottom" ], collapse: true } );
+} 
+}</script>            <script type="text/javascript">
+            //<!--
+                if ( ( typeof pageAds != 'undefined') && ( CN.url.params( 'nojoy' ) != 1 ) ) {
+                                    (function(){
+                    if ( CN.checkDeviceView('mobile') ) {
+if ( typeof pageAds.AMS_NYR_MOBILE_GLOBAL_SUBNAV != 'undefined' ) {
+  jQuery( "#AMS_NYR_MOBILE_GLOBAL_SUBNAV" ).html( pageAds.AMS_NYR_MOBILE_GLOBAL_SUBNAV.replace( /document.write\(.*\)/gi, "/* filtered by amg-magnet:document.write(...) */" ) );
+} else { CN.debug.info( "AMS_NYR_MOBILE_GLOBAL_SUBNAV not in pageAds."); }
+}
+                    })();
+                                }
+            //-->
+            </script>
+                        <script type="text/javascript">
+            //<!--
+                if ( ( typeof pageAds != 'undefined') && ( CN.url.params( 'nojoy' ) != 1 ) ) {
+                                    (function(){
+                    if ( CN.checkDeviceView('tablet') ) {
+if ( typeof pageAds.AMS_NYR_TABLET_GLOBAL_SUBNAV != 'undefined' ) {
+  jQuery( "#AMS_NYR_TABLET_GLOBAL_SUBNAV" ).html( pageAds.AMS_NYR_TABLET_GLOBAL_SUBNAV.replace( /document.write\(.*\)/gi, "/* filtered by amg-magnet:document.write(...) */" ) );
+} else { CN.debug.info( "AMS_NYR_TABLET_GLOBAL_SUBNAV not in pageAds."); }
+}
+                    })();
+                                }
+            //-->
+            </script>
+                        <script type="text/javascript">
+            //<!--
+                if ( ( typeof pageAds != 'undefined') && ( CN.url.params( 'nojoy' ) != 1 ) ) {
+                                    (function(){
+                    if ( CN.checkDeviceView('desktop') ) {
+if ( typeof pageAds.AMS_NYR_GLOBAL_HEADER != 'undefined' ) {
+  jQuery( "#AMS_NYR_GLOBAL_HEADER" ).html( pageAds.AMS_NYR_GLOBAL_HEADER.replace( /document.write\(.*\)/gi, "/* filtered by amg-magnet:document.write(...) */" ) );
+  jQuery( "#AMS_NYR_GLOBAL_HEADER" ).css( { visibility: 'visible' } );
+} else { CN.debug.info( "AMS_NYR_GLOBAL_HEADER not in pageAds."); }
+}
+/* AMS_NYR_GLOBAL_HEADER not in pageAds for tablet */
+/* AMS_NYR_GLOBAL_HEADER not in pageAds for mobile */
+                    })();
+                                }
+            //-->
+            </script>
+                        <script type="text/javascript">
+            //<!--
+                if ( ( typeof pageAds != 'undefined') && ( CN.url.params( 'nojoy' ) != 1 ) ) {
+                                    (function(){
+                    if ( CN.checkDeviceView('desktop') ) {
+if ( typeof pageAds.AMS_NYR_GLOBAL_HEADERCALLOUT != 'undefined' ) {
+  jQuery( "#AMS_NYR_GLOBAL_HEADERCALLOUT" ).html( pageAds.AMS_NYR_GLOBAL_HEADERCALLOUT.replace( /document.write\(.*\)/gi, "/* filtered by amg-magnet:document.write(...) */" ) );
+  jQuery( "#AMS_NYR_GLOBAL_HEADERCALLOUT" ).css( { visibility: 'visible' } );
+} else { CN.debug.info( "AMS_NYR_GLOBAL_HEADERCALLOUT not in pageAds."); }
+}
+/* AMS_NYR_GLOBAL_HEADERCALLOUT not in pageAds for tablet */
+/* AMS_NYR_GLOBAL_HEADERCALLOUT not in pageAds for mobile */
+                    })();
+                                }
+            //-->
+            </script>
+                        <script type="text/javascript">
+            //<!--
+                if ( ( typeof pageAds != 'undefined') && ( CN.url.params( 'nojoy' ) != 1 ) ) {
+                                    (function(){
+                    if ( CN.checkDeviceView('desktop') ) {
+if ( typeof pageAds.AMS_NYR_GLOBAL_NAVBAR != 'undefined' ) {
+  jQuery( "#AMS_NYR_GLOBAL_NAVBAR" ).html( pageAds.AMS_NYR_GLOBAL_NAVBAR.replace( /document.write\(.*\)/gi, "/* filtered by amg-magnet:document.write(...) */" ) );
+  jQuery( "#AMS_NYR_GLOBAL_NAVBAR" ).css( { visibility: 'visible' } );
+} else { CN.debug.info( "AMS_NYR_GLOBAL_NAVBAR not in pageAds."); }
+}
+/* AMS_NYR_GLOBAL_NAVBAR not in pageAds for tablet */
+/* AMS_NYR_GLOBAL_NAVBAR not in pageAds for mobile */
+                    })();
+                                }
+            //-->
+            </script>
+                        <script type="text/javascript">
+            //<!--
+                if ( ( typeof pageAds != 'undefined') && ( CN.url.params( 'nojoy' ) != 1 ) ) {
+                                    (function(){
+                    if ( CN.checkDeviceView('desktop') ) {
+if ( typeof pageAds.AMS_NYR_GLOBAL_NAVBAR_ROLLOVER != 'undefined' ) {
+  jQuery( "#AMS_NYR_GLOBAL_NAVBAR_ROLLOVER" ).html( pageAds.AMS_NYR_GLOBAL_NAVBAR_ROLLOVER.replace( /document.write\(.*\)/gi, "/* filtered by amg-magnet:document.write(...) */" ) );
+} else { CN.debug.info( "AMS_NYR_GLOBAL_NAVBAR_ROLLOVER not in pageAds."); }
+}
+/* AMS_NYR_GLOBAL_NAVBAR_ROLLOVER not in pageAds for tablet */
+/* AMS_NYR_GLOBAL_NAVBAR_ROLLOVER not in pageAds for mobile */
+                    })();
+                                }
+            //-->
+            </script>
+                        <script type="text/javascript">
+            //<!--
+                if ( ( typeof pageAds != 'undefined') && ( CN.url.params( 'nojoy' ) != 1 ) ) {
+                                    (function(){
+                    /* AMS_NYR_POPUP_FLOATINGAD not in pageAds for desktop */
+/* AMS_NYR_POPUP_FLOATINGAD not in pageAds for tablet */
+/* AMS_NYR_POPUP_FLOATINGAD not in pageAds for mobile */
+                    })();
+                                }
+            //-->
+            </script>
+                        <script type="text/javascript">
+            //<!--
+                if ( ( typeof pageAds != 'undefined') && ( CN.url.params( 'nojoy' ) != 1 ) ) {
+                                    (function(){
+                    if ( CN.checkDeviceView('desktop') ) {
+if ( typeof pageAds.AMS_NYR_GLOBAL_FOOTER != 'undefined' ) {
+  jQuery( "#AMS_NYR_GLOBAL_FOOTER" ).html( pageAds.AMS_NYR_GLOBAL_FOOTER.replace( /document.write\(.*\)/gi, "/* filtered by amg-magnet:document.write(...) */" ) );
+  jQuery( "#AMS_NYR_GLOBAL_FOOTER" ).css( { visibility: 'visible' } );
+} else { CN.debug.info( "AMS_NYR_GLOBAL_FOOTER not in pageAds."); }
+}
+if ( CN.checkDeviceView('tablet') ) {
+if ( typeof pageAds.AMS_NYR_GLOBAL_FOOTER != 'undefined' ) {
+  jQuery( "#AMS_NYR_GLOBAL_FOOTER" ).html( pageAds.AMS_NYR_GLOBAL_FOOTER.replace( /document.write\(.*\)/gi, "/* filtered by amg-magnet:document.write(...) */" ) );
+  jQuery( "#AMS_NYR_GLOBAL_FOOTER" ).css( { visibility: 'visible' } );
+} else { CN.debug.info( "AMS_NYR_GLOBAL_FOOTER not in pageAds."); }
+}
+if ( CN.checkDeviceView('mobile') ) {
+if ( typeof pageAds.AMS_NYR_GLOBAL_FOOTER != 'undefined' ) {
+  jQuery( "#AMS_NYR_GLOBAL_FOOTER" ).html( pageAds.AMS_NYR_GLOBAL_FOOTER.replace( /document.write\(.*\)/gi, "/* filtered by amg-magnet:document.write(...) */" ) );
+  jQuery( "#AMS_NYR_GLOBAL_FOOTER" ).css( { visibility: 'visible' } );
+} else { CN.debug.info( "AMS_NYR_GLOBAL_FOOTER not in pageAds."); }
+}
+                    })();
+                                }
+            //-->
+            </script>
+                        <script type="text/javascript">
+            //<!--
+                if ( ( typeof pageAds != 'undefined') && ( CN.url.params( 'nojoy' ) != 1 ) ) {
+                                    (function(){
+                    if ( CN.checkDeviceView('desktop') ) {
+if ( typeof pageAds.AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A != 'undefined' ) {
+  jQuery( "#AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A" ).html( pageAds.AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A.replace( /document.write\(.*\)/gi, "/* filtered by amg-magnet:document.write(...) */" ) );
+  jQuery( "#AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A" ).css( { visibility: 'visible' } );
+} else { CN.debug.info( "AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A not in pageAds."); }
+}
+if ( CN.checkDeviceView('tablet') ) {
+if ( typeof pageAds.AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A != 'undefined' ) {
+  jQuery( "#AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A" ).html( pageAds.AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A.replace( /document.write\(.*\)/gi, "/* filtered by amg-magnet:document.write(...) */" ) );
+  jQuery( "#AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A" ).css( { visibility: 'visible' } );
+} else { CN.debug.info( "AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A not in pageAds."); }
+}
+if ( CN.checkDeviceView('mobile') ) {
+if ( typeof pageAds.AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A != 'undefined' ) {
+  jQuery( "#AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A" ).html( pageAds.AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A.replace( /document.write\(.*\)/gi, "/* filtered by amg-magnet:document.write(...) */" ) );
+  jQuery( "#AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A" ).css( { visibility: 'visible' } );
+} else { CN.debug.info( "AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A not in pageAds."); }
+}
+                    })();
+                                }
+            //-->
+            </script>
+             <script>!function(d,s,id){ var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script>(function() { var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;po.src = "//apis.google.com/js/plusone.js";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);})();</script>
+<script> (function() { if (window.localStorage) { if (localStorage.getItem("share-selection")==="true") { var po = document.createElement("script"); po.async = true;po.src = "/wp-content/assets/js/social/share-selection.js";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s); }}  })();</script>
+    <div id="fb-root"></div>
+    <script>
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+                <script type="text/javascript">
+                CN.popups = CN.popups || {};
+                CN.popups.setCookieLife(48);
+                CN.popups.setExiting(false, {
+                    path: '/exit-pop/',
+                    width: 460,
+                    height: 295,
+                }).excludeExitPath( '/wp-admin', '/wp-login.php' ).excludeExitDomain("newyorker.com","www.newyorker.com","origin.www.newyorker.com");
+                CN.popups.setATGArriving(false).setATGLayer(false).setATGExiting(false);
+
+                        CN.popups.setLayer(false).setArriving(false);
+                CN.popups.init();
+                    </script>
+            
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+  <div id="parsely-cfg" data-parsely-site="newyorker.com"></div>
+</div>
+<script>
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include: Standard -->
+            <script type="text/javascript">
+            //<!--
+                CN.config.set({
+                    title        : document.title,
+                                    facebook     : {pageid: "9258148868"},
+                                    isiFrame     : true
+                });
+            //-->
+            </script>
+            <!--[if IE]>
+<style>
+<script src="/wp-content/assets/js/vendors/simplemodal/simplemodal.min.js"></script>
+#link-subscription-modal{
+  display:none;
+}
+
+#modal-overlay-full{
+  position:fixed;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  width:0;
+  height:0;
+  display:none;
+}
+.nyr-flex-modal{
+  display:block;
+}
+</style>
+<![endif]-->
+<div id="modal-overlay-full">
+    <div id="conf-view" class="hidden-m-item nyr-flex-modal"></div>
+    <div id="signin-view" class="hidden-m-item nyr-flex-modal"></div>
+    <div id="reg-view" class="hidden-m-item nyr-flex-modal"></div>
+    <div id="link-subscription-modal" class="hidden-m-item nyr-flex-modal"></div>
+</div>
+<div class="small-flex-spacer-b"></div>
+<div id="CM-notification" class="fancy modal barrier-type" aria-hidden="false">
+    <div class="CM-wrapper">
+        <div id="close-b-modal" class="modal-close notification-b"></div>
+        <div id="CM-nofication-home-link"></div>
+        <div id="CM-nofication-home-line"></div>
+        <div id="PAYWALL_BARRIER_wrapper"></div>
+        <div class="bottom-barrier-divide">
+            <div class="notification-pipe-spacer"></div>
+            <div class="mobile-bottom-barrier-divide-left"><a id="linksub-from-external" href="javascript:void(0)">Link your <br/> subscription</a> 
+            </div>
+            <div class="bottom-barrier-divide-left"><a id="linksub-from-external-promo" href="javascript:void(0)">Link your subscription</a>
+            </div>
+        </div>
+        <div class="mobile-barrier-divide-right begin-notification-msg">Have a login?
+            <br/>
+            <span><a id="sign-in-from-notfication-mob" href="javascript:void(0)">Sign In</a></span>
+        </div>
+        <div id="login-text-wrapper" class="bottom-barrier-divide-right">Already have a login?
+            <span><a id="sign-in-from-notfication" href="javascript:void(0)">Sign in</a></span>
+        </div>
+        <div class="mob-notification-container">
+                    <div class="mob-notification-item"><a class="linksub-from-external-mobi" href="javascript:void(0)" style="text-decoration:underline">Link Your<br/>Subscription</a></div>
+                    <div class="mob-notification-item pipe-spacer-image"></div>
+                    <div id="mobile-login-text-wrap" class="mob-notification-item">Have a login?
+                        <br/><a class="signin-from-external-mobi" id="sign-in-from-notfication-mobilink" href="javascript:void(0)" style="text-decoration:underline">Sign in</a></div>
+                </div>
+    </div>
+</div>
+		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"2907deeb56","applicationID":"4337305","transactionName":"YlIEZhNSXxEAABYNW1sYJ1EVWl4MThALClNZUktCDkBF","queueTime":0,"applicationTime":252,"atts":"ThUHEFtITB8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-536.min.js"}</script></body>
+</html>

@@ -1,0 +1,1699 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.23" />
+<meta name="keywords" content="Avatar Wiki,jamescameronsavatar,Avatar (film),Avatar (species),Avatar Program,James Cameron,Jon Landau,Sam Worthington,Sigourney Weaver,Stephen Lang,Joel David Moore,Dileep Rao,John Refoua" />
+<meta name="description" content="Avatar is a science fiction film written and directed by James Cameron, starring Sam..." />
+<meta name="google-site-verification" content="5sWSuv7xq6EW3O7N7Ax_2GLmoOUKQAEQWQX95I1Ggy0" />
+<link rel="canonical" href="http://james-camerons-avatar.wikia.com/wiki/Avatar_(film)" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb16/jamescameronsavatar/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/jamescameronsavatar/images/6/64/Favicon.ico/revision/latest?cb=20091202022716" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Avatar Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://james-camerons-avatar.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="Avatar Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Avatar (film) - James Cameron's Avatar Wiki - Sam Worthington, Zoe Saldana</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1424388494/sasses/background-dynamic%3D1%26background-image%3D%26background-image-height%3D800%26background-image-width%3D1900%26color-body%3D%2523000000%26color-body-middle%3D%2523000000%26color-buttons%3D%2523163140%26color-header%3D%25230f1826%26color-links%3D%2523477987%26color-page%3D%2523000000%26page-opacity%3D100%26widthType%3D2/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationHubsMenu.scss,extensions/wikia/UserLogin/css/UserLoginDropdown.globalNavigation.scss,extensions/wikia/WallNotifications/styles/WallNotifications.globalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationOasis.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearchOasis.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://james-camerons-avatar.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: jamescameronsavatar:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="movies",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":true,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"pageArticleId":2075,"pageIsArticle":true,"pageName":"Avatar_(film)","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"media=movie;sub=jamescameron;egnre=scifi;gnre=action;gnre=adventure;rated=pg13;gnre=fantasy;egnre=war","wikiDbName":"jamescameronsavatar","wikiDirectedAtChildren":true,"wikiLanguage":"en","wikiVertical":"Entertainment"},"providers":[],"slots":{"bottomLeaderboardImpressionCapping":[2,4,6]},"forceProviders":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[5,13,15,20,21,22,129,142,144,100024,100043,100044,100056,100057,100058,100059,100078,100428,100455],
+wgWikiFactoryTagNames=["movie","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","entertainment","dvd/blu-ray","sci_fi","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","blizzardholidaysiteentry","apertureenabled","krux"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1424388494",
+wgDBname="jamescameronsavatar",
+wgCityId="38188",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=2075,
+wgCategories=["Disambiguation","Avatar","Films"],
+wgPageName="Avatar_(film)",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="movie",
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1424388494",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s11","wiki":"jamescameronsavatar","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>
+function syslogReport(priority,message,context){context=context||null;var url='//jserrorslog.wikia.com/',i=new Image(),data={'@message':message,'syslog_pri':priority};if(context){data['@context']=context;}
+try{data['@fields']={server:document.cookie.match(/server.([A-Z]*).cache/)[1]};}catch(e){}
+try{i.src=url+'l?'+JSON.stringify(data);}catch(e){i.src=url+'e?'+e;}}</script><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1424388494&amp;c=38188&amp;lc=en&amp;lid=75&amp;x=jamescameronsavatar&amp;y=c2&amp;u=0&amp;a=2075&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1424388494&amp;c=38188&amp;lc=en&amp;lid=75&amp;x=jamescameronsavatar&amp;y=c2&amp;u=0&amp;a=2075&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://james-camerons-avatar.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1424388494/groups/-/abtesting,oasis_blocking,analytics_gas_js,adengine2_tracking_js,adengine2_rubicon_rtp_js,adengine2_amazon_match_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Avatar Wiki" />
+	<meta property="og:title" content="Avatar (film)" />
+	<meta property="og:description" content="Avatar is a science fiction film written and directed by James Cameron, starring Sam Worthington, ZoÃ« SaldaÃ±a, Stephen Lang, Michelle Rodriguez, and Sigourney Weaver. It was made by Lightstorm Entertainment and released by 20th Century Fox on December 18, 2009. The film is set in the year 2154 on Pandora, a fictional Earth-like moon in a distant planetary system. Humans are engaged in mining Pandora&#039;s reserves of a precious mineral known as unobtanium, while the Na&#039;vi â the sapient and..." />
+	<meta property="og:url" content="http://james-camerons-avatar.wikia.com/wiki/Avatar_(film)" />
+	<meta property="og:image" content="http://img4.wikia.nocookie.net/__cb20100819044005/jamescameronsavatar/images/6/66/End_Title_HD.png" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Avatar_film  TOC_hide wikinav2 skin-oasis oasis-dark-theme background-not-tiled background-dynamic">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fjames-camerons-avatar.wikia.com%2Fwiki%2FAvatar_%28film%29%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require(["ext.wikia.adEngine.amazonMatchOld", "wikia.geo", "wikia.instantGlobals"], function (amazon, geo, globals) {
+		var ac = globals["wgAmazonMatchOldCountries"];
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+	require(["ext.wikia.adEngine.amazonMatch", "wikia.geo", "wikia.instantGlobals"], function (amazon, geo, globals) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+</script>
+<!-- Unsupported language for AnalyticsProviderIVW2 -->
+<!-- Start for RubiconRTP, page_view -->
+<script>
+	require(['wikia.geo', 'wikia.instantGlobals', 'ext.wikia.adEngine.rubiconRtp'], function (geo, instantGlobals, rtp) {
+		var rtpCountries = ["US","GB","BR"], country = geo.getCountryCode();
+
+		if (rtpCountries.indexOf(country) !== -1 && !instantGlobals.wgSitewideDisableRubiconRTP) {
+			rtp.call({"disabled":false,"oz_site":"7450\/11979","oz_zone":"145168","oz_ad_slot_size":"728x90","skin":["oasis"],"oz_cached_only":false,"slotname":["BOTTOM_LEADERBOARD","CORP_TOP_LEADERBOARD","HOME_TOP_LEADERBOARD","HUB_TOP_LEADERBOARD","TOP_LEADERBOARD"]});
+		}
+	});
+</script><div class="WikiaSiteWrapper">
+	<h1>Wikia</h1>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+	<nav class="global-navigation" id="globalNavigation">
+	<div class="page-width">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com"
+				class="wikia-logo"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+			</a>
+		</div>
+		<div class="hubs-container table-cell" id="hubsEntryPoint">
+			<a class="hubs-entry-point"></a>
+<nav id="hubs" class="hubs-menu">
+	<ul class="hub-list">
+					<li>
+								<a data-vertical="comics" href="http://comicshub.wikia.com/wiki/Comics_Hub" class="comics hub-link ">
+					<span class="icon"></span>
+					<span class="label">Comics</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="tv" href="http://tvhub.wikia.com/wiki/TV_Hub" class="tv hub-link ">
+					<span class="icon"></span>
+					<span class="label">TV</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="movies" href="http://movieshub.wikia.com/wiki/Movies_Hub" class="movies hub-link  active">
+					<span class="icon"></span>
+					<span class="label">Movies</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="music" href="http://musichub.wikia.com/wiki/Music_Hub" class="music hub-link ">
+					<span class="icon"></span>
+					<span class="label">Music</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="books" href="http://bookshub.wikia.com/wiki/Books_Hub" class="books hub-link ">
+					<span class="icon"></span>
+					<span class="label">Books</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="games" href="http://gameshub.wikia.com/wiki/Games_Hub" class="games hub-link ">
+					<span class="icon"></span>
+					<span class="label">Games</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="lifestyle" href="http://lifestylehub.wikia.com/wiki/Lifestyle_Hub" class="lifestyle hub-link ">
+					<span class="icon"></span>
+					<span class="label">Lifestyle</span>
+				</a>
+							</li>
+			</ul>
+	<div class="hub-links">
+		<div class="hub-menu-section movies-links active">
+			<ul>
+			<strong>NOW PLAYING</strong>
+							<li>
+					<a href="http://ow.ly/J5T6z">Kingsman: The Secret Service</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5T89">50 Shades of Grey</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5T9O">The SpongeBob Movie: Sponge Out of Water</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>FAN RADAR</strong>
+							<li>
+					<a href="http://ow.ly/J5Tbw">Pitch Perfect 2</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Tde">Furious 7</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5TeS">Avengers: Age of Ultron</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>IN THE NEWS</strong>
+							<li>
+					<a href="http://ow.ly/J5TjA">Spidey Joins MCU</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Tmv">Who is Miles Morales?</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Tof">Oscar Buzz</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>TOP VIDEOS</strong>
+							<li>
+					<a href="http://ow.ly/J5TtH">Straight Outta Compton</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5TvS">The Man From U.N.C.L.E.</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5TxJ">Fantastic Four Easter Eggs</a>
+				</li>
+					</ul>
+		<a class="more" href="http://movieshub.wikia.com/wiki/Movies_Hub">More Movies</a>
+</div>
+	</div>
+</nav>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://james-camerons-avatar.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search within Avatar Wiki..." data-search-url="http://james-camerons-avatar.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search within Avatar Wiki..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell">
+	<li class="account-navigation-first-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Avatar_(film)" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">				<div class="avatar-container anon-avatar-placeholder">
+									</div>
+			</a>
+							<span class="sign-in-label">Sign in</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+		</div>
+		<div id="UserLoginDropdown" class="UserLoginDropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Sign up</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Avatar_(film)">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_LEADERBOARD"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_BUTTON_WIDE"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_SKIN"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h1 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/Avatar_Wiki">
+					<img src="http://img3.wikia.nocookie.net/__cb16/jamescameronsavatar/images/8/89/Wiki-wordmark.png" alt="Avatar Wiki"  width="250" height="65" >
+			</a>
+</h1>
+        <nav class="WikiNav">
+    	        <h1>Avatar Wiki Navigation</h1>
+        		<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Category:Avatar">Avatar</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Films">Films<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Avatar_(film)">Avatar</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Avatar_2">Avatar 2</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Avatar_3">Avatar 3</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Avatar_Prequel">Avatar Prequel</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Games">Games<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/James_Cameron%27s_Avatar:_The_Game">Avatar: The Game (PC/PS3/Xbox 360)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/James_Cameron%27s_Avatar:_The_Game_(Wii/PSP)">Avatar: The Game (Wii/PSP)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/James_Cameron%27s_Avatar:_The_Game_(Nintendo_DS)">Avatar: The Game (Nintendo DS)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/James_Cameron%27s_Avatar:_The_Game_(iPod/iPhone)">Avatar: The Game (iPod/iPhone/Android)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/James_Cameron%27s_Avatar:_The_Game_(Mobile)">Avatar: The Game (Mobile)</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Music">Music<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Avatar:_Music_from_the_Motion_Picture">Avatar: Music from the Motion Picture</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Avatar:_Best_Original_Score_(3-Disc_Set)">Avatar: Best Original Score (3-Disc Set)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Avatar:_Complete_Score_(5-Disc_Set)">Avatar: Complete Score (5-Disc Set)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/James_Horner">James Horner</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Leona_Lewis">Leona Lewis</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Pandora">Pandora</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Human">Humans<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jake_Sully">Jake Sully</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Grace_Augustine">Grace Augustine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Miles_Quaritch">Miles Quaritch</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Norm_Spellman">Norm Spellman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Trudy_Chacon">Trudy Chacon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Parker_Selfridge">Parker Selfridge</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Max_Patel">Max Patel</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Able_Ryder">Able Ryder</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Na%27vi">Na'vi<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Neytiri">Neytiri</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tsu%27tey">Tsu'tey</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mo%27at">Mo'at</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eytukan">Eytukan</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Beyda%27amo">Beyda'amo</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tan_Jala">Tan Jala</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rai%27uk">Rai'uk</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Nok">Nok</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Clans">Clans<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Omaticaya_Clan">Omaticaya Clan</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tipani_Clan">Tipani Clan</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ikran_People_of_the_Eastern_Sea">Ikran People of the Eastern Sea</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Anurai_Clan">Anurai Clan</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Horse_Clans_of_the_Plain">Horse Clans of the Plain</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tawkami_Clan">Tawkami Clan</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Li%27ona_Clan">Li'ona Clan</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Pandora_Locations">Locations<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hallelujah_Mountains">Hallelujah Mountains</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mons_Veritatis">Mons Veritatis</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tree_of_Souls">Tree of Souls</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tree_of_Voices">Tree of Voices</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Banshee_Rookery">Banshee Rookery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Vayaha_Village">Vayaha Village</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Swotulu">Swotulu</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Willowglade">Willowglade</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Creatures">Creatures<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Na%27vi">Na'vi</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Great_Leonopteryx">Great Leonopteryx</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mountain_Banshee">Mountain Banshee</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Thanator">Thanator</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Viperwolf">Viperwolf</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Avatar_(species)">Avatar (species)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Direhorse">Direhorse</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Na%27vi">Na'vi</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mountain_Banshee">Mountain Banshee</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Great_Leonopteryx">Great Leonopteryx</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Flora">Flora<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hometree">Hometree</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tree_of_Voices">Tree of Voices</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tree_of_Souls">Tree of Souls</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Woodsprite">Woodsprite</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bioluminescence">Bioluminescence</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Helicoradian">Helicoradian</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Octoshroom">Octoshroom</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Warbonnet">Warbonnet</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Panopyra">Panopyra</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Mythology">Mythology<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eywa">Eywa</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tsah%C3%ACk">TsahÃ¬k</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Toruk_Makto">Toruk Makto</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tree_of_Souls">Tree of Souls</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Iknimaya">Iknimaya</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Queue">Queue</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Arachnoid">Arachnoid</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hunt_Songs">Hunt Songs</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Resources_Development_Administration">RDA</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Avatar_Program">Avatar Program<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Avatar_Program">Avatar Program</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Avatar_(species)">Avatar (species)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Unobtanium">Unobtanium</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Amnio_Tank">Amnio Tank</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Avatar_Compound">Avatar Compound</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Link_Shack">Link Shack</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Link_Unit">Link Unit</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Site_26">Site 26</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ambient_Room">Ambient Room</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dark_Dreamer_Project">Dark Dreamer Project</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Human">Personnel<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Grace_Augustine">Grace Augustine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Miles_Quaritch">Miles Quaritch</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Trudy_Chacon">Trudy Chacon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Max_Patel">Max Patel</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sean_Fike">Sean Fike</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lyle_Wainfleet">Lyle Wainfleet</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Karl_Falco">Karl Falco</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Pandora_Locations">Locations<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hell%27s_Gate">Hell's Gate</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Avatar_Compound">Avatar Compound</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Operations_Center">Operations Center</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Unobtanium_Mine">Unobtanium Mine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Site_26">Site 26</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Site_32">Site 32</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Vehicles">Vehicles<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Aerospatiale_SA-2_Samson">Aerospatiale SA-2 Samson</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dragon_Assault_Ship">Dragon Assault Ship</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Amplified_Mobility_Platform">Amplified Mobility Platform</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Interstellar_Vehicle_Venture_Star">Interstellar Vehicle Venture Star</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Scorpion_Gunship">Scorpion Gunship</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Valkyrie">Valkyrie</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Samson_16">Samson 16</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Human_Weapons">Weapons<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/M60_Machine_Gun">M60 Machine Gun</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Assault_Rifle">Assault Rifle</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/GAU-90">GAU-90</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/AMP_Suit_Knife">AMP Suit Knife</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Standard_Issue_Rifle">Standard Issue Rifle</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/MBS-9M_.50_Caliber_Hydra">MBS-9M .50 Caliber Hydra</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Wasp">Wasp</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Avatar_Wiki:Community_Portal">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Recent Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Avatar_Wiki:IRC">IRC</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Avatar_Wiki:Administrators">Admins</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:SpecialPages">Contribute<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:CreateBlogPage">Create a blog</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Stub">Article Stubs</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:NewFiles">New Images</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:NewPages">Newest Pages</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Main">All Categories</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>    </nav>
+	    <div class="buttons">
+		<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+					<a href="#" class="wikia-button share-button secondary"  data-id="shareButton"> Share<span class="share-dot"></span><span class="share-pixel"></span></a>
+    </div>
+	    <div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>    </div>
+</header>
+
+				
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+				<header id="WikiaPageHeader" class="WikiaPageHeader">
+    <h1>Avatar (film)</h1>
+
+	<nav class="wikia-menu-button" >
+	<a   href="/wiki/Avatar_(film)?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Avatar_(film)?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Talk:Avatar_(film)" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Talk<span class="commentsbubble">14</span></a>
+        <div class="tally">
+			<em>750</em><span>pages on<br /> this wiki</span>        </div>
+		</header>
+<script>
+    
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write(
+        '<div id="monetization-adunit-below_title" class="monetization-module adunit hide-for-edit below-title" ' +
+        'data-mon-type="adunit" data-mon-slot="below_title"><div class="ad-header">Advertisement</div><div>' +
+        '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">' +
+        '</scr' + 'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" ' +
+        'data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_bc_bt_ic_fsl_ffa mon_hub_movies mon_sl_bt" ' +
+        'data-ad-type="text" ' + 'data-font-size="large" ' +'data-font-face="arial" ' +
+        ' data-color-bg="#000000" data-color-border="#000000" data-color-link="#477987" data-color-url="#477987" data-color-text="#d5d4d4" ></ins>' +
+        '<script>(adsbygoogle = window.adsbygoogle || []).push({});</scr' + 'ipt></div></div>'
+    );
+}
+</script>
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+
+					
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div id="title-linktabs" class="plainlinks firstHeading" style="float: right; display: none;"><a class="external text" href="http://james-camerons-avatar.wikia.com/wiki/Category:Avatar"><img src="http://images1.wikia.nocookie.net/jamescameronsavatar/images/c/c3/Era-Avatar.png" alt="Era-Avatar.png" /></a></div>
+<div id="spoiler" style="text-align: center; background: #000000; margin: 1em 05%; padding: 0 1em; border: #696969 1px solid;">
+This article is about <b>the <i>Avatar</i> film</b>. You may be looking for <b>the <a href="/wiki/Avatar_(species)" title="Avatar (species)">species</a>, or the <a href="/wiki/Avatar_Program" title="Avatar Program">program</a></b>.</div>
+<table border="0" cellspacing="0" cellpadding="4" style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:1px solid #FFFFFF; font-size:smaller; line-height:1.5;">
+<tr style="text-align:center; background:#f0f0f0;">
+<td colspan="2" style="padding:0; background: #5D8AA8; color:#fff;"><a href="http://vignette2.wikia.nocookie.net/jamescameronsavatar/images/8/84/Aop2.jpg/revision/latest?cb=20091208161643" 	class="image image-thumbnail" 	 	 	><img src="http://vignette2.wikia.nocookie.net/jamescameronsavatar/images/8/84/Aop2.jpg/revision/latest/scale-to-width/250?cb=20091208161643" 	 alt="Aop2"  	class="" 	 	data-image-key="Aop2.jpg" 	data-image-name="Aop2.jpg" 	 	 width="250"  	 height="370"  	 	 	 	></a></td>
+</tr><tr style="color:#fff; background: #5D8AA8; font-size:larger;">
+<th colspan="2">Avatar</th>
+</tr> <tr><th colspan="2" style="text-align:left; font-weight:normal; background: #E6E6FA; color:black"><b>Film information</b></th></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #000000"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Directed by</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><a href="/wiki/James_Cameron" title="James Cameron">James Cameron</a>
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #000000"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Produced by</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p>James Cameron<br /><a href="/wiki/Jon_Landau" title="Jon Landau">Jon Landau</a>
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #000000"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Written by</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p>James Cameron
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #000000"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Starring</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><a href="/wiki/Sam_Worthington" title="Sam Worthington">Sam Worthington</a><br /><a href="/wiki/Zo%C3%AB_Salda%C3%B1a" title="ZoÃ« SaldaÃ±a" class="mw-redirect">ZoÃ« SaldaÃ±a</a><br /><a href="/wiki/Sigourney_Weaver" title="Sigourney Weaver">Sigourney Weaver</a><br /><a href="/wiki/Michelle_Rodriguez" title="Michelle Rodriguez">Michelle Rodriguez</a><br /><a href="/wiki/Stephen_Lang" title="Stephen Lang">Stephen Lang</a><br /><a href="/wiki/Joel_David_Moore" title="Joel David Moore" class="mw-redirect">Joel David Moore</a><br /><a href="/wiki/Giovanni_Ribisi" title="Giovanni Ribisi">Giovanni Ribisi</a><br /><a href="/wiki/CCH_Pounder" title="CCH Pounder">CCH Pounder</a><br /><a href="/wiki/Dileep_Rao" title="Dileep Rao">Dileep Rao</a><br /><a href="/wiki/Matt_Gerald" title="Matt Gerald">Matt Gerald</a><br /><a href="/wiki/Laz_Alonso" title="Laz Alonso">Laz Alonso</a><br /><a href="/wiki/Wes_Studi" title="Wes Studi">Wes Studi</a>
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #000000"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Music by</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><a href="/wiki/James_Horner" title="James Horner">James Horner</a>
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #000000"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Cinematography</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><a href="/wiki/Mauro_Fiore" title="Mauro Fiore">Mauro Fiore</a>
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #000000"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Editing by</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><a href="/wiki/John_Refoua" title="John Refoua">John Refoua</a><br /><a href="/wiki/Stephen_E._Rivkin" title="Stephen E. Rivkin">Stephen E. Rivkin</a>
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #000000"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Studio</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><a href="/wiki/Lightstorm_Entertainment" title="Lightstorm Entertainment">Lightstorm Entertainment</a><br />Dune Entertainment<br /><a href="http://en.wikipedia.org/wiki/Ingenious_Media" class="extiw" title="wikipedia:Ingenious Media">Ingenious Film Partners</a>
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #000000"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Distributed by</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><a href="/wiki/20th_Century_Fox" title="20th Century Fox">20th Century Fox</a>
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #000000"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Release Date(s)</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p>December 18, 2009
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #000000"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Running Time</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p>160 minutes
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #000000"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Language</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p>English
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #000000"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Budget</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p>US $237,000,000<br />11.85 kg of <a href="/wiki/Unobtanium" title="Unobtanium">unobtanium</a>
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #000000"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Gross Revenue</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p>US $2,781,132,032<br />138.9264 kg of unobtanium
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #000000"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Preceded by</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><i><a href="/wiki/Avatar_Prequel" title="Avatar Prequel">Avatar Prequel</a></i>
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #000000"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Followed by</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><i><a href="/wiki/Avatar_2" title="Avatar 2">Avatar 2</a></i>
+</p>
+</td></tr></table>
+<p><i><b>Avatar</b></i> is a science fiction film written and directed by <a href="/wiki/James_Cameron" title="James Cameron">James Cameron</a>, starring <a href="/wiki/Sam_Worthington" title="Sam Worthington">Sam Worthington</a>, <a href="/wiki/Zo%C3%AB_Salda%C3%B1a" title="ZoÃ« SaldaÃ±a" class="mw-redirect">ZoÃ« SaldaÃ±a</a>, <a href="/wiki/Stephen_Lang" title="Stephen Lang">Stephen Lang</a>, <a href="/wiki/Michelle_Rodriguez" title="Michelle Rodriguez">Michelle Rodriguez</a>, and <a href="/wiki/Sigourney_Weaver" title="Sigourney Weaver">Sigourney Weaver</a>. It was made by <a href="/wiki/Lightstorm_Entertainment" title="Lightstorm Entertainment">Lightstorm Entertainment</a> and released by <a href="/wiki/20th_Century_Fox" title="20th Century Fox">20th Century Fox</a> on December 18, 2009. The film is set in the year <a href="/wiki/Timeline#2154" title="Timeline">2154</a> on <a href="/wiki/Pandora" title="Pandora">Pandora</a>, a fictional <a href="/wiki/Earth" title="Earth">Earth</a>-like moon in a distant planetary system. Humans are engaged in mining Pandora's reserves of a precious mineral known as <a href="/wiki/Unobtanium" title="Unobtanium">unobtanium</a>, while the <a href="/wiki/Na%27vi" title="Na&#39;vi">Na'vi</a> â the sapient and sentient race of humanoids indigenous to the moon â resist the colonists' expansion, which threatens the continued existence of the Na'vi and the Pandoran ecosystem. The film's title refers to the remotely controlled, genetically engineered human-Na'vi bodies used by the film's human characters to interact with the indigenous population.
+</p><p><i>Avatar</i> had been in development since 1994 by James Cameron, who wrote a 114-page scriptment for the film. Filming was supposed to take place after the completion of <i>Titanic</i>, and the film would have been released in 1999, but according to James Cameron, "technology needed to catch up" with his vision of the film. In early 2006, James Cameron developed the script, the language, and the culture of Pandora. He stated that since <i>Avatar</i> was successful, there will be at least two sequels.
+</p><p>The film was first titled <b><a href="/wiki/Project_880" title="Project 880">Project 880</a></b>, and was released in traditional 2D and 3D formats, along with an IMAX 3D release in selected theaters. The film is estimated to have cost over $300 million to produce, and another estimated $200 million for the distribution and other costs, thus totaling to about half a billion dollars. <i>Avatar</i> is being touted as a breakthrough in terms of filmmaking technology, for its development of 3D viewing and stereoscopic filmmaking with cameras that were specially designed for the film's production. Opening to critical acclaim, it earned an estimated $27 million on its opening day and an estimated $77,025,481 domestically its opening weekend. Worldwide, the film grossed an estimated $232,180,000 its opening weekend, the ninth largest opening-weekend gross of all time, and the largest for a non-franchise, non-sequel and original film. It is also considered to be a front-runner for awards and nominations at the 82nd Academy Awards. So far, it has been nominated to 4 Golden Globes, 2 of which it won: Best Director and Best Motion Picture (Drama). The film was rated PG-13 by the MPAA for intense epic battle sequences and warfare, sensuality, language and moderate tobacco usage.
+</p><p>The movie has grossed over $2 billion worldwide, the first movie to ever do so. On January 25, 2010, <i>Avatar</i> surpassed <i>Titanic </i>as the highest grossing film of all time, worldwide.
+</p>
+<nav id="toc" class="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a href="#" class="internal" id="togglelink" data-show="show" data-hide="hide">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Plot">Plot</span></h2>
+<p>In the year 2154, <a href="/wiki/Jake_Sully" title="Jake Sully">Jake Sully</a> (Sam Worthington), a former U.S. Marine paralyzed from the waist down due to wounds sustained in combat, is selected to participate in the <a href="/wiki/Avatar_Program" title="Avatar Program">Avatar Program</a>. Originally, the position was supposed to be filled by his identical twin brother <a href="/wiki/Tom_Sully" title="Tom Sully">Tom Sully</a>, who was recently killed by a man who attempted to rob him of his money. Arriving from the six-year journey from <a href="/wiki/Earth" title="Earth">Earth</a> to <a href="/wiki/Pandora" title="Pandora">Pandora</a>, Jake awakes from <a href="/wiki/Cryosleep" title="Cryosleep">cryosleep</a> with hundreds of other personnel to work at the human colony on this inhabited moon of <a href="/wiki/Polyphemus" title="Polyphemus">Polyphemus</a>, one of three fictional gas giants orbiting Alpha Centauri A. Jake meets with <a href="/wiki/Miles_Quaritch" title="Miles Quaritch">Colonel Miles Quaritch</a> (Stephen Lang), a hardened and seasoned military veteran who is in charge of security on the colony. Quaritch welcomes the new personnel and military soldiers and briefs them on Pandora. It is mostly covered with lush rainforests and wildlife, and home to the primitive <a href="/wiki/Na%27vi" title="Na&#39;vi">Na'vi</a>, a sentient race of tall, blue-skinned humanoids.
+</p><p>The colony personnel and military are under the jurisdiction of the <a href="/wiki/Resources_Development_Administration" title="Resources Development Administration">Resources Development Administration</a> (RDA), a non-governmental organization back on Earth. Jake is introduced to <a href="/wiki/Norm_Spellman" title="Norm Spellman">Norm Spellman</a> (Joel David Moore), a biologist who arrived on the same rotation of personnel as he did and <a href="/wiki/Grace_Augustine" title="Grace Augustine">Dr. Grace Augustine</a> (Sigourney Weaver), a botanist as well as the leader of the Avatar Program, which allows humans to control <a href="/wiki/Avatar_(species)" title="Avatar (species)">avatars</a>, which are genetically engineered human-Naâvi hybrids who look like Na'vi. Using the avatars, Grace and her team have made some considerable progress teaching some Naâvi their ways and English as well as learning their <a href="/wiki/Na%27vi_Language" title="Na&#39;vi Language" class="mw-redirect">language</a> and culture. Grace is not pleased with RDA administrator <a href="/wiki/Parker_Selfridge" title="Parker Selfridge">Parker Selfridge's</a> (Giovanni Ribisi) decision to use Jake to replace his brotherâs avatar position, as she will have to spend time training him in Naâvi culture as well as teaching him how to control his avatar. Parker stresses that the RDA needs to mine the extremely valuable mineral unobtanium, which can be found in huge deposits on Pandora. Meanwhile, Quaritch makes Jake his informant to gather information on the Naâvi and their home, the <a href="/wiki/The_Hometree" title="The Hometree" class="mw-redirect">Hometree</a> (kelutral), which has huge deposits of unobtanium buried deep below its surface. He wants Jake to gain their trust and convince them to leave their home within three months. After being trained for several weeks in his new body, Jake, Grace and Norm explore the native wildlife with <a href="/wiki/Trudy_Chacon" title="Trudy Chacon">Trudy Chacon</a> (Michelle Rodriguez), a retired Marine pilot who is assigned to ferry them to their location. While Grace and Norm study the wildlife, Jake encounters a group of <a href="/wiki/Hammerhead_Titanothere" title="Hammerhead Titanothere">hammerhead titanotheres</a>, a rhinoceros-like animal species. However, the titanotheres flee from a <a href="/wiki/Thanator" title="Thanator">thanator</a> (palulukan), a terrifying land predator. Grace shouts at her group to flee. Jake runs from the thanator, who is after him, and loses most of his equipment and weapon in the process. He narrowly escapes death from the predator and falls into raging rivers below.
+</p>
+<figure class="article-thumb tleft show-info-icon" style="width: 200px"> 	<a href="http://vignette1.wikia.nocookie.net/jamescameronsavatar/images/6/66/End_Title_HD.png/revision/latest?cb=20100819044005" 	class="image image-thumbnail" 	 	 	><img src="http://vignette1.wikia.nocookie.net/jamescameronsavatar/images/6/66/End_Title_HD.png/revision/latest/scale-to-width/200?cb=20100819044005" 	 alt="End Title HD"  	class="thumbimage " 	 	data-image-key="End_Title_HD.png" 	data-image-name="End Title HD.png" 	 	 width="200"  	 height="113"  	 	 	 	></a>  	<figcaption> 		 			<a href="/wiki/File:End_Title_HD.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Avatar logo shown before closing credits.</p> 		 	</figcaption> </figure>
+<p>As darkness falls, Jake creates a fire torch using a sap substance on the trees, and once more runs and fights a large group of small sized <a href="/wiki/Viperwolf" title="Viperwolf">viperwolves</a> (nantang). A female Naâvi named <a href="/wiki/Neytiri" title="Neytiri">Neytiri</a> (Zoe SaldaÃ±a) rescues him and kills several of the viperwolves before they all flee. Neytiri is at first angry with Jake for having caused her to kill the viperwolves needlessly and leaves him. Jake goes after Neytiri, who tells him not to follow as she knows he is an avatar hybrid - a dreamwalker from the <a href="/wiki/Human" title="Human">Sky People</a>. Jake is caught by her fellow Naâvi, but Neytiri defuses the situation by telling her people that she witnessed him being chosen by the seeds of <a href="/wiki/Eywa" title="Eywa">Eywa</a>, a spiritual entity that the Naâvi worship, which indicate him as a pure spirit. Meeting <a href="/wiki/Eytukan" title="Eytukan">Eytukan</a> (Wes Studi) and <a href="/wiki/Mo%27at" title="Mo&#39;at">Mo'at</a> (C. C. H. Pounder), the leaders of the <a href="/wiki/Omaticaya_Clan" title="Omaticaya Clan">Omaticaya clan</a>, who are also Neytiriâs parents, Jake presents himself as a warrior "dreamwalker", a term the Naâvi used to call the avatar hybrids, with his intention to learn from them. Eytukan and Moâat agree to teach Jake, making a reluctant Neytiri his tutor. From that day on, Jake spends his time learning the ways and culture of the Naâvi warriors, while jumping back to his original human body to report to Parker and Quaritch on information regarding the aliens. Grace arranges the movement of the avatar team to a remote camp in the Hallejuiah Mountains after finding out from <a href="/wiki/Max_Patel" title="Max Patel">Dr. Max Patel</a> that Jake has been having regular communications with Quaritch about the Na'vi.
+</p><p>In his avatar form, Jake learns how to <a href="/wiki/Tsaheylu" title="Tsaheylu">bond</a> and control his flying <a href="/wiki/Mountain_Banshee" title="Mountain Banshee">mountain banshee</a>, while gaining respect and admiration from the Naâvi, his relationship with Neytiri continuing to grow, but also earning the jealousy and annoyance of <a href="/wiki/Tsu%27tey" title="Tsu&#39;tey">Tsu'tey</a> (Laz Alonso), Neytiriâs betrothed and next in line to be the clan leader. Reporting back to Quaritch, the Colonel wants Jake to begin his plan to convince the tribe to leave the <a href="/wiki/Hometree" title="Hometree">Hometree</a>, but Jake is now reluctant and weary of his fellow humans to exploit the moonâs resources. He tells Quaritch that he will attempt to convince the tribe once he is made part of the People, a ceremony granting the greatest honor to an avatar. That night, Jake undergoes the ceremony where Eytukan considers him as one of their own and made part of the People, with Grace and Neytiri looking on. Jake is now part of the Omaticaya clan, and with this he can choose his mate; he and Neytiri choose each other and spend that night <a href="/wiki/Mating" title="Mating">mating</a> at the <a href="/wiki/Tree_of_Voices" title="Tree of Voices">Tree of Voices</a>, and they are now mated for life. When Jake and Neytiri awake, they encounter several bulldozers, sent by the RDA, destroying the nearby forests. In his attempt to stop them, Jake destroys one of the machineâs camera arrays. Returning to the Hometree, Tsu'tey confronts him for mating with Neytiri. Before anything else can happen, Jake and Grace are suddenly sent back to their human bodies when soldiers sent by Quaritch arrive and open their <a href="/wiki/Link_Unit" title="Link Unit">link units</a> to take them back by force.
+</p><p>Quaritch and Parker have seen footage of Jake destroying the bulldozerâs cameras and have checked his entry logs, indicating him as losing interest to participate in the plan as well as committing possible treason. Grace tells an unbelieving Parker that the trees and plant life make up a huge network which connects the spiritual consciousness of all life, including the Naâvi, and must not be destroyed. Given a chance to attempt a final plea to the tribe to leave their home, Jake and Grace return to their avatar forms but the Na'vi refuse to listen after Jake reveals he was sent by his superiors to convince them to move. They are bound and labelled as traitors by the Na'vi who intend to defend themselves. A large strike force led by Quaritch destroys the Hometree, firing incendiary rounds that topple it to the ground, while killing large numbers of the tribe, despite their attempts to retaliate. Moâat releases Jake and Grace from their bonds and pleads them to save her tribe. Eytukan is killed in the destruction, leaving Neytiri devastated. She tells Jake to stay away when he tries to comfort her.
+</p><p>In the chaos, Jake and Grace are sent back to their original bodies to be placed under arrest for treason, along with Norm, who tried to stop the military from disabling their avatar forms. Trudy Chacon rescues the avatar team from prison and flies them to safety, however Grace is shot by Quaritch when he attempts to stop them from leaving the colony. The team has the camp container holding the avatar transfer pods sent near the <a href="/wiki/Tree_of_Souls" title="Tree of Souls">Tree of Souls</a>, where the remaining Omaticaya tribe has fled to safety. Jake makes his intention to redeem himself in the eyes of the Naâvi and successfully tames and controls a <a href="/wiki/Great_Leonopteryx" title="Great Leonopteryx">great leonopteryx</a>, an enormous flying creature related to the banshee, making him the sixth <a href="/wiki/Toruk_Makto" title="Toruk Makto">Toruk Makto</a> in Na'vi history. Jake makes a plea to Moâat to save Grace from dying. This is done by trying to have her consciousness transferred permanently into her avatar form, using the Tree of Souls, before her human body expires. However, it is too late, as Grace is too weak to be transferred. Before she passes away, she tells Jake that sheâs seen Eywa and the holy entity does exist.
+</p><p>Following Grace's death, he asks Tsuâtey, who has been made clan leader, and the entire tribe to stand with him and face the humans. Having earned back the tribeâs trust, Jake makes plans to join with other clans to strike back at the human forces. Surveying the Naâvi, Quaritch learns that other clans have converged with the Omaticaya at the Tree of Souls and decides to destroy them and their holy ground to put an end to their defiance once and for all. The night before the battle, Jake appeals to Ewya to fight along side the Na'vi, asking her to look into Grace's memories of Earth. A huge military fleet commandeered by Quaritch approach the Tree of Souls, beginning the <a href="/wiki/Assault_on_the_Tree_of_Souls" title="Assault on the Tree of Souls">Assault on the Tree of Souls</a>. Thousands of Naâvi warriors led by Jake and Tsuâtey take to the skies and attack the fleet, causing huge losses on both sides. Neytiri is knocked off her banshee and flees the military ground forces, while Normâs avatar is shot, forcing him to jump back to his real body and continue the fight as a human. Tsuâtey makes a valiant attempt to take down the shuttle carrying the explosives, but is shot and falls to the forest below. Trudy makes a valiant attempt to protect Jake from Quaritch's <a href="/wiki/Dragon_Assault_Ship" title="Dragon Assault Ship">Dragon</a>, but is outgunned and killed.
+</p><p>When all things seem bleak, the native wildlife of <a href="/wiki/Pandora" title="Pandora">Pandora</a> strikes back in force, seemingly responding to Jake's earlier plea to <a href="/wiki/Eywa" title="Eywa">Eywa</a> for help. The ground and aerial troops are scattered by the wildlife, while the <a href="/wiki/Valkyrie" title="Valkyrie">shuttle</a> carrying the explosives is destroyed before it reaches the Tree of Souls. During the wildlife's attack on the ground, a thanator approaches Neytiri and offers her to ride it. She accepts by bonding with it. Jake manages to bring down Quaritchâs gunship, but the Colonel manages to get into his <a href="/wiki/Amplified_Mobility_Platform" title="Amplified Mobility Platform">AMP suit</a> and escape the ship's destruction. Finding the camp containing the avatar pods by chance, Quaritch attempts to destroy Jakeâs body but Neytiri and her thanator attack him. However, Quaritch kills the thanator with his AMP and is about to kill Neytiri when Jake arrives to challenge him. As they fight, Jake destroys the AMPâs life support and canopy but is caught in the mechâs grip. Neytiri saves Jake by planting two arrows into Quaritchâs chest, killing the Colonel. The camp is damaged during Quaritch's attack and leaks deadly Pandoran air, leaving Jake's human body almost dying from the poisonous air until Neytiri helps him put on his exopack. At this moment, Jake says to Neytiri "<a href="/wiki/I_See_You" title="I See You">I See you</a>", the traditional Na'vi greeting. Neytiri begins to shed tears of joy and says it back to him. The words take on an entirely new meaning as Jake is in his human form.
+</p><p>Having put an end to the military's attack, the Na'vi round up the remaining RDA personnel to be sent back to <a href="/wiki/Earth" title="Earth">Earth</a>, never to return, while allowing a select group to stay with them on Pandora, which includes Jake, Norm, the avatar team and many other RDA defectors. Jake decides to stay in his avatar form forever, and concludes his final entry log of his experiences on his birthday. Returning to the Tree of Souls, he undergoes the consciousness transfer from his human body to his avatar form, and awakens to a new life as a Na'vi.
+</p>
+<script>
+    
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write(
+        '<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" ' +
+        'data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div>' +
+        '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">' +
+        '</scr' + 'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" ' +
+        'data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_bc_bt_ic_fsl_ffa mon_hub_movies mon_sl_ic" ' +
+        'data-ad-type="text" ' + 'data-font-size="large" ' +'data-font-face="arial" ' +
+        ' data-color-bg="#000000" data-color-border="#000000" data-color-link="#477987" data-color-url="#477987" data-color-text="#d5d4d4" ></ins>' +
+        '<script>(adsbygoogle = window.adsbygoogle || []).push({});</scr' + 'ipt></div></div>'
+    );
+}
+</script><h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<h3><span class="mw-headline" id="Humans">Humans</span></h3>
+<ul><li><b><a href="/wiki/Sam_Worthington" title="Sam Worthington">Sam Worthington</a></b> as <b><a href="/wiki/Jake_Sully" title="Jake Sully">Jake Sully</a></b>, a Marine veteran, paralyzed from the waist down that volunteers to go to Pandora as an <a href="/wiki/Avatar_(species)" title="Avatar (species)">avatar</a> driver. There he falls in love with the Na'vi princess, Neytiri. He is the main protagonist of the film.
+</li><li><b><a href="/wiki/Sigourney_Weaver" title="Sigourney Weaver">Sigourney Weaver</a></b> as <b><a href="/wiki/Dr._Grace_Augustine" title="Dr. Grace Augustine" class="mw-redirect">Dr. Grace Augustine</a></b>, a xenobotanist that mentors Jake Sully and helps him in the amazing planet of Pandora. She is in charge of the <a href="/wiki/Avatar_Program" title="Avatar Program">Avatar Program</a>.
+</li><li><b><a href="/wiki/Michelle_Rodriguez" title="Michelle Rodriguez">Michelle Rodriguez</a></b> as <b><a href="/wiki/Trudy_Chacon" title="Trudy Chacon">Trudy Chacon</a></b>, a <a href="/wiki/SecOps" title="SecOps" class="mw-redirect">SecOps</a> pilot that takes the avatar team to different parts on Pandora.
+</li><li><b><a href="/wiki/Joel_David_Moore" title="Joel David Moore" class="mw-redirect">Joel David Moore</a></b> as <b><a href="/wiki/Norm_Spellman" title="Norm Spellman">Norm Spellman</a></b>, an anthropologist who studies plant and nature life (like Dr. Grace Augustine).
+</li><li><b><a href="/wiki/Stephen_Lang" title="Stephen Lang">Stephen Lang</a></b> as <b><a href="/wiki/Miles_Quaritch" title="Miles Quaritch">Miles Quaritch</a></b>, the chief of security on Pandora. He has a profound disregard for Pandoran life and is the main antagonist.
+</li><li><b><a href="/wiki/Giovanni_Ribisi" title="Giovanni Ribisi">Giovanni Ribisi</a></b> as <b><a href="/wiki/Parker_Selfridge" title="Parker Selfridge">Parker Selfridge</a></b>, the Administrator of the <a href="/wiki/Resources_Development_Administration" title="Resources Development Administration">RDA</a> who does anything for money and the second-most prominent villain, after Quaritch.
+</li><li><b><a href="/wiki/Matt_Gerald" title="Matt Gerald">Matt Gerald</a></b> as <b><a href="/wiki/Lyle_Wainfleet" title="Lyle Wainfleet">Lyle Wainfleet</a></b>, a SecOps corporal.
+</li><li><b><a href="/wiki/Dileep_Rao" title="Dileep Rao">Dileep Rao</a></b> as <b><a href="/wiki/Dr._Max_Patel" title="Dr. Max Patel" class="mw-redirect">Dr. Max Patel</a></b>, the doctor of the operation that passes the human mind on an avatar.
+</li></ul>
+<h3><span class="mw-headline" id="Na.27vi">Na'vi</span></h3>
+<ul><li><a href="/wiki/Zoe_Saldana" title="Zoe Saldana" class="mw-redirect"><b>Zoe Saldana</b></a> as <b><a href="/wiki/Neytiri" title="Neytiri">Neytiri</a></b>, the <a href="/wiki/Omaticaya_Clan" title="Omaticaya Clan">Omaticaya clan</a> princess that Jake falls in love with.
+</li><li><b><a href="/wiki/CCH_Pounder" title="CCH Pounder">CCH Pounder</a></b> as <b><a href="/wiki/Mo%27at" title="Mo&#39;at">Mo'at</a></b>, the clan's spiritual leader and mother of Neytiri. She feels uncomfortable about the humans visiting her home planet.
+</li><li><b><a href="/wiki/Laz_Alonso" title="Laz Alonso">Laz Alonso</a></b> as <b><a href="/wiki/Tsu%27tey" title="Tsu&#39;tey">Tsu'tey</a></b>, the clan's finest warrior that was supposed to mate with Neytiri.
+</li><li><b><a href="/wiki/Wes_Studi" title="Wes Studi">Wes Studi</a></b> as <b><a href="/wiki/Eytukan" title="Eytukan">Eytukan</a></b>, the clan's leader and father of Neytiri. He is well-respected by his people.
+</li></ul>
+<h2><span class="mw-headline" id="Special_Edition_Re-release">Special Edition Re-release</span></h2>
+<p>There was a theatrical re-release of the film in theaters on August 27, 2010, it included an extra 9 minutes of footage. It was only released in 3-D and IMAX 3-D and was only in theaters for one week.
+</p><p>The 9 extra minutes of footage include:
+</p>
+<ul><li>A <a href="/wiki/Sturmbeest" title="Sturmbeest">sturmbeest</a> hunt after Jake learns to ride an ikran (Jake kills one of these creatures with his bow from atop his ikran).
+</li><li>A scene near the end of the film where a mortally wounded Tsu'tey assigns the clan's leadership to Jake and orders him to end his agony. Jake unwillingly does so, and recites a prayer for him.
+</li><li>The mating scene is extended and shows Jake and Neytiri connecting their queues and the deep meaning that this act has for the Na'vi.
+</li><li>The scene near the campfire is extended. Neytiri tells Jake her full name.
+</li><li>Grace, Norm and Jake visit Grace's abandoned school.
+</li><li>Another added scene is inserted after the destruction of the <a href="/wiki/Tree_of_Voices" title="Tree of Voices">Tree of Voices</a> by <a href="/wiki/RDA_Bulldozer" title="RDA Bulldozer">RDA bulldozers</a>. The Na'vi attack the bulldozers and kill the human escorts, leaving the equipment destroyed and burning. Even the soldiers in <a href="/wiki/Amplified_Mobility_Platform" title="Amplified Mobility Platform">AMP suits</a> are killed. This scene shows <a href="/wiki/Lyle_Wainfleet" title="Lyle Wainfleet">Lyle Wainfleet</a> reporting the scene of the attack to the <a href="/wiki/Operations_Center" title="Operations Center">Operations Center</a>. The addition of this scene helped clarify the reason for the decision by <a href="/wiki/Quaritch" title="Quaritch" class="mw-redirect">Quaritch</a> and <a href="/wiki/Parker_Selfridge" title="Parker Selfridge">Parker Selfridge</a> to destroy the <a href="/wiki/Hometree" title="Hometree">Hometree</a>.
+</li><li>A scene is also added after Jake, Grace, Trudy and Norm arrive at the remote base <a href="/wiki/Site_26" title="Site 26">Site 26</a> in the <a href="/wiki/Hallelujah_Mountains" title="Hallelujah Mountains">Hallelujah Mountains</a>. In this scene, it is explained why the mountains float (they are rich in <a href="/wiki/Unobtanium" title="Unobtanium">unobtanium</a>, a natural superconductor that floats in the presence of magnetic fields).
+</li><li>There are also a few seconds added to many already-existing scenes (for example, an addition to the scene where Jake touches the <a href="/wiki/Fan_lizard" title="Fan lizard" class="mw-redirect">fan lizard</a>).
+</li></ul>
+<h2><span class="mw-headline" id="Soundtrack">Soundtrack</span></h2>
+<p><a href="/wiki/Avatar:_Music_from_the_Motion_Picture" title="Avatar: Music from the Motion Picture">Avatar: Music from the Motion Picture</a> was released on December 15, 2009 by composer <a href="/wiki/James_Horner" title="James Horner">James Horner</a>.
+</p>
+<h2><span class="mw-headline" id="Awards">Awards</span></h2>
+<p><i><b>Empire Awards</b></i>
+</p>
+<ul><li>Best Movie <i>(Winner)</i>
+</li><li>Best Actress (Zoe Saldana)<i>(Winner)</i>
+</li><li>Best Director (James Cameron) <i>(Winner)</i>
+</li></ul>
+<p><i><b>Academy Awards</b></i>
+</p>
+<ul><li>Art Direction <i>(Winner)</i>
+</li><li>Cinematography <i>(Winner)</i>
+</li><li>Directing (James Cameron) <i>(Nominated)</i>
+</li><li>Film Editing <i>(Nominated)</i>
+</li><li>Music (Score) (James Horner) <i>(Nominated)</i>
+</li><li>Best Picture (James Cameron and Jon Landau) <i>(Nominated)</i>
+</li><li>Sound Editing <i>(Nominated)</i>
+</li><li>Sound Mixing <i>(Nominated)</i>
+</li><li>Visual Effects <i>(Winner)</i>
+</li></ul>
+<p><b>British Academy Awards</b> <sup id="cite_ref-0" class="reference"><a href="#cite_note-0">[1]</a></sup>
+</p>
+<ul><li>Best Cinematography (Mauro Fiore) <i>(Nominated)</i>
+</li><li>Best Director (James Cameron) <i>(Nominated)</i>
+</li><li>Best Editing (Stephen Rivkin, John Refoua, James Cameron) <i>(Nominated)</i>
+</li><li>Best Film <i>(Nominated)</i>
+</li><li>Best Music (James Horner<i>) (Nominated)</i>
+</li><li>Best Production Design (<a href="/wiki/Rick_Carter" title="Rick Carter">Rick Carter</a>, <a href="/wiki/Robert_Stromberg" title="Robert Stromberg">Robert Stromberg</a>, Kim Sinclair) <i>(Winner)</i>
+</li><li>Best Sound (Christopher Boyes, Gary Summers, Andy Nelson, Tony Johnson, Addison Teague) <i>(Nominated)</i>
+</li><li>Best Special Visual Effects (<a href="/wiki/Joe_Letteri" title="Joe Letteri">Joe Letteri</a>, Stephen Rosenbaum, Richard Baneham, Andrew R. Jones) <i>(Winner)</i>
+</li></ul>
+<p><b>Golden Globes</b>
+</p>
+<ul><li>Best Motion Picture: Drama <i>(Winner)</i>
+</li><li>Best Director (James Cameron) <i>(Winner)</i>
+</li><li>Best Original Score <i>(Nominated)</i>
+</li><li>Best Original Song <i>(Nominated)</i>
+</li></ul>
+<p><b>Broadcast Film Critics Association (BFCA)</b>
+</p>
+<ul><li>Best Picture <i>(Nominated)</i>
+</li><li>Best Director (James Cameron) <i>(Nominated)</i>
+</li><li>Best Cinematography <i>(Winner)</i>
+</li><li>Best Art Direction <i>(Winner)</i>
+</li><li>Best Editing <i>(Winner)</i>
+</li><li>Best Makeup <i>(Nominated)</i>
+</li><li>Best Visual Effects <i>(Winner)</i>
+</li><li>Best Sound <i>(Winner)</i>
+</li><li>Best Action Movie <i>(Winner)</i>
+</li></ul>
+<p><b>Saturn Awards</b>
+</p>
+<ul><li>Best Science Fiction Film <i>(Winner)</i>
+</li><li>Best Actor (Sam Worthington) <i>(Winner)</i>
+</li><li>Best Actress (Zoe Saldana) <i>(Winner)</i>
+</li><li>Best Director (James Cameron) <i>(Winner)</i>
+</li><li>Best Writing (James Cameron) <i>(Winner)</i>
+</li><li>Best Supporting Actor (Stephen Lang) <i>(Winner)</i>
+</li><li>Best Supporting Actress (Sigourney Weaver) <i>(Winner)</i>
+</li><li>Best Music (James Horner) <i>(Winner)</i>
+</li><li>Best Production Design <i>(Winner)</i>
+</li><li>Best Special Effects <i>(Winner)</i>
+</li></ul>
+<p><b>New York Critic's Online</b>
+</p>
+<ul><li>Best Picture <i>(Winner)</i>
+</li></ul>
+<p><b>Producers Guild Award</b>
+</p>
+<ul><li>Best Picture <i>(Nominated)</i>
+</li></ul>
+<p><b>Director's Guild Award</b>
+</p>
+<ul><li>Best Director (James Cameron) <i>(Nominated)</i>
+</li></ul>
+<p><b>Writer's Guild Award</b>
+</p>
+<ul><li>Best Original Screenplay (James Cameron) <i>(Nominated)</i>
+</li></ul>
+<h2><span class="mw-headline" id="Deleted_Scenes">Deleted Scenes</span></h2>
+<p>James Cameron confirmed that he filmed at least 45 minutes of scenes not included in the theatrical version.
+</p><p>On the Extended Collector's Edition, there is 45 minutes of deleted scenes included as part of the collection.
+</p><p>Here is a short description of some of those scenes as well as several scenes from the script that were not included in the Extended Collector's Edition:
+</p>
+<ul><li><i>Stingbat Attack</i>: Jake, in his wheelchair, comes near the fence that surrounds Hells Gate, staring at a creature that resembles a stingbat, orange and has wings that appear more bat like, attacks the fence, trying to get at him, but is killed by Lyle Wainfleet. This is reminiscent of the scene described in the original manuscript, where Jake is nearly killed by a slinth, a creature that was replaced by the thanator, near the fence of Hell's Gate.
+</li><li>In the script, Trudy Chacon and Norm Spellman have a romantic relationship. Before she crashes, Trudy whispers: "Norm, I love you." Jake discovers their relationship, when, getting out of a link, finds them sharing their intimacy in Norm's bunk.
+</li><li>There is a scene that takes place after the Assault on the Tree of Souls where Jake, having returned to his avatar body, finds a dying Tsu'tey, whose queue had been cut off by Lyle Wainfleet. Tsu'tey is in much pain and confesses to Jake that he considered him to be a brother and was proud to fight with him. He declares Jake the new Omaticaya clan leader. He then asks Jake to end his life. Jake reluctantly does so with a knife and blesses him with the same rite shown when he killed his first hexapede. This scene was included as part of the extended re-release and later the Extended Collector's Edition, but with minor changes, as Tsu'tey does not lose his queue in either version of the film, and is merely dying from the gunshot injuries that he sustained during the battle.
+</li><li>The mating scene between Jake and Neytiri was cut short because James Cameron felt that it would make some audience members feel uncomfortable, and so that the film would not get an "R" rating. The scene was restored to its original length in both the extended re-release and the Extended Collector's Edition.
+</li><li>The script goes into greater detail during the mating scene. Neytiri says that she appreciates the kisses of Jake, but her people have something more (referring to the connection between queues). Jake is disturbed, because he understands that Neytiri knows that his real body is not there. Neytiri convinces Jake that the only thing that is important is the presence of the two souls. So Jake agrees to connect queues, and they are united forever. After this, Jake, in his human body, goes rigid, understanding the depth of his own actions.
+</li><li>After months in the Na'vi part of his life, Jake starts to hate human food. This fact is in particular shown in a scene later added into the Extended Collector's Edition where Jake refuses to eat a microwave-heated burrito, a food considered by the Na'vi (in the script) as "food for larvae."
+</li><li><i>The Dreamhunt</i>: After having captured his ikran, Jake is actually an "adult" Na'vi. The last rite is the <a href="/wiki/Uniltaron" title="Uniltaron" class="mw-redirect">Uniltaron</a>, when a Na'vi will discover his "protective animal", similar to rituals in some Native American cultures. During the rite, Jake sees a <a href="/wiki/Great_Leonopteryx" title="Great Leonopteryx">toruk</a>, the "last shadow," and is shy about sharing his vision, as the animal is considered to be a symbol of bad luck. Mo'at decrees that the vision is not clear and that Jake is not obliged to share it.
+</li><li>There is also a scene in which Jake, riding an ikran, hunts for a <a href="/wiki/Sturmbeest" title="Sturmbeest">sturmbeest</a> -- an animal which is not featured in the original theatrical release of the film but is present in both the extended re-release and the Extended Collector's Edition.
+</li><li><i>Hunt Festival</i>: Another scene sees Jake and Tsu'tey, during a hunt festival, engage in a drinking contest. Tsu'tey is ready to open himself emotionally to Jake, but Neytiri interrupts them and takes Jake to dance with her, angering Tsu'tey. While Jake and Neytiri dance in the front of the fire, Tsu'tey watches them jealously. This is another sign of the rivalry between Jake and Tsu'tey. This scene is also important as it highlights the fact that Neytiri is falling in love with Jake. Mo'at and Eytukan discuss this and they come to the conclusion that they have to separate the two because Neytiri is promised to Tsu'tey.
+</li><li><i>The Challenge</i>: In another scene, Tsu'tey, upon learning that Jake and Neytiri are mated for life, challenges Jake to a fight to the death. Jake accepts the challenge, and the two fight with staffs. The fight ends when Jake and Grace are returned to their human bodies by Quaritch, and Tsu'tey is stopped from killing Jake's inert avatar by Neytiri.
+</li><li>Another scene shows Grace telling Jake how her <a href="/wiki/Old_School_House" title="Old School House">school</a> closed: <a href="/wiki/Sylwanin" title="Sylwanin">Sylwanin</a>, along with several other Na'vi children, had burned an RDA bulldozer and fled to Grace's school seeking protection. RDA soldiers, however, followed the children to the school and opened fire. Despite Grace's best efforts to keep the Na'vi safe, Sylwanin and many others were killed and Grace herself was shot. The scene was added into the Extended Collector's Edition, although there is no mention of Grace being shot during the massacre.
+</li><li>Following the destruction of the Tree of Voices by the RDA, Tsu'tey (acting under Eytukan's orders) leads a war party against them. The aftermath seen by Quaritch and Parker Selfridge shows several bulldozers destroyed and the squad of mercenaries killed, serving as the decisive moment for the RDA to destroy the Hometree. This scene was inserted into both the extended re-release and the Extended Collector's Edition.
+</li><li><i>You're a long way from Earth</i>: Prior to the Assault on the Tree of Souls, Quaritch takes over the operation, much to Selfridge's fury, who angrily berates the Colonel for "turning the mine-workers local into a freakin' militia!" and tries to stop him from proceeding with the assault. Quaritch dismisses Selfridge and prepares for the upcoming battle.
+</li><li><i>New Life</i>: At the end of the film, Neytiri was supposed to be shown as pregnant with Jake's child.
+</li></ul>
+<h2><span class="mw-headline" id="DVD_.2F_Blu-ray_Releases">DVD / Blu-ray Releases</span></h2>
+<figure class="article-thumb tright show-info-icon" style="width: 100px"> 	<a href="http://vignette4.wikia.nocookie.net/jamescameronsavatar/images/6/6a/Avatar_Blu-ray.jpg/revision/latest?cb=20100316225807" 	class="image image-thumbnail" 	 	 	><img src="http://vignette4.wikia.nocookie.net/jamescameronsavatar/images/6/6a/Avatar_Blu-ray.jpg/revision/latest/scale-to-width/100?cb=20100316225807" 	 alt="Avatar Blu-ray"  	class="thumbimage " 	 	data-image-key="Avatar_Blu-ray.jpg" 	data-image-name="Avatar Blu-ray.jpg" 	 	 width="100"  	 height="120"  	 	 	 	></a>  	<figcaption> 		 			<a href="/wiki/File:Avatar_Blu-ray.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Blu-ray Edition</p> 		 	</figcaption> </figure>
+<p>The theatrical version of the movie was released on April 22nd, 2010 on <a href="/wiki/Avatar:_First_Home_Video_Release" title="Avatar: First Home Video Release">Blu-ray and DVD</a>. This was a bare-bones release, containing nothing in the way of special features.
+</p><p>The <a href="/wiki/Avatar:_Extended_Collector%27s_Edition" title="Avatar: Extended Collector&#39;s Edition">Avatar: Extended Collector's Edition</a>, containing all three versions of the film and bonus content, was released on November 16th, 2010. It is a three disc set, containing behind the scenes material as well as deleted scenes.
+</p><p>A <a href="/wiki/Avatar_3D_Blu-ray" title="Avatar 3D Blu-ray">3D version</a> featuring the theatrical cut was also released in late 2010. This version was exclusively bundled with Panasonic 3D TVs and Blu-ray players. A general release was planned for Q1 of 2011,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[2]</a></sup> but the bundling period was extend by one year until early 2012.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[3]</a></sup> Albeit for copies circulating on the internet, these discs are currently not available as stand-alone products. A <a href="/wiki/Avatar:_Limited_3D_Edition" title="Avatar: Limited 3D Edition">limited 3D edition</a> was announced for October 15/16 2012.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[4]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Sequels">Sequels</span></h2>
+<p>On December 11, 2009, one week before <i>Avatar</i> was released to theaters, <a href="/wiki/James_Cameron" title="James Cameron">James Cameron</a> hinted that he intended to make two sequels if <i>Avatar</i> was successful enough. As of September 2012 the estimated release date of <i><a href="/wiki/Avatar_2" title="Avatar 2">Avatar 2</a></i> is Christmas 2015, with <i><a href="/wiki/Avatar_3" title="Avatar 3">Avatar 3</a></i> following one year later. While the film franchise was originally intended to be a trilogy, a <a href="/wiki/Avatar_Prequel" title="Avatar Prequel">prequel</a> has also been announced, set 35 years before the first film.
+</p><p>Cameron has stated that basically all of the surviving characters would return for <i>Avatar 2</i>. Sam Worthington, Zoe Saldana, Sigourney Weaver, Joel Moore, and CCH Pounder have all signed on for <i>Avatar 2</i>, while Stephen Lang<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[5]</a></sup> and Michelle Rodriguez <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[6]</a></sup> have both expressed interest in returning. When asked about the sequel, Giovanni Ribisi stated that he was not allowed to say anything. <sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[7]</a></sup>
+</p><p>Cameron is currently working on scripts for the second and third films; Pre-production is expected to begin in January 2013. <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[8]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<h3><span class="mw-headline" id="General">General</span></h3>
+<ul><li>The font used for the film's logo is Papyrus, with a few minor adjustments.
+</li><li>A casting call was posted on the website of Mali Finn Casting in early December 2005 for the female lead. The casting call was erroneously reported to be for James Cameron's <i>Battle Angel</i> (2011). However, <i>Battle Angel</i> will be the second of the back-to-back Cameron projects with a planned 2013 release (although the release was pushed further back to begin work on the sequels for <i>Avatar</i>).
+</li></ul>
+<h3><span class="mw-headline" id="Actors"><b>Actors</b></span></h3>
+<ul><li><a href="http://en.wikipedia.org/wiki/Michael_Biehn" class="extiw" title="wikipedia:Michael Biehn">Michael Biehn</a> was considered for the role of Colonel Quaritch. He met with James Cameron three times and saw some of the 3D footage, but in the end it simply came down to the fact that Cameron didn't want people thinking it was <i>Aliens</i> (1986) all over again, as Sigourney Weaver had already been cast.
+</li><li><a href="/wiki/Sigourney_Weaver" title="Sigourney Weaver">Sigourney Weaver</a> plays a "James Cameron" persona for her character in <i>Avatar</i>. Sigourney stated in an interview, "I teased him because to me I'm playing Jim Cameron in the movie as this kind of brilliant, approach-driven, idealistic perfectionist. But that same somebody has a great heart underneath. So I have to say I was always kind of channeling him."
+</li><li>The second James Cameron film that doesn't feature either Michael Biehn, Bill Paxton, Jennette Goldstein, or Arnold Schwarzennegger, the first being <i>Piranha 2: The Spawning.</i>
+</li></ul>
+<h3><span class="mw-headline" id="Production"><b>Production</b></span></h3>
+<ul><li>Announced on June 14, 2005 in the Hollywood Reporter, James Cameron's untitled "Project 880" is a parallel project being developed alongside <i>Battle Angel</i> (2011). It will use the same digital-3D camera system (developed by Vince Pace) and virtual production studio (developed by Robert Legato) that Cameron will use on <i>Battle Angel</i>.
+</li></ul>
+<ul><li>James Cameron originally attempted to get the film made in 1999 as his immediate follow-up to <i>Titanic</i> (1997). However, at the time, the special effects he wanted for the movie ran the proposed budget up to $400 million. No studio would fund the film, and it was subsequently shelved for almost ten years.
+</li><li>James Cameron's first feature film since <i>Titanic</i> (1997).
+</li><li>The movie is 40% live action and 60% photo-realistic CGI. A large amount of motion capture technology was used for the CGI scenes.
+</li><li>Seeing the character of Gollum in <i>The Lord of the Rings: The Two Towers</i> (2002) convinced James Cameron that CGI effects had progressed enough to make <i>Avatar</i> (2009).
+</li></ul>
+<h3><span class="mw-headline" id="Movie">Movie</span></h3>
+<ul><li>The film is rated PG-13 for intense epic battle sequences and warfare, sensuality, language and some smoking, according to commercials on air. It is James Cameron's third film to receive this rating (with <i>Titanic</i> and <i>The Abyss</i>).
+</li><li>Avatar was the first film to feature the new 20th Century Fox logo, which is animated by Blue Sky Studios, the makers of <i>Ice Age</i> (2002). It was according to trailers and commercials.
+</li><li>The major part of the film takes place in August 2154, 200 years after James Cameron's birth (* 16. August 1954).
+</li><li>President Obama watched <i>Avatar</i> on Thursday, December 31, 2009 with his family.
+</li><li><i>Avatar</i> is the highest grossing film of all time. Taking inflation into account, it ranks 14th.
+</li><li><i>Avatar</i> is the first film to earn more than $2 billion worldwide at the box office.
+</li></ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="references-small">
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0">â</a> <span class="reference-text"><a class="external free" href="http://www.bafta.org/awards/film/film-awards-nominations,949,BA.html">http://www.bafta.org/awards/film/film-awards-nominations,949,BA.html</a>, BAFTA Film Nominations</span>
+</li>
+<li id="cite_note-1"><a href="#cite_ref-1">â</a> <span class="reference-text"><a class="external free" href="http://hdguru.com/avatar-3d-blu-ray-is-coming-in-december/2369/">http://hdguru.com/avatar-3d-blu-ray-is-coming-in-december/2369/</a></span>
+</li>
+<li id="cite_note-2"><a href="#cite_ref-2">â</a> <span class="reference-text"><a class="external free" href="http://www.hdtvtest.co.uk/news/panasonic-extend-avatar-3d-offer-201103031042.htm">http://www.hdtvtest.co.uk/news/panasonic-extend-avatar-3d-offer-201103031042.htm</a></span>
+</li>
+<li id="cite_note-3"><a href="#cite_ref-3">â</a> <span class="reference-text"><a class="external free" href="http://www.blu-ray.com/news/?id=9309">http://www.blu-ray.com/news/?id=9309</a></span>
+</li>
+<li id="cite_note-4"><a href="#cite_ref-4">â</a> <span class="reference-text"><a class="external free" href="http://worstpreviews.com/headline.php?id=21708">http://worstpreviews.com/headline.php?id=21708</a></span>
+</li>
+<li id="cite_note-5"><a href="#cite_ref-5">â</a> <span class="reference-text"><a class="external free" href="http://www.eonline.com/news/marc_malkin/michelle_rodriguez_talks_avatar_2_gassy/230117">http://www.eonline.com/news/marc_malkin/michelle_rodriguez_talks_avatar_2_gassy/230117</a></span>
+</li>
+<li id="cite_note-6"><a href="#cite_ref-6">â</a> <span class="reference-text"><a class="external free" href="http://www.cinemablend.com/new/Giovanni-Ribisi-Talks-Madness-Rum-Diary-27623.html">http://www.cinemablend.com/new/Giovanni-Ribisi-Talks-Madness-Rum-Diary-27623.html</a></span>
+</li>
+<li id="cite_note-7"><a href="#cite_ref-7">â</a> <span class="reference-text"><a class="external free" href="http://herocomplex.latimes.com/2012/09/10/james-cameron-avatar-sequels-a-daunting-writing-task/">http://herocomplex.latimes.com/2012/09/10/james-cameron-avatar-sequels-a-daunting-writing-task/</a></span>
+</li></ol></div>
+<h2><span class="mw-headline" id="External_Links"> External Links </span></h2>
+<ul><li>Wikipedia article: <a class="external text" href="http://en.wikipedia.org/wiki/Avatar_(2009_film)">Avatar (2009 film)</a>
+</li><li>Official website: <a class="external free" href="http://www.avatarmovie.com/">http://www.avatarmovie.com/</a>
+</li><li>Official YouTube: <a class="external free" href="http://www.youtube.com/user/officialavatar">http://www.youtube.com/user/officialavatar</a>
+</li><li>Unofficial forums: <a class="external free" href="http://www.avatar-forums.com/">http://www.avatar-forums.com/</a>
+</li><li>Another Fansite: <a class="external free" href="http://www.naviblue.com/hometree/">http://www.naviblue.com/hometree/</a>
+</li><li>Internet Movie Database: <a class="external free" href="http://www.imdb.com/title/tt0499549/">http://www.imdb.com/title/tt0499549/</a>
+</li></ul>
+<p><br />
+</p>
+<table class="navbox" style="width:100%; background-color:#000; border:solid 1px #fff; font-size:smaller;">
+
+
+<tr>
+<th colspan="2" style="background-color:#00497c; font-size:small;"> <a href="/wiki/Avatar_(film_series)" title="Avatar (film series)">Avatar Film Series</a>
+</th></tr>
+<tr>
+<td style="width:100px; font-weight:bold; background-color:#001f33; padding:0px 10px;"> <a href="/wiki/Category:Films" title="Category:Films">Films</a>
+</td><td style="padding:0px 10px;"> <a href="/wiki/Avatar_Prequel" title="Avatar Prequel">Avatar Prequel</a> (TBA) Â· <strong class="selflink">Avatar</strong> (2009) Â· <a href="/wiki/Avatar_2" title="Avatar 2">Avatar 2</a> (2017) Â· <a href="/wiki/Avatar_3" title="Avatar 3">Avatar 3</a> (TBA) Â· <a href="/wiki/Avatar_4" title="Avatar 4">Avatar 4</a> (TBA)
+</td></tr>
+<tr>
+<td style="width:100px; font-weight:bold; background-color:#001f33; padding:0px 10px;"> Related Material
+</td><td style="padding:0px 10px;"> <a href="/wiki/ILM_Prototype" title="ILM Prototype">ILM Prototype</a> Â· <a href="/wiki/Pandora_Discovered" title="Pandora Discovered">Pandora Discovered</a> Â· <a href="/wiki/Capturing_Avatar" title="Capturing Avatar">Capturing Avatar</a> Â· <a href="/wiki/A_Message_from_Pandora" title="A Message from Pandora">A Message from Pandora</a> Â· <a href="/wiki/Avatar_(novel_series)" title="Avatar (novel series)" class="mw-redirect">Novel Series</a>
+</td></tr>
+
+</table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 815/300000
+Postâexpand include size: 13251/2097152 bytes
+Template argument size: 7002/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key jamescameronsavatar:pcache:idhash:2075-0!*!0!!en!2!* -->
+<section id="RelatedForumDiscussion" class="RelatedForumDiscussion">
+	<h2>
+		<a class="button forum-new-post " href="http://james-camerons-avatar.wikia.com/wiki/Topic:Avatar_(film)?openEditor=1" title="Start a new discussion about Avatar (film)">Start a Discussion</a>
+		Discussions about Avatar (film)	</h2>
+	<div class="forum-content">
+		<ul class="forum-discussions">
+							<li class="forum-thread">
+					<img class="sprite talk-two" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+					<h4>
+						<a href="http://james-camerons-avatar.wikia.com/wiki/Thread:44369" class="forum-thread-title">
+							Themes in Avatar						</a>
+					</h4>
+										<ul class="forum-replies">
+													<li class="forum-reply">
+	<img class="forum-user-avatar" src="http://img4.wikia.nocookie.net/__cb0/messaging/images/thumb/1/19/Avatar.jpg/50px-Avatar.jpg">
+	<div class="forum-user-name">
+		<a href="/wiki/Special:Contributions/124.168.234.73">A Wikia contributor</a>
+	</div>
+	<div class="forum-message-body">
+		What are the themes in Avatar and how are they conveyed?		<time class="forum-timestamp timeago" datetime="2013-08-21T08:42:16Z">2013-08-21T08:42:16Z</time>
+	</div>
+</li>
+						
+											</ul>
+				</li>
+					</ul>
+		<div class="forum-see-more">
+			<a href="http://james-camerons-avatar.wikia.com/wiki/Topic:Avatar_(film)">See more discussions &gt;</a>
+		</div>
+	</div>
+</section>
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://james-camerons-avatar.wikia.com/wiki/Avatar_(film)?oldid=107503">http://james-camerons-avatar.wikia.com/wiki/Avatar_(film)?oldid=107503</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Disambiguation" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Disambiguation" title="Category:Disambiguation">Disambiguation</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Avatar" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Avatar" title="Category:Avatar">Avatar</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Films" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Films" title="Category:Films">Films</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				<nav class="WikiaArticleInterlang">
+	<h3>Languages: </h3>
+	<ul>
+			<li><a href="http://de.james-camerons-avatar.wikia.com/wiki/Avatar_%E2%80%93_Aufbruch_nach_Pandora">Deutsch</a></li>
+			<li><a href="http://es.james-camerons-avatar.wikia.com/wiki/Avatar_(pel%C3%ADcula)">EspaÃ±ol</a></li>
+			<li><a href="http://ru.james-camerons-avatar.wikia.com/wiki/%D0%90%D0%B2%D0%B0%D1%82%D0%B0%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)">Ð ÑÑÑÐºÐ¸Ð¹</a></li>
+			<li><a href="http://pl.james-camerons-avatar.wikia.com/wiki/Avatar_(film)">Polski</a></li>
+			<li><a href="http://fr.james-camerons-avatar.wikia.com/wiki/Avatar_(film)">FranÃ§ais</a></li>
+			<li><a href="http://it.james-camerons-avatar.wikia.com/wiki/Avatar_(film_2009)">Italiano</a></li>
+			<li><a href="http://ja.avatar.wikia.com/wiki/%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC_(%E6%98%A0%E7%94%BB)">æ¥æ¬èª</a></li>
+			<li><a href="http://fi.james-camerons-avatar.wikia.com/wiki/Avatar_(elokuva)">Suomi</a></li>
+			<li><a href="http://nl.james-camerons-avatar.wikia.com/wiki/Avatar_(film)">Nederlands</a></li>
+		</ul>
+</nav>
+
+				<script>
+    
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write(
+        '<div id="monetization-adunit-below_category" class="monetization-module adunit hide-for-edit below-category" ' +
+        'data-mon-type="adunit" data-mon-slot="below_category"><div class="ad-header">Advertisement</div><div>' +
+        '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">' +
+        '</scr' + 'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" ' +
+        'data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_bc_bt_ic_fsl_ffa mon_hub_movies mon_sl_bc" ' +
+        'data-ad-type="text" ' + 'data-font-size="large" ' +'data-font-face="arial" ' +
+        ' data-color-bg="#000000" data-color-border="#000000" data-color-link="#477987" data-color-url="#477987" data-color-text="#d5d4d4" ></ins>' +
+        '<script>(adsbygoogle = window.adsbygoogle || []).push({});</scr' + 'ipt></div></div>'
+    );
+}
+</script>
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+						<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+					<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+					<div id="WikiaRail" class="WikiaRail">
+
+	<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+			<div class="loading"></div>
+	
+</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<!-- BEGIN SLOTNAME: LEFT_SKYSCRAPER_3 -->
+<div id="LEFT_SKYSCRAPER_3" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["LEFT_SKYSCRAPER_3"]);
+</script>
+</div>
+<!-- END SLOTNAME: LEFT_SKYSCRAPER_3 -->
+	
+			<section>
+	<div class="header-container">
+		<h1>Around Wikia's network</h1>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/38188" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer row">
+	<nav>
+		<div class="branding vertical-movies black">
+			<a class="wikia-logo" href="http://movieshub.wikia.com/wiki/Movies_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>Movies</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["GPT_FLUSH"]);
+</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: INVISIBLE_1 -->
+<div id="INVISIBLE_1" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_1"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_1 -->
+<!-- BEGIN SLOTNAME: INVISIBLE_2 -->
+<div id="INVISIBLE_2" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_2"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_2 -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"jamescameronsavatar","kv_article_id":2075,"kv_wpage":"Avatar_(film)","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"media=movie;sub=jamescameron;egnre=scifi;gnre=action;gnre=adventure;rated=pg13;gnre=fantasy;egnre=war","kv_domain":"james-camerons-avatar.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://james-camerons-avatar.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis%26ve%3D1/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Avatar_(film)","wgTitle":"Avatar (film)","wgCurRevisionId":107503,"wgArticleId":2075,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Disambiguation","Avatar","Films"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Avatar_(film)","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"","background-image-height":"800","background-image-width":"1900","color-body":"#000000","color-body-middle":"#000000","color-buttons":"#163140","color-header":"#0f1826","color-links":"#477987","color-page":"#000000","page-opacity":"100","widthType":2},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Avatar Wiki","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1424388494/common","wgSitename":"Avatar Wiki","wgMWrevId":false,"wgRevisionId":107503,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Avatar_(film)","fbReturnToTitle":"Avatar_(film)","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"http://slot1.images.wikia.nocookie.net/__cb1424388494/common/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdWvwETAAAAACS_0luypJPV7aiQkpLzoZN26YAf","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":true,"verticalName":"Entertainment","WikiaEnableNewCreatepage":true,"ContentNamespacesText":["","Fanon"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Avatar (film)"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"enablerichtext":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"founderemails-joins-38188":0,"founderemails-edits-38188":0,"founderemails-views-digest-38188":0,"founderemails-complete-digest-38188":0,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs110":false,"searchNs111":false,
+"searchNs112":true,"searchNs113":false,"searchNs500":false,"searchNs501":false,"searchNs502":false,"searchNs503":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: jamescameronsavatar:resourceloader:filter:minify-js:7:7043bcbcb196ab94640608eecb320183 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikiaViewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.wikiaInYourLang"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1424388494/groups/-/oasis_shared_core_js,adengine2_js,adengine2_late_js,oasis_shared_js,oasis_anon_with_new_global_nav_js,liftium_ads_js,liftium_ads_extra_js,adengine2_oasis_ads_js,adengine2_interactive_maps_js,toc_js,qualaroo_js,global_footer_js,spotlights_js,relatedpages_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CImagePlaceholder%2COasis-generic&amp;uselang=en&amp;cb=1424388494.0.76268"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1424388494/group/-/monetization_module_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1424388494/group/-/global_navigation_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://james-camerons-avatar.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://james-camerons-avatar.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/site"></script>
+<script type='text/javascript'>
+var agllGroup = "Entertainment";
+!function(){
+var a=document.createElement("script");a.type="text/javascript";a.async=!0;var b=["http://a98dc034c7781a941eba-bac02262202668bbe918ea9fb5289cd2.r58.cf2.rackcdn.com","https://52e473ee9859b886964f-bac02262202668bbe918ea9fb5289cd2.ssl.cf2.rackcdn.com"];a.src=("https:"==document.location.protocol?b[1]:b[0])+"/c59hk50tip94.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(a,c)
+}();</script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationHubsMenu.scss","extensions\/wikia\/UserLogin\/css\/UserLoginDropdown.globalNavigation.scss","extensions\/wikia\/WallNotifications\/styles\/WallNotifications.globalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationOasis.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearchOasis.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

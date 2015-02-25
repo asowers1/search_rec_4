@@ -1,0 +1,1618 @@
+<!DOCTYPE html>
+<html class="desktop">
+
+
+<head>
+  <meta name="google-site-verification" content="PfFjeZ9OK1RrUrKlmAPn_iZJ_vgHaZO1YQ-QlG2VsJs" />
+
+  <title>The Little Prince Quotes by Antoine de Saint-ExupÃ©ry</title>
+  
+    <meta name="description" content="518 quotes from The Little Prince: âAnd now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essentia...">
+
+  <meta name="verify-v1" content="cEf8XOH0pulh1aYQeZ1gkXHsQ3dMPSyIGGYqmF53690=">
+  <meta name="apple-itunes-app" content="app-id=355833469">
+
+
+          <script type="text/javascript">
+        if (window.Mobvious === undefined) {
+          window.Mobvious = {};
+        }
+        window.Mobvious.device_type = 'desktop';
+        </script>
+
+
+  <link href="http://s.gr-assets.com/assets/goodreads-a26b39c5944f8b833bc7f454567f9559.css" media="screen" rel="stylesheet" type="text/css" />
+  <script src="http://s.gr-assets.com/assets/application-42fb4bc414525fe302b1f44339dae637.js" type="text/javascript"></script>
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="dYIaCtuCHYRKHowMVUPiD1rmfycddgVX86JA5xqtdYXuQkkmAQxABqkUZScR7KxBuOCGtp1FZYByWiXKh2vf2A==" name="csrf-token" />
+
+  <meta content="0FZJTZA7WGKNYFNE0WTH" name="request-id" />
+
+      <link rel="canonical" href="http://www.goodreads.com/work/quotes/2180358-le-petit-prince" />
+
+  <!--[if lte IE 6]>
+    <link href="http://s.gr-assets.com/assets/ie6-cc52aa7387334f5af5c4030b6967aeae.css" media="screen" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript">
+//<![CDATA[
+
+      try {
+        document.execCommand("BackgroundImageCache", false, true);
+      }
+      catch(err) {}
+
+//]]>
+</script>  <![endif]-->
+
+  <!--[if lt IE 9]>
+    <link href="http://s.gr-assets.com/assets/ie-359aa440eb656520ac599b277282c9da.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+
+  <!--[if lt IE 8]>
+    <link href="http://s.gr-assets.com/assets/common_images_ie-7e02aa56087d0ffa4d957885fe28af2c.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+
+  <!--[if gte IE 8]><!-->
+  <link href="http://s.gr-assets.com/assets/common_images-f3d5973863608a51d0a0cdb6ac9ab82e.css" media="screen" rel="stylesheet" type="text/css" />
+  <!--<![endif]-->
+
+  <script>
+  //<![CDATA[
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") +
+      "//www.googletagservices.com/tag/js/gpt.js";
+      var node = document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+    // page settings
+    googletag.cmd.push(function() {
+      googletag.pubads().setTargeting("sid", "1a310bd1286bbfc7f0c21ec9d320717d");
+    googletag.pubads().setTargeting("author", ["1020792"]);
+    googletag.pubads().setTargeting("resource", "work_quotes_2180358");
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  //]]>
+</script>
+
+
+
+  
+  <script>
+  //<![CDATA[
+    $grfb.init.done(function() {
+      if (this.auth.status === "not_authorized") {
+        // logged into Facebook user but not a GR app user; show FB button
+        $j("#generalRegPrompt").hide();
+      } else {
+        $j("#facebookRegPrompt").hide();
+      }
+      $j("#connectPrompt").show();
+    });
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      adUnit = googletag
+        .defineSlot(
+          "/4215/goodr.quote.top.300x250",
+          [300,250],
+          "div-gpt-ad-7c74479e77")
+        .addService(googletag.pubads())
+        .setCollapseEmptyDiv(true);
+      
+    });
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      adUnit = googletag
+        .defineSlot(
+          "/4215/goodr.quote.top.out.970x66",
+          [970,66],
+          "div-gpt-ad-7e15faff90")
+        .addService(googletag.pubads())
+        .setCollapseEmptyDiv(true);
+      
+    });
+  //]]>
+</script>
+
+
+  
+  
+  
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Goodreads">
+
+
+  <script>
+  //<![CDATA[
+    var GoodreadsAnalytics = GoodreadsAnalytics || {};
+    var _gaq = _gaq || [];
+    var isDebug = false;
+    
+    $j(function () {
+      if (isDebug) {
+        $j("#google-analytics-debug").show();
+      }
+    });
+    
+    GoodreadsAnalytics.push = function () {
+      _gaq.push.apply(_gaq, arguments);
+    
+      if (isDebug) {
+        var args = arguments[0];
+        $j(function () {
+          var li = $j("<li/>").text(JSON.stringify(args));
+          $j("#google-analytics-debug ol").append(li);
+        });
+      }
+    }
+    
+    GoodreadsAnalytics.push(['_setAccount', 'UA-968618-1']);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      1,                        // Slot 1
+      'User Status',            // Custom variable name
+      'signed_out',  // Custom variable value: signed_out, signed_in,
+                                //   signed_in_facebook_connected, or
+                                //   goodreads_member_previously_signed_in
+      2                         // Visit-level scope, which means slot 1 will be
+                                //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      2,                        // Slot 2
+      'Device Type',            // Custom variable name
+      'desktop',         // Custom variable value: desktop, mobile, or
+                                //   tablet
+      2                         // Visit-level scope, which means slot 2 will be
+                                //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      3,                           // Slot 3
+      'Interstitial Ad Presence',  // Custom variable name
+      'false',  // Custom variable value: true or false
+      2                            // Visit-level scope, which means slot 3 will be
+                                   //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_trackPageview']);
+    
+    (function () {
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
+    })();
+  //]]>
+</script>
+
+
+
+  <script type="text/javascript">
+      var _qevents = _qevents || [];
+
+      (function() {
+          var elem = document.createElement('script');
+
+          elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+          elem.async = true;
+          elem.type = "text/javascript";
+          var scpt = document.getElementsByTagName('script')[0];
+          scpt.parentNode.insertBefore(elem, scpt);
+      })();
+  </script>
+
+</head>
+
+
+<body class="">
+<div class="content">
+  
+
+    <div class='uitext' id='siteheader'>
+<div class='mainContent'>
+<ul class='nav' id='usernav'>
+<li>
+<strong>
+<a href="/user/new" class="navlink" rel="nofollow">register</a>
+</strong>
+</li>
+<li>
+<a href="/about/how_it_works" class="navlink" rel="nofollow">Ã¼ber uns</a>
+</li>
+<li>
+<a href="/user/sign_in?returnurl=%2Fwork%2Fquotes%2F2180358-le-petit-prince" class="navlink" rel="nofollow">log in</a>
+</li>
+</ul>
+<div id='logo'>
+<a href='/'>
+<img alt="Goodreads: Book reviews, recommendations, and discussion" border="0" src="http://s.gr-assets.com/assets/layout/goodreads_logo_324-a908b923dc3ed9b7a13f3da4d1ffb2df.png" width="140" />
+</a>
+</div>
+<div id='sitesearch'>
+<form accept-charset="UTF-8" action="/search" id="headerSearchForm" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div><div class='auto_complete_field_wrapper'>
+<input id="sitesearch_field" name="query" placeholder="finden Sie BÃ¼cher nach Titel oder Autor oder isbn" type="text" />
+<div id='sitesearch_autocomplete'></div>
+<img alt="Loading-trans" class="loading" id="sitesearch_field_loading" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" style="display: none" />
+</div>
+<a class="submitLink" href="#" onclick="$j('#headerSearchForm').submit(); return false;"><img alt="search" src="http://s.gr-assets.com/assets/layout/magnifying_glass-a2d7514d50bcee1a0061f1ece7821750.png" title="finden Sie BÃ¼cher nach Titel oder Autor oder isbn" width="16" /></a>
+</form>
+
+</div>
+
+<ul class='nav' id='sitenav'>
+<li>
+<a href="/" class="navlink">home</a>
+</li>
+<li>
+<a href="/review/list" class="navlink" rel="nofollow">meine bÃ¼cher</a>
+</li>
+<li>
+<a href="/friend" class="navlink" rel="nofollow">freunde</a>
+</li>
+<li>
+<a href="/recommendations" class="navlink" rel="nofollow">Recommendations</a>
+</li>
+<li>
+<a href="/book" class="navlink" rel="nofollow">Explore</a>
+</li>
+<li class='notificationIcon withsubnav exploreMenu'>
+<div class='dropDownContainer'>
+<div class='dropDown'>
+<div class='caretArrow'></div>
+<div class='dropDownMenu'>
+<div class='exploreMenuContent'>
+<ul class='content'>
+<li>
+<a href="/genres">Genres</a>
+</li>
+<li>
+<a href="/list" title="Popular lists of books">Listopia</a>
+</li>
+<li>
+<a href="/giveaway" title="Free book giveaways">Giveaways</a>
+</li>
+<li>
+<a href="/choiceawards/best-books-2014" title="2014 Goodreads Choice Awards">Choice Awards</a>
+</li>
+<li>
+<a href="/book/popular_by_date/2015/2" title="Popular New Releases">Popular</a>
+</li>
+<li>
+<a href="/voice">Goodreads Voice</a>
+</li>
+<li>
+<a href="/ebooks">Ebooks</a>
+</li>
+</ul>
+<ul class='content'>
+<li class='title'>
+<b>
+Fun
+</b>
+</li>
+<li>
+<a href="/trivia">Trivia</a>
+</li>
+<li>
+<a href="/quizzes">Quizzes</a>
+</li>
+<li>
+<a href="/quotes">Zitate</a>
+</li>
+</ul>
+<ul class='content'>
+<li class='title'>
+<b>
+Community
+</b>
+</li>
+<li>
+<a href="/group">Groups</a>
+</li>
+<li>
+<a href="/story">Schreiben</a>
+</li>
+<li>
+<a href="/user/online_now" rel="nofollow">Leute</a>
+</li>
+<li>
+<a href="/event">Events</a>
+</li>
+</ul>
+</div>
+
+</div>
+</div>
+<a href="/book" class="dropDownOpener subnavlink"></a>
+</div>
+
+</li>
+</ul>
+</div>
+</div>
+
+
+  
+
+  <div class="mainContentContainer ">
+    
+    <div class="mainContent">
+          <div id="premiumAdTop">
+      <div id='div-gpt-ad-7e15faff90' style='width: 970px; height: 66px'>
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      googletag.display("div-gpt-ad-7e15faff90");
+    });
+  //]]>
+</script>
+
+</div>
+
+    </div>
+
+      <div class="mainContentFloat">
+        <div id="flashContainer">
+
+
+</div>
+
+        <div id='connectPrompt' style='display:none;'>
+<div class='connectPromptHolder'>
+<div class='vcenteredLineOfBlocks' style='margin:15px auto 0;'>
+<div class='regPromptText'>
+<div class='title'>
+
+</div>
+<div class='subtext test_styles'>
+Get quotes daily
+</div>
+</div>
+<div id='facebookRegPrompt'>
+<a class='fbjsLogin fbButton connectPromptButton' data-tracking-id='fb_connect_prompt_quote_reg_prompt' href='/user/new'>
+<img alt="Facebook" src="http://s.gr-assets.com/assets/facebook/fb-icon-8d74377d3ff4a368f05860c35d8025b2.png" />
+Sign in with Facebook
+</a>
+<div class='connectPromptAlternates'>
+<a href="/user/sign_up?connect_prompt=true&amp;qotd_option=true">Sign in <br/> options</a>
+</div>
+</div>
+<div id='generalRegPrompt'>
+<div class='connectPromptButton'>
+<a href="/user/sign_up?connect_prompt=true&amp;qotd_option=true" class="button orange">Join Goodreads</a>
+</div>
+</div>
+</div>
+<div class='clear'></div>
+</div>
+</div>
+
+
+
+<h1>The Little Prince Quotes</h1>
+<div class="leftContainer">
+  <div class="right">
+    <div class='wtrButtonContainer wtrSignedOut' id='1_book_157993'>
+<div class='wtrUp wtrLeft'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Wh700wQOJ1LTErG5Y6ixuJPIr7VSfWH0G5kZazPfnpLB3qf/3oB60DAYWJInB//2cc5WJNJOASOaYXxGrhk0zw==" /></div>
+<input id="book_id" name="book_id" type="hidden" value="157993" />
+<input id="name" name="name" type="hidden" value="to-read" />
+<input id="unique_id" name="unique_id" type="hidden" value="1_book_157993" />
+<input id="wtr_new" name="wtr_new" type="hidden" value="true" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_search" name="from_search" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value="" />
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>savingâ¦</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="qTIibAinCxzi08QvwrN7jSa7z59A1bD39dSW2/GGarYy8nFA0ilWngHZLQSGHDXDxL02DsDm0CB0LPP2bEDA6w==" /></div>
+<input id="unique_id" name="unique_id" type="hidden" value="1_book_157993" />
+<input id="book_id" name="book_id" type="hidden" value="157993" />
+<input id="a" name="a" type="hidden" />
+<input id="name" name="name" type="hidden" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+</form>
+
+<button class='wtrShelfButton'></button>
+<div class='wtrShelfMenu'>
+<ul class='wtrExclusiveShelves'>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='to-read'>
+<span class='progressTrigger'>Want to Read</span>
+<img alt="savingâ¦" class="progressIndicator" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='currently-reading'>
+<span class='progressTrigger'>Currently Reading</span>
+<img alt="savingâ¦" class="progressIndicator" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='read'>
+<span class='progressTrigger'>Read</span>
+<img alt="savingâ¦" class="progressIndicator" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+</ul>
+</div>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="157993" data-submit-url="/review/rate/157993?stars_click=true&wtr_button_id=1_book_157993" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+  </div>
+
+	<a href="/book/show/157993.The_Little_Prince" class="leftAlignedImage"><img alt="The Little Prince" src="http://d.gr-assets.com/books/1367545443s/157993.jpg" /></a>
+  <a href="/book/show/157993.The_Little_Prince" class="bookTitle">The Little Prince</a>
+	<span class="by">by</span>
+	<a href="/author/show/1020792.Antoine_de_Saint_Exup_ry" class="authorName">Antoine de Saint-ExupÃ©ry</a><br/>
+  482,712 ratings,
+  4.23
+  average rating, 13,627 reviews
+  <br/>
+    
+
+<a href="https://read.amazon.com/nc/?kcrFree=only&amp;tag=x_gr_w_preview_kcr-20&amp;asin=B008QYT7DI" class="button kcrPreviewButtonShown " data-book-id="157993" id="js-kcrPreviewButton">Open Preview</a>
+
+<div id="wrongBookKindlePreviewScreenBook157993" class="wrongBookKindlePreviewScreen" style="display: none;">
+  <div class="wrongBookBody">
+    <h2>See a Problem?</h2>
+    <div class="wrongBookText">
+      <div class="description">
+        Weâd love your help.
+        Let us know whatâs wrong with this preview of
+        <cite>The Little Prince</cite> by Antoine de Saint-ExupÃ©ry.
+      </div>
+      <form accept-charset="UTF-8" action="/kindle_book_mapping_flags" class="new_kindle_book_mapping_flag" data-remote="true" id="new_kindle_book_mapping_flag" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="iGYTRwoiDZcDMH3YhudXvKhFFRAnMoaPRXaqhcK3VtYTpkBr0KxQFeA6lPPCSBnySkPsgacB5ljEjs+oX3H8iw==" /></div>
+        <div class="reasons">
+          <label for="kindle_book_mapping_flag_reason">Problem:</label>
+          <select id="kindle_book_mapping_flag_reason" name="kindle_book_mapping_flag[reason]"><option value="wrongBook">Itâs the wrong book</option>
+<option value="wrongEdition">Itâs the wrong edition</option>
+<option value="other">Other</option></select>
+          <br/>
+        </div>
+        <div class="otherReason">
+          <label for="kindle_book_mapping_flag_other_reason">Details (if other):</label>
+          <input id="kindle_book_mapping_flag_other_reason" name="kindle_book_mapping_flag[other_reason]" size="30" type="text" />
+        </div>
+        <input id="kindle_book_mapping_flag_book_id" name="kindle_book_mapping_flag[book_id]" type="hidden" value="157993" />
+        <input class="button" name="commit" type="submit" value="Report Problem" />
+        &nbsp;
+        <button type="button" id="js-wrongBookKindlePreviewScreenCancelLink" class="buttonAsActionLinkSecondary">
+        Cancel and return to book page
+        </button>
+</form>    </div>
+  </div>
+</div>
+<div id="js-wrongBookKindlePreviewScreenConfirmation"
+     class="wrongBookKindlePreviewScreenConfirmation"
+     style="display:none;">
+  <p>Thanks for telling us about the problem.</p>
+  <button type="button" class="button" id="js-wrongBookKindlePreviewScreenConfirmationDismiss">
+    Return to Book Page
+  </button>
+</div>
+<div id="kindleCloudReaderBook157993" class="kindleCloudReader" style="display: none;">
+  <div class="topBanner">
+    <a href="#" class="js-wrongBookKindlePreview" data-book-id="157993" id="wrongBookLink">Not the book youâre looking for?</a>
+    <h2 class="kindlePreviewHeader">
+      Preview â <cite>The Little Prince</cite> by Antoine de Saint-ExupÃ©ry
+    </h2>
+  </div>
+  <iframe id="kindleCloudReader">
+    <iframe id="wrongBookKindlePreviewScreen"></iframe>
+  </iframe>
+</div>
+
+
+  <div class="clear"></div>
+  <div class="mediumText">
+    The Little Prince Quotes
+      <span class="smallText">
+(showing
+1-30
+of
+518)
+</span>
+
+  </div>
+
+
+  <div class="clear"></div>
+
+
+  	<div class="quotes">
+    	<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/heart">heart</a>,
+       <a href="/quotes/tag/importance">importance</a>,
+       <a href="/quotes/tag/inspiration">inspiration</a>,
+       <a href="/quotes/tag/secret">secret</a>,
+       <a href="/quotes/tag/the-little-prince">the-little-prince</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/1219735-and-now-here-is-my-secret-a-very-simple-secret" class="smallText" title="View this quote">3281 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;All grown-ups were once children... but only few of them remember it.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/reminding">reminding</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/83175-all-grown-ups-were-once-children-but-only-few-of-them" class="smallText" title="View this quote">2718 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;I am looking for friends. What does that mean -- tame?"<br><br>"It is an act too often neglected," said the fox. "It means to establish ties." <br><br>"To establish ties?" <br><br>"Just that," said the fox. "To me, you are still nothing more than a little boy who is just like a hundred thousand other little boys. And I have no need of you. And you, on your part, have no need of me. To you I am nothing more than a fox like a hundred thousand other foxes. But if you tame me, then we shall need each other. To me, you will be unique in all the world. To you, I shall be unique in all the world....&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/friendship">friendship</a>,
+       <a href="/quotes/tag/wisdom">wisdom</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/60855-i-am-looking-for-friends-what-does-that-mean---" class="smallText" title="View this quote">1635 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;People have forgotten this truth," the fox said. "But you mustnât forget it. You become responsible forever for what youâve tamed. Youâre responsible for your rose.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/friendship">friendship</a>,
+       <a href="/quotes/tag/love">love</a>,
+       <a href="/quotes/tag/responsibility">responsibility</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/85614-people-have-forgotten-this-truth-the-fox-said-but-you" class="smallText" title="View this quote">1622 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;It is the time you have wasted for your rose that makes your rose so important.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/caring">caring</a>,
+       <a href="/quotes/tag/inspirational">inspirational</a>,
+       <a href="/quotes/tag/love">love</a>,
+       <a href="/quotes/tag/roses">roses</a>,
+       <a href="/quotes/tag/time">time</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/282264-it-is-the-time-you-have-wasted-for-your-rose" class="smallText" title="View this quote">1506 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;The most beautiful things in the world cannot be seen or touched, they are felt with the heart.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/inspirational">inspirational</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/369705-the-most-beautiful-things-in-the-world-cannot-be-seen" class="smallText" title="View this quote">1420 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;You - you alone will have the stars as no one else has them...In one of the stars I shall be living. In one of them I shall be laughing. And so it will be as if all the stars were laughing, when you look at the sky at night...You - only you - will have stars that can laugh.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">El Principito</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/79349-you---you-alone-will-have-the-stars-as-no" class="smallText" title="View this quote">1275 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;What makes the desert beautiful,' said the little prince, 'is that somewhere it hides a well...&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/inspirational">inspirational</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/17758-what-makes-the-desert-beautiful-said-the-little-prince-is" class="smallText" title="View this quote">1248 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;It is such a mysterious place, the land of tears.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/the-little-prince">the-little-prince</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/15323-it-is-such-a-mysterious-place-the-land-of-tears" class="smallText" title="View this quote">1209 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Well, I must endure the presence of a few caterpillars if I wish to become acquainted with the butterflies.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/butterflies">butterflies</a>,
+       <a href="/quotes/tag/caterpillars">caterpillars</a>,
+       <a href="/quotes/tag/philosophy">philosophy</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/105305-well-i-must-endure-the-presence-of-a-few-caterpillars" class="smallText" title="View this quote">1073 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;People where you live," the little prince said, "grow five thousand roses in one garden... yet they don't find what they're looking for...<br><br>They don't find it," I answered.<br><br>And yet what they're looking for could be found in a single rose, or a little water..."<br><br>Of course," I answered.<br><br>And the little prince added, "But eyes are blind. You have to look with the heart.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/inspirational">inspirational</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/17759-people-where-you-live-the-little-prince-said-grow-five" class="smallText" title="View this quote">1059 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;You see, one loves the sunset when one is so sad.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/42015-you-see-one-loves-the-sunset-when-one-is-so" class="smallText" title="View this quote">940 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;You're beautiful, but you're empty...One couldn't die for you. Of course, an ordinary passerby would think my rose looked just like you. But my rose, all on her own, is more important than all of you together, since she's the one I've watered. Since she's the one I put under glass, since she's the one I sheltered behind the screen. Since she's the one for whom I killed the caterpillars (except the two or three butterflies). Since she's the one I listened to when she complained, or when she boasted, or even sometimes when she said nothing at all. Since she's my rose.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/caring">caring</a>,
+       <a href="/quotes/tag/inspirational">inspirational</a>,
+       <a href="/quotes/tag/love">love</a>,
+       <a href="/quotes/tag/roses">roses</a>,
+       <a href="/quotes/tag/uniqueness">uniqueness</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/93190-you-re-beautiful-but-you-re-empty-one-couldn-t-die-for-you-of" class="smallText" title="View this quote">929 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;If you love a flower that lives on a star, it is sweet to look at the sky at night. All the stars are a-bloom with flowers...&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/love">love</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/57421-if-you-love-a-flower-that-lives-on-a-star" class="smallText" title="View this quote">777 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;You become responsible, forever, for what you have tamed.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/responsibility">responsibility</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/2813-you-become-responsible-forever-for-what-you-have-tamed" class="smallText" title="View this quote">720 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;And when your sorrow is comforted (time soothes all sorrows) you will be content that you have known me. You will always be my friend. You will want to laugh with me. And you will sometimes open your window, so, for that pleasure . . . And your friends will be properly astonished to see you laughing as you look up at the sky! Then you will say to them, 'Yes, the stars always make me laugh!' And they will think you are crazy. It will be a very shabby trick that I shall have played on you...&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/grief">grief</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/27452-and-when-your-sorrow-is-comforted-time-soothes-all-sorrows" class="smallText" title="View this quote">707 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Where are the people?â resumed the little prince at last. âItâs a little lonely in the desertâ¦â âIt is lonely when youâre among people, too,â said the snake.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/loneliness">loneliness</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/217321-where-are-the-people-resumed-the-little-prince-at-last" class="smallText" title="View this quote">650 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;All men have stars, but they are not the same things for different people. For some, who are travelers, the stars are guides. For others they are no more than little lights in the sky. For others, who are scholars, they are problems... But all these stars are silent. You-You alone will have stars as no one else has them... In one of the stars I shall be living. In one of them I shall be laughing. And so it will be as if all the stars will be laughing when you look at the sky at night..You, only you, will have stars that can laugh! And when your sorrow is comforted (time soothes all sorrows) you will be content that you have known me... You will always be my friend. You will want to laugh with me. And you will sometimes open your window, so, for that pleasure... It will be as if, in place of the stars, I had given you a great number of little bells that knew how to laugh&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/live-well-love-much-love-often">live-well-love-much-love-often</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/138924-all-men-have-stars-but-they-are-not-the-same" class="smallText" title="View this quote">597 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;So the little prince tamed the fox. And when the hour of his departure drew near--<br><br>Ah," said the fox, "I shall cry."<br><br>It is your own fault," said the little prince. "I never wished you any sort of harm; but you wanted me to tame you . . ."<br><br>Yes, that is so," said the fox.<br><br>But now you are going to cry!" said the little prince.<br><br>Yes, that is so," said the fox.<br><br>Then it has done you no good at all!"<br><br>It has done me good," said the fox, "because of the color of the wheat fields.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/48418-so-the-little-prince-tamed-the-fox-and-when-the" class="smallText" title="View this quote">487 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;She cast her fragrance and her radiance over me. I ought never to have run away from her... I ought to have guessed all the affection that lay behind her poor little stratagems. Flowers are so inconsistent! But I was too young to know how to love her...&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/flowers">flowers</a>,
+       <a href="/quotes/tag/love">love</a>,
+       <a href="/quotes/tag/roses">roses</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/36841-she-cast-her-fragrance-and-her-radiance-over-me-i" class="smallText" title="View this quote">477 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;A rock pile ceases to be a rock pile the moment a single man contemplates it, bearing within him the image of a cathedral.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/creativity">creativity</a>,
+       <a href="/quotes/tag/great-quotes">great-quotes</a>,
+       <a href="/quotes/tag/inspirational">inspirational</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/121975-a-rock-pile-ceases-to-be-a-rock-pile-the" class="smallText" title="View this quote">389 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;I did not know how to reach him, how to catch up with him... The land of tears is so mysterious.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/comfort">comfort</a>,
+       <a href="/quotes/tag/empathy">empathy</a>,
+       <a href="/quotes/tag/sadness">sadness</a>,
+       <a href="/quotes/tag/sympathy">sympathy</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/246001-i-did-not-know-how-to-reach-him-how-to" class="smallText" title="View this quote">374 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;You're beautiful, but you're empty. No one could die for you.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/le-petit-prince">le-petit-prince</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/468497-you-re-beautiful-but-you-re-empty-no-one-could-die-for" class="smallText" title="View this quote">367 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;When someone blushes, doesn't that mean 'yes'?&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/love">love</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/324022-when-someone-blushes-doesn-t-that-mean-yes" class="smallText" title="View this quote">361 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;I remembered the fox. One runs the risk of crying a bit if one allows oneself to be tamed.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/inspirational">inspirational</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/109543-i-remembered-the-fox-one-runs-the-risk-of-crying" class="smallText" title="View this quote">361 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;In those days, I didn't understand anything. I should have judged her according to her actions, not her words. She perfumed my planet and lit up my life. I should never have run away! I ought to have realized the tenderness underlying her silly pretensions. Flowers are so contadictory! But I was too young to know how to love her.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/15733-in-those-days-i-didn-t-understand-anything-i-should-have" class="smallText" title="View this quote">343 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Grown-ups love figures... When you tell them you've made a new friend they never ask you any questions about essential matters. They never say to you "What does his voice sound like? What games does he love best? Does he collect butterflies? " Instead they demand "How old is he? How much does he weigh? How much money does his father make? " Only from these figures do they think they have learned anything about him.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/405727-grown-ups-love-figures-when-you-tell-them-you-ve-made-a" class="smallText" title="View this quote">333 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;I have lived a great deal among grown-ups. I have seen them intimately, close at hand. And that hasnât much improved my opinion of them.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/childlike-wonder">childlike-wonder</a>,
+       <a href="/quotes/tag/maturity">maturity</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/120645-i-have-lived-a-great-deal-among-grown-ups-i-have" class="smallText" title="View this quote">315 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;The proof that the little prince existed is that he was charming, that he laughed, and that he was looking for a sheep.  If anybody wants a sheep, that is a proof that he exists.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/existentialism">existentialism</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/23370-the-proof-that-the-little-prince-existed-is-that-he" class="smallText" title="View this quote">315 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;But if you tame me, then we<br>shall need each other. To me, you will be unique in all the world. To you, I<br>shall be unique in all the world.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-ExupÃ©ry</a>,
+    <i>
+      <a href="/work/quotes/2180358">The Little Prince</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/me">me</a>,
+       <a href="/quotes/tag/need">need</a>,
+       <a href="/quotes/tag/world">world</a>,
+       <a href="/quotes/tag/you">you</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/358598-but-if-you-tame-me-then-we-shall-need-each" class="smallText" title="View this quote">247 likes</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+
+  	</div>
+
+	<br/>
+
+	<div style="text-align: right; width: 100%">
+		<div><span class="previous_page disabled">Â« previous</span> <em class="current">1</em> <a rel="next" href="/work/quotes/2180358-le-petit-prince?page=2">2</a> <a href="/work/quotes/2180358-le-petit-prince?page=3">3</a> <a href="/work/quotes/2180358-le-petit-prince?page=4">4</a> <a href="/work/quotes/2180358-le-petit-prince?page=5">5</a> <a href="/work/quotes/2180358-le-petit-prince?page=6">6</a> <a href="/work/quotes/2180358-le-petit-prince?page=7">7</a> <a href="/work/quotes/2180358-le-petit-prince?page=8">8</a> <a href="/work/quotes/2180358-le-petit-prince?page=9">9</a> <span class="gap">&hellip;</span> <a href="/work/quotes/2180358-le-petit-prince?page=17">17</a> <a href="/work/quotes/2180358-le-petit-prince?page=18">18</a> <a class="next_page" rel="next" href="/work/quotes/2180358-le-petit-prince?page=2">next Â»</a></div>
+
+	</div>
+</div>
+
+<div class="rightContainer">
+	
+<form accept-charset="UTF-8" action="/quotes/search" class="quoteSearchForm box greyBox" method="get" name="quoteSearchForm"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+	<label class="mainLabel">Find quotes</label>
+	<input class="text greyText" id="explore_search_query" name="q" placeholder="Keyword, Author" type="text" />
+	<input class="searchButton button" name="commit" type="submit" value="Search" />
+</form>
+
+  <p>
+  	<a href="/quotes" class="actionLinkLite">All Quotes</a>
+  	<br />
+  	<a href="/author/quotes/1020792.Antoine_de_Saint_Exup_ry" class="actionLinkLite">Quotes By Antoine de Saint-ExupÃ©ry</a><br/>
+
+	  <a href="/games/quotes" class="actionLinkLite" rel="nofollow">Play The 'Guess That Quote' Game</a>
+  </p>
+
+	<br/>
+  <div id='div-gpt-ad-7c74479e77' style='width: 300px; height: 250px'>
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      googletag.display("div-gpt-ad-7c74479e77");
+    });
+  //]]>
+</script>
+
+</div>
+<br/>
+  <div id="self_serve_ads"></div>
+</div>
+
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+
+  <div class="clear"></div>
+  <div class="footerContainer">
+      <div class="footer">
+        <div class="copyright">
+          &copy; 2015 Goodreads Inc
+        </div>
+        <div class="adminLinksContainer">
+          <ul class="adminLinks">
+            <li>
+              <a href="/about/us" class="first" rel="nofollow">about us</a>
+            </li>
+            <li>
+              <a href="/advertisers" rel="nofollow">advertise</a>
+            </li>
+            <li>
+              <a href="/author/program" rel="nofollow">author program</a>
+            </li>
+            <li>
+              <a href="/jobs" rel="nofollow">jobs</a>
+            </li>
+            <li>
+              <a href="/api" rel="nofollow">api</a>
+            </li>
+            <li>
+              <a href="/blog/index">our blog</a>
+            </li>
+            <li>
+              <a href="/about/terms" rel="nofollow">terms</a>
+            </li>
+            <li>
+              <a href="/about/privacy" rel="nofollow">privacy</a>
+            </li>
+            <li>
+              <a href="/help" class="last" rel="nofollow">help</a>
+            </li>
+            <li class="mobileToggleLink">
+              <span class="label">switch to:</span>
+              <a href="/toggle_mobile?switch_to=mobile" rel="nofollow">mobile version</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+  </div>
+</div>
+
+<div id="overlay" style="display:none" onclick="Lightbox.hideBox('dropout')"></div>
+<div id="box" style="display:none">
+	<div id="close" class="xBackground js-closeModalIcon" onclick="Lightbox.hideBox('dropout')" title="Close this window"></div>
+	<div id="boxContents"></div>
+	<div id="boxContentsLeftovers" style="display:none"></div>
+	<div class="clear"></div>
+</div>
+
+<div id="fbSigninNotification" style="display:none;">
+  <p>Welcome back. Just a moment while we sign you in to your Goodreads account.</p>
+  <img alt="Login_animation" src="http://s.gr-assets.com/assets/facebook/login_animation-085464711e6c1ed5ba287a2f40ba3343.gif" />
+</div>
+
+  <script type="text/javascript" src="http://ads.goodreads.com/ad?p=quotes&amp;uid=false&amp;sid=1a310bd1286bbfc7f0c21ec9d320717d&amp;gtargeting=1">
+  </script>
+
+<div id="fb-root"></div>
+<script type="text/javascript">
+  $grfb.initialize({
+    appId: "2415071772",
+    grSession: false,
+    serverFBUser: null,
+    serverPublishEnabled: null,
+    suppressAutoLogin: false,
+    brokenFbConnectionTracked: false,
+    publishPermissionVerified: false
+  });
+</script>
+
+<script type="text/javascript">
+  var _kiq = _kiq || [];
+  (function(){
+    setTimeout(function(){
+    var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript';
+    s.async = true; s.src = '//s3.amazonaws.com/ki.js/52346/bde.js'; f.parentNode.insertBefore(s, f);
+    }, 1);
+  })();
+</script>
+
+
+<script>
+  //<![CDATA[
+    _qevents.push( { qacct:"p-0dUe_kJAjvkoY"} );
+    
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "6035830", c3: "", c4: "", c5: "", c6: "", c15: ""});
+    (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+    })();
+  //]]>
+</script>
+<noscript>
+<div style='display: none'>
+<img alt="" border="0" height="1" src="http://pixel.quantserve.com/pixel/p-0dUe_kJAjvkoY.gif" style="display: none;" width="1" />
+</div>
+<img alt="" height="0" src="http://b.scorecardresearch.com/p?c1=2&amp;amp;c2=6035830&amp;amp;c3=&amp;amp;c4=&amp;amp;c5=&amp;amp;c6=&amp;amp;c15=&amp;amp;cv=2.0&amp;amp;cj=1" style="display: none" width="0" />
+</noscript>
+
+
+</body>
+</html>

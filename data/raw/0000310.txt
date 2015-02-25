@@ -1,0 +1,1333 @@
+<!--[if IE ]>
+<!doctype html>
+<![endif]-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+<script src="//cdn.optimizely.com/js/1425218314.js"></script>
+        <script type="text/javascript">
+        // <![CDATA[
+        for(var i = 0; i < optimizely["activeExperiments"].length; i++){
+            var expid = optimizely["activeExperiments"][i];
+            var experimentname = optimizely.data.experiments[expid].name;
+            var variationname = optimizely.variationNamesMap[expid];
+            optimizely.$("head").prepend("<meta name=\"DCSext.opt\" content=\"" + experimentname + "-" + variationname +"\" />");
+        }
+        // ]]>
+    </script>
+<script type="text/javascript">
+           /* EPOCH time at the start of the page */
+
+           /*As IE8 doest support Date.now() functionality,using the diffrent one*/
+             if (!Date.now) {
+                    Date.now = function now() {
+                      return new Date().getTime();
+                   };
+              }
+
+              var pageStartTime = Date.now();
+</script>
+
+ <script src="//assets.adobedtm.com/71dcbb11123ce6b2e1ce4d47fd79a130aad3fc95/satelliteLib-1c3d0c3b3e3b492ca058647975687e6b485ad5c8.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+
+<title>Elton John: 20 essential songs - Telegraph</title>
+
+
+
+<meta name="description" content="As Brit Icon Elton John prepares to headline a iTunes Festival gig, ahead of 
+  the release of his new album, The Diving Board, James Lachno selects 
+  20 must-hear songs from the singer." />
+
+<meta name="keywords" content="Culture Picture Galleries,Culture" />
+
+<meta name="parsely-page" content='{"title": "Elton John: 20 essential songs ","link": "http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html","image_url": "http://i.telegraph.co.uk/multimedia/archive/02667/elton-main_2667628k.jpg","type": "post","post_id": "10284634", "pub_date": "2013-09-12T07:15:36Z","section": "Culture","authors": ["TMG"],"tags": ["Slideshow","Home","Culture","Culture News","Culture Picture Galleries","Music","Music Video","Music news","Music festivals","Rock and Pop Music","James Lachno","Best songs"]}'/>
+    <meta property="article:publisher" content="143666524748" />
+
+    <meta property="article:subsection" content="Culture Picture Galleries" />
+
+                    <meta property="article:section" content="Culture" />
+
+                <meta property="article:tag" content="Home" />
+    <meta property="article:tag" content="Culture" />
+    <meta property="article:tag" content="Culture News" />
+    <meta property="article:tag" content="Culture Picture Galleries" />
+    <meta property="article:tag" content="Music" />
+    <meta property="article:tag" content="Music Video" />
+    <meta property="article:tag" content="Music news" />
+    <meta property="article:tag" content="Music festivals" />
+    <meta property="article:tag" content="Rock and Pop Music" />
+    <meta property="article:tag" content="James Lachno" />
+    <meta property="article:tag" content="Best songs" />
+    <meta property="article:authorName" content="" />
+
+    <meta property="article:contenttype" content="gallery" />
+
+            <meta property="article:imagecount" content="20" />
+        <meta name="tmgads.zone" content="culture.culturepicturegalleries" />
+<meta name="tmgads.channel" content="culture" />
+<meta name="tmgads.section" content="culture-culturepicturegalleries" />
+
+<meta name="tmgads.articleid" content="10284634" />
+<input type="hidden" value="article" id="pageType" name="pageType" />
+<input type="hidden" value="gallery" id="templateName" name="templateName" />
+<meta name="tmgads.pagetype" content="gallery" />
+<meta name="tmgads.level" content="3" />
+<meta name="tmgads.otherdata" content="" />
+
+
+
+<meta name="tmgads.geo" content="US" />
+
+
+
+
+
+<meta name="DCSext.akamigeo" content="US" />
+
+
+
+<meta name="section-id" content="4544" />
+
+<meta name="last-modified" content="2013-09-12" />
+		<meta name="article-id" content="10284634" />
+		<meta name="title" content="Elton John: 20 essential songs" />
+		<meta name="GSAMLC" content="culture/culturepicturegalleries" />
+<meta name="GSAChannel" content="culture" />
+
+<meta name="GSAChannelName" content="Culture" />
+
+<meta name="GSACategory" content="culturepicturegalleries" />
+	<meta name="GSASectionUniqueName" content="culture-culture_picture_galleries" />
+
+<meta name="DC.date.issued" content="2013-09-12" />
+<meta name="robots" content="noarchive,noodp" />
+	<meta property="fb:app_id" content="120118784736295" />
+<meta property="fb:admins" content="686953094,531239902,100002344351237" />
+
+<meta property="og:description" content="As Brit Icon Elton John prepares to headline a iTunes Festival gig, ahead of   the release of his new album, The Diving Board, James Lachno selects   20 must-hear songs from the singer." />
+<meta property="og:site_name" content="Telegraph.co.uk" />
+<meta property="og:title" content="Elton John: 20 essential songs - Telegraph" />
+<meta property="og:url" content="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html" />
+
+<meta property="og:image" content="http://i.telegraph.co.uk/multimedia/archive/02661/1971-rex_2661372k.jpg" />
+<meta property="og:type" content="article" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Telegraph" />
+
+<link rel="canonical" href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html"/>
+
+<!--  Line no 278 normal.jsp where 1st code change should be made -->
+
+
+<link rel="dns-prefetch" href="//i.telegraph.co.uk">
+    <link rel="stylesheet" type="text/css" href="/template/ver1-0/css/gpocscreen.css" media="screen" />
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/ie7.css" media="screen" />
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/gpocajaxGallery.css" />
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/gpocprintArticle.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/templates/fragments/common/tmglBrandCSS.jsp" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS Feed for Culture Picture Galleries articles - Telegraph.co.uk" href="http://www.telegraph.co.uk/culture/culturepicturegalleries/rss" />
+
+<script type="text/javascript" src="/template/ver1-0/js/jquery-1.5.min.js"></script>
+
+<script src='//d3c3cq33003psk.cloudfront.net/opentag-35657-106653.js'></script>
+		<script type="text/javascript" src="/template/ver1-0/js/jquery-1.11.1.min.js"></script>
+
+<script>
+    jq1_11=$.noConflict(true);
+</script>
+
+<script type="text/javascript" src="/template/ver1-0/js/jquery.scrolldepth.js"></script>
+
+<script>
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-7226372-1']);
+    _gaq.push(['_setDomainName', 'telegraph.co.uk']);
+    jq1_11.scrollDepth();
+</script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/jquery.cookie.js"></script>
+
+<meta name="DCSext.MLC" content="/culture/culturepicturegalleries" />
+	<meta name="DCSext.Category" content="culturepicturegalleries" />
+							<meta name="WT.cg_s" content="culturepicturegalleries" />
+						<meta name="DCSext.Channel" content="culture" />
+					<meta name="WT.cg_n" content="culture" />
+						<meta name="DCSext.imageNo" content="1"/>
+        <meta name="DCSext.GalleryType" content="standard"/>
+    <meta name="DCSext.Content_Type" content="GalleryLarge" />
+    <meta name="DCSext.Level" content="3" />
+	<meta name="DCSext.articleFirstPublished" content="2013-09-11 09:13" />
+	<meta name="DCSext.articleId" content="10284634" />
+
+	<meta name="DCSext.cmsSect" content="Home;Culture;Culture_News;Culture_Picture_Galleries;Music;Music_Video;Music_news;Music_festivals;Rock_and_Pop_Music;James_Lachno;Best_songs" />
+	
+	
+
+
+<meta name="DCSext.cf" content="0"/>
+		<meta name="DCSext.cn" content="0"/>
+		<meta name="DCSext.cd" content="0"/>
+	<script src="/template/ver1-0/js/webtrends/WTDcsVid.js" type="text/javascript"></script>
+<script src="/template/ver1-0/js/webtrends/LIVE/WTID.js" type="text/javascript"></script>
+
+<script>
+window.webtrendsAsyncInit=function(){
+    var dcs=new Webtrends.dcs().init({
+        dcsid:"dcsshgbi400000gscd62rrg43_4o2o",
+        domain:"webtrends.telegraph.co.uk",
+        timezone:0,
+        adimpressions:true,
+        adsparam:"WT.ac",
+        offsite:false,
+        download:true,
+        downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip",
+        metanames:"DCSext.MLC, DCSext.source, DCSext.Category, DCSext.Genre, DCSext.Channel, DCSext.imageNo, DCSext.GalleryType, DCSext.Content_Type, DCSext.Level, DCSext.author, DCSext.articleFirstPublished, DCSext.articleId, DCSext.productProvider, DCSext.productName, DCSext.EA_Search_Type, DCSext.EA_Search_Engine, DCSext.EA_Search_Phrase, DCSext.oss, DCSext.ossType, DCSext.cf, DCSext.cn, DCSext.cd, DCSext.pd,DCSext.cmsSect",        
+        fpcdom:".telegraph.co.uk",
+        plugins:{
+            hm:{src:"/template/ver1-0/js/asyncwebtrends/webtrends.hm.js",hmurlparams:"frame,image"},
+            qbert: { src:"/template/ver1-0/js/asyncwebtrends/qbert-wtplugin.js" }
+        }
+        });
+    if ($.cookie("tmg_subs") != null){
+    	var ts = $.parseJSON($.cookie("tmg_subs"));
+        dcs.DCSext.location = ts.location;
+    	dcs.DCSext.trialDescription =ts.trialDescription;
+	    dcs.DCSext.subscriptionType = ts.subscriptionType;
+	    dcs.DCSext.flowType = ts.flowType;
+	    dcs.DCSext.productType = ts.productType;
+	    dcs.DCSext.serviceId = ts.serviceId;
+	    dcs.DCSext.servicePriceId = ts.servicePriceId;
+	
+	    dcs.DCSext.discountVoucher = ts.discountVoucher;
+	    dcs.DCSext.partnerName = ts.partnerName;
+	    dcs.DCSext.currentPromoName = ts.currentPromoName;
+	    dcs.DCSext.sourcePromoName = ts.sourcePromoName;
+	    dcs.DCSext.promoType = ts.promoType;
+	    dcs.DCSext.tCode = ts.tCode;
+	    dcs.DCSext.status = ts.status == true  && ts.acquisitionCompleted == true ? 'Active':'Inactive';
+
+   }
+   if( /Android|webOS|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) { dcs.DCSext.platform="tablet";}    
+   dcs.track();
+
+};
+(function(){
+    var s=document.createElement("script"); s.async=true; s.src="/template/ver1-0/js/asyncwebtrends/webtrends.js";
+    var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+}());
+</script>
+
+<noscript>< img alt="dcsimg" id="dcsimg" width="1" height="1" src="//webtrends.telegraph.co.uk/dcsshgbi400000gscd62rrg43_4o2o/njs.gif?MLC=&amp;Channel=&amp;Genre=&amp;Category=&amp;Content_Type=&amp;Level=&amp;source=&amp;dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.telegraph.co.uk"/></noscript>
+
+<script type="text/javascript"> 
+//Events tracking for Google Analytics 
+function trackGoogle() { 
+try {var pageTracker = _gat._getTracker("UA-7226372-1");pageTracker._trackPageview();} catch(err) {} 
+} 
+
+//External links tracking through Google Analytics 
+function isLinkExternal(link) { 
+    var r = new RegExp('^https?://(?:www.)?' + location.host.replace(/^www./, '')); 
+        return !r.test(link); 
+} 
+$(document).ready(function() { 
+    $(document).bind('click', function(e) { 
+        var target = (window.event) ? e.srcElement : e.target; 
+        while (target) { 
+            if (target.href) break; 
+            target = target.parentNode; 
+        } 
+        if (!target || !isLinkExternal(target.href)) return true; 
+        var link = target.href; 
+        link = '/outgoing/' + link.replace(/:\/\//, '/'); 
+        _gaq.push(['_trackPageview', link]); 
+    }); 
+}); 
+
+  var _gaq = _gaq || []; 
+  _gaq.push(['_setAccount', 'UA-7226372-1']); 
+  _gaq.push(['_setDomainName', 'telegraph.co.uk']); 
+  _gaq.push(['_trackPageview']); 
+
+  (function() { 
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+  })(); 
+
+</script>		
+<script type="text/javascript">
+        // <![CDATA[
+  var qcSegs = ''; 
+  var qcResults = function(qc){ 
+    for (var i=0;i<=qc.segments.length-1;i++){ 
+      if(qc.segments[i].id != 'D' && qc.segments[i].id != 'T') qcSegs += ';qc='+qc.segments[i].id; 
+    } 
+  }
+        // ]]>
+</script> 
+<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-gyXAHFFgnNQDj&callback=qcResults"></script>
+
+		
+			<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/gpt.js"></script>
+		
+	
+<script src="http://s.telegraph.co.uk/toolbar/disqus_parameters_prod.js" type="text/javascript" ></script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/commWidget.js"></script>
+<script>
+	var _comscore = _comscore || [];
+	_comscore.push({
+		c1 : "2",
+		c2 : "6035736"
+	});
+	(function() {
+		var s = document.createElement("script"), el = document
+				.getElementsByTagName("script")[0];
+		s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb"
+				: "http://b")
+				+ ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+</script>
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035736&cv=2.0&cj=1" />
+</noscript>
+</head>
+<body class="culture">
+	<!-- invitationUrl contains the baseUrl for the invitation(paywall). The whole url is completed by the esi tags -->
+<script type="text/javascript">
+		var subsInfo = new Object();
+		subsInfo.channel =  $('meta[name="DCSext.Channel"]').attr("content");
+		if(subsInfo.channel==undefined){subsInfo.channel='';}
+		subsInfo.mlc = $('meta[name="DCSext.MLC"]').attr("content");
+		if(subsInfo.mlc==undefined){subsInfo.mlc='';}
+		subsInfo.category = $('meta[name="DCSext.Category"]').attr("content");
+		if(subsInfo.category==undefined){subsInfo.category='';}
+		subsInfo.level = $('meta[name="DCSext.Level"]').attr("content");
+		if(subsInfo.level==undefined){subsInfo.level='';}
+		subsInfo.author = $('meta[name="DCSext.author"]').attr("content");
+		if(subsInfo.author==undefined){subsInfo.author='';}
+		subsInfo.content_type = $('meta[name="DCSext.Content_Type"]').attr("content");
+		if(subsInfo.content_type==undefined){subsInfo.content_type='';}
+		subsInfo.articleId = $('meta[name="DCSext.articleId"]').attr("content");
+		if(subsInfo.articleId==undefined){subsInfo.articleId='';}
+		var subsJson = JSON.stringify(subsInfo);
+		$.cookie("tmg_subs_referer",subsJson, { path: '/', domain: 'telegraph.co.uk'});
+		var inviteWTUrlSuffix='?channel='+ subsInfo.channel+'&mlc='+subsInfo.mlc+'&category='+ subsInfo.category+'&level='+subsInfo.level+'&author='+subsInfo.author+'&content_type='+subsInfo.content_type+'&articleId='+subsInfo.articleId;
+		
+		<!-- default inviteUrl value is UK-->
+		var inviteUrl = "" + '/subscriptions/invitation/';
+		
+			
+				
+					var inviteUrl = "" + "/subscriptions/invitation-intl/";
+				
+			
+	
+		
+				
+				
+				
+			
+		var plink = "http://www.telegraph.co.uk/template/ver1-0/templates/fragments/common/toolBar-js.jsp";
+	</script>
+	<script src="" type="text/javascript" ></script>
+	<script src="http://s.telegraph.co.uk/toolbar/js/tmgMenu.js" type="text/javascript" ></script>
+<a name="top"></a>
+<div class="hidden">
+	<p>Accessibility links</p>
+	<ul>
+	<li><a href="#article">Skip to article</a></li>
+		<li><a href="#mainsections">Skip to navigation</a></li>
+	</ul>
+</div><div id="tmglSite">
+	<div class="printLogo"><img src="/template/ver1-0/i/telegraph_print_190.gif"/></div>
+	
+			<div id="tmglHeader" class="">
+	<div id="tmglBannerAd">
+    
+              <script type="text/javascript">
+                  /* EPOCH time at the start of banner Ad */
+                var bannerTimerStart = Date.now();
+              
+            </script>
+		<div class="access">Advertisement</div>
+<div class="adbanner" align="center">
+	<div id="banner" class="InSkinHide">
+		<div bucket-id="mpu">
+<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("ban", "970x250,970x90,940x250,728x90,468x60", "adj", "", 2));
+		</script>
+	</div></div>
+</div>
+
+
+
+
+
+
+</div>
+	<div id="tmglBrandLarge">
+			<a href="/">
+					<div id="brand">Telegraph.co.uk</div></a>
+			<div id="topBarRightContainer">
+				<div id="searchBar">
+					<div id="searchBlock">
+				<form name="otsn_search" id="otsn_search" method="get" action="/search/">
+					<input type="text" class="searchBox otsn"  value="" size="19" tabindex="1"  />
+					<input type="hidden" id="hiddenQueryText"  name="queryText"  value=""/>
+					<input type="hidden" name="sort" value="relevant" checked="checked"/>
+					<input type="submit" class="formSubmit" tabindex="2" id="go" value="" />
+                                        <div class="searchText  new">
+                                        Search - enhanced by OpenText</div>
+
+				</form>
+				<div class="cl"></div>
+			</div>
+		</div>
+				<div id="tmgTopBar">
+				<div id="tmglTopRight" class="tmgTopBarDate">
+					<div id="tmglLasUpdatedDateFeed">
+	<p>
+		Saturday 21 February 2015</p>
+</div>
+
+</div>
+			</div></div>
+			
+			<div class="cl"></div>
+		</div>
+		<div class="cl"></div>
+	</div>
+<script type="text/javaScript">
+/* EPOCH time at the  end of Header */
+var tmgHeaderTimerEnd=Date.now();
+</script>
+<!-- googleon: all -->
+			<!-- googleoff: all -->
+	<div id="tmglMenu">
+	<div id="tmglPriExWrap">
+		<div id="tmglPrimaryNav" class="nonActiveNav">
+			<div class="access"><a name="mainsections"></a></div>
+	<ul class="mainNav">
+		<li class="first styleSix"><a href="http://www.telegraph.co.uk/">Home</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/telegraphtv/">Video</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/news/">News</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/news/worldnews/">World</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/sport/">Sport</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/finance/">Finance</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/comment/">Comment</a></li>
+							<li class="selected styleSix" id="menuItemstyleSix"><a href="http://www.telegraph.co.uk/culture/">Culture</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/travel/">Travel</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/lifestyle/">Life</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/women/">Women</a></li>
+							<li class="styleSix"><a href="http://fashion.telegraph.co.uk">Fashion</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/luxury/">Luxury</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/technology/">Tech</a></li>
+							<li class="styleSix"><a href="http://www.telegraph.co.uk/motoring/">Cars</a></li>
+							</ul></div>
+		<div id="tmglExtraNav">
+	<ul class="extraNav">
+		</ul>
+	<div class="cl"></div>
+</div> 
+<div class="cl"></div>
+	</div>
+
+	<div id="tmglSecondNav" class="activeNav styleSix">
+				<ul class="mainNav">
+						<li class="first styleSix"><a href="http://www.telegraph.co.uk/culture/film/oscars/">Oscars</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/film/">Film</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/tvandradio/">TV and Radio</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/books/">Books</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/music/">Music</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/comedy/">Comedy</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/art/">Art</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/theatre/">Theatre</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/photography/">Photography</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/theatre/dance/">Dance</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/music/opera/">Opera</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/tvandradio/broadchurch/">Broadchurch</a></li>
+									<li class="styleSix"><a href="http://www.telegraph.co.uk/culture/tvandradio/eastenders/">EastEnders</a></li></ul>
+					<div class="cl"></div>
+				</div>
+		<div id="tmglCrumbtrail">
+		<ol>
+			<li class="first"><a href="/">Home</a><span>&raquo;</span></li>
+			<li><a href="http://www.telegraph.co.uk/culture/">Culture</a><span>&raquo;</span></li>
+					<li class=""><a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/">Culture Picture Galleries</a></li></ol>
+		<div class="cl"></div>
+	</div>
+</div>
+
+<!-- googleon: all -->
+<!-- Enable/Disable the end screen -->
+<div itemscope="" itemtype="http://schema.org/Article" class="tmglSlideshow">
+    <!-- google_ad_section_start(name=s1, weight=0.5) -->
+    <h1 itemprop="name">Your Song (1970) -&nbsp;Elton John: 20 essential songs</h1>
+    <!-- google_ad_section_end(name=s1) -->
+        <div class="placeholder">
+            <div class="viewerHeader">
+                <div id="pagThumb">
+	                 <div class="thumbnailPreview" id="pagThumbframe2661372" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02661/1971-rex_2661372g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2661377" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02661/1972-2-rex_2661377g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2661341" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02661/1972-rex_2661341g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2660696" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02660/1977-rex_2660696g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2661344" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02661/1970-something-Rex_2661344g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2661381" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02661/1974-rex_2661381g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2661360" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02661/1975-rex3_2661360g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2661363" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02661/1978-rod-REX_2661363g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2660687" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02660/1975-rex_2660687g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2660690" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02660/1975-elton-2_2660690g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2661366" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02661/1977-muppets-rex_2661366g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2661371" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02661/1975-duck-rex_2661371g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2661347" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02661/1979-PA_2661347g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2667423" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02667/taupin-john_2667423g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2661382" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02661/1984-rex_2661382g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2660718" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02660/1985-rex_2660718g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2661359" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02661/1987-john-taupin-R_2661359g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2661339" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02661/1997-PA_2661339g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2661356" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02661/1997-diana-EPA_2661356g.jpg) center 0;"></div>
+	                        <div class="thumbnailPreview" id="pagThumbframe2660695" style="background: url(http://i.telegraph.co.uk/multimedia/archive/02660/2001-rex_2660695g.jpg) center 0;"></div>
+	                        </div>
+                <div class="pagination pagination-thumbs invisible">
+                    <a Section="1" class="arrow disabled">
+                        <
+                    </a>
+
+                    <div id="lessOn" style="display:none">
+                    		<a Section="1" class="backward" href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?page=00">
+	                        		PREVIOUS
+	                    		</a>
+							</div>
+
+                    <div id="pgnThumbs" class="overflow">
+                        <ul>
+                            <li class="pgnBtn">
+	                                <a class="selected" href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2661372">01</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2661377">02</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2661341">03</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2660696">04</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2661344">05</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2661381">06</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2661360">07</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2661363">08</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2660687">09</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2660690">10</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2661366">11</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2661371">12</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2661347">13</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2667423">14</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2661382">15</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2660718">16</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2661359">17</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2661339">18</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2661356">19</a>
+	                                	</li>
+                            <li class="pgnBtn">
+	                                <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2660695">20</a>
+	                                	</li>
+                            </ul>
+                    </div>
+                    <div id="moreOn"><a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?page=20">MORE...</a></div>
+						<a class="arrow right" href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?page=2">
+                    </a>
+                </div>
+</div>
+            <div class="viewerMain">
+                <div id="mainImage">
+                    <div class="imgCase">
+                                    <div id="loading"></div>
+                                    <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=endScreen" class="mainImageNav backward invisible noImg"><</a>
+                                    <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2661377" class="mainImageNav forward invisible ">></a>
+                                    <a href="http://www.telegraph.co.uk/culture/culturepicturegalleries/10284634/Elton-John-20-essential-songs.html?frame=2661377" class="ajaxMe"><img itemprop="image" id="theImage" src="http://i.telegraph.co.uk/multimedia/archive/02661/1971-rex_2661372k.jpg" alt="Elton John performing at Fairfield Hall, Croydon, in 1971" border="0"></a>
+                                </div>
+                                 <meta itemprop="datePublished" content="2013-09-12"/>
+                                
+                                <div itemprop="articleBody" class="caption">
+                                    <p>
+<b>Your Song (1970) </b>
+</p>
+<p>
+<br/>Elton John&rsquo;s first hit is also one of his most enduring. This simple, 
+  piano-driven love song was written in 1969 by Elton and his long-time 
+  lyricist Bernie Taupin. The former is said to have written the<b> <a href="http://www.telegraph.co.uk/culture/music/">music</a> 
+  </b>in around 10 minutes, while the latter completed the lyrics over 
+  breakfast in the flat the two shared. Your Song was originally the b-side to 
+  the song <b><a href="http://www.youtube.com/watch?v=Fi0xN499IXE">Take Me to 
+  the Pilot</a></b>, but radio play eventually helped it to make the top 10 in 
+  both the UK and US. The track won a new generation of fans when it was <b><a href="http://www.muzu.tv/elliegoulding/your-song-music-video/785301/">revived 
+  by British singer Ellie Goulding</a></b> in 2010 for that year&rsquo;s John Lewis 
+  Christmas advert. 
+</p>
+<p>
+<br/><i>(Above: Elton John performing at Fairfield Hall, Croydon, in 1971)</i>
+</p>
+<p>
+<br/><b><i>Elton John performs at iTunes Festival 2013 at the Roundhouse on 
+  Thursday, 12 September. His new album, <a href="http://www.youtube.com/watch?v=d2Aj3byEPuw">The 
+  Diving Board</a>, is released on 24 September. </i></b>
+</p>
+<p>
+<br/></p>
+<p>
+<preform><iframe width="830" height="80" src="//www.youtube.com/embed/13GD78Bmo8s" frameborder="0" allowfullscreen></iframe></preform>
+</p><span class="credit">Picture: Rex</span>
+                                </div>
+                        </div>
+                </div>
+        </div>
+		<script type="text/javascript"><!--
+		$(document).ready(function() {
+
+			var totItems = $('#pgnThumbs .pgnBtn').length;
+			//var lastPgthreshold = (totItems - curr);
+
+			var mainNavPaginationControl =  {
+
+					forwardClick: function() {
+
+							curr = getCurrentItem();
+
+						if(curr >= 16) {
+							$('#lessOn').show();
+							if ((totItems - curr) < 17) {
+								$('#moreOn').hide();
+							}
+						}
+					},
+
+					backwardClick: function() {
+
+							curr = getCurrentItem();
+
+							if(curr <= 17) {
+								$('#lessOn').hide();
+							}
+							if((totItems >= 16 && curr < 17) || (totItems >= 34 && curr < 35)) {
+								$('#moreOn').show();
+							}
+					}
+				}
+
+			
+				ajaxPagination.movePagination.refreshPagi();
+			
+
+
+			$('.mainImageNav').click(function()	{
+
+				if($(this).hasClass('forward')){
+					mainNavPaginationControl.forwardClick();
+				}
+
+				if($(this).hasClass('backward')) {
+					mainNavPaginationControl.backwardClick();
+				}
+
+			});
+
+		});
+		--></script>
+        <div class="cl"></div>
+
+    </div>
+    <div class="print hidden"><a href="javascript:print()" title="Print">&nbsp;</a></div>
+			<div id="shareBottom" class="storyFunc"></div>
+			<div class="cl"></div>
+		<div id="generic">
+        <div class="oneHalf disqusComments">
+            <!--comments=disqus<br>
+disqusComments=active<br>
+userCommentsState=sectionProperties<br>
+showComments=true<br>
+article.articleTypeName=tmglslideshow<br>-->
+
+		
+<div class="headerOne styleSeven btop"><h2><span>Comments on this gallery</span></h2></div>
+		<a class="moderate" href="http://my.telegraph.co.uk/aboutus/mytelegraph/12/moderation-faqs/" target="_new">How we moderate</a>
+	
+	<div class="gutterUnder fclear">
+	<div class="hide" id="disqusAcc">telegraphuk</div>
+		<style> 
+				#disqus_thread { 
+				background-color: #202020; 
+				padding: 10px 10px 10px 10px; 
+				} 			
+			</style>
+		<div id="disqus_thread"></div>
+		<script type="text/javascript">
+		var disqus_title = "Elton John: 20 essential songs";
+		var disqus_identifier = "10284634";
+		var disqus_developer = 1;
+		</script>
+		<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=telegraphuk">comments powered by Disqus.</a></noscript>
+		<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+	</div> 		
+</div>
+        <div class="oneSixth articles">
+            <div id="tmg-related-links" class=" related_links_inline">
+			<div class="headerOne "><h2><span>Related Articles</span></h2></div>
+	
+			<ul>
+	
+				<li class="video">
+															<p>
+                    <a  href="/culture/culturevideo/11279334/Elton-John-gets-floored-at-the-Royal-Albert-Hall.html">Elton John: not still standing</a>
+                </p>
+
+	<span class="relContDate">08 Dec 2014</span>
+														</li> 
+														<li class="photo">
+													<p>
+                    <a  href="/culture/culturepicturegalleries/10302108/Johnny-Cash-10-facts-about-the-Man-in-Black.html">Johnny Cash: 10 facts about the 'Man in Black'</a>
+                </p>
+
+	<span class="relContDate">11 Dec 2013</span>
+													</li>
+												<li class="bullet">
+                                                        <p>
+                    <a  href="/culture/music/rockandpopmusic/10283553/Elton-John-interview-illness-was-a-wake-up-call.html">Elton John interview: illness was a wake-up call</a>
+                </p>
+
+	<span class="relContDate">11 Sep 2013</span>
+													</li>
+												<li class="bullet">
+                                                        <p>
+                    <a  href="/culture/books/non_fictionreviews/10256796/Tin-Pan-Alley-The-Rise-of-Elton-John-by-Keith-Hayward-review.html">Elton John's Tin Pan Alley start</a>
+                </p>
+
+	<span class="relContDate">02 Sep 2013</span>
+													</li>
+												<li class="bullet">
+                                                        <p>
+                    <a  href="/culture/music/rockandpopreviews/10281496/Elton-John-London-Palladium-review.html">Elton John, London Palladium</a>
+                </p>
+
+	<span class="relContDate">02 Sep 2013</span>
+													</li>
+												<li class="bullet">
+                                                        <p>
+                    <a  href="/culture/music/music-festivals/10291581/Bestival-2013-Elton-John-Chic-ft-Nile-Rodgers-review.html">Bestival 2013: Elton John provides 'spectacular' finish</a>
+                </p>
+
+	<span class="relContDate">09 Sep 2013</span>
+													</li>
+												</ul>
+		</div>
+	<div class="summaryMedium secPuffs section-puffs">
+                        <div class="headerOne "><p>In Culture Picture Galleries</p></div>
+                        <div bucket-id="section_puffs_01" >	
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+        <a  href="/news/picturegalleries/worldnews/11415741/Transitioning-Cambodia-Photographer-documents-the-countrys-rapid-change.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03203/axelrod-cambodia-s_3203938g.jpg" alt="July 07, 2011 - Phnom Penh, Cambodia. A resident of Boeung Kak rows a wooden boat against a storm moving in over Phnom Penh. The new buildings of the Council of Ministers and the office of the Prime Minister can be seen in the background. " border="0" width="140"  height="87" />
+									<span class="cornerimagephotocentre">&nbsp;</span></a>
+                </div>
+	
+<h3>
+                    <a  href="/news/picturegalleries/worldnews/11415741/Transitioning-Cambodia-Photographer-documents-the-countrys-rapid-change.html">Transitioning Cambodia</a>
+                </h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+        <a  href="/news/picturegalleries/howaboutthat/11420539/Samsung-reimagine-Marilyn-Elvis-and-Audrey-in-the-21st-century-in-pics.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03203/samsung-summ_3203891g.jpg" alt="" border="0" width="140"  height="87" />
+									<span class="cornerimagephotocentre">&nbsp;</span></a>
+                </div>
+	
+<h3>
+                    <a  href="/news/picturegalleries/howaboutthat/11420539/Samsung-reimagine-Marilyn-Elvis-and-Audrey-in-the-21st-century-in-pics.html">Modernised Movie Stars</a>
+                </h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+        <a  href="/news/picturegalleries/11418895/The-Second-Best-Exotic-Marigold-Hotel-London-premiere-in-pictures.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03203/MArigold-SUM_3203197g.jpg" alt="Camilla, Duchess of Cornwall, Celia Imrie and Judi Dench at the premiere of The Second Best Exotic Marigold Hotel " border="0" width="140"  height="87" />
+									<span class="cornerimagephotocentre">&nbsp;</span></a>
+                </div>
+	
+<h3>
+                    <a  href="/news/picturegalleries/11418895/The-Second-Best-Exotic-Marigold-Hotel-London-premiere-in-pictures.html">Second Best Exotic Marigold Hotel premiere</a>
+                </h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+        <a  href="/culture/film/oscars/11348212/Oscars-2015-nominations-in-pictures.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03166/oscars_3166090g.jpg" alt="" border="0" width="140"  height="87" />
+									<span class="cornerimagephotocentre">&nbsp;</span></a>
+                </div>
+	
+<h3>
+                    <a  href="/culture/film/oscars/11348212/Oscars-2015-nominations-in-pictures.html">Oscars 2015: The nominations</a>
+                </h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+        <a  href="/news/picturegalleries/celebritynews/10229297/Celebrity-sightings-a-look-at-who-is-doing-what-and-where.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03206/sightings_3206269g.jpg" alt="" border="0" width="140"  height="87" />
+									<span class="cornerimagephotocentre">&nbsp;</span></a>
+                </div>
+	
+<h3>
+                    <a  href="/news/picturegalleries/celebritynews/10229297/Celebrity-sightings-a-look-at-who-is-doing-what-and-where.html">Celebrity sightings</a>
+                </h3>
+
+	</div>
+		</div>
+	</div>
+	</div>
+                <p>&nbsp;</p>
+        </div>
+        <div class="oneThird adds">
+            <div id="adds">
+                <div id="ad_mpu">
+                    <div class="admpu gutterUnder gutterUnder">
+  <script type="text/javascript">
+     /* EPOCH time at the start of MPU Ad */
+     var mpuAdTimerStart = Date.now();
+  </script>
+<div class="access">Advertisement</div>
+<div id="mpu" class="InSkinHide">
+	<div bucket-id="mpu">
+<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("mpu", "300x250,300x600", "adj", "", 2));
+		</script>
+	</div></div>
+</div>
+
+</div>
+            </div>
+            
+            <input type="hidden" name="numofAds" id="numofAds" value="2">
+
+<div class="googleads dark">
+		<div class="access">Advertisement</div>
+		
+		<script type="text/javascript">
+		<!--
+			google_ad_client = 'ca-telegraph_uk_nonarticle';
+			google_ad_channel = 'culture,culture_gallery';
+			google_max_num_ads = '2';
+			google_ad_output="js";
+			google_ad_type="text";
+			google_language="en";
+			google_encoding="utf8";
+			google_safe="high";
+			
+			
+			
+                google_ad_section="s1 s2";
+            
+							google_hints="culturepicturegalleries";
+												
+		// -->
+		</script>
+		
+		<script type="text/javascript" src="/template/ver1-0/js/googleAds.js"></script>
+		
+	<div id="google-ads-container"></div>
+		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+		<noscript>
+			<img height="1" width="1" border="0" src="http://pagead2.googlesyndication.com/pagead/imp.gif?client=ca-telegraph_uk_420x200&amp;event=noscript" alt=""/>
+		</noscript>
+	</div>
+
+<div class="summaryMedium  dark">
+				<div bucket-id="widget_01">
+			
+                    
+                                <div class="headerOne styleOne">
+				<!-- 9054378 -->
+				<p>
+							<span>More from the web</span>
+							</p></div>
+		<div class="summary iframeSummary mnIframe">
+							<!-- 9880801 -->
+							<iframe width="300" height="350" marginwidth="0" scrolling="no" src="http://s.telegraph.co.uk/international/newsmax/newsmaxusv1.html" frameborder="0" marginheight="0"></iframe>
+						</div>
+                        
+		    </div>
+		</div>
+        </div>
+<script type="text/javascript">
+                /* EPOCH time at the end of right hand column */
+                 var rightHandTimer=Date.now();
+                </script>
+        <div class="cl"></div>
+    </div>
+    
+<div class="printHide">
+        <div id="trafficDrivers">
+
+	<div bucket-id="commercial_services_three_01" >	
+	<div class="headerOne ">
+				<!-- 9612843 -->
+				<p>
+							<span>MORE FROM TELEGRAPH.CO.UK</span>
+							</p></div>
+		</div>
+	<div class="gutterUnder">							
+		<div id="tmgPortalRand">
+			
+						
+							<!-- 11255356 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/"> 
+				US News</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+        <a  href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/">
+                                <img src="http://i.telegraph.co.uk/multimedia/archive/02626/obama_2626645f.jpg" alt="Barack Obama warns American dream is in danger of becoming a 'myth'" border="0" width="219"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+                                </a>
+                            </div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/">
+                                Latest and breaking stories from the United States</a>
+                            </h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/">
+                                View</a>
+                            </div>
+
+	</div>
+</div>
+					
+				
+
+			
+						
+							<!-- 11202156 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/sport/football/"> 
+				Football</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+        <a  href="http://www.telegraph.co.uk/sport/football/">
+                                <img src="http://i.telegraph.co.uk/multimedia/archive/03089/rooneyget_3089939f.jpg" alt="" border="0" width="219"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+                                </a>
+                            </div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/sport/football/">
+                                Catch up on all the latest football news</a>
+                            </h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/sport/football/">
+                                View</a>
+                            </div>
+
+	</div>
+</div>
+					
+				
+
+			
+						
+							<!-- 11143068 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/motoring/festival-of-motoring/audi/10816464/Audi-r18-e-tron-quattro.html?WT.mc_id=605786&source=USTrafficDriver"> 
+				Audi</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+        <a  href="http://www.telegraph.co.uk/motoring/festival-of-motoring/audi/10816464/Audi-r18-e-tron-quattro.html?WT.mc_id=605786&source=USTrafficDriver">
+                                <img src="http://i.telegraph.co.uk/multimedia/archive/02904/Homologation_for_t_2904842f.jpg" alt="" border="0" width="220"  height="146" /><span class="imgSlantOverlay">&nbsp;</span>
+                                </a>
+                            </div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/motoring/festival-of-motoring/audi/10816464/Audi-r18-e-tron-quattro.html?WT.mc_id=605786&source=USTrafficDriver">
+                                Audi R18 in pictures</a>
+                            </h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/motoring/festival-of-motoring/audi/10816464/Audi-r18-e-tron-quattro.html?WT.mc_id=605786&source=USTrafficDriver">
+                                View</a>
+                            </div>
+
+	</div>
+</div>
+					
+				
+
+			
+						
+							<!-- 10995247 -->
+<div class="oneQuarter servicesSmall last">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/motoring/festival-of-motoring/goodwood/?WT.mc_id=605787&source=TrafficDriver"> 
+				Goodwood</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+        <a  href="http://www.telegraph.co.uk/motoring/festival-of-motoring/goodwood/10814590/moving-motor-show-images.html?WT.mc_id=605787&source=USTrafficDriver">
+                                <img src="http://i.telegraph.co.uk/multimedia/archive/02904/moving-motor-show-_2904112f.jpg" alt="" border="0" width="220"  height="146" /><span class="imgSlantOverlay">&nbsp;</span>
+                                </a>
+                            </div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/motoring/festival-of-motoring/goodwood/10814590/moving-motor-show-images.html?WT.mc_id=605787&source=USTrafficDriver">
+                                The very best of Goodwood's Moving Motor Show in pictures</a>
+                            </h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/motoring/festival-of-motoring/goodwood/10814590/moving-motor-show-images.html?WT.mc_id=605787&source=USTrafficDriver">
+                                View</a>
+                            </div>
+
+	</div>
+</div>
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			
+						
+							
+					
+				
+
+			<div class="cl"></div>		
+	</div>					
+</div>
+</div>
+<div class="cl"></div>
+    </div><!-- googleoff: all -->
+			<script type="text/javascript">
+/* EPOCH time at the end of content Area */
+                var contentEndTimer = Date.now();
+</script>
+<div class="backtotop"><p><a href="#top">Back to top</a></p></div>
+<div id="tmglFooterLarge">
+		<a href="http://www.telegraph.co.uk/" id="footerlogolink" title="Telegraph.co.uk: news, business, sport, the Daily Telegraph newspaper, Sunday Telegraph - Telegraph"></a>
+		<div id="tmglFooterLargeItems">		
+			<div class="footercolumn">									
+				<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/?utm_source=TMG&utm_medium=footer_home&utm_campaign=footerhomelink">HOME</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/film/">Film</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/film/filmreviews/">Film Reviews</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/film/film-news/">Film News</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/books/">Books</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/books/bookreviews/">Book Reviews</a></li>								
+
+					<li><a  target="_parent" href="http://www.books.telegraph.co.uk">Book Shop</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/music/">Music</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/music/rockandpopreviews/">Music Reviews</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/music/classicalmusic/">Classical Music</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/culturevideo/musicvideo/">Music Video</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/music/music-festivals/">Music Festivals</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/music/opera/">Opera</a></li>								
+
+					<li><a  target="_parent" href="http://tickets.telegraph.co.uk/">Tickets</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/tvandradio/">TV and Radio</a></li>								
+
+					<li><a  target="_parent" href="http://tvguideuk.telegraph.co.uk">TV Guide</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/theatre/">Theatre</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/theatre/theatre-reviews/">Theatre Reviews</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/art/">Art</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/theatre/dance/">Dance</a></li>								
+
+					<li><a  target="_parent" href="http://dating.telegraph.co.uk">Dating</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/culturenews/">Culture News</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/culturepicturegalleries/">Picture Galleries</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/culturevideo/">Culture Video</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/culture/culturecritics/">Culture Critics</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/culture/photography/">Photography</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://puzzles.telegraph.co.uk/">Crossword</a></li>								
+
+					<li><a  target="_parent" href="http://boxoffice.telegraph.co.uk/">Theatre Tickets</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/topics/about-us/">Contact Us</a></li>								
+
+					<li><a  target="_parent" href="/topics/about-us/3691972/Privacy-and-Cookie-Policy.html">Privacy and Cookies</a></li>
+					<li><a  target="_parent" href="http://telegraph.co.uk/advertising/">Advertising</a></li>
+					<li><a  target="_parent" href="http://fantasyfootball.telegraph.co.uk/">Fantasy Football</a></li>
+					</ul>
+					
+					<ul>
+					<li><a target="_parent" href="http://announcements.telegraph.co.uk/">Announcements</a></li>
+						<li><a target="_parent" href="http://3276.e-printphoto.co.uk/dailytelegraph/">Reader Prints</a></li>
+						<li><a target="_parent" href=""></a></li>
+						</ul>
+			</div>
+
+			<!-- RSSFeeds Menu-->
+			
+			<div id="footercolumn_last">
+				<ul class="imgBulletList">
+					<li class="footrss"><a target="_parent" href="http://www.telegraph.co.uk/topics/follow-us/">Follow Us</a></li>
+							<li class="footmobile"><a target="_parent" href="http://www.telegraph.co.uk/apps/">Apps</a></li>
+							<li class="footepaper"><a target="_parent" href="http://dailytelegraph.newspaperdirect.com/epaper/viewer.aspx ">Epaper</a></li>
+							<li class=""><a target="_parent" href="http://www.telegraph.co.uk/expat/">Expat</a></li>
+							</ul>
+			
+				<ul class="ullast">
+					<li><a target="_parent" href="http://www.telegraph.co.uk/promotions/">Promotions</a></li>
+						<li><a target="_parent" href="http://subscriber.telegraph.co.uk/loyalty/">Subscriber</a></li>
+						<li><a target="_parent" href="http://www.telegraph.co.uk/topics/syndication-services/">Syndication</a></li>
+						</ul>
+			</div>	
+			<div class="cl"></div>
+		</div> <!-- end of tmglFooterLargeItems div -->
+	
+<div id="footerinfo">
+			<p>&copy; Copyright of Telegraph Media Group Limited 2015</p>
+			<p><a target="_parent" href="http://www.telegraph.co.uk/termsandconditions">Terms and Conditions</a> </p>
+			<p><a target="_parent" href="/archive/2015-2-21.html">Today's News</a></p>
+			<p ><a target="_parent" href="http://www.telegraph.co.uk/archive/">Archive</a></p>
+					<p ><a target="_parent" href="http://www.telegraph.co.uk/topics/about-us/style-book/">Style Book</a></p>
+					<p class="last"><a target="_parent" href="/news/weather/4142730/Weather-forecast.html">Weather Forecast</a></p>
+					<div class="cl"></div>			
+		</div>
+	</div> <!-- end of tmglFooterLargeNew div -->
+	<script type="text/javascript">
+/* EPOCH time at the end of footer */
+                var footerEndTimer = Date.now();
+</script>
+</div>
+<script type="text/javascript">
+    g_opt_ch = 'Facebook,Twitter,Stumbleupon,google-plusone ';g_opt_cv = 'Facebook,Twitter,Email,Stumbleupon,google-plusone ';g_opt_b = true;g_opt_s = true;</script>
+<script type="text/javascript" src="/template/ver1-0/js/pages/asnyc/writeCapture.js"></script>
+    <script type="text/javascript" src="/template/ver1-0/js/pages/asnyc/plugin/jquery.writeCapture.js"></script>
+    <script type="text/javascript" src="/template/ver1-0/js/pages/photoGalleryAjax/gpocphotoAjax.core.js"></script>
+<script type="text/javascript">
+    var s = document.createElement('script');
+    s.type='text/javascript';
+    s.src = "http://cdn.gigya.com/js/socialize.js?apikey=2_ASmwJuFXoCCY8YP8uB6mzZphj_UToZbQkeeM6bMOA8swtMk2P3Rwu2WSger_DOSt";
+    document.getElementsByTagName('head')[0].appendChild(s);
+
+    function onGigyaServiceReady(e) {
+        var s = document.createElement('script');
+        s.type='text/javascript';
+        s.src = "/template/ver1-0/js/shareTools.js";
+        document.getElementsByTagName('head')[0].appendChild(s);
+    }
+</script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery-ui-1.8.4.custom.min.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.tablesorter.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/viewabilityCode.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/gpoccommon.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/tmglSlideShow.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/gpoctmglMultitrackSelector1.js"></script>
+<script type="text/javascript">
+		var _sf_async_config={uid:22437,domain:"telegraph.co.uk"};
+
+		
+			_sf_async_config.sections = "Culture, Culture News, Culture Picture Galleries, Music, Music Video, Music news, Music festivals, Rock and Pop Music, James Lachno, Best songs";
+		
+
+		(function(){
+			function loadChartbeat() {
+			window._sf_endpt=(new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src',
+			(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://") +
+			"static.chartbeat.com/js/chartbeat.js"); document.body.appendChild(e);
+		}
+		var oldonload = window.onload;
+		window.onload = (typeof window.onload != 'function') ?
+		loadChartbeat : function() { oldonload(); loadChartbeat(); }; })();
+	</script>
+<script type="text/javascript"> 
+			var skimlinks_script = document.createElement('script'); 
+			    skimlinks_script.type = 'text/javascript'; 
+			    skimlinks_script.async = 'true';
+			    skimlinks_script.src = 'http://s.skimresources.com/js/296X678.skimlinks.js';
+			var skimlinks_script_attach = document.getElementsByTagName('script')[0]; 
+			skimlinks_script_attach.parentNode.insertBefore(skimlinks_script, skimlinks_script_attach.nextSibling); 
+		</script>
+	<!-- START Nielsen Online SiteCensus V6.0 -->
+		<!-- COPYRIGHT 2010 Nielsen Online -->
+		<script type="text/javascript" src="//secure-uk.imrworldwide.com/v60.js">
+		</script>
+		<script type="text/javascript">
+			 var pvar = { cid: "uk-101665h", content: "0", server: "secure-uk" };
+			 var feat = { surveys_enabled: 1 };
+			 var trac = nol_t(pvar, feat);
+			 trac.record().post().do_sample();
+		</script>
+		<noscript>
+		 <div>
+			 <img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-101665h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+			 width="1" height="1" alt="" />
+		 </div>
+		</noscript>
+		<!-- END Nielsen Online SiteCensus V6.0 -->
+	<div bucket-id="mpu">
+<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("ftr", "1x1", "adj", "", 2));
+		</script>
+	</div><script type="text/javascript" src='/template/ver1-0/js/aws-sdk-2.0.0-rc9.min.js' async="async"></script> 
+<script type="text/javascript" src='/template/ver1-0/js/hmac-sha256.js' async="async"></script>	
+<script type="text/javascript" src='/template/ver1-0/js/sha256.js' async="async"></script>	
+<script type="text/javascript" src='/template/ver1-0/js/viewability.js' async="async"></script>
+<script type="text/javascript">_satellite.pageBottom();</script>
+    </body>
+</html>
+
+<!-- googleon: all -->

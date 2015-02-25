@@ -1,0 +1,829 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+        <meta name="viewport" content="width=980" />
+
+        <script type="text/javascript" src="http://use.typekit.com/jdi1oag.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+                
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/pixar_2012_favicon_0.ico" type="image/x-icon" />
+        <title>Pixar</title>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_16f49ed65a86159c8552cd29c1add348.css" />
+<link rel="stylesheet" type="text/css" href="/sites/all/modules/contrib/jcarousel/skins/tango/jcarousel-tango.css" media="all" />        <script type="text/javascript" src="/sites/default/files/js/js_c2d3cbbd039b3a77c990ebd0a09729c7.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "ahahPageStorage": { "pageBuildId": "page-c9e82f5d0b7157b09da8c158928f9b6c" }, "jcarousel": { "ajaxPath": "/jcarousel/ajax/views" }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/contrib/lightbox2/images/brokenimage.jpg", "border_size": 0, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.9", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 1, "fade_in_speed": 500, "slide_down_speed": 1, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 0, "force_show_nav": 0, "show_caption": 1, "loop_items": 0, "node_link_text": "View Image Details", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 } });
+//--><!]]>
+</script>
+        <!--[if lt IE 7]>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/pixar_2012/fix-ie.css" />        <![endif]-->
+        <!--[if IE]>
+        <style type="text/css" media="all">@import "/sites/all/themes/pixar_2012/css/ieStyle.css";</style>        <![endif]-->
+                    <style>
+                .edit-link{display:none !important;}
+                .edit-film-link{display:none !important;}
+            </style>
+                <style>
+	#center #squeeze .right-corner {
+	  visibility:hidden;
+	}
+	#spinner{
+	  padding-top: 200px;
+	  text-align: center;
+	}
+        </style>
+    </head>
+    <body>
+        <!-- Layout -->
+        <div id="header-region" class="clear-block"></div>
+
+        <div id="wrapper">
+            <div id="container" class="clear-block">
+
+                <div id="header">
+                    <div id="logo-floater" class="separator">
+                        <a href="/" title=""><img src="/sites/default/files/logo.png" alt="" id="logo" /></a>                    </div>
+
+                                            <ul class="links primary-links"><li class="menu-724 active-trail first"><a href="/features_films" title="Feature Films">Feature Films</a></li>
+<li class="menu-1812"><a href="/short_films/home" title="Short Films">Short Films</a></li>
+<li class="menu-3741"><a href="/behind_the_scenes" title="Behind the Scenes">Behind the Scenes</a></li>
+<li class="menu-649"><a href="http://renderman.pixar.com" title="RenderMan" target="_blank">RenderMan</a></li>
+<li class="menu-2714"><a href="/careers" title="Careers">Careers</a></li>
+<li class="menu-3447 last"><a href="/about" title="Company Info">About</a></li>
+</ul>                                                                                                          
+                </div> <!-- /header -->
+                
+                <div id="center">
+                    <div id="squeeze">
+                                            <!--  <div id="spinner"><img src="//images/ad_v2.gif"/></div> -->
+                        <div class="right-corner">
+                            <div class="left-corner">
+                                                                                                                                                                                                                                                                                                      <div class="clear-block">
+                                    <script type="text/javascript">
+    $(document).ready(function(){
+        //$('.jcarousel-view--feature-films--page-1').jcarousel('enableHash',true);
+        $("li.menu-724").children("a").addClass("active");
+        
+
+        /*
+         * If there is a hash for film_detail call the click for that element
+         */
+        parseDeepLinking();
+    });
+</script>
+<div class="view view-feature-films view-id-feature_films view-display-id-page_1 feature-billboard view-dom-id-2a7bd4382b664955afdec4b3a25a3b37">
+    
+  
+  
+  <div class="trailers">
+    <div class="trailers_content">
+    <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <div class="trailers_buttom" id="trailers_buttom">
+
+</div>
+<div id="trailers_internal_content">
+  <div class='trailers_content_left'><ul><li><a href="javascript:void(0);" rel="0" name="Trailers">Trailers</a></li><li><a href="javascript:void(0);" rel="1" name="Making Of">Making Of</a></li></ul>      
+      <div class="social_shares">
+        <a class="facebook_btn" target="_blank">
+          Share Pixar on Facebook
+        </a>
+        <a class="twitter_btn" rel='pop-up'>
+          Share Pixar on Twitter
+        </a>
+    </div>
+  </div><div class='trailers_content_right'><div class='trailers_content_scroll_right'><div class="trailers_video_categories p0"><div class="trailers_video_categories_title"><a name="Trailers">Trailers</a></div><div class="trailers_video_info ">  <div><span class="trailer_video_title">Nemo: Teaser</span></div>  <div><a href="/node/3932?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/nemo_tease.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3932?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 2:10</div></div><div class="trailers_video_info ">  <div><span class="trailer_video_title">Nemo: Trailer 1</span></div>  <div><a href="/node/3930?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/Nemo_t1.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3930?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 2:13</div></div><div class="trailers_video_info ">  <div><span class="trailer_video_title">Nemo: Trailer 2</span></div>  <div><a href="/node/3931?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/nemo_trailer2.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3931?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 1:32</div></div><div class="trailers_video_info ">  <div><span class="trailer_video_title">Nemo_Trailer 3</span></div>  <div><a href="/node/3843?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/nemo_t1.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3843?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 2:13</div></div><div class="clear"></div></div><div class="trailers_video_categories p1"><div class="trailers_video_categories_title"><a name="Making Of">Making Of</a></div><div class="trailers_video_info ">  <div><span class="trailer_video_title">Nemo:Story</span></div>  <div><a href="/node/3926?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/nemo_story_0.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3926?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 1:52</div></div><div class="trailers_video_info ">  <div><span class="trailer_video_title">Nemo: Whale Mouth</span></div>  <div><a href="/node/3927?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/nemo_whale.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3927?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 2:21</div></div><div class="trailers_video_info ">  <div><span class="trailer_video_title">Nemo:Anemone</span></div>  <div><a href="/node/3928?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/nemo_ane.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3928?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 1:04</div></div><div class="trailers_video_info ">  <div><span class="trailer_video_title">Nemo: Characters</span></div>  <div><a href="/node/3929?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/nemo_char.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3929?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 1:44</div></div><div class="trailers_video_info trailers_sub_videos">  <div><span class="trailer_video_title">Nemo: Sets</span></div>  <div><a href="/node/3933?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/mo_sets.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3933?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 0:33</div></div><div class="trailers_video_info trailers_sub_videos">  <div><span class="trailer_video_title">Nemo: Shading</span></div>  <div><a href="/node/3934?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/nemo_shading.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3934?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 1:06</div></div><div class="trailers_video_info trailers_sub_videos">  <div><span class="trailer_video_title">Nemo: Color Scripts</span></div>  <div><a href="/node/3935?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/nemo-color.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3935?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 1:07</div></div><div class="trailers_video_info trailers_sub_videos">  <div><span class="trailer_video_title">Nemo: Animation</span></div>  <div><a href="/node/3936?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/nemo_animation.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3936?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 3:14</div></div><div class="trailers_video_info trailers_sub_videos">  <div><span class="trailer_video_title">Nemo: Effects</span></div>  <div><a href="/node/3937?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/nemo_effects.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3937?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 1:16</div></div><div class="trailers_video_info trailers_sub_videos">  <div><span class="trailer_video_title">Nemo: Lighting</span></div>  <div><a href="/node/3938?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/nemo_light.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3938?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 1:28</div></div><div class="clear"></div></div></div></div></div>
+    </div>
+</div>    </div>
+
+  <div class="featureBillboard clear">
+                <div class="view-content">
+              <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+          
+
+<div class="billboardImage" style="background: url('http://www.pixar.com/sites/default/files/nemo_billboards_title_v4_0.jpg')"></div>
+
+    
+          <div class="billboard Left Top white headerFutura">
+    
+  <div class="views-field views-field-field-header-text-color-value">        <span class="field-content"><style>
+	.header_text_color1011 { 
+	  color:  !important; 
+	  text-align: left !important ;
+	  }
+</style>
+</span>  </div>  
+          <div class="header"><h2 class="size font header_text_color1011"> </h2></div>    
+  <div class="views-field views-field-field-synopsis-text-color-value">        <span class="field-content"><style>
+	.synopsis-text-color1011 { color: !important; }
+</style></span>  </div>  
+  <div class="views-field views-field-field-link-value">        <span class="field-content">
+</span>  </div>  
+  <div>        <div class="gallery"><div class="view view-gallery-videos-from-billboard view-id-gallery_videos_from_billboard view-display-id-block_1 view-dom-id-5fbc9714a9f39d4d65ee7ad71532b748">
+    
+  
+  
+  
+  
+  
+  
+  
+  
+</div></div>  </div>  
+          </div>    
+          <div class="hidden billboardTitle">Finding Nemo Home</div>  </li>
+          <li class="views-row views-row-2 views-row-even">  
+          
+
+<div class="billboardImage" style="background: url('http://www.pixar.com/sites/default/files/0nemoh.jpg')"></div>
+
+    
+          <div class="billboard Left Top white headerFutura">
+    
+  <div>        <h2 class="aboutField">About the Film</h2>  </div>  
+  <div class="views-field views-field-field-header-text-color-value">        <span class="field-content"><style>
+	.header_text_color493 { 
+	  color:  !important; 
+	  text-align: left !important ;
+	  }
+</style>
+</span>  </div>  
+          <div class="header"><h2 class="size28 fontBook header_text_color493"> In the colorful and warm tropical  </h2></div>    
+  <div class="views-field views-field-field-synopsis-text-color-value">        <span class="field-content"><style>
+	.synopsis-text-color493 { color: !important; }
+</style></span>  </div>  
+  <div class="views-field views-field-field-synopsis-value">        <div class="field-content synopsis-text-color493"><p>waters of the Great Barrier Reef, a Clown Fish named Marlin lives safe and secluded in his anemone home with his only son, Nemo. Fearful of the ocean and its unpredictable risks, he struggles to protect his son. Nemo, like all young fish, is eager to explore the mysterious reef. When Nemo is unexpectedly taken far from home and thrust into a tacky dentist&rsquo;s office fish tank, Marlin finds himself the unlikely hero on an epic journey<br />
+to rescue his son.</p>
+</div>  </div>  
+  <div class="views-field views-field-field-link-value">        <span class="field-content">
+</span>  </div>  
+  <div>        <div class="gallery"><div class="view view-gallery-videos-from-billboard view-id-gallery_videos_from_billboard view-display-id-block_1 view-dom-id-23e32b7f1243ca03fcbeb054d2f8a2c4">
+    
+  
+  
+  
+  
+  
+  
+  
+  
+</div></div>  </div>  
+          </div>    
+          <div class="hidden billboardTitle">Nemo_about_the_movie</div>  </li>
+          <li class="views-row views-row-3 views-row-odd">  
+          
+
+<div class="billboardImage" style="background: url('http://www.pixar.com/sites/default/files/nemo_billboards_story_v3.jpg')"></div>
+
+    
+          <div class="billboard Left Top white headerFutura">
+    
+  <div>        <h2 class="aboutField">The Story Process</h2>  </div>  
+  <div class="views-field views-field-field-header-text-color-value">        <span class="field-content"><style>
+	.header_text_color439 { 
+	  color: #CCCCCC !important; 
+	  text-align: left !important ;
+	  }
+</style>
+</span>  </div>  
+          <div class="header"><h2 class="size38 fontBook header_text_color439">Part of the inspiration </h2></div>    
+  <div class="views-field views-field-field-synopsis-text-color-value">        <span class="field-content"><style>
+	.synopsis-text-color439 { color:#CCCCCC !important; }
+</style></span>  </div>  
+  <div class="views-field views-field-field-synopsis-value">        <div class="field-content synopsis-text-color439"><p>for <em>Finding Nemo </em>can be traced to writer-director Andrew Stanton&rsquo;s childhood memory of the fish tank in his dentist&rsquo;s office and his sympathy for the fish. Another piece came years later, when Stanton was the father of a five-year-old boy and realized the danger of being an overprotective parent. Between the two memories, Stanton had the emotional anchor for the film, and the Pixar team had the perfect new realm for a CG adventure.</p>
+</div>  </div>  
+  <div class="views-field views-field-field-link-value">        <span class="field-content">
+</span>  </div>  
+  <div>        <div class="gallery"><div class="view view-gallery-videos-from-billboard view-id-gallery_videos_from_billboard view-display-id-block_1 view-dom-id-deee0dc63204a82c7e1a6bace6d18cff">
+    
+  
+  
+      <div class="view-content">
+          <div class="row-video row-last">
+      <div class="row-video-stile">
+        
+                  <div class="gallery_videos">              
+                  <div class="thumbnails_video">              
+      <div class="views-field views-field-field-video-thumbnail-fid">            <span class="field-content"><a href="/video/3426?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img src="http://www.pixar.com/sites/default/files/imagecache/video_thumb_preset/nemo_story.jpg" alt="" title=""  class="imagecache imagecache-video_thumb_preset imagecache-default imagecache-video_thumb_preset_default" width="63" height="38" /></a></span>      </div>        
+      <div class="views-field views-field-title">            <span class="field-content"><a href="/video/3426?ajax=2" rel="lightmodal[video|width:712px;height:402px]">Story</a></span>      </div>        
+                  </div>              
+      <div class="views-field views-field-nothing-1">            </div>      </div>  </div>    </div>
+      </div>
+  
+  
+  
+  
+  
+  
+</div></div>  </div>  
+          </div>    
+          <div class="hidden billboardTitle">Story Process</div>  </li>
+          <li class="views-row views-row-4 views-row-even">  
+          
+
+<div class="billboardImage" style="background: url('http://www.pixar.com/sites/default/files/nemo_billboards_characters_v4.jpg')"></div>
+
+    
+          <div class="billboard Right Top black headerFutura">
+    
+  <div>        <h2 class="aboutField">The Characters</h2>  </div>  
+  <div class="views-field views-field-field-header-text-color-value">        <span class="field-content"><style>
+	.header_text_color494 { 
+	  color: #000000 !important; 
+	  text-align: left !important ;
+	  }
+</style>
+</span>  </div>  
+          <div class="header"><h2 class="size38 fontBook header_text_color494">In Finding Nemo </h2></div>    
+  <div class="views-field views-field-field-synopsis-text-color-value">        <span class="field-content"><style>
+	.synopsis-text-color494 { color:#000000 !important; }
+</style></span>  </div>  
+  <div class="views-field views-field-field-synopsis-value">        <div class="field-content synopsis-text-color494"><p>the supporting characters drew inspiration from classic movies: Gil was given Clint Eastwood&rsquo;s squint, Bloat was based on George Kennedy&rsquo;s character in <em>Cool Hand Luke,</em> and the Tank Gang borrowed the neuroses of the characters in <em>One Flew Over the Cuckoo&rsquo;s Nest.</em></p>
+</div>  </div>  
+  <div class="views-field views-field-field-link-value">        <span class="field-content">
+<a href="/detail/494?ajax=2" style="color: "
+   class="billboard-button" rel="lightmodal[feature_films|width:910px;height:560px;][]">
+    Explore The Characters</a>
+</span>  </div>  
+  <div>        <div class="gallery"><div class="view view-gallery-videos-from-billboard view-id-gallery_videos_from_billboard view-display-id-block_1 view-dom-id-8911f17006f04997d7645899c9fe614b">
+    
+  
+  
+      <div class="view-content">
+          <div class="row-video">
+      <div class="row-video-stile">
+        
+                  <div class="gallery_videos">              
+                  <div class="thumbnails_video">              
+      <div class="views-field views-field-field-video-thumbnail-fid">            <span class="field-content"><a href="/video/1003?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img src="http://www.pixar.com/sites/default/files/imagecache/video_thumb_preset/whale.jpg" alt="" title=""  class="imagecache imagecache-video_thumb_preset imagecache-default imagecache-video_thumb_preset_default" width="63" height="38" /></a></span>      </div>        
+      <div class="views-field views-field-title">            <span class="field-content"><a href="/video/1003?ajax=2" rel="lightmodal[video|width:712px;height:402px]">Whale</a></span>      </div>        
+                  </div>              
+      <div class="views-field views-field-nothing-1">            </div>      </div>  </div>    </div>
+    <div class="row-video">
+      <div class="row-video-stile">
+        
+                  <div class="gallery_videos">              
+                  <div class="thumbnails_video">              
+      <div class="views-field views-field-field-video-thumbnail-fid">            <span class="field-content"><a href="/video/1004?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img src="http://www.pixar.com/sites/default/files/imagecache/video_thumb_preset/anemone_0.jpg" alt="" title=""  class="imagecache imagecache-video_thumb_preset imagecache-default imagecache-video_thumb_preset_default" width="63" height="38" /></a></span>      </div>        
+      <div class="views-field views-field-title">            <span class="field-content"><a href="/video/1004?ajax=2" rel="lightmodal[video|width:712px;height:402px]">Anemone</a></span>      </div>        
+                  </div>              
+      <div class="views-field views-field-nothing-1">            </div>      </div>  </div>    </div>
+    <div class="row-video row-last">
+      <div class="row-video-stile">
+        
+                  <div class="gallery_videos">              
+                  <div class="thumbnails_video">              
+      <div class="views-field views-field-field-video-thumbnail-fid">            <span class="field-content"><a href="/video/1002?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img src="http://www.pixar.com/sites/default/files/imagecache/video_thumb_preset/character.jpg" alt="" title=""  class="imagecache imagecache-video_thumb_preset imagecache-default imagecache-video_thumb_preset_default" width="63" height="38" /></a></span>      </div>        
+      <div class="views-field views-field-title">            <span class="field-content"><a href="/video/1002?ajax=2" rel="lightmodal[video|width:712px;height:402px]">Characters</a></span>      </div>        
+                  </div>              
+      <div class="views-field views-field-nothing-1">            </div>      </div>  </div>    </div>
+      </div>
+  
+  
+  
+  
+  
+  
+</div></div>  </div>  
+          </div>    
+          <div class="hidden billboardTitle">Nemo_The_Characters</div>  </li>
+          <li class="views-row views-row-5 views-row-odd">  
+          
+
+<div class="billboardImage" style="background: url('http://www.pixar.com/sites/default/files/nemo_billboards_world_v2_0.jpg')"></div>
+
+    
+          <div class="billboard Left Top white headerFutura">
+    
+  <div>        <h2 class="aboutField">The World</h2>  </div>  
+  <div class="views-field views-field-field-header-text-color-value">        <span class="field-content"><style>
+	.header_text_color495 { 
+	  color: #CCCCCC !important; 
+	  text-align: left !important ;
+	  }
+</style>
+</span>  </div>  
+          <div class="header"><h2 class="size28 fontBook header_text_color495">&quot;I grew up in Massachusetts, </h2></div>    
+  <div class="views-field views-field-field-synopsis-text-color-value">        <span class="field-content"><style>
+	.synopsis-text-color495 { color:#CCCCCC !important; }
+</style></span>  </div>  
+  <div class="views-field views-field-field-synopsis-value">        <div class="field-content synopsis-text-color495"><p>by the sea, and I remember going to my family dentist, who had this funky fish tank in his office. All kids are attracted to aquariums, and I remember staring at this tank and thinking what a weird view of the world this must be for the fish&mdash;it&rsquo;s like flying into Las Vegas and that&rsquo;s your first view of America,&quot; recalls writer-director Andrew Stanton.</p>
+</div>  </div>  
+  <div class="views-field views-field-field-link-value">        <span class="field-content">
+<a href="/detail/495?ajax=2" style="color: "
+   class="billboard-button" rel="lightmodal[feature_films|width:910px;height:560px;][]">
+    Explore The World</a>
+</span>  </div>  
+  <div>        <div class="gallery"><div class="view view-gallery-videos-from-billboard view-id-gallery_videos_from_billboard view-display-id-block_1 view-dom-id-72bbc6e9c5d51346988d2823b5b79e83">
+    
+  
+  
+      <div class="view-content">
+          <div class="row-video">
+      <div class="row-video-stile">
+        
+                  <div class="gallery_videos">              
+                  <div class="thumbnails_video">              
+      <div class="views-field views-field-field-video-thumbnail-fid">            <span class="field-content"><a href="/video/1005?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img src="http://www.pixar.com/sites/default/files/imagecache/video_thumb_preset/sets_0_0.jpg" alt="" title=""  class="imagecache imagecache-video_thumb_preset imagecache-default imagecache-video_thumb_preset_default" width="63" height="38" /></a></span>      </div>        
+      <div class="views-field views-field-title">            <span class="field-content"><a href="/video/1005?ajax=2" rel="lightmodal[video|width:712px;height:402px]">SET DESIGN</a></span>      </div>        
+                  </div>              
+      <div class="views-field views-field-nothing-1">            </div>      </div>  </div>    </div>
+    <div class="row-video">
+      <div class="row-video-stile">
+        
+                  <div class="gallery_videos">              
+                  <div class="thumbnails_video">              
+      <div class="views-field views-field-field-video-thumbnail-fid">            <span class="field-content"><a href="/video/1006?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img src="http://www.pixar.com/sites/default/files/imagecache/video_thumb_preset/shading_0.jpg" alt="" title=""  class="imagecache imagecache-video_thumb_preset imagecache-default imagecache-video_thumb_preset_default" width="63" height="38" /></a></span>      </div>        
+      <div class="views-field views-field-title">            <span class="field-content"><a href="/video/1006?ajax=2" rel="lightmodal[video|width:712px;height:402px]">Shading</a></span>      </div>        
+                  </div>              
+      <div class="views-field views-field-nothing-1">            </div>      </div>  </div>    </div>
+    <div class="row-video row-last">
+      <div class="row-video-stile">
+        
+                  <div class="gallery_videos">              
+                  <div class="thumbnails_video">              
+      <div class="views-field views-field-field-video-thumbnail-fid">            <span class="field-content"><a href="/video/1007?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img src="http://www.pixar.com/sites/default/files/imagecache/video_thumb_preset/color_3.jpg" alt="" title=""  class="imagecache imagecache-video_thumb_preset imagecache-default imagecache-video_thumb_preset_default" width="63" height="38" /></a></span>      </div>        
+      <div class="views-field views-field-title">            <span class="field-content"><a href="/video/1007?ajax=2" rel="lightmodal[video|width:712px;height:402px]">Colorscripts</a></span>      </div>        
+                  </div>              
+      <div class="views-field views-field-nothing-1">            </div>      </div>  </div>    </div>
+      </div>
+  
+  
+  
+  
+  
+  
+</div></div>  </div>  
+          </div>    
+          <div class="hidden billboardTitle">Nemo_the_world</div>  </li>
+          <li class="views-row views-row-6 views-row-even">  
+          
+
+<div class="billboardImage" style="background: url('http://www.pixar.com/sites/default/files/nemo_billboards_behindthescenes_v2.jpg')"></div>
+
+    
+          <div class="billboard Left Top white headerFutura">
+    
+  <div>        <h2 class="aboutField">The Pitch</h2>  </div>  
+  <div class="views-field views-field-field-header-text-color-value">        <span class="field-content"><style>
+	.header_text_color496 { 
+	  color: #CCCCCC !important; 
+	  text-align: left !important ;
+	  }
+</style>
+</span>  </div>  
+          <div class="header"><h2 class="size36 fontBook header_text_color496">&quot;During A Bugâs Life </h2></div>    
+  <div class="views-field views-field-field-synopsis-text-color-value">        <span class="field-content"><style>
+	.synopsis-text-color496 { color:#CCCCCC !important; }
+</style></span>  </div>  
+  <div class="views-field views-field-field-synopsis-value">        <div class="field-content synopsis-text-color496"><p>(Andrew Stanton) started toying with an idea for a feature film. &ldquo;Well tell me, tell me, tell me,&rdquo; I said. &ldquo;No, let me think about this for a little while,&rdquo; he answered. Finally he got to the point where he said, &ldquo;I&rsquo;m going to tell you this story I&rsquo;ve been thinking about.&rdquo; He continued with an incredible one-hour story pitch that was riveting, emotional, funny&mdash;a story about a father and son. After the pitch he said, &ldquo;John, what do you think?&quot; I said &ldquo;You had me at the word fish.&rdquo; &mdash; John Lasseter, executive producer</p>
+</div>  </div>  
+  <div class="views-field views-field-field-link-value">        <span class="field-content">
+</span>  </div>  
+  <div>        <div class="gallery"><div class="view view-gallery-videos-from-billboard view-id-gallery_videos_from_billboard view-display-id-block_1 view-dom-id-e287dd412c78f570a717e47b6261dd68">
+    
+  
+  
+      <div class="view-content">
+          <div class="row-video">
+      <div class="row-video-stile">
+        
+                  <div class="gallery_videos">              
+                  <div class="thumbnails_video">              
+      <div class="views-field views-field-field-video-thumbnail-fid">            <span class="field-content"><a href="/video/1008?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img src="http://www.pixar.com/sites/default/files/imagecache/video_thumb_preset/animation_0.jpg" alt="" title=""  class="imagecache imagecache-video_thumb_preset imagecache-default imagecache-video_thumb_preset_default" width="63" height="38" /></a></span>      </div>        
+      <div class="views-field views-field-title">            <span class="field-content"><a href="/video/1008?ajax=2" rel="lightmodal[video|width:712px;height:402px]">Animation</a></span>      </div>        
+                  </div>              
+      <div class="views-field views-field-nothing-1">            </div>      </div>  </div>    </div>
+    <div class="row-video">
+      <div class="row-video-stile">
+        
+                  <div class="gallery_videos">              
+                  <div class="thumbnails_video">              
+      <div class="views-field views-field-field-video-thumbnail-fid">            <span class="field-content"><a href="/video/1009?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img src="http://www.pixar.com/sites/default/files/imagecache/video_thumb_preset/efx_0.jpg" alt="" title=""  class="imagecache imagecache-video_thumb_preset imagecache-default imagecache-video_thumb_preset_default" width="63" height="38" /></a></span>      </div>        
+      <div class="views-field views-field-title">            <span class="field-content"><a href="/video/1009?ajax=2" rel="lightmodal[video|width:712px;height:402px]">Effects</a></span>      </div>        
+                  </div>              
+      <div class="views-field views-field-nothing-1">            </div>      </div>  </div>    </div>
+    <div class="row-video row-last">
+      <div class="row-video-stile">
+        
+                  <div class="gallery_videos">              
+                  <div class="thumbnails_video">              
+      <div class="views-field views-field-field-video-thumbnail-fid">            <span class="field-content"><a href="/video/1010?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img src="http://www.pixar.com/sites/default/files/imagecache/video_thumb_preset/lighting.jpg" alt="" title=""  class="imagecache imagecache-video_thumb_preset imagecache-default imagecache-video_thumb_preset_default" width="63" height="38" /></a></span>      </div>        
+      <div class="views-field views-field-title">            <span class="field-content"><a href="/video/1010?ajax=2" rel="lightmodal[video|width:712px;height:402px]">Lighting</a></span>      </div>        
+                  </div>              
+      <div class="views-field views-field-nothing-1">            </div>      </div>  </div>    </div>
+      </div>
+  
+  
+  
+  
+  
+  
+</div></div>  </div>  
+          </div>    
+          <div class="hidden billboardTitle">Nemo_behind_the_scenes</div>  </li>
+          <li class="views-row views-row-7 views-row-odd">  
+          
+
+<div class="billboardImage" style="background: url('http://www.pixar.com/sites/default/files/nemo_billboards_awards_v2.jpg')"></div>
+
+    
+          <div class="billboard Right Top white headerFutura">
+    
+  <div class="views-field views-field-field-header-text-color-value">        <span class="field-content"><style>
+	.header_text_color498 { 
+	  color: #ffffff !important; 
+	  text-align: left !important ;
+	  }
+</style>
+</span>  </div>  
+          <div class="header"><h2 class="size48 fontBook header_text_color498">Awards </h2></div>    
+  <div class="views-field views-field-field-synopsis-text-color-value">        <span class="field-content"><style>
+	.synopsis-text-color498 { color:#ffffff !important; }
+</style></span>  </div>  
+  <div class="views-field views-field-field-synopsis-value">        <div class="field-content synopsis-text-color498"><p><span style="color:#33ccff"><strong>AC Nielsen EDI</strong></span><br />
+Winner of Gold Reel in Recognition of Extraordinary Box Office Achievement Surpassing $100 Million: Andrew Stanton</p>
+<p><span style="color:#33ccff"><strong>Academy Awards</strong></span><br />
+Winner for Best Animated Feature Film: Andrew Stanton<br />
+Nominated for Music (Original Screenplay): Thomas Newman<br />
+Nominated for Writing (Original Screenplay): Screenplay by Andrew Stanton, Bob Peterson, David Reynolds; Original Story by Andrew Stanton<br />
+Nominated for Sound Editing: Gary Rydstrom, Michael Silvers</p>
+<p><span style="color:#33ccff"><strong>Annie Awards</strong></span><br />
+Winner for Outstanding Achievement in an Animated Theatrical Feature<br />
+Winner for Outstanding Music in an Animated Feature Production:<br />
+Thomas Newman<br />
+Winner for Outstanding Production Design in an Animated Feature Production: Ralph Eggleston<br />
+Winner for Outstanding Voice Acting in an Animated Feature Production:<br />
+Ellen DeGeneres<br />
+Winner for Outstanding Writing in an Animated Feature Production:<br />
+Andrew Stanton, Bob Peterson &amp; David Reynolds<br />
+Winner for Outstanding Character Design in an Animated Feature Production: Ricky Nierva<br />
+Winner for Outstanding Character Animation: Doug Sweetland<br />
+Winner for Outstanding Effects Animation: Martin Nguyen<br />
+Winner for Outstanding Directing in an Animated Feature Production:<br />
+Andrew Stanton &amp; Lee Unkrich<br />
+Nominated for Outstanding Character Animation: David Devan<br />
+Nominated for Outstanding Character Animation: Gini Santos<br />
+Nominated for Outstanding Effects Animation: Justin Paul Ritte</p>
+<p><span style="color:#33ccff"><strong>The ConFurence Group</strong></span><br />
+Winner of Ursa Major Award for Best Anthropomorphic Motion Picture</p>
+<p><span style="color:#33ccff"><strong>Golden Globe Awards</strong></span><br />
+Nominated for Best Motion Picture - Musical or Comedy</p>
+<p><span style="color:#33ccff"><strong>The Human Society of the United States</strong></span><br />
+Winner of Genesis Award for Outstanding Animated Feature Film:<br />
+Andrew Stanton, Lee Unkrich</p>
+<p><span style="color:#33ccff"><strong>International 3D Awards</strong></span><br />
+Winner of Digital Hero Award for Best 3D Animated Feature Film: Pixar Animation Studio</p>
+<p><span style="color:#33ccff"><strong>Motion Picture Sound Editors</strong></span><br />
+Winner of Golden Reel for Best Sound Editing in Animated Features - Music: Bill Bernstein</p>
+<p><span style="color:#33ccff"><strong>National Board of Review</strong></span><br />
+Winner for Best Animated Feature: Andrew Stanton, Lee Unkrich, &amp;<br />
+Graham Walters</p>
+<p><span style="color:#33ccff"><strong>Nickelodeon Kids&#39; Choice Awards</strong></span><br />
+Winner for Favorite Movie<br />
+Winner for Favorite Voice from an Animated Movie: Ellen DeGeneres</p>
+<p><span style="color:#33ccff"><strong>Rotten Tomatoes</strong></span><br />
+Fresh Pick of the Year 2003</p>
+<p><span style="color:#33ccff"><strong>ShoWest</strong></span><br />
+Awarded Animation Director of the Year: Andrew Stanton</p>
+<p><span style="color:#33ccff"><strong>SPACE: The Imagination Station</strong></span><br />
+Winner of Spacey Award for Best Animated Movie</p>
+<p><span style="color:#33ccff"><strong>Video Business DVD Exclusive Awards</strong></span><br />
+Winner for Best Games and Interactive: Bill Kinder; David Jassen<br />
+Winner for Best Deleted Scenes, Outtakes and Bloopers: Bill Kinder; Andrew Stanton; Roger Gould<br />
+Winner for Best Menu Design: Bill Kinder; David Jessen</p>
+<p><span style="color:#33ccff"><strong>Visual Effects Society</strong></span><br />
+Winner for Outstanding Character Animation in an Animated Motion Picture: Andrew Gordon, Brett Coderre</p>
+</div>  </div>  
+  <div class="views-field views-field-field-link-value">        <span class="field-content">
+</span>  </div>  
+  <div>        <div class="gallery"><div class="view view-gallery-videos-from-billboard view-id-gallery_videos_from_billboard view-display-id-block_1 view-dom-id-b7e8e5383eb0bf854c17e9eab5065dfd">
+    
+  
+  
+  
+  
+  
+  
+  
+  
+</div></div>  </div>  
+          </div>    
+          <div class="hidden billboardTitle">Nemo_awards</div>  </li>
+          <li class="views-row views-row-8 views-row-even views-row-last">  
+          
+
+<div class="billboardImage" style="background: url('http://www.pixar.com/sites/default/files/nemo_billboards_credits_v6_0.jpg')"></div>
+
+    
+          <div class="billboard Right Top white headerFutura">
+    
+  <div class="views-field views-field-field-header-text-color-value">        <span class="field-content"><style>
+	.header_text_color497 { 
+	  color: #cccccc !important; 
+	  text-align: center !important ;
+	  }
+</style>
+</span>  </div>  
+          <div class="header"><h2 class="size48 fontBook header_text_color497">Credits </h2></div>    
+  <div class="views-field views-field-field-synopsis-text-color-value">        <span class="field-content"><style>
+	.synopsis-text-color497 { color:#CCCCCC !important; }
+</style></span>  </div>  
+  <div class="views-field views-field-field-synopsis-value">        <div class="field-content synopsis-text-color497"><div style="text-align: center">
+<p><span style="color:#daa520;"><strong>DIRECTED BY</strong></span><br />
+Andrew Stanton</p>
+<p><span style="color:#daa520;"><strong>CO-DIRECTED BY</strong></span><br />
+Lee Unkrich</p>
+<p><span style="color:#daa520;"><strong>PRODUCED BY</strong></span><br />
+Graham Walters</p>
+<p><span style="color:#daa520;"><strong>EXECUTIVE PRODUCED BY</strong></span><br />
+John Lasseter</p>
+<p><span style="color:#daa520;"><strong>ASSOCIATE PRODUCER</strong></span><br />
+Jinko Gotoh</p>
+<p><span style="color:#daa520;"><strong>ORIGINAL STORY BY </strong></span><br />
+Andrew Stanton</p>
+<p><span style="color:#daa520;"><strong>SCREENPLAY BY</strong></span><br />
+Andrew Stanton, Bob Peterson, David Reynolds</p>
+<p><span style="color:#daa520;"><strong>MUSIC BY</strong></span><br />
+Thomas Newman</p>
+<p><span style="color:#daa520;"><strong>STORY SUPERVISORS</strong></span><br />
+Ronnie del Carmen, Dan Jeup, Jason Katz</p>
+<p><span style="color:#daa520;"><strong>FILM EDITOR</strong></span><br />
+David Ian Salter</p>
+<p><span style="color:#daa520;"><strong>SUPERVISING TECHNICAL DIRECTOR</strong></span><br />
+Oren Jacob</p>
+<p><span style="color:#daa520;"><strong>PRODUCTION DESIGNER</strong></span><br />
+Ralph Eggleston</p>
+<p><span style="color:#daa520;"><strong>DIRECTORS OF PHOTOGRAPHY</strong></span><br />
+Sharon Calahan, Jeremy Lasky</p>
+<p><span style="color:#daa520;"><strong>SUPERVISING ANIMATOR</strong></span><br />
+Dylan Brown</p>
+<p><span style="color:#daa520;"><strong>CHARACTER ART DIRECTOR</strong></span><br />
+Ricky Vega Nierva</p>
+<p><span style="color:#daa520;"><strong>SHADING ART DIRECTOR</strong></span><br />
+Robin Cooper</p>
+<p><span style="color:#daa520;"><strong>ENVIRONMENT ART DIRECTOR</strong></span><br />
+Anthony Christov, Randy Berrett</p>
+<p><span style="color:#daa520;"><strong>CHARACTERS CG SUPERVISOR</strong></span><br />
+Brian Green</p>
+<p><span style="color:#daa520;"><strong>OCEAN UNIT CG SUPERVISORS</strong></span><br />
+Lisa Forssell, Danielle Feinberg</p>
+<p><span style="color:#daa520;"><strong>REEF UNIT CG SUPERVISOR</strong></span><br />
+David Eisenmann</p>
+<p><span style="color:#daa520;"><strong>TANK UNIT CG SUPERVISOR</strong></span><br />
+Jesse Hollander</p>
+<p><span style="color:#daa520;"><strong>SHARKS/SYDNEY UNIT CG SUPERVISOR</strong></span><br />
+Steve May</p>
+<p><span style="color:#daa520;"><strong>GLOBAL TECHNOLOGY CG SUPERVISOR</strong></span><br />
+Michael Fong</p>
+<p><span style="color:#daa520;"><strong>DIGITAL FINAL CG SUPERVISOR</strong></span><br />
+Anthony Apodaca</p>
+<p><span style="color:#daa520;"><strong>SCHOOLING/FLOCKING CG SUPERVISOR</strong></span><br />
+Michael Lorenzen</p>
+<p><span style="color:#daa520;"><strong>PRODUCTION MANAGER</strong></span><br />
+Lindsey Collins</p>
+<p><span style="color:#daa520;"><strong>SOUND DESIGN</strong></span><br />
+Gary Rydstrom</p>
+<p><span style="color:#daa520;"><strong>CASTING</strong></span><br />
+Mary Hidalgo, Kevin Reher, Matthew Jon Beck</p>
+<p><span style="color:#daa520;"><strong>CAST</strong></span></p>
+<p><span style="color:#daa520;"><strong>Marlin</strong></span><br />
+Albert Brooks</p>
+<p><span style="color:#daa520;"><strong>Dory</strong></span><br />
+Ellen DeGeneres</p>
+<p><span style="color:#daa520;"><strong>Nemo</strong></span><br />
+Alexander Gould</p>
+<p><span style="color:#daa520;"><strong>Gill</strong></span><br />
+Willem Dafoe</p>
+<p><span style="color:#daa520;"><strong>Bloat</strong></span><br />
+Brad Garrett</p>
+<p><span style="color:#daa520;"><strong>Peach</strong></span><br />
+Allison Janney</p>
+<p><span style="color:#daa520;"><strong>Gurgle</strong></span><br />
+Austin Pendleton</p>
+<p><span style="color:#daa520;"><strong>Bubbles</strong></span><br />
+Stephen Root</p>
+<p><span style="color:#daa520;"><strong>Deb (&amp; Flo)</strong></span><br />
+Vicki Lewis</p>
+<p><span style="color:#daa520;"><strong>Jacques </strong></span><br />
+Joe Ranft</p>
+<p><span style="color:#daa520;"><strong>Nigel</strong></span><br />
+Geoffrey Rush</p>
+<p><span style="color:#daa520;"><strong>Crush</strong></span><br />
+Andrew Stanton</p>
+<p><span style="color:#daa520;">&nbsp;<strong>Coral</strong></span><br />
+Elizabeth Perkins</p>
+<p><span style="color:#daa520;"><strong>Squirt</strong></span><br />
+Nicholas Bird</p>
+<p><span style="color:#daa520;"><strong>Mr. Ray</strong></span><br />
+Bob Peterson</p>
+<p><span style="color:#daa520;"><strong>Bruce</strong></span><br />
+Barry Humphries</p>
+<p><span style="color:#daa520;"><strong>Anchor</strong></span><br />
+Eric Bana</p>
+<p><span style="color:#daa520;"><strong>Chum</strong></span><br />
+Bruce Spence</p>
+<p><span style="color:#daa520;"><strong>Dentist</strong></span><br />
+Bill Hunter</p>
+<p><span style="color:#daa520;"><strong>Darla</strong></span><br />
+LuLu Ebeling</p>
+<p><span style="color:#daa520;"><strong>Tad</strong></span><br />
+Jordy Ranft</p>
+<p><span style="color:#daa520;"><strong>Pearl</strong></span><br />
+Erica Beck</p>
+<p><span style="color:#daa520;"><strong>Sheldon</strong></span><br />
+Erik Per Sullivan</p>
+<p><span style="color:#daa520;"><strong>Fish School</strong></span><br />
+John Ratzenberger</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+<p>&nbsp;</p>
+</div>  </div>  
+  <div class="views-field views-field-field-link-value">        <span class="field-content">
+</span>  </div>  
+  <div>        <div class="gallery"><div class="view view-gallery-videos-from-billboard view-id-gallery_videos_from_billboard view-display-id-block_1 view-dom-id-7a2ee12ebfc5e79bdf27dfd46a151446">
+    
+  
+  
+  
+  
+  
+  
+  
+  
+</div></div>  </div>  
+          </div>    
+          <div class="hidden billboardTitle">Nemo_credits</div>  </li>
+      </ul></div>          </div>
+        </div>
+
+  <div class="featureBillboardFrameTop"></div>
+  <div class="featureBillboardFrameBottom"></div>
+
+  
+        <div class="attachment attachment-after">
+          <div class="view view-feature-films view-id-feature_films view-display-id-attachment_2 feature-films-bottom-nav-attach view-dom-id-8994d70f437528a3825cf40676a75739">
+    
+  
+  
+    
+        <div class="view-content">
+          <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/Inside-Out">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/io_features_billboard_thumbs.jpg?1414019278" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/Inside-Out" class="">
+	
+    InsideOut</a>
+</span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/Monsters-University">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/mu_feature_thumb_1.jpg?1369236203" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/Monsters-University" class="">
+	
+    Monsters University</a>
+</span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/Brave">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/brave_small.jpg?1329944801" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/Brave" class="">
+	
+    Brave</a>
+</span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/CARS-2">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/cars2_0.jpg?1318612674" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/CARS-2" class="">
+	
+    CARS 2</a>
+</span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/TOY-STORY-3">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/ts3.jpg?1318612858" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/TOY-STORY-3" class="">
+	
+    TOY STORY 3</a>
+</span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/UP">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/up.jpg?1318612650" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/UP" class="">
+	
+    UP</a>
+</span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/WALLE">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/walle.jpg?1318612903" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/WALLE" class="">
+	
+    WALLâ¢E</a>
+</span>  </div></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/RATATOUILLE">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/rat.jpg?1318613255" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/RATATOUILLE" class="">
+	
+    RATATOUILLE</a>
+</span>  </div></li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/CARS">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/cars.jpg?1318612971" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/CARS" class="">
+	
+    CARS</a>
+</span>  </div></li>
+          <li class="views-row views-row-10 views-row-even">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/THE-INCREDIBLES-">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/incredibles.jpg?1318613094" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/THE-INCREDIBLES-" class="">
+	
+    THE INCREDIBLES </a>
+</span>  </div></li>
+          <li class="views-row views-row-11 views-row-odd">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/FINDING-NEMO">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/nemo.jpg?1318613141" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/FINDING-NEMO" class="active">
+	
+    FINDING NEMO</a>
+</span>  </div></li>
+          <li class="views-row views-row-12 views-row-even">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/MONSTERS%2C-INC.">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/mi.jpg?1318613207" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/MONSTERS%2C-INC." class="">
+	
+    MONSTERS, INC.</a>
+</span>  </div></li>
+          <li class="views-row views-row-13 views-row-odd">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/TOY-STORY-2">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/ts2.jpg?1318613295" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/TOY-STORY-2" class="">
+	
+    TOY STORY 2</a>
+</span>  </div></li>
+          <li class="views-row views-row-14 views-row-even">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/A-BUG%27S-LIFE">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/abl.jpg?1318612689" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/A-BUG%27S-LIFE" class="">
+	
+    A BUG'S LIFE</a>
+</span>  </div></li>
+          <li class="views-row views-row-15 views-row-odd views-row-last">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/TOY-STORY">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/ts.jpg?1318613025" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/TOY-STORY" class="">
+	
+    TOY STORY</a>
+</span>  </div></li>
+      </ul></div>      </div>
+  
+  
+  
+  
+  
+  
+  </div>       </div>
+  
+  
+  
+  </div>
+                                </div>
+                                                                <div id="footer"><div id="block-menu-menu-footer-menu" class="clear-block block block-menu">
+
+  <h2>Footer</h2>
+
+  <div class="content"><ul class="menu"><li class="leaf first menu-facebook"><a href="http://www.facebook.com/DisneyPixar" title="" class="external-link" target="_blank">facebook</a></li>
+<li class="leaf menu-twitter"><a href="https://twitter.com/#!/disneypixar  " title="" class="external-link" target="_blank">twitter</a></li>
+<li class="leaf menu-termsofuse"><a href="/content/pixarcom-terms-use-agreement?ajax=3" title="Terms of Use Agreement" rel="lightmodal[|width:981px;height:549px;][]">Terms of Use</a></li>
+<li class="leaf last menu-privacypolicy"><a href="/content/pixarcom-privacy-policy?ajax=3" title="Privacy Policy" rel="lightmodal[|width:981px;height:549px;][]">Privacy Policy</a></li>
+</ul></div>
+</div>
+<span class="footer-message">TM &amp; &copy; 1986 - 2012 Pixar. All Rights Reserved.
+</span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+                
+            </div> <!-- /container -->
+        </div>
+        <!-- /layout -->
+
+                <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-18809945-1']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </body>
+</html>

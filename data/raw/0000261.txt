@@ -1,0 +1,1230 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.23" />
+<meta name="keywords" content="Inception Wiki,inception,Inception (film),Yusuf,Robert Fischer,Dominic Cobb,Ariadne,Christopher Nolan,Leonardo DiCaprio,Marion Cotillard,Joseph Gordon-Levitt,Ellen Page,Cillian Murphy" />
+<meta name="description" content="Inception is a science-fiction action thriller film written, produced, and directed by..." />
+<meta name="google-site-verification" content="mee0ZWi4ltBfBd35n4sR0ZXrgHEQ52XaT9-jEoav-b4" />
+<link rel="canonical" href="http://inception.wikia.com/wiki/Inception_(film)" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/wiki/Inception_(film)?action=edit" />
+<link rel="edit" title="Edit" href="/wiki/Inception_(film)?action=edit" />
+<link rel="apple-touch-icon" href="http://img1.wikia.nocookie.net/__cb4/inception/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/inception/images/6/64/Favicon.ico/revision/latest?cb=20100808061717" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Inception Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://inception.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="Inception Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Inception (film) - Inception Wiki</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1424388494/sasses/background-dynamic%3D1%26background-image%3D%26background-image-height%3D800%26background-image-width%3D2000%26color-body%3D%2523bacdd8%26color-body-middle%3D%2523bacdd8%26color-buttons%3D%2523721410%26color-header%3D%25233a5766%26color-links%3D%25232c5173%26color-page%3D%2523232323%26page-opacity%3D100%26widthType%3D2%26wordmark-font%3Dimfell/skins/oasis/css/oasis.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationHubsMenu.scss,extensions/wikia/UserLogin/css/UserLoginDropdown.globalNavigation.scss,extensions/wikia/WallNotifications/styles/WallNotifications.globalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationOasis.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearchOasis.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://inception.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: inception:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="movies",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":true,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"pageArticleId":2034,"pageIsArticle":true,"pageName":"Inception_(film)","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"media=movie;egnre=thriller;egnre=action;sex=m;age=18-34;age=18-24","wikiDbName":"inception","wikiLanguage":"en","wikiVertical":"Entertainment"},"providers":[],"slots":{"bottomLeaderboardImpressionCapping":[2,4,6]},"forceProviders":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[100098],
+wgWikiFactoryTagNames=["oscar"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1424388494",
+wgDBname="inception",
+wgCityId="134850",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=2034,
+wgCategories=["Citations needed","Inception","Film","Production"],
+wgPageName="Inception_(film)",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="movie",
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1424388494",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s26","wiki":"inception","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>
+function syslogReport(priority,message,context){context=context||null;var url='//jserrorslog.wikia.com/',i=new Image(),data={'@message':message,'syslog_pri':priority};if(context){data['@context']=context;}
+try{data['@fields']={server:document.cookie.match(/server.([A-Z]*).cache/)[1]};}catch(e){}
+try{i.src=url+'l?'+JSON.stringify(data);}catch(e){i.src=url+'e?'+e;}}</script><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1424388494&amp;c=134850&amp;lc=en&amp;lid=75&amp;x=inception&amp;y=c2&amp;u=0&amp;a=2034&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1424388494&amp;c=134850&amp;lc=en&amp;lid=75&amp;x=inception&amp;y=c2&amp;u=0&amp;a=2034&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://inception.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1424388494/groups/-/abtesting,oasis_blocking,analytics_gas_js,adengine2_tracking_js,adengine2_rubicon_rtp_js,adengine2_amazon_match_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Inception Wiki" />
+	<meta property="og:title" content="Inception (film)" />
+	<meta property="og:description" content="Inception is a science-fiction action thriller film written, produced, and directed by Christopher Nolan. The film stars Leonardo DiCaprio, with a supporting cast that includes Ken Watanabe, Joseph Gordon-Levitt, Marion Cotillard, Ellen Page, Cillian Murphy, Tom Hardy, Tom Berenger, Dileep Rao, Talulah Riley and Michael Caine. The film was produced and distributed by Warner Bros. with co-production from Legendary Pictures and Syncopy Films. Inception was released in both conventional and..." />
+	<meta property="og:url" content="http://inception.wikia.com/wiki/Inception_(film)" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Inception_film  TOC_hide wikinav2 skin-oasis oasis-dark-theme background-not-tiled background-dynamic">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Finception.wikia.com%2Fwiki%2FInception_%28film%29%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require(["ext.wikia.adEngine.amazonMatchOld", "wikia.geo", "wikia.instantGlobals"], function (amazon, geo, globals) {
+		var ac = globals["wgAmazonMatchOldCountries"];
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+	require(["ext.wikia.adEngine.amazonMatch", "wikia.geo", "wikia.instantGlobals"], function (amazon, geo, globals) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+</script>
+<!-- Unsupported language for AnalyticsProviderIVW2 -->
+<!-- Start for RubiconRTP, page_view -->
+<script>
+	require(['wikia.geo', 'wikia.instantGlobals', 'ext.wikia.adEngine.rubiconRtp'], function (geo, instantGlobals, rtp) {
+		var rtpCountries = ["US","GB","BR"], country = geo.getCountryCode();
+
+		if (rtpCountries.indexOf(country) !== -1 && !instantGlobals.wgSitewideDisableRubiconRTP) {
+			rtp.call({"disabled":false,"oz_site":"7450\/11979","oz_zone":"145168","oz_ad_slot_size":"728x90","skin":["oasis"],"oz_cached_only":false,"slotname":["BOTTOM_LEADERBOARD","CORP_TOP_LEADERBOARD","HOME_TOP_LEADERBOARD","HUB_TOP_LEADERBOARD","TOP_LEADERBOARD"]});
+		}
+	});
+</script><div class="WikiaSiteWrapper">
+	<h1>Wikia</h1>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+	<nav class="global-navigation" id="globalNavigation">
+	<div class="page-width">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com"
+				class="wikia-logo"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+			</a>
+		</div>
+		<div class="hubs-container table-cell" id="hubsEntryPoint">
+			<a class="hubs-entry-point"></a>
+<nav id="hubs" class="hubs-menu">
+	<ul class="hub-list">
+					<li>
+								<a data-vertical="comics" href="http://comicshub.wikia.com/wiki/Comics_Hub" class="comics hub-link ">
+					<span class="icon"></span>
+					<span class="label">Comics</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="tv" href="http://tvhub.wikia.com/wiki/TV_Hub" class="tv hub-link ">
+					<span class="icon"></span>
+					<span class="label">TV</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="movies" href="http://movieshub.wikia.com/wiki/Movies_Hub" class="movies hub-link  active">
+					<span class="icon"></span>
+					<span class="label">Movies</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="music" href="http://musichub.wikia.com/wiki/Music_Hub" class="music hub-link ">
+					<span class="icon"></span>
+					<span class="label">Music</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="books" href="http://bookshub.wikia.com/wiki/Books_Hub" class="books hub-link ">
+					<span class="icon"></span>
+					<span class="label">Books</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="games" href="http://gameshub.wikia.com/wiki/Games_Hub" class="games hub-link ">
+					<span class="icon"></span>
+					<span class="label">Games</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="lifestyle" href="http://lifestylehub.wikia.com/wiki/Lifestyle_Hub" class="lifestyle hub-link ">
+					<span class="icon"></span>
+					<span class="label">Lifestyle</span>
+				</a>
+							</li>
+			</ul>
+	<div class="hub-links">
+		<div class="hub-menu-section movies-links active">
+			<ul>
+			<strong>NOW PLAYING</strong>
+							<li>
+					<a href="http://ow.ly/J5T6z">Kingsman: The Secret Service</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5T89">50 Shades of Grey</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5T9O">The SpongeBob Movie: Sponge Out of Water</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>FAN RADAR</strong>
+							<li>
+					<a href="http://ow.ly/J5Tbw">Pitch Perfect 2</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Tde">Furious 7</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5TeS">Avengers: Age of Ultron</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>IN THE NEWS</strong>
+							<li>
+					<a href="http://ow.ly/J5TjA">Spidey Joins MCU</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Tmv">Who is Miles Morales?</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Tof">Oscar Buzz</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>TOP VIDEOS</strong>
+							<li>
+					<a href="http://ow.ly/J5TtH">Straight Outta Compton</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5TvS">The Man From U.N.C.L.E.</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5TxJ">Fantastic Four Easter Eggs</a>
+				</li>
+					</ul>
+		<a class="more" href="http://movieshub.wikia.com/wiki/Movies_Hub">More Movies</a>
+</div>
+	</div>
+</nav>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://inception.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search within Inception Wiki..." data-search-url="http://inception.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search within Inception Wiki..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell">
+	<li class="account-navigation-first-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Inception_(film)" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">				<div class="avatar-container anon-avatar-placeholder">
+									</div>
+			</a>
+							<span class="sign-in-label">Sign in</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+		</div>
+		<div id="UserLoginDropdown" class="UserLoginDropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Sign up</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Inception_(film)">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_LEADERBOARD"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_BUTTON_WIDE"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_SKIN"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h1 class="wordmark medium graphic font-imfell">
+	<a accesskey="z" href="/wiki/Inception_Wiki">
+					<img src="http://img2.wikia.nocookie.net/__cb4/inception/images/8/89/Wiki-wordmark.png" alt="Inception Wiki"  width="250" height="65" >
+			</a>
+</h1>
+        <nav class="WikiNav">
+    	        <h1>Inception Wiki Navigation</h1>
+        		<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Inception_Wiki">Top Content</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Most_visited_articles">most_visited<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Totem">Totem</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Inception:_The_Cobol_Job">Inception: The Cobol Job</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Limbo">Limbo</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dominick_Cobb">Dominick Cobb</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eames">Eames</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Arthur">Arthur</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mallorie_Cobb">Mallorie Cobb</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Inception_Wiki:Community_Portal">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Inception_Wiki:Administrators">Admins<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/User:Samsonius">Samsonius</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/User:Matias_arana_10">Matias Arana 10</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/User:Skxwang">Skxwang</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WantedPages">Wanted Articles</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Incomplete_Articles">Incomplete Articles</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Article_stubs">Article Stubs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewPages">Newest Pages</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Inception">Inception</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Inception_(2010_film)">Inception (2010 film)</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Inception_Reviews">Write a Review</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/User_blog:Samsonius/End_Theories">Write an End Theory</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Ten_Best_Inception_Quotes">Add Your Favorite Quote</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Inception_Videos">Inception Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Inception_(Music_from_the_Motion_Picture)">Inception Soundtrack</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Dom_Cobb">Dom Cobb (The Extractor)</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Mal">Mal (The Shade)</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Eames">Eames (The Forger)</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Ariadne">Ariadne (The Architect)</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Robert_Fischer">Robert Fischer (The Mark)</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Arthur">Arthur (The Point Man)</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Saito">Saito (The Tourist)</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>    </nav>
+	    <div class="buttons">
+		<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Inception_(film)?action=edit"  data-id="edit"  >Edit this Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+					<a href="#" class="wikia-button share-button secondary"  data-id="shareButton"> Share<span class="share-dot"></span><span class="share-pixel"></span></a>
+    </div>
+	    <div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>    </div>
+</header>
+
+				
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+				<header id="WikiaPageHeader" class="WikiaPageHeader">
+    <h1>Inception (film)</h1>
+
+	<nav class="wikia-menu-button" >
+	<a accesskey="e"  href="/wiki/Inception_(film)?veaction=edit" data-id="ve-edit" id="ca-ve-edit">
+		<img alt="" class="sprite edit-pencil" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Edit	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Inception_(film)?action=edit"  accesskey="s" data-id="edit"   id="ca-edit">Classic editor</a>
+		</li>
+		<li>
+			<a href="/wiki/Inception_(film)?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Talk:Inception_(film)" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Talk<span class="commentsbubble">14</span></a>
+        <div class="tally">
+			<em>126</em><span>pages on<br /> this wiki</span>        </div>
+		</header>
+<script>
+    
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write(
+        '<div id="monetization-adunit-below_title" class="monetization-module adunit hide-for-edit below-title" ' +
+        'data-mon-type="adunit" data-mon-slot="below_title"><div class="ad-header">Advertisement</div><div>' +
+        '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">' +
+        '</scr' + 'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" ' +
+        'data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_bc_bt_ic_fsm_fft mon_hub_movies mon_sl_bt" ' +
+        'data-ad-type="text" ' + 'data-font-size="medium" ' +'data-font-face="times" ' +
+        ' data-color-bg="#232323" data-color-border="#232323" data-color-link="#2c5173" data-color-url="#2c5173" data-color-text="#d5d4d4" ></ins>' +
+        '<script>(adsbygoogle = window.adsbygoogle || []).push({});</scr' + 'ipt></div></div>'
+    );
+}
+</script>
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+
+					
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div id="spoiler" style="text-align: center; background: #000000; margin: 1em 05%; padding: 0 1em; border: #696969 1px solid;">
+This article is about <b>the film</b>. You may be looking for <b><a href="/wiki/Inception_(tactic)" title="Inception (tactic)">the tactic</a></b>.</div>
+<table border="0" cellspacing="0" cellpadding="4" style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:1px solid #FFFFFF; font-size:smaller; line-height:1.5;">
+
+<tr>
+<th colspan="2" style="padding:0; background:#999999; color:#FFF;"><a href="http://vignette4.wikia.nocookie.net/inception/images/9/91/Inception_poster.jpg/revision/latest?cb=20140612010814" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Inception poster"  	class="lzy lzyPlcHld " 	 	data-image-key="Inception_poster.jpg" 	data-image-name="Inception poster.jpg" 	 data-src="http://vignette4.wikia.nocookie.net/inception/images/9/91/Inception_poster.jpg/revision/latest/scale-to-width/250?cb=20140612010814"  	 width="250"  	 height="370"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/inception/images/9/91/Inception_poster.jpg/revision/latest/scale-to-width/250?cb=20140612010814" 	 alt="Inception poster"  	class="" 	 	data-image-key="Inception_poster.jpg" 	data-image-name="Inception poster.jpg" 	 	 width="250"  	 height="370"  	 	 	 	></noscript></a>
+</th></tr>
+<tr>
+<th colspan="2" style="color:#d4d4d4; background:#2f2f2f; font-size:larger;">Inception
+</th></tr>
+<tr>
+<th colspan="2" style="text-align:left; font-weight:normal; background:#264056; color:#d4d4d4"><b>Film Information</b>
+</th></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">Directed by
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">
+<p><a href="/wiki/Christopher_Nolan" title="Christopher Nolan">Christopher Nolan</a>
+</p>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">Produced by
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">
+<p>Christopher Nolan<br /><a href="/wiki/Emma_Thomas" title="Emma Thomas">Emma Thomas</a><br />Chris Brigham
+</p>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">Written by
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">
+<p>Christopher Nolan
+</p>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">Starring
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">
+<p><a href="/wiki/Leonardo_DiCaprio" title="Leonardo DiCaprio">Leonardo DiCaprio</a><br /><a href="/wiki/Marion_Cotillard" title="Marion Cotillard">Marion Cotillard</a><br /><a href="/wiki/Joseph_Gordon-Levitt" title="Joseph Gordon-Levitt">Joseph Gordon-Levitt</a><br /><a href="/wiki/Ellen_Page" title="Ellen Page">Ellen Page</a><br /><a href="/wiki/Cillian_Murphy" title="Cillian Murphy">Cillian Murphy</a><br /><a href="/wiki/Tom_Hardy" title="Tom Hardy">Tom Hardy</a><br /><a href="/wiki/Dileep_Rao" title="Dileep Rao">Dileep Rao</a><br /><a href="/wiki/Ken_Watanabe" title="Ken Watanabe">Ken Watanabe</a><br /><a href="/wiki/Michael_Caine" title="Michael Caine">Michael Caine</a><br /><a href="/wiki/Pete_Postlethwaite" title="Pete Postlethwaite">Pete Postlethwaite</a><br /><a href="/wiki/Tom_Berenger" title="Tom Berenger">Tom Berenger</a><sup id="cite_ref-0" class="reference"><a href="#cite_note-0">[1]</a></sup><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[2]</a></sup>
+</p>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">Music Composed by
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">
+<p><a href="/wiki/Hans_Zimmer" title="Hans Zimmer">Hans Zimmer</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[3]</a></sup><br /> Charles Dumont and Michel Vaucaire<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[4]</a></sup><br />Ãdith Piaf<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[5]</a></sup><br />Youssef El Mejjad and Pat Jabbar<br />Amira Saqati<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[6]</a></sup>
+</p>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">Cinematography
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">
+<p><a href="/wiki/Wally_Pfister" title="Wally Pfister">Wally Pfister</a>
+</p>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">Editing by
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">
+<p>Lee Smith
+</p>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">Studio
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">
+<p><a href="/wiki/Legendary_Pictures" title="Legendary Pictures">Legendary Pictures</a><br /><a href="/wiki/Syncopy_Films" title="Syncopy Films">Syncopy Films</a>
+</p>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">Distributed by
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">
+<p><a href="/wiki/Warner_Bros." title="Warner Bros.">Warner Bros. Pictures</a>
+</p>
+</td></tr>
+
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">Rating(s)
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">
+<p>PG-13
+</p>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">Running Time
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">
+<p>148 minutes<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[7]</a></sup>
+</p>
+</td></tr>
+
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">Budget
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">
+<p>US $160million<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[8]</a></sup>
+</p>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">Gross Revenue
+</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999; background: #000000">
+<p>$816,235,677
+Worldwide
+</p>
+</td></tr>
+
+
+
+</table>
+<p><i><b>Inception</b></i> is a science-fiction action thriller film written, produced, and directed by <a href="/wiki/Christopher_Nolan" title="Christopher Nolan">Christopher Nolan</a>. The film stars <a href="/wiki/Leonardo_DiCaprio" title="Leonardo DiCaprio">Leonardo DiCaprio</a>, with a supporting cast that includes <a href="/wiki/Ken_Watanabe" title="Ken Watanabe">Ken Watanabe</a>, <a href="/wiki/Joseph_Gordon-Levitt" title="Joseph Gordon-Levitt">Joseph Gordon-Levitt</a>, <a href="/wiki/Marion_Cotillard" title="Marion Cotillard">Marion Cotillard</a>, <a href="/wiki/Ellen_Page" title="Ellen Page">Ellen Page</a>, <a href="/wiki/Cillian_Murphy" title="Cillian Murphy">Cillian Murphy</a>, <a href="/wiki/Tom_Hardy" title="Tom Hardy">Tom Hardy</a>, <a href="/wiki/Tom_Berenger" title="Tom Berenger">Tom Berenger</a>, <a href="/wiki/Dileep_Rao" title="Dileep Rao">Dileep Rao</a>, <a href="/wiki/Talulah_Riley" title="Talulah Riley">Talulah Riley</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[9]</a></sup> and <a href="/wiki/Michael_Caine" title="Michael Caine">Michael Caine</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[10]</a></sup>. The film was produced and distributed by <a href="/wiki/Warner_Bros." title="Warner Bros.">Warner Bros.</a> with co-production from <a href="/wiki/Legendary_Pictures" title="Legendary Pictures">Legendary Pictures</a> and <a href="/wiki/Syncopy_Films" title="Syncopy Films">Syncopy Films</a>. <i>Inception</i> was released in both conventional and IMAX theaters on July 15, 2010.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[11]</a></sup> It was released on Blu-ray and DVD on December 7, 2010.
+</p>
+<nav id="toc" class="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a href="#" class="internal" id="togglelink" data-show="show" data-hide="hide">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Synopsis">Synopsis</span><span class="editsection"><a href="/wiki/Inception_(film)?action=edit&amp;section=1" title="Edit Synopsis section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<p>Dom Cobb (Leonardo DiCaprio) and his partner Arthur (Joseph Gordon-Levitt) perform illegal corporate espionage by entering the subconscious minds of their targets, using two-level "dream within a dream" strategies to "extract" valuable information. Each of the "extractors" carries a "<a href="/wiki/Totem" title="Totem">totem</a>", a personalized small object whose behavior is unpredictable to anyone except to the totem's owner, to determine if they are within another person's dream. Cobb's totem is a spinning top which spins perpetually in the dream state. Cobb struggles with memories of his dead wife Mal (Marion Cotillard) that manifest within the dream and try to sabotage his efforts.
+</p><p>Cobb is approached by the wealthy Mr. Saito (Ken Watanabe) asking them to perform the act of "inception", planting an idea within the person's subconscious mind. Saito wishes to break up the vast energy empire of his competitor, the ailing Maurice Fischer (Pete Postlethwaite), by suggesting this idea to his son Robert Fischer (Cillian Murphy) who will inherit the empire when his father dies. Should Cobb succeed, Saito promises to use his influence to clear Cobb of the murder charges for his wife's death, allowing Cobb to re-enter the United States and reunite with his children. Cobb assembles his team: Eames (Tom Hardy), an identity forger; Yusuf (Dileep Rao), a chemist who concocts the powerful sedative needed to stabilize the layers of the shared dream; and Ariadne (Ellen Page), a young student architect tasked with designing the labyrinth of the dream landscapes. While planning the inception, Ariadne learns of the guilt Cobb struggles with from Mal's suicide and his separation from his children when he fled the country as a fugitive.
+</p><p>The job is set into motion when Maurice Fischer dies and his son accompanies his father's body from Sydney to Los Angeles. During the flight, Cobb sedates Fischer, and the team bring him into a three-level shared dream. At each stage, the member of the team who is "creating" the dream remains while the other team members fall asleep within the dream to travel further down into Fischer's subconscious. The dreamers will then ride a synchronized system of "kicks" (a car diving off a bridge, a falling elevator, and a collapsing building) back up the levels to wake up to reality. In the first level, Yusuf's dream of a rainy city, the team successfully abducts Fischer, but the team is attacked by Fischer's militarized subconscious projections, which have been trained to hunt and kill extractors. Saito is mortally wounded during the shoot-out, but due to the strength of Yusuf's sedative, dying in the dream will send them into limbo, a deep subconscious level where they may lose their grip on reality and be trapped indefinitely.
+</p><p>Eames takes the appearance of Fischer's godfather Peter Browning (Tom Berenger) to suggest that he reconsider his opinion of his father's will. Yusuf remains on the first level driving a van through the streets, while the remaining characters enter Arthur's dream, taking place in a corporate hotel. Cobb turns Fischer against Browning and persuades him to join the team as Arthur runs point, and they descend to the third dream level, a snowy mountain fortress dreamed by Eames, which Fischer is told represents Browning's subconscious. Yusuf's evasive driving on the first level manifests as distorted gravity effects on the second and an avalanche on the third.
+</p><p>Saito succumbs to his wounds, and Cobb's projection of Mal sabotages the plan by shooting Fischer dead.[11] Cobb and Ariadne elect to enter limbo to find Fischer and Saito. There, Cobb confronts his projection of Mal, who tries to convince him to stay with her and his kids in limbo. Cobb refuses and confesses that he was responsible for Mal's suicide: to help her escape from limbo during a shared dream experience, he inspired in her the idea that her world wasn't real. Once she had returned to reality, she became convinced that she was still dreaming and needed to die in order to wake up. Through his confession, Cobb attains catharsis and chooses to remain in limbo to search for Saito; Eames defibrillates Fischer to bring him back up to the third-level mountain fortress, where he enters a safe room and discovers and accepts the idea to split up his father's business empire.
+</p><p>Leaving Cobb behind, the team members escape by riding the kicks back up the levels of the dream. Cobb eventually finds an elderly Saito who has been waiting in limbo for decades in dream time (just a few hours in real time), and the two help each other to remember their arrangement. The team awakens on the flight; Saito arranges for Cobb to get through U.S. customs, and he goes home to reunite with his children. Cobb uses his spinning top to test reality but is distracted by his children before he sees the result.
+</p><p>In the last two frames of the movie the top begins swaying and is about to fall just as the screen goes black.
+</p>
+<script>
+    
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write(
+        '<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" ' +
+        'data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div>' +
+        '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">' +
+        '</scr' + 'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" ' +
+        'data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_bc_bt_ic_fsm_fft mon_hub_movies mon_sl_ic" ' +
+        'data-ad-type="text" ' + 'data-font-size="medium" ' +'data-font-face="times" ' +
+        ' data-color-bg="#232323" data-color-border="#232323" data-color-link="#2c5173" data-color-url="#2c5173" data-color-text="#d5d4d4" ></ins>' +
+        '<script>(adsbygoogle = window.adsbygoogle || []).push({});</scr' + 'ipt></div></div>'
+    );
+}
+</script><h2><span class="mw-headline" id="Development"> Development </span><span class="editsection"><a href="/wiki/Inception_(film)?action=edit&amp;section=2" title="Edit Development section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<p><i>Inception</i> was first developed by <a href="/wiki/Christopher_Nolan" title="Christopher Nolan">Christopher Nolan</a>, based on the notion of "exploring the idea of people sharing a dream space - entering a dream space and sharing a dream. That gives you the ability to access somebodyâs unconscious mind. What would that be used and abused for?" Furthermore, he thought "being able to extract information from somebodyâs brain would be the obvious use of that because obviously any other system where itâs computers or physical media, whatever â things that exist outside the mind â they can all be stolen ... up until this point, or up until this movie I should say, the idea that you could actually steal something from somebodyâs head was impossible. So that, to me, seemed a fascinating abuse or misuse of that kind of technology". He had thought about these ideas on and off since he was 16 years old, intrigued by how he would wake up and then, while falling back into a lighter sleep, hold on to the awareness that he was dreaming, a lucid dream. He also became aware of the feeling that he could study the place and alter the events of the dream. He said, "I tried to work that idea of manipulation and management of a conscious dream being a skill that these people have. Really the script is based on those common, very basic experiences and concepts, and where can those take you? And the only outlandish idea that the film presents, really, is the existence of a technology that allows you to enter and share the same dream as someone else".
+</p>
+<h3><span class="mw-headline" id="Screenplay">Screenplay</span><span class="editsection"><a href="/wiki/Inception_(film)?action=edit&amp;section=3" title="Edit Screenplay section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<p>Originally, Nolan had envisioned <i>Inception</i> as a horror film but eventually wrote it as a heist film even though he found that "traditionally [they] are very deliberately superficial in emotional terms". Initially, Nolan wrote an 80-page treatment about dream-stealers. Upon revisiting his script, he decided that basing it in that genre did not work because the story "relies so heavily on the idea of the interior state, the idea of dream and memory. I realized I needed to raise the emotional stakes". Nolan worked on the script for nine to ten years. When he first started thinking about making the film, the director was influenced by "that era of movies where you had <i>The Matrix</i>, you had <i>Dark City</i>, you had <i>The Thirteenth Floor</i> and, to a certain extent, you had <i>Memento</i>, too. They were based in the principles that the world around you might not be real". He first pitched the film to Warner Brothers in 2001 but in retrospect felt that he needed more experience making large scale films like <i>Batman Begins</i> and <i>The Dark Knight</i>. He soon realized that a film like <i>Inception</i> needed a large budget because "as soon as youâre talking about dreams, the potential of the human mind is infinite. And so the scale of the film has to feel infinite. It has to feel like you could go absolutely anywhere by the end of the film. And it has to work on a massive scale". After making <i>The Dark Knight</i>, Nolan decided to make <i>Inception</i> and spent six months completing the script. For the director, the key to completing the script was wondering what would happen if several people shared the same dream. He said, "Once you remove the privacy, youâve created an infinite number of alternative universes in which people can meaningfully interact, with validity, with weight, with dramatic consequences".
+</p><p>Leonardo DiCaprio was the first actor to be cast in the film. He read the script and found it to be "very well written, comprehensive but you really had to have Chris in person, to try to articulate some of the things that have been swirling around his head for the last eight years". He and Nolan spent months talking about the screenplay. Nolan took a long time re-writing the script in order "to make sure that the emotional journey of his character was the driving force of the movie".
+</p>
+<h3><span class="mw-headline" id="Production">Production</span><span class="editsection"><a href="/wiki/Inception_(film)?action=edit&amp;section=4" title="Edit Production section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<p>On February 11, 2009, it was announced that Warner Bros. purchased <i>Inception</i>, a spec script written by Nolan. Production began in Tokyo on June 19, 2009. Other locations included Los Angeles, London, Paris, Tangier and Calgary. Principal photography for the film began on July 13, 2009. On July 15, 2009, filming took place at University College London library. The signage of the library was altered to French to imitate a bibliothÃ¨que. On August 17, 2009, filming took place around the Pont de Bir-Hakeim, a bridge that crosses the Seine River in Paris, France. Filming also took place in Morocco on Monday, August 24, 2009. Filming in Los Angeles started September 27, 2009. Filming near Calgary at Fortress Mountain Resort began in late November 2009 on an elaborate set on top of a mountain. The production had to wait for a huge snowstorm, which eventually arrived.
+</p><p>The film was shot on anamorphic 35mm with key sequences filmed on 65mm, and certain other sequences with VistaVision but Nolan did not shoot any footage with IMAX cameras as he had with <i>The Dark Knight</i>. "We didnât feel that we were going to be able to shoot in IMAX because of the size of the cameras because this film given that it deals with a potentially surreal area, the nature of dreams and so forth, I wanted it to be as realistic as possible. Not be bound by the scale of those IMAX cameras, even though I love the format dearly." Nolan also chose not to shoot any of the film in 3-D as he believes that shooting on digital video does not offer a high enough quality image. Special effects expert Chris Corbould and his team built giant rotating hallways and a massive tilting nightclub for scenes where dream-sector physics become chaotic. One of the film's actors, Joseph Gordon-Levitt, spent several weeks learning to fight in a corridor that spun like "a giant hamster wheel". Nolan said of the device, "It was like some incredible torture device; we thrashed Joseph for weeks, but in the end we looked at the footage, and it looks unlike anything any of us has seen before. The rhythm of it is unique, and when you watch it, even if you know how it was done, it confuses your perceptions. It's unsettling in a wonderful way". Gordon-Levitt remembered, "it was six-day weeks of just, like, coming home at night fuckin' battered ... The light fixtures on the ceiling are coming around on the floor, and you have to choose the right time to cross through them, and if you don't, you're going to fall.
+</p><p>Nolan has said that the film "deals with levels of reality, and perceptions of reality which is something I'm very interested in. It's an action film set in a contemporary world, but with a slight science-fiction bent to it", while also describing it as "very much an ensemble film structured somewhat as a heist movie. It's an action adventure that spans the globe".
+</p><p>The film had a reported budget of $160 million and runs for approximately 148 minutes.
+</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="editsection"><a href="/wiki/Inception_(film)?action=edit&amp;section=5" title="Edit Gallery section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<p>See also: <i><a href="/wiki/Gallery:_Promotional_Posters" title="Gallery: Promotional Posters">Gallery: Promotional Posters</a></i>
+</p>
+<div id="gallery-0" hash="f8154fdd21652ff9b313a74ca2e9d82f" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-item" style="width:282px; "><div class="thumb" style="height:119px;"><div class="gallery-image-wrapper accent" id="Trailer08-jpg" style="position: relative; height:117px; width:280px;"><a class="image lightbox" href="/wiki/File:Trailer08.jpg" title="Trailer08.jpg (128 KB)" style="height:117px; width:280px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/inception/images/c/c9/Trailer08.jpg/revision/latest/scale-to-width/280?cb=20100715204715" title="Trailer08.jpg (128 KB)" class="thumbimage" alt="Trailer08" data-image-name="Trailer08.jpg" data-image-key="Trailer08.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Trailer08.jpg (128 KB)" class="thumbimage lzy lzyPlcHld" alt="Trailer08" data-image-name="Trailer08.jpg" data-image-key="Trailer08.jpg" data-src="http://vignette3.wikia.nocookie.net/inception/images/c/c9/Trailer08.jpg/revision/latest/scale-to-width/280?cb=20100715204715" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:280px;">An example of the surreal and temperamental nature of a Dream.  The dream itself is <a href="/wiki/Yusuf" title="Yusuf">Yusuf</a>'s and populated by <a href="/wiki/Robert_Fischer" title="Robert Fischer">Robert Fischer</a>'s subconscious.  The train is a part of <a href="/wiki/Dominic_Cobb" title="Dominic Cobb" class="mw-redirect">Cobb's</a> suppressed subconscious that has broken into the dream.</div></div><div class="wikia-gallery-item" style="width:282px; "><div class="thumb" style="height:119px;"><div class="gallery-image-wrapper accent" id="Trailer10-jpg" style="position: relative; height:117px; width:280px;"><a class="image lightbox" href="/wiki/File:Trailer10.jpg" title="Trailer10.jpg (98 KB)" style="height:117px; width:280px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/inception/images/f/f0/Trailer10.jpg/revision/latest/scale-to-width/280?cb=20100715204716" title="Trailer10.jpg (98 KB)" class="thumbimage" alt="Trailer10" data-image-name="Trailer10.jpg" data-image-key="Trailer10.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Trailer10.jpg (98 KB)" class="thumbimage lzy lzyPlcHld" alt="Trailer10" data-image-name="Trailer10.jpg" data-image-key="Trailer10.jpg" data-src="http://vignette3.wikia.nocookie.net/inception/images/f/f0/Trailer10.jpg/revision/latest/scale-to-width/280?cb=20100715204716" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:280px;">A fight scene in which gravity and the laws of physics have no boundaries.</div></div><div class="wikia-gallery-item" style="width:282px; "><div class="thumb" style="height:119px;"><div class="gallery-image-wrapper accent" id="Trailer13-jpg" style="position: relative; height:117px; width:280px;"><a class="image lightbox" href="/wiki/File:Trailer13.jpg" title="Trailer13.jpg (195 KB)" style="height:117px; width:280px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/inception/images/5/58/Trailer13.jpg/revision/latest/scale-to-width/280?cb=20100715204620" title="Trailer13.jpg (195 KB)" class="thumbimage" alt="Trailer13" data-image-name="Trailer13.jpg" data-image-key="Trailer13.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Trailer13.jpg (195 KB)" class="thumbimage lzy lzyPlcHld" alt="Trailer13" data-image-name="Trailer13.jpg" data-image-key="Trailer13.jpg" data-src="http://vignette2.wikia.nocookie.net/inception/images/5/58/Trailer13.jpg/revision/latest/scale-to-width/280?cb=20100715204620" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:280px;">Paris in a <a href="/wiki/Ariadne" title="Ariadne">Ariadne</a>'s <a href="/wiki/Paris_Streets_(Dream)" title="Paris Streets (Dream)" class="mw-redirect">dream</a>. She is manipulating her dreamstate for the first time under <a href="/wiki/Dominic_Cobb" title="Dominic Cobb" class="mw-redirect">Cobb's</a> guidance.</div></div><div class="wikia-gallery-item" style="width:282px; "><div class="thumb" style="height:119px;"><div class="gallery-image-wrapper accent" id="Trailer15-jpg" style="position: relative; height:117px; width:280px;"><a class="image lightbox" href="/wiki/File:Trailer15.jpg" title="Trailer15.jpg (125 KB)" style="height:117px; width:280px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/inception/images/3/3b/Trailer15.jpg/revision/latest/scale-to-width/280?cb=20100715204621" title="Trailer15.jpg (125 KB)" class="thumbimage" alt="Trailer15" data-image-name="Trailer15.jpg" data-image-key="Trailer15.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Trailer15.jpg (125 KB)" class="thumbimage lzy lzyPlcHld" alt="Trailer15" data-image-name="Trailer15.jpg" data-image-key="Trailer15.jpg" data-src="http://vignette2.wikia.nocookie.net/inception/images/3/3b/Trailer15.jpg/revision/latest/scale-to-width/280?cb=20100715204621" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:282px; "><div class="thumb" style="height:119px;"><div class="gallery-image-wrapper accent" id="Trailer19-jpg" style="position: relative; height:117px; width:280px;"><a class="image lightbox" href="/wiki/File:Trailer19.jpg" title="Trailer19.jpg (98 KB)" style="height:117px; width:280px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/inception/images/1/1c/Trailer19.jpg/revision/latest/scale-to-width/280?cb=20100715204623" title="Trailer19.jpg (98 KB)" class="thumbimage" alt="Trailer19" data-image-name="Trailer19.jpg" data-image-key="Trailer19.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Trailer19.jpg (98 KB)" class="thumbimage lzy lzyPlcHld" alt="Trailer19" data-image-name="Trailer19.jpg" data-image-key="Trailer19.jpg" data-src="http://vignette2.wikia.nocookie.net/inception/images/1/1c/Trailer19.jpg/revision/latest/scale-to-width/280?cb=20100715204623" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:282px; "><div class="thumb" style="height:119px;"><div class="gallery-image-wrapper accent" id="Trailer20-jpg" style="position: relative; height:117px; width:280px;"><a class="image lightbox" href="/wiki/File:Trailer20.jpg" title="Trailer20.jpg (139 KB)" style="height:117px; width:280px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/inception/images/f/fd/Trailer20.jpg/revision/latest/scale-to-width/280?cb=20100715204623" title="Trailer20.jpg (139 KB)" class="thumbimage" alt="Trailer20" data-image-name="Trailer20.jpg" data-image-key="Trailer20.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Trailer20.jpg (139 KB)" class="thumbimage lzy lzyPlcHld" alt="Trailer20" data-image-name="Trailer20.jpg" data-image-key="Trailer20.jpg" data-src="http://vignette2.wikia.nocookie.net/inception/images/f/fd/Trailer20.jpg/revision/latest/scale-to-width/280?cb=20100715204623" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:282px; "><div class="thumb" style="height:119px;"><div class="gallery-image-wrapper accent" id="Trailer25-jpg" style="position: relative; height:117px; width:280px;"><a class="image lightbox" href="/wiki/File:Trailer25.jpg" title="Trailer25.jpg (65 KB)" style="height:117px; width:280px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/inception/images/a/ae/Trailer25.jpg/revision/latest/scale-to-width/280?cb=20100715204640" title="Trailer25.jpg (65 KB)" class="thumbimage" alt="Trailer25" data-image-name="Trailer25.jpg" data-image-key="Trailer25.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Trailer25.jpg (65 KB)" class="thumbimage lzy lzyPlcHld" alt="Trailer25" data-image-name="Trailer25.jpg" data-image-key="Trailer25.jpg" data-src="http://vignette2.wikia.nocookie.net/inception/images/a/ae/Trailer25.jpg/revision/latest/scale-to-width/280?cb=20100715204640" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:282px; "><div class="thumb" style="height:119px;"><div class="gallery-image-wrapper accent" id="Trailer32-jpg" style="position: relative; height:117px; width:280px;"><a class="image lightbox" href="/wiki/File:Trailer32.jpg" title="Trailer32.jpg (164 KB)" style="height:117px; width:280px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/inception/images/e/ed/Trailer32.jpg/revision/latest/scale-to-width/280?cb=20100715204658" title="Trailer32.jpg (164 KB)" class="thumbimage" alt="Trailer32" data-image-name="Trailer32.jpg" data-image-key="Trailer32.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Trailer32.jpg (164 KB)" class="thumbimage lzy lzyPlcHld" alt="Trailer32" data-image-name="Trailer32.jpg" data-image-key="Trailer32.jpg" data-src="http://vignette2.wikia.nocookie.net/inception/images/e/ed/Trailer32.jpg/revision/latest/scale-to-width/280?cb=20100715204658" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:282px; "><div class="thumb" style="height:119px;"><div class="gallery-image-wrapper accent" id="Trailer33-jpg" style="position: relative; height:117px; width:280px;"><a class="image lightbox" href="/wiki/File:Trailer33.jpg" title="Trailer33.jpg (190 KB)" style="height:117px; width:280px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/inception/images/b/b4/Trailer33.jpg/revision/latest/scale-to-width/280?cb=20100715204658" title="Trailer33.jpg (190 KB)" class="thumbimage" alt="Trailer33" data-image-name="Trailer33.jpg" data-image-key="Trailer33.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Trailer33.jpg (190 KB)" class="thumbimage lzy lzyPlcHld" alt="Trailer33" data-image-name="Trailer33.jpg" data-image-key="Trailer33.jpg" data-src="http://vignette1.wikia.nocookie.net/inception/images/b/b4/Trailer33.jpg/revision/latest/scale-to-width/280?cb=20100715204658" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:282px; "><div class="thumb" style="height:119px;"><div class="gallery-image-wrapper accent" id="Trailer34-jpg" style="position: relative; height:117px; width:280px;"><a class="image lightbox" href="/wiki/File:Trailer34.jpg" title="Trailer34.jpg (107 KB)" style="height:117px; width:280px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/inception/images/8/83/Trailer34.jpg/revision/latest/scale-to-width/280?cb=20100715204658" title="Trailer34.jpg (107 KB)" class="thumbimage" alt="Trailer34" data-image-name="Trailer34.jpg" data-image-key="Trailer34.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Trailer34.jpg (107 KB)" class="thumbimage lzy lzyPlcHld" alt="Trailer34" data-image-name="Trailer34.jpg" data-image-key="Trailer34.jpg" data-src="http://vignette3.wikia.nocookie.net/inception/images/8/83/Trailer34.jpg/revision/latest/scale-to-width/280?cb=20100715204658" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:282px; "><div class="thumb" style="height:119px;"><div class="gallery-image-wrapper accent" id="Trailer35-jpg" style="position: relative; height:117px; width:280px;"><a class="image lightbox" href="/wiki/File:Trailer35.jpg" title="Trailer35.jpg (118 KB)" style="height:117px; width:280px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/inception/images/b/b1/Trailer35.jpg/revision/latest/scale-to-width/280?cb=20100715204658" title="Trailer35.jpg (118 KB)" class="thumbimage" alt="Trailer35" data-image-name="Trailer35.jpg" data-image-key="Trailer35.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Trailer35.jpg (118 KB)" class="thumbimage lzy lzyPlcHld" alt="Trailer35" data-image-name="Trailer35.jpg" data-image-key="Trailer35.jpg" data-src="http://vignette3.wikia.nocookie.net/inception/images/b/b1/Trailer35.jpg/revision/latest/scale-to-width/280?cb=20100715204658" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:282px; "><div class="thumb" style="height:119px;"><div class="gallery-image-wrapper accent" id="Trailer36-jpg" style="position: relative; height:117px; width:280px;"><a class="image lightbox" href="/wiki/File:Trailer36.jpg" title="Trailer36.jpg (177 KB)" style="height:117px; width:280px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/inception/images/6/61/Trailer36.jpg/revision/latest/scale-to-width/280?cb=20100715204658" title="Trailer36.jpg (177 KB)" class="thumbimage" alt="Trailer36" data-image-name="Trailer36.jpg" data-image-key="Trailer36.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Trailer36.jpg (177 KB)" class="thumbimage lzy lzyPlcHld" alt="Trailer36" data-image-name="Trailer36.jpg" data-image-key="Trailer36.jpg" data-src="http://vignette3.wikia.nocookie.net/inception/images/6/61/Trailer36.jpg/revision/latest/scale-to-width/280?cb=20100715204658" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><br /><a class="wikia-photogallery-add wikia-button noprint" style="display: none"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite photo" width="26" height="16" />Add a photo to this gallery</a></div><script>JSSnippetsStack.push({dependencies:[{"url":"http://slot1.images2.wikia.nocookie.net/__am/1423267875/group/-/wikia_photo_gallery_js","type":"js"},{"url":"http://slot1.images3.wikia.nocookie.net/__am/1423267875/sass/background-dynamic%3D1%26background-image%3D%26background-image-height%3D800%26background-image-width%3D2000%26color-body%3D%2523bacdd8%26color-body-middle%3D%2523bacdd8%26color-buttons%3D%2523721410%26color-header%3D%25233a5766%26color-links%3D%25232c5173%26color-page%3D%2523232323%26page-opacity%3D100%26widthType%3D2%26wordmark-font%3Dimfell/extensions/wikia/WikiaPhotoGallery/css/gallery.scss","type":"css"}],callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})</script>
+<h2><span class="mw-headline" id="Release">Release</span><span class="editsection"><a href="/wiki/Inception_(film)?action=edit&amp;section=6" title="Edit Release section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<p><i>Inception</i> was released in both conventional and IMAX theaters on July 16, 2010. A teaser trailer for the film was attached to <i>Inglourious Basterds</i>, following its release in August 2009. A theatrical trailer was attached to <i>Sherlock Holmes</i>, premiering in December 2009. The third and final trailer debuted with regular and IMAX screenings of Iron Man 2 in May 2010. The film had its world premiere at Leicester Square in London, England on July 8. 2010.
+</p>
+<h3><span class="mw-headline" id="Critical_reception">Critical reception</span><span class="editsection"><a href="/wiki/Inception_(film)?action=edit&amp;section=7" title="Edit Critical reception section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<p>In early reviews, the film has received a great deal of critical acclaim. Review aggregate Rotten Tomatoes reports that 87% of critics have given the film a positive review based on 266 reviews, with an average rating of 8/10. The critical consensus is<i> "smart, innovative, and thrilling, </i>Inception<i> is that rare summer blockbuster that succeeds viscerally as well as intellectually."</i>
+</p><p>In his review for Variety, Justin Chang praised the film as "a conceptual tour de force" and wrote, "applying a vivid sense of procedural detail to a fiendishly intricate yarn set in the labyrinth of the subconscious, the writer-director has devised a heist thriller for surrealists, a Jungian's Rififi, that challenges viewers to sift through multiple layers of (un)reality". Jim Vejvoda of IGN rated the film perfect, deeming it "a singular accomplishment from a filmmaker who has only gotten better with each film". Empire magazine rated it five stars in the August 2010 issue and wrote, "it feels like Stanley Kubrick adapting the work of the great sci-fi author William Gibson ... Nolan delivers another true original: welcome to an undiscovered country." Roger Ebert gave it four stars out of four and said "I thought there was a hole in "Memento"... Maybe there's a hole in "Inception" too, but I can't find it."
+</p>
+<h2><span class="mw-headline" id="Marketing">Marketing</span><span class="editsection"><a href="/wiki/Inception_(film)?action=edit&amp;section=8" title="Edit Marketing section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<p>In the spring of 2010 a viral marketing campaign was started for the film. On June 2, 2010 a manual was sent out to various companies.<sup><i>&#91;citation&#160;needed&#93;</i></sup> The manual was filled with bizarre images and text all relating to <i>Inception</i>. No one was really able to make out what it all meant and how it ties into the film. As the month went on, more and more viral marketing began to surface including, posters, ads and strange websites all related to the film. Both the <a href="/wiki/Dream-Share:_Tactical_Employment_Procedures_Manual" title="Dream-Share: Tactical Employment Procedures Manual">Dream-Share: Tactical Employment Procedures Manual</a> and <a href="/wiki/Instruction_Manual_MV-235A" title="Instruction Manual MV-235A">Instruction Manual MV-235A</a> are examples of this viral marketing.
+</p><p>On June 7, 2010 a behind the scenes featurette on the film was released in HD on Yahoo! Movies.
+</p><p>On June 21, 2010 a character featurette was released detailing the characters and providing some more information on the plot.
+</p><p>A press release detailing each character and giving in depth details about then was released on June 24, 2010.
+</p><p>Twenty-six new photos were released on June 24, 2010.
+</p><p>4 clips and The HBO First Look were released on July 6, 2010.
+</p><p>On July 13 a free, 19 page comic which serves as a prologue to <i>Inception</i> called <a href="/wiki/Inception:_The_Cobol_Job" title="Inception: The Cobol Job">Inception: The Cobol Job</a> was released. Sometime in August the script of <a href="/wiki/Inception:_The_Big_Under" title="Inception: The Big Under">Inception: The Big Under</a> was officially released online.
+</p>
+<h2><span class="mw-headline" id="Other_Works">Other Works</span><span class="editsection"><a href="/wiki/Inception_(film)?action=edit&amp;section=9" title="Edit Other Works section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<p>When asked if there will be a sequel, Nolan responded âItâs not something I want to say no to, but itâs not something Iâve given a lot of thought about.â Tom Hardy said he and the rest of the cast had signed on for possible sequels, but that he himself is unsure if there will be any.
+</p><p>During a Rome press conference for <i>Inception</i>, Christopher Nolan expressed the idea of creating a <a href="/wiki/Inception_(video_game)" title="Inception (video game)">video game spinoff</a>. "One thing we are looking at doing is developing a videogame based on the world of the film, which has all kinds of ideas that you can't fit into a feature film," he said. "That's something we've been talking about and are looking at doing long term, in a couple of years."<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[12]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Home_release">Home release</span><span class="editsection"><a href="/wiki/Inception_(film)?action=edit&amp;section=10" title="Edit Home release section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<figure class="article-thumb tright show-info-icon" style="width: 230px"> 	<a href="http://vignette3.wikia.nocookie.net/inception/images/a/a2/Inception_BluRayCover.jpg/revision/latest?cb=20130729002909" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Inception BluRayCover"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Inception_BluRayCover.jpg" 	data-image-name="Inception BluRayCover.jpg" 	 data-src="http://vignette3.wikia.nocookie.net/inception/images/a/a2/Inception_BluRayCover.jpg/revision/latest/scale-to-width/230?cb=20130729002909"  	 width="230"  	 height="306"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/inception/images/a/a2/Inception_BluRayCover.jpg/revision/latest/scale-to-width/230?cb=20130729002909" 	 alt="Inception BluRayCover"  	class="thumbimage " 	 	data-image-key="Inception_BluRayCover.jpg" 	data-image-name="Inception BluRayCover.jpg" 	 	 width="230"  	 height="306"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Inception_BluRayCover.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption"><i>Inception</i>'s Blu-ray edition.</p> 		 	</figcaption> </figure>
+<p><i>Inception</i> was released on three-disc Blu-ray Disc, digital copy and extra DVD&#8212;and one disc DVD on December 7, 2010. It features several bonus features including 10 tracks from Hans Zimmer's score in 5.1 surround sound, behind the scenes clips and featurettes. Reviews scored extremely high with some video quality issues, but it's noted that the audio is near perfect.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[13]</a></sup>
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Movie_Scene">Movie Scene</span><span class="editsection"><a href="/wiki/Inception_(film)?action=edit&amp;section=11" title="Edit Movie Scene section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<div class="center"><figure class="article-thumb tnone show-info-icon" style="width: 201px"> 	<a 	href="http://inception.wikia.com/wiki/File:Inception_(2010)_-_Ending_and_Credits_HD-0" 	class="video video-thumbnail image lightbox small " 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Inception (2010) - Ending and Credits HD-0"  	class="thumbimage lzy lzyPlcHld " 	 	data-video-key="Inception_(2010)_-_Ending_and_Credits_HD-0" 	data-video-name="Inception (2010) - Ending and Credits HD-0" 	 data-src="http://vignette1.wikia.nocookie.net/inception/images/5/5f/Inception_%282010%29_-_Ending_and_Credits_HD-0/revision/latest/scale-to-width/201?cb=20130412144326"  	 width="201"  	 height="113"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/inception/images/5/5f/Inception_%282010%29_-_Ending_and_Credits_HD-0/revision/latest/scale-to-width/201?cb=20130412144326" 	 alt="Inception (2010) - Ending and Credits HD-0"  	class="thumbimage " 	 	data-video-key="Inception_(2010)_-_Ending_and_Credits_HD-0" 	data-video-name="Inception (2010) - Ending and Credits HD-0" 	 	 width="201"  	 height="113"  	 	 	 	></noscript><span class="duration" itemprop="duration">05:30</span><span class="play-circle"></span></a>  	<figcaption> 		 			<a href="/wiki/File:Inception_(2010)_-_Ending_and_Credits_HD-0" class="sprite info-icon"></a> 		 		 			<p class="title">Inception (2010) - Ending and Credits HD-0</p> 		 		 			<p class="caption">full</p> 		 	</figcaption> </figure></div>
+<h2><span class="mw-headline" id="External_Links">External Links</span><span class="editsection"><a href="/wiki/Inception_(film)?action=edit&amp;section=12" title="Edit External Links section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<ul><li> <a rel="nofollow" class="external text exitstitial" href="http://inceptionmovie.com/">Official <i>Inception</i> movie website</a>
+<ul><li> <a rel="nofollow" class="external text exitstitial" href="http://www.inceptionteam.com/">Official Inception "Assemble Your Team" Game</a>
+</li><li> <a rel="nofollow" class="external text exitstitial" href="http://www.inceptionminutemazes.com/">Official Inception "Ariadne's Minute Mazes"</a>
+</li></ul>
+</li><li> <a rel="nofollow" class="external text exitstitial" href="http://wwws.warnerbros.co.uk/inception/mainsite/">Official <i>Inception</i> DVD/Blu-ray website - UK</a>
+</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="editsection"><a href="/wiki/Inception_(film)?action=edit&amp;section=13" title="Edit References section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0">â</a> <span class="reference-text"><a rel="nofollow" class="external free exitstitial" href="http://www.cinemarewind.com/2009/07/inception-cast-and-crew-updates.html">http://www.cinemarewind.com/2009/07/inception-cast-and-crew-updates.html</a></span>
+</li>
+<li id="cite_note-1"><a href="#cite_ref-1">â</a> <span class="reference-text"><a rel="nofollow" class="external free exitstitial" href="http://www.nolanfans.com/2009/08/19/inceptions-character-names-revealed/">http://www.nolanfans.com/2009/08/19/inceptions-character-names-revealed/</a></span>
+</li>
+<li id="cite_note-2"><a href="#cite_ref-2">â</a> <span class="reference-text"><a rel="nofollow" class="external free exitstitial" href="http://www.cinemarewind.com/2009/07/inception-cast-and-crew-updates.html">http://www.cinemarewind.com/2009/07/inception-cast-and-crew-updates.html</a></span>
+</li>
+<li id="cite_note-3"><a href="#cite_ref-3">â</a> <span class="reference-text"><a rel="nofollow" class="external free exitstitial" href="http://www.imdb.com/title/tt1375666/soundtrack">http://www.imdb.com/title/tt1375666/soundtrack</a></span>
+</li>
+<li id="cite_note-4"><a href="#cite_ref-4">â</a> <span class="reference-text"><a rel="nofollow" class="external free exitstitial" href="http://www.imdb.com/title/tt1375666/soundtrack">http://www.imdb.com/title/tt1375666/soundtrack</a></span>
+</li>
+<li id="cite_note-5"><a href="#cite_ref-5">â</a> <span class="reference-text"><a rel="nofollow" class="external free exitstitial" href="http://www.imdb.com/title/tt1375666/soundtrack">http://www.imdb.com/title/tt1375666/soundtrack</a></span>
+</li>
+<li id="cite_note-6"><a href="#cite_ref-6">â</a> <span class="reference-text"><a rel="nofollow" class="external free exitstitial" href="http://www.imdb.com/title/tt1375666/">http://www.imdb.com/title/tt1375666/</a></span>
+</li>
+<li id="cite_note-7"><a href="#cite_ref-7">â</a> <span class="reference-text"><a rel="nofollow" class="external free exitstitial" href="http://latimesblogs.latimes.com/entertainmentnewsbuzz/2010/07/inception-sorcerers-box-office.html">http://latimesblogs.latimes.com/entertainmentnewsbuzz/2010/07/inception-sorcerers-box-office.html</a></span>
+</li>
+<li id="cite_note-8"><a href="#cite_ref-8">â</a> <span class="reference-text"><a rel="nofollow" class="external free exitstitial" href="http://www.dailymail.co.uk/tvshowbiz/article-1204891/Could-new-role-help-Vanessa-Redgrave-heal-sorrow.html">http://www.dailymail.co.uk/tvshowbiz/article-1204891/Could-new-role-help-Vanessa-Redgrave-heal-sorrow.html</a></span>
+</li>
+<li id="cite_note-9"><a href="#cite_ref-9">â</a> <span class="reference-text"><a rel="nofollow" class="external free exitstitial" href="http://cdn.nolanfans.com/wordpress/wp-content/uploads/2009/08/parisfilmingday3-1.jpg">http://cdn.nolanfans.com/wordpress/wp-content/uploads/2009/08/parisfilmingday3-1.jpg</a></span>
+</li>
+<li id="cite_note-10"><a href="#cite_ref-10">â</a> <span class="reference-text"><a rel="nofollow" class="external free exitstitial" href="http://www.imdb.com/title/tt1375666/">http://www.imdb.com/title/tt1375666/</a></span>
+</li>
+<li id="cite_note-11"><a href="#cite_ref-11">â</a> <span class="reference-text"><a rel="nofollow" class="external autonumber exitstitial" href="http://www.variety.com/article/VR1118024429.html?categoryid=19&amp;cs=1">[1]</a></span>
+</li>
+<li id="cite_note-12"><a href="#cite_ref-12">â</a> <span class="reference-text"><a rel="nofollow" class="external free exitstitial" href="http://blurayview.com/review/inception/">http://blurayview.com/review/inception/</a></span>
+</li></ol>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 511/300000
+Postâexpand include size: 8556/2097152 bytes
+Template argument size: 2394/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key inception:pcache:idhash:2034-0!*!0!!en!2!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://inception.wikia.com/wiki/Inception_(film)?oldid=12772">http://inception.wikia.com/wiki/Inception_(film)?oldid=12772</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage userCanEdit" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Citations needed" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Citations_needed" title="Category:Citations needed">Citations needed</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Inception" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Inception" title="Category:Inception">Inception</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Film" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Film" title="Category:Film">Film</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Production" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Production" title="Category:Production">Production</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+							<li class="last">
+					<button class="wikia-button secondary add" id="CategorySelectAdd" type="button">Add category</button>
+					<input autocomplete="off" class="input" id="CategorySelectInput" name="CategorySelectInput" placeholder="Add category..." type="text">				</li>
+					</ul>
+	</div>
+			<div class="toolbar">
+			<button class="wikia-button secondary cancel" id="CategorySelectCancel" type="button">Cancel</button>
+			<button class="wikia-button save" id="CategorySelectSave" type="button" disabled="disabled">Save</button>
+		</div>
+	</nav>									
+				
+				<script>
+    
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['JP'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write(
+        '<div id="monetization-adunit-below_category" class="monetization-module adunit hide-for-edit below-category" ' +
+        'data-mon-type="adunit" data-mon-slot="below_category"><div class="ad-header">Advertisement</div><div>' +
+        '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">' +
+        '</scr' + 'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" ' +
+        'data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_bc_bt_ic_fsm_fft mon_hub_movies mon_sl_bc" ' +
+        'data-ad-type="text" ' + 'data-font-size="medium" ' +'data-font-face="times" ' +
+        ' data-color-bg="#232323" data-color-border="#232323" data-color-link="#2c5173" data-color-url="#2c5173" data-color-text="#d5d4d4" ></ins>' +
+        '<script>(adsbygoogle = window.adsbygoogle || []).push({});</scr' + 'ipt></div></div>'
+    );
+}
+</script>
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+						<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+					<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+					<div id="WikiaRail" class="WikiaRail">
+
+	<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+			<div class="loading"></div>
+	
+</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<!-- BEGIN SLOTNAME: LEFT_SKYSCRAPER_3 -->
+<div id="LEFT_SKYSCRAPER_3" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["LEFT_SKYSCRAPER_3"]);
+</script>
+</div>
+<!-- END SLOTNAME: LEFT_SKYSCRAPER_3 -->
+	
+			<section>
+	<div class="header-container">
+		<h1>Around Wikia's network</h1>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/134850" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer row">
+	<nav>
+		<div class="branding vertical-movies black">
+			<a class="wikia-logo" href="http://movieshub.wikia.com/wiki/Movies_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>Movies</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["GPT_FLUSH"]);
+</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: INVISIBLE_1 -->
+<div id="INVISIBLE_1" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_1"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_1 -->
+<!-- BEGIN SLOTNAME: INVISIBLE_2 -->
+<div id="INVISIBLE_2" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_2"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_2 -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"inception","kv_article_id":2034,"kv_wpage":"Inception_(film)","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"media=movie;egnre=thriller;egnre=action;sex=m;age=18-34;age=18-24","kv_domain":"inception.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://inception.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis%26ve%3D1/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Inception_(film)","wgTitle":"Inception (film)","wgCurRevisionId":12772,"wgArticleId":2034,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Citations needed","Inception","Film","Production"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Inception_(film)","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"","background-image-height":"800","background-image-width":"2000","color-body":"#bacdd8","color-body-middle":"#bacdd8","color-buttons":"#721410","color-header":"#3a5766","color-links":"#2c5173","color-page":"#232323","page-opacity":"100","widthType":2,"wordmark-font":"imfell"},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Inception Wiki","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1424388494/common","wgSitename":"Inception Wiki","wgMWrevId":false,"wgRevisionId":12772,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Inception_(film)","fbReturnToTitle":"Inception_(film)","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"http://slot1.images.wikia.nocookie.net/__cb1424388494/common/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdWvwETAAAAACS_0luypJPV7aiQkpLzoZN26YAf","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":true,"verticalName":"Entertainment","WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Inception (film)"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"enablerichtext":1,"editor":2,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"founderemails-joins-134850":0,"founderemails-edits-134850":0,"founderemails-views-digest-134850":0,"founderemails-complete-digest-134850":0,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501":false,"searchNs502":false,
+"searchNs503":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: inception:resourceloader:filter:minify-js:7:a4dffa4f159c18b2b138e21ea729a981 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikiaViewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.wikiaInYourLang"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1424388494/groups/-/oasis_shared_core_js,adengine2_js,adengine2_late_js,oasis_shared_js,oasis_anon_with_new_global_nav_js,liftium_ads_js,liftium_ads_extra_js,adengine2_oasis_ads_js,adengine2_interactive_maps_js,toc_js,qualaroo_js,global_footer_js,spotlights_js,relatedpages_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CImagePlaceholder%2COasis-generic&amp;uselang=en&amp;cb=1424388494.0.76268"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1424388494/group/-/monetization_module_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1424388494/group/-/global_navigation_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://inception.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://inception.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/site"></script>
+<script type='text/javascript'>
+var agllGroup = "Entertainment";
+!function(){
+var a=document.createElement("script");a.type="text/javascript";a.async=!0;var b=["http://a98dc034c7781a941eba-bac02262202668bbe918ea9fb5289cd2.r58.cf2.rackcdn.com","https://52e473ee9859b886964f-bac02262202668bbe918ea9fb5289cd2.ssl.cf2.rackcdn.com"];a.src=("https:"==document.location.protocol?b[1]:b[0])+"/c59hk50tip94.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(a,c)
+}();</script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationHubsMenu.scss","extensions\/wikia\/UserLogin\/css\/UserLoginDropdown.globalNavigation.scss","extensions\/wikia\/WallNotifications\/styles\/WallNotifications.globalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationOasis.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearchOasis.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

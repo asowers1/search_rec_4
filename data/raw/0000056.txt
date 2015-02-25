@@ -1,0 +1,711 @@
+<!DOCTYPE HTML >
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Cracking The Da Vinci Code | Catholic Answers</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"ad96bfc7b4ad508f01ba924c16ac3c08",petok:"929aac3ddc6268d6dcccae69b711c6765e0bdc77-1424460172-1800",zone:"catholic.com",rocket:"0",apps:{"abetterbrowser":{"ie":"8"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=919620257c/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<link rel="shortcut icon" href="/sites/default/files/ca_gray_theme_favicon.ico" type="image/x-icon"/>
+<meta property="og:image" content="http://www.catholic.com/sites/default/files/catholic_answers_icon.jpg"/>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'/>
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/datepicker.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/nice_menus/nice_menus.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/nice-menus-ca-gray.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/user/user.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/video/css/video.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/misc/farbtastic/farbtastic.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/calendar/calendar.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/taxonomy_super_select/taxonomy_super_select.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/custom_search/custom_search.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/libraries/fancybox/jquery.fancybox.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/html-reset.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/wireframes.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/layout-fixed.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/page-backgrounds.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/tabs.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/messages.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/pages.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/block-editing.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/blocks.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/navigation.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/panels-styles.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/views-styles.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/nodes.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/comments.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/forms.css?G"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/fields.css?G"/>
+<link type="text/css" rel="stylesheet" media="print" href="/sites/all/themes/ca_gray_theme/css/print.css?G"/>
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/ie.css?G" />
+<![endif]-->
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ca_gray_theme/css/ie6.css?G" />
+<![endif]-->
+<script type="text/javascript" src="/sites/default/files/js/js_971345b6eda96f4628f484f8de49728f.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutbound": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "custom_search": { "form_target": "_self", "solr": 1 } });
+//--><!]]>
+</script>
+</head>
+<body class="page not-front not-logged-in node-type-document page-documents-cracking-the-da-vinci-code section-documents two-sidebars"><script type="text/javascript">
+//<![CDATA[
+try{(function(a){var b="http://",c="www.catholic.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
+//]]>
+</script>
+ 
+<div id="page-wrapper"><div id="page">
+<div id="header"><div class="section clearfix">
+<a href="/" title="Home" rel="home" id="logo"><img src="/sites/default/files/ca_gray_theme_logo.png" alt="Home"/></a>
+<div class="region region-header">
+<div id="block-block-14" class="block block-block first region-odd even region-count-1 count-8">
+<div class="content">
+<a href="http://www.facebook.com/catholicanswers" target="_blank"><img src="/sites/all/themes/ca_gray_theme/images/fb_icon.png" alt="follow us on facebook" border="0"/></a><a href="http://www.youtube.com/catholiccom" target="_blank"><img src="/sites/all/themes/ca_gray_theme/images/yt_icon.png" alt="follow us on youtube" border="0"/></a><a href="http://twitter.com/#!/catholiccom" target="_blank"><img src="/sites/all/themes/ca_gray_theme/images/tw_icon.png" alt="follow us on twitter" border="0"/></a>
+</div>
+</div> 
+<div id="block-search-0" class="block block-search region-even odd region-count-2 count-9">
+<div class="content">
+<form action="/documents/cracking-the-da-vinci-code" accept-charset="UTF-8" method="post" id="search-block-form" class="search-form">
+<div><div class="container-inline">
+<div class="form-item" id="edit-search-block-form-1-wrapper">
+<label class="element-invisible" for="edit-search-block-form-1">Search this site: </label>
+<input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text  custom-search-default-value custom-search-box"/>
+</div>
+<fieldset class="custom_search-popup"></fieldset>
+<input type="image" name="op" value="Search" id="edit-submit" alt="Search" class="form-submit custom-search-button" src="/sites/default/files/custom_search/search_button.png"/>
+<input type="hidden" name="form_build_id" id="form-3xW4WWo1ra4SfbdNVUng6-VPsS3RxP7W5yTkgk_AlzE" value="form-3xW4WWo1ra4SfbdNVUng6-VPsS3RxP7W5yTkgk_AlzE"/>
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"/>
+<input type="hidden" name="default_text" id="edit-default-text" value="" class="default-text"/>
+</div>
+</div></form>
+</div>
+</div> 
+<div id="block-block-26" class="block block-block region-odd even region-count-3 count-10">
+<div class="content">
+<div class="dropdown">
+<a class="account">My Accounts</a>
+<div class="submenu">
+<ul class="root">
+<li><iframe class="login-frame" src="/catholic-login-status" scrolling="no" frameBorder="0">no iframe</iframe></li>
+<li><iframe class="login-frame" src="http://forums.catholic.com/forums-login-status.php" scrolling="no" frameBorder="0">no iframe</iframe></li>
+<li><iframe class="login-frame" src="http://shop.catholic.com/shop-login-status.php" scrolling="no" frameBorder="0">no iframe</iframe></li>
+</ul>
+</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+	$(".account").click(function() {
+		var X=$(this).attr('id');
+		if(X==1) {
+                        $(this).removeClass("highlight");
+			$(".submenu").hide();
+			$(this).attr('id', '0'); 
+		}
+		else {
+                        $(this).addClass("highlight");
+			$(".submenu").show();
+			$(this).attr('id', '1');
+		}
+	});
+
+	//Mouse click on sub menu
+	$(".submenu").mouseup(function() {
+		return false
+	});
+
+	//Mouse click on my account link
+	$(".account").mouseup(function() {
+		return false
+	});
+
+	//Document Click
+	$(document).mouseup(function() {
+                $(".account").removeClass("highlight");
+		$(".submenu").hide();
+		$(".account").attr('id', '');
+	});
+});
+</script> </div>
+</div> 
+<div id="block-nice_menus-1" class="block block-nice_menus region-even odd region-count-4 count-11">
+<div class="content">
+<ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-763 menuparent menu-path-browse first  odd "><a href="/browse">Browse</a><ul><li class="menu-7771 menu-path-browse-Apologetics-all-all-all first  odd "><a href="/browse/Apologetics/all/all/all">Apologetics</a></li>
+<li class="menu-7785 menu-path-browse-Marriage-all-all-all even "><a href="/browse/Marriage/all/all/all">Marriage</a></li>
+<li class="menu-7772 menu-path-browse-Bible-all-all-all odd "><a href="/browse/Bible/all/all/all">Bible</a></li>
+<li class="menu-7786 menu-path-browse-Mary-all-all-all even "><a href="/browse/Mary/all/all/all">Mary</a></li>
+<li class="menu-7775 menu-path-browse-Canon Law-all-all-all odd "><a href="/browse/Canon%20Law/all/all/all">Canon Law</a></li>
+<li class="menu-7787 menu-path-browse-Morality-all-all-all even "><a href="/browse/Morality/all/all/all">Morality</a></li>
+<li class="menu-7776 menu-path-browse-Church-all-all-all odd "><a href="/browse/Church/all/all/all">Church</a></li>
+<li class="menu-7788 menu-path-browse-Non-Catholic-all-all-all even "><a href="/browse/Non-Catholic/all/all/all">Non-Catholic</a></li>
+<li class="menu-7777 menu-path-browse-Culture-all-all-all odd "><a href="/browse/Culture/all/all/all">Culture</a></li>
+<li class="menu-7789 menu-path-browse-Papacy-all-all-all even "><a href="/browse/Papacy/all/all/all">Papacy</a></li>
+<li class="menu-7778 menu-path-browse-Eschatology-all-all-all odd "><a href="/browse/Eschatology/all/all/all">Eschatology</a></li>
+<li class="menu-7790 menu-path-browse-Prayer and Devotion-all-all-all even "><a href="/browse/Prayer%20and%20Devotion/all/all/all">Prayer and Devotion</a></li>
+<li class="menu-7779 menu-path-browse-Eucharist-all-all-all odd "><a href="/browse/Eucharist/all/all/all">Eucharist</a></li>
+<li class="menu-7791 menu-path-browse-Priesthood-all-all-all even "><a href="/browse/Priesthood/all/all/all">Priesthood</a></li>
+<li class="menu-7780 menu-path-browse-Evangelization-all-all-all odd "><a href="/browse/Evangelization/all/all/all">Evangelization</a></li>
+<li class="menu-7792 menu-path-browse-Pro-Life-all-all-all even "><a href="/browse/Pro-Life/all/all/all">Pro-Life</a></li>
+<li class="menu-7781 menu-path-browse-Heresy-all-all-all odd "><a href="/browse/Heresy/all/all/all">Heresy</a></li>
+<li class="menu-7793 menu-path-browse-Sacrament-all-all-all even "><a href="/browse/Sacrament/all/all/all">Sacrament</a></li>
+<li class="menu-7782 menu-path-browse-History-all-all-all odd "><a href="/browse/History/all/all/all">History</a></li>
+<li class="menu-7794 menu-path-browse-Saints-all-all-all even "><a href="/browse/Saints/all/all/all">Saints</a></li>
+<li class="menu-7783 menu-path-browse-Jesus-all-all-all odd "><a href="/browse/Jesus/all/all/all">Jesus</a></li>
+<li class="menu-7795 menu-path-browse-Seasons and Feasts-all-all-all even "><a href="/browse/Seasons%20and%20Feasts/all/all/all">Seasons and Feasts</a></li>
+<li class="menu-7784 menu-path-browse-Liturgy-all-all-all odd "><a href="/browse/Liturgy/all/all/all">Liturgy</a></li>
+<li class="menu-7796 menu-path-browse-Trinity-all-all-all even  last "><a href="/browse/Trinity/all/all/all">Trinity</a></li>
+</ul>
+</li>
+<li class="menu-10432 menu-path-node-7931 even "><a href="/blog">Blog</a></li>
+<li class="menu-10537 menuparent menu-path-node-13023 odd "><a href="/library">Library</a><ul><li class="menu-21613 menu-path-encyclopedia first  odd "><a href="/encyclopedia">Encyclopedia</a></li>
+<li class="menu-765 menu-path-node-14 even "><a href="/magazine" class=" active">Magazine</a></li>
+<li class="menu-766 menu-path-node-9 odd "><a href="/quickquestions">Quick Questions</a></li>
+<li class="menu-767 menu-path-node-10 even "><a href="/tracts">Tracts</a></li>
+<li class="menu-768 menu-path-node-11 odd "><a href="/documents">Documents</a></li>
+<li class="menu-806 menu-path-chastitycom even  last "><a href="http://chastity.com">Chastity.com</a></li>
+</ul>
+</li>
+<li class="menu-769 menu-path-node-12 even "><a href="/video">Video</a></li>
+<li class="menu-770 menuparent menu-path-node-13 odd "><a href="/radio">Radio</a><ul><li class="menu-13384 menu-path-node-13 first  odd "><a href="/radio">Catholic Answers Live</a></li>
+<li class="menu-21639 menu-path-focus even  last "><a href="/focus">Catholic Answers Focus</a></li>
+</ul>
+</li>
+<li class="menu-803 menu-path-node-8 even "><a href="/speakers">Speakers</a></li>
+<li class="menu-771 menu-path-forumscatholiccom odd "><a href="http://forums.catholic.com">Forums</a></li>
+<li class="menu-772 menu-path-shopcatholiccom even "><a href="http://shop.catholic.com">Shop</a></li>
+<li class="menu-773 menuparent menu-path-node-7 odd "><a href="/donate">Donate</a><ul><li class="menu-6974 menu-path-node-7 first  odd "><a href="/donate">Donate Now</a></li>
+<li class="menu-13383 menu-path-https--donatecatholiccom-radio even "><a href="https://donate.catholic.com/radio">Radio Club</a></li>
+<li class="menu-6973 menu-path-catholicanswerslegacycom- odd "><a href="http://www.catholicanswerslegacy.com/">Legacy Society</a></li>
+<li class="menu-11501 menu-path-node-8351 even "><a href="/donate/presidents-club-and-founders-circle">President&#039;s Club &amp; Founders Circle</a></li>
+<li class="menu-14695 menu-path-node-9607 odd  last "><a href="/donate/gifts-of-stock">Gifts of Stock</a></li>
+</ul>
+</li>
+<li class="menu-774 menuparent menu-path-node-3 even  last "><a href="/about">About</a><ul><li class="menu-19164 menu-path-node-13676 first  odd "><a href="/news">News</a></li>
+<li class="menu-775 menu-path-node-3 even "><a href="/about">Mission &amp; Vision</a></li>
+<li class="menu-805 menu-path-node-28 odd "><a href="/projects">Projects</a></li>
+<li class="menu-776 menu-path-node-2 even "><a href="/about/activities">Activities</a></li>
+<li class="menu-777 menu-path-about-staffprofiles odd "><a href="/about/staffprofiles">Staff Profiles</a></li>
+<li class="menu-5154 menu-path-profiles-browse even "><a href="/profiles/browse">People &amp; Profiles</a></li>
+<li class="menu-778 menu-path-about-jobs odd "><a href="/about/jobs">Jobs</a></li>
+<li class="menu-5157 menu-path-node-5857 even "><a href="/about/book-submissions">Book Submissions</a></li>
+<li class="menu-5651 menu-path-node-5966 odd "><a href="/about/magazine-submissions">Magazine Submissions</a></li>
+<li class="menu-5189 menu-path-node-5887 even "><a href="/about/permissions">Permissions</a></li>
+<li class="menu-9606 menu-path-catholicanswerscruisecom- odd "><a href="http://www.catholicanswerscruise.com/">Cruises</a></li>
+<li class="menu-5703 menu-path-node-5790 even "><a href="/contact/contact-us">Contact Us</a></li>
+<li class="menu-16901 menu-path-node-12215 odd  last "><a href="/about/advertise">Advertise</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div> 
+<div id="block-block-13" class="block block-block last region-odd even region-count-5 count-12">
+<div class="content">
+<a href='/documents'><h1>Documents</h1></a> </div>
+</div> 
+</div> 
+</div></div> 
+<div id="main-wrapper"><div id="extra-wrapper"><div id="main" class="clearfix">
+<div class="region region-sidebar-first column sidebar"><div class="section">
+<div id="block-views-quotes-block_2" class="block block-views first region-odd odd region-count-1 count-1">
+<div class="content">
+<div class="views_view view view-quotes view-id-quotes view-display-id-block_2 view-dom-id-1">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field-field-quoted-text-value">
+<div class="field-content"><p>âCatholic Answers is a lifeline to orthodox teaching and has informed me of my Catholic faith better than any instruction I received in all my years as a life-long Catholic.â</p></div>
+</div>
+<div class="views-field-field-quoted-source-value">
+<span class="field-content">~ Martha, Isleton, CA</span>
+</div>
+</div>
+</div>
+</div> 
+</div>
+</div> 
+<div id="block-block-16" class="block block-block last region-even even region-count-2 count-2">
+<div class="content">
+<div style="width:80px;height:40px;background-color:transparent;">Â </div>
+</div>
+</div> 
+</div></div> 
+<div id="content" class="column"><div class="section">
+<h1 class="title ">Cracking The Da Vinci Code</h1>
+<hr class="light-blue"/>
+ 
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+<div id="fb-root" style="margin:0;padding:0;"></div><script src="http://connect.facebook.net/en_US/all.js#appId=169517129790688&amp;xfbml=1"></script><fb:like style="float:left;margin:-15px 0 5px 0;padding:0;" href="http://www.catholic.com/documents/cracking-the-da-vinci-code" send="false" width="350" show_faces="true" font=""></fb:like>
+ 
+<div class="addthis_toolbox addthis_default_style " style="width:124px;float:right;margin-top:-14px;">
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_preferred_4"></a>
+<a class="addthis_button_compact"></a>
+</div>
+<script type="text/javascript">
+										var addthis_config = {"data_track_addressbar":false};
+										addthis_config.services_exclude = 'facebook';
+									</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5022efe81bb41791"></script>
+ 
+<div style="clear:both;"></div>
+<div id="content-area">
+<div id="node-5881" class="node node-type-document build-mode-full clearfix">
+<div class="content">
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;"><em>Copyright Â© 2004 Catholic Answers, Inc. All rights reserved. Except for quotations, no part of this report may be reproduced or transmitted in any form or by any other means, electronic or mechanical, including photocopying, recording, uploading to the Internet, or by any information storage and retrieval system, without written permission from Catholic Answers, Inc.</em></span></p>
+<p></p>
+<p class="headline3" style="font-size:16px;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;font-weight:bold;color:#333366;">1.Â <em>The Da Vinci Code</em>: Fact or Fiction?</p>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;"><br/></span></p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What isÂ <em>The Da Vinci Code</em>?</strong></p>
+<p><em>The Da Vinci Code</em>Â is a novel. Its publisher, Doubleday, released it with much fanfare in March 2003 and heavily promoted it. As a result, it debuted at #1 on the New York Times bestseller list and has remained on it since, selling millions of copies. The publisher claims that it is "the bestselling adult novel of all time within a one-year period."</p>
+<p>So popular hasÂ <em>The Da Vinci Code</em>Â become that it has created a marketing boom for books related to the novel, and it has become the subject of a major motion picture scheduled to be released in 2005.</p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What isÂ <em>The Da Vinci Code</em>Â About?</strong></p>
+<p>It is a thriller story involving secret societies, conspiracies, the Catholic Church, and the fictional "truth" about Jesus Christ. Here is the author's own summary:</p>
+<blockquote><p>A renowned Harvard symbologist is summoned to the Louvre Museum to examine a series of cryptic symbols relating to Da Vinci's artwork. In decrypting the code, he uncovers the key to one of the greatest mysteries of all time . . . and he becomes a hunted man.<sup>1</sup></p></blockquote>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">During the course of the novel it is alleged that the Catholic Church is perpetuating a major, centuries-long conspiracy to hide the "truth" about Jesus Christ from the public, and it or its agents are willing to stop at nothing, including murder, to do so.</span></p>
+<p></p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What does Leonardo da Vinci have to do with the story?</strong></p>
+<p>Da Vinci is portrayed as a former head of the conspiracy guarding the "truth" about Jesus Christ. In the novel he is said to have planted various codes and secret symbols in his work, particularly in his painting of the Last Supper. According to the novel, this painting depicts Jesus' alleged wife, Mary Magdalene, next to him as a symbol of her prominence in his true teaching. In reality, the figure that Dan Brown identifies as Mary Magdalene is John the Evangelist, who traditionally has been regarded as the youngest of the apostles and so is often pictured in medieval art without a beard.</p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>Why should a Catholic be concerned about the novel?</strong></p>
+<p>Although a work of fiction, the book claims to be meticulously researched, and it goes to great lengths to convey the impression that it is based on fact. It even has a "fact" page at the front of the book underscoring the claim of factuality for particular ideas within the book. As a result, many readers-both Catholic and non-Catholic-are taking the book's ideas seriously.</p>
+<p>The problem is that many of the ideas that the book promotes are anything but fact, and they go directly to the heart of the Catholic faith. For example, the book promotes these ideas:</p>
+<ul>
+<li>Jesus is not God; he was only a man.</li>
+<li>Jesus was married to Mary Magdalene.</li>
+<li>She is to be worshiped as a goddess.</li>
+<li>Jesus got her pregnant, and the two had a daughter.</li>
+<li>That daughter gave rise to a prominent family line that is still present in Europe today.</li>
+<li>The Bible was put together by a pagan Roman emperor.</li>
+<li>Jesus was viewed as a man and not as God until the fourth century, when he was deified by the emperor Constantine.</li>
+<li>The Gospels have been edited to support the claims of later Christians.</li>
+<li>In the original Gospels, Mary Magdalene rather than Peter was directed to establish the Church.</li>
+<li>There is a secret society known as the Priory of Sion that still worships Mary Magdalene as a goddess and is trying to keep the truth alive.</li>
+<li>The Catholic Church is aware of all this and has been fighting for centuries to keep it suppressed. It often has committed murder to do so.</li>
+<li>The Catholic Church is willing to and often has assassinated the descendents of Christ to keep his bloodline from growing.</li>
+</ul>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">Catholics should be concerned about the book because it not only misrepresents their Church as a murderous institution but also implies that the Christian faith itself is utterly false.</span></p>
+<p></p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>Should other Christians be concerned about the book?</strong></p>
+<p>Definitely. Only some of the offensive claims ofÂ <em>The Da Vinci Code</em>Â pertain directly to the Catholic Church. The remainder strike at the Christian faith itself. If the book's claims were true, then all forms of Christianity would be false (except perhaps for Gnostic/feminist versions focusing on Mary Magdalene instead of Jesus).</p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>Who is the author of the book?</strong></p>
+<p>The author is Dan Brown. He is a former English teacher who has authored three previous books. The first two,Â <em>Digital Fortress</em>Â andÂ <em>Deception Point</em>, were techno-thrillers. With his third novel,Â <em>Angels &amp; Demons</em>, he turned to writing thrillers involving religion and the Vatican.Â <em>The Da Vinci Code</em>Â continues in that vein, and it was popular enough to revive sales of the previous books (which had lackluster performance) and pull them onto the bestseller list.</p>
+<p>Brown plans to useÂ <em>The Da Vinci Code</em>Â as the springboard for a new series of similar books using its hero, Robert Langdon, and which will be "set in Paris, London, and Washington D.C."<sup>2</sup>Â In the next novel, slated for release in summer 2005, "Langdon will find himself embroiled in a mystery on U.S. soil. This new novel explores the hidden history of our nation's capital."<sup>3</sup></p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What is the author's religious background?</strong></p>
+<p>He claims to be a Christian-of a sort. A "Frequently Asked Questions" page on his web site contains the following exchange:</p>
+<blockquote><p>ARE YOU A CHRISTIAN?<br/>I am, although perhaps not in the most traditional sense of the word. If you ask three people what it means to be Christian, you will get three different answers. Some feel being baptized is sufficient. Others feel you must accept the Bible as immutable historical fact. Still others require a belief that all those who do not accept Christ as their personal savior are doomed to hell. Faith is a continuum, and we each fall on that line where we may. By attempting to rigidly classify ethereal concepts like faith, we end up debating semantics to the point where we entirely miss the obvious-that is, that we are all trying to decipher life's big mysteries, and we're each following our own paths of enlightenment. I consider myself a student of many religions. The more I learn, the more questions I have. For me, the spiritual quest will be a life-long work in progress.<sup>4</sup></p></blockquote>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What is a "symbologist"?</strong></p>
+<p>According toÂ <em>Webster's Dictionary</em>, a symbologist is "one who practices, or who is versed in, symbology," the latter being defined as "the art of expressing by symbols." Needless to say, this is not a common term. Brown uses the term not just to refer to a person who has studied symbolism but as the name of a pseudo-academic discipline. In fact, Harvard University has no department of symbology, and thus the idea of making the hero of the novel "a renowned Harvard symbologist" is simply fanciful.</p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What claims does the book make about the research that was done for it?</strong></p>
+<p>On the acknowledgements page of the novel, Brown issues extensive thanks designed to convey the impression that he has done thorough research:</p>
+<blockquote><p>For their generous assistance in the research of this book, I would like to acknowledge the Louvre Museum, the French Ministry of Culture, Project Gutenberg, BibliothÃ¨que Nationale, the Gnostic Society Library, the Department of Paintings Study and Documentation Service at the Lourvre, Catholic World News, Royal Observatory Greenwich, London Record Society, the Muniment Collection at Westminster Abbey, John Pike and the Federation of American Scientists, and the five members of Opus Dei (three active, two former) who recounted their stories, both positive and negative, regarding their experiences inside Opus Dei.</p></blockquote>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">He also thanks a bookstore for "tracking down so many of my research books" as well as a long list of specific individuals.</span></p>
+<p>It is not clear how many of these acknowledgements represent Brown padding the list to make it sound more impressive and enhance his credibility. For example, Project Gutenberg is an online library of public domain texts, and Brown's "acknowledgement" may signify no more than that he looked at a text on one of the Project Gutenberg web sites. The same may well be true of others included in the list. The acknowledgements of museums, libraries, and similar institutions may mean no more than that he used their facilities and that they did nothing special to assist his research.</p>
+<p>This, in fact, appears to be the case regarding his acknowledgement of Catholic World News. When contacted by Catholic Answers, the editor of Catholic World News, Phil Lawler, stated:</p>
+<blockquote><p>We were surprised and bemused to learn that Catholic World News had been listed in the acknowledgments of this book.</p>
+<p>We cannot recall any contact whatsoever with Dan Brown. He is not listed among our past or present subscribers.</p>
+<p>Since many of our stories are free and available to anyone who visits our web site, it is possible that he received some information from Catholic World News-just as anyone can receive information from any public news service. Certainly we never did any research for him or answered any questions from him.</p></blockquote>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What are the major sources inspiring the book?</strong></p>
+<p>The author's web page (<a href="http://www.danbrown.com" title="www.danbrown.com">www.danbrown.com</a>) lists a partial bibliography for the book, including titles such as:</p>
+<ul>
+<li><em>Holy Blood, Holy Grail</em>Â by Michael Baigent, Richard Leigh, and Henry Lincoln</li>
+<li><em>The Messianic Legacy</em>Â by Michael Baigent, Richard Leigh, and Henry Lincoln</li>
+<li><em>The Dead Sea Scrolls Deception</em>Â by Michael Baigent and Richard Leigh</li>
+<li><em>The Goddess in the Gospels: Reclaiming the Sacred Feminine</em>Â by Margaret Starbird</li>
+<li><em>The Woman with the Alabaster Jar: Mary Magdalene and the Holy Grail</em>Â by Margaret Starbird</li>
+<li><em>The Templar Revelation: Secret Guardians of the True Identity of Christ</em>Â by Lynn Picknett and Clive Prince</li>
+<li><em>Jesus and the Lost Goddess: The Secret Teachings of the Original Christians</em>Â by Timothy Freke and Peter Gandy</li>
+<li><em>When God Was a Woman</em>Â by Merlin Stone</li>
+<li><em>The Chalice and the Blade: Our History, Our Future</em>Â by Riane Eisler</li>
+</ul>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">These titles represent works of New Age speculation that run counter to established history, focus on alleged secret societies and conspiracy theories, attempt to reinterpret the Christian faith, and are imbued with radical feminist agendas. Historians and religious scholars do not take these works seriously.</span></p>
+<p>The author ofÂ <em>The Da Vinci Code</em>Â does take them seriously. As the list reveals, he is particularly dependent on the works by Margaret Starbird and the trio of authors Michael Baigent, Richard Leigh, and Henry Lincoln. An additional, particularly important source for Brown is the bookÂ <em>The Templar Revelation</em>.</p>
+<p></p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>Who is Margaret Starbird?</strong></p>
+<p>Her web site describes her as a "Roman Catholic scholar" whose researchers alerted her to "an underground stream of esoteric devotees of the 'sacred feminine' incarnate in Mary Magdalene." Afterwards, while still purporting to be Catholic, she began publishing books extolling "the 'Sacred Union' of Jesus and Mary Magdalene." According to her web site:</p>
+<ul>
+<li>"Starbird's research traces the origin and extent of the heresy of the Holy Grail, whose medieval adherents believed that Jesus was married and that his wife and child emigrated to Gaul, fleeing persecutions of the infant Christian community in Jerusalem."</li>
+<li>"Starbird's new book explodes the myth of the celibate Jesus, revealing truths encoded in symbolic numbers in the Gospels themselves by the authors of the Greek New Testament. This book demonstrates unequivocally that the 'Sacred Union' of Jesus and his Lost Bride was the true cornerstone of early Christianity."</li>
+<li>"Starbird's latest book explains how the painful situation in the Roman Catholic priesthood has roots in systematic denial of the 'Bride' as partner and in the insistence on a celibate Jesus, encouraging worship of the ascendant masculine principle stripped of its feminine partner."</li>
+<li>"Early Christianity was fundamentally egalitarian but later influences conspired to curtail the role of women in the Church. This text seeks to reclaim the gender-balanced Christianity implicit in the Gospels."</li>
+<li>"Her inevitable conclusion is that 'sacred union' was originally at the very heart of the Christian Gospels.<sup>5</sup></li>
+</ul>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>Who are Baigent, Leigh, and Lincoln?</strong></p>
+<p>They are the authors of the bookÂ <em>Holy Blood, Holy Grail</em>, which in 1982 popularized in the English-speaking world the idea that Jesus was married to Mary Magdalene and that his bloodline survives in Europe today under the protectorship of an organization known as theÂ <em>Prieure d'Sion</em>Â ("the Priory of Sion" inÂ <em>The Da Vinci Code</em>). Authors Carl Olson and Sandra Miesel note:</p>
+<blockquote><p>So fundamental is this book toÂ <em>The Da Vinci Code</em>Â that Dan Brown borrowed two of the authors' names for his character Leigh Teabing (whose surname is an anagram of Baigent). Both Baigent and Lincoln are Masonic historians while Leigh is a fiction writer.Â .Â .Â .</p>
+<p>Brown borrows theÂ <em>Holy Blood, Holy Grail</em>Â theses with both hands. His fictional Priory likewise guards the "Grail Secret" of the Holy Blood-with documents to prove it-as well as the precious bones of the Magdalen.<sup>6</sup></p></blockquote>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">After the success ofÂ <em>Holy Blood, Holy Grail</em>, the trio went on to author the book Messianic Legacy, which continued the themes of their prior work but with modifications. Subsequently the authors have produced a number of other books related toÂ <em>The Da Vinci Code</em>Â and its themes.</span></p>
+<p></p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What isÂ <em>The Templar Revelation</em>?</strong></p>
+<p>This is yet another iconoclastic New Age book. In the words of one reviewer, L. D. Meagher, the book attempts to convince you that:</p>
+<blockquote><p>Everything you know about Christianity is wrong. The Nativity is a myth, the ministry of Jesus has been misrepresented, and the Crucifixion may have been a publicity stunt that went awry. The truth has been purposely suppressed for two millennia by men who were bent on promoting their own agenda, beginning with early church leaders including the apostles Peter and Paul. Who says so? The same people who claim the Shroud of Turin is a photograph of Leonardo da Vinci.<sup>7</sup></p></blockquote>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">That is correct. In their prior book,Â <em>Turin Shroud: In Whose Image?</em>, Lynn Picknett and Clive Prince maintain that the Shroud of Turin is a fake made with a primitive photographic process developed by Leonardo da Vinci and used to record his own image on cloth. Now they're back with a new book that picks up where their prior one left off:</span></p>
+<blockquote><p>Their research into the shroud convinced them that Leonardo was a leading member of a mysterious society called the Priory of Sion. They believe the Priory arose in the Middle Ages alongside another secret order, the Knights Templar. Unlike the Templars, however, Picknett and Prince claim the Priory of Sion is alive and well and carefully manipulating events today.<sup>8</sup></p></blockquote>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">As one might suspect, the work is far from scholarly. Meagher characterizes the authors' way of evaluating evidence as follows:</span></p>
+<blockquote><p>That which seems to have neither merit nor meaning must be both true and vitally important. Armed with this upside-down viewpoint, Picknett and Price plunge into an investigation of the shadow world of heresy and occultism.Â .Â .Â .</p>
+<p>Nothing inÂ <em>The Templar Revelation</em>Â rises to anything like the level of "definite proof." Instead, its conclusions are based on the flimsiest of premises, which are supported by the slimmest of indirect and circumstantial evidence or, just as often, by the assertion that the lack of evidence justifies their conclusions.</p>
+<p>In the end, Picknett and Prince propose that a murky conspiracy has been at work for nearly 2,000 years. Two conspiracies in fact: one, involving all denominations of the Christian faith and spearheaded by the Vatican, suppresses the truth while the other, stage-managed by the Priory of Sion, hides it.<sup>9</sup></p></blockquote>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">It is uponÂ <em>The Templar Revelation</em>Â that Dan Brown, author ofÂ <em>The Da Vinci Code</em>, is largely dependent for his claims regarding Leonardo da Vinci.</span></p>
+<p></p>
+<p class="headline3" style="font-size:16px;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;font-weight:bold;color:#333366;">2. WhatÂ <em>The Da Vinci Code</em>Â Claims</p>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;"><br/></span></p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What specific claims does the book make on its "fact" page?</strong></p>
+<p>The "fact" page asserts factuality for certain claims regarding the Priory of Sion, Opus Dei (a major focus of the book), and the descriptions found in the book of art, architecture, and rituals.</p>
+<p>Although the "fact" page presents the book's most overt claims to accuracy, the novel itself implies that much more is factual than what is stated on this page. The book is written in a way that suggests that its claims regarding the Priory of Sion, the Catholic Church, and Christ are to be taken seriously. The author's own remarks outside of the book suggest the same. On his personal web page, he speaks of the historical "secret" he reveals inÂ <em>The Da Vinci Code</em>Â and states:</p>
+<blockquote><p>The secret I reveal is one that has been whispered for centuries. It is not my own. Admittedly, this may be the first time the secret has been unveiled within the format of a popular thriller, but the information is anything but new.<sup>10</sup></p></blockquote>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What does the book claim regarding the Priory of Sion?</strong></p>
+<p>According to the "fact" page, the Priory of Sion-a European secret society founded in 1099-is a real organization. In 1975, Paris'sÂ <em>BibliothÃ¨que Nationale</em>Â discovered parchments known asÂ <em>Les Dossiers Secretes</em>, identifying numerous members of the Priory of Sion, including Sir Isaac Newton, Botticelli, Victor Hugo, and Leonardo da Vinci.</p>
+<p>The novel goes on to depict the Priory of Sion as a secret society defending the bloodline of Jesus Christ and Mary Magdalene. Because it allegedly holds the secret of this bloodline, it is persecuted by the Catholic Church. The organization also is devoted to worshiping "the sacred feminine" and holds orgies as a form of ritual worship.</p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What wereÂ <em>Les Dossiers Secretes</em>?</strong></p>
+<p>They are a group of documents found in theÂ <em>BibliothÃ¨que Nationale</em>Â that ostensibly established the historical pedigree of the Priory of Sion secret society. The documents were popularized in the 1970s and formed the basis of the booksÂ <em>Holy Blood, Holy Grail</em>,Â <em>The Messianic Legacy</em>, and, later,Â <em>The Da Vinci Code</em>. The documents were created by a group headed by a convicted confidence trickster named Pierre Plantard.</p>
+<p>ThoughÂ <em>The Da Vinci Code</em>Â continues to regard the documents as authentic, many other writers of esoteric "history" have acknowledged that they are fakes. Even the authors ofÂ <em>Holy Blood, Holy Grail</em>Â andÂ <em>The Messianic Legacy</em>Â later came to question them. Authors Carl Olson and Sandra Miesel note:</p>
+<blockquote><p><em>The Messianic Legacy</em>Â recounts much hugger-mugger about missing documentation and forged signatures until Baigent and company begin to doubt Plantard's candor. Well they should have, because the dossiers give every appearance of having been "salted" into the library with pseudonymous by-lines and falsified publication dates. The process somewhat resembles recent cases of people inserting spurious information about works of art into existing library catalogues to create a false pedigree for their merchandise.</p>
+<p>Dan Brown's other major source of esoteric ideas,Â <em>The Templar Revelation</em>, dismisses the dossiers as fabrications.<sup>11</sup></p></blockquote>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What is the real story on the Priory of Sion?</strong></p>
+<p>The Priory of Sion was a club founded in 1956 by four young Frenchmen. Two of its members were AndrÃ© Bonhomme (who was president of the club when it was founded) and Pierre Plantard (who previously had been sentenced to six months in prison for fraud and embezzlement).</p>
+<p>The group's name is based on a local mountain in France (Col du Mont Sion), not Mount Zion in Jerusalem. It has no connection with the Crusaders, the Templars, or previous movements incorporating "Sion" into their names.</p>
+<p>The organization broke up after a short time, but in later years Pierre Plantard revived it, claimed he was the "grand master" or leader of the organization, and began making outrageous claims regarding its antiquity, prior membership, and true purposes. It was he who claimed that the organization stemmed from the Crusades, he (in conjunction with later associates) who composed and saltedÂ <em>Les Dossiers Secretes</em>Â in theÂ <em>BibliothÃ¨que Nationale</em>, and he who created the story that the organization was guarding a secret royal bloodline that could one day return to political power.</p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What evidence is there that this is the history of the Priory?</strong></p>
+<p>After Plantard's claims regarding the Priory came to public attention, his former associates contradicted him. In a 1996 statement made to the BBC by the Priory of Sion's original president, AndrÃ© Bonhomme stated:</p>
+<blockquote><p>The Priory of Sion doesn't exist anymore. We were never involved in any activities of a political nature. It was four friends who came together to have fun. We called ourselves the Priory of Sion because there was a mountain by the same name close-by. I haven't seen Pierre Plantard in over twenty years and I don't know what he's up to but he always had a great imagination. I don't know why people try to make such a big thing out of nothing.<sup>12</sup></p></blockquote>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">The BBC itself concluded:</span></p>
+<blockquote><p>There's no evidence for a Priory of Sion until the 1950s; to find it, you go to the little town of St. Julien. Under French law every new club or association must register itself with the authorities, and that's why there's a dossier here showing that a Priory of Sion filed the proper forms in 1956. According to a founding member, this eccentric association took its name not from Jerusalem but from a nearby mountain (<em>Col du Mont Sion</em>, alt. 786 m). The dossier also notes that the Priory's self-styled grand master, Pierre Plantard, who is central to this story, has done time in jail.<sup>13</sup></p></blockquote>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">For an extensive chronology of the events surrounding Pierre Plantard, the Priory of Sion, and its eventual demise, see the online materials assembled by researcher Paul Smith at:<br/><a style="text-decoration:underline;color:#003388;" href="http://www.priory-of-sion.com/" target="_blank">www.priory-of-sion.com</a></span></p>
+<p></p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What evidence is there that Pierre Plantard was a confidence trickster?</strong></p>
+<p>Paul Smith notes:</p>
+<blockquote><p>Pierre Plantard was sentenced on December 17, 1953, by the court of St. Julien-en-Genevois to six months in prison for breaking the French law relating to "<em>Abus de Confiance</em>" (fraud and embezzlement).</p>
+<p>The evidence for this is found in a letter written by the Mayor of Annemasse in 1956 to the sub-prefect of St. Julien-en-Genevois, which can be found in the file that contains the 1956 statutes of the Priory of Sion and the 1956 registration documents of the Priory of Sion:<br/>
+<blockquote>In our archives we have a note from the I.N.S.S.E dated 15 December 1954 advising us that Monsieur Pierre Plantard was sentenced on 17 December 1953 by the court in St. Julien-en-Genevois to six months imprisonment for a 'breach of trust' under articles 406 and 408 of the Penal Code.<sup>14</sup></blockquote></p></blockquote>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">In the 1980s, Plantard asserted that he had spent a number of years in retirement from the Priory of Sion, during which time a man named Roger-Patrice Pelat had served as its grand master. Following the death of Pelat, Plantard claimed to have regained his position as Priory grand master.</span></p>
+<p>Pelat, however, had been involved in a corruption scandal, and Plantard eventually became involved in the investigation of this scandal by the French courts. Paul Smith notes:</p>
+<blockquote><p>When Judge Thierry Jean-Pierre became the presiding French judge heading the enquiry into the Patrice Pelat financial corruption scandal of the 1980s, Plantard voluntarily came forward during the 1990s offering evidence to the enquiry, claiming that Pelat had been a "Grand Master of the Priory of Sion." The judge ordered a search of Plantard's house, which uncovered a hoard of Priory of Sion documents, claiming Plantard to be the "true King of France." The judge subsequently detained Plantard for a forty-eight hour interview and, after asking Plantard to swear on oath, Plantard admitted that he made everything up; whereupon Plantard was given a serious warning and advised not to "play games" with the French judicial system. This happened in September 1993, and it was all reported in the French press of the period. This was the reason for the final termination of the Priory of Sion in 1993.<sup>15</sup></p></blockquote>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">Pierre Plantard died in 2002.</span></p>
+<p></p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>How does the Priory of Sion presented inÂ <em>The Da Vinci Code</em>Â compare with the Priory of Sion co-founded by Plantard?</strong></p>
+<p>Olson and Miesel note that, in order to suit his own agenda of promoting worship of "the Sacred Feminine," Brown adapted the Priory of Sion as presented inÂ <em>Holy Blood, Holy Grail</em>Â and similar works:</p>
+<blockquote><p>Spurious documents, interviews, and admiring books [concerning the actual Priory] multiplied. Lists of famous grand masters were produced. Goddess-worship, however, was not part of the agenda, unlike Brown's version of the Priory. In 1975, Plantard began calling himself "Plantard de St. Clair" to pretend a connection with a noble Scottish family involved with Freemasonry who'd built the strange Chapel of Rosslyn near Edinburgh. (This is whyÂ <em>The Da Vinci Code</em>Â claims the blood of Christ survived most directly in the Plantard and St. Clair families [260, 442].)<sup>16</sup></p></blockquote>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">DespiteÂ <em>The Da Vinci Code's</em>Â indirect acknowledgement of Plantard, the secret society at the core of the book remains a product of the fevered imagination of a convicted con man. Olson and Miesel conclude:</span></p>
+<blockquote><p>Although the false history of the Priory has been repeatedly exposed in France and on the BBC in 1996, not to mention tireless debunking by researcher Paul Smith since at least 1985, Dan Brown wants his readers to think it's real and that its preposterous claims are genuine. The commercial need to feed the public's taste for conspiracy clearly is trumping truth.<sup>17</sup></p></blockquote>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What doesÂ <em>The Da Vinci Code</em>Â claim regarding Opus Dei?</strong></p>
+<p>According to the "fact" page:</p>
+<blockquote><p>The Vatican prelature known as Opus Dei is a deeply devout Catholic sect that has been the topic of recent controversy due to reports of brainwashing, coercion, and a dangerous practice known as "corporal mortification." Opus Dei has just completed construction of a $47 million National Headquarters at 243 Lexington Avenue in New York City.</p></blockquote>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">The novel goes on to describe Opus Dei as "a Catholic Church" and portrays it as an order of monks with members serving as assassins, one of whom (a "hulking albino" named Silas) is a key character in the book.</span></p>
+<p></p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What is the history of the real-world Opus Dei?</strong></p>
+<p>According to Opus Dei's U.S. communications director, Brian Finnerty:</p>
+<blockquote><p>The real Opus Dei was founded in Spain in 1928 by a Catholic priest, St. JosemarÃ­a EscrivÃ¡, with the purpose of promoting lay holiness. It began to grow with the support of the local bishops there and was approved as a secular institute of pontifical right by the Holy See in 1950. Opus Dei's work has been blessed and encouraged by Popes John XXIII, Paul VI, John Paul I, and John Paul II. In 1982, John Paul II established it as a personal prelature of the Catholic Church after careful study of its role in the Church's mission. The culmination of the Church's support for Opus Dei and its message came with the 2002 canonization of its founder. Pope John Paul has called Opus Dei's founder "the saint of ordinary life."<sup>18</sup></p></blockquote>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>How does the real-world Opus Dei compare to the one inÂ <em>The Da Vinci Code</em>?</strong></p>
+<p>There is a large number of inaccuracies in the picture of Opus Dei painted by the novel. Some of the most significant are catalogued and critiqued by Finnerty:</p>
+<ul>
+<li>The author evinces a remarkable lack of understanding of the structure of the Catholic Church and its various component institutions. Besides his mischaracterization of Opus Dei as "a sect," he variously calls it "a Catholic Church," a "congregation," a "personal Prelature of the Pope himself," and a "Personal Prelature of Vatican City."</li>
+<li>Calling Opus Dei "a Catholic Church" makes no sense. Opus Dei provides supplemental spiritual formation rather than ordinary diocesan functions, except in a few isolated cases in which the Pope or a bishop has asked Opus Dei to take care of some task. Moreover, it is intrinsic to the concept "catholic" that there can be only one Catholic Church, the Catholic Church, and Opus Dei is a fully integrated part of it.</li>
+<li><em>Congregation</em>Â is also a term that cannot be applied to Opus Dei, since it refers to religious. The veryÂ <em>raison d'etre</em>Â of Opus Dei is to provide a way of holiness for people who are not called to life in a religious order. For the same reason, the depiction of the Opus Dei villain as a monk in robes and Opus Dei's centers as cloistered residence halls where people withdraw from the world to live a life of prayer is the exact opposite of reality.</li>
+<li>The various permutations of "personal prelature" the author uses to describe Opus Dei are redolent of something like the papal equivalent of a personal army, i.e., an extra-legal operation not subject to the rest of the Church's established authorities. "Personal" does not mean that Opus Dei belongs personally to the Pope or Vatican officials but refers to the fact that the prelature's jurisdiction applies to persons rather than a particular territory.</li>
+<li>Opus Dei places special emphasis on helping lay people seek holiness in their daily lives. It has no monks, nor any members anything like the novel's creepy albino character named Silas.</li>
+<li>The author's descriptions of Opus Dei's "practices," as represented by Silas's bloody purging rituals, are at best grossly distorted and at worst fabrications. He has taken pious accounts of the penances of some of the Church's great saints, including St. JosemarÃ­a EscrivÃ¡, and transformed them into a monstrous horror show.</li>
+<li>Likewise, teaching the faith, giving spiritual guidance, and being a Christian witness ("brainwashing," "coercion," or "recruiting," for the author) are fundamental.aspects of the Christian faith, not just Opus Dei practices.</li>
+<li>The idea that Opus Dei entered a corrupt bargain with Pope John Paul II-bailing out the Vatican Bank in exchange for status as a personal prelature-is offensive and has no basis in reality.<sup>19</sup></li>
+</ul>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>Has Opus Dei responded to the publisher ofÂ <em>The Da Vinci Code</em>Â regarding its misrepresentation in the book?</strong></p>
+<p>It has. When contacted by Catholic Answers, Finnerty, Opus Dei's U.S. communications director, explained that the organization sent a letter of protest to the publisher:</p>
+<blockquote><p>Shortly before the publication ofÂ <em>The Da Vinci Code</em>, we sent a letter to Doubleday pointing out some of the numerous misrepresentations in the novel and explaining that the "portrayal of Opus Dei in the book is false and inaccurate in almost every way."</p>
+<p>The letter explained what the real Opus Dei is all about: "The basic activity of the prelature of Opus Dei is giving spiritual guidance to help them live the Gospel in their daily lives. This past October [2002], Pope John Paul II canonized Opus Dei's founder, St. Josemaria Escriva, before several hundred thousand people, just a fraction of those who have benefited from Opus Dei's spiritual formation."</p></blockquote>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">Whether the organization will take legal action against the publisher remains to be seen.</span></p>
+<p></p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What doesÂ <em>The Da Vinci Code</em>Â claim regarding the origin of the Bible?</strong></p>
+<p>The book states: "The Bible is a product of man, my dear. Not of God. . . . The Bible, as we know it today, was collated by the pagan Roman emperor Constantine the Great" (231).</p>
+<p>This is false. The process by which the Bible formed was one that took time; it was not collated at any one time. Nor did Constantine have anything to do with the process, either before or after he converted to Christianity.</p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What evidence is there that the Bible formed independently of Constantine?</strong></p>
+<p>The Old Testament canon had been forming for centuries. Jesus and the apostles already recognized the authority of the Old Testament writings that existed in their time, as illustrated by the following verses:</p>
+<ul>
+<li>"And beginning with Moses and all the prophets, he interpreted to them in all the scriptures the things concerning himself" (Luke 24:27).</li>
+<li>"You search the scriptures, because you think that in them you have eternal life; and it is they that bear witness to me" (John 5:39).</li>
+<li>"And Paul went in, as was his custom, and for three weeks he argued with them from the scriptures, explaining and proving that it was necessary for the Christ to suffer and to rise from the dead" (Acts 17:2-3).</li>
+<li>"From infancy you have known the holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus" (2 Tim. 3:15, NIV).</li>
+</ul>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">In the first century the apostles and their associates wrote the books of the New Testament, which were passed down to succeeding generations of Christians and read in the churches. In the second and third centuries, Gnostic heretics began to manufacture writings that falsely claimed to be from the apostles, but since they had not been passed down in the churches from the beginning, they were rejected. In response to these new, false writings the churches drew up lists of the authentic books that had been handed down from the apostles. A famous list of the sacred writings from the mid-second century is known as the Muratorian Canon.</span></p>
+<p>The process by which the canon of Scripture was formed was largely complete by the time of Constantine (the early fourth century), and he made no contribution to it. There were a few Old Testament books (known today as the deuterocanonical books or "apocrypha") that continued to be discussed after Constantine's time, into the late fourth century-further illustrating that he did not collate the Bible. No Bible scholar holds that Constantine played such a role in the development of Scripture. Dan Brown is simply wrong.</p>
+<p>To view some of the early lists of the books of the Bible, see "The Old Testament Canon" at:<br/><a style="text-decoration:underline;color:#003388;" href="http://www.catholic.com/library/Old_Testament_Canon.asp">www.catholic.com/library/Old_Testament_Canon.asp</a></p>
+<p></p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What doesÂ <em>The Da Vinci Code</em>Â claim regarding the early Church's recognition of Christ's divinity?</strong></p>
+<p>Referring to the First Council of Nicaea, which took place in A.D. 325,Â <em>The Da Vinci Code</em>Â states:</p>
+<blockquote><p>Until that moment in history, Jesus was viewed by His followers as a mortal prophet . . . a great and powerful man, but a man nonetheless. A mortal. . . . By officially endorsing Jesus as the Son of God, Constantine turned Jesus into a deity.<sup>20</sup></p></blockquote>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">It is true that Constantine, following his conversion to Christ, presided over the First Council of Nicaea, but it is not true that Constantine "turned Jesus into a deity" or that Christians had not viewed Jesus as God prior to this event.</span></p>
+<p>Constantine had called the Council together to settle a dispute that had arisen when a priest from Egypt named Arius began to deny that Jesus was God, causing a scandal by repudiating the faith of Christians everywhere. Arius gained a number of followers (known as Arians) and the controversy between the Arians and traditional Christians grew so sharp that the emperor called the Council to settle the matter. Personally, Constantine tended to support the position of the Arians, but he recognized the authority of the bishops in articulating the Christian faith, and the bishops of the Council reaffirmed the traditional Christian teaching that Jesus was fully divine. It was thus the bishops of the Council of Nicaea who reaffirmed the historic Christian position against Arius and his followers. Constantine recognized their authority to do so in spite of the fact he would have preferred a different outcome.</p>
+<p></p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What evidence is there that Christians regarded Christ as God before the Council of Nicaea?</strong></p>
+<p>Christ's divinity is stressed repeatedly in the New Testament. For example, we are told that Jesus' opponents sought to kill him because he "called God his Father, making himself equal with God" (John 5:18).</p>
+<p>When quizzed about how he has special knowledge of Abraham, Jesus replies, "Truly, truly, I say to you, before Abraham was, I am" (John 8:58), invoking and applying to himself the personal name of God-"I Am" (Ex. 3:14). His audience understood exactly what he was claiming about himself. "So they took up stones to throw at him; but Jesus hid himself, and went out of the temple" (John 8:59).</p>
+<p>In John 20:28, Thomas falls at Jesus' feet, exclaiming, "My Lord and my God!" And Paul tells us that Jesus chose to be born in humble, human form even though he could have remained in equal glory with the Father, for he was "in the form of God" (Phil. 2:6).</p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong><em>The Da Vinci Code</em>Â asserts that the canon of Scripture was altered at the order of Constantine to support his new doctrine<sup>21</sup>. How do you answer this?</strong></p>
+<p>Brown is asserting this in order to deny the evidence that exists against his position. He cannot back this claim up, for there is no evidence for it whatsoever. No Scripture scholar-Christian or non-Christian-supports this position. There is a number of reasons for this, some of which we will see below, but one reason is that the writings of the Church Fathers (and even non-Christian historians) before the time of Constantine show that Christians regarded Jesus as God.</p>
+<p>Consider the following quotations, all of which predate the Council of Nicaea:</p>
+<ul>
+<li>Ignatius of Antioch: "For our God, Jesus Christ, was conceived by Mary in accord with God's plan: of the seed of David, it is true, but also of the Holy Spirit" (<em>Letter to the Ephesians</em>Â 18:2 [A.D. 110]).</li>
+<li>Tatian the Syrian: "We are not playing the fool, you Greeks, nor do we talk nonsense, when we report that God was born in the form of a man" (<em>Address to the Greeks</em>Â 21 [A.D. 170]).</li>
+<li>Clement of Alexandria: "The Word, then, the Christ, is the cause both of our ancient beginning-for he was in God-and of our well-being. And now this same Word has appeared as man. He alone is both God and man, and the source of all our good things" (<em>Exhortation to the Greeks</em>Â 1:7:1 [A.D. 190]).</li>
+<li>Tertullian: "God alone is without sin. The only man who is without sin is Christ; for Christ is also God" (<em>The Soul</em>Â 41:3 [A.D. 210]).</li>
+<li>Origen: "Although he was God, he took flesh; and having been made man, he remained what he was: God" (<em>The Fundamental Doctrines</em>Â 1:0:4 [A.D. 225]).</li>
+</ul>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">For more quotations illustrating the same point, see:<br/><a style="text-decoration:underline;color:#003388;" href="http://www.catholic.com/library/Divinity_of_Christ.asp">www.catholic.com/library/Divinity_of_Christ.asp</a></span></p>
+<p></p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What doesÂ <em>The Da Vinci Code</em>Â claim regarding Jesus' relationship to Mary Magdalene?</strong></p>
+<p>The book claims that the two were married. In fact, it claims that Jesus got Mary Magdalene pregnant, and the two had a daughter. The book states:</p>
+<blockquote><p>Mary Magdalene was pregnant at the time of the crucifixion. For the safety of Christ's unborn child, she had no choice but to flee the Holy Land. . . . It was there in France that she gave birth to a daughter. Her name was Sarah.<sup>22</sup></p></blockquote>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">Later the book claims that this union gave rise to a bloodline that still exists in prominent European families (including one of the book's main characters, Sophie Neveu). It also claims that the Catholic Church knows about this and has covered it up for centuries, even resorting to murdering Christ's own descendants to protect the secret:</span></p>
+<blockquote><p>Behold . . . the greatest cover-up in human history. Not only was Jesus Christ married, but He was a father.Â .Â .Â .</p>
+<p>The early Church feared that if the lineage were permitted to grow, the secret of Jesus and Magdalene would eventually surface and challenge the fundamental Catholic doctrine-that of a divine Messiah who did not consort with women or engage in sexual union. . . . Many of the Vatican's Grail quests here were in fact stealth missions to erase members of the royal bloodline.<sup>23</sup></p></blockquote>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>How do you respond to these claims?</strong></p>
+<p>It is irresponsible and offensive for Brown to impugn the faith of countless Catholics in this fashion. He has no solid evidence to support these contentions, and in the absence of such evidence it is unacceptable to smear the faith of millions with these charges.</p>
+<p>A comparable smear would be saying that Lutherans have been murdering the descendants of Luther or that Jewish leaders have been murdering the descendants of Moses. If such charges were made, particularly with no evidence, they would be regarded instantly as vicious and bigoted slanders against what other people hold sacred.</p>
+<p>Claiming that Catholics have been killing the descendants of their God is a vile and unacceptable assault on their faith. People of all faiths should regard Dan Brown as the viciously bigoted man that it takes to make this kind of charge.</p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What is one to make ofÂ <em>The Da Vinci Code</em>'s specific claim that Jesus was married to Mary Magdalene?</strong></p>
+<p>It is impossible to take this claim seriously.</p>
+<p>The reason that Brown and a handful of others (chiefly New Age authors) have tried to identify Mary Magdalene as the wife of Jesus is obvious: She is one of the few women disciplines of Christ who is prominent, whose name we know, and whom we don't know was married to someone else. Other female disciples of Jesus are known to be married to others (e.g., Joanna the wife of Chuza [Luke 8:3]) or are too insignificant ("the other Mary" [Matt. 28:1]) or we don't know their names (the Syro-Phoenecian woman [Matt. 15:28]). If one wants to force Jesus into the role of being married, Mary Magdalene is one of the few prominent and (seemingly) available women to be pushed into the role of being his wife.</p>
+<p>Furthermore, there is nothing in the New Testament that states or implies that Jesus was married to Mary Magdalene. According to the New Testament, Mary of Magdala was a devout follower of Christ and one of the first witnesses of his Resurrection (cf. Matt. 28:1), but not his wife. There is no evidence in the New Testament or the writings of the Church Fathers that she was married to Jesus.</p>
+<p>Jesus also said things that indicated that he wasn't married to anyone. He explained that some voluntarily refrain from marrying in order to be fully consecrated to God. He says that they "have made themselves eunuchs for the kingdom of heaven's sake" (Matt. 19:12). He portrays voluntary abstention from marriage as the highest form of consecration, and as the spiritual leader of the Christian movement, it would be strange for him to hold up such a standard if he himself did not meet it.</p>
+<p>Moreover, the early Church was unanimous in regarding Jesus as unmarried. This is not a later doctrine of the Church Fathers but something found in the New Testament itself. The authors of the New Testament regularly depict the Church as "the bride of Christ" (2 Cor. 11:2; Eph. 5:21-33; cf. Rev. 21:9-10). This metaphor would never have developed if a flesh-and-blood "Mrs. Jesus" was living just down the street. Only if Christ was celibate would the Church have come to be depicted metaphorically as his bride.</p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>What does Brown claim regarding Mary Magdalene's role in the early Church?</strong></p>
+<p>Brown asserts that in the original Gospels, Mary Magdalene rather than Peter was directed to establish the Church:</p>
+<blockquote><p>According to these unaltered gospels, it was not Peter to whom Christ gave directions with which to establish the Christian Church. It wasÂ <em>Mary Magdalene</em>.Â .Â .Â . Jesus was the original feminist.<sup>24</sup></p></blockquote>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;">Again, there is no basis for this claim. None of the early manuscripts of the Gospels nor any of the quotations of the Gospels in the writings of the early Church Fathers suggest that anything of the kind was said at any stage in the history of the Gospels. Brown's assertion that "Jesus was the original feminist" is simply pandering to modern secular sensibilities. It in no way represents the historical evidence that exists.</span></p>
+<p>Appealing to prior "unaltered" gospels that had not been doctored by Constantine or others in the early Church is fatuous. There is no evidence that Constantine ordered any copies of Scripture to be changed. If one wishes to claim that he did give such an order, one should be able to back it up with a citation from a contemporary source, but no such passage can be found. None of the surviving records of the period-or even the records of later centuries-record Constantine or any one else attempting to alter the texts of the existing canon to change this or any other doctrine. Brown simply has no evidence to back up his claim.</p>
+<p>If Constantine or any one else had tried to change Scripture, Christians would have refused. The Christian Church had just come through an age of persecution in which Christians had been burned at the stake for refusing to deny their Lord and the Scriptures he gave them. To allow those writings to be mutilated would be unthinkable, and any attempt to change them would have resulted in an enormous controversy that would be mentioned in the writings of the period.</p>
+<p>It would have been a practical impossibility to change Scripture, because thousands of copies were in existence all across the Mediterranean world, from Europe to North Africa. There was no central registry of who had copies of the Bible, so there was no way to track them down and edit them. There were simply too many copies floating in circulation.</p>
+<p>But even if all of the copies then known to exist had been tracked down and altered, this would not have affected the copies of Scripture that by this time already had been lost. Many of the early manuscripts of Scripture that we now have were waiting, lost, in the desert until their discovery by modern archaeology. But when we look at these copies, they teach the same doctrines as later copies and show no evidence of having been censored.</p>
+<p>Moreover, the writings of the early Church Fathers from before the time of Constantine show the same teachings and quote the Gospels as saying the same things as in the canonical Gospels.</p>
+<p></p>
+<p class="headline3" style="font-size:16px;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;font-weight:bold;color:#333366;">3. Responding to Fans ofÂ <em>The Da Vinci Code</em></p>
+<p><span class="Apple-style-span" style="color:#000000;font-family:arial, helvetica, geneva, sans-serif;line-height:normal;background-color:#ffffff;"><br/></span></p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>How can I help others understand how offensiveÂ <em>The Da Vinci Code</em>Â is?</strong></p>
+<p>Point out the offensive claims made by the book, particularly the ones regarding Jesus and early Christianity. Point out that the claims are false-that Brown does not have the evidence to support them. The idea that Jesus had a wife is absurd. One of the major themes of the New Testament is that of the Church as the Bride of Christ. This theme would never have arisen in Christian circles if Jesus had a human wife. It was the fact that he was not married in the ordinary sense that led to the Church being described as his Bride. What Brown is doing amounts to smearing the most important and sacred beliefs of millions of people for the sake of getting his novel on the bestseller list.</p>
+<p>To help others understand how offensive these are, encourage fans of the novel to imagine parallel situations involving other religions or groups of people. For example, a major publisher would never produce a novel that portrayed the Jewish faith as perpetrating a murderous, centuries-long, global conspiracy. Such a book would be met immediately with outraged protests and the author and publishers publicly branded as religious bigots. By producing this novel smearing Christianity, Brown and Doubleday show that they have a double standard and harbor anti-Catholic, anti-Christian prejudice.</p>
+<p>There is even a fairly close parallel here: In spinning its conspiracy tale,Â <em>The Da Vinci Code</em>Â relies on information provided by documents that are established forgeries:Â <em>Les Dossiers Secretes</em>. Doubleday's release of the book is comparable to a major publisher releasing a novel based on anti-Jewish forgeries such asÂ <em>The Protocols of the Elders of Zion</em>. If the publisher would turn down an anti-Jewish conspiracy novel based on these documents, it should do the same withÂ <em>The Da Vinci Code</em>. The fact that it did not do so reveals a double standard and bigotry toward Christianity on its part.</p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>How can I respond to the charge thatÂ <em>The Da Vinci Code</em>Â is "just fiction"?</strong></p>
+<p>It isn't a defense to say thatÂ <em>The Da Vinci Code</em>Â is a work of fiction. Fiction can't change the basic facts about major historical figures without being subject to criticism. People would be outraged if Doubleday printed a novel portraying Adolph Hitler in a positive light. Christians have a right to be outraged when the basic historical facts about Christ are falsified. The criticism will be even more intense when a publisher releases a book parodying the most sacred beliefs of others in this fashion.</p>
+<p>Further, as we have seen in this special report, the book takes great pains to create the appearance of factuality, including placing the infamous "fact" page at the beginning of the novel. Brown has stressed the ostensible accuracy of the book on his web site and in interviews. This is not a case where an author and a publisher have produced an ordinary novel. They have gone to great lengths to mislead people into thinking that the novel has a historical basis. They deserve especially sharp criticism for this, and when criticism is made they cannot hypocritically hide behind the "It's just fiction" allegation after having made such extensive efforts to convince the reader that it isÂ <em>not</em>Â "just fiction."</p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>Where can I go for more information on the subjects treated inÂ <em>The Da Vinci Code</em>?</strong></p>
+<p>Several works respond toÂ <em>The Da Vinci Code</em>Â and the works on which it is based. Many of these are available on the Internet. Others take the form of recently published books and articles.</p>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>Books:</strong></p>
+<ul>
+<li>Catholic Answers particularly recommendsÂ <em>The Da Vinci Hoax: Exposing the Errors in The Da Vinci Code</em>Â by Carl Olson and Sandra Miesel.</li>
+<li>Also useful areÂ <em>De-Coding DaVinci: The Facts behind the Fiction of The Da Vinci Code</em>Â by Amy Welborn andÂ <em>Fact and Fiction in The Da Vinci Code</em>Â by Steven Kellmeyer.</li>
+<li>The preceding books are by Catholic authors, but Evangelical authors also have responded to Brown's novel. Though their books may contain swipes at Catholicism, they also contain useful information for refutingÂ <em>The Da Vinci Code</em>. Particularly noteworthy on the Evangelical side is the bookÂ <em>The Truth behind The Da Vinci Code: A Challenging Response to the Bestselling Novel</em>Â by Richard Abanes andÂ <em>Breaking The Da Vinci Code: Answers to the Questions Everybody's Asking</em>Â by Darrell Bock.</li>
+</ul>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>Articles:</strong></p>
+<ul>
+<li>Carl Olson has authored or participated in authoring several articles onÂ <em>The Da Vinci Code</em>. He maintains a list of online versions of these articles on his web site at <a href="http://www.carl-olson.com/abouttdvc.html" title="www.carl-olson.com/abouttdvc.html">www.carl-olson.com/abouttdvc.html</a>.</li>
+<li>Sandra Miesel has written articles as well, including "<em>Dismantling The Da Vinci Code</em>" (<a href="http://www.crisismagazine.com/september2003/feature1.htm" title="www.crisismagazine.com/september2003/feature1.htm">www.crisismagazine.com/september2003/feature1.htm</a>).</li>
+<li>For a noteworthy piece by Evangelical author Ben Witherington, see "<em>The Da Vinci Code</em>" (<em>Biblical Archaeology Review</em>, May/June 2004).</li>
+</ul>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>Internet Sites:</strong></p>
+<ul>
+<li>On the Priory of Sion:Â <a style="text-decoration:underline;color:#003388;" href="http://www.priory-of-sion.com/" target="_blank">www.priory-of-sion.com</a></li>
+<li>On the Knights Templar:Â <a style="text-decoration:underline;color:#003388;" href="http://www.newadvent.org/cathen/14493a.htm" target="_blank">www.newadvent.org/cathen/14493a.htm</a></li>
+<li>On Opus Dei:Â <a style="text-decoration:underline;color:#003388;" href="http://www.opusdei.org/" target="_blank">www.opusdei.org</a></li>
+<li>Dan Brown's home page:Â <a style="text-decoration:underline;color:#003388;" href="http://www.danbrown.com/" target="_blank">www.danbrown.com</a></li>
+</ul>
+<hr/>
+<p class="text" style="font-size:9pt;margin-top:0px;margin-bottom:0px;font-family:arial, helvetica, geneva, sans-serif;text-decoration:none;color:#000000;" align="left"><strong>Footnotes:</strong></p>
+<ol>
+<li><a href="http://www.danbrown.com/novels/davinci_code/faqs.html" title="www.danbrown.com/novels/davinci_code/faqs.html">www.danbrown.com/novels/davinci_code/faqs.html</a>.</li>
+<li><a href="http://www.danbrown.com/meet_dan/index.html" title="www.danbrown.com/meet_dan/index.html">www.danbrown.com/meet_dan/index.html</a>.</li>
+<li><a href="http://www.danbrown.com/meet_dan/faq.html" title="www.danbrown.com/meet_dan/faq.html">www.danbrown.com/meet_dan/faq.html</a>.</li>
+<li><a href="http://www.danbrown.com/novels/davinci_code/faqs.html" title="www.danbrown.com/novels/davinci_code/faqs.html">www.danbrown.com/novels/davinci_code/faqs.html</a>.</li>
+<li><a href="http://www.telisphere.com/~starbird" title="www.telisphere.com/~starbird">www.telisphere.com/~starbird</a>.</li>
+<li>Carl Olson and Sandra Miesel,Â <em>The Da Vinci Hoax</em>Â (San Francisco: Ignatius, 2004).</li>
+<li>L. D. Meagher, "Book Makes 'X-Files' Look Like 'Mr. Smith Goes to Washington'" (<a href="http://www.cnn.com/books/reviews/9902/19/templar" title="www.cnn.com/books/reviews/9902/19/templar">www.cnn.com/books/reviews/9902/19/templar</a>).</li>
+<li>Ibid.</li>
+<li>Ibid.</li>
+<li><a href="http://www.danbrown.com/novels/davinci_code/faqs.html" title="www.danbrown.com/novels/davinci_code/faqs.html">www.danbrown.com/novels/davinci_code/faqs.html</a>.</li>
+<li>Olson and Miesel,Â <em>The Da Vinci Hoax</em>.</li>
+<li>AndrÃ© Bonhomme, as quoted in Paul Smith, "The Real Historical Origin of the Priory of Sion" (<a href="http://priory-of-sion.com/psp/id43.html" target="_blank">http://priory-of-sion.com/psp/id43.html</a>).</li>
+<li>Ibid.</li>
+<li>Ibid.</li>
+<li>Paul Smith, "Pierre Plantard, Judge Thierry Jean-Pierre and the End of the Priory of Sion in 1993" (<a href="http://priory-of-sion.com/psp/id70.html" target="_blank">http://priory-of-sion.com/psp/id70.html</a>).</li>
+<li>Olson and Miesel,Â <em>The Da Vinci Hoax</em>.</li>
+<li>Ibid.</li>
+<li>Brian Finnerty,Â <em>Opus Dei in</em>Â The Da Vinci Code (unpublished manuscript).</li>
+<li>Ibid.</li>
+<li>Dan Brown,Â <em>The Da Vinci Code</em>Â (New York: Doubleday, 2003), 233.</li>
+<li>Ibid., 234.</li>
+<li>Ibid., 255.</li>
+<li>Ibid., 249, 257.</li>
+<li>Ibid., 248.</li>
+</ol>
+</div>
+</div> 
+</div>
+</div></div> 
+<div class="region region-sidebar-second column sidebar"><div class="section">
+<div id="block-apachesolr-mlt-001" class="block block-apachesolr first region-odd odd region-count-1 count-3">
+<h2 class="title">More like this</h2>
+<div class="content">
+<div class="item-list"><ul><li class="first"><a href="/quickquestions/why-all-the-fuss-about-the-da-vinci-code-considering-its-just-a-piece-of-fiction">Why all the fuss about The Da Vinci code, considering it&#039;s just a piece of fiction?</a></li>
+<li><a href="/magazine/articles/dan-brown-rushes-in-where-angels-and-demons-fear-to-tread">Dan Brown Rushes In Where Angels (and Demons) Fear to Tread </a></li>
+<li><a href="/magazine/articles/nicene-credence">Nicene Credence</a></li>
+<li><a href="/magazine/articles/was-jesus-married">Was Jesus Married?</a></li>
+<li class="last"><a href="/blog/jimmy-akin/have-they-discovered-a-new-lost-gospel-that-says-jesus-was-married">Have they discovered a new &quot;lost Gospel&quot; that says Jesus was married?</a></li>
+</ul></div> </div>
+</div> 
+<div id="block-block-11" class="block block-block region-even even region-count-2 count-4">
+<div class="content">
+<div><a href="http://www.catholic.com/focus"><img src="/sites/all/themes/ca_gray_theme/images/ads/focus-sub-page-ad.jpg" alt="Catholic Answers Focus"/></a></div><div style="margin-top: 8px;"><a href="http://www.franciscan.edu" target="_blank"><img src="/sites/all/themes/ca_gray_theme/images/ads/franciscanedu.gif" alt="Franciscan University"/></a></div><div style="margin-top: 8px;"><a href="http://shop.catholic.com/newsletter" target="_blank"><img src="/sites/all/themes/ca_gray_theme/images/ads/sales-newsletter-graphic-problemofevil-small.jpg" alt="Free MP3 Download"/></a></div>
+<div style="margin-top: 8px;"><a href="https://verbum.com/products/36325/catholic-answers-library?utm_source=catholic.com&utm_medium=banneradhome&utm_content=-neutral-lob_verbum&utm_campaign=partner-catholicanswers-lob_verbum" target="_blank"><img src="/sites/all/themes/ca_gray_theme/images/ads/Jimmy_Akin_150x150.png" alt="Verbum"/></a></div>
+<div style="margin-top: 8px;"><a href="http://www.catholic.com/donate" target="_blank"><img src="/sites/all/themes/ca_gray_theme/images/ads/donate.jpg" alt="Support Catholic Answers"/></a></div><div style="margin-top: 8px;"><a href="http://www.ignatius.com" target="_blank"><img src="/sites/all/themes/ca_gray_theme/images/ads/ignatius_press_banner.jpg" alt="Ignatius Press"/></a></div><div style="margin-top: 8px;"><a href="/about/advertise">Advertise with us</a></div> </div>
+</div> 
+<div id="block-views-quotes-block_1" class="block block-views region-odd odd region-count-3 count-5">
+<div class="content">
+<div class="views_view view view-quotes view-id-quotes view-display-id-block_1 view-dom-id-3">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field-field-quoted-text-value">
+<div class="field-content"><p>"Bless us, O Lord, and these Thy gifts..."</p></div>
+</div>
+<div class="views-field-field-quoted-source-value">
+<span class="field-content">~ From the Gelasian Sacramentary (7th century A.D.); a benediction retained up to the present day in our short <a href="http://oce.catholic.com/index.php?title=Thanksgiving_before_and_after_Meals">grace before meals</a>.</span>
+</div>
+</div>
+</div>
+</div> 
+</div>
+</div> 
+<div id="block-block-12" class="block block-block last region-even even region-count-4 count-6">
+<div class="content">
+<div style="width:80px;height:40px;background-color:transparent;">Â </div>
+</div>
+</div> 
+</div></div> 
+</div></div></div> 
+<div id="footer"><div class="section">
+<div class="region region-footer">
+<div id="block-block-22" class="block block-block first last region-odd odd region-count-1 count-13">
+<div class="content">
+<div id="google_translate_element"></div><script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    gaTrack: true,
+    gaId: 'UA-26254244-1',
+    layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL
+  }, 'google_translate_element');
+}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<div><span id="copyright">Copyright Â© 1996-2015 Catholic Answers</span></div>
+<script>
+// create dropdown from filters
+$('.not-front .region-sidebar-first div.filter').each(function(){
+  var list=$(this);
+  filterType = $(this).prev().html();
+  select=$(document.createElement('select')).attr({onchange: 'window.location.href=this.options[this.selectedIndex].value', class: 'filter-select'}).insertBefore($(this));
+  optionfirst=$(document.createElement('option')).appendTo(select).html(filterType);
+  $('a', this).not('h4 a').each(function(){
+    option=$(document.createElement('option'))
+     .appendTo(select)
+     .val(this.href)
+     .html($(this).html());
+  });
+});
+</script>
+<script>
+// android support for responsive
+/*
+var ua = navigator.userAgent.toLowerCase();
+var isAndroid = ua.indexOf("android") > -1; 
+if(isAndroid) {
+$('.nice-menu > li a').click(function(event) {
+if($(this).hasClass("hoverOn")){
+//propogate
+}else{
+event.preventDefault();
+$(this).addClass("hoverOn");
+} 
+   });
+}
+*/
+</script>
+<script>
+/*
+// popup
+if(typeof(Storage)!=="undefined") {
+	// Yes! localStorage and sessionStorage support!
+	var now = (new Date()).getTime();
+	var lastTime = 0;
+	var lastTimeStr = localStorage['calastTime'];
+	if (lastTimeStr) lastTime = parseInt(lastTimeStr, 10);
+	if (now - lastTime > 24*60*60*1000) {
+		// if not been to site in last 24 hours
+		localStorage['calastTime'] = ""+now;
+		$(document).ready(function() {
+			$.fancybox({
+				transitionIn : 'none',
+				transitionOut : 'none',
+				afterShow: shown,
+				afterClose: closed,
+				type : 'ajax',
+				autoResize: true, 
+				scrollOutside: true,
+				href: '/sites/all/themes/fancybox_ca_annual_campaign_2015.html'
+			});
+		});
+	} 
+} else {
+	// Sorry! No web storage support..
+	if ( document.referrer == null || document.referrer.indexOf(window.location.hostname) < 0 ) {
+		// new visit
+		$(document).ready(function() {
+			$.fancybox({
+				transitionIn : 'none',
+				transitionOut : 'none',
+				afterShow: shown,
+				afterClose: closed,
+				type : 'ajax',
+				autoResize: true, 
+				scrollOutside: true,
+				href: '/sites/all/themes/fancybox_ca_annual_campaign_2015.html'
+			});
+		});
+	}
+}
+    function shown() {
+        $('html, body').css({
+            'overflow': 'hidden',
+            'height': '100%'
+        });
+    }
+
+    function closed() {
+        $('html, body').css({
+            'overflow': 'auto',
+            'height': 'auto'
+        });
+    }
+*/
+</script>
+</div>
+</div> 
+</div> 
+</div></div> 
+</div></div> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-26254244-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+</body>
+</html>

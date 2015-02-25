@@ -1,0 +1,3074 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html class="lt-ie9 lt-ie10 juggernaut notresponsive grid_940"> <![endif]-->
+<!--[if IE 9]> <html class="lt-ie10 juggernaut responsive grid_940"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="juggernaut responsive grid_940"> <!--<![endif]-->
+
+<head>
+  <meta name="MobileOptimized" content="320" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+
+<script type="text/javascript">
+// <![CDATA[
+  var URLs = {
+    'login':  'https://secure.marvel.com/user/login?referer=http%3A%2F%2Fmarvel.com%2Fmovies%2Fmovie%2F17%2Fspider-man_3',
+    'signup': 'https://secure.marvel.com/user/register?referer=http%3A%2F%2Fmarvel.com%2Fmovies%2Fmovie%2F17%2Fspider-man_3',
+    'comicReader': 'http://reader.marvel.com/#/issue/',
+    'rpxWidgetUrl': 'http://widget-cdn.rpxnow.com/js/lib/forge.marvel.com/widget.js',
+    'rpxWidgetUrlSecure': 'https://rpxnow.com/js/lib/forge.marvel.com/widget.js',
+    'sitenames': {
+        marvel : 'marvel.com'
+    }
+  };
+
+ window.marvelJanrainTokenUrl = "https://marvel.com/my_account/social";
+ window.marvelJanrainAppId = "gofcnefdmbcgfcjpgide";
+ window.marvelJanrainAppUrl = "https://forge.marvel.com";
+// ]]>
+</script>
+
+        <meta name="twitter:title" content="Spider-Man 3" />
+        <meta name="og:title" content="Spider-Man 3" />
+        <meta name="title" content="Spider-Man 3" />
+        <meta name="description" content="It seems that Peter Parker has finally been able to balance out his life. He's is doing well in school, New York has heralded him as the hero he is, and he and Mary Jane Watson are going steady. Peter might even be ready to pop the question                 ..." />
+        <meta name="twitter:description" content="It seems that Peter Parker has finally been able to balance out his life. He's is doing well in school, New York has heralded him as the hero he is, and he and Mary Jane Watson are going steady ..." />
+        <meta name="og:description" content="It seems that Peter Parker has finally been able to balance out his life. He's is doing well in school, New York has heralded him as the hero he is, and he and Mary Jane Watson are going steady ..." />
+        <meta name="twitter:site" content="@Marvel" />
+        <meta name="twitter:url" content="http://marvel.com/movies/movie/17/spider-man_3" />
+        <meta name="og:site_name" content="Marvel.com" />
+        <meta name="marvel:contentId" content="17" />
+        <meta name="marvel:contentType" content="movie" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:creator" content="@Marvel" />
+        <meta name="twitter:image" content="http://i.annihil.us/u/prod/marvel/i/mg/9/03/537b729725d30/landscape_medium.jpg" />
+        <meta property="og:image" content="http://i.annihil.us/u/prod/marvel/i/mg/9/03/537b729725d30/landscape_medium.jpg" />
+        <meta property="og:type" content="website" />
+        <meta property="fb:app_id" content="193166954153103" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+        <meta name="content-type" content="text/html;charset=utf-8" />
+        <meta name="robots" content="index,follow" />
+        <meta name="description" content="It seems that Peter Parker has finally been able to balance out his life. He&amp;#039;s is doing well in school, New York has heralded him as the hero he is, and he and Mary Jane Watson are going steady. Peter might even be ready to pop the question                 ..." />
+        <meta name="keywords" content="bryce dallas howard, eddie brock, green goblin, james cromwell, james franco, kirsten dunst, sam raimi, sandman, spider-man, spider-man 3, thomas haden church, tobey maguire, topher grace, venom, Spider-Man, Gwen Stacy, Toxin (Eddie Brock), Norman Osborn, J. Jonah Jameson, Harry Osborn, Sandman, Spider-Man, Spider-Man 3" />
+        <link rel="stylesheet" type="text/css" media="all" href="http://i.annihil.us/u/prod/marvel/s/css/5c58444e4b5e031bf36f87bbf5515f73.css" />
+        <!--[if IE 8]><link rel="stylesheet" type="text/css" media="all" href="http://i.annihil.us/u/prod/marvel/s/css/b2d87b8cc308dbfaaba606f723103963.css" /><![endif]-->
+        <!--[if IE 8]><link rel="stylesheet" type="text/css" media="all" href="http://i.annihil.us/u/prod/marvel/s/css/5254f5abd32bbb2b4df6ceeffe6d75b5.css" /><![endif]-->
+        <link rel="stylesheet" type="text/css" media="all" href="http://i.annihil.us/u/prod/marvel/s/css/69b637e7e631d196ae66d56bdddbd2db.css" />
+        <!--[if IE 8]><link rel="stylesheet" type="text/css" media="all" href="http://i.annihil.us/u/prod/marvel/s/css/785985252f405a089a780c4bda6c1044.css" /><![endif]-->
+        <link rel="stylesheet" type="text/css" media="all" href="http://i.annihil.us/u/prod/marvel/s/css/4a1b41c2d7a7d37870f10634016c4a68.css" />
+        
+        <!--[if IE 8]><script type="text/javascript" src="http://i.annihil.us/u/prod/marvel/s/js/a34a58f2cb251dcc855a41c95c77b81e.js"></script><![endif]-->
+        <script type="text/javascript" src="http://i.annihil.us/u/prod/marvel/s/js/8ef09d75bdd476ab520493d1549680be.js"></script>
+        <!--[if lte IE 9]><script type="text/javascript" src="http://i.annihil.us/u/prod/marvel/s/js/a4e10de2ebb8fc01929c19913e9636e9.js"></script><![endif]-->
+        <script type="text/javascript" src="http://i.annihil.us/u/prod/marvel/s/js/91804f5809d02693125ac9fa8d9303e8.js"></script>
+        
+        <title>Spider-Man 3 | Spider-Man | Movies | Marvel.com</title>
+        <link href="http://marvel.com/movies/movie/17/spider-man_3" rel="canonical" />
+        <link href="http://i.annihil.us/u/prod/marvel/i/mg/9/03/537b729725d30/landscape_medium.jpg" rel="image_src" />
+        <script type="text/javascript" async="async" src="http://admin.brightcove.com/js/BrightcoveExperiences_all.js"></script>
+        <script type="text/javascript">
+        (function() {
+           function async_load(){
+        	 	files = new Array();
+        
+                    	for(i in files) {
+        					        s = document.createElement('script');
+        					        s.type = files[i].type;
+        					        s.async = files[i].async;
+        					        s.src = files[i].src;
+        					        var x = document.getElementsByTagName('script')[0];
+        					        x.parentNode.insertBefore(s, x);
+                		}
+        		}
+        					    if (window.attachEvent) {
+        					        window.attachEvent('onload', async_load);
+        					    } else {
+        					        window.addEventListener('load', async_load, false);
+        					    }
+        					})();
+        </script>
+        
+        <script type="text/javascript">// <![CDATA[
+         var MARVEL_USER ={"islogged":"0"}
+        	// ]]></script>
+        <script type="text/javascript">
+        var strTrackingCode = 'UA-273913-20';
+        var strUserSegment = "nonmember";
+        var strPageId = "/movies/movie/17/spider-man_3";
+        
+        function callAnalytics(trackingCode, userSegment, trackPage, transactionAdd, transactionItem) {
+            ga('create', trackingCode, 'auto');
+            ga('set', 'dimension1', userSegment);
+            ga('send', 'pageview', trackPage);
+            
+            if(transactionAdd != null){
+                if (transactionAdd.length > 0 && transactionItem.length > 0) {
+                    ga('require', 'ecommerce', 'ecommerce.js');
+                    ga('ecommerce:addTransaction');
+                    ga('ecommerce:addItem');
+                }
+            }
+         
+            return false;
+        }
+        
+        
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        
+        (function() {
+            callAnalytics(strTrackingCode, strUserSegment, strPageId, null, null);
+        })();
+        </script>
+        
+        <!-- Facebook retargeting pixel starts here -->
+        
+        <script type="text/javascript">
+        (function(){
+          window._fbds = window._fbds || {};
+          _fbds.pixelId = 802011856479832;
+          var fbds = document.createElement('script');
+          fbds.async = true;
+          fbds.src = '//connect.facebook.net/en_US/fbds.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(fbds, s);
+        })();
+        window._fbq = window._fbq || [];
+        window._fbq.push(["track", "PixelInitialized", {}]);
+        </script>
+        <noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=802011856479832&amp;ev=NoScript" /></noscript>
+        
+        <!-- start Tealium tag here -->
+        <script type="text/javascript">
+        var utag_data = {  
+          Account_Registration : "", // Enter Variable Description 
+          Search_Term : "", // Enter Variable Description 
+          Pagename : "", // Pagename 
+          CTO_Data : "" // 
+        } 
+        </script>
+        
+        <!-- Loading script asynchronously --> 
+        <script type="text/javascript"> 
+        (function(a,b,c,d){ 
+          a='//tags.tiqcdn.com/utag/disney/marvel/prod/utag.js'; 
+          b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.a 
+          sync=true; 
+          a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a); 
+        })(); 
+        </script>
+
+<link href="https://plus.google.com/108523337373444601877/posts" rel="publisher" />
+<meta name="msapplication-TileImage" content="/i/images/logo.png" />
+
+<!--- GPT JavaScript Library -->
+<script type="text/javascript">
+ (function() {
+   var useSSL = 'https:' == document.location.protocol;
+   var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+   document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+ })();
+</script>
+
+</head>
+    <body id="movies-detail" class="movies">
+
+  
+<!-- FLOODLIGHT TAGS FOR RE-TARGETED ADVERTISING (REQUESTED BY DISNEY) -->
+
+<!-- 
+Start of DoubleClick Floodlight Tag: Please do not remove 
+Activity name of this tag: M_Marvel_AllPages_Impression
+URL of the webpage where the tag is expected to be placed: http://marvel.com/
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag. 
+Creation Date: 08/08/2013 
+--> 
+<script type="text/javascript"> 
+var axel = Math.random() + ""; 
+var a = axel * 10000000000000; 
+document.write('<iframe src="http://3944448.fls.doubleclick.net/activityi;src=3944448;type=m_mar096;cat=m_mar451;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>'); 
+</script> 
+<noscript> 
+<iframe src="http://3944448.fls.doubleclick.net/activityi;src=3944448;type=m_mar096;cat=m_mar451;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe> 
+</noscript> 
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->   
+<!-- 
+Start of DoubleClick Floodlight Tag: Please do not remove 
+Activity name of this tag: M_Marvel_MovieSection_Impression
+URL of the webpage where the tag is expected to be placed: http://marvel.com/movies
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag. 
+Creation Date: 08/08/2013 
+--> 
+<script type="text/javascript"> 
+var axel = Math.random() + ""; 
+var a = axel * 10000000000000; 
+document.write('<iframe src="http://3944448.fls.doubleclick.net/activityi;src=3944448;type=m_mar096;cat=m_mar335;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>'); 
+</script> 
+<noscript> 
+<iframe src="http://3944448.fls.doubleclick.net/activityi;src=3944448;type=m_mar096;cat=m_mar335;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe> 
+</noscript> 
+<!-- End of DoubleClick Floodlight Tag: Please do not remove --> 
+
+
+        
+        
+
+<header>
+                          <!--  Operative Tag starts here -->
+                    <script type='text/javascript'>
+                      function initGoogleTagAd( networkCode, size, sect, ct, targetDiv ) {
+                        googletag.defineSlot( networkCode, size, targetDiv )
+                          .addService(googletag.pubads())
+                          .setTargeting( "sect", sect )
+                          .setTargeting( "ct", ct )
+                          .setTargeting( "mtfInline", "true" );
+                        googletag.enableServices();
+                        googletag.display( targetDiv );
+                    
+                      }
+                    </script>
+                    <script type="text/javascript">
+                      window.addEventListener(
+                        'load',
+                        function(){
+                          mobileAds.init({
+                            hasInterstitial: false,
+                            ct: '',
+                                    footer: {
+                              networkCode: '/10281695/Marvel.com/movies_tablet',
+                              adSize: [728,90],
+                              adSect: 'movies_tablet',
+                              adTargetedDiv: 'div-gpt-ad-movies_tablet-151785607'
+                            }
+                          });
+                        }
+                      );
+                    
+                    
+                    
+                    </script>
+                    
+                    
+                    <div id="mobileFooterAd" class="mobile_ad">
+                        <i class="icon-close"></i>
+                      <div id='div-gpt-ad-movies_tablet-151785607'>
+                      </div>
+                    </div>
+                    
+                    <script type="text/javascript">
+                    <!-- Ugly hack to remove width and height from custom skins iframe -->
+                    $(document).ready(function() {
+                      setTimeout(function(){
+                        var adIframe = $('#home-skin-ad .advertisement iframe');
+                            adIframe.hide().removeAttr('width').removeAttr('height');
+                          $('#skin-ad .advertisement iframe').hide().removeAttr('width').removeAttr('height');
+                        },300);
+                    });
+                    </script>
+                    
+                    
+                    
+                    
+                    
+    <div class="ad ad-header">                    
+</div>
+  
+  
+
+<!--[if IE 8]> <div class="lt-IE9 marvelWidget_Container notresponsive"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<div class="marvelWidget_Container notresponsive">
+<!--<![endif]-->
+  <div id="marvel_topnav_wrapper" class="inner"> <!-- header -->
+                      <div id="marvel_topnav_search" class="marvel_search_box  closed">
+                      <form method="get" action="http://marvel.com/search/?q=">
+                        
+                        <span id="marvel_topnav_search_close" class="icon-close"></span>
+                        <div class="searchbg"></div>
+                        <div>
+                          <input type="text" name="q" class="txtSearch" id="txtSearch" tabindex="1" placeholder="SEARCH" >
+                          <select name="category" class="marvel_search_select ">
+                              <option value="All" selected>All</option>
+                              <option value="comics" >Comics</option>
+                              <option value="movies" >Movies</option>
+                              <option value="videos" >Videos</option>
+                              <option value="games" >Games</option>
+                              <option value="tv" >TV</option>
+                              <option value="characters" >Characters</option>
+                              <option value="news" selected>News</option>
+                              <option value="wallpapers" >Wallpapers</option>
+                              <option value="images" >Images</option>
+                              <option value="podcasts" >Podcasts</option>
+                          </select>
+                          <button class="btn btn-red btn-search" tabindex="2" type="submit"><span>Search</span></button>
+                        </div>
+                      </form>
+                    </div>
+                    
+    <div id="marvel_topnav" class="inner">
+      <h1><a href="/" class="icon-marvel-logo"></a></h1>
+      <div id="marvel_topnav_mobile">
+        <span id="icon-menu" class="icon-menu _topnavicon"></span>
+        <span id="icon-search" class="icon-search _topnavicon"></span>      </div>
+      <div id="marvel_topnav_ul_wrapper">
+        <div>
+
+          <ul id="marvel_topnav_ul">
+            <li class="home"><a  href="/">Home</a></li>
+                                    <li><a href="http://marvel.com/comics" class="">Comics</a></li>
+                    
+                                    <li><a href="http://marvel.com/movies" class="current">Movies</a></li>
+                    
+                                    <li><a href="http://marvel.com/videos" class="">Videos</a></li>
+                    
+                                    <li><a href="http://marvel.com/games" class="">Games</a></li>
+                    
+                                    <li><a href="http://marvel.com/tv" class="">TV</a></li>
+                    
+                                    <li><a href="http://marvel.com/characters" class="">Characters</a></li>
+                    
+                                    <li><a href="http://shop.marvel.com" class="">Shop</a></li>
+                    
+                                <li class="dropdown-container">
+                        <a class="">More</a>
+                        <div class="dropdown more">
+                          <style><!--
+                      #marvel_topnav .linklist {
+                      padding: 0!important;
+                      width: 320px;
+                      }
+                      #marvel_topnav .linklist ul {
+                      float: none !important;
+                      width: 100%;
+                      }
+                      #marvel_topnav .linklist li {
+                      width: auto !important;
+                      text-align: center;
+                      padding: 10px 12px !important;
+                      }
+                      #marvel_topnav .linklist li:first-of-type {
+                      padding-left: 15px !important;
+                      }
+                      #marvel_topnav .linklist a {
+                      line-height: 2.2em !important;
+                      }
+                      #marvel_topnav .applist li {
+                      width: 25% !important;;
+                      }
+                      #marvel_topnav .applist a {
+                      background-position: center top !important;;
+                      width: auto !important;
+                      }
+                      #marvel_topnav .sociallist {
+                      padding: 5px 23px 5px 0 !important;
+                      }
+                      #marvel_topnav .sociallist > span {
+                      text-shadow: 1px 1px 3px #000;
+                      }
+                      #marvel_topnav .sociallist a span {
+                      display: block !important;
+                      }
+                    --></style>
+                    <div class="linklist">
+                    <ul>
+                    <li><a href="http://marvel.com/news/">News</a></li>
+                    <li><a href="http://marvel.com/images/">Images</a></li>
+                    <li><a href="http://more.marvel.com/">Offers</a></li>
+                    <li><a href="http://www.cafepress.com/+marvel+gifts">CafePress</a></li>
+                    </ul>
+                    </div>
+                    <div class="applist">
+                    <ul>
+                    <li><a href="http://marvel.com/mobile/#marvel_unlimited" style="background: url(http://i.annihil.us/u/prod/marvel/i/mg/4/20/5189670f880beb.png) no-repeat 15px 0; padding-top: 64px; width: 73px;">Marvel Unlimited</a></li>
+                    <li><a href="http://marvel.com/mobile/#marvel_comics" style="background: url(http://i.annihil.us/u/prod/marvel/i/mg/4/20/5189661e2df84b.png) no-repeat 15px 0; padding-top: 64px; width: 73px;">Marvel Comics</a></li>
+                    <li><a href="http://marvel.com/mobile/#marvel_ar" style="background: url(http://i.annihil.us/u/prod/marvel/i/mg/4/50/534e9cb867268.png) no-repeat 15px 0; padding-top: 64px; width: 73px;">Marvel AR</a></li>
+                    <li><a href="http://marvel.com/mobile/#marvel_avengers_alliance" style="background: url(http://i.annihil.us/u/prod/marvel/i/mg/3/40/534842d12f52e.png) no-repeat 15px 0; padding-top: 64px; width: 73px;">Avengers Alliance</a></li>
+                    </ul>
+                    </div>
+                    <div class="sociallist"><span>Follow:</span> <a href="http://www.facebook.com/Marvel" target="_blank"> <span class="icon-facebook"></span> </a> <a href="https://plus.google.com/+marvel/posts" target="_blank"> <span class="icon-google-plus"></span> </a> <a href="https://twitter.com/#!/marvel" target="_blank"> <span class="icon-twitter"></span> </a> <a href="http://marvelentertainment.tumblr.com/" target="_blank"> <span class="icon-tumblr"></span> </a> <a href="http://www.youtube.com/marvel" target="_blank"> <span class="icon-youtube"></span> </a> <a href="http://pinterest.com/marvelofficial/" target="_blank"> <span class="icon-pinterest"></span> </a></div>
+                        </div>
+                    </li>
+          </ul>
+
+          <ul class="right">
+                        <li id="marvel_topnav_search_button"><a><span class="icon-search _topnavicon"></span></a></li>
+                                    <li id="marvel_topnav_user_button"><a><span class="icon-account _topnavicon"></span></a>
+              <div class="dropdown signin">
+                                    <script type="text/javascript">
+                    	window.marvelJanrainTokenUrl = "https://marvel.com/my_account/social";
+                    	window.marvelJanrainAppId    = "gofcnefdmbcgfcjpgide";
+                    	window.marvelJanrainAppUrl   = "https://forge.marvel.com"
+                    </script>
+                    
+                    
+                    <div class="signedout">
+                    	<span>(Recommended)</span>
+                    	<div id="janrainEngageEmbed"></div>
+                    	<div id="janrainListener" class="janrainEngageEmbed">
+                    		<div class="btn btn-facebook"><span><span class="icon-facebook"></span>Login with Facebook</span></div>
+                    		<div class="sociallist">
+                    			<span>Or login with:</span>
+                    			<a><span class="icon-twitter"></span></a>
+                    			<a><span class="icon-google"></span></a>
+                    			<a><span class="icon-yahoo"></span></a>
+                    		</div>
+                    	</div>
+                    	<div class="divider"><hr class="left"/>OR<hr class="right" /></div>
+                    
+                    	<a class="btn btn-red" href="https://secure.marvel.com/user/login?referer=http%3A%2F%2Fmarvel.com%2Fmovies%2Fmovie%2F17%2Fspider-man_3"><span>Login with marvel account </span></a>
+                    
+                    	<div class="lightdark">
+                    		<span>Need an account?</span>
+                    		<a class="btn btn-black" href="https://secure.marvel.com/user/register?referer=http%3A%2F%2Fmarvel.com%2Fmovies%2Fmovie%2F17%2Fspider-man_3"><span>Sign up</span></a>
+                    	</div>
+                    </div>
+                    
+              </div>
+            </li>
+                      </ul>
+
+        </div>
+      </div>
+    </div>
+
+  
+                      
+                    
+                    <div id="marvel_subnav_wrapper">
+                      <div id="marvel_subnav">
+                        <span id="marvel_subnav_li"><a>Movies</a></span>
+                        <div id="marvel_subnav_div">
+                          <ul id="marvel_subnav_ul">
+                            <li><a href="/movies">Movies</a> <span>&nbsp;</span></li>
+                    
+                                    <li id="marvel_cinematic_universe" class="dropdown-container">
+                                      <a >Marvel Cinematic Universe</a>
+                                      <div class="dropdown">
+                      <a href="/movies/movie/181/captain_america_the_winter_soldier">Captain America: The Winter Soldier</a><a href="/movies/movie/179/guardians_of_the_galaxy">Guardians of the Galaxy</a><a href="/movies/movie/182/thor_the_dark_world">Thor: The Dark World</a><a href="/movies/movie/176/iron_man_3">Iron Man 3</a><a href="/movies/movie/193/avengers_age_of_ultron">Avengers: Age of Ultron</a><a href="/movies/movie/180/ant-man">Ant-Man</a><a href="/movies/movie/152/marvels_the_avengers">Marvel's The Avengers</a><a href="/movies/movie/125/captain_america_the_first_avenger">Captain America: The First Avenger</a>
+                    </div>
+                                    </li>
+                            
+                    
+                              <li>
+                    
+                                        <a href="/movies" > All Movies</a>
+                            </li>
+                              <li>
+                    
+                                        <a href="/videos/trailers_clips/movies" > Trailers &amp; Clips</a>
+                            </li>
+                              <li>
+                    
+                                        <a href="/news/movies" > Movie News</a>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    
+
+  </div> <!-- header -->
+  <hr class="marvel_topnav_hr"/>
+  <div class="JCSliderMenu-container">
+    <div class="JCSliderMenu module moduColor_Dark no-stripes" id="marvel_cinematic_universe-dropdown">
+        <div class="site-container">
+            <div class="pwrSldr_container JCS1 JCS1- JCS1-comic" id="">
+                <a href="#" class="pwrSldr_btn _prev"><span></span></a>
+                <a href="#" class="pwrSldr_btn _next"><span></span></a>
+                <div class="pwrSldr_wrapper">
+                    <div id="" class="pwrSldr">
+                        <ul><li><div class="row-item movie-item">
+    <div class="row-item-image">
+	    <a class="row-item-image-url" href="/movies/movie/181/captain_america_the_winter_soldier">
+	    	<div class="row-item-image-border"></div>
+        	<img src='http://x.annihil.us/u/prod/marvel/i/mg/6/60/54db8860a5f04/portrait_incredible.jpg' title="Captain America: The Winter Soldier" alt="Captain America: The Winter Soldier" />
+			<!--<i class="media-item-type media-item-video"></i> -->
+	    </a>			
+  	</div>
+  	<div class="row-item-text">
+        <p class="movie-disposition watchathome">Watch at home</p>
+        <h5><a  class="meta-title" href="/movies/movie/181/captain_america_the_winter_soldier">Captain America: The Winter Soldier</a></h5>
+        <p class="media-item-meta">Apr 4, 2014</p>
+	</div>
+</div></li><li><div class="row-item movie-item">
+    <div class="row-item-image">
+	    <a class="row-item-image-url" href="/movies/movie/179/guardians_of_the_galaxy">
+	    	<div class="row-item-image-border"></div>
+        	<img src='http://x.annihil.us/u/prod/marvel/i/mg/4/00/5398c952860ad/portrait_incredible.jpg' title="Guardians of the Galaxy" alt="Guardians of the Galaxy" />
+			<!--<i class="media-item-type media-item-video"></i> -->
+	    </a>			
+  	</div>
+  	<div class="row-item-text">
+        <p class="movie-disposition watchathome">Watch at home</p>
+        <h5><a  class="meta-title" href="/movies/movie/179/guardians_of_the_galaxy">Guardians of the Galaxy</a></h5>
+        <p class="media-item-meta">Aug 1, 2014</p>
+	</div>
+</div></li><li><div class="row-item movie-item">
+    <div class="row-item-image">
+	    <a class="row-item-image-url" href="/movies/movie/182/thor_the_dark_world">
+	    	<div class="row-item-image-border"></div>
+        	<img src='http://x.annihil.us/u/prod/marvel/i/mg/b/f0/521f6e03ebfb3/portrait_incredible.jpg' title="Thor: The Dark World" alt="Thor: The Dark World" />
+			<!--<i class="media-item-type media-item-video"></i> -->
+	    </a>			
+  	</div>
+  	<div class="row-item-text">
+        <p class="movie-disposition watchathome">Watch at home</p>
+        <h5><a  class="meta-title" href="/movies/movie/182/thor_the_dark_world">Thor: The Dark World</a></h5>
+        <p class="media-item-meta">Nov 8, 2013</p>
+	</div>
+</div></li><li><div class="row-item movie-item">
+    <div class="row-item-image">
+	    <a class="row-item-image-url" href="/movies/movie/176/iron_man_3">
+	    	<div class="row-item-image-border"></div>
+        	<img src='http://x.annihil.us/u/prod/marvel/i/mg/c/a0/521f70fab9fd8/portrait_incredible.jpg' title="Iron Man 3" alt="Iron Man 3" />
+			<!--<i class="media-item-type media-item-video"></i> -->
+	    </a>			
+  	</div>
+  	<div class="row-item-text">
+        <p class="movie-disposition watchathome">Watch at home</p>
+        <h5><a  class="meta-title" href="/movies/movie/176/iron_man_3">Iron Man 3</a></h5>
+        <p class="media-item-meta">May 3, 2013</p>
+	</div>
+</div></li><li><div class="row-item movie-item">
+    <div class="row-item-image">
+	    <a class="row-item-image-url" href="/movies/movie/193/avengers_age_of_ultron">
+	    	<div class="row-item-image-border"></div>
+        	<img src='http://i.annihil.us/u/prod/marvel/i/mg/9/d0/544a90d6c4ff8/portrait_incredible.jpg' title="Marvel's Avengers: Age of Ultron" alt="Marvel's Avengers: Age of Ultron" />
+			<!--<i class="media-item-type media-item-video"></i> -->
+	    </a>			
+  	</div>
+  	<div class="row-item-text">
+        <p class="movie-disposition comingsoon">Coming soon</p>
+        <h5><a  class="meta-title" href="/movies/movie/193/avengers_age_of_ultron">Avengers: Age of Ultron</a></h5>
+        <p class="media-item-meta">May 1, 2015</p>
+	</div>
+</div></li><li><div class="row-item movie-item">
+    <div class="row-item-image">
+	    <a class="row-item-image-url" href="/movies/movie/180/ant-man">
+	    	<div class="row-item-image-border"></div>
+        	<img src='http://i.annihil.us/u/prod/marvel/i/mg/f/a0/521f7280b2312/portrait_incredible.jpg' title="Ant-Man" alt="Ant-Man" />
+			<!--<i class="media-item-type media-item-video"></i> -->
+	    </a>			
+  	</div>
+  	<div class="row-item-text">
+        <p class="movie-disposition comingsoon">Coming soon</p>
+        <h5><a  class="meta-title" href="/movies/movie/180/ant-man">Ant-Man</a></h5>
+        <p class="media-item-meta">Jul 17, 2015</p>
+	</div>
+</div></li><li><div class="row-item movie-item">
+    <div class="row-item-image">
+	    <a class="row-item-image-url" href="/movies/movie/152/marvels_the_avengers">
+	    	<div class="row-item-image-border"></div>
+        	<img src='http://x.annihil.us/u/prod/marvel/i/mg/6/50/521f70b81f7d3/portrait_incredible.jpg' title="Marvel's The Avengers" alt="Marvel's The Avengers" />
+			<!--<i class="media-item-type media-item-video"></i> -->
+	    </a>			
+  	</div>
+  	<div class="row-item-text">
+        <p class="movie-disposition watchathome">Watch at home</p>
+        <h5><a  class="meta-title" href="/movies/movie/152/marvels_the_avengers">Marvel's The Avengers</a></h5>
+        <p class="media-item-meta">May 4, 2012</p>
+	</div>
+</div></li><li><div class="row-item movie-item">
+    <div class="row-item-image">
+	    <a class="row-item-image-url" href="/movies/movie/125/captain_america_the_first_avenger">
+	    	<div class="row-item-image-border"></div>
+        	<img src='http://x.annihil.us/u/prod/marvel/i/mg/c/30/521f6f84ecba1/portrait_incredible.jpg' title="Captain America: The First Avenger" alt="Captain America: The First Avenger" />
+			<!--<i class="media-item-type media-item-video"></i> -->
+	    </a>			
+  	</div>
+  	<div class="row-item-text">
+        <p class="movie-disposition watchathome">Watch at home</p>
+        <h5><a  class="meta-title" href="/movies/movie/125/captain_america_the_first_avenger">Captain America: The First Avenger</a></h5>
+        <p class="media-item-meta">Jul 22, 2011</p>
+	</div>
+</div></li></ul>
+                    </div>
+                </div>
+            </div>
+            <script>
+            	var options = {};
+
+            	PwrSldrInstantiator.run(options);
+            </script>
+        </div>
+    </div>
+</div>
+
+<script>
+   (function($){
+        var _grid = "(min-width: 800px)";
+
+        var trigger = '#marvel_cinematic_universe|mouseenter';
+        trigger = trigger.split('|');
+
+        var touchShowHideToggle = 0;
+
+        var $module = $('#marvel_cinematic_universe-dropdown'),
+            pwrSldr = $module.find('.pwrSldr').data('pwrSldr'),
+            $menu_el = $(trigger[0]),
+            action_timeout;
+
+        function __init(){
+            _bindEvents();
+            _calcHidden();
+        }
+
+        function _start_hide(){
+            if(window.matchMedia(_grid).matches){
+                clearTimeout(action_timeout);
+                action_timeout = setTimeout(_hide, 400);
+            }
+        }
+
+        function _show(){
+            if(window.matchMedia(_grid).matches){
+                clearTimeout(action_timeout);
+                touchShowHideToggle = 1;
+                $menu_el.find('.dropdown').hide();
+                $module.fadeIn(350);
+                pwrSldr.update( true );
+                $menu_el.addClass('on');
+            }
+        }
+
+        function _hide(){
+            if(window.matchMedia(_grid).matches){
+                touchShowHideToggle = 0;
+                $module.fadeOut(200);
+                $menu_el.removeClass('on').find('.dropdown').css('display','');
+            }
+        }
+
+        function _bindEvents(){
+            //bind events
+            $module.on('mouseleave', _start_hide);
+            $module.on('mouseenter', _show);
+
+            //bind custom event to menu item
+            $menu_el.on(trigger[1], _show);
+            $menu_el.on('mouseleave', _start_hide);
+
+            //bind touchEvents - Only for large enough viewports
+            if('ontouchstart' in document.documentElement){
+                $menu_el.on('touchstart',function(){
+                    if(window.matchMedia(_grid).matches)touchShowHideToggle === 0 ? _show() : _hide();
+                    else {$menu_el.removeClass('off');}
+                });
+            }
+        }
+
+        function _calcHidden(mod){
+            var m = $module;
+            if(m.not(':visible')){
+                m.css({'display' : 'block', 'visibility' : 'hidden'});
+                pwrSldr.update( true );
+                m.one('updatedDimensions',function(){
+                    m.css({'display' : '', 'visibility' : ''});
+                });
+            }
+         }
+
+        __init();
+
+    })(jQuery);
+</script>
+</div></header>
+
+                      
+                        <div class="detail-top-bar-wrap " id="" style="">
+                          <div class="detail-top-bar">
+                            <div class="site-container">
+                              
+                                <a class="detail-top-bar-back detail-top-bar-lft" href="/movies/all"><i class="icon-backto"></i><span>Back to all movies</span></a>
+                              <div class="detail-social detail-top-bar-rgt">
+                                  <a href="#comments">
+                                  	<div class="iconSocial">
+                                  		<i class="icon-comments"></i>
+                                  		<span  class="livefyre-commentcount" data-lf-site-id="319022" data-lf-article-id="movie-17">0 Comments</span>
+                                  	</div>
+                              	</a>
+                                  <div class="iconSocial" data-janrain-sharebtn="facebook"><i class="icon-share"></i><span>Share</span></div>
+                                  <div class="fb-like-container"><div class="fb-like" data-href="http://marvel.com/movies/movie/17/spider-man_3" data-width="100" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div></div>
+                              </div>      
+                        
+                            </div>
+                          </div>
+                        </div>    
+                        
+                                <style>
+                                    .lt-ie9 .JM02 {
+                                        background-image: url("http://x.annihil.us/u/prod/marvel/i/mg/c/a0/52261500a9226.jpg"); }
+                                    @media only screen and (min-width: 800px) {
+                                        html .JM02 {
+                                            background-image: url("http://x.annihil.us/u/prod/marvel/i/mg/c/a0/52261500a9226.jpg"); } }
+                                    @media only screen and (min-width: 570px) and (max-width: 799px) {
+                                        .responsive .JM02 {
+                                            background-image: url("http://x.annihil.us/u/prod/marvel/i/mg/c/a0/52261500a9226/responsive_detail_banner_medium.jpg"); padding-top: 544px !important;} }
+                                    @media only screen and (min-width: 0px) and (max-width: 569px) {
+                                        .responsive .JM02 {
+                                            background-image: url("http://x.annihil.us/u/prod/marvel/i/mg/c/a0/52261500a9226/responsive_detail_banner_small.jpg"); } }
+                        
+                                    html.responsive .module.JM02{
+                                        padding-top:340px;
+                                    }
+                                </style>
+                            <section class="JM02 module no-stripes moduColor_Black ">
+                            </section>
+                            <script>
+                                //*** Responsive height! Make the padding height for .JM02 as big as possible. ***//
+                        
+                                (function($){
+                                    var imgHeight = 680;
+                                    var minNegativeMargin = 0; //minimum amount of how high up next content be over image, 0 being flush after image.
+                                    var minHeight = 550; //min height of collapsable area (the image in this case)
+                                    var bottomMargin = 100; //min amount of next content to show above fold
+                                    var maxHeight = imgHeight - minNegativeMargin;
+                                    var $JM02 = $('.JM02');
+                                    var $detailsContainer = $JM02.find('.details-container');
+                                    var oldMarginTopForDetailsContainer = $detailsContainer.css('margin-top');
+                        
+                                    function adjustHeight(){
+                                        var y = $(window).innerHeight() - bottomMargin - $('header').outerHeight();
+                                        if(y > maxHeight) y = maxHeight;
+                                        if(y < minHeight) y = minHeight;
+                        
+                                        if((!Juggernaut.client.ltIE10 && window.matchMedia("(min-width: 800px)").matches) || $(window).innerWidth() >= 1024){
+                                            $JM02.css('padding-top', y + 'px');
+                                            $detailsContainer.css('margin-top', 0);
+                                        } else {
+                                            $JM02.css('padding-top', ''); //remove inline css
+                                            $detailsContainer.css('margin-top', oldMarginTopForDetailsContainer);
+                                        }
+                                        
+                                    }
+                        
+                                    $(window).bind('resize', adjustHeight);
+                                    adjustHeight();
+                        
+                                })(jQuery);
+                            </script>
+                            
+                        <section class="module JCFeatured movie-detail-advert moduColor_Dark" style="">
+                            <div class="detail-item-bg">
+                                <div class="site-container"></div>
+                            </div><!-- detail-item-bg -->
+                            <div class="site-container">
+                                <!-- TODO: js hack to change title text based content list item type -->
+                                <div class="featured-item-info-wrap FlexGrid">
+                                    <div class="featured-item-info FlexGrid-row">
+                                        
+                        <div class="row-item featured-item-text text-wrap FlexGrid-cell">
+                            <div class="row-item-image">
+                                      <div class="row-item-image-border"></div>
+                                      <img src="http://x.annihil.us/u/prod/marvel/i/mg/9/03/537b729725d30/portrait_incredible.jpg" title="Spider-Man 3" alt="Spider-Man 3"/>
+                                    <!-- <i class="media-item-type media-item-story"></i> -->
+                        
+                            </div>
+                            <div class="row-item-text">
+                        
+                                <h5 class="featured-item-title">
+                                    Spider-Man 3
+                                </h5>
+                               <!-- <p class="media-item-meta"> </p> -->
+                               <p>
+                                <span class="block3"><strong> Rating: </strong> PG-13 </span> <br />
+                                <span class="block3"><strong> Release Date: </strong>   May 04, 2007</span>
+                               </p>
+                                
+                                
+                                
+                        
+                            </div>
+                        
+                            <div class="featured-item-desc">
+                                 <p data-blurb="">
+                        	It seems that Peter Parker has finally been able to balance out his life. He's is doing well in school, New York has heralded him as the hero he is, and he and Mary Jane Watson are going steady. Peter might even be ready to pop the question!<br><br> 
+                        
+                        Unfortunately Harry Osborn still holds Spidey responsible for his father's untimely death and plots ...
+                        	<a data-blurb-trigger="" class="lnk-more">more</a>
+                        </p>
+                        <p data-blurb="" style="display:none">
+                         	It seems that Peter Parker has finally been able to balance out his life. He's is doing well in school, New York has heralded him as the hero he is, and he and Mary Jane Watson are going steady. Peter might even be ready to pop the question!<br><br> 
+                        
+                        Unfortunately Harry Osborn still holds Spidey responsible for his father's untimely death and plots his revenge against him as the New Goblin. And now Spider-Man must deal with a new villain known as the Sandman!<br><br> 
+                        
+                        When Spider-Man dons a mysterious black costume, his darker, more vengeful side starts to take control of his double life as he pursues his uncle's killer. The transformation forces Parker to face an unlikely villain: himself.<br><br>
+                        	<a data-blurb-trigger="" class="lnk-more">more</a>
+                        </p>
+                            </div>
+                        
+                        </div>
+                        
+                        <span id="featured-item-content-list-item-type" style="display:none;">FEATURED NEWS</span>
+                        
+                                            <div class="FlexGrid-cell FlexGrid-reflowSoon">
+                                                <div class="ad ad-300x250 float-right">
+                                                <!--  Operative Tag starts here -->
+                        <script type='text/javascript'>
+                          function initGoogleTagAd( networkCode, size, sect, ct, targetDiv ) {
+                            googletag.defineSlot( networkCode, size, targetDiv )
+                              .addService(googletag.pubads())
+                              .setTargeting( "sect", sect )
+                              .setTargeting( "ct", ct )
+                              .setTargeting( "mtfInline", "true" );
+                            googletag.enableServices();
+                            googletag.display( targetDiv );
+                        
+                          }
+                        </script>
+                        <div class="advertisement">
+                          <div id='div-gpt-ad-movies-1610935147'>
+                          <script>
+                            initGoogleTagAd( '/10281695/Marvel.com/movies', [300,250], 'movies', '', 'div-gpt-ad-movies-1610935147' );
+                          </script>
+                          </div>
+                        </div>
+                        
+                        <script type="text/javascript">
+                        <!-- Ugly hack to remove width and height from custom skins iframe -->
+                        $(document).ready(function() {
+                          setTimeout(function(){
+                            var adIframe = $('#home-skin-ad .advertisement iframe');
+                                adIframe.hide().removeAttr('width').removeAttr('height');
+                              $('#skin-ad .advertisement iframe').hide().removeAttr('width').removeAttr('height');
+                            },300);
+                        });
+                        </script>
+                        
+                        
+                        
+                        
+                        
+                                                </div>
+                                            </div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        
+                        
+                            
+                    
+                    
+                        <section class="module moduColor_Light  ">
+                          <div class="grid-container">
+                        		<h2 class="module-header">Videos 
+                        <a href="/videos/trailers_clips/movies?movieId=17" class="see-all" >See All</a>
+                        
+                        </h2>
+                        		<div class="pwrSldr_container JCS1 JCS1- JCS1-media" id="">
+                        		    <a href="#" class="pwrSldr_btn _prev"><span></span></a>
+                        		    <a href="#" class="pwrSldr_btn _next"><span></span></a>
+                        		    <div class="pwrSldr_wrapper">
+                        		        <div id="" class="pwrSldr">
+                        		            <ul><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/videos/watch/144" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                                	<img src='http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4be8b6910f8a8/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                                	<i class="media-item-type media-item-video"></i>
+                        	    </a>			
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                
+                                	<span class="media-item-date">May 23, 2007</span>
+                        
+                            <h5><a class="meta-title" href="/videos/watch/144">Spider-Man Week in NYC: Ralph Macchio</a></h5>
+                            <p class="media-item-meta">
+                              3:03 
+                               |  
+                              behind the scenes
+                            </p>
+                          </div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/videos/watch/145" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                                	<img src='http://x.annihil.us/u/prod/marvel/i/mg/2/f0/4be8b697efaaf/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                                	<i class="media-item-type media-item-video"></i>
+                        	    </a>			
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                
+                                	<span class="media-item-date">May 23, 2007</span>
+                        
+                            <h5><a class="meta-title" href="/videos/watch/145">Spider-Man Week in NYC: Toys R Us</a></h5>
+                            <p class="media-item-meta">
+                              0:40 
+                               |  
+                              behind the scenes
+                            </p>
+                          </div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/videos/watch/146" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                                	<img src='http://x.annihil.us/u/prod/marvel/i/mg/6/90/4be8b69b65061/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                                	<i class="media-item-type media-item-video"></i>
+                        	    </a>			
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                
+                                	<span class="media-item-date">May 23, 2007</span>
+                        
+                            <h5><a class="meta-title" href="/videos/watch/146">Spider-Man Week in NYC: Sony Plaza</a></h5>
+                            <p class="media-item-meta">
+                              1:08 
+                               |  
+                              behind the scenes
+                            </p>
+                          </div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/videos/watch/147" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                                	<img src='http://x.annihil.us/u/prod/marvel/i/mg/d/00/4be8b6948b8ad/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                                	<i class="media-item-type media-item-video"></i>
+                        	    </a>			
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                
+                                	<span class="media-item-date">May 23, 2007</span>
+                        
+                            <h5><a class="meta-title" href="/videos/watch/147">Spider-Man Week in NYC: NY Public Library</a></h5>
+                            <p class="media-item-meta">
+                              3:00 
+                               |  
+                              behind the scenes
+                            </p>
+                          </div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/videos/watch/131" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                                	<img src='http://x.annihil.us/u/prod/marvel/i/mg/9/90/4be8b6745da08/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                                	<i class="media-item-type media-item-video"></i>
+                        	    </a>			
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                <span class="media-item-group">Marvel TV</span>
+                                	<span class="media-item-date">May 4, 2007</span>
+                        
+                            <h5><a class="meta-title" href="/videos/watch/131">Spider-Man 3 NYC Red Carpet Premiere</a></h5>
+                            <p class="media-item-meta">
+                              behind the scenes
+                            </p>
+                          </div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/videos/watch/133" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                                	<img src='http://x.annihil.us/u/prod/marvel/i/mg/b/90/4ce30a9c0a16d/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                                	<i class="media-item-type media-item-video"></i>
+                        	    </a>			
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                <span class="media-item-group">Spider-Man 3</span>
+                                	<span class="media-item-date">May 4, 2007</span>
+                        
+                            <h5><a class="meta-title" href="/videos/watch/133">Spider-Man 3 Movie Blog: Doug Harlocker, Prop</a></h5>
+                            <p class="media-item-meta">
+                              1:10 
+                               |  
+                              behind the scenes
+                            </p>
+                          </div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/videos/watch/132" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                                	<img src='http://i.annihil.us/u/prod/marvel/i/mg/c/20/4ce30a91ad9a8/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                                	<i class="media-item-type media-item-video"></i>
+                        	    </a>			
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                <span class="media-item-group">Spider-Man 3</span>
+                                	<span class="media-item-date">May 3, 2007</span>
+                        
+                            <h5><a class="meta-title" href="/videos/watch/132">Spider-Man 3 Movie Blog: George Stevens</a></h5>
+                            <p class="media-item-meta">
+                              1:22 
+                               |  
+                              behind the scenes
+                            </p>
+                          </div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/videos/watch/125" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                                	<img src='http://x.annihil.us/u/prod/marvel/i/mg/e/b0/4ce30a7cf12dc/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                                	<i class="media-item-type media-item-video"></i>
+                        	    </a>			
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                <span class="media-item-group">Spider-Man 3</span>
+                                	<span class="media-item-date">May 1, 2007</span>
+                        
+                            <h5><a class="meta-title" href="/videos/watch/125">Spider-Man 3 Movie Blog: Chasing Flint Marko</a></h5>
+                            <p class="media-item-meta">
+                              1:10 
+                               |  
+                              behind the scenes
+                            </p>
+                          </div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/videos/watch/130" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                                	<img src='http://x.annihil.us/u/prod/marvel/i/mg/3/10/4ce30a8783006/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                                	<i class="media-item-type media-item-video"></i>
+                        	    </a>			
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                <span class="media-item-group">Spider-Man 3</span>
+                                	<span class="media-item-date">May 1, 2007</span>
+                        
+                            <h5><a class="meta-title" href="/videos/watch/130">Spider-Man 3 Movie Blog: Trailer Tours</a></h5>
+                            <p class="media-item-meta">
+                              2:16 
+                               |  
+                              behind the scenes
+                            </p>
+                          </div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/videos/watch/127" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                                	<img src='http://x.annihil.us/u/prod/marvel/i/mg/c/b0/4be8b79fb37c0/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                                	<i class="media-item-type media-item-video"></i>
+                        	    </a>			
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                <span class="media-item-group">Spider-Man 3</span>
+                                	<span class="media-item-date">May 1, 2007</span>
+                        
+                            <h5><a class="meta-title" href="/videos/watch/127">Spider-Man 3 Teaser</a></h5>
+                            <p class="media-item-meta">
+                              1:37 
+                               |  
+                              trailer
+                            </p>
+                          </div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/videos/watch/126" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                                	<img src='http://x.annihil.us/u/prod/marvel/i/mg/9/d0/4be8b79c2c339/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                                	<i class="media-item-type media-item-video"></i>
+                        	    </a>			
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                <span class="media-item-group">Movie Trailers</span>
+                                	<span class="media-item-date">May 1, 2007</span>
+                        
+                            <h5><a class="meta-title" href="/videos/watch/126">Spider-Man 3 Trailer 2</a></h5>
+                            <p class="media-item-meta">
+                              3:06 
+                               |  
+                              trailer
+                            </p>
+                          </div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/videos/watch/129" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                                	<img src='http://x.annihil.us/u/prod/marvel/i/mg/9/d0/4be8b79c2c339/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                                	<i class="media-item-type media-item-video"></i>
+                        	    </a>			
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                <span class="media-item-group">Movie Trailers</span>
+                                	<span class="media-item-date">May 1, 2007</span>
+                        
+                            <h5><a class="meta-title" href="/videos/watch/129">Spider-Man 3 TV Trailer 1</a></h5>
+                            <p class="media-item-meta">
+                              1:02 
+                               |  
+                              trailer
+                            </p>
+                          </div>
+                        </div></li></ul>
+                        		        </div>
+                        		    </div>
+                        		</div>
+                        		<script>
+                        			var options = {};
+                        
+                        			PwrSldrInstantiator.run(options);
+                        		</script>
+                          </div>
+                        </section>
+                        <section class="module moduColor_Light  ">
+                          <div class="grid-container">
+                        		<h2 class="module-header">Images 
+                        
+                        <a href="/images/gallery/movie/17/spider-man_3" class="see-all" >See all</a>
+                        </h2>
+                        		<div class="pwrSldr_container JCS1 JCS1-image JCS1-media" id="">
+                        		    <a href="#" class="pwrSldr_btn _prev"><span></span></a>
+                        		    <a href="#" class="pwrSldr_btn _next"><span></span></a>
+                        		    <div class="pwrSldr_wrapper">
+                        		        <div id="" class="pwrSldr">
+                        		            <ul><li>
+                        <div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/images/gallery/movie/17/images_from_spider-man_3/image/843616" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                        	        	<img src='http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4ce194a447595/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                                    <i class="media-item-type media-item-img"></i>
+                        	    </a>
+                               
+                          	</div>
+                          	<div class="row-item-text">
+                              <span class="media-item-date"></span>
+                            	<h5><a class="meta-title" href="/images/gallery/movie/17/images_from_spider-man_3/image/843616">Untitled Image</a></h5>
+                        	</div>
+                        </div></li><li>
+                        <div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/images/gallery/movie/17/images_from_spider-man_3/image/1538" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                        	        	<img src='http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bc776f2417b0/landscape_xlarge.jpg' title="The darkness within." alt="The darkness within." />
+                                    <i class="media-item-type media-item-img"></i>
+                        	    </a>
+                               
+                          	</div>
+                          	<div class="row-item-text">
+                              <span class="media-item-date"></span>
+                            	<h5><a class="meta-title" href="/images/gallery/movie/17/images_from_spider-man_3/image/1538">The darkness within.</a></h5>
+                        	</div>
+                        </div></li><li>
+                        <div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/images/gallery/movie/17/images_from_spider-man_3/image/1540" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                        	        	<img src='http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bc776ee15035/landscape_xlarge.jpg' title="Flint Marko" alt="Flint Marko" />
+                                    <i class="media-item-type media-item-img"></i>
+                        	    </a>
+                               
+                          	</div>
+                          	<div class="row-item-text">
+                              <span class="media-item-date"></span>
+                            	<h5><a class="meta-title" href="/images/gallery/movie/17/images_from_spider-man_3/image/1540">Flint Marko</a></h5>
+                        	</div>
+                        </div></li><li>
+                        <div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/images/gallery/movie/17/images_from_spider-man_3/image/3443" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                        	        	<img src='http://x.annihil.us/u/prod/marvel/i/mg/9/e0/4c7d696b9aa63/landscape_xlarge.jpg' title="Swinging onto screens May 4th" alt="Swinging onto screens May 4th" />
+                                    <i class="media-item-type media-item-img"></i>
+                        	    </a>
+                               
+                          	</div>
+                          	<div class="row-item-text">
+                              <span class="media-item-date"></span>
+                            	<h5><a class="meta-title" href="/images/gallery/movie/17/images_from_spider-man_3/image/3443">Swinging onto screens May 4th</a></h5>
+                        	</div>
+                        </div></li><li>
+                        <div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/images/gallery/movie/17/images_from_spider-man_3/image/32229" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                        	        	<img src='http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bc4db72e4cd1/landscape_xlarge.jpg' title="The darkness is growing" alt="The darkness is growing" />
+                                    <i class="media-item-type media-item-img"></i>
+                        	    </a>
+                               
+                          	</div>
+                          	<div class="row-item-text">
+                              <span class="media-item-date"></span>
+                            	<h5><a class="meta-title" href="/images/gallery/movie/17/images_from_spider-man_3/image/32229">The darkness is growing</a></h5>
+                        	</div>
+                        </div></li><li>
+                        <div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/images/gallery/movie/17/images_from_spider-man_3/image/36061" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                        	        	<img src='http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bc483739dbb4/landscape_xlarge.jpg' title="Reflecion of black and red Spidey" alt="Reflecion of black and red Spidey" />
+                                    <i class="media-item-type media-item-img"></i>
+                        	    </a>
+                               
+                          	</div>
+                          	<div class="row-item-text">
+                              <span class="media-item-date"></span>
+                            	<h5><a class="meta-title" href="/images/gallery/movie/17/images_from_spider-man_3/image/36061">Reflecion of black and red Spidey</a></h5>
+                        	</div>
+                        </div></li><li>
+                        <div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/images/gallery/movie/17/images_from_spider-man_3/image/36069" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                        	        	<img src='http://x.annihil.us/u/prod/marvel/i/mg/6/80/4bc4836f337e1/landscape_xlarge.jpg' title="Peter Parker with Black suit underneath" alt="Peter Parker with Black suit underneath" />
+                                    <i class="media-item-type media-item-img"></i>
+                        	    </a>
+                               
+                          	</div>
+                          	<div class="row-item-text">
+                              <span class="media-item-date"></span>
+                            	<h5><a class="meta-title" href="/images/gallery/movie/17/images_from_spider-man_3/image/36069">Peter Parker with Black suit underneath</a></h5>
+                        	</div>
+                        </div></li><li>
+                        <div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/images/gallery/movie/17/images_from_spider-man_3/image/36090" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                        	        	<img src='http://x.annihil.us/u/prod/marvel/i/mg/9/80/4bc4836ab1f87/landscape_xlarge.jpg' title="Spider-Man punching the Sandman" alt="Spider-Man punching the Sandman" />
+                                    <i class="media-item-type media-item-img"></i>
+                        	    </a>
+                               
+                          	</div>
+                          	<div class="row-item-text">
+                              <span class="media-item-date"></span>
+                            	<h5><a class="meta-title" href="/images/gallery/movie/17/images_from_spider-man_3/image/36090">Spider-Man punching the Sandman</a></h5>
+                        	</div>
+                        </div></li><li>
+                        <div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/images/gallery/movie/17/images_from_spider-man_3/image/36092" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                        	        	<img src='http://i.annihil.us/u/prod/marvel/i/mg/c/80/4c7d61eee7a52/landscape_xlarge.jpg' title="Eddie Brock" alt="Eddie Brock" />
+                                    <i class="media-item-type media-item-img"></i>
+                        	    </a>
+                               
+                          	</div>
+                          	<div class="row-item-text">
+                              <span class="media-item-date"></span>
+                            	<h5><a class="meta-title" href="/images/gallery/movie/17/images_from_spider-man_3/image/36092">Eddie Brock</a></h5>
+                        	</div>
+                        </div></li><li>
+                        <div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/images/gallery/movie/17/images_from_spider-man_3/image/36094" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                        	        	<img src='http://x.annihil.us/u/prod/marvel/i/mg/b/f0/4bc48361abbe5/landscape_xlarge.jpg' title="Flint Marko before transforming" alt="Flint Marko before transforming" />
+                                    <i class="media-item-type media-item-img"></i>
+                        	    </a>
+                               
+                          	</div>
+                          	<div class="row-item-text">
+                              <span class="media-item-date"></span>
+                            	<h5><a class="meta-title" href="/images/gallery/movie/17/images_from_spider-man_3/image/36094">Flint Marko before transforming</a></h5>
+                        	</div>
+                        </div></li><li>
+                        <div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/images/gallery/movie/17/images_from_spider-man_3/image/36096" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                        	        	<img src='http://x.annihil.us/u/prod/marvel/i/mg/c/50/4bc4835d0dff3/landscape_xlarge.jpg' title="Harry watching Mary Jane performing" alt="Harry watching Mary Jane performing" />
+                                    <i class="media-item-type media-item-img"></i>
+                        	    </a>
+                               
+                          	</div>
+                          	<div class="row-item-text">
+                              <span class="media-item-date"></span>
+                            	<h5><a class="meta-title" href="/images/gallery/movie/17/images_from_spider-man_3/image/36096">Harry watching Mary Jane performing</a></h5>
+                        	</div>
+                        </div></li><li>
+                        <div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                        	    <a href="/images/gallery/movie/17/images_from_spider-man_3/image/36098" class="row-item-image-url">
+                        	    	<div class="row-item-image-border"></div>
+                        	        	<img src='http://x.annihil.us/u/prod/marvel/i/mg/6/d0/4bc483587c5b6/landscape_xlarge.jpg' title="Mary Jane on stage" alt="Mary Jane on stage" />
+                                    <i class="media-item-type media-item-img"></i>
+                        	    </a>
+                               
+                          	</div>
+                          	<div class="row-item-text">
+                              <span class="media-item-date"></span>
+                            	<h5><a class="meta-title" href="/images/gallery/movie/17/images_from_spider-man_3/image/36098">Mary Jane on stage</a></h5>
+                        	</div>
+                        </div></li></ul>
+                        		        </div>
+                        		    </div>
+                        		</div>
+                        		<script>
+                        			var options = {};
+                        
+                        			PwrSldrInstantiator.run(options);
+                        		</script>
+                          </div>
+                        </section>
+                        <section class="module moduColor_Light  ">
+                          <div class="grid-container">
+                        		<h2 class="module-header">News </h2>
+                        		<div class="pwrSldr_container JCS1 JCS1- JCS1-media" id="">
+                        		    <a href="#" class="pwrSldr_btn _prev"><span></span></a>
+                        		    <a href="#" class="pwrSldr_btn _next"><span></span></a>
+                        		    <div class="pwrSldr_wrapper">
+                        		        <div id="" class="pwrSldr">
+                        		            <ul><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                                
+                                <a href="/news/movies/18434/original_spider-man_trilogy_coming_to_blu-ray" class="row-item-image-url">
+                                	<div class="row-item-image-border"></div>
+                        	        <img src='http://i.annihil.us/u/prod/marvel/i/mg/f/e0/4f79f2ce0ce5f/landscape_xlarge.jpg' title="Spider-Man 2 Blu-ray box art" alt="Spider-Man 2 Blu-ray box art" />
+                        			<i class="media-item-type media-item-story"></i>
+                        	    </a>
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                    <span class="media-item-group">Spider-Man</span>
+                                	<span class="media-item-date">Apr 2, 2012</span>
+                        
+                                <h5><a href="/news/movies/18434/original_spider-man_trilogy_coming_to_blu-ray">Original Spider-Man Trilogy Coming to Blu-Ray</a></h5>
+                        	</div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                                
+                                <a href="/news/movies/1719/spider-man_3_now_on_dvd_and_blu-ray" class="row-item-image-url">
+                                	<div class="row-item-image-border"></div>
+                        	        <img src='http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4c07edef220fb/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                        			<i class="media-item-type media-item-story"></i>
+                        	    </a>
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                    <span class="media-item-group">Spider-Man 3</span>
+                                	<span class="media-item-date">Oct 30, 2007</span>
+                        
+                                <h5><a href="/news/movies/1719/spider-man_3_now_on_dvd_and_blu-ray">Spider-Man 3 Now on DVD and Blu-Ray</a></h5>
+                        	</div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                                
+                                <a href="/news/movies/1371/spider-man_3_swings_onto_dvd_in_october" class="row-item-image-url">
+                                	<div class="row-item-image-border"></div>
+                        	        <img src='http://x.annihil.us/u/prod/marvel/i/mg/c/d0/4c07efb75f4b9/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                        			<i class="media-item-type media-item-story"></i>
+                        	    </a>
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                    <span class="media-item-group">Spider-Man 3</span>
+                                	<span class="media-item-date">Aug 3, 2007</span>
+                        
+                                <h5><a href="/news/movies/1371/spider-man_3_swings_onto_dvd_in_october">Spider-Man 3 Swings onto DVD in October!</a></h5>
+                        	</div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                                
+                                <a href="/news/movies/1095/spider-man_week_in_nyc_videos" class="row-item-image-url">
+                                	<div class="row-item-image-border"></div>
+                        	        <img src='http://x.annihil.us/u/prod/marvel/i/mg/e/b0/4c07f2dadcb06/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                        			<i class="media-item-type media-item-story"></i>
+                        	    </a>
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                    <span class="media-item-group">Spider-Man 3</span>
+                                	<span class="media-item-date">May 23, 2007</span>
+                        
+                                <h5><a href="/news/movies/1095/spider-man_week_in_nyc_videos">Spider-Man Week in NYC Videos</a></h5>
+                        	</div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                                
+                                <a href="/news/movies/1043/stan_lee_talks_spider-man_ff_and_hulk_in_this_video" class="row-item-image-url">
+                                	<div class="row-item-image-border"></div>
+                        	        <img src='http://x.annihil.us/u/prod/marvel/i/mg/9/70/4c07f2d5e66a5/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                        			<i class="media-item-type media-item-story"></i>
+                        	    </a>
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                    <span class="media-item-group">Fantastic Four: Rise of...</span>
+                                	<span class="media-item-date">May 16, 2007</span>
+                        
+                                <h5><a href="/news/movies/1043/stan_lee_talks_spider-man_ff_and_hulk_in_this_video">Stan Lee talks Spider-Man, FF and Hulk in this video</a></h5>
+                        	</div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                                
+                                <a href="/news/movies/1077/spider-man_3_continues_to_dominate_the_box_office" class="row-item-image-url">
+                                	<div class="row-item-image-border"></div>
+                        	        <img src='http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4c07f2d128312/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                        			<i class="media-item-type media-item-story"></i>
+                        	    </a>
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                    <span class="media-item-group">Spider-Man 3</span>
+                                	<span class="media-item-date">May 14, 2007</span>
+                        
+                                <h5><a href="/news/movies/1077/spider-man_3_continues_to_dominate_the_box_office">Spider-Man 3 Continues to Dominate the Box Office</a></h5>
+                        	</div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                                
+                                <a href="/news/movies/1053/spider-man_tech_5_behind-the-scenes_videos" class="row-item-image-url">
+                                	<div class="row-item-image-border"></div>
+                        	        <img src='http://x.annihil.us/u/prod/marvel/i/mg/9/20/4c07f2ca1882d/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                        			<i class="media-item-type media-item-story"></i>
+                        	    </a>
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                    <span class="media-item-group">Spider-Man 3</span>
+                                	<span class="media-item-date">May 9, 2007</span>
+                        
+                                <h5><a href="/news/movies/1053/spider-man_tech_5_behind-the-scenes_videos">Spider-Man Tech: 5 Behind-the-Scenes Videos</a></h5>
+                        	</div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                                
+                                <a href="/news/movies/305/spider-man_3_crushes_box_office_records" class="row-item-image-url">
+                                	<div class="row-item-image-border"></div>
+                        	        <img src='http://x.annihil.us/u/prod/marvel/i/mg/6/20/4c07f2c32891a/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                        			<i class="media-item-type media-item-story"></i>
+                        	    </a>
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                    <span class="media-item-group">Spider-Man 3</span>
+                                	<span class="media-item-date">May 7, 2007</span>
+                        
+                                <h5><a href="/news/movies/305/spider-man_3_crushes_box_office_records">Spider-Man 3 Crushes Box Office Records</a></h5>
+                        	</div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                                
+                                <a href="/news/movies/300/spider-man_3_in_theaters_now" class="row-item-image-url">
+                                	<div class="row-item-image-border"></div>
+                        	        <img src='http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4bc45ecc96189/landscape_xlarge.jpg' title="Tobey Maguire as Spider-Man" alt="Tobey Maguire as Spider-Man" />
+                        			<i class="media-item-type media-item-story"></i>
+                        	    </a>
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                    <span class="media-item-group">Spider-Man 3</span>
+                                	<span class="media-item-date">May 4, 2007</span>
+                        
+                                <h5><a href="/news/movies/300/spider-man_3_in_theaters_now">Spider-Man 3 in Theaters Now</a></h5>
+                        	</div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                                
+                                <a href="/news/movies/1024/spider-man_3_the_red_carpet_premiere" class="row-item-image-url">
+                                	<div class="row-item-image-border"></div>
+                        	        <img src='http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bc4622d4407c/landscape_xlarge.jpg' title="old man Spider-Man" alt="old man Spider-Man" />
+                        			<i class="media-item-type media-item-story"></i>
+                        	    </a>
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                    <span class="media-item-group">Spider-Man 3</span>
+                                	<span class="media-item-date">May 1, 2007</span>
+                        
+                                <h5><a href="/news/movies/1024/spider-man_3_the_red_carpet_premiere">Spider-Man 3: The Red Carpet Premiere</a></h5>
+                        	</div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                                
+                                <a href="/news/movies/1007/spider-man_3_the_spider_the_goblin" class="row-item-image-url">
+                                	<div class="row-item-image-border"></div>
+                        	        <img src='http://i.annihil.us/u/prod/marvel/i/mg/f/30/4c07f2be49bbd/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                        			<i class="media-item-type media-item-story"></i>
+                        	    </a>
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                    <span class="media-item-group">Spider-Man 3</span>
+                                	<span class="media-item-date">Apr 24, 2007</span>
+                        
+                                <h5><a href="/news/movies/1007/spider-man_3_the_spider_the_goblin">Spider-Man 3: The Spider & The Goblin</a></h5>
+                        	</div>
+                        </div></li><li><div class="row-item media-item">
+                            
+                            <div class="row-item-image">
+                                
+                                <a href="/news/movies/1009/heroes_for_hire_joe_quesadas_tribeca_film_fest_panel" class="row-item-image-url">
+                                	<div class="row-item-image-border"></div>
+                        	        <img src='http://i.annihil.us/u/prod/marvel/i/mg/c/20/4c07f2b71ef3c/landscape_xlarge.jpg' title="Untitled Image" alt="Untitled Image" />
+                        			<i class="media-item-type media-item-story"></i>
+                        	    </a>
+                          	</div>
+                            
+                          	<div class="row-item-text">
+                                    <span class="media-item-group">Spider-Man 3</span>
+                                	<span class="media-item-date">Apr 23, 2007</span>
+                        
+                                <h5><a href="/news/movies/1009/heroes_for_hire_joe_quesadas_tribeca_film_fest_panel">Heroes For Hire: Joe Quesada's Tribeca Film Fest Panel</a></h5>
+                        	</div>
+                        </div></li></ul>
+                        		        </div>
+                        		    </div>
+                        		</div>
+                        		<script>
+                        			var options = {};
+                        
+                        			PwrSldrInstantiator.run(options);
+                        		</script>
+                          </div>
+                        </section>
+                        
+                        
+                        
+                    
+                        
+                        <section class="module moduColor_Dark  ">
+                          <div class="grid-container">
+                        		<h2 class="module-header">MORE MOVIES </h2>
+                        		<div class="pwrSldr_container JCS1 JCS1- JCS1-bigPortrait JCS1-comic" id="">
+                        		    <a href="#" class="pwrSldr_btn _prev"><span></span></a>
+                        		    <a href="#" class="pwrSldr_btn _next"><span></span></a>
+                        		    <div class="pwrSldr_wrapper">
+                        		        <div id="" class="pwrSldr">
+                        		            <ul><li><div class="row-item movie-item">
+                            <div class="row-item-image">
+                        	    <a class="row-item-image-url" href="/movies/movie/1/spider-man_2">
+                        	    	<div class="row-item-image-border"></div>
+                                	<img src='http://i.annihil.us/u/prod/marvel/i/mg/1/20/537b742667c58/portrait_incredible.jpg' title="Spider-Man 2" alt="Spider-Man 2" />
+                        			<!--<i class="media-item-type media-item-video"></i> -->
+                        	    </a>			
+                          	</div>
+                          	<div class="row-item-text">
+                                <p class="movie-disposition watchathome">Watch at home</p>
+                                <h5><a  class="meta-title" href="/movies/movie/1/spider-man_2">Spider-Man 2</a></h5>
+                                <p class="media-item-meta">Jun 30, 2004</p>
+                        	</div>
+                        </div></li><li><div class="row-item movie-item">
+                            <div class="row-item-image">
+                        	    <a class="row-item-image-url" href="/movies/movie/6/spider-man">
+                        	    	<div class="row-item-image-border"></div>
+                                	<img src='http://x.annihil.us/u/prod/marvel/i/mg/8/d0/520129cbdc93a/portrait_incredible.jpg' title="Spider-Man" alt="Spider-Man" />
+                        			<!--<i class="media-item-type media-item-video"></i> -->
+                        	    </a>			
+                          	</div>
+                          	<div class="row-item-text">
+                                <p class="movie-disposition watchathome">Watch at home</p>
+                                <h5><a  class="meta-title" href="/movies/movie/6/spider-man">Spider-Man</a></h5>
+                                <p class="media-item-meta">May 3, 2002</p>
+                        	</div>
+                        </div></li><li><div class="row-item movie-item">
+                            <div class="row-item-image">
+                        	    <a class="row-item-image-url" href="/movies/movie/211/the_amazing_spider-man_2">
+                        	    	<div class="row-item-image-border"></div>
+                                	<img src='http://i.annihil.us/u/prod/marvel/i/mg/7/03/5333036fe1964/portrait_incredible.jpg' title="The Amazing Spider-Man 2" alt="The Amazing Spider-Man 2" />
+                        			<!--<i class="media-item-type media-item-video"></i> -->
+                        	    </a>			
+                          	</div>
+                          	<div class="row-item-text">
+                                <p class="movie-disposition watchathome">Watch at home</p>
+                                <h5><a  class="meta-title" href="/movies/movie/211/the_amazing_spider-man_2">The Amazing Spider-Man 2</a></h5>
+                                <p class="media-item-meta">May 2, 2014</p>
+                        	</div>
+                        </div></li><li><div class="row-item movie-item">
+                            <div class="row-item-image">
+                        	    <a class="row-item-image-url" href="/movies/movie/133/the_amazing_spider-man">
+                        	    	<div class="row-item-image-border"></div>
+                                	<img src='http://i.annihil.us/u/prod/marvel/i/mg/e/50/535839684295a/portrait_incredible.jpg' title="The Amazing Spider-Man" alt="The Amazing Spider-Man" />
+                        			<!--<i class="media-item-type media-item-video"></i> -->
+                        	    </a>			
+                          	</div>
+                          	<div class="row-item-text">
+                                <p class="movie-disposition watchathome">Watch at home</p>
+                                <h5><a  class="meta-title" href="/movies/movie/133/the_amazing_spider-man">The Amazing Spider-Man</a></h5>
+                                <p class="media-item-meta">Jul 3, 2012</p>
+                        	</div>
+                        </div></li></ul>
+                        		        </div>
+                        		    </div>
+                        		</div>
+                        		<script>
+                        			var options = {};
+                        
+                        			PwrSldrInstantiator.run(options);
+                        		</script>
+                          </div>
+                        </section>
+                    
+                        <section class="module moduColor_Light  ">
+                          <div class="grid-container">
+                        		<h2 class="module-header">Related Merchandise </h2>
+                        		<div class="pwrSldr_container JCS1 JCS1- JCS1-merch" id="">
+                        		    <a href="#" class="pwrSldr_btn _prev"><span></span></a>
+                        		    <a href="#" class="pwrSldr_btn _next"><span></span></a>
+                        		    <div class="pwrSldr_wrapper">
+                        		        <div id="" class="pwrSldr">
+                        		            <ul><li><div class="row-item media-item">
+                          
+                          <div class="row-item-image">
+                            <a href="http://shop.marvel.com/transfer/224510/other-accessories-accessories-the-amazing-spider-man-belt-with-buckle-by-1928-jewelry/mp/12143/1000214/?CMP=OTL-Mcom&amp;att=ProductLink" class="row-item-image-url" target="_blank">
+                              <div class="row-item-image-border"></div>
+                              <img src='http://cdn.s7.shop.marvel.com/is/image/MarvelStore/9286055432804?$marveldotcom$' title="The Amazing Spider-Man Belt with Buckle by 1928 Jewelry" alt="The Amazing Spider-Man Belt with Buckle by 1928 Jewelry" />
+                            </a>
+                          </div>
+                          
+                          <div class="row-item-text">
+                            <h5><a class="meta-title" href="http://shop.marvel.com/transfer/224510/other-accessories-accessories-the-amazing-spider-man-belt-with-buckle-by-1928-jewelry/mp/12143/1000214/?CMP=OTL-Mcom&amp;att=ProductLink" target="_blank">The Amazing Spider-Man Belt with Buckle by 1928 Jewelry</a></h5>
+                            <p class="media-item-meta">
+                              $20.99
+                            </p>
+                          </div>
+                        </div></li><li><div class="row-item media-item">
+                          
+                          <div class="row-item-image">
+                            <a href="http://shop.marvel.com/transfer/224510/other-accessories-accessories-marvel-super-heroes-belt-with-buckle/mp/12992/1000214/?CMP=OTL-Mcom&amp;att=ProductLink" class="row-item-image-url" target="_blank">
+                              <div class="row-item-image-border"></div>
+                              <img src='http://cdn.s7.shop.marvel.com/is/image/MarvelStore/9286055432989?$marveldotcom$' title="Marvel Super Heroes Belt with Buckle" alt="Marvel Super Heroes Belt with Buckle" />
+                            </a>
+                          </div>
+                          
+                          <div class="row-item-text">
+                            <h5><a class="meta-title" href="http://shop.marvel.com/transfer/224510/other-accessories-accessories-marvel-super-heroes-belt-with-buckle/mp/12992/1000214/?CMP=OTL-Mcom&amp;att=ProductLink" target="_blank">Marvel Super Heroes Belt with Buckle</a></h5>
+                            <p class="media-item-meta">
+                              $34.95
+                            </p>
+                          </div>
+                        </div></li></ul>
+                        		        </div>
+                        		    </div>
+                        		</div>
+                        		<script>
+                        			var options = {};
+                        
+                        			PwrSldrInstantiator.run(options);
+                        		</script>
+                          </div>
+                        </section>
+                    
+                        <a name="comments"></a>
+                        <div class="module moduColor_Light ">
+                          <div class="grid-container _forceRgtMar">
+                            <h2 class="module-header">Comments</h2>
+                            <script type="text/javascript">
+                            // these are just utility methods for working with cookies
+                            function setCookie(a,b,c){if(c){var d=new Date;d.setTime(d.getTime()+c*24*60*60*1e3);var e="; expires="+d.toGMTString()}else var e="";document.cookie=a+"="+b+e+"; path=/"}function getCookie(a){var b=a+"=";var c=document.cookie.split(";");for(var d=0;d<c.length;d++){var e=c[d];while(e.charAt(0)==" ")e=e.substring(1,e.length);if(e.indexOf(b)==0)return e.substring(b.length,e.length)}return null}function deleteCookie(a){setCookie(a,"",-1)}
+                        </script>
+                        
+                        <script type="text/javascript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
+                        <div id="comments"><script>
+                          (function() {
+                            
+                           var a=this;var b,c,d,e,f;function g(){return a.navigator?a.navigator.userAgent:null}f=e=d=c=b=!1;var h;if(h=g()){var i=a.navigator;b=0==h.indexOf("Opera");c=!b&&-1!=h.indexOf("MSIE");e=(d=!b&&-1!=h.indexOf("WebKit"))&&-1!=h.indexOf("Mobile");f=!b&&!d&&"Gecko"==i.product}var j=c,k=f,l=d,m=e;var n;if(b&&a.opera){var o=a.opera.version;"function"==typeof o&&o()}else k?n=/rv\:([^\);]+)(\)|;)/:j?n=/MSIE\s+([^\);]+)(\)|;)/:l&&(n=/WebKit\/(\S+)/),n&&n.exec(g());var p=document,q=p.createElement("link");q.rel="stylesheet";q.type="text/css";q.href="https://d3qdfnco3bamip.cloudfront.net/wjs/v3.0/css/livefyre_"+(m?"mobile":"embed")+".css";q.media="all";p.getElementsByTagName("head")[0].appendChild(q);var r="header hgroup footer article section aside nav figure figcaption embed audio video canvas details summary time mark".split(" "),s=p.createDocumentFragment(),t;for(t=0; t<r.length; t++){s.appendChild(p.createElement(r[t]))};
+                           })();    
+                        </script>
+                        <div class="fyre fyre-width-large fyre-bootstrap">
+                          <div class="fyre-widget">
+                            <div class="fyre-stream-stats">
+                              <div class="fyre-comment-count">
+                                <span>19 comments</span>
+                              </div>
+                        
+                              <div class="fyre-divider"></div>
+                        
+                              <div class="fyre-help">
+                                <div class="fyre-box-wrapper">
+                                  <a href="http://livefyre.com" target="_blank"><span class="fyre-logo-drop">&nbsp</span>
+                                  <img class="fyre-logo-help" src="https://d3qdfnco3bamip.cloudfront.net/wjs/v3.0/images/lf-logo.png" alt="Livefyre" /></a>
+                                  
+                                  <ul class="fyre-box-list">
+                                    <li><a href="http://livefyre.com" target="_blank" title="Get Livefyre">Get
+                                    Livefyre</a></li>
+                        
+                                    <li><a href="http://support.livefyre.com" target="_blank" title=
+                                    "FAQ">FAQ</a></li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                        
+                            <div class="fyre-auth">
+                              <div class="fyre-login-bar"><a rel="nofollow" href="#" class="fyre-user-loggedout">Sign in</a></div>
+                            </div>
+                        
+                            <div class="fyre-editor">
+                              <div class="fyre-editor-container">
+                                <div class="fyre-editor-editable" style="height: 100px;"></div>
+                        
+                                <div class="fyre-editor-toolbar">
+                                  <div class="goog-toolbar goog-toolbar-horizontal" style=
+                                  "-webkit-user-select: none;" role="toolbar" aria-activedescendant="">
+                                    <div class="goog-inline-block fyre-button-left fyre-format-button" title=""
+                                    role="button" style="-webkit-user-select: none;" id=":0">
+                                      <div class="goog-inline-block fyre-button-left-outer-box" style=
+                                      "-webkit-user-select: none;">
+                                        <div class="goog-inline-block fyre-button-left-inner-box" style=
+                                        "-webkit-user-select: none;"></div>
+                                      </div>
+                                    </div>
+                        
+                                    <div class="goog-inline-block fyre-button-left fyre-mention-button" title=""
+                                    role="button" style="-webkit-user-select: none;" id=":1">
+                                      <div class="goog-inline-block fyre-button-left-outer-box" style=
+                                      "-webkit-user-select: none;">
+                                        <div class="goog-inline-block fyre-button-left-inner-box" style=
+                                        "-webkit-user-select: none;"></div>
+                                      </div>
+                                    </div>
+                        
+                                    <div class="goog-inline-block fyre-button-left fyre-follow-button" title=""
+                                    role="button" style="-webkit-user-select: none;" id=":2">
+                                      <div class="goog-inline-block fyre-button-left-outer-box" style=
+                                      "-webkit-user-select: none;">
+                                        <div class="goog-inline-block fyre-button-left-inner-box" style=
+                                        "-webkit-user-select: none;">
+                                          + Follow
+                                        </div>
+                                      </div>
+                                    </div>
+                        
+                                    <div class=
+                                    "goog-inline-block fyre-button-right fyre-post-button fyre-post-button-enabled"
+                                    title="" role="button" style="-webkit-user-select: none;" id=":3">
+                                      <div class="goog-inline-block fyre-button-right-outer-box" style=
+                                      "-webkit-user-select: none;">
+                                        <div class="goog-inline-block fyre-button-right-inner-box" style=
+                                        "-webkit-user-select: none;">
+                                          Post comment
+                                        </div>
+                                      </div>
+                                    </div>
+                        
+                                    <div class=
+                                    "goog-inline-block fyre-button-right fyre-post-to fyre-post-to-facebook"
+                                    title="" role="button" style="-webkit-user-select: none;" id=":4">
+                                      <div class="goog-inline-block fyre-button-right-outer-box" style=
+                                      "-webkit-user-select: none;">
+                                        <div class="goog-inline-block fyre-button-right-inner-box" style=
+                                        "-webkit-user-select: none;"></div>
+                                      </div>
+                                    </div>
+                        
+                                    <div class=
+                                    "goog-inline-block fyre-button-right fyre-post-to fyre-post-to-twitter"
+                                    title="" role="button" style="-webkit-user-select: none;" id=":5">
+                                      <div class="goog-inline-block fyre-button-right-outer-box" style=
+                                      "-webkit-user-select: none;">
+                                        <div class="goog-inline-block fyre-button-right-inner-box" style=
+                                        "-webkit-user-select: none;"></div>
+                                      </div>
+                                    </div>
+                        
+                                    <div class=
+                                    "goog-inline-block fyre-button-right fyre-post-to fyre-post-to-linkedin"
+                                    title="" role="button" style="-webkit-user-select: none;" id=":7">
+                                      <div class="goog-inline-block fyre-button-right-outer-box" style=
+                                      "-webkit-user-select: none;">
+                                        <div class="goog-inline-block fyre-button-right-inner-box" style=
+                                        "-webkit-user-select: none;"></div>
+                                      </div>
+                                    </div>
+                        
+                                    <div class="goog-toolbar-separator goog-inline-block" style=
+                                    "-webkit-user-select: none;" role="separator" id=":6">
+                                      &nbsp;
+                                    </div>
+                                  </div>
+                        
+                                  <div class="fyre-format-toolbar" style="display: none;">
+                                    <div class="goog-toolbar goog-toolbar-horizontal" style=
+                                    "-webkit-user-select: none;" role="toolbar" tabindex="-1">
+                                      <div class="goog-inline-block goog-toolbar-button" title="Bold"
+                                      aria-pressed="true" role="button" style="-webkit-user-select: none;" id=
+                                      "+bold">
+                                        <div class="goog-inline-block goog-toolbar-button-outer-box" style=
+                                        "-webkit-user-select: none;">
+                                          <div class="goog-inline-block goog-toolbar-button-inner-box" style=
+                                          "-webkit-user-select: none;">
+                                            <div class="tr-icon tr-bold" style="-webkit-user-select: none;">
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                        
+                                      <div class="goog-inline-block goog-toolbar-button" title="Italic"
+                                      aria-pressed="true" role="button" style="-webkit-user-select: none;" id=
+                                      "+italic">
+                                        <div class="goog-inline-block goog-toolbar-button-outer-box" style=
+                                        "-webkit-user-select: none;">
+                                          <div class="goog-inline-block goog-toolbar-button-inner-box" style=
+                                          "-webkit-user-select: none;">
+                                            <div class="tr-icon tr-italic" style="-webkit-user-select: none;">
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                        
+                                      <div class="goog-inline-block goog-toolbar-button" title="Underline"
+                                      aria-pressed="true" role="button" style="-webkit-user-select: none;" id=
+                                      "+underline">
+                                        <div class="goog-inline-block goog-toolbar-button-outer-box" style=
+                                        "-webkit-user-select: none;">
+                                          <div class="goog-inline-block goog-toolbar-button-inner-box" style=
+                                          "-webkit-user-select: none;">
+                                            <div class="tr-icon tr-underline" style="-webkit-user-select: none;">
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                        
+                                      <div class="goog-inline-block goog-toolbar-button" title=
+                                      "Add or remove link" aria-pressed="true" role="button" style=
+                                      "-webkit-user-select: none;" id="+link">
+                                        <div class="goog-inline-block goog-toolbar-button-outer-box" style=
+                                        "-webkit-user-select: none;">
+                                          <div class="goog-inline-block goog-toolbar-button-inner-box" style=
+                                          "-webkit-user-select: none;">
+                                            <div class="tr-link" style="-webkit-user-select: none;">
+                                              Link
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                        
+                                      <div class="goog-inline-block goog-toolbar-button" title="Numbered list"
+                                      aria-pressed="true" role="button" style="-webkit-user-select: none;" id=
+                                      "+insertOrderedList">
+                                        <div class="goog-inline-block goog-toolbar-button-outer-box" style=
+                                        "-webkit-user-select: none;">
+                                          <div class="goog-inline-block goog-toolbar-button-inner-box" style=
+                                          "-webkit-user-select: none;">
+                                            <div class="tr-icon tr-insertOrderedList" style=
+                                            "-webkit-user-select: none;"></div>
+                                          </div>
+                                        </div>
+                                      </div>
+                        
+                                      <div class="goog-inline-block goog-toolbar-button" title="Bullet list"
+                                      aria-pressed="true" role="button" style="-webkit-user-select: none;" id=
+                                      "+insertUnorderedList">
+                                        <div class="goog-inline-block goog-toolbar-button-outer-box" style=
+                                        "-webkit-user-select: none;">
+                                          <div class="goog-inline-block goog-toolbar-button-inner-box" style=
+                                          "-webkit-user-select: none;">
+                                            <div class="tr-icon tr-insertUnorderedList" style=
+                                            "-webkit-user-select: none;"></div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                        
+                            <div class="fyre-comment-stream" style="">
+                              <div class="fyre-stream-sort">
+                                <a class="fyre-stream-sort-newest">Newest</a> | <a class="fyre-stream-sort-oldest">Oldest</a>
+                              </div>
+                        
+                              <div class="fyre-stream-content">      
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="https://secure.gravatar.com/avatar/670a0a88a29326a5853cbed54110e2ef/?s=50&amp;d=https://lfavatar-a.akamaihd.net/a/anon/50.jpg" class=
+                            "fyre-user-avatar" alt="imbatman1997004" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">imbatman1997004</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>It really sucks that they didn't introduce Venom until the end of the movie and then killed him off. Â They should have left the Sandman out of the movie so they could have focused more on Venom.</p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                                    
+                        
+                                
+                                    
+                        
+                                
+                                    
+                        
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="https://secure.gravatar.com/avatar/b7f6fd63a569915d7efcf73b3dce3618/?s=50&amp;d=https://lfavatar-a.akamaihd.net/a/anon/50.jpg" class=
+                            "fyre-user-avatar" alt="namor5" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">namor5</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>noff.comicbookresources.com/2013/03/06/sam-raimi-explains-why-spider-man-4-didnt-happen/?utm_source=zergnet.com&utm_medium=referral&utm_campaign=zergnet_47665</p><p><br/></p><p>why spider man 4 never happened from sam raimi</p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="http://gravatar.com/avatar/aead60bec6817c3a23282fe2e71e667c/?s=50&amp;d=http://avatars.fyre.co/a/anon/50.jpg" class=
+                            "fyre-user-avatar" alt="Reptildavidson" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">Reptildavidson</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>SPIDERMAN IS COOL.<a vocab="http://schema.org" typeof="Person" rel="nofollow" resource="acct:4485850@marvel.fyre.co" data-lf-handle="" data-lf-provider="livefyre" property="url" target="_blank" class="fyre-mention fyre-mention-livefyre">@<span property="name">SPIDERDANCE3</span></a>Â <br/></p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="http://gravatar.com/avatar/aead60bec6817c3a23282fe2e71e667c/?s=50&amp;d=http://avatars.fyre.co/a/anon/50.jpg" class=
+                            "fyre-user-avatar" alt="Reptildavidson" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">Reptildavidson</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>SPIDERMAN, I LOVE SPIDERMANÂ  SO MUCH!<br/></p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="" class=
+                            "fyre-user-avatar" alt="Saqlain07" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">Saqlain07</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>Because of your comments It has rebooted Sam Raimi collection of Spiderman wasted because of your comments.</p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="https://secure.gravatar.com/avatar/1c6c347ca30844bc96ce33ce780edf08/?s=50&amp;d=https://lfavatar-a.akamaihd.net/a/anon/50.jpg" class=
+                            "fyre-user-avatar" alt="Spiderman3301" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">Spiderman3301</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>Dang they were going to make a Spider Man 4 5 and 6 but the director and Paramount disagreed.Â </p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                                    
+                        
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="https://secure.gravatar.com/avatar/c6b47b31416c247530f36f5089c87cdd/?s=50&amp;d=https://lfavatar-a.akamaihd.net/a/anon/50.jpg" class=
+                            "fyre-user-avatar" alt="marveljules" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">marveljules</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>Lol there's like the new goblin!</p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="https://secure.gravatar.com/avatar/19ff803745bddfd39b7dd4dc593f61fc/?s=50&amp;d=https://lfavatar-a.akamaihd.net/a/anon/50.jpg" class=
+                            "fyre-user-avatar" alt="x-menunite" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">x-menunite</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>An epic ending to an already praised Spiderman trilogy. This movie features fan favorite villians like Venom and Sandman. There is one unexpected death of one of Spiderman's closest friends. ( I will not reveal who for those who don't want to be spoiled).</p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="https://secure.gravatar.com/avatar/c6b47b31416c247530f36f5089c87cdd/?s=50&amp;d=https://lfavatar-a.akamaihd.net/a/anon/50.jpg" class=
+                            "fyre-user-avatar" alt="marveljules" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">marveljules</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>People! It's theme song is Signal Fire from Snow Patrol!</p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="http://gravatar.com/avatar/308aa1ba4e6d11d007837ea03b35ac50/?s=50&amp;d=http://avatars.fyre.co/a/anon/50.jpg" class=
+                            "fyre-user-avatar" alt="456buddy456" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">456buddy456</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>i agree with you Raul656 they did mess this movie up big time.</p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="http://gravatar.com/avatar/bf920eea5978983e1c43cd63b5605238/?s=50&amp;d=http://avatars.fyre.co/a/anon/50.jpg" class=
+                            "fyre-user-avatar" alt="Raul656" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">Raul656</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>they mess this movie up big time the new one is way much better.</p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="http://gravatar.com/avatar/0a6238296fce60b6fcadd309b66f959d/?s=50&amp;d=http://avatars.fyre.co/a/anon/50.jpg" class=
+                            "fyre-user-avatar" alt="SPIDERDANCE3" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">SPIDERDANCE3</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>to superwaly ....... TRU DAT</p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="http://gravatar.com/avatar/16eaebbb20a3d537ca9bdfac180e7cb2/?s=50&amp;d=http://avatars.fyre.co/a/anon/50.jpg" class=
+                            "fyre-user-avatar" alt="superwaly" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">superwaly</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>number1captainamericafan you are an IDIOT cause Tobey Maguire is great actor and i miss him being spidey...MARVEL should release spider-man reboot but after they should make spider-man 4 with Tobey cause he is the one and real spider-man and he always will be...WE LOVE YOU TOBEY</p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="http://gravatar.com/avatar/c45b57c5f615e162f2826e8031e0cc14/?s=50&amp;d=http://avatars.fyre.co/a/anon/50.jpg" class=
+                            "fyre-user-avatar" alt="Jammo2000" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">Jammo2000</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>A good movie.  There I said it.</p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="http://gravatar.com/avatar/4139555a2fe870c13d9df982f5c429dc/?s=50&amp;d=http://avatars.fyre.co/a/anon/50.jpg" class=
+                            "fyre-user-avatar" alt="number1captainamericafan" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">number1captainamericafan</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>stupid movie. they picked a bad actor for spiderman.</p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="http://gravatar.com/avatar/3a5e6f6218ef39cea834363f6ad4835e/?s=50&amp;d=http://avatars.fyre.co/a/anon/50.jpg" class=
+                            "fyre-user-avatar" alt="carnage684" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">carnage684</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>I wish they would cancel the reboot and go back to making Spider-man 4</p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="http://gravatar.com/avatar/5a6cdcfd3c92e397b320f4f0b7412ab0/?s=50&amp;d=http://avatars.fyre.co/a/anon/50.jpg" class=
+                            "fyre-user-avatar" alt="missMARVEL-NL" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">missMARVEL-NL</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>ME TOO</p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="http://gravatar.com/avatar/fd23c674260b6ea77e33655483e0c968/?s=50&amp;d=http://avatars.fyre.co/a/anon/50.jpg" class=
+                            "fyre-user-avatar" alt="nells985" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">nells985</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>I wish they didn't reboot Spider-man!</p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                                    
+                        
+                                
+                                    
+                        
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="https://secure.gravatar.com/avatar/c1c200a51192203b29010d249b4a2c1a/?s=50&amp;d=https://lfavatar-a.akamaihd.net/a/anon/50.jpg" class=
+                            "fyre-user-avatar" alt="YoungTheo" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">YoungTheo</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p><a vocab="http://schema.org" typeof="Person" rel="nofollow" resource="acct:2957063@marvel.fyre.co" data-lf-handle="" data-lf-provider="livefyre" property="url" target="_blank" class="fyre-mention fyre-mention-livefyre">@<span property="name">number1captainamericafan</span></a> Toby fit the Peter Parker role perfectly. The way the directorÂ and the script had him act was the problem. Spiderman 2 was and still is by far an amazing Spiderman film and captured the webhead at his best. </p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        </div>
+                        <div id="powered_by_livefyre_new"><a href="http://livefyre.com" target="_blank">Powered by Livefyre</a></div>
+                        
+                        <script type="text/javascript">
+                        var lfCookieName = 'livefyre_token',
+                            authDelegate = new fyre.conv.RemoteAuthDelegate();
+                        
+                        authDelegate.login = function (delegate) {
+                            if(document.cookie.indexOf(lfCookieName) >= 0){
+                                doLivefyreAuth();
+                                delegate.success();
+                            }
+                            else {
+                                //First time the user try to login to the comments
+                                if(typeof authDelegate.loginData === 'undefined' || authDelegate.loginData.active === false || matchMedia("(max-width: 899px)").matches ) {
+                                    //Cache the login box element in an object related to the authDelegate
+                                    authDelegate.loginData = {
+                                        'login' : $("#marvel_topnav_user_button .dropdown.signin"),
+                                        'link'  : $(".fyre-user-loggedout").first(),
+                                        'active': true
+                                    };
+                                    //Posizion the login dialog and then check for window resize to redraw the position
+                                    authDelegate.loginPosition();
+                                    //$(window).on('resize',authDelegate.loginPosition);
+                                }
+                                else {
+                                    authDelegate.loginPositionReset();
+                                }
+                            }
+                        };
+                        
+                        authDelegate.loginPosition = function(){
+                            //alert('A: ' + matchMedia("(max-width: 899px)").matches);
+                            if( matchMedia("(max-width: 899px)").matches ) {
+                                document.querySelector("textarea.fyre-editor-field-mobile").blur();
+                                window.scrollTo(0,0);
+                                var ev = document.createEvent('Event');
+                                ev.initEvent(window.navigator.msPointerEnabled ? "MSPointerDown" : "ontouchstart" in window ? "touchstart" : "mousedown", true, true);
+                                document.getElementById("icon-menu").dispatchEvent(ev);
+                                document.getElementById("marvel_topnav_ul").style.display = "none";
+                                return false;
+                            }
+                        
+                            /**
+                             * [Positioning herein has dependencies in the nav structure]
+                             */
+                            authDelegate.loginData.link.css({'background': '#2d2d2d','color': 'white', 'padding': '10px', 'top':'-10px', 'left':'-10px'});
+                            var _offset = authDelegate.loginData.link.offset(),
+                                _navHeight = document.querySelectorAll('header .ad-header')[0].clientHeight,
+                                _navMaxWidth = document.getElementById('marvel_topnav').clientWidth;
+                            authDelegate.loginData.login.css({
+                                'top': _offset.top - (_navHeight - 32)+'px',
+                                'left': ( matchMedia("(min-width: 1000px)").matches ?
+                                           '0px' :
+                                           (   _offset.left - ( ($('body').width() - _navMaxWidth) / 2) ) +'px' ),
+                                'padding-top' : 0,
+                                'opacity': 1
+                            });
+                        };
+                        
+                        authDelegate.loginPositionReset = function(){
+                            authDelegate.loginData.link.css({'background': 'transparent','color': '#D30001','padding': '', 'left':'', 'top':''});
+                            authDelegate.loginData.login.css({ 'top': '','left': '','padding-top' : '', 'opacity': '' });
+                            authDelegate.loginData.active = false;
+                            $(window).off('resize',authDelegate.loginPosition);
+                        };
+                        
+                        authDelegate.logout = function () {
+                            deleteCookie(lfCookieName);
+                            var href = $("#marvel_topnav_user_button .dropdown.signin a.btn.btn-black").attr("href");
+                            window.location = href;
+                            return true;
+                        };
+                        
+                        authDelegate.viewProfile = function () {
+                            return false;
+                        };
+                        
+                        authDelegate.editProfile = function () {
+                            return false;
+                        };
+                        
+                        function doLivefyreAuth() {
+                            var cval = getCookie(lfCookieName);
+                            if (cval) {
+                                try {
+                                    fyre.conv.login(cval);
+                                } catch (e) {
+                                    console.log("Error attempting to login with ", lfCookieName, " cookie value: ", cval, " ", e);
+                                }
+                            }
+                        }
+                        </script>
+                        
+                        <script type="text/javascript">var lf_config = [{"collectionMeta":"eyJ0eXAiOiJqd3QiLCJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IlNwaWRlci1NYW4gMyIsInVybCI6Imh0dHA6XC9cL21hcnZlbC5jb21cL21vdmllc1wvbW92aWVcLzE3XC9zcGlkZXItbWFuXzMiLCJ0YWdzIjoiY29udGVudF90eXBlOm1vdmllLGNvbnRlbnRfaWQ6MTcsc2VjdGlvbjpNb3ZpZXMsYnVzaW5lc3NfdW5pdDpNb3ZpZXMsY29udGVudF9ncm91cDpTcGlkZXItTWFuIDMsY2hhcmFjdGVyOlNwaWRlci1NYW4sY2hhcmFjdGVyOkd3ZW4gU3RhY3ksY2hhcmFjdGVyOlRveGluIChFZGRpZSBCcm9jayksY2hhcmFjdGVyOk5vcm1hbiBPc2Jvcm4sY2hhcmFjdGVyOkouIEpvbmFoIEphbWVzb24sY2hhcmFjdGVyOkhhcnJ5IE9zYm9ybixjaGFyYWN0ZXI6U2FuZG1hbix0YWc6YnJ5Y2UgZGFsbGFzIGhvd2FyZCx0YWc6ZWRkaWUgYnJvY2ssdGFnOmdyZWVuIGdvYmxpbix0YWc6amFtZXMgY3JvbXdlbGwsdGFnOmphbWVzIGZyYW5jbyx0YWc6a2lyc3RlbiBkdW5zdCx0YWc6c2FtIHJhaW1pLHRhZzpzYW5kbWFuLHRhZzpzcGlkZXItbWFuLHRhZzpzcGlkZXItbWFuIDMsdGFnOnRob21hcyBoYWRlbiBjaHVyY2gsdGFnOnRvYmV5IG1hZ3VpcmUsdGFnOnRvcGhlciBncmFjZSx0YWc6dmVub20iLCJ0eXBlIjoiY29tbWVudHMiLCJjaGVja3N1bSI6IjRlODE1MWNmZTU1Zjg2YTdhMTZlZWRjZWMwOWFlZDBmIiwiYXJ0aWNsZUlkIjoibW92aWUtMTcifQ.Pk1MRKxq6gzG77AHQW5EqYZpEj7oYSbLYnYWXnBUNlM","checksum":"4e8151cfe55f86a7a16eedcec09aed0f","siteId":"319022","articleId":"movie-17","el":"comments","disableAvatars":false,"postToButtons":["tw","fb"]}];var conv = fyre.conv.load({"network": "marvel.fyre.co", "authDelegate": authDelegate, "editorCss": {"font":"14px/23px TradeGothic,sans-serif"} }, lf_config , function(widget) {
+                                            widget.on("initialRenderComplete", function (data) {
+                                            doLivefyreAuth();
+                                        });
+                                        });</script>
+                        <script type="text/javascript">
+                            var link = document.createElement('script');
+                            link.type = "text/javascript";
+                            link.src = "http://zor.livefyre.com/wjs/v1.0/javascripts/CommentCount.js";
+                            link.setAttribute('data-lf-domain', 'marvel.fyre.co');
+                            document.getElementsByTagName('head')[0].appendChild(link);
+                        </script>
+                          </div>
+                        </div>
+                    
+  <!--[if IE 8]> <div class="marvelWidget_Container notresponsive lt-IE9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<div class="marvelWidget_Container notresponsive">
+<!--<![endif]-->
+                    <div id="marvel_topnav_search_footer" class="marvel_search_box footer open">
+                      <form method="get" action="http://marvel.com/search/?q=">
+                        <a href="/"><span class="icon-marvel-logo"></span></a>
+                        
+                        <div class="searchbg"></div>
+                        <div>
+                          <input type="text" name="q" class="txtSearch"  tabindex="1" placeholder="SEARCH" >
+                          <select name="category" class="marvel_search_select ">
+                              <option value="All" selected>All</option>
+                              <option value="comics" >Comics</option>
+                              <option value="movies" >Movies</option>
+                              <option value="videos" >Videos</option>
+                              <option value="games" >Games</option>
+                              <option value="tv" >TV</option>
+                              <option value="characters" >Characters</option>
+                              <option value="news" selected>News</option>
+                              <option value="wallpapers" >Wallpapers</option>
+                              <option value="images" >Images</option>
+                              <option value="podcasts" >Podcasts</option>
+                          </select>
+                          <button class="btn btn-red btn-search" tabindex="2" type="submit"><span>Search</span></button>
+                        </div>
+                      </form>
+                    </div>
+                    <script>$(".marvel_search_select").customSelectMenu();</script>
+                    
+        <script type="text/javascript">
+        (function() {
+           function async_load(){
+        	 	files = new Array();
+        
+                    	for(i in files) {
+        					        s = document.createElement('script');
+        					        s.type = files[i].type;
+        					        s.async = files[i].async;
+        					        s.src = files[i].src;
+        					        var x = document.getElementsByTagName('script')[0];
+        					        x.parentNode.insertBefore(s, x);
+                		}
+        		}
+        					    if (window.attachEvent) {
+        					        window.attachEvent('onload', async_load);
+        					    } else {
+        					        window.addEventListener('load', async_load, false);
+        					    }
+        					})();
+        </script>
+        
+  <div id="marvel_footer_wrapper">
+
+        <div class="marvel_footer" id="marvel_footer">
+      <div class="html_aside">
+        <h4>Comics</h4>
+        <ul>
+          <li><a href="http://marvel.com/comics/calendar/">Release Calendar</a></li>
+          <li><a href="http://marvel.com/comics/unlimited/">Marvel Unlimited</a></li>
+          <li><a href="http://marvel.com/redeem/">Redeem Digital Copy</a></li>
+          <li><a href="http://comicstore.marvel.com/">Shop Digital Comics</a></li>
+          <li><a href="http://subscriptions.marvel.com/">Print Subscriptions</a></li>
+          <li><a href="http://developer.marvel.com" class="vt-p">Developer Portal</a></li>
+
+        </ul>
+      </div>
+
+      <div class="html_aside">
+        <h4>Characters</h4>
+        <ul>
+          <li><a href="http://marvel.com/characters/bio/1009610/spider-man">Spider-Man</a></li>
+          <li><a href="http://marvel.com/characters/bio/1009165/avengers">Avengers</a></li>
+          <li><a href="http://marvel.com/characters/bio/1009368/iron_man">Iron Man</a></li>
+          <li><a href="http://marvel.com/characters/bio/1009351/hulk">Hulk</a></li>
+          <li><a href="http://marvel.com/universe/">Universe Wiki</a></li>
+        </ul>
+      </div>
+
+      <div class="html_aside">
+        <h4>Downloads</h4>
+        <ul>
+          <li><a href="http://marvel.com/mobile/">Mobile Apps</a></li>
+          <li><a href="http://marvel.com/mobile/#games">Mobile Games</a></li>
+          <li><a href="http://marvel.com/podcasts/">Podcast</a></li>
+          <li><a href="http://marvel.com/wallpaper/">Wallpaper</a></li>
+        </ul>
+      </div>
+
+      <div class="html_aside">
+        <h4>Kids</h4>
+        <ul>
+          <li><a href="http://marvelkids.marvel.com/">Marvel Kids</a></li>
+          <li><a href="http://marvelkids.marvel.com/">Kids Videos</a></li>
+          <li><a href="http://spiderman.marvelkids.com/games/">Kids Games</a></li>
+          <li><a href="http://spiderman.marvelkids.com/activities/">Kids Activities</a></li>
+        </ul>
+      </div>
+
+      <div class="html_aside">
+        <h4>Marvel</h4>
+        <ul>
+          <li><a href="http://marvel.com/help/">Help/FAQs</a></li>
+          <li><a href="https://marvel.com/preferences/email/">Email Preferences</a></li>
+          <li><a href="http://marvel.com/corporate/about/">About Marvel</a></li>
+          <li><a href="http://marvel.com/corporate/advertising/">Advertising</a></li>
+          <li><a href="http://marvel.com/corporate/interns/">Internships</a></li>
+          <li><a href="http://marvel.disneycareers.com/en/default/">Careers</a></li>
+        </ul>
+      </div>
+    </div>
+    
+        <div class="marvel_footer_sub_wrapper">
+        <h4>Follow Marvel</h4>
+        <span>
+          <a href="http://www.facebook.com/Marvel" target="_blank"><span class="icon-facebook"></span></a>
+          <a href="https://plus.google.com/+marvel/posts" target="_blank"><span class="icon-google-plus"></span></a>
+          <a href="https://twitter.com/#!/marvel" target="_blank"><span class="icon-twitter"></span></a>
+          <a href="http://marvelentertainment.tumblr.com/" target="_blank"><span class="icon-tumblr"></span></a>
+          <a href="http://www.youtube.com/marvel" target="_blank"><span class="icon-youtube"></span></a>
+          <a href="http://pinterest.com/marvelofficial/" target="_blank"><span class="icon-pinterest"></span></a>
+        </span>
+
+        <!--
+        <h4>Get the Marvel Newsletter</h4>
+        <button class="btn btn-grey btn-small" href="https://marvel.com/my_account/emailpreferences"><span>Subscribe</span></button>
+        -->
+        <!--<li class="arrow"><a href="#top">&uarr; Top</a></li>-->
+    </div>
+    
+    <div class="marvel_footer_sub_partners_wrapper">
+              <a target="_blank" href="http://disneytermsofuse.com">Terms of Use</a>
+        <a target="_blank" href="https://disneyprivacycenter.com">Privacy Policy</a>
+        <a target="_blank" href="https://disneyprivacycenter.com/notice-to-california-residents">Your California Privacy Rights</a>
+        <a target="_blank" href="https://disneyprivacycenter.com/kids-privacy-policy/english/">Childrenâs Online Privacy Policy</a>
+        <a target="_blank" href="http://marvel.com/corporate/license_tou">License Agreement</a>
+        <a target="_blank" href="http://preferences-mgr.truste.com/?type=marvel&affiliateId=115" onclick="window.open('http://preferences-mgr.truste.com/?type=marvel&affiliateId=115','popup','width=986,height=878,scrollbars=yes,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Interest-Based Ads</a>
+        <a target="_blank" href="http://marvel.com/corporate/terms/">&copy; 2015 Marvel</a>
+                </div>
+  </div>
+</div><!--/responsive toggler wrapper-->
+
+<div class="footer_googleadservices_wrapper">
+
+  <!-- Google Code for AVX Homepage Visit Remarketing List -->
+  <script type="text/javascript">
+  /* <![CDATA[ */
+  var google_conversion_id = 951293568;
+  var google_conversion_language = "en";
+  var google_conversion_format = "3";
+  var google_conversion_color = "ffffff";
+  var google_conversion_label = "4s7QCPDyoQMQgK3OxQM";
+  var google_conversion_value = 0;
+  /* ]]> */
+  </script>
+
+  <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+  <noscript>
+    <div style="display:inline;">
+      <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/951293568/?label=4s7QCPDyoQMQgK3OxQM&amp;guid=ON&amp;script=0"/>
+    </div>
+  </noscript>
+</div>
+
+<!-- nomdcu no cookie -->
+
+        <script type="text/javascript" src="http://i.annihil.us/u/prod/marvel/s/js/482dc5fc15f5f24a1263a59a86217dd5.js"></script>
+        <script type="text/javascript" src="http://i.annihil.us/u/prod/marvel/s/js/fb5b6884e53b904fa43a5da58306d80a.js"></script>
+        
+
+<!--  FACEBOOOK -->
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=193166954153103";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+window.fbAsyncInit = function() {
+  _ga.trackFacebook();
+};
+</script>
+</body>
+</html>

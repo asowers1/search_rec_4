@@ -1,0 +1,1811 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="no-js"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="description" content="View Elton John song lyrics by popularity along with songs featured in, albums, videos and song meanings. We have 41 albums and 669 song lyrics in our database."/>
+<link rel="next" content="http://www.metrolyrics.com/elton-john-alpage-1.html"/>
+<meta name="viewport" content="width=device-width, maximum-scale=1.0"/>
+<title>Elton John Song Lyrics | MetroLyrics</title>
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="search" type="application/opensearchdescription+xml" title="metrolyrics" href="/tools/ff_search_bar.xml">
+<link rel="canonical" href="http://www.metrolyrics.com/elton-john-lyrics.html"/>
+<link pagespeed_no_defer="" rel="stylesheet" href="http://www.metrolyrics.com/css/desktop/artist-lyrics-v5.2.9.2.css">
+<script pagespeed_no_defer="" src="http://www.metrolyrics.com/js/vendor/uuid.min-v5.2.9.2.js"></script>
+<script src="http://www.metrolyrics.com/js/vendor/modernizr-2.6.2.min.js.pagespeed.jm.HFGCZXAk6a.js"></script>
+<script pagespeed_no_defer="">var ml=ml||{"v":"5.2.9.2","eC":"Artist Lyrics","theme":"desktop","isDev":false,"USOnly":"Yes","api":"http:\/\/api.metrolyrics.com\/v1\/\/lyrics\/artist\/X-API-KEY\/196f657a46afb63ce3fd2015b9ed781280337ea7\/format\/jsonp\/artistid\/3899","lyricCount":669,"pageLimit":75,"offsetStart":74,"pushStateUrl":"elton-john-alpage-","pushStatePage":1,"offset":0},vguid=uuid.v1(),googletag=googletag||{};googletag.cmd=googletag.cmd||[];ml.adData={isSkin:false,isBlank:true,skinType:"null"};ml.ev=function(eA,eL,eV){var keys=['eA','eL','eV'],data={'event':'ge','eC':ml.eC};for(var i=0;i<arguments.length;i++){data[keys[i]]=arguments[i];};if(typeof om!='undefined'&&typeof om.trackClick==='function'){om.trackClick({'item':eA+'|'+eL});}
+return dataLayer.push(data);};window.ev=ml.ev;document.cookie="s_tagEnv=live; path=/";</script>
+<script pagespeed_no_defer="">var dataLayer=dataLayer||[];(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-6QP2');</script>
+<script src='http://c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+<script>try{amznads.getAds('3037');}catch(e){}</script>
+<script>(function(){var gads=document.createElement('script');gads.async=true;gads.type='text/javascript';var useSSL='https:'==document.location.protocol;gads.src=(useSSL?'https:':'http:')+'//www.googletagservices.com/tag/js/gpt.js';var node=document.getElementsByTagName('script')[0];node.parentNode.insertBefore(gads,node);})();googletag.cmd.push(function(){googletag.defineOutOfPageSlot("/8264/aw-metrolyrics/artist/lyrics","interstitial").addService(googletag.pubads());googletag.defineSlot('/8264/aw-metrolyrics/artist/lyrics',[[1600,1000]],'div-gpt-ad-skin').addService(googletag.pubads()).setTargeting("pos","top");if(ml.eC!=="Homepage"){window.lb_slot=googletag.defineSlot('/8264/aw-metrolyrics/artist/lyrics',[[728,90],[970,66],[970,250]],'div-gpt-ad-leaderboard').addService(googletag.pubads()).setTargeting("pos","top");}googletag.defineSlot('/8264/aw-metrolyrics/artist/lyrics',[[300,250],[300,500],[300,600]],'div-gpt-ad-mpu').addService(googletag.pubads()).setTargeting("pos","top");googletag.defineSlot('/8264/aw-metrolyrics/artist/lyrics',[[300,250]],'div-gpt-ad-mpu_middle').addService(googletag.pubads()).setTargeting("pos","middle");googletag.defineSlot('/8264/aw-metrolyrics/artist/lyrics',[[728,90],[970,66]],'div-gpt-ad-leaderboard_bottom').addService(googletag.pubads()).setTargeting("pos","bottom");googletag.pubads().setTargeting('vguid',vguid).setTargeting("ptype","lyrics_list").setTargeting("inskin","yes").setTargeting("ar",["eltonjohn","billyjoel","beatles","queen","simongarfunkel","eagles","ericclapton","rollingstones","u2","beachboys","fleetwoodmac"]).setTargeting("tag","Rock").setTargeting("cid","3899").setTargeting("artist","eltonjohn");var ftag=false,ftagHash=false,ftagSession=localStorage.getItem('ftagSession')||false;if(window.location.hash.indexOf('ftag=')!=-1){ftagHash=window.location.hash.substring(window.location.hash.indexOf('ftag=')+5);}
+if(ftag!=false){localStorage.setItem('ftagSession',ftag)
+googletag.pubads().setTargeting('ftag',ftag);}else if(ftagHash!=false){localStorage.setItem('ftagSession',ftagHash)
+googletag.pubads().setTargeting('ftag',ftagHash);}else if(ftagSession!=false){googletag.pubads().setTargeting('ftag',ftagSession);}
+var key='amznslots';var values=amznads.getTokens();try{amznads.setTargetingForGPTAsync('amznslots');}catch(e){}
+googletag.pubads().enableAsyncRendering();googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();googletag.enableServices();});function renderAdCallback(adData){ml.adData=adData;var sticker=document.getElementsByClassName('sticker')[0];if(sticker){sticker.style.display='none';}
+if(ml.eC==="Homepage"&&adData.isSkin&&!adData.isBlank){var lbh=document.getElementById('div-gpt-ad-leaderboard_homepage');document.getElementById('div-gpt-ad-leaderboard').innerHTML=lbh.innerHTML;lbh.parentNode.removeChild(lbh);document.getElementsByClassName('top-sponsor')[0].style.display='block';}}</script>
+<link rel=dns-prefetch href="//cn.cbsimg.net">
+<link rel=dns-prefetch href="//c.compete.com">
+<link rel=dns-prefetch href="//metrolyrics.disqus.com">
+<link rel=dns-prefetch href="//edge.quantserve.com">
+<link rel=dns-prefetch href="//tcr.tynt.com">
+<link rel=dns-prefetch href="//c9.static.nrcdn.com">
+</head>
+<body itemscope itemtype="http://schema.org/WebPage">
+<script pagespeed_no_defer="">var utag_data={"siteSection":"artist","pageType":"lyrics_list","musicArtistName":"Elton John","musicArtistId":"ml-artist-3899","siteHier":["Artist Page"],"siteType":"desktop web","deviceType":"desktop","bkPath":"\/8264\/aw-metrolyrics\/artist\/lyrics","bkAr":"eltonjohn,billyjoel,beatles,queen,simongarfunkel,eagles,ericclapton,rollingstones,u2,beachboys,fleetwoodmac","bkTag":"Rock"}||{},findingMethod='External';if(document.referrer&&document.referrer.indexOf(window.location.host)!=-1){if(document.cookie.match('mlFindingMethod=(.+?);')){findingMethod=document.cookie.match('mlFindingMethod=(.+?);')[1];findingMethod=decodeURIComponent(findingMethod.replace(/\+/g,' '));}}
+utag_data.pageFindingMethod=findingMethod;if(typeof(vguid)!=="undefined"){utag_data.pageViewGuid=vguid;}
+(function(a,b,c,d){a='//tags.tiqcdn.com/utag/cbsi/metrolyricssite/prod/utag.js';b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);})();</script>	<div class="page" id="page">
+<div class="overlay" id="overlay"></div>
+<div class="mobile-view">
+<div class="label subtle">You are now on the desktop site.</div>
+<div class="label highlight">
+Return to mobile?
+<span class="yes">Yes</span>
+<span class="no">No</span>
+</div>
+</div>
+<header class="page-header" ng-controller="headerCtrl">
+<div class="header-top" id="header-top">
+<div class="row">
+<div class="logo grid_3">
+<a href="http://www.metrolyrics.com/" onmousedown="ev('Header','Logo');" title="Metrolyrics Homepage">Lyrics</a>
+</div>
+<nav class="nav-main grid_6">
+<ul class="clearfix">
+<li><a href="http://www.metrolyrics.com/top100.html" onmousedown="ev('Header','Lyrics');">Top 100</a></li>
+<li><a href="http://www.metrolyrics.com/videos.html" onmousedown="ev('Header','Videos');">Videos</a></li>
+<li><a href="http://www.metrolyrics.com/news.html" onmousedown="ev('Header','News');">Features</a></li>
+<li class="active"><a href="http://www.metrolyrics.com/top-artists.html" onmousedown="ev('Header','Artists');">Artists</a></li>
+</ul>
+</nav>
+<div class="hdr-search grid_3" id="search-container">
+<form class="search-form" action="/search">
+<input type="text" class="search-ip" id="search-ip" name="search" ng-click="$root.header.search.open();" placeholder="Search for lyrics" onmousedown="ev('Search','Header');"/>
+<input type="submit" value="Search" class="search-btn" onmousedown="ev('Search','Header Button');"/>
+</form>
+</div>
+</div>
+</div>
+</header>
+<div id="mantle_skin">
+<div style="display:none" id='div-gpt-ad-skin'></div>
+<div class="top-sponsor">
+<div id='div-gpt-ad-leaderboard'></div>	</div>
+<div id="skin-wrap">
+<div id="bg-top" class="bg-top">
+<div><img src="http://netstorage.metrolyrics.com/artists/hero/default/4.jpg" alt="Elton John lyrics"/></div>
+</div>
+<div class="main clearfix" role="main">
+<div id="artist-lyrics">
+<div class="artist-header content-header row">
+<div class="grid_6 suffix_6">
+<h1>Elton John</h1>
+<p>
+<a href="http://www.metrolyrics.com/elton-john-overview.html" onmousedown="ev('Artist Menu','Overview');">Overview</a> /
+<a href="http://www.metrolyrics.com/elton-john-lyrics.html" class="active" onmousedown="ev('Artist Menu','Lyrics');">Lyrics
+</a> /
+<a href="http://www.metrolyrics.com/elton-john-pictures.html" onmousedown="ev('Artist Menu','Photos');">Photos</a> /
+<a href="http://www.metrolyrics.com/elton-john-videos.html" onmousedown="ev('Artist Menu','Videos');">Videos
+</a> /
+<a href="http://www.metrolyrics.com/elton-john-news.html" onmousedown="ev('Artist Menu','News');">News</a>
+</p>
+</div>
+</div>
+<div class="row">
+<div class="page-content alt clearfix">
+<div class="grid_12">
+<div class="top-songs module dark-bg">
+<header>
+<h3><span>Top</span> Songs</h3>
+</header>
+<ul class="tmb-small content clearfix">
+<li class="grid_3 alpha">
+<div>
+<a href="http://www.metrolyrics.com/your-song-lyrics-elton-john.html" onmousedown="ev('Featured Songs','searcht:your-song-lyrics-elton-john');" alt="Elton John - Your Song Lyrics" title="Elton John - Your Song Lyrics">
+<span class="tmb tmb-xs"><img alt="Elton John - Your Song Lyrics" title="Elton John - Your Song Lyrics" src="http://userserve-ak.last.fm/serve/126/5670/Elton+John.jpg"/></span>
+Your Song Lyrics
+</a>
+</div>
+</li>
+<li class="grid_3 alpha">
+<div>
+<a href="http://www.metrolyrics.com/rocket-man-lyrics-elton-john.html" onmousedown="ev('Featured Songs','searcht:rocket-man-lyrics-elton-john');" alt="Elton John - Rocket Man Lyrics" title="Elton John - Rocket Man Lyrics">
+<span class="tmb tmb-xs"><img alt="Elton John - Rocket Man Lyrics" title="Elton John - Rocket Man Lyrics" src="http://userserve-ak.last.fm/serve/126/8431959/Elton+John+eltonfoto3.jpg"/></span>
+Rocket Man Lyrics
+</a>
+</div>
+</li>
+<li class="grid_3 alpha">
+<div>
+<a href="http://www.metrolyrics.com/sacrifice-lyrics-elton-john.html" onmousedown="ev('Featured Songs','searcht:sacrifice-lyrics-elton-john');" alt="Elton John - Sacrifice Lyrics" title="Elton John - Sacrifice Lyrics">
+<span class="tmb tmb-xs"><img alt="Elton John - Sacrifice Lyrics" title="Elton John - Sacrifice Lyrics" src="http://userserve-ak.last.fm/serve/126/8431973/Elton+John+eltonfoto1.jpg"/></span>
+Sacrifice Lyrics
+</a>
+</div>
+</li>
+<li class="grid_3 alpha">
+<div>
+<a href="http://www.metrolyrics.com/dont-go-breaking-my-heart-lyrics-elton-john.html" onmousedown="ev('Featured Songs','searcht:dont-go-breaking-my-heart-lyrics-elton-john');" alt="Elton John - Don&#039;t Go Breaking My Heart Lyrics" title="Elton John - Don&#039;t Go Breaking My Heart Lyrics">
+<span class="tmb tmb-xs"><img alt="Elton John - Don&#039;t Go Breaking My Heart Lyrics" title="Elton John - Don&#039;t Go Breaking My Heart Lyrics" src="http://userserve-ak.last.fm/serve/126/10589255/Elton+John+ej9.jpg"/></span>
+Don&#039;t Go Breaking My Heart Lyrics
+</a>
+</div>
+</li>
+</ul>
+</div><!-- END: Top Songs -->
+</div>
+</div>
+</div>
+<div class="row">
+<div class="page-content tabs-wrapper clearfix" id="main-content">
+<div class="grid_8">
+<div class="module no-margin clearfix">
+<div class="grid_5 alpha">
+<ul class="tabs clearfix">
+<li><a href="http://www.metrolyrics.com/elton-john-albums-list.html" onmousedown="ev('Section Nav','By Albums');" data-ref="albums">By Albums</a></li>
+<li class='active'><a href="http://www.metrolyrics.com/elton-john-lyrics.html" onmousedown="ev('Section Nav','By Lyrics');" data-ref="lyrics">By Lyrics</a></li>
+<li><a href="http://www.metrolyrics.com/elton-john-featured.html" onmousedown="ev('Section Nav','Featured');">Featured</a></li>
+</ul>
+</div>
+<div class="grid_3 omega">
+<form class="search-form" action="/search.html">
+<input type="text" name='search' placeholder="Search for lyrics" class="search-ip" id="search-ip"/>
+<input type="submit" value="Search" class="search-btn"/>
+<input type="hidden" name="category" value="lyrics"/>
+</form>
+</div>
+</div>
+<div class="switchable lyrics clearfix">
+<div class="module" id="popular">
+<header>
+<p class="more-link">
+<a href="http://www.metrolyrics.com/add.html?artistid=3899" title="Submit New Song" rel="nofollow" onmousedown="ev('Submit New Song');">+ Submit New Song</a>
+</p>
+<h3><span>Popular</span> Songs</h3>
+</header>
+<div class="content">
+<table class="songs-table compact">
+<thead>
+<tr>
+<th class="video">&nbsp;</th>
+<th class="name" onmousedown="ev('Name Sort');" onClick='window.location="http://www.metrolyrics.com/elton-john-alpage-1.html"'>Name</th>
+<th class="year">Year </th>
+<th class="popularity active" onmousedown="ev('Popularity Sort');" onClick='window.location="http://www.metrolyrics.com/elton-john-lyrics.html"'>Popularity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/your-song-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:your-song-lyrics-elton-john');" class="title hasvidtable" title="Elton John Your Song lyrics" alt="Elton John Your Song lyrics">
+Your Song Lyrics
+</a>
+</td>
+<td content="1985">1985</td>
+<td>
+<span class="bar popular10">
+<span style="width:100%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/rocket-man-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:rocket-man-lyrics-elton-john');" class="title hasvidtable" title="Elton John Rocket Man lyrics" alt="Elton John Rocket Man lyrics">
+Rocket Man Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular9">
+<span style="width:95.531611243731%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/sacrifice-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:sacrifice-lyrics-elton-john');" class="title hasvidtable" title="Elton John Sacrifice lyrics" alt="Elton John Sacrifice lyrics">
+Sacrifice Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular8">
+<span style="width:83.65103881508%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/dont-go-breaking-my-heart-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:dont-go-breaking-my-heart-lyrics-elton-john');" class="title hasvidtable" title="Elton John Don&#039;t Go Breaking My Heart lyrics" alt="Elton John Don&#039;t Go Breaking My Heart lyrics">
+Don&#039;t Go Breaking My Heart Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular8">
+<span style="width:81.684323994645%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/can-you-feel-the-love-tonight-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:can-you-feel-the-love-tonight-lyrics-elton-john');" class="title hasvidtable" title="Elton John Can You Feel The Love Tonight lyrics" alt="Elton John Can You Feel The Love Tonight lyrics">
+Can You Feel The Love Tonight Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular8">
+<span style="width:80.018599173931%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/candle-in-the-wind-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:candle-in-the-wind-lyrics-elton-john');" class="title hasvidtable" title="Elton John Candle In The Wind lyrics" alt="Elton John Candle In The Wind lyrics">
+Candle In The Wind Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular7">
+<span style="width:79.924374700225%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/daniel-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:daniel-lyrics-elton-john');" class="title " title="Elton John Daniel lyrics" alt="Elton John Daniel lyrics">
+Daniel Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular7">
+<span style="width:79.656651118057%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/bennie-and-the-jets-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:bennie-and-the-jets-lyrics-elton-john');" class="title hasvidtable" title="Elton John Bennie And The Jets lyrics" alt="Elton John Bennie And The Jets lyrics">
+Bennie And The Jets Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular7">
+<span style="width:78.288213717141%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/sorry-seems-to-be-the-hardest-word-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:sorry-seems-to-be-the-hardest-word-lyrics-elton-john');" class="title hasvidtable" title="Elton John Sorry Seems To Be The Hardest Word lyrics" alt="Elton John Sorry Seems To Be The Hardest Word lyrics">
+Sorry Seems To Be The Hardest Word Lyrics
+</a>
+</td>
+<td content="1997">1997</td>
+<td>
+<span class="bar popular7">
+<span style="width:77.803604383734%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/tiny-dancer-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:tiny-dancer-lyrics-elton-john');" class="title " title="Elton John Tiny Dancer lyrics" alt="Elton John Tiny Dancer lyrics">
+Tiny Dancer Lyrics
+</a>
+</td>
+<td content="1985">1985</td>
+<td>
+<span class="bar popular7">
+<span style="width:77.039003786346%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/i-guess-thats-why-they-call-it-the-blues-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:i-guess-thats-why-they-call-it-the-blues-lyrics-elton-john');" class="title hasvidtable" title="Elton John I Guess That&#039;s Why They Call It The Blues lyrics" alt="Elton John I Guess That&#039;s Why They Call It The Blues lyrics">
+I Guess That&#039;s Why They Call It The Blues Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular7">
+<span style="width:72.869843717529%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/goodbye-yellow-brick-road-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:goodbye-yellow-brick-road-lyrics-elton-john');" class="title hasvidtable" title="Elton John Goodbye Yellow Brick Road lyrics" alt="Elton John Goodbye Yellow Brick Road lyrics">
+Goodbye Yellow Brick Road Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular7">
+<span style="width:70.951791562844%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/dont-let-the-sun-go-down-on-me-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:dont-let-the-sun-go-down-on-me-lyrics-elton-john');" class="title hasvidtable" title="Elton John Don&#039;t Let The Sun Go Down On Me lyrics" alt="Elton John Don&#039;t Let The Sun Go Down On Me lyrics">
+Don&#039;t Let The Sun Go Down On Me Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular6">
+<span style="width:68.679535815756%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/levon-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:levon-lyrics-elton-john');" class="title " title="Elton John Levon lyrics" alt="Elton John Levon lyrics">
+Levon Lyrics
+</a>
+</td>
+<td content="1996">1996</td>
+<td>
+<span class="bar popular6">
+<span style="width:68.537492898961%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/hello-hello-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:hello-hello-lyrics-elton-john');" class="title " title="Elton John Hello Hello lyrics" alt="Elton John Hello Hello lyrics">
+Hello Hello Lyrics
+</a>
+</td>
+<td content="2010">2010</td>
+<td>
+<span class="bar popular6">
+<span style="width:67.852098599078%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/blue-eyes-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:blue-eyes-lyrics-elton-john');" class="title hasvidtable" title="Elton John Blue Eyes lyrics" alt="Elton John Blue Eyes lyrics">
+Blue Eyes Lyrics
+</a>
+</td>
+<td content="1982">1982</td>
+<td>
+<span class="bar popular6">
+<span style="width:67.494568533265%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/friends-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:friends-lyrics-elton-john');" class="title " title="Elton John Friends lyrics" alt="Elton John Friends lyrics">
+Friends Lyrics
+</a>
+</td>
+<td content="1985">1985</td>
+<td>
+<span class="bar popular6">
+<span style="width:67.28551397558%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/the-one-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:the-one-lyrics-elton-john');" class="title hasvidtable" title="Elton John The One lyrics" alt="Elton John The One lyrics">
+The One Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular6">
+<span style="width:65.410557685305%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/im-still-standing-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:im-still-standing-lyrics-elton-john');" class="title hasvidtable" title="Elton John I&#039;m Still Standing lyrics" alt="Elton John I&#039;m Still Standing lyrics">
+I&#039;m Still Standing Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular6">
+<span style="width:64.781139308465%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/electricity-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:electricity-lyrics-elton-john');" class="title hasvidtable" title="Elton John Electricity lyrics" alt="Elton John Electricity lyrics">
+Electricity Lyrics
+</a>
+</td>
+<td content="2007">2007</td>
+<td>
+<span class="bar popular6">
+<span style="width:64.781139308465%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/something-about-the-way-you-look-tonight-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:something-about-the-way-you-look-tonight-lyrics-elton-john');" class="title hasvidtable" title="Elton John Something About The Way You Look Tonight lyrics" alt="Elton John Something About The Way You Look Tonight lyrics">
+Something About The Way You Look Tonight Lyrics
+</a>
+</td>
+<td content="1997">1997</td>
+<td>
+<span class="bar popular6">
+<span style="width:64.520094143728%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/friends-never-say-goodbye-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:friends-never-say-goodbye-lyrics-elton-john');" class="title " title="Elton John Friends Never Say Goodbye lyrics" alt="Elton John Friends Never Say Goodbye lyrics">
+Friends Never Say Goodbye Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular6">
+<span style="width:63.980820332102%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/funeral-for-a-friend-love-lies-bleeding-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:funeral-for-a-friend-love-lies-bleeding-lyrics-elton-john');" class="title " title="Elton John Funeral For A Friend (love Lies Bleeding) lyrics" alt="Elton John Funeral For A Friend (love Lies Bleeding) lyrics">
+Funeral For A Friend (love Lies Bleeding) Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular6">
+<span style="width:63.842235462606%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/nikita-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:nikita-lyrics-elton-john');" class="title " title="Elton John Nikita lyrics" alt="Elton John Nikita lyrics">
+Nikita Lyrics
+</a>
+</td>
+<td content="1985">1985</td>
+<td>
+<span class="bar popular6">
+<span style="width:63.772354688573%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/i-want-love-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:i-want-love-lyrics-elton-john');" class="title hasvidtable" title="Elton John I Want Love lyrics" alt="Elton John I Want Love lyrics">
+I Want Love Lyrics
+</a>
+</td>
+<td content="2001">2001</td>
+<td>
+<span class="bar popular6">
+<span style="width:63.198580368793%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/someone-saved-my-life-tonight-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:someone-saved-my-life-tonight-lyrics-elton-john');" class="title " title="Elton John Someone Saved My Life Tonight lyrics" alt="Elton John Someone Saved My Life Tonight lyrics">
+Someone Saved My Life Tonight Lyrics
+</a>
+</td>
+<td content="2004">2004</td>
+<td>
+<span class="bar popular6">
+<span style="width:63.124944785165%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/saturday-nights-alright-for-fighting-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:saturday-nights-alright-for-fighting-lyrics-elton-john');" class="title hasvidtable" title="Elton John Saturday Night&#039;s Alright (for Fighting) lyrics" alt="Elton John Saturday Night&#039;s Alright (for Fighting) lyrics">
+Saturday Night&#039;s Alright (for Fighting) Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular6">
+<span style="width:63.050866943128%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/crocodile-rock-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:crocodile-rock-lyrics-elton-john');" class="title " title="Elton John Crocodile Rock lyrics" alt="Elton John Crocodile Rock lyrics">
+Crocodile Rock Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular6">
+<span style="width:60.409582010121%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/candle-in-the-wind-live-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:candle-in-the-wind-live-lyrics-elton-john');" class="title hasvidtable" title="Elton John Candle In The Wind (Live) lyrics" alt="Elton John Candle In The Wind (Live) lyrics">
+Candle In The Wind (Live) Lyrics
+</a>
+</td>
+<td content="2007">2007</td>
+<td>
+<span class="bar popular6">
+<span style="width:60.130311431255%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/philadelphia-freedom-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:philadelphia-freedom-lyrics-elton-john');" class="title " title="Elton John Philadelphia Freedom lyrics" alt="Elton John Philadelphia Freedom lyrics">
+Philadelphia Freedom Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular5">
+<span style="width:58.841259787421%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/rocket-man-i-think-its-going-to-be-a-long-long-time-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:rocket-man-i-think-its-going-to-be-a-long-long-time-lyrics-elton-john');" class="title " title="Elton John Rocket Man (i Think It&#039;s Going To Be A Long, Long Time) lyrics" alt="Elton John Rocket Man (i Think It&#039;s Going To Be A Long, Long Time) lyrics">
+Rocket Man (i Think It&#039;s Going To Be A Long, Long Time) Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular5">
+<span style="width:58.307240292142%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/skyline-pigeon-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:skyline-pigeon-lyrics-elton-john');" class="title " title="Elton John Skyline Pigeon lyrics" alt="Elton John Skyline Pigeon lyrics">
+Skyline Pigeon Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular5">
+<span style="width:57.63431394745%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/mona-lisas-and-mad-hatters-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:mona-lisas-and-mad-hatters-lyrics-elton-john');" class="title " title="Elton John Mona Lisas And Mad Hatters lyrics" alt="Elton John Mona Lisas And Mad Hatters lyrics">
+Mona Lisas And Mad Hatters Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular5">
+<span style="width:57.164393353974%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/candle-in-the-wind-1997-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:candle-in-the-wind-1997-lyrics-elton-john');" class="title " title="Elton John Candle In The Wind 1997 lyrics" alt="Elton John Candle In The Wind 1997 lyrics">
+Candle In The Wind 1997 Lyrics
+</a>
+</td>
+<td content="2007">2007</td>
+<td>
+<span class="bar popular5">
+<span style="width:56.799817344741%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/sad-songs-say-so-much-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:sad-songs-say-so-much-lyrics-elton-john');" class="title hasvidtable" title="Elton John Sad Songs (say So Much) lyrics" alt="Elton John Sad Songs (say So Much) lyrics">
+Sad Songs (say So Much) Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular5">
+<span style="width:56.550638695709%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/saved-by-the-bell-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:saved-by-the-bell-lyrics-elton-john');" class="title " title="Elton John Saved By The Bell lyrics" alt="Elton John Saved By The Bell lyrics">
+Saved By The Bell Lyrics
+</a>
+</td>
+<td content="2007">2007</td>
+<td>
+<span class="bar popular5">
+<span style="width:55.90473596205%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/song-for-guy-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:song-for-guy-lyrics-elton-john');" class="title " title="Elton John Song For Guy lyrics" alt="Elton John Song For Guy lyrics">
+Song For Guy Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular5">
+<span style="width:54.795321281029%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/honky-cat-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:honky-cat-lyrics-elton-john');" class="title " title="Elton John Honky Cat lyrics" alt="Elton John Honky Cat lyrics">
+Honky Cat Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular5">
+<span style="width:54.795321281029%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/are-you-ready-for-love-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:are-you-ready-for-love-lyrics-elton-john');" class="title hasvidtable" title="Elton John Are You Ready For Love lyrics" alt="Elton John Are You Ready For Love lyrics">
+Are You Ready For Love Lyrics
+</a>
+</td>
+<td content="2007">2007</td>
+<td>
+<span class="bar popular5">
+<span style="width:54.352138623615%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/the-bitch-is-back-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:the-bitch-is-back-lyrics-elton-john');" class="title " title="Elton John The Bitch Is Back lyrics" alt="Elton John The Bitch Is Back lyrics">
+The Bitch Is Back Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular5">
+<span style="width:54.352138623615%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/empty-garden-hey-hey-johnny-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:empty-garden-hey-hey-johnny-lyrics-elton-john');" class="title " title="Elton John Empty Garden (Hey Hey Johnny) lyrics" alt="Elton John Empty Garden (Hey Hey Johnny) lyrics">
+Empty Garden (Hey Hey Johnny) Lyrics
+</a>
+</td>
+<td content="1982">1982</td>
+<td>
+<span class="bar popular5">
+<span style="width:54.352138623615%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/circle-of-life-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:circle-of-life-lyrics-elton-john');" class="title " title="Elton John Circle Of Life lyrics" alt="Elton John Circle Of Life lyrics">
+Circle Of Life Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular5">
+<span style="width:53.735313915895%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/the-measure-of-a-man-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:the-measure-of-a-man-lyrics-elton-john');" class="title " title="Elton John The Measure Of A Man lyrics" alt="Elton John The Measure Of A Man lyrics">
+The Measure Of A Man Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular5">
+<span style="width:52.918199054561%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/piano-man-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:piano-man-lyrics-elton-john');" class="title " title="Elton John Piano Man lyrics" alt="Elton John Piano Man lyrics">
+Piano Man Lyrics
+</a>
+</td>
+<td content="2007">2007</td>
+<td>
+<span class="bar popular5">
+<span style="width:52.400615827975%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/island-girl-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:island-girl-lyrics-elton-john');" class="title " title="Elton John Island Girl lyrics" alt="Elton John Island Girl lyrics">
+Island Girl Lyrics
+</a>
+</td>
+<td content="1996">1996</td>
+<td>
+<span class="bar popular5">
+<span style="width:52.223146239209%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/take-me-to-the-pilot-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:take-me-to-the-pilot-lyrics-elton-john');" class="title " title="Elton John Take Me To The Pilot lyrics" alt="Elton John Take Me To The Pilot lyrics">
+Take Me To The Pilot Lyrics
+</a>
+</td>
+<td content="1971">1971</td>
+<td>
+<span class="bar popular5">
+<span style="width:51.101107274975%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/blessed-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:blessed-lyrics-elton-john');" class="title " title="Elton John Blessed lyrics" alt="Elton John Blessed lyrics">
+Blessed Lyrics
+</a>
+</td>
+<td content="1995">1995</td>
+<td>
+<span class="bar popular5">
+<span style="width:50.703204264364%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/i-dont-wanna-go-on-with-you-like-that-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:i-dont-wanna-go-on-with-you-like-that-lyrics-elton-john');" class="title " title="Elton John I Don&#039;t Wanna Go On With You Like That lyrics" alt="Elton John I Don&#039;t Wanna Go On With You Like That lyrics">
+I Don&#039;t Wanna Go On With You Like That Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular5">
+<span style="width:50.499333116557%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/its-tough-to-be-a-god-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:its-tough-to-be-a-god-lyrics-elton-john');" class="title " title="Elton John It&#039;s Tough To Be A God lyrics" alt="Elton John It&#039;s Tough To Be A God lyrics">
+It&#039;s Tough To Be A God Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:48.969277222634%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/harmony-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:harmony-lyrics-elton-john');" class="title hasvidtable" title="Elton John Harmony lyrics" alt="Elton John Harmony lyrics">
+Harmony Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular4">
+<span style="width:48.969277222634%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/someday-out-of-the-blue-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:someday-out-of-the-blue-lyrics-elton-john');" class="title " title="Elton John Someday Out Of The Blue lyrics" alt="Elton John Someday Out Of The Blue lyrics">
+Someday Out Of The Blue Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:48.494837052845%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/princess-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:princess-lyrics-elton-john');" class="title " title="Elton John Princess lyrics" alt="Elton John Princess lyrics">
+Princess Lyrics
+</a>
+</td>
+<td content="1982">1982</td>
+<td>
+<span class="bar popular4">
+<span style="width:48.25059296024%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/oceans-away-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:oceans-away-lyrics-elton-john');" class="title hasvidtable" title="Elton John Oceans Away lyrics" alt="Elton John Oceans Away lyrics">
+Oceans Away Lyrics
+</a>
+</td>
+<td content="2013">2013</td>
+<td>
+<span class="bar popular4">
+<span style="width:48.25059296024%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/passengers-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:passengers-lyrics-elton-john');" class="title hasvidtable" title="Elton John Passengers lyrics" alt="Elton John Passengers lyrics">
+Passengers Lyrics
+</a>
+</td>
+<td content="1984">1984</td>
+<td>
+<span class="bar popular4">
+<span style="width:47.487426456641%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/michelles-song-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:michelles-song-lyrics-elton-john');" class="title " title="Elton John Michelle&#039;s Song lyrics" alt="Elton John Michelle&#039;s Song lyrics">
+Michelle&#039;s Song Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:47.222170564025%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/original-sin-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:original-sin-lyrics-elton-john');" class="title " title="Elton John Original Sin lyrics" alt="Elton John Original Sin lyrics">
+Original Sin Lyrics
+</a>
+</td>
+<td content="2001">2001</td>
+<td>
+<span class="bar popular4">
+<span style="width:47.222170564025%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/written-in-the-stars-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:written-in-the-stars-lyrics-elton-john');" class="title hasvidtable" title="Elton John Written In The Stars lyrics" alt="Elton John Written In The Stars lyrics">
+Written In The Stars Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:46.95108440724%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/your-song-live-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:your-song-live-lyrics-elton-john');" class="title hasvidtable" title="Elton John Your Song (Live) lyrics" alt="Elton John Your Song (Live) lyrics">
+Your Song (Live) Lyrics
+</a>
+</td>
+<td content="2007">2007</td>
+<td>
+<span class="bar popular4">
+<span style="width:46.67390591957%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/believe-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:believe-lyrics-elton-john');" class="title hasvidtable" title="Elton John Believe lyrics" alt="Elton John Believe lyrics">
+Believe Lyrics
+</a>
+</td>
+<td content="1995">1995</td>
+<td>
+<span class="bar popular4">
+<span style="width:46.67390591957%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/little-jeannie-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:little-jeannie-lyrics-elton-john');" class="title " title="Elton John Little Jeannie lyrics" alt="Elton John Little Jeannie lyrics">
+Little Jeannie Lyrics
+</a>
+</td>
+<td content="1988">1988</td>
+<td>
+<span class="bar popular4">
+<span style="width:46.10013159979%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/captain-fantastic-and-the-brown-dirt-cowboy-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:captain-fantastic-and-the-brown-dirt-cowboy-lyrics-elton-john');" class="title " title="Elton John Captain Fantastic And The Brown Dirt Cowboy lyrics" alt="Elton John Captain Fantastic And The Brown Dirt Cowboy lyrics">
+Captain Fantastic And The Brown Dirt Cowboy Lyrics
+</a>
+</td>
+<td content="2004">2004</td>
+<td>
+<span class="bar popular4">
+<span style="width:45.498357441373%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/no-valentines-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:no-valentines-lyrics-elton-john');" class="title " title="Elton John No Valentines lyrics" alt="Elton John No Valentines lyrics">
+No Valentines Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:45.186089531393%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/bad-side-of-the-moon-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:bad-side-of-the-moon-lyrics-elton-john');" class="title " title="Elton John Bad Side Of The Moon lyrics" alt="Elton John Bad Side Of The Moon lyrics">
+Bad Side Of The Moon Lyrics
+</a>
+</td>
+<td content="1971">1971</td>
+<td>
+<span class="bar popular4">
+<span style="width:44.536785743356%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/this-train-dont-stop-there-anymore-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:this-train-dont-stop-there-anymore-lyrics-elton-john');" class="title hasvidtable" title="Elton John This Train Don&#039;t Stop There Anymore lyrics" alt="Elton John This Train Don&#039;t Stop There Anymore lyrics">
+This Train Don&#039;t Stop There Anymore Lyrics
+</a>
+</td>
+<td content="2001">2001</td>
+<td>
+<span class="bar popular4">
+<span style="width:43.493861377661%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/the-greatest-discovery-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:the-greatest-discovery-lyrics-elton-john');" class="title " title="Elton John The Greatest Discovery lyrics" alt="Elton John The Greatest Discovery lyrics">
+The Greatest Discovery Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular4">
+<span style="width:43.493861377661%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/the-last-song-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:the-last-song-lyrics-elton-john');" class="title " title="Elton John The Last Song lyrics" alt="Elton John The Last Song lyrics">
+The Last Song Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:41.950108732056%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/without-question-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:without-question-lyrics-elton-john');" class="title " title="Elton John Without Question lyrics" alt="Elton John Without Question lyrics">
+Without Question Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:41.950108732056%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/lucy-in-the-sky-with-diamonds-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:lucy-in-the-sky-with-diamonds-lyrics-elton-john');" class="title " title="Elton John Lucy In The Sky With Diamonds lyrics" alt="Elton John Lucy In The Sky With Diamonds lyrics">
+Lucy In The Sky With Diamonds Lyrics
+</a>
+</td>
+<td content="2007">2007</td>
+<td>
+<span class="bar popular4">
+<span style="width:41.531969582988%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/when-love-is-dying-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:when-love-is-dying-lyrics-elton-john');" class="title " title="Elton John When Love Is Dying lyrics" alt="Elton John When Love Is Dying lyrics">
+When Love Is Dying Lyrics
+</a>
+</td>
+<td content="2010">2010</td>
+<td>
+<span class="bar popular4">
+<span style="width:41.531969582988%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/my-fathers-gun-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:my-fathers-gun-lyrics-elton-john');" class="title " title="Elton John My Father&#039;s Gun lyrics" alt="Elton John My Father&#039;s Gun lyrics">
+My Father&#039;s Gun Lyrics
+</a>
+</td>
+<td content="1996">1996</td>
+<td>
+<span class="bar popular4">
+<span style="width:41.099155924606%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/candle-in-the-wind-princess-diana-tribute-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:candle-in-the-wind-princess-diana-tribute-lyrics-elton-john');" class="title " title="Elton John Candle In The Wind (Princess Diana Tribute) lyrics" alt="Elton John Candle In The Wind (Princess Diana Tribute) lyrics">
+Candle In The Wind (Princess Diana Tribute) Lyrics
+</a>
+</td>
+<td content="2014">2014</td>
+<td>
+<span class="bar popular4">
+<span style="width:41.099155924606%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/madman-across-the-water-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:madman-across-the-water-lyrics-elton-john');" class="title " title="Elton John Madman Across The Water lyrics" alt="Elton John Madman Across The Water lyrics">
+Madman Across The Water Lyrics
+</a>
+</td>
+<td content="1996">1996</td>
+<td>
+<span class="bar popular4">
+<span style="width:40.185113856209%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/bennie-the-jets-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:bennie-the-jets-lyrics-elton-john');" class="title " title="Elton John Bennie &amp; the Jets lyrics" alt="Elton John Bennie &amp; the Jets lyrics">
+Bennie &amp; the Jets Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular1">
+<span style="width:17.098448769002%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/all-the-young-girls-love-alice-lyrics-elton-john.html" onmousedown="ev('Popular Songs','searcht:all-the-young-girls-love-alice-lyrics-elton-john');" class="title " title="Elton John All the Young Girls Love Alice lyrics" alt="Elton John All the Young Girls Love Alice lyrics">
+All the Young Girls Love Alice Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular1">
+<span style="width:13.550200059685%;"></span>
+</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="pagination">
+<a href="javascript:void(0)" class="button prev disabled" onmousedown="ev('Previous Page');">
+<span aria-hidden="true" class="arrow">&lt;</span> Prev</a>
+<span class="pages">
+<a href="http://www.metrolyrics.com/elton-john-alpage-1.html" onmousedown="ev('Page','1');">
+1	</a>
+<a href="http://www.metrolyrics.com/elton-john-alpage-2.html" onmousedown="ev('Page','2');">
+2	</a>
+<a href="http://www.metrolyrics.com/elton-john-alpage-3.html" onmousedown="ev('Page','3');">
+3	</a>
+<a href="http://www.metrolyrics.com/elton-john-alpage-4.html" onmousedown="ev('Page','4');">
+4	</a>
+<a href="http://www.metrolyrics.com/elton-john-alpage-5.html" onmousedown="ev('Page','... ');">
+... </a>
+</span>
+<a href="http://www.metrolyrics.com/elton-john-alpage-1.html" class="button next" onmousedown="ev('Next Page');">
+Next <span aria-hidden="true" class="arrow">&gt;</span>
+</a>
+</p>
+</div><!-- END: lyrics -->
+<div class="module" id="featured">
+<header>
+<p class="more-link">
+<a href="http://www.metrolyrics.com/elton-john-featured.html" onmousedown="ev('Featured View All','View All');" title="View All">View All</a>
+</p>
+<h3>
+<span>
+Songs
+</span>
+Featured In
+</h3>
+</header>
+<div class="content">
+<table class="songs-table compact">
+<thead>
+<tr>
+<th class="video">&nbsp;</th>
+<th class="name">Name </th>
+<th class="artist">Artist </span></th>
+<th class="popularity active">Popularity </span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/ghetto-gospel-lyrics-2pac.html" class="title hasvidtable" onmousedown="ev('Featured','searcht:ghetto-gospel-lyrics-2pac');" title="2Pac Ghetto Gospel lyrics" alt="2Pac Ghetto Gospel lyrics">
+Ghetto Gospel Lyrics
+</a>
+</td>
+<td>2Pac</td>
+<td>
+<span class="bar popular10">
+<span style="width:100%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/dont-go-breaking-my-heart-lyrics-glee-cast.html" class="title " onmousedown="ev('Featured','searcht:dont-go-breaking-my-heart-lyrics-glee-cast');" title="Glee Don&#039;t Go Breaking My Heart lyrics" alt="Glee Don&#039;t Go Breaking My Heart lyrics">
+Don&#039;t Go Breaking My Heart Lyrics
+</a>
+</td>
+<td>Glee</td>
+<td>
+<span class="bar popular6">
+<span style="width:60.901569790847%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/deep-inside-lyrics-mary-j-blige.html" class="title hasvidtable" onmousedown="ev('Featured','searcht:deep-inside-lyrics-mary-j-blige');" title="Mary J Blige Deep Inside lyrics" alt="Mary J Blige Deep Inside lyrics">
+Deep Inside Lyrics
+</a>
+</td>
+<td>Mary J Blige</td>
+<td>
+<span class="bar popular5">
+<span style="width:58.02454589337%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/im-still-standing-lyrics-american-idol.html" class="title " onmousedown="ev('Featured','searcht:im-still-standing-lyrics-american-idol');" title="American Idol I&#039;m Still Standing lyrics" alt="American Idol I&#039;m Still Standing lyrics">
+I&#039;m Still Standing Lyrics
+</a>
+</td>
+<td>American Idol</td>
+<td>
+<span class="bar popular5">
+<span style="width:52.75528756572%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/crocodile-rock-lyrics-nelly-furtado.html" class="title " onmousedown="ev('Featured','searcht:crocodile-rock-lyrics-nelly-furtado');" title="Nelly Furtado Crocodile Rock lyrics" alt="Nelly Furtado Crocodile Rock lyrics">
+Crocodile Rock Lyrics
+</a>
+</td>
+<td>Nelly Furtado</td>
+<td>
+<span class="bar popular4">
+<span style="width:48.507070222425%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/joseph-better-you-than-me-lyrics-the-killers.html" class="title hasvidtable" onmousedown="ev('Featured','searcht:joseph-better-you-than-me-lyrics-the-killers');" title="The Killers Joseph, Better You Than Me lyrics" alt="The Killers Joseph, Better You Than Me lyrics">
+Joseph, Better You Than Me Lyrics
+</a>
+</td>
+<td>The Killers</td>
+<td>
+<span class="bar popular4">
+<span style="width:48.507070222425%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/live-like-horses-lyrics-luciano-pavarotti.html" class="title " onmousedown="ev('Featured','searcht:live-like-horses-lyrics-luciano-pavarotti');" title="Luciano Pavarotti Live Like Horses lyrics" alt="Luciano Pavarotti Live Like Horses lyrics">
+Live Like Horses Lyrics
+</a>
+</td>
+<td>Luciano Pavarotti</td>
+<td>
+<span class="bar popular4">
+<span style="width:45.875554317211%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/something-about-the-way-you-look-tonight-lyrics-x-factor-uk.html" class="title hasvidtable" onmousedown="ev('Featured','searcht:something-about-the-way-you-look-tonight-lyrics-x-factor-uk');" title="X Factor (UK) Something About The Way You Look Tonight lyrics" alt="X Factor (UK) Something About The Way You Look Tonight lyrics">
+Something About The Way You Look Tonight Lyrics
+</a>
+</td>
+<td>X Factor (UK)</td>
+<td>
+<span class="bar popular4">
+<span style="width:44.893916934719%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/through-the-storm-lyrics-aretha-franklin.html" class="title " onmousedown="ev('Featured','searcht:through-the-storm-lyrics-aretha-franklin');" title="Aretha Franklin Through The Storm lyrics" alt="Aretha Franklin Through The Storm lyrics">
+Through The Storm Lyrics
+</a>
+</td>
+<td>Aretha Franklin</td>
+<td>
+<span class="bar popular4">
+<span style="width:43.848905468071%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/im-still-standing-lyrics-glee.html" class="title " onmousedown="ev('Featured','searcht:im-still-standing-lyrics-glee');" title="Glee I&#039;m still standing lyrics" alt="Glee I&#039;m still standing lyrics">
+I&#039;m still standing Lyrics
+</a>
+</td>
+<td>Glee</td>
+<td>
+<span class="bar popular3">
+<span style="width:38.826858932111%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/perfect-day-lyrics-collective-soul.html" class="title " onmousedown="ev('Featured','searcht:perfect-day-lyrics-collective-soul');" title="Collective Soul Perfect Day lyrics" alt="Collective Soul Perfect Day lyrics">
+Perfect Day Lyrics
+</a>
+</td>
+<td>Collective Soul</td>
+<td>
+<span class="bar popular3">
+<span style="width:37.283590988746%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/written-in-the-stars-lyrics-leann-rimes.html" class="title hasvidtable" onmousedown="ev('Featured','searcht:written-in-the-stars-lyrics-leann-rimes');" title="LeAnn Rimes Written In The Stars lyrics" alt="LeAnn Rimes Written In The Stars lyrics">
+Written In The Stars Lyrics
+</a>
+</td>
+<td>LeAnn Rimes</td>
+<td>
+<span class="bar popular3">
+<span style="width:33.670437701039%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/makin-whoopee-lyrics-rod-stewart.html" class="title " onmousedown="ev('Featured','searcht:makin-whoopee-lyrics-rod-stewart');" title="Rod Stewart Makin&#039; Whoopee lyrics" alt="Rod Stewart Makin&#039; Whoopee lyrics">
+Makin&#039; Whoopee Lyrics
+</a>
+</td>
+<td>Rod Stewart</td>
+<td>
+<span class="bar popular3">
+<span style="width:33.670437701039%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/can-you-feel-the-love-tonight-live-version-lyrics-christina-aguilera.html" class="title " onmousedown="ev('Featured','searcht:can-you-feel-the-love-tonight-live-version-lyrics-christina-aguilera');" title="Christina Aguilera Can You Feel The Love Tonight? (live Version) lyrics" alt="Christina Aguilera Can You Feel The Love Tonight? (live Version) lyrics">
+Can You Feel The Love Tonight? (live Version) Lyrics
+</a>
+</td>
+<td>Christina Aguilera</td>
+<td>
+<span class="bar popular3">
+<span style="width:33.670437701039%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/circle-of-life-lyrics-so-you-think-you-can-dance.html" class="title " onmousedown="ev('Featured','searcht:circle-of-life-lyrics-so-you-think-you-can-dance');" title="So You Think You Can Dance Circle Of Life lyrics" alt="So You Think You Can Dance Circle Of Life lyrics">
+Circle Of Life Lyrics
+</a>
+</td>
+<td>So You Think You Can Dance</td>
+<td>
+<span class="bar popular3">
+<span style="width:31.508289669282%;"></span>
+</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="grid_4">
+<div class="expanding-ad ad-box"><div id='div-gpt-ad-mpu'></div></div>
+<div class="module">
+<a id="driver" class="content-driver small" href="http://www.metrolyrics.com/news-story-imagine-dragons-smoke-and-mirrors-lyric-reveal.html" onmousedown="ev('Driver Module','http://www.metrolyrics.com/news-story-imagine-dragons-smoke-and-mirrors-lyric-reveal.html');" title="Read Every Lyric On Imagine Dragons&#039; Upcoming Album">
+<div class="image-container">
+<img src="http://netstorage.metrolyrics.com/drivers/f66a1/imaginedragons-list2-54e3812d-image.jpg"/>
+<div class="caption">Read Every Lyric On Imagine Dragons&#039; Upcoming Album</div>
+</div>
+</a>
+<div class="module with-overlay videos no-grid" id="videoGallery">
+<header>
+<p class='more-link'>
+<a class="link" title="Elton John videos" href="http://www.metrolyrics.com/elton-john-videos.html" onmousedown="ev('Artist Video Module View All','View All');">View All</a>	</p>
+<h3>
+<span>Elton John</span> Videos	</h3>
+</header>
+<ul class="content clearfix">
+<li class="full">
+<a href="http://www.metrolyrics.com/sacrifice-elton-john-ml-video-dp7.html" title="Sacrifice" onmousedown="ev('Artist Video Module','searchv:sacrifice-elton-john-ml-video-dp7');">
+<span class="tmb tmb-altmod-full">
+<img pagespeed_no_defer="" src='http://cache.vevo.com/Content/VevoImages/video/991F456002062A858DCDA4986F1BD7F920132211165828999.jpg?width=375' alt="Elton John Videos" title="Elton John Videos"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">Sacrifice<br/>Video</span>
+</a>
+</li>
+<li class="">
+<a href="http://www.metrolyrics.com/sorry-seems-to-be-the-hardest-word-elton-john-ml-video-f9q.html" title="Sorry Seems To Be The Hardest Word" onmousedown="ev('Artist Video Module','searchv:sorry-seems-to-be-the-hardest-word-elton-john-ml-video-f9q');">
+<span class="tmb tmb-altmod">
+<img pagespeed_no_defer="" src='http://cache.vevo.com/Content/VevoImages/video/32410E83436C3867D0C1F3AAEFBC7D8E.jpg?width=150' alt="Elton John Videos" title="Elton John Videos"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">Sorry Seems To Be The Hardest Word<br/>Video</span>
+</a>
+</li>
+<li class="">
+<a href="http://www.metrolyrics.com/rocket-man-live-at-madison-square-garden-2000-elton-john-ml-video-h9o.html" title="Rocket Man (Live at Madison Square Garden 2000)" onmousedown="ev('Artist Video Module','searchv:rocket-man-live-at-madison-square-garden-2000-elton-john-ml-video-h9o');">
+<span class="tmb tmb-altmod">
+<img pagespeed_no_defer="" src='http://cache.vevo.com/Content/VevoImages/video/3E026886951E5296D77DFE8182654902.jpg?width=150' alt="Elton John Videos" title="Elton John Videos"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">Rocket Man (Live at Madison Square Garden 2000)<br/>Video</span>
+</a>
+</li>
+<li class="">
+<a href="http://www.metrolyrics.com/your-song-elton-john-ml-video-hg7.html" title="Your Song" onmousedown="ev('Artist Video Module','searchv:your-song-elton-john-ml-video-hg7');">
+<span class="tmb tmb-altmod">
+<img pagespeed_no_defer="" src='http://cache.vevo.com/Content/VevoImages/video/C981E3319E5D4C204A78AC524986354B2014301263732369.png?width=150' alt="Elton John Videos" title="Elton John Videos"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">Your Song<br/>Video</span>
+</a>
+</li>
+<li class="">
+<a href="http://www.metrolyrics.com/song-train-ml-video-ic6.html" title="Hawaii Five-0 - Bulletproof Picasso (Train)" onmousedown="ev('Artist Video Module','searchv:song-train-ml-video-ic6');">
+<span class="tmb tmb-altmod">
+<img pagespeed_no_defer="" src='http://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2015/02/11/397264963651/CBS_HAWAII_FIVE_0_515_TRAIN_500723_640x360.jpg' alt="Train Videos" title="Train Videos"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">Hawaii Five-0 - Bulletproof Picasso (Train)<br/>Video</span>
+</a>
+</li>
+<li class="">
+<a href="http://www.metrolyrics.com/song-beck-ml-video-qak.html" title="GRAMMY Awards - Beck &quot;Morning Phase&quot; - 2015 GRAMMY Winner Album of the Year" onmousedown="ev('Artist Video Module','searchv:song-beck-ml-video-qak');">
+<span class="tmb tmb-altmod">
+<img pagespeed_no_defer="" src='http://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2015/02/08/396004931879/CBS_GRAMMYS_2015_ALBUM_OF_YEAR_IMAGE_498550_640x360.jpg' alt="Beck Videos" title="Beck Videos"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">GRAMMY Awards - Beck "Morning Phase" - 2015 GRAMMY Winner Album of the Year<br/>Video</span>
+</a>
+</li>
+<li class="">
+<a href="http://www.metrolyrics.com/maroon-5-one-more-night-ml-video-i7r.html" title="One More Night" onmousedown="ev('Artist Video Module','searchv:maroon-5-one-more-night-ml-video-i7r');">
+<span class="tmb tmb-altmod">
+<img pagespeed_no_defer="" src='http://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/384/671/2013/05/28/31540803681/08_maroon5_one_more_night_thumb_640x360.jpg' alt="Maroon 5 Videos" title="Maroon 5 Videos"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">One More Night<br/>Video</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="module" id="music-news">
+<header>
+<p class='more-link'>
+<a href='http://www.metrolyrics.com/news.html' title='View All' onmousedown="ev('News Module View All','View All');">View All</a>
+</p>
+<h3>
+<span>Music</span> News	</h3>
+</header>
+<ul class="content tmb-small img-stacked">
+<li itemscope itemtype="http://schema.org/Article">
+<a href="http://www.metrolyrics.com/news-story-video-beyonce-ed-sheeran-gary-clark-jr-stevie-wonder-tribute.html" title="Obviously Beyonce's Tribute To Stevie Wonder Was 'Flawless'" onmousedown="ev('X-Small News Module','searche:video-beyonce-ed-sheeran-gary-clark-jr-stevie-wonder-tribute:url:news-story-video-beyonce-ed-sheeran-gary-clark-jr-stevie-wonder-tribute');">
+<span class="tmb tmb-xs not-playable">
+<img pagespeed_no_defer="" src="http://netstorage.metrolyrics.com/editorials/video-beyonce-ed-sheeran-gary-clark-jr-stevie-wonder-tribute/xxsmall-image.jpg" alt="Obviously Beyonce's Tribute To Stevie Wonder Was 'Flawless'" title="Obviously Beyonce's Tribute To Stevie Wonder Was 'Flawless'"/>
+</span>
+Obviously Beyonce&#039;s Tribute To Stevie Wonder Was &quot;Flawless&quot;	</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a href="http://www.metrolyrics.com/news-story-anti-valentines-day-playlist-2015.html" title="Love Stinks, So Here's 15 Anti-Valentine's Day Songs" onmousedown="ev('X-Small News Module','searche:anti-valentines-day-playlist-2015:url:news-story-anti-valentines-day-playlist-2015');">
+<span class="tmb tmb-xs not-playable">
+<img pagespeed_no_defer="" src="http://netstorage.metrolyrics.com/editorials/anti-valentines-day-playlist-2015/xxsmall-image.jpg" alt="Love Stinks, So Here's 15 Anti-Valentine's Day Songs" title="Love Stinks, So Here's 15 Anti-Valentine's Day Songs"/>
+</span>
+Love Stinks, So Here&#039;s 15 Anti-Valentine&#039;s Day Songs	</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a href="http://www.metrolyrics.com/news-story-10-iconic-stevie-wonder-lyrics-songs-in-the-key-of-life.html" title="The 10 Most Iconic Stevie Wonder Lyrics" onmousedown="ev('X-Small News Module','searche:10-iconic-stevie-wonder-lyrics-songs-in-the-key-of-life:url:news-story-10-iconic-stevie-wonder-lyrics-songs-in-the-key-of-life');">
+<span class="tmb tmb-xs not-playable">
+<img pagespeed_no_defer="" src="http://netstorage.metrolyrics.com/editorials/10-iconic-stevie-wonder-lyrics-songs-in-the-key-of-life/xxsmall-image.jpg" alt="The 10 Most Iconic Stevie Wonder Lyrics" title="The 10 Most Iconic Stevie Wonder Lyrics"/>
+</span>
+The 10 Most Iconic Stevie Wonder Lyrics	</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a href="http://www.metrolyrics.com/news-story-14-valentines-day-lyric-cards-2015.html" title="14 Valentine's Day Cards Featuring Your Fave Pop Lyrics" onmousedown="ev('X-Small News Module','searche:14-valentines-day-lyric-cards-2015:url:news-story-14-valentines-day-lyric-cards-2015');">
+<span class="tmb tmb-xs not-playable">
+<img pagespeed_no_defer="" src="http://netstorage.metrolyrics.com/editorials/14-valentines-day-lyric-cards-2015/xxsmall-image.jpg" alt="14 Valentine's Day Cards Featuring Your Fave Pop Lyrics" title="14 Valentine's Day Cards Featuring Your Fave Pop Lyrics"/>
+</span>
+14 Valentine&#039;s Day Cards Featuring Your Fave Pop Lyrics	</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a href="http://www.metrolyrics.com/news-story-grammys-unforgettable-moments.html" title="13 Unforgettable Moments from the 57th GRAMMY Awards" onmousedown="ev('X-Small News Module','searche:grammys-unforgettable-moments:url:news-story-grammys-unforgettable-moments');">
+<span class="tmb tmb-xs not-playable">
+<img pagespeed_no_defer="" src="http://netstorage.metrolyrics.com/editorials/grammys-unforgettable-moments/xxsmall-image.jpg" alt="13 Unforgettable Moments from the 57th GRAMMY Awards" title="13 Unforgettable Moments from the 57th GRAMMY Awards"/>
+</span>
+13 Unforgettable Moments from the 57th GRAMMY Awards	</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="expanding-ad ad-box"><div id='div-gpt-ad-mpu_middle'></div></div>
+<div class="module">
+<div class="YAD-33d5ae30-b856-37ea-bf02-743567f6ce89"></div>
+<script pagespeed_no_defer="">(function(a,b,c,d,e,f){a[d]||(a[d]=function(){(a[d].q=a[d].q||[]).push([arguments,+new Date])});e=b.createElement(c);f=b.getElementsByTagName(c)[0];e.src='https://s.yimg.com/uq/syndication/yad.js';e.async=true;f.parentNode.insertBefore(e,f)}(window,document,'script','yad'));yad('33d5ae30-b856-37ea-bf02-743567f6ce89',{element:document.querySelector('.YAD-33d5ae30-b856-37ea-bf02-743567f6ce89')});</script>
+</div>
+<div class="module">
+<div class="add-lyric">
+<div class="header">
+<em>Add</em> Lyrics
+</div>
+<div class="driver-content">
+Know the lyrics to any of these songs?<br/>
+<div class="lyric">
+<a class="title" href="http://www.metrolyrics.com/dream-1-lyrics-elton-john.html#/correction" target="_blank" onmousedown="ev('Add Missing Lyrics','Suggestion: dream-1-lyrics-elton-john')">Dream # 1</a>
+Lyrics by
+<span class="artist">Elton John</span>
+</div>
+<div class="lyric">
+<a class="title" href="http://www.metrolyrics.com/dream-2-lyrics-elton-john.html#/correction" target="_blank" onmousedown="ev('Add Missing Lyrics','Suggestion: dream-2-lyrics-elton-john')">Dream # 2</a>
+Lyrics by
+<span class="artist">Elton John</span>
+</div>
+<div class="lyric">
+<a class="title" href="http://www.metrolyrics.com/orchestral-finale-lyrics-elton-john.html#/correction" target="_blank" onmousedown="ev('Add Missing Lyrics','Suggestion: orchestral-finale-lyrics-elton-john')">Orchestral Finale</a>
+Lyrics by
+<span class="artist">Elton John</span>
+</div>
+If so - or if you notice any other song that's missing - be the first to submit them!<br/>
+</div>
+<div class="driver-footer">
+<a class="btn" href="http://www.metrolyrics.com/add.html?artistid=3899" onmousedown="ev('Add Missing Lyrics','Suggestion: New lyrics')">Add New Lyrics</a>
+</div>
+</div>	</div>
+</div>
+</div><!-- END: page-content -->
+</div>
+</div>
+<div class="bottom-ad">
+<div id='div-gpt-ad-leaderboard_bottom'></div>	</div>
+</div>
+</div>
+</div>
+<footer class="page-footer" id="page-footer">
+<div class="row">
+<div class="hot-songs module">
+<header>
+<p class='discover-more-link'>
+Discover the top 100 songs in:
+<a onmousedown="ev('Footer','LATM')" href='http://www.metrolyrics.com/es/latm/top100.html '>Latin America</a> |
+<a onmousedown="ev('Footer','France')" href='http://www.metrolyrics.com/fr/eu/top100.html '>France</a> |
+<a onmousedown="ev('Footer','Asia')" href='http://www.metrolyrics.com/en/sea/top100.html '>Asia</a>
+</p>
+<h3><span>Songs So Hot</span> They're Sizzling</h3>
+</header>
+<ul class="clearfix">	<li class="grid_3 alpha">
+<a href="http://www.metrolyrics.com/i-bet-my-life-lyrics-imagine-dragons.html" title="I Bet My Life Lyrics" onmousedown="ev('Footer','Hot Songs Item');">I Bet My Life Lyrics</a>
+<a href="http://www.metrolyrics.com/imagine-dragons-lyrics.html" title="Imagine Dragons" onmousedown="ev('Footer','Hot Songs Artist: Imagine Dragons');">Imagine Dragons</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/payback-lyrics-juicy-j.html" title="Payback Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Payback Lyrics</a>
+<a href="http://www.metrolyrics.com/juicy-j-lyrics.html" title="Juicy J" onmousedown="ev('Footer','Hot Songs Artist: Juicy J');">Juicy J</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/remember-me-lyrics-chris-brown.html" title="Remember Me Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Remember Me Lyrics</a>
+<a href="http://www.metrolyrics.com/chris-brown-lyrics.html" title="Chris Brown" onmousedown="ev('Footer','Hot Songs Artist: Chris Brown');">Chris Brown</a>
+</li>	<li class="grid_3 omega">
+<a href="http://www.metrolyrics.com/mother-lyrics-florence-and-the-machine.html" title="Mother Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Mother Lyrics</a>
+<a href="http://www.metrolyrics.com/florence-and-the-machine-lyrics.html" title="Florence and the Machine" onmousedown="ev('Footer','Hot Songs Artist: Florence and the Machine');">Florence and the Machine</a>
+</li>	</ul>
+<ul class="clearfix">	<li class="grid_3 alpha">
+<a href="http://www.metrolyrics.com/energy-lyrics-drake.html" title="Energy Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Energy Lyrics</a>
+<a href="http://www.metrolyrics.com/drake-lyrics.html" title="Drake" onmousedown="ev('Footer','Hot Songs Artist: Drake');">Drake</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/star67-lyrics-drake.html" title="Star67 Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Star67 Lyrics</a>
+<a href="http://www.metrolyrics.com/drake-lyrics.html" title="Drake" onmousedown="ev('Footer','Hot Songs Artist: Drake');">Drake</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/ride-out-lyrics-kid-ink.html" title="Ride Out Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Ride Out Lyrics</a>
+<a href="http://www.metrolyrics.com/kid-ink-lyrics.html" title="Kid Ink" onmousedown="ev('Footer','Hot Songs Artist: Kid Ink');">Kid Ink</a>
+</li>	<li class="grid_3 omega">
+<a href="http://www.metrolyrics.com/i-know-lyrics-big-sean.html" title="I Know Lyrics" onmousedown="ev('Footer','Hot Songs Item');">I Know Lyrics</a>
+<a href="http://www.metrolyrics.com/big-sean-lyrics.html" title="Big Sean" onmousedown="ev('Footer','Hot Songs Artist: Big Sean');">Big Sean</a>
+</li>	</ul>
+<ul class="clearfix">	<li class="grid_3 alpha">
+<a href="http://www.metrolyrics.com/together-in-electric-dreams-lyrics-britney-spears.html" title="Together In Electric Dreams Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Together In Electric Dreams Lyrics</a>
+<a href="http://www.metrolyrics.com/britney-spears-lyrics.html" title="Britney Spears" onmousedown="ev('Footer','Hot Songs Artist: Britney Spears');">Britney Spears</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/hold-tight-lyrics-madonna.html" title="Hold Tight Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Hold Tight Lyrics</a>
+<a href="http://www.metrolyrics.com/madonna-lyrics.html" title="Madonna" onmousedown="ev('Footer','Hot Songs Artist: Madonna');">Madonna</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/joan-of-arc-lyrics-madonna.html" title="Joan Of Arc Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Joan Of Arc Lyrics</a>
+<a href="http://www.metrolyrics.com/madonna-lyrics.html" title="Madonna" onmousedown="ev('Footer','Hot Songs Artist: Madonna');">Madonna</a>
+</li>	<li class="grid_3 omega">
+<a href="http://www.metrolyrics.com/drinks-on-us-lyrics-the-weeknd.html" title="Drinks On Us Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Drinks On Us Lyrics</a>
+<a href="http://www.metrolyrics.com/the-weeknd-lyrics.html" title="The Weeknd" onmousedown="ev('Footer','Hot Songs Artist: The Weeknd');">The Weeknd</a>
+</li>	</ul>
+<ul class="clearfix">	<li class="grid_3 alpha">
+<a href="http://www.metrolyrics.com/deserve-lyrics-big-sean.html" title="Deserve Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Deserve Lyrics</a>
+<a href="http://www.metrolyrics.com/big-sean-lyrics.html" title="Big Sean" onmousedown="ev('Footer','Hot Songs Artist: Big Sean');">Big Sean</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/earned-it-lyrics-the-weeknd.html" title="Earned It Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Earned It Lyrics</a>
+<a href="http://www.metrolyrics.com/the-weeknd-lyrics.html" title="The Weeknd" onmousedown="ev('Footer','Hot Songs Artist: The Weeknd');">The Weeknd</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/blank-space-lyrics-taylor-swift.html" title="Blank Space Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Blank Space Lyrics</a>
+<a href="http://www.metrolyrics.com/taylor-swift-lyrics.html" title="Taylor Swift" onmousedown="ev('Footer','Hot Songs Artist: Taylor Swift');">Taylor Swift</a>
+</li>	<li class="grid_3 omega">
+<a href="http://www.metrolyrics.com/style-lyrics-taylor-swift.html" title="Style Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Style Lyrics</a>
+<a href="http://www.metrolyrics.com/taylor-swift-lyrics.html" title="Taylor Swift" onmousedown="ev('Footer','Hot Songs Artist: Taylor Swift');">Taylor Swift</a>
+</li>	</ul>
+<ul class="clearfix">	</ul>
+</div>
+<div class="hr"></div>
+<div class="footer-iframe-wrapper">
+<iframe frameborder="0" id="footer-iframe" src="http://www.metrolyrics.com/en/iframes/footer.html" allowtransparency="yes" scrolling="no"></iframe>
+</div>
+</div>
+</footer>
+</div>
+<div id="fpo" class="ng-hide" ng-controller="fpOverlayCtrl" ng-show="$root.fpo.visible" ng-click="$root.fpo.close()">
+<div stop-event="click mouseup mousedown">
+<ng-include src="$root.fpo.templateUrl"></ng-include>
+</div>
+</div>
+</div>
+<div id="interstitial" style="display:none"></div>
+<script pagespeed_no_defer="" id='req-config'>var requirejs={paths:{baseUrl:'/js/desktop',lib:'/js/lib',vendor:'/js/vendor',jquery:'//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min',facebook:'//connect.facebook.net/en_US/all',youtube:'https://www.youtube.com/iframe_api?noext'},shim:{'facebook':{exports:'FB'},'youtube':{exports:'YT'},'domReady':{exports:'domReady'},'angular':{deps:['jquery'],exports:'angular'},'vendor/jquery.slimscroll':{deps:['jquery'],exports:'jQuery.fn.slimScroll'}},waitSeconds:10};requirejs.paths.angular='//ajax.googleapis.com/ajax/libs/angularjs/1.2.18/angular.min';</script>
+<script pagespeed_no_defer="" src="http://www.metrolyrics.com/js/vendor/require-v5.2.9.2.min.js"></script>
+<script src="http://www.metrolyrics.com/js/desktop/artistlyrics-v5.2.9.2.min.js"></script>
+<script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-skin');googletag.display('div-gpt-ad-leaderboard');googletag.display('div-gpt-ad-mpu');googletag.display('div-gpt-ad-mpu_middle');googletag.display('div-gpt-ad-leaderboard_bottom');googletag.display('interstitial');});</script>
+<script>var b=document.createElement("script");b.type="text/javascript";b.async=!0;var c=["http://988e3b255aa765925d6b-662669ee3e2497ef5de1fff529ecac92.r54.cf2.rackcdn.com","https://1a1d70f8e97771f9fab1-662669ee3e2497ef5de1fff529ecac92.ssl.cf2.rackcdn.com"];b.src=("https:"==document.location.protocol?c[1]:c[0])+"/ba3zi27t2tcg.js";var d=document.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d);</script>	<script type='text/x-gubedml' id='gubedml'>eyJTZXJ2ZXIiOiJ3d3cubWV0cm9seXJpY3MuY29tIiwiSG9zdG5hbWUiOiJ3czc4LnBoeDEuY2JzaWcubmV0IiwiR2VuZXJhdGlvbiBEYXRlIjoiRnJpLCAyMCBGZWIgMjAxNSAwMzoxOTowOCAtMDgwMCIsIlN0YXJ0IFRpbWUiOjE0MjQ0MzExNDgsIkVuZCBUaW1lIjoxNDI0NDMxMTQ4LCJSZW5kZXIgU2Vjb25kcyI6MCwiU3RhcnQgbWljcm9zZWNvbmRzIjoxNDI0NDMxMTQ4LjM2ODUsIkVuZCBtaWNyb3NlY29uZHMiOjE0MjQ0MzExNDguMzk0OCwiUmVuZGVyIG1pY3Jvc2Vjb25kcyI6MC4wMjYyNTcwMzgxMTY0NTUsIldpZ2V0IENvbmZpZyI6eyJ5YWhvb1JlY29tbWVuZCA6IFlhaG9vIjp7ImhvbWVwYWdlIjp0cnVlLCJsYXlvdXQiOiJSZWNvbW1lbmQiLCJkaXZJRCI6IjMzZDVhZTMwLWI4NTYtMzdlYS1iZjAyLTc0MzU2N2Y2Y2U4OSIsInJlZmluZWRMaW5rcyI6ZmFsc2V9LCJ2aWRlb0dhbGxlcnkgOiBWaWRlb0dhbGxlcnkiOnsiYXJ0aXN0aWQiOjM4OTksImRpc2FibGVMYXp5TG9hZCI6dHJ1ZX0sIm11c2ljTmV3cyA6IE11c2ljTmV3cyI6eyJsYXlvdXQiOiJ4LXNtYWxsIiwibGltaXQiOjUsInRhZyI6Mzg5OSwiZ2VucmVpZCI6IjEiLCJibGVuZGVkIjp0cnVlLCJ0eXBlIjoiYXJ0aXN0IiwiZGlzYWJsZUxhenlMb2FkIjp0cnVlfSwiYXJ0aXN0SGVhZGVyIDogQXJ0aXN0SGVhZGVyIjp7ImFjdGl2ZSI6Imx5cmljcyIsImFydGlzdGlkIjozODk5fSwiaGVyb0ltYWdlQmFja2dyb3VuZCA6IEhlcm9JbWFnZUJhY2tncm91bmQiOnsiYXJ0aXN0aWQiOjM4OTl9LCJwYWdpbmF0aW9uIDogUGFnaW5hdGlvbiI6eyJ1cmwiOiJlbHRvbi1qb2huLWx5cmljcyIsIml0ZW1Db3VudCI6NjY5LCJsaW1pdCI6NzUsInBhZ2VOdW0iOm51bGwsIm5vUGFnZVVybCI6ImVsdG9uLWpvaG4tYWxwYWdlLSIsIm1pblBhZ2VOdW0iOjAsInBhZ2luZ0xpbWl0IjoxMH0sImFydGlzdENvbnRlbnREcml2ZXIgOiBDb250ZW50RHJpdmVyIjp7ImFydGlzdGlkIjozODk5LCJnZW5yZWlkIjoiMSIsImxheW91dCI6IlNtYWxsIn0sImFkZEx5cmljcyA6IEx5cmljRHJpdmVyIjp7ImFydGlzdGlkIjozODk5LCJnZW5yZWlkIjoiMSIsImxheW91dCI6IkFkZEx5cmljcyJ9LCJmb290ZXJMaW5rcyI6IkZvb3RlckxpbmtzIn19</script>
+</body>
+</html>

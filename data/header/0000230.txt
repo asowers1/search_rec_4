@@ -1,0 +1,17 @@
+Pragma: no-cache
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+X-Frame-Options: DENY
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=15552000; preload
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: datr=FLTnVBSfCz6me_D1S2lQASs_; expires=Sun, 19-Feb-2017 22:24:20 GMT; Max-Age=63072000; path=/; domain=.facebook.com; httponly
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2FJurassicPark; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2FJurassicPark; path=/; domain=.facebook.com
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: PMrxTes/3bDdH5G4JiAXPZZ0BCxgUeIYQRH5VbcnBGZRUPvXrjcIh+QmmXNVOvn/oLzq5Lu0TKLcIpKjzyWKlg==
+Date: Fri, 20 Feb 2015 22:24:20 GMT
+Connection: close
+

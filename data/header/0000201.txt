@@ -1,0 +1,15 @@
+Server: Apache
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=847
+Expires: Fri, 20 Feb 2015 21:33:10 GMT
+Date: Fri, 20 Feb 2015 21:19:03 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: edgelong=-76.4974
+Set-Cookie: edgelat=42.4320
+Set-Cookie: edgestate=NY
+Set-Cookie: edgecity=ITHACA
+Set-Cookie: edgezip=14850
+

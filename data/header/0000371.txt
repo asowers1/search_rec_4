@@ -1,0 +1,10 @@
+Server: Apache
+Content-Length: 636599
+Content-Type: text/html
+Set-Cookie: country=de; expires =Fri, 22 May 2015 01:11:48 GMT; path=/; domain=.buzzfeed.com;
+X-BuzzFeed: webdr05
+Vary: Accept-Encoding
+Cache-Control: max-age=29
+Date: Sat, 21 Feb 2015 01:11:48 GMT
+Connection: close
+

@@ -1,0 +1,15 @@
+Date: Fri, 20 Feb 2015 18:55:30 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Pingback: http://www.thelittleprince.com/xmlrpc.php
+Link: <http://www.thelittleprince.com/?p=14>; rel=shortlink
+Set-Cookie: wptouch-pro-cache-state=desktop; expires=Fri, 20-Feb-2015 19:55:30 GMT; path=/
+Set-Cookie: PHPSESSID=n2ijh0qitljc0ruobkugoa4kn1; path=/
+X-Powered-By: PleskLin
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+

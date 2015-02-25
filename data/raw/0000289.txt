@@ -1,0 +1,467 @@
+ 
+
+   <!DOCTYPE html>
+
+<html class="theme_">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" >
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Top 50 Madonna Songs - Rate Your Music</title> 
+
+   <link rel="stylesheet" href="/images/min20.css" type="text/css"/>
+   <link rel="shortcut icon" href="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/favicon.ico" type="image/x-icon"/>
+    <style type="text/css">
+         h4 { font-weight:bold; }
+
+         span.contributors a {
+            text-decoration:none;
+            font-size:0.9em !important;
+            color:#333  !important;
+         }
+         span.contributors span.userd {
+            text-decoration:none;
+            font-size:0.9em !important;
+            color:#999  !important;            
+         }
+#wiki_content_text {
+padding-left: 2em !important;
+padding-right: 2em !important;
+padding-bottom: 25px !important;
+width:auto !important;
+box-sizing: content-box;
+}
+
+      </style>
+   
+      <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /> -->
+      <meta name="apple-mobile-web-app-capable" content="yes" />   
+  
+   <meta name="description" content="Top 50 Madonna Songs. Author: mrs_b. " />
+   <meta name="keywords" content="rate your music, rate music, rate albums, music catalog, music catalogue, social software, album reviews, music lists, community, music recommendations, concert listings, record labels, venues, shows" /><script type="text/javascript" src="/web_ads/advertisement.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="/images/rym.min.4.js"></script>
+<script type="text/javascript">rym.session.init(0, '0', '');</script>
+
+<script type="text/javascript">
+
+/* google analytics */ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-59057-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+
+<body>
+<div id="wrapper">
+
+<div id="top" style="height:11px;color:white;font-size:9px;font-weight:bold;">
+</div>
+
+
+	<div id="navtop"><ul>
+		<li><a style="padding-top:3px;padding-bottom:4px;" title="Front Page"  href="/" ><img id="rstar" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/rstar.gif" alt="" /><span id="logotext">rym</a></a></li>
+		<li><a title="Find Music"   href="/find/" >find</a></li>
+		<li><a title="Read and make lists"  href="/lists/" >lists</a></li>
+		<li><a title="View top charts by year, location, genre and more!"  href="/customchart" >charts</a></li>
+
+		<li><a title="Message Boards and Member Directory"    href="/community/" >community</a></li>
+
+		<li><a  href="/account/login"  >log in / sign up</a></li>		
+	</ul>
+
+
+  <div class="helplink"><a href="/help">help</a></div>
+
+  <div class="main_searchbar">
+   <form id="mainsearch" action="/search">
+      <input type="hidden" name="searchtype" id="searchtype" value="a" />
+      <input tabindex="1" name="searchterm" 
+           value=""
+            style="background:none;border:none;outline:none;width:130px;padding:3px;" 
+            placeholder="Search...">
+      <div tabindex="3" id="mainsearch_submit" onKeyDown="if (event.keyCode == 13 || event.keyCode == 20) { $('#mainsearch')[0].submit();}"  onClick="$('#mainsearch')[0].submit();" style="cursor:pointer;float:right;color:#777;font-size: 0.8em;line-height: 22px;margin-left:3px;padding-left:8px;padding-right:5px;background:#E6E6E6">
+         â¶
+      </div>
+      <div tabindex="2" class="search_options_frame" onMouseOver="$('#search_options').show()" onMouseOut="$('#search_options').hide();"
+      onFocus="$('#search_options').show()" onBlur="$('#search_options').hide();" onKeyDown="cycleSearchType(event);">
+         <span id="searchtype_selected">Artists</span> â¾
+
+         <div id="search_options" class="search_options" >
+            <div class="search_option_header">Music</div>
+               <div onClick="selectSearchType('a');" id="searchtype_a" class="searchtype_option current">Artists</div>
+               <div onClick="selectSearchType('l');" id="searchtype_l" class="searchtype_option">All releases</div>
+               <div onClick="selectSearchType('y');" id="searchtype_y" class="searchtype_option">V/A releases</div>
+               <div onClick="selectSearchType('b');" id="searchtype_b" class="searchtype_option">Label</div>
+               <div onClick="selectSearchType('j');" id="searchtype_j" class="searchtype_option">Catalog No.</div>
+               <div onClick="selectSearchType('r');" id="searchtype_r" class="searchtype_option">Classical work</div>
+               <div onClick="selectSearchType('v');" id="searchtype_v" class="searchtype_option">Review</div>
+               <div onClick="selectSearchType('g');" id="searchtype_g" class="searchtype_option">Genre</div>
+
+            <div class="search_option_header">Film</div>
+
+               <div onClick="selectSearchType('F');" id="searchtype_F" class="searchtype_option">Film title</div>
+               <div onClick="selectSearchType('A');" id="searchtype_A" class="searchtype_option">Film cast/crew</div>
+            
+            <div class="search_option_header">Site</div>
+
+               <div onClick="selectSearchType('u');" id="searchtype_u" class="searchtype_option">User</div>
+               <div onClick="selectSearchType('p');" id="searchtype_p" class="searchtype_option">Boards</div>
+               <div onClick="selectSearchType('s');" id="searchtype_s" class="searchtype_option">List</div>
+
+         </div>
+      </div>
+   </form>
+  </div>
+  <script>
+      function cycleSearchType(event) {
+
+         var searchTypes = new Array('a', 'l', 'y', 'b', 'j', 'r', 'v', 'g', 'F', 'A', 'u', 'p', 's');
+         var len = searchTypes.length;
+         var currentVal = $('#searchtype').val();
+         var currentIndex = searchTypes.indexOf(currentVal);
+         var nextIndex = currentIndex+1;
+         var prevIndex = currentIndex-1;
+         if ( nextIndex == len ) {
+            nextIndex = 0;
+         }
+         if ( prevIndex < 0 ) {
+            prevIndex = len-1;
+         }
+
+         var nextType = searchTypes[nextIndex];
+         var prevType = searchTypes[prevIndex];
+
+
+         switch (event.keyCode) {
+            case 40: 
+               selectSearchType(nextType);
+               event.preventDefault();
+            break;
+
+            case 38:
+               selectSearchType(prevType);
+               event.preventDefault();
+            break;
+
+            case 13:
+               $('#mainsearch')[0].submit();
+               event.preventDefault();
+            break;
+            default: 
+               
+            break;
+         }
+
+        
+         return false;
+
+      }
+      function selectSearchType(type) {
+         $('#searchtype').val(type);
+         $('#searchtype_selected').text($('#searchtype_' + type).text());
+         $('#search_options').hide();
+      }
+      selectSearchType('a')
+  </script>
+
+
+</div>
+
+<!-- trick --><div style="clear:both;"></div>
+
+
+ 
+ <!-- ~~~~~~~~ begin content! ~~~~~~~~~~~~~~~ -->
+ <div id="content" style="border-top:none;"><link rel="canonical" href="http://rateyourmusic.com/list/mrs_b/top_50_madonna_songs/" /><script type="text/javascript" src="https://aa51943acdd0baa94a6e-d133dbbbd17c5adb5c698e6074ced43d.ssl.cf1.rackcdn.com/basereq-min.js"></script>
+<script type="text/javascript" src="https://aa51943acdd0baa94a6e-d133dbbbd17c5adb5c698e6074ced43d.ssl.cf1.rackcdn.com/jquery-appear-b1.js"></script>    <div id="searchsuggestions" style="visibility:hidden;position:absolute;" ></div> 
+
+<script type="text/javascript" src="/sourced/autosuggest.js?pre=descriptor&type=s&context=l"></script>
+ 
+<script type="text/javascript">
+
+ var token = ''; var currentId = 164049;
+  
+   function doFlag ( assoc_id, type, flag, polarity ) {
+
+      hideflag();
+      did('flagimg_' + assoc_id + '_' + type).src = 'https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/loading.gif';
+      sendRequest('FlagItem|' + token + '|' + assoc_id + '|' + type + '|' + flag + '|' + polarity);
+   }
+
+
+   var flagAssocId = 0;
+   var flagType = 's';
+   var currentFlag = '';
+
+   function flagItem(assoc_id, type, event) { 
+      if ( did('flag_' + assoc_id + '_' + type).className != 'flag0' )
+      {
+          doFlag ( assoc_id, flagType, '', 0 );
+          return;
+      }
+
+     var fl = document.getElementById('flag');
+   
+     var pageX, pageY;
+   
+     if (event.pageX) {
+         pageX = event.pageX;
+     } else { 
+         pageX = event.clientX + document.documentElement.scrollLeft;
+     }
+     if (event.pageY )
+     {
+         pageY = event.pageY;
+     } else {  
+         pageY = event.clientY +  document.documentElement.scrollTop;
+     }
+   
+     fl.style.top = pageY + 'px';
+     fl.style.left = pageX+ 'px';
+     fl.style.visibility='visible';
+     flagAssocId = assoc_id;
+   
+   }
+
+   function hideflag() {
+    document.getElementById('flag').style.visibility='hidden';
+   }
+
+
+ </script>
+
+
+
+<div id="flag" class="mbflag">
+  <form method="submit" class="mbflag_form" onSubmit = "return false;" action="">
+   <h5>Flag this list:</h5>
+   <input id="type"  type="hidden" name="type" value="q" />
+   <input id="context" type="hidden" name="context" value="f" />
+   <input id="tag" type="hidden" name="tag" value="" />
+
+   <input type="button" onclick="doFlag(flagAssocId, flagType, '+excellent', 1);" value="+ excellent" /> <br />
+   
+   <br />
+   <input type="button" onclick="doFlag(flagAssocId, flagType, '-uninteresting', -1);" value="- uninteresting" /> <br />
+   <input type="button" onclick="doFlag(flagAssocId, flagType, '-spam', -1);" value="- spam/off-topic" /> <br />
+   <input type="button" onclick="doFlag(flagAssocId, flagType, '-offensive', -1);" value="- offensive" /> <br />
+   <input type="button" onclick="doFlag(flagAssocId, flagType, '-prohibited', -1);" value="- prohibited" /> <br />
+   <br />
+   <input type="button" onclick="hideflag();" value="cancel" /> <br />
+  </form>
+</div><div id="breadcrumb"><ul> <li class="lnk"><a href="/~mrs_b">mrs_b <b>&gt;</b></a></li><li class="lnk"><a href="/list/mrs_b">lists <b>&gt;</b></a></li><li class="current">Top 50 Madonna Songs</li></ul></div>
+   <div class="clear"></div><div class="clear"> </div><div class="warning">
+  <a href="/account/signup">Sign up</a> or <a href="/account/login">Log in </a> to catalog your music and film collection, receive recommendations, and create and share your own lists </div><div class="clear"> </div><div style="width:100%;height:90px;"></div>
+
+
+
+
+
+
+&nbsp;&nbsp; <div class="clear"> </div>
+<table class="mbgen"> 
+<tr><td style="padding:20px;">
+<h4>A list by <a class="user" href = "/~mrs_b">mrs_b</a></h4>
+<p style="color:#bbb">[List164049] | <a class="flag0" title="flag" id="flag_164049_s" href="javascript:void(0);" onClick="javascript:flagItem('164049', 's', event);" ><img id="flagimg_164049_s" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/flage.gif" width="18" height="18" /></a> | <a class="fav0" title="add/remove favorite" id="link_164049_s_f" href="javascript:void(0);" onClick="javascript:toggleFav('164049', 's', 'f');" ><img id="fav_164049_s_f" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/hearte.gif" width="18" height="18" /></a><a class="fav1 subtext" href="/favorited/164049_s_f"><span id="favtext_164049_s_f" class="smallgray"></span></a> </p>
+  <div style="float:left;padding-right:15px;padding-bottom:15px;"><a href="/release/single/madonna/bad_girl_f1/"><img  width="280" id="img_l_942657"   alt="Bad Girl" title="Bad Girl" src="//rymimg.com/lk/f/l/bf64f09cc44a0bde0978c4a72745f03f/1984783.jpg" /></a></div>
+  
+
+
+
+</td></tr></table><meta property="og:title" content="Top 50 Madonna Songs"/><div class="spreadtheword"><table><tr><td> </td><td style="width:330px;text-align:left;"><a title="Tweet this" href="http://twitter.com/home?status=Top+50+Madonna+Songs%3a+http%3a%2f%2frym%2efm%2f%2d41G"><img src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/twitter.png" alt="Twitter" border="0"></a>&nbsp;|&nbsp;<a title="Share on Facebook" href="http://www.facebook.com/share.php?u=/list/mrs_b/top_50_madonna_songs/"><img src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/facebook.png" alt="Facebook" border="0"></a>&nbsp;|&nbsp;<a title="Save To del.icio.us" href="http://del.icio.us/post?url=/list/mrs_b/top_50_madonna_songs/;title=Top 50 Madonna Songs - Rate Your Music"><img src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/delicious.gif" alt="del.icio.us" border="0"></a>&nbsp;|&nbsp;
+      <a title="Submit To Digg" href="http://digg.com/submit?phase=2&url=/list/mrs_b/top_50_madonna_songs/" ><img src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/digg.gif" alt="Digg" border="0"></a>&nbsp;|&nbsp;
+      <a title="Submit to Stumbleupon" href="http://www.stumbleupon.com/submit?url=/list/mrs_b/top_50_madonna_songs/;u=Top 50 Madonna Songs - Rate Your Music" ><img src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/stumbleupon.png" alt="Stumbleupon" border="0"></a>&nbsp;|&nbsp;
+      <a title="Save to Reddit" href="http://reddit.com/submit?url=/list/mrs_b/top_50_madonna_songs/;title=Top 50 Madonna Songs%20-%20Rate%20Your%20Music" ><img src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/reddit_btn.gif" alt="Reddit" border="0"></a>
+    
+   <!-- Place this tag where you want the +1 button to render. -->
+    &nbsp;|&nbsp; <div class="g-plusone" data-size="small"></div>
+
+    <!-- Place this tag after the last +1 button tag. -->
+    <script type="text/javascript">
+      (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+      })();
+    </script></td><td style="width:400px;"><iframe src="http://www.facebook.com/plugins/like.php?href=http://rateyourmusic.com%2flist%2fmrs%5fb%2ftop%5f50%5fmadonna%5fsongs%2f&amp;layout=standard&amp;show_faces=false&amp;width=400&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:400px; height:25px"></iframe></td></tr></table></div> 
+
+
+<div class="medium" style="padding:10px; text-align:center"><span class="navspan"><span class="navpage">Page </span><span class="navlinkcurrent">1 - 25</span> <a class="navlinknum" href = "/list/mrs_b/top_50_madonna_songs/2/">26 - 50</a> <a class="navlinknext" href="/list/mrs_b/top_50_madonna_songs/2/">&gt;&gt;</a></span></div>
+
+<table id="user_list"><tr class="trodd"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4651970" /></a>1</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/take_a_bow/"><img  width="150" id="img_l_485137"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/f08b9e842cac4b0664f63d1ee4293110/1542876.jpg"  alt="Take a Bow" title="Take a Bow" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album485137]" href="/release/single/madonna/take_a_bow/" class="list_album">Take a Bow</a></a>
+                        <span class="rel_date">(1994) [Single]</span></h5><td></td></tr><tr class="treven"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4651974" /></a>2</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/bad_girl_f1/"><img  width="150" id="img_l_942657"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/3c6071816dba7e09b5d8d345a8a53793/1984783.jpg"  alt="Bad Girl" title="Bad Girl" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album942657]" href="/release/single/madonna/bad_girl_f1/" class="list_album">Bad Girl</a></a>
+                        <span class="rel_date">(1993) [Single]</span></h5><td></td></tr><tr class="trodd"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4651977" /></a>3</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/ray_of_light/"><img  width="150" id="img_l_112341"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/ce485f383c6de816fff34dfb5bc6ec74/1243755.jpg"  alt="Ray of Light" title="Ray of Light" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album112341]" href="/release/single/madonna/ray_of_light/" class="list_album">Ray of Light</a></a>
+                        <span class="rel_date">(1998) [Single]</span></h5><td></td></tr><tr class="treven"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4651992" /></a>4</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/like_a_prayer_f1/"><img  width="150" id="img_l_1948264"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/65e58237e36f3364e4bd74dbf05adfa4/2487788.jpg"  alt="Like a Prayer" title="Like a Prayer" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album1948264]" href="/release/single/madonna/like_a_prayer_f1/" class="list_album">Like a Prayer</a></a>
+                        <span class="rel_date">(1989) [Single]</span></h5><td></td></tr><tr class="trodd"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652001" /></a>5</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/borderline___think_of_me/"><img  width="150" id="img_l_185615"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/416fc7c05576e86e15ac177cdd4fc506/1299325.jpg"  alt="Borderline / Think of Me" title="Borderline / Think of Me" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album185615]" href="/release/single/madonna/borderline___think_of_me/" class="list_album">Borderline / Think of Me</a></a>
+                        <span class="rel_date">(1984) [Single]</span></h5><br />Borderline<td></td></tr><tr class="treven"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652006" /></a>6</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/into_the_groove___everybody___shoo_be_doo/"><img  width="150" id="img_l_1375594"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/b833e5f6bad854f5a7d036f40319d694/2201366.jpg"  alt="Into the Groove / Everybody / Shoo-Be-Doo" title="Into the Groove / Everybody / Shoo-Be-Doo" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album1375594]" href="/release/single/madonna/into_the_groove___everybody___shoo_be_doo/" class="list_album">Into the Groove / Everybody / Shoo-Be-Doo</a></a>
+                        <span class="rel_date">(1985) [Single]</span></h5><br />Into the Groove<td></td></tr><tr class="trodd"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652012" /></a>7</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/crazy_for_you___no_more_words/"><img  width="150" id="img_l_112309"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/773a25cfc751fc0ab1316a6909ab2b4a/4802287.jpg"  alt="Crazy for You / No More Words" title="Crazy for You / No More Words" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album112309]" href="/release/single/madonna/crazy_for_you___no_more_words/" class="list_album">Crazy for You / No More Words</a></a>
+                        <span class="rel_date">(1985) [Single]</span></h5><br />Crazy For You<td></td></tr><tr class="treven"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652205" /></a>8</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/this_used_to_be_my_playground/"><img  width="150" id="img_l_112324"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/ee79ed477d4db15bd40812a3667050ed/1353713.jpg"  alt="This Used to Be My Playground" title="This Used to Be My Playground" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album112324]" href="/release/single/madonna/this_used_to_be_my_playground/" class="list_album">This Used to Be My Playground</a></a>
+                        <span class="rel_date">(1992) [Single]</span></h5><td></td></tr><tr class="trodd"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652220" /></a>9</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/4_minutes/"><img  height="150" id="img_l_1378925"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/326e6473172536ba71286cb8c13f4012/2213638.jpg"  alt="4 Minutes" title="4 Minutes" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album1378925]" href="/release/single/madonna/4_minutes/" class="list_album">4 Minutes</a></a>
+                        <span class="rel_date">(2008) [Single]</span></h5><td></td></tr><tr class="treven"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652040" /></a>10</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/dont_tell_me/"><img  width="150" id="img_l_112348"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/9b688a39cb53a07703294a1053bb325c/2166400.jpg"  alt="Don&#39;t Tell Me" title="Don&#39;t Tell Me" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album112348]" href="/release/single/madonna/dont_tell_me/" class="list_album">Don&#39;t Tell Me</a></a>
+                        <span class="rel_date">(2000) [Single]</span></h5><td></td></tr><tr class="trodd"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652053" /></a>11</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/la_isla_bonita___la_isla_bonita__instrumental_remix__f1/"><img  width="150" id="img_l_112315"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/f9621a8d674df48b78f2bda8d55f4618/3181108.jpeg"  alt="La Isla Bonita / La Isla Bonita (Instrumental Remix)" title="La Isla Bonita / La Isla Bonita (Instrumental Remix)" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album112315]" href="/release/single/madonna/la_isla_bonita___la_isla_bonita__instrumental_remix__f1/" class="list_album">La Isla Bonita / La Isla Bonita (Instrumental Remix)</a></a>
+                        <span class="rel_date">(1987) [Single]</span></h5><td></td></tr><tr class="treven"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652273" /></a>12</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/deeper_and_deeper/"><img  width="150" id="img_l_112326"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/1eac484cd7a92c86a9ac8cc0b04e572d/1270200.jpg"  alt="Deeper and Deeper" title="Deeper and Deeper" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album112326]" href="/release/single/madonna/deeper_and_deeper/" class="list_album">Deeper and Deeper</a></a>
+                        <span class="rel_date">(1992) [Single]</span></h5><td></td></tr><tr class="trodd"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652293" /></a>13</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/human_nature/"><img  width="150" id="img_l_112335"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/747be5fede36dca1fead3a86a4efb2ca/1822212.jpg"  alt="Human Nature" title="Human Nature" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album112335]" href="/release/single/madonna/human_nature/" class="list_album">Human Nature</a></a>
+                        <span class="rel_date">(1995) [Single]</span></h5><td></td></tr><tr class="treven"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652172" /></a>14</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/hanky_panky___more/"><img  width="150" id="img_l_112321"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/76cd661c0c9121562848ed329f40b1d2/2166261.jpg"  alt="Hanky Panky / More" title="Hanky Panky / More" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album112321]" href="/release/single/madonna/hanky_panky___more/" class="list_album">Hanky Panky / More</a></a>
+                        <span class="rel_date">(1990) [Single]</span></h5><td></td></tr><tr class="trodd"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652213" /></a>15</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/dont_cry_for_me_argentina/"><img  width="150" id="img_l_111693"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/c2cf7e79064b69fc5dbb2f3ad597cbe2/5127486.jpg"  alt="Don&#39;t Cry for Me Argentina" title="Don&#39;t Cry for Me Argentina" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album111693]" href="/release/single/madonna/dont_cry_for_me_argentina/" class="list_album">Don&#39;t Cry for Me Argentina</a></a>
+                        <span class="rel_date">(1996) [Single]</span></h5><br />Miami Mix Edit<td></td></tr><tr class="treven"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652246" /></a>16</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/open_your_heart___white_heat/"><img  width="150" id="img_l_112314"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/02f47c01926b3abe6369c1e1500966c5/3713055.jpg"  alt="Open Your Heart / White Heat" title="Open Your Heart / White Heat" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album112314]" href="/release/single/madonna/open_your_heart___white_heat/" class="list_album">Open Your Heart / White Heat</a></a>
+                        <span class="rel_date">(1986) [Single]</span></h5><br />Open Your Heart<td></td></tr><tr class="trodd"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652025" /></a>17</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/give_it_2_me_f1/"><img  width="150" id="img_l_1605355"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/34378983d8914082e7ef053a4aadd0b3/2309638.jpg"  alt="Give It 2 Me" title="Give It 2 Me" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album1605355]" href="/release/single/madonna/give_it_2_me_f1/" class="list_album">Give It 2 Me</a></a>
+                        <span class="rel_date">(2008) [Single]</span></h5><td></td></tr><tr class="treven"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652065" /></a>18</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/burning_up___physical_attraction/"><img  width="150" id="img_l_102292"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/076c4b2b696e6dadb72aefecd623bcda/5521765.jpg"  alt="Burning Up / Physical Attraction" title="Burning Up / Physical Attraction" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album102292]" href="/release/single/madonna/burning_up___physical_attraction/" class="list_album">Burning Up / Physical Attraction</a></a>
+                        <span class="rel_date">(1983) [Single]</span></h5><br />Burning Up<td></td></tr><tr class="trodd"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652018" /></a>19</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/sorry/"><img  width="150" id="img_l_471096"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/ea7e5acc7d7077fbbed7a73b0c80a12a/1561317.jpg"  alt="Sorry" title="Sorry" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album471096]" href="/release/single/madonna/sorry/" class="list_album">Sorry</a></a>
+                        <span class="rel_date">(2006) [Single]</span></h5><td></td></tr><tr class="treven"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652124" /></a>20</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/frozen_f3/"><img  width="150" id="img_l_76278"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/91ab8477dc4c77d0ca5e0d894c3d57ff/1253148.jpg"  alt="Frozen" title="Frozen" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album76278]" href="/release/single/madonna/frozen_f3/" class="list_album">Frozen</a></a>
+                        <span class="rel_date">(1998) [Single]</span></h5><td></td></tr><tr class="trodd"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652277" /></a>21</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/holiday_f1/"><img  width="150" alt="Holiday" title="Holiday" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blockeds.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album1118427]" href="/release/single/madonna/holiday_f1/" class="list_album">Holiday</a></a>
+                        <span class="rel_date">(1983) [Single]</span></h5><td></td></tr><tr class="treven"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652105" /></a>22</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/album/madonna/you_can_dance/"><img  width="150" id="img_l_6572"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/d1efdcd8e1530296f7d708c5db774c1d/2210321.jpg"  alt="You Can Dance" title="You Can Dance" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album6572]" href="/release/album/madonna/you_can_dance/" class="list_album">You Can Dance</a></a>
+                        <span class="rel_date">(1987)</span></h5><br />Spotlight<td></td></tr><tr class="trodd"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652128" /></a>23</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/cherish/"><img  width="150" id="img_l_622175"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/dc0f26d80d49a6098c237623196ae9c1/1747645.jpg"  alt="Cherish" title="Cherish" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album622175]" href="/release/single/madonna/cherish/" class="list_album">Cherish</a></a>
+                        <span class="rel_date">(1989) [Single]</span></h5><td></td></tr><tr class="treven"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652237" /></a>24</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/single/madonna/lucky_star___i_know_it_f3/"><img  width="150" id="img_l_95840"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/1f7b1667adbbee8344817b55d73721e3/1228616.jpg"  alt="Lucky Star / I Know It" title="Lucky Star / I Know It" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album95840]" href="/release/single/madonna/lucky_star___i_know_it_f3/" class="list_album">Lucky Star / I Know It</a></a>
+                        <span class="rel_date">(1983) [Single]</span></h5><br />Lucky Star<td></td></tr><tr class="trodd"><td width="10%" align=center valign=center>&nbsp;<table border=0 align=right valign=middle><tr>
+        
+         <td class="number"><a id="item4652137" /></a>25</td><td></td></tr></table><td class="list_art" style="width:160px;"><a href="/release/album/madonna/music_f1/"><img  width="150" id="img_l_798312"  class="delayloadimg"   data-delayloadurl="//rymimg.com/lk/s/l/a7a911917911a5c731216056c5c95570/3082042.jpg"  alt="Music" title="Music" src="https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/images/blank.png" /></a></td><td class="main_entry" ><h4><a title="[Artist628]"  href="/artist/madonna" class="list_artist">Madonna</a></h4>
+                                     <h5><a title="[Album798312]" href="/release/album/madonna/music_f1/" class="list_album">Music</a></a>
+                        <span class="rel_date">(2000)</span></h5><br />Runaway Lover<td></td></tr></table><div class="clear"> </div>
+<div class="medium" style="padding:10px; text-align:center"><span class="navspan"><span class="navpage">Page </span><span class="navlinkcurrent">1 - 25</span> <a class="navlinknum" href = "/list/mrs_b/top_50_madonna_songs/2/">26 - 50</a> <a class="navlinknext" href="/list/mrs_b/top_50_madonna_songs/2/">&gt;&gt;</a></span></div> <table><tr></tr></table><div style="margin-left:0px;"><div style="font-size:10px;color:#aaa;border-bottom:1px solid #aaa;margin-bottom:8px;width:970px;">Advertisement</div><div style="text-align:center;">
+<!-- Running 28 for 22 -->
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-7116019216064530";
+/* List: bottom banner */
+google_ad_slot = "6645857658";
+google_ad_width = 970;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div></div><div style="position:absolute;top:150px;width:100%;height:90px;text-align:center;">
+<!-- Running 109 for 21 -->
+<script type="text/javascript" language="javascript" src="//c.amazon-adsystem.com/aax2/getads.js"></script>
+<script type="text/javascript" language="javascript">
+//<![CDATA[
+aax_getad_mpb({
+  "size":"728x90",
+  "slot_uuid":"5e535db9-ecb2-41dc-840c-57919a7bc5c4"
+});
+//]]>
+</script></div>
+     <script type="text/javascript">
+      var delayLoadImgCount = 0
+      $('.delayloadimg').appear(function() { delayLoadImgCount++ ; $(this).attr('src', $(this).attr('data-delayloadurl')); } , { extendheight:400 } );
+     </script>
+  
+
+<!-- ~~~~~~~~ end content ~~~~~~~~~~~~~~~ -->
+<div id="myModal" class="reveal-modal">
+  <div id="modal_content">
+  </div>
+     <a class="close-reveal-modal">&#215;</a>
+</div>
+
+<!--trick--><div style="clear:both;"></div>
+</div>
+<div id="navbottom">
+    <ul>
+      <li><a href="/listen/all">RYM Artists</a></li>
+      <li><a href="/wiki/RYM:FAQ">FAQ</a></li>
+      <li><a href="/tos">Terms of Service</a></li>
+      <li><a href="/privacy">Privacy</a></li>
+      <li><a href="/suggestions">Website Feedback</a></li>
+      <li><a href="/help/">Help</a></li>
+   </ul>
+  
+   <script> function areAdsBlocked() { return ($('#ad_1').length == 0) } 
+   function politeAdRequest() {
+      var xx = '<div class=abpmessage>RYM relies on advertising income to support the site.  Please consider adding an exception to adblock for rateyourmusic.com, or <a href=/subscribe>subscribing</a> to help with bandwidth/server costs.</div>' 
+      $('#content').prepend(xx)
+   }
+
+   </script>
+ 
+      <script>if(areAdsBlocked()) { politeAdRequest() }</script>
+   
+
+<table><tr><td style="width:100%;text-align:center;"><address>&copy; 2000 - 2015 Sonemic, Inc. &nbsp; &nbsp; &nbsp; </td></tr></table> 
+
+</div>
+</div>		
+</script>
+</body>
+</html>
+ 
+ 

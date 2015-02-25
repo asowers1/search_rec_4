@@ -1,0 +1,1846 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="no-js"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="description" content="View Beatles song lyrics by popularity along with songs featured in, albums, videos and song meanings. We have 50 albums and 475 song lyrics in our database."/>
+<link rel="next" content="http://www.metrolyrics.com/beatles-alpage-1.html"/>
+<meta name="viewport" content="width=device-width, maximum-scale=1.0"/>
+<title>Beatles Song Lyrics | MetroLyrics</title>
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="search" type="application/opensearchdescription+xml" title="metrolyrics" href="/tools/ff_search_bar.xml">
+<link rel="canonical" href="http://www.metrolyrics.com/beatles-lyrics.html"/>
+<link pagespeed_no_defer="" rel="stylesheet" href="http://www.metrolyrics.com/css/desktop/artist-lyrics-v5.2.9.2.css">
+<script pagespeed_no_defer="" src="http://www.metrolyrics.com/js/vendor/uuid.min-v5.2.9.2.js"></script>
+<script src="http://www.metrolyrics.com/js/vendor/modernizr-2.6.2.min.js.pagespeed.jm.HFGCZXAk6a.js" type="text/psajs" orig_index="0"></script>
+<script pagespeed_no_defer="">var ml=ml||{"v":"5.2.9.2","eC":"Artist Lyrics","theme":"desktop","isDev":false,"USOnly":"Yes","api":"http:\/\/api.metrolyrics.com\/v1\/\/lyrics\/artist\/X-API-KEY\/196f657a46afb63ce3fd2015b9ed781280337ea7\/format\/jsonp\/artistid\/1145","lyricCount":475,"pageLimit":75,"offsetStart":75,"pushStateUrl":"beatles-alpage-","pushStatePage":1,"offset":0},vguid=uuid.v1(),googletag=googletag||{};googletag.cmd=googletag.cmd||[];ml.adData={isSkin:false,isBlank:true,skinType:"null"};ml.ev=function(eA,eL,eV){var keys=['eA','eL','eV'],data={'event':'ge','eC':ml.eC};for(var i=0;i<arguments.length;i++){data[keys[i]]=arguments[i];};if(typeof om!='undefined'&&typeof om.trackClick==='function'){om.trackClick({'item':eA+'|'+eL});}
+return dataLayer.push(data);};window.ev=ml.ev;document.cookie="s_tagEnv=live; path=/";</script>
+<script pagespeed_no_defer="">var dataLayer=dataLayer||[];(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-6QP2');</script>
+<script src='http://c.amazon-adsystem.com/aax2/amzn_ads.js' type="text/psajs" orig_index="1"></script>
+<script type="text/psajs" orig_index="2">try{amznads.getAds('3037');}catch(e){}</script>
+<script type="text/psajs" orig_index="3">(function(){var gads=document.createElement('script');gads.async=true;gads.type='text/javascript';var useSSL='https:'==document.location.protocol;gads.src=(useSSL?'https:':'http:')+'//www.googletagservices.com/tag/js/gpt.js';var node=document.getElementsByTagName('script')[0];node.parentNode.insertBefore(gads,node);})();googletag.cmd.push(function(){googletag.defineOutOfPageSlot("/8264/aw-metrolyrics/artist/lyrics","interstitial").addService(googletag.pubads());googletag.defineSlot('/8264/aw-metrolyrics/artist/lyrics',[[1600,1000]],'div-gpt-ad-skin').addService(googletag.pubads()).setTargeting("pos","top");if(ml.eC!=="Homepage"){window.lb_slot=googletag.defineSlot('/8264/aw-metrolyrics/artist/lyrics',[[728,90],[970,66],[970,250]],'div-gpt-ad-leaderboard').addService(googletag.pubads()).setTargeting("pos","top");}googletag.defineSlot('/8264/aw-metrolyrics/artist/lyrics',[[300,250],[300,500],[300,600]],'div-gpt-ad-mpu').addService(googletag.pubads()).setTargeting("pos","top");googletag.defineSlot('/8264/aw-metrolyrics/artist/lyrics',[[300,250]],'div-gpt-ad-mpu_middle').addService(googletag.pubads()).setTargeting("pos","middle");googletag.defineSlot('/8264/aw-metrolyrics/artist/lyrics',[[728,90],[970,66]],'div-gpt-ad-leaderboard_bottom').addService(googletag.pubads()).setTargeting("pos","bottom");googletag.pubads().setTargeting('vguid',vguid).setTargeting("ptype","lyrics_list").setTargeting("inskin","yes").setTargeting("ar",["beatles","johnlennon","paulmccartney","georgeharrison","paulmccartneywings","ringostarr","bobdylan","radiohead","ledzeppelin","rollingstones","pinkfloyd"]).setTargeting("tag","Rock").setTargeting("cid","1145").setTargeting("artist","beatles");var ftag=false,ftagHash=false,ftagSession=localStorage.getItem('ftagSession')||false;if(window.location.hash.indexOf('ftag=')!=-1){ftagHash=window.location.hash.substring(window.location.hash.indexOf('ftag=')+5);}
+if(ftag!=false){localStorage.setItem('ftagSession',ftag)
+googletag.pubads().setTargeting('ftag',ftag);}else if(ftagHash!=false){localStorage.setItem('ftagSession',ftagHash)
+googletag.pubads().setTargeting('ftag',ftagHash);}else if(ftagSession!=false){googletag.pubads().setTargeting('ftag',ftagSession);}
+var key='amznslots';var values=amznads.getTokens();try{amznads.setTargetingForGPTAsync('amznslots');}catch(e){}
+googletag.pubads().enableAsyncRendering();googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();googletag.enableServices();});function renderAdCallback(adData){ml.adData=adData;var sticker=document.getElementsByClassName('sticker')[0];if(sticker){sticker.style.display='none';}
+if(ml.eC==="Homepage"&&adData.isSkin&&!adData.isBlank){var lbh=document.getElementById('div-gpt-ad-leaderboard_homepage');document.getElementById('div-gpt-ad-leaderboard').innerHTML=lbh.innerHTML;lbh.parentNode.removeChild(lbh);document.getElementsByClassName('top-sponsor')[0].style.display='block';}}</script>
+<link rel=dns-prefetch href="//cn.cbsimg.net">
+<link rel=dns-prefetch href="//c.compete.com">
+<link rel=dns-prefetch href="//metrolyrics.disqus.com">
+<link rel=dns-prefetch href="//edge.quantserve.com">
+<link rel=dns-prefetch href="//tcr.tynt.com">
+<link rel=dns-prefetch href="//c9.static.nrcdn.com">
+</head>
+<body itemscope itemtype="http://schema.org/WebPage"><noscript><meta HTTP-EQUIV="refresh" content="0;url='http://www.metrolyrics.com/beatles-lyrics.html?ModPagespeed=noscript'" /><style><!--table,div,span,font,p{display:none} --></style><div style="display:block">Please click <a href="http://www.metrolyrics.com/beatles-lyrics.html?ModPagespeed=noscript">here</a> if you are not redirected within a few seconds.</div></noscript>
+<script pagespeed_no_defer="">var utag_data={"siteSection":"artist","pageType":"lyrics_list","musicArtistName":"Beatles","musicArtistId":"ml-artist-1145","siteHier":["Artist Page"],"siteType":"desktop web","deviceType":"desktop","bkPath":"\/8264\/aw-metrolyrics\/artist\/lyrics","bkAr":"beatles,johnlennon,paulmccartney,georgeharrison,paulmccartneywings,ringostarr,bobdylan,radiohead,ledzeppelin,rollingstones,pinkfloyd","bkTag":"Rock"}||{},findingMethod='External';if(document.referrer&&document.referrer.indexOf(window.location.host)!=-1){if(document.cookie.match('mlFindingMethod=(.+?);')){findingMethod=document.cookie.match('mlFindingMethod=(.+?);')[1];findingMethod=decodeURIComponent(findingMethod.replace(/\+/g,' '));}}
+utag_data.pageFindingMethod=findingMethod;if(typeof(vguid)!=="undefined"){utag_data.pageViewGuid=vguid;}
+(function(a,b,c,d){a='//tags.tiqcdn.com/utag/cbsi/metrolyricssite/prod/utag.js';b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);})();</script>	<div class="page" id="page">
+<div class="overlay" id="overlay"></div>
+<div class="mobile-view">
+<div class="label subtle">You are now on the desktop site.</div>
+<div class="label highlight">
+Return to mobile?
+<span class="yes">Yes</span>
+<span class="no">No</span>
+</div>
+</div>
+<header class="page-header" ng-controller="headerCtrl">
+<div class="header-top" id="header-top">
+<div class="row">
+<div class="logo grid_3">
+<a href="http://www.metrolyrics.com/" onmousedown="ev('Header','Logo');" title="Metrolyrics Homepage">Lyrics</a>
+</div>
+<nav class="nav-main grid_6">
+<ul class="clearfix">
+<li><a href="http://www.metrolyrics.com/top100.html" onmousedown="ev('Header','Lyrics');">Top 100</a></li>
+<li><a href="http://www.metrolyrics.com/videos.html" onmousedown="ev('Header','Videos');">Videos</a></li>
+<li><a href="http://www.metrolyrics.com/news.html" onmousedown="ev('Header','News');">Features</a></li>
+<li class="active"><a href="http://www.metrolyrics.com/top-artists.html" onmousedown="ev('Header','Artists');">Artists</a></li>
+</ul>
+</nav>
+<div class="hdr-search grid_3" id="search-container">
+<form class="search-form" action="/search">
+<input type="text" class="search-ip" id="search-ip" name="search" ng-click="$root.header.search.open();" placeholder="Search for lyrics" onmousedown="ev('Search','Header');"/>
+<input type="submit" value="Search" class="search-btn" onmousedown="ev('Search','Header Button');"/>
+</form>
+</div>
+</div>
+</div>
+</header>
+<div id="mantle_skin">
+<div style="display:none" id='div-gpt-ad-skin'></div>
+<div class="top-sponsor">
+<div id='div-gpt-ad-leaderboard'></div>	</div>
+<div id="skin-wrap">
+<div id="bg-top" class="bg-top">
+<div><script pagespeed_no_defer="">//<![CDATA[
+(function(){var d=window,e=document,f="documentElement",g="scrollTop",k="prototype",l="body",m="getAttribute",n="",p="1",q="data",r="img",s="load",t="number",u="on",v="onload",w="pagespeed_lazy_position",x="pagespeed_lazy_replaced_functions",y="pagespeed_lazy_src",z="position",A="relative",B="resize",C="scroll",D="src",E=function(a,b,c){if(a.addEventListener)a.addEventListener(b,c,!1);else if(a.attachEvent)a.attachEvent(u+b,c);else{var h=a[u+b];a[u+b]=function(){c.call(this);h&&h.call(this)}}};d.pagespeed=d.pagespeed||{};var F=d.pagespeed,G=function(a){this.d=[];this.a=0;this.b=!1;this.n=a;this.e=null;this.i=0;this.j=200;this.c=!1};G[k].r=function(){var a=0;typeof d.pageYOffset==t?a=d.pageYOffset:e[l]&&e[l][g]?a=e[l][g]:e[f]&&e[f][g]&&(a=e[f][g]);var b=d.innerHeight||e[f].clientHeight||e[l].clientHeight;return{top:a,bottom:a+b,height:b}};G[k].m=function(a){var b=a[m](w);if(b)return parseInt(b,0);var b=a.offsetTop,c=a.offsetParent;c&&(b+=this.m(c));b=Math.max(b,0);a.setAttribute(w,b);return b};
+G[k].q=function(a){var b=this.m(a);return{top:b,bottom:b+a.offsetHeight}};G[k].p=function(a,b){if(a.currentStyle)return a.currentStyle[b];if(e.defaultView&&e.defaultView.getComputedStyle){var c=e.defaultView.getComputedStyle(a,null);if(c)return c.getPropertyValue(b)}return a.style&&a.style[b]?a.style[b]:n};
+G[k].o=function(a){if(!this.c&&(0==a.offsetHeight||0==a.offsetWidth))return!1;if(this.p(a,z)==A)return!0;var b=this.r(),c=a.getBoundingClientRect();c?(a=c.top-b.height,b=c.bottom):(c=this.q(a),a=c.top-b.bottom,b=c.bottom-b.top);return a<=this.a&&0<=b+this.a};
+G[k].l=function(a){this.k(a);var b=this;d.setTimeout(function(){var c=a[m](y);if(null!=c)if((b.b||b.o(a))&&-1!=a.src.indexOf(b.n)){var h=a.parentNode,H=a.nextSibling;h&&h.removeChild(a);a.g&&(a.getAttribute=a.g);a.removeAttribute(v);a.removeAttribute(y);a.removeAttribute(x);h&&h.insertBefore(a,H);a.src=c}else b.d.push(a)},0)};G[k].loadIfVisible=G[k].l;G[k].t=function(){this.b=!0;this.f()};G[k].loadAllImages=G[k].t;G[k].f=function(){var a=this.d,b=a.length;this.d=[];for(var c=0;c<b;++c)this.l(a[c])};
+G[k].h=function(a,b){return a.a?null!=a.a(b):null!=a[m](b)};G[k].u=function(){for(var a=e.getElementsByTagName(r),b=0;b<a.length;++b){var c=a[b];this.h(c,y)&&this.k(c)}};G[k].overrideAttributeFunctions=G[k].u;G[k].k=function(a){var b=this;this.h(a,x)||(a.g=a[m],a.getAttribute=function(a){a.toLowerCase()==D&&b.h(this,y)&&(a=y);return this.g(a)},a.setAttribute(x,p))};
+F.s=function(a,b){var c=new G(b);F.lazyLoadImages=c;E(d,s,function(){c.c=!0;c.b=a;c.a=200;c.f()});0!=b.indexOf(q)&&((new Image).src=b);var h=function(){if(!(c.c&&a||c.e)){var b=c.j;(new Date).getTime()-c.i>c.j&&(b=0);c.e=d.setTimeout(function(){c.i=(new Date).getTime();c.f();c.e=null},b)}};E(d,C,h);E(d,B,h)};F.lazyLoadInit=F.s;})();
+
+pagespeed.lazyLoadInit(false, "http://www.gstatic.com/psa/static/1.gif");
+
+//]]></script><img pagespeed_lazy_src="http://netstorage.metrolyrics.com/artists/hero/beatles-52fe76e1-hero.jpg" alt="Beatles lyrics" pagespeed_url_hash="4120020341" src="http://www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></div>
+</div>
+<div class="main clearfix" role="main">
+<div id="artist-lyrics">
+<div class="artist-header content-header row">
+<div class="grid_6 suffix_6">
+<h1>Beatles</h1>
+<p>
+<a href="http://www.metrolyrics.com/beatles-overview.html" onmousedown="ev('Artist Menu','Overview');">Overview</a> /
+<a href="http://www.metrolyrics.com/beatles-lyrics.html" class="active" onmousedown="ev('Artist Menu','Lyrics');">Lyrics
+</a> /
+<a href="http://www.metrolyrics.com/beatles-pictures.html" onmousedown="ev('Artist Menu','Photos');">Photos</a> /
+<a href="http://www.metrolyrics.com/beatles-videos.html" onmousedown="ev('Artist Menu','Videos');">Videos
+</a> /
+<a href="http://www.metrolyrics.com/beatles-news.html" onmousedown="ev('Artist Menu','News');">News</a>
+</p>
+</div>
+</div>
+<div class="row">
+<div class="page-content alt clearfix">
+<div class="grid_12">
+<div class="top-songs module dark-bg">
+<header>
+<h3><span>Top</span> Songs</h3>
+</header>
+<ul class="tmb-small content clearfix">
+<li class="grid_3 alpha">
+<div>
+<a href="http://www.metrolyrics.com/yesterday-lyrics-beatles.html" onmousedown="ev('Featured Songs','searcht:yesterday-lyrics-beatles');" alt="Beatles - Yesterday Lyrics" title="Beatles - Yesterday Lyrics">
+<span class="tmb tmb-xs"><img alt="Beatles - Yesterday Lyrics" title="Beatles - Yesterday Lyrics" pagespeed_lazy_src="http://userserve-ak.last.fm/serve/126/2588646/The+Beatles+JUMP.jpg" pagespeed_url_hash="1400237199" src="http://www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></span>
+Yesterday Lyrics
+</a>
+</div>
+</li>
+<li class="grid_3 alpha">
+<div>
+<a href="http://www.metrolyrics.com/let-it-be-lyrics-beatles.html" onmousedown="ev('Featured Songs','searcht:let-it-be-lyrics-beatles');" alt="Beatles - Let It Be Lyrics" title="Beatles - Let It Be Lyrics">
+<span class="tmb tmb-xs"><img alt="Beatles - Let It Be Lyrics" title="Beatles - Let It Be Lyrics" pagespeed_lazy_src="http://userserve-ak.last.fm/serve/126/407719/The+Beatles.jpg" pagespeed_url_hash="1263451485" src="http://www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></span>
+Let It Be Lyrics
+</a>
+</div>
+</li>
+<li class="grid_3 alpha">
+<div>
+<a href="http://www.metrolyrics.com/hey-jude-lyrics-beatles.html" onmousedown="ev('Featured Songs','searcht:hey-jude-lyrics-beatles');" alt="Beatles - Hey Jude Lyrics" title="Beatles - Hey Jude Lyrics">
+<span class="tmb tmb-xs"><img alt="Beatles - Hey Jude Lyrics" title="Beatles - Hey Jude Lyrics" pagespeed_lazy_src="http://userserve-ak.last.fm/serve/126/4069917/The+Beatles+foto126.jpg" pagespeed_url_hash="2462637841" src="http://www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></span>
+Hey Jude Lyrics
+</a>
+</div>
+</li>
+<li class="grid_3 alpha">
+<div>
+<a href="http://www.metrolyrics.com/blackbird-lyrics-beatles.html" onmousedown="ev('Featured Songs','searcht:blackbird-lyrics-beatles');" alt="Beatles - Blackbird Lyrics" title="Beatles - Blackbird Lyrics">
+<span class="tmb tmb-xs"><img alt="Beatles - Blackbird Lyrics" title="Beatles - Blackbird Lyrics" pagespeed_lazy_src="http://userserve-ak.last.fm/serve/126/4508121/The+Beatles+EdSullivanRehearsal1964.jpg" pagespeed_url_hash="1836235703" src="http://www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></span>
+Blackbird Lyrics
+</a>
+</div>
+</li>
+</ul>
+</div><!-- END: Top Songs -->
+</div>
+</div>
+</div>
+<div class="row">
+<div class="page-content tabs-wrapper clearfix" id="main-content">
+<div class="grid_8">
+<div class="module no-margin clearfix">
+<div class="grid_5 alpha">
+<ul class="tabs clearfix">
+<li><a href="http://www.metrolyrics.com/beatles-albums-list.html" onmousedown="ev('Section Nav','By Albums');" data-ref="albums">By Albums</a></li>
+<li class='active'><a href="http://www.metrolyrics.com/beatles-lyrics.html" onmousedown="ev('Section Nav','By Lyrics');" data-ref="lyrics">By Lyrics</a></li>
+<li><a href="http://www.metrolyrics.com/beatles-featured.html" onmousedown="ev('Section Nav','Featured');">Featured</a></li>
+</ul>
+</div>
+<div class="grid_3 omega">
+<form class="search-form" action="/search.html">
+<input type="text" name='search' placeholder="Search for lyrics" class="search-ip" id="search-ip"/>
+<input type="submit" value="Search" class="search-btn"/>
+<input type="hidden" name="category" value="lyrics"/>
+</form>
+</div>
+</div>
+<div class="switchable lyrics clearfix">
+<div class="module" id="popular">
+<header>
+<p class="more-link">
+<a href="http://www.metrolyrics.com/add.html?artistid=1145" title="Submit New Song" rel="nofollow" onmousedown="ev('Submit New Song');">+ Submit New Song</a>
+</p>
+<h3><span>Popular</span> Songs</h3>
+</header>
+<div class="content">
+<table class="songs-table compact">
+<thead>
+<tr>
+<th class="video">&nbsp;</th>
+<th class="name" onmousedown="ev('Name Sort');" onClick='window.location="http://www.metrolyrics.com/beatles-alpage-1.html"'>Name</th>
+<th class="year">Year </th>
+<th class="popularity active" onmousedown="ev('Popularity Sort');" onClick='window.location="http://www.metrolyrics.com/beatles-lyrics.html"'>Popularity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/yesterday-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:yesterday-lyrics-beatles');" class="title hasvidtable" title="Beatles Yesterday lyrics" alt="Beatles Yesterday lyrics">
+Yesterday Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular10">
+<span style="width:100%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/let-it-be-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:let-it-be-lyrics-beatles');" class="title hasvidtable" title="Beatles Let It Be lyrics" alt="Beatles Let It Be lyrics">
+Let It Be Lyrics
+</a>
+</td>
+<td content="1988">1988</td>
+<td>
+<span class="bar popular9">
+<span style="width:96.838496732954%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/hey-jude-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:hey-jude-lyrics-beatles');" class="title hasvidtable" title="Beatles Hey Jude lyrics" alt="Beatles Hey Jude lyrics">
+Hey Jude Lyrics
+</a>
+</td>
+<td content="1988">1988</td>
+<td>
+<span class="bar popular9">
+<span style="width:95.327710756416%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/blackbird-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:blackbird-lyrics-beatles');" class="title hasvidtable" title="Beatles Blackbird lyrics" alt="Beatles Blackbird lyrics">
+Blackbird Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular9">
+<span style="width:93.79344055139%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/here-comes-the-sun-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:here-comes-the-sun-lyrics-beatles');" class="title hasvidtable" title="Beatles Here Comes The Sun lyrics" alt="Beatles Here Comes The Sun lyrics">
+Here Comes The Sun Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular9">
+<span style="width:93.698139929568%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/all-you-need-is-love-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:all-you-need-is-love-lyrics-beatles');" class="title hasvidtable" title="Beatles All You Need is Love lyrics" alt="Beatles All You Need is Love lyrics">
+All You Need is Love Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular9">
+<span style="width:93.657039520768%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/in-my-life-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:in-my-life-lyrics-beatles');" class="title hasvidtable" title="Beatles In My Life lyrics" alt="Beatles In My Life lyrics">
+In My Life Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular9">
+<span style="width:90.625688192522%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/i-want-to-hold-your-hand-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:i-want-to-hold-your-hand-lyrics-beatles');" class="title hasvidtable" title="Beatles I Want To Hold Your Hand lyrics" alt="Beatles I Want To Hold Your Hand lyrics">
+I Want To Hold Your Hand Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular9">
+<span style="width:90.521515067717%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/something-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:something-lyrics-beatles');" class="title hasvidtable" title="Beatles Something lyrics" alt="Beatles Something lyrics">
+Something Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular8">
+<span style="width:87.048367818935%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/strawberry-fields-forever-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:strawberry-fields-forever-lyrics-beatles');" class="title hasvidtable" title="Beatles Strawberry Fields Forever lyrics" alt="Beatles Strawberry Fields Forever lyrics">
+Strawberry Fields Forever Lyrics
+</a>
+</td>
+<td content="1996">1996</td>
+<td>
+<span class="bar popular8">
+<span style="width:85.473303956874%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/across-the-universe-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:across-the-universe-lyrics-beatles');" class="title " title="Beatles Across The Universe lyrics" alt="Beatles Across The Universe lyrics">
+Across The Universe Lyrics
+</a>
+</td>
+<td content="1988">1988</td>
+<td>
+<span class="bar popular8">
+<span style="width:85.19063740857%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/while-my-guitar-gently-weeps-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:while-my-guitar-gently-weeps-lyrics-beatles');" class="title hasvidtable" title="Beatles While My Guitar Gently Weeps lyrics" alt="Beatles While My Guitar Gently Weeps lyrics">
+While My Guitar Gently Weeps Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular8">
+<span style="width:84.089481945069%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/and-i-love-her-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:and-i-love-her-lyrics-beatles');" class="title hasvidtable" title="Beatles And I Love Her lyrics" alt="Beatles And I Love Her lyrics">
+And I Love Her Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular8">
+<span style="width:83.806755850942%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/i-will-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:i-will-lyrics-beatles');" class="title " title="Beatles I Will lyrics" alt="Beatles I Will lyrics">
+I Will Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular8">
+<span style="width:82.911559979619%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/when-im-64-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:when-im-64-lyrics-beatles');" class="title " title="Beatles When I&#039;m 64 lyrics" alt="Beatles When I&#039;m 64 lyrics">
+When I&#039;m 64 Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular8">
+<span style="width:82.687857325226%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/come-together-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:come-together-lyrics-beatles');" class="title " title="Beatles Come Together lyrics" alt="Beatles Come Together lyrics">
+Come Together Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular8">
+<span style="width:82.101902323474%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/with-a-little-help-from-my-friends-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:with-a-little-help-from-my-friends-lyrics-beatles');" class="title " title="Beatles With A Little Help From My Friends lyrics" alt="Beatles With A Little Help From My Friends lyrics">
+With A Little Help From My Friends Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular7">
+<span style="width:79.298873655729%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/obladi-oblada-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:obladi-oblada-lyrics-beatles');" class="title " title="Beatles Obladi Oblada lyrics" alt="Beatles Obladi Oblada lyrics">
+Obladi Oblada Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular7">
+<span style="width:78.378845588493%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/the-end-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:the-end-lyrics-beatles');" class="title " title="Beatles The End lyrics" alt="Beatles The End lyrics">
+The End Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular7">
+<span style="width:77.504499493918%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/michelle-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:michelle-lyrics-beatles');" class="title " title="Beatles Michelle lyrics" alt="Beatles Michelle lyrics">
+Michelle Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular7">
+<span style="width:77.071073275525%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/there-are-places-i-remember-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:there-are-places-i-remember-lyrics-beatles');" class="title hasvidtable" title="Beatles There are places I remember lyrics" alt="Beatles There are places I remember lyrics">
+There are places I remember Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular7">
+<span style="width:77.062045295209%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/i-am-the-walrus-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:i-am-the-walrus-lyrics-beatles');" class="title hasvidtable" title="Beatles I Am The Walrus lyrics" alt="Beatles I Am The Walrus lyrics">
+I Am The Walrus Lyrics
+</a>
+</td>
+<td content="1996">1996</td>
+<td>
+<span class="bar popular7">
+<span style="width:76.916567993059%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/here-there-and-everywhere-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:here-there-and-everywhere-lyrics-beatles');" class="title " title="Beatles Here, There And Everywhere lyrics" alt="Beatles Here, There And Everywhere lyrics">
+Here, There And Everywhere Lyrics
+</a>
+</td>
+<td content="1996">1996</td>
+<td>
+<span class="bar popular7">
+<span style="width:76.870703958369%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/she-loves-you-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:she-loves-you-lyrics-beatles');" class="title hasvidtable" title="Beatles She Loves You lyrics" alt="Beatles She Loves You lyrics">
+She Loves You Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular7">
+<span style="width:76.256154535508%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/lucy-in-the-sky-with-diamonds-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:lucy-in-the-sky-with-diamonds-lyrics-beatles');" class="title " title="Beatles Lucy In The Sky With Diamonds lyrics" alt="Beatles Lucy In The Sky With Diamonds lyrics">
+Lucy In The Sky With Diamonds Lyrics
+</a>
+</td>
+<td content="1996">1996</td>
+<td>
+<span class="bar popular7">
+<span style="width:75.758577955031%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/help-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:help-lyrics-beatles');" class="title " title="Beatles Help lyrics" alt="Beatles Help lyrics">
+Help Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular7">
+<span style="width:75.573721769855%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/yellow-submarine-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:yellow-submarine-lyrics-beatles');" class="title " title="Beatles Yellow Submarine lyrics" alt="Beatles Yellow Submarine lyrics">
+Yellow Submarine Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular7">
+<span style="width:75.511397466931%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/ive-just-seen-a-face-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:ive-just-seen-a-face-lyrics-beatles');" class="title " title="Beatles I&#039;ve Just Seen A Face lyrics" alt="Beatles I&#039;ve Just Seen A Face lyrics">
+I&#039;ve Just Seen A Face Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular7">
+<span style="width:75.480100737607%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/dont-let-me-down-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:dont-let-me-down-lyrics-beatles');" class="title " title="Beatles Don&#039;t Let Me Down lyrics" alt="Beatles Don&#039;t Let Me Down lyrics">
+Don&#039;t Let Me Down Lyrics
+</a>
+</td>
+<td content="1988">1988</td>
+<td>
+<span class="bar popular7">
+<span style="width:75.311645058054%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/till-there-was-you-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:till-there-was-you-lyrics-beatles');" class="title " title="Beatles Till There Was You lyrics" alt="Beatles Till There Was You lyrics">
+Till There Was You Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular7">
+<span style="width:75.226427572701%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/eleanor-rigby-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:eleanor-rigby-lyrics-beatles');" class="title " title="Beatles Eleanor Rigby lyrics" alt="Beatles Eleanor Rigby lyrics">
+Eleanor Rigby Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular7">
+<span style="width:74.565056680972%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/get-back-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:get-back-lyrics-beatles');" class="title " title="Beatles Get Back lyrics" alt="Beatles Get Back lyrics">
+Get Back Lyrics
+</a>
+</td>
+<td content="1988">1988</td>
+<td>
+<span class="bar popular7">
+<span style="width:74.485207276137%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/love-me-do-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:love-me-do-lyrics-beatles');" class="title " title="Beatles Love Me Do lyrics" alt="Beatles Love Me Do lyrics">
+Love Me Do Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular7">
+<span style="width:73.921266288306%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/all-my-loving-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:all-my-loving-lyrics-beatles');" class="title " title="Beatles All My Loving lyrics" alt="Beatles All My Loving lyrics">
+All My Loving Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular7">
+<span style="width:73.885028877224%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/penny-lane-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:penny-lane-lyrics-beatles');" class="title " title="Beatles Penny Lane lyrics" alt="Beatles Penny Lane lyrics">
+Penny Lane Lyrics
+</a>
+</td>
+<td content="1996">1996</td>
+<td>
+<span class="bar popular7">
+<span style="width:73.836523557002%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/cant-buy-me-love-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:cant-buy-me-love-lyrics-beatles');" class="title " title="Beatles Can&#039;t Buy Me Love lyrics" alt="Beatles Can&#039;t Buy Me Love lyrics">
+Can&#039;t Buy Me Love Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular7">
+<span style="width:72.451458087908%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/twist-and-shout-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:twist-and-shout-lyrics-beatles');" class="title " title="Beatles Twist And Shout lyrics" alt="Beatles Twist And Shout lyrics">
+Twist And Shout Lyrics
+</a>
+</td>
+<td content="2014">2014</td>
+<td>
+<span class="bar popular7">
+<span style="width:72.423811320613%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/because-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:because-lyrics-beatles');" class="title " title="Beatles Because lyrics" alt="Beatles Because lyrics">
+Because Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular7">
+<span style="width:72.200067533941%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/a-day-in-the-life-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:a-day-in-the-life-lyrics-beatles');" class="title hasvidtable" title="Beatles A Day In The Life lyrics" alt="Beatles A Day In The Life lyrics">
+A Day In The Life Lyrics
+</a>
+</td>
+<td content="1996">1996</td>
+<td>
+<span class="bar popular7">
+<span style="width:71.811727469487%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/revolution-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:revolution-lyrics-beatles');" class="title " title="Beatles Revolution lyrics" alt="Beatles Revolution lyrics">
+Revolution Lyrics
+</a>
+</td>
+<td content="1988">1988</td>
+<td>
+<span class="bar popular7">
+<span style="width:71.649447588539%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/norwegian-wood-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:norwegian-wood-lyrics-beatles');" class="title " title="Beatles Norwegian Wood lyrics" alt="Beatles Norwegian Wood lyrics">
+Norwegian Wood Lyrics
+</a>
+</td>
+<td content="1996">1996</td>
+<td>
+<span class="bar popular6">
+<span style="width:69.842480250897%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/golden-slumbers-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:golden-slumbers-lyrics-beatles');" class="title " title="Beatles Golden Slumbers lyrics" alt="Beatles Golden Slumbers lyrics">
+Golden Slumbers Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular6">
+<span style="width:69.357908305095%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/please-please-me-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:please-please-me-lyrics-beatles');" class="title " title="Beatles Please Please Me lyrics" alt="Beatles Please Please Me lyrics">
+Please Please Me Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular6">
+<span style="width:69.339539452563%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/she-came-in-through-the-bathroom-window-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:she-came-in-through-the-bathroom-window-lyrics-beatles');" class="title " title="Beatles She Came In Through The Bathroom Window lyrics" alt="Beatles She Came In Through The Bathroom Window lyrics">
+She Came In Through The Bathroom Window Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular6">
+<span style="width:69.135405505241%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/a-hard-days-night-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:a-hard-days-night-lyrics-beatles');" class="title " title="Beatles A Hard Day&#039;s Night lyrics" alt="Beatles A Hard Day&#039;s Night lyrics">
+A Hard Day&#039;s Night Lyrics
+</a>
+</td>
+<td content="1973">1973</td>
+<td>
+<span class="bar popular6">
+<span style="width:68.98449788929%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/i-saw-her-standing-there-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:i-saw-her-standing-there-lyrics-beatles');" class="title " title="Beatles I Saw Her Standing There lyrics" alt="Beatles I Saw Her Standing There lyrics">
+I Saw Her Standing There Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular6">
+<span style="width:68.773517013829%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/maxwells-silver-hammer-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:maxwells-silver-hammer-lyrics-beatles');" class="title hasvidtable" title="Beatles Maxwell&#039;s Silver Hammer lyrics" alt="Beatles Maxwell&#039;s Silver Hammer lyrics">
+Maxwell&#039;s Silver Hammer Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular6">
+<span style="width:68.011439800247%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/two-of-us-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:two-of-us-lyrics-beatles');" class="title " title="Beatles Two Of Us lyrics" alt="Beatles Two Of Us lyrics">
+Two Of Us Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular6">
+<span style="width:67.369609109205%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/im-so-tired-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:im-so-tired-lyrics-beatles');" class="title " title="Beatles I&#039;m So Tired lyrics" alt="Beatles I&#039;m So Tired lyrics">
+I&#039;m So Tired Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular6">
+<span style="width:67.258852047325%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/octopuss-garden-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:octopuss-garden-lyrics-beatles');" class="title " title="Beatles Octopus&#039;s Garden lyrics" alt="Beatles Octopus&#039;s Garden lyrics">
+Octopus&#039;s Garden Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular6">
+<span style="width:67.056598920494%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/birthday-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:birthday-lyrics-beatles');" class="title " title="Beatles Birthday lyrics" alt="Beatles Birthday lyrics">
+Birthday Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular6">
+<span style="width:66.66397819501%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/if-i-fell-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:if-i-fell-lyrics-beatles');" class="title " title="Beatles If I Fell lyrics" alt="Beatles If I Fell lyrics">
+If I Fell Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular6">
+<span style="width:66.158530145324%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/back-in-the-ussr-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:back-in-the-ussr-lyrics-beatles');" class="title " title="Beatles Back in the U.S.S.R lyrics" alt="Beatles Back in the U.S.S.R lyrics">
+Back in the U.S.S.R Lyrics
+</a>
+</td>
+<td content="1990">1990</td>
+<td>
+<span class="bar popular6">
+<span style="width:65.628416537521%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/i-should-have-known-better-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:i-should-have-known-better-lyrics-beatles');" class="title " title="Beatles I Should Have Known Better lyrics" alt="Beatles I Should Have Known Better lyrics">
+I Should Have Known Better Lyrics
+</a>
+</td>
+<td content="2014">2014</td>
+<td>
+<span class="bar popular6">
+<span style="width:65.55052965428%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/words-of-love-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:words-of-love-lyrics-beatles');" class="title hasvidtable" title="Beatles Words of Love lyrics" alt="Beatles Words of Love lyrics">
+Words of Love Lyrics
+</a>
+</td>
+<td content="2014">2014</td>
+<td>
+<span class="bar popular6">
+<span style="width:64.426015921513%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/love-you-tohere-there-and-everywhere-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:love-you-tohere-there-and-everywhere-lyrics-beatles');" class="title " title="Beatles Love You To/Here, There And Everywhere lyrics" alt="Beatles Love You To/Here, There And Everywhere lyrics">
+Love You To/Here, There And Everywhere Lyrics
+</a>
+</td>
+<td content="2014">2014</td>
+<td>
+<span class="bar popular2">
+<span style="width:22.593493517416%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/yellow-submarine-mbe-s-royalty-politics-and-war-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:yellow-submarine-mbe-s-royalty-politics-and-war-lyrics-beatles');" class="title " title="Beatles Yellow Submarine: M.B.E. S, Royalty, Politics, And War lyrics" alt="Beatles Yellow Submarine: M.B.E. S, Royalty, Politics, And War lyrics">
+Yellow Submarine: M.B.E. S, Royalty, Politics, And War Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular2">
+<span style="width:21.142651744198%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/heyheyheyhey-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:heyheyheyhey-lyrics-beatles');" class="title " title="Beatles Hey-Hey-Hey-Hey! lyrics" alt="Beatles Hey-Hey-Hey-Hey! lyrics">
+Hey-Hey-Hey-Hey! Lyrics
+</a>
+</td>
+<td content="2014">2014</td>
+<td>
+<span class="bar popular1">
+<span style="width:17.486822453248%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/money-thats-what-i-want-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:money-thats-what-i-want-lyrics-beatles');" class="title " title="Beatles Money (That&#039;s What I Want) lyrics" alt="Beatles Money (That&#039;s What I Want) lyrics">
+Money (That&#039;s What I Want) Lyrics
+</a>
+</td>
+<td content="2014">2014</td>
+<td>
+<span class="bar popular1">
+<span style="width:17.486822453248%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/call-your-name-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:call-your-name-lyrics-beatles');" class="title " title="Beatles Call Your Name lyrics" alt="Beatles Call Your Name lyrics">
+Call Your Name Lyrics
+</a>
+</td>
+<td content="2014">2014</td>
+<td>
+<span class="bar popular1">
+<span style="width:17.486822453248%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/kansas-city-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:kansas-city-lyrics-beatles');" class="title " title="Beatles Kansas City lyrics" alt="Beatles Kansas City lyrics">
+Kansas City Lyrics
+</a>
+</td>
+<td content="2014">2014</td>
+<td>
+<span class="bar popular1">
+<span style="width:15.062329011611%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/youve-really-got-a-hold-on-me-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:youve-really-got-a-hold-on-me-lyrics-beatles');" class="title " title="Beatles You&#039;ve Really Got a Hold on Me lyrics" alt="Beatles You&#039;ve Really Got a Hold on Me lyrics">
+You&#039;ve Really Got a Hold on Me Lyrics
+</a>
+</td>
+<td content="2014">2014</td>
+<td>
+<span class="bar popular1">
+<span style="width:15.062329011611%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/long-tall-sallly-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:long-tall-sallly-lyrics-beatles');" class="title " title="Beatles Long Tall Sallly lyrics" alt="Beatles Long Tall Sallly lyrics">
+Long Tall Sallly Lyrics
+</a>
+</td>
+<td content="2014">2014</td>
+<td>
+<span class="bar popular1">
+<span style="width:15.062329011611%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/magical-mystery-tour-minidocumentary-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:magical-mystery-tour-minidocumentary-lyrics-beatles');" class="title " title="Beatles Magical Mystery Tour Mini-Documentary lyrics" alt="Beatles Magical Mystery Tour Mini-Documentary lyrics">
+Magical Mystery Tour Mini-Documentary Lyrics
+</a>
+</td>
+<td content="2014">2014</td>
+<td>
+<span class="bar popular1">
+<span style="width:11.936613328464%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/kom-gib-mir-deine-hand-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:kom-gib-mir-deine-hand-lyrics-beatles');" class="title " title="Beatles Kom, Gib Mir Deine Hand lyrics" alt="Beatles Kom, Gib Mir Deine Hand lyrics">
+Kom, Gib Mir Deine Hand Lyrics
+</a>
+</td>
+<td content="2014">2014</td>
+<td>
+<span class="bar popular1">
+<span style="width:11.936613328464%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/ask-me-why-how-the-beatles-got-together-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:ask-me-why-how-the-beatles-got-together-lyrics-beatles');" class="title " title="Beatles Ask Me Why: How the Beatles Got Together lyrics" alt="Beatles Ask Me Why: How the Beatles Got Together lyrics">
+Ask Me Why: How the Beatles Got Together Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular0">
+<span style="width:7.5311645058054%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/only-a-northern-song-music-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:only-a-northern-song-music-lyrics-beatles');" class="title " title="Beatles Only a Northern Song: Music lyrics" alt="Beatles Only a Northern Song: Music lyrics">
+Only a Northern Song: Music Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular0">
+<span style="width:7.5311645058054%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/you-know-my-name-look-up-the-number-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:you-know-my-name-look-up-the-number-lyrics-beatles');" class="title " title="Beatles You Know My Name (Look Up The Number) lyrics" alt="Beatles You Know My Name (Look Up The Number) lyrics">
+You Know My Name (Look Up The Number) Lyrics
+</a>
+</td>
+<td content="1988">1988</td>
+<td>
+<span class="bar popular0">
+<span style="width:6%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/give-my-regards-to-movies-acting-and-filming-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:give-my-regards-to-movies-acting-and-filming-lyrics-beatles');" class="title " title="Beatles Give My Regards to...: Movies, Acting, And Filming lyrics" alt="Beatles Give My Regards to...: Movies, Acting, And Filming lyrics">
+Give My Regards to...: Movies, Acting, And Filming Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular0">
+<span style="width:6%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/back-off-boogaloo-splitting-up-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:back-off-boogaloo-splitting-up-lyrics-beatles');" class="title " title="Beatles Back Off Boogaloo: Splitting Up lyrics" alt="Beatles Back Off Boogaloo: Splitting Up lyrics">
+Back Off Boogaloo: Splitting Up Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular0">
+<span style="width:6%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/remember-musings-on-everything-and-nothing-at-all-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:remember-musings-on-everything-and-nothing-at-all-lyrics-beatles');" class="title " title="Beatles Remember: Musings on Everything and Nothing at All lyrics" alt="Beatles Remember: Musings on Everything and Nothing at All lyrics">
+Remember: Musings on Everything and Nothing at All Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular0">
+<span style="width:6%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/that-means-a-lot-fans-and-fame-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:that-means-a-lot-fans-and-fame-lyrics-beatles');" class="title " title="Beatles That Means a Lot: Fans and Fame lyrics" alt="Beatles That Means a Lot: Fans and Fame lyrics">
+That Means a Lot: Fans and Fame Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular0">
+<span style="width:6%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/something-miscellaneous-mutterings-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:something-miscellaneous-mutterings-lyrics-beatles');" class="title " title="Beatles Something: Miscellaneous Mutterings lyrics" alt="Beatles Something: Miscellaneous Mutterings lyrics">
+Something: Miscellaneous Mutterings Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular0">
+<span style="width:6%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/the-beatles-minidocumentary-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:the-beatles-minidocumentary-lyrics-beatles');" class="title " title="Beatles The Beatles Mini-Documentary lyrics" alt="Beatles The Beatles Mini-Documentary lyrics">
+The Beatles Mini-Documentary Lyrics
+</a>
+</td>
+<td content="2014">2014</td>
+<td>
+<span class="bar popular0">
+<span style="width:6%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/for-you-blue-george-on-brian-lyrics-beatles.html" onmousedown="ev('Popular Songs','searcht:for-you-blue-george-on-brian-lyrics-beatles');" class="title " title="Beatles For You Blue: George on Brian lyrics" alt="Beatles For You Blue: George on Brian lyrics">
+For You Blue: George on Brian Lyrics
+</a>
+</td>
+<td content="2000">2000</td>
+<td>
+<span class="bar popular0">
+<span style="width:6%;"></span>
+</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="pagination">
+<a href="javascript:void(0)" class="button prev disabled" onmousedown="ev('Previous Page');">
+<span aria-hidden="true" class="arrow">&lt;</span> Prev</a>
+<span class="pages">
+<a href="http://www.metrolyrics.com/beatles-alpage-1.html" onmousedown="ev('Page','1');">
+1	</a>
+<a href="http://www.metrolyrics.com/beatles-alpage-2.html" onmousedown="ev('Page','2');">
+2	</a>
+<a href="http://www.metrolyrics.com/beatles-alpage-3.html" onmousedown="ev('Page','3');">
+3	</a>
+<a href="http://www.metrolyrics.com/beatles-alpage-4.html" onmousedown="ev('Page','4');">
+4	</a>
+<a href="http://www.metrolyrics.com/beatles-alpage-5.html" onmousedown="ev('Page','... ');">
+... </a>
+</span>
+<a href="http://www.metrolyrics.com/beatles-alpage-1.html" class="button next" onmousedown="ev('Next Page');">
+Next <span aria-hidden="true" class="arrow">&gt;</span>
+</a>
+</p>
+</div><!-- END: lyrics -->
+<div class="module" id="featured">
+<header>
+<p class="more-link">
+<a href="http://www.metrolyrics.com/beatles-featured.html" onmousedown="ev('Featured View All','View All');" title="View All">View All</a>
+</p>
+<h3>
+<span>
+Songs
+</span>
+Featured In
+</h3>
+</header>
+<div class="content">
+<table class="songs-table compact">
+<thead>
+<tr>
+<th class="video">&nbsp;</th>
+<th class="name">Name </th>
+<th class="artist">Artist </span></th>
+<th class="popularity active">Popularity </span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/i-want-to-hold-your-hand-lyrics-glee-cast.html" class="title " onmousedown="ev('Featured','searcht:i-want-to-hold-your-hand-lyrics-glee-cast');" title="Glee I Want To Hold Your Hand lyrics" alt="Glee I Want To Hold Your Hand lyrics">
+I Want To Hold Your Hand Lyrics
+</a>
+</td>
+<td>Glee</td>
+<td>
+<span class="bar popular10">
+<span style="width:100%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/blackbird-lyrics-glee.html" class="title " onmousedown="ev('Featured','searcht:blackbird-lyrics-glee');" title="Glee Blackbird lyrics" alt="Glee Blackbird lyrics">
+Blackbird Lyrics
+</a>
+</td>
+<td>Glee</td>
+<td>
+<span class="bar popular7">
+<span style="width:71.374573553262%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/hello-goodbye-lyrics-glee-cast.html" class="title " onmousedown="ev('Featured','searcht:hello-goodbye-lyrics-glee-cast');" title="Glee Hello Goodbye lyrics" alt="Glee Hello Goodbye lyrics">
+Hello Goodbye Lyrics
+</a>
+</td>
+<td>Glee</td>
+<td>
+<span class="bar popular6">
+<span style="width:60.937885624719%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/in-my-life-lyrics-glee.html" class="title " onmousedown="ev('Featured','searcht:in-my-life-lyrics-glee');" title="Glee In My Life lyrics" alt="Glee In My Life lyrics">
+In My Life Lyrics
+</a>
+</td>
+<td>Glee</td>
+<td>
+<span class="bar popular5">
+<span style="width:55.36926622778%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/let-it-be-lyrics-the-voice.html" class="title " onmousedown="ev('Featured','searcht:let-it-be-lyrics-the-voice');" title="The Voice Let It Be lyrics" alt="The Voice Let It Be lyrics">
+Let It Be Lyrics
+</a>
+</td>
+<td>The Voice</td>
+<td>
+<span class="bar popular4">
+<span style="width:41.373119248889%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/hey-jude-lyrics-x-factor-uk.html" class="title " onmousedown="ev('Featured','searcht:hey-jude-lyrics-x-factor-uk');" title="X Factor (UK) Hey Jude lyrics" alt="X Factor (UK) Hey Jude lyrics">
+Hey Jude Lyrics
+</a>
+</td>
+<td>X Factor (UK)</td>
+<td>
+<span class="bar popular3">
+<span style="width:37.163172746343%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/oh-darling-lyrics-the-voice.html" class="title " onmousedown="ev('Featured','searcht:oh-darling-lyrics-the-voice');" title="The Voice Oh! Darling lyrics" alt="The Voice Oh! Darling lyrics">
+Oh! Darling Lyrics
+</a>
+</td>
+<td>The Voice</td>
+<td>
+<span class="bar popular3">
+<span style="width:37.163172746343%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/yesterday-lyrics-carrie-underwood.html" class="title " onmousedown="ev('Featured','searcht:yesterday-lyrics-carrie-underwood');" title="Carrie Underwood Yesterday lyrics" alt="Carrie Underwood Yesterday lyrics">
+Yesterday Lyrics
+</a>
+</td>
+<td>Carrie Underwood</td>
+<td>
+<span class="bar popular2">
+<span style="width:25.367811923407%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/come-together-lyrics-the-voice.html" class="title " onmousedown="ev('Featured','searcht:come-together-lyrics-the-voice');" title="The Voice Come Together lyrics" alt="The Voice Come Together lyrics">
+Come Together Lyrics
+</a>
+</td>
+<td>The Voice</td>
+<td>
+<span class="bar popular2">
+<span style="width:25.367811923407%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/a-hard-days-night-lyrics-american-idol.html" class="title " onmousedown="ev('Featured','searcht:a-hard-days-night-lyrics-american-idol');" title="American Idol A Hard Day&#039;s Night lyrics" alt="American Idol A Hard Day&#039;s Night lyrics">
+A Hard Day&#039;s Night Lyrics
+</a>
+</td>
+<td>American Idol</td>
+<td>
+<span class="bar popular1">
+<span style="width:16.005307325482%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/all-you-need-is-love-lyrics-x-factor-us.html" class="title " onmousedown="ev('Featured','searcht:all-you-need-is-love-lyrics-x-factor-us');" title="X Factor (US) All You Need Is Love lyrics" alt="X Factor (US) All You Need Is Love lyrics">
+All You Need Is Love Lyrics
+</a>
+</td>
+<td>X Factor (US)</td>
+<td>
+<span class="bar popular1">
+<span style="width:16.005307325482%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/all-you-need-is-love-lyrics-x-factor-uk.html" class="title hasvidtable" onmousedown="ev('Featured','searcht:all-you-need-is-love-lyrics-x-factor-uk');" title="X Factor (UK) All You Need Is Love lyrics" alt="X Factor (UK) All You Need Is Love lyrics">
+All You Need Is Love Lyrics
+</a>
+</td>
+<td>X Factor (UK)</td>
+<td>
+<span class="bar popular1">
+<span style="width:16.005307325482%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/with-a-little-help-from-my-friends-lyrics-american-idol.html" class="title " onmousedown="ev('Featured','searcht:with-a-little-help-from-my-friends-lyrics-american-idol');" title="American Idol With A Little Help From My Friends lyrics" alt="American Idol With A Little Help From My Friends lyrics">
+With A Little Help From My Friends Lyrics
+</a>
+</td>
+<td>American Idol</td>
+<td>
+<span class="bar popular1">
+<span style="width:16.005307325482%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/with-a-little-help-from-my-friends-lyrics-x-factor-uk.html" class="title " onmousedown="ev('Featured','searcht:with-a-little-help-from-my-friends-lyrics-x-factor-uk');" title="X Factor (UK) With A Little Help From My Friends lyrics" alt="X Factor (UK) With A Little Help From My Friends lyrics">
+With A Little Help From My Friends Lyrics
+</a>
+</td>
+<td>X Factor (UK)</td>
+<td>
+<span class="bar popular1">
+<span style="width:16.005307325482%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/let-it-be-lyrics-the-sing-off.html" class="title " onmousedown="ev('Featured','searcht:let-it-be-lyrics-the-sing-off');" title="The Sing Off Let It Be lyrics" alt="The Sing Off Let It Be lyrics">
+Let It Be Lyrics
+</a>
+</td>
+<td>The Sing Off</td>
+<td>
+<span class="bar popular1">
+<span style="width:16.005307325482%;"></span>
+</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="grid_4">
+<div class="expanding-ad ad-box"><div id='div-gpt-ad-mpu'></div></div>
+<div class="module">
+<a id="driver" class="content-driver small" href="http://www.metrolyrics.com/news-story-imagine-dragons-smoke-and-mirrors-lyric-reveal.html" onmousedown="ev('Driver Module','http://www.metrolyrics.com/news-story-imagine-dragons-smoke-and-mirrors-lyric-reveal.html');" title="Read Every Lyric On Imagine Dragons&#039; Upcoming Album">
+<div class="image-container">
+<img pagespeed_lazy_src="http://netstorage.metrolyrics.com/drivers/f66a1/imaginedragons-list2-54e3812d-image.jpg" pagespeed_url_hash="2675167587" src="http://www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<div class="caption">Read Every Lyric On Imagine Dragons&#039; Upcoming Album</div>
+</div>
+</a>
+<div class="module with-overlay videos no-grid" id="videoGallery">
+<header>
+<p class='more-link'>
+<a class="link" title="Beatles videos" href="http://www.metrolyrics.com/beatles-videos.html" onmousedown="ev('Artist Video Module View All','View All');">View All</a>	</p>
+<h3>
+<span>Beatles</span> Videos	</h3>
+</header>
+<ul class="content clearfix">
+<li class="full">
+<a href="http://www.metrolyrics.com/song-beck-ml-video-qak.html" title="GRAMMY Awards - Beck &quot;Morning Phase&quot; - 2015 GRAMMY Winner Album of the Year" onmousedown="ev('Artist Video Module','searchv:song-beck-ml-video-qak');">
+<span class="tmb tmb-altmod-full">
+<img pagespeed_no_defer="" src='http://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2015/02/08/396004931879/CBS_GRAMMYS_2015_ALBUM_OF_YEAR_IMAGE_498550_640x360.jpg' alt="Beck Videos" title="Beck Videos" pagespeed_url_hash="3230198578"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">GRAMMY Awards - Beck "Morning Phase" - 2015 GRAMMY Winner Album of the Year<br/>Video</span>
+</a>
+</li>
+<li class="">
+<a href="http://www.metrolyrics.com/while-my-guitar-gently-weeps-beatles-ml-video-woj.html" title="While My Guitar Gently Weeps Lyrics-The Beatles" onmousedown="ev('Artist Video Module','searchv:while-my-guitar-gently-weeps-beatles-ml-video-woj');">
+<span class="tmb tmb-altmod">
+<img pagespeed_no_defer="" src='http://i.ytimg.com/vi/YXdE9wxg8YI/1.jpg' alt="Beatles Videos" title="Beatles Videos" pagespeed_url_hash="1883458851"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">While My Guitar Gently Weeps Lyrics-The Beatles<br/>Video</span>
+</a>
+</li>
+<li class="">
+<a href="http://www.metrolyrics.com/in-my-life-beatles-ml-video-ne7.html" title="The Beatles - In My Life 1080p [HD]" onmousedown="ev('Artist Video Module','searchv:in-my-life-beatles-ml-video-ne7');">
+<span class="tmb tmb-altmod">
+<img pagespeed_no_defer="" src='http://i.ytimg.com/vi/Zicw_dVwhfM/1.jpg' alt="Beatles Videos" title="Beatles Videos" pagespeed_url_hash="2628057666"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">The Beatles - In My Life 1080p [HD]<br/>Video</span>
+</a>
+</li>
+<li class="">
+<a href="http://www.metrolyrics.com/words-of-love-beatles-ml-video-l9q.html" title="Words Of Love" onmousedown="ev('Artist Video Module','searchv:words-of-love-beatles-ml-video-l9q');">
+<span class="tmb tmb-altmod">
+<img pagespeed_no_defer="" src='http://cache.vevo.com/Content/VevoImages/video/CBDD83697B3454972C07FF7729CE86D720131511182454363.jpg?width=150' alt="Beatles Videos" title="Beatles Videos" pagespeed_url_hash="3334402858"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">Words Of Love<br/>Video</span>
+</a>
+</li>
+<li class="">
+<a href="http://www.metrolyrics.com/all-you-need-is-love-beatles-ml-video-sot.html" title="The Beatles - All You Need Is Love-HQ" onmousedown="ev('Artist Video Module','searchv:all-you-need-is-love-beatles-ml-video-sot');">
+<span class="tmb tmb-altmod">
+<img pagespeed_no_defer="" src='http://i.ytimg.com/vi/s-pFAFsTFTI/1.jpg' alt="Beatles Videos" title="Beatles Videos" pagespeed_url_hash="2475501105"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">The Beatles - All You Need Is Love-HQ<br/>Video</span>
+</a>
+</li>
+<li class="">
+<a href="http://www.metrolyrics.com/song-train-ml-video-ic6.html" title="Hawaii Five-0 - Bulletproof Picasso (Train)" onmousedown="ev('Artist Video Module','searchv:song-train-ml-video-ic6');">
+<span class="tmb tmb-altmod">
+<img pagespeed_no_defer="" src='http://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2015/02/11/397264963651/CBS_HAWAII_FIVE_0_515_TRAIN_500723_640x360.jpg' alt="Train Videos" title="Train Videos" pagespeed_url_hash="1611845105"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">Hawaii Five-0 - Bulletproof Picasso (Train)<br/>Video</span>
+</a>
+</li>
+<li class="">
+<a href="http://www.metrolyrics.com/maroon-5-one-more-night-ml-video-i7r.html" title="One More Night" onmousedown="ev('Artist Video Module','searchv:maroon-5-one-more-night-ml-video-i7r');">
+<span class="tmb tmb-altmod">
+<img pagespeed_no_defer="" src='http://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/384/671/2013/05/28/31540803681/08_maroon5_one_more_night_thumb_640x360.jpg' alt="Maroon 5 Videos" title="Maroon 5 Videos" pagespeed_url_hash="827148153"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">One More Night<br/>Video</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="module" id="music-news">
+<header>
+<p class='more-link'>
+<a href='http://www.metrolyrics.com/news.html' title='View All' onmousedown="ev('News Module View All','View All');">View All</a>
+</p>
+<h3>
+<span>Music</span> News	</h3>
+</header>
+<ul class="content tmb-small img-stacked">
+<li itemscope itemtype="http://schema.org/Article">
+<a href="http://www.metrolyrics.com/news-story-2015-year-of-the-sheep-lyrics.html" title="Happy Chinese New Year! Here's 3 Songs for 'Year Of The Sheep'" onmousedown="ev('X-Small News Module','searche:2015-year-of-the-sheep-lyrics:url:news-story-2015-year-of-the-sheep-lyrics');">
+<span class="tmb tmb-xs not-playable">
+<img pagespeed_no_defer="" src="http://netstorage.metrolyrics.com/editorials/2015-year-of-the-sheep-lyrics/xxsmall-image.jpg" alt="Happy Chinese New Year! Here's 3 Songs for 'Year Of The Sheep'" title="Happy Chinese New Year! Here's 3 Songs for 'Year Of The Sheep'" pagespeed_url_hash="1550374706"/>
+</span>
+Happy Chinese New Year! Here&#039;s 3 Songs for &#039;Year Of The Sheep&#039;	</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a href="http://www.metrolyrics.com/news-story-quiz-what-is-your-90s-theme-song.html" title="QUIZ: What Is Your 90s Theme Song?" onmousedown="ev('X-Small News Module','searche:quiz-what-is-your-90s-theme-song:url:news-story-quiz-what-is-your-90s-theme-song');">
+<span class="tmb tmb-xs not-playable">
+<img pagespeed_no_defer="" src="http://netstorage.metrolyrics.com/editorials/quiz-what-is-your-90s-theme-song/xxsmall-image.jpg" alt="QUIZ: What Is Your 90s Theme Song?" title="QUIZ: What Is Your 90s Theme Song?" pagespeed_url_hash="1796408225"/>
+</span>
+QUIZ: What Is Your 90s Theme Song?	</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a href="http://www.metrolyrics.com/news-story-14-valentines-day-lyric-cards-2015.html" title="14 Valentine's Day Cards Featuring Your Fave Pop Lyrics" onmousedown="ev('X-Small News Module','searche:14-valentines-day-lyric-cards-2015:url:news-story-14-valentines-day-lyric-cards-2015');">
+<span class="tmb tmb-xs not-playable">
+<img pagespeed_no_defer="" src="http://netstorage.metrolyrics.com/editorials/14-valentines-day-lyric-cards-2015/xxsmall-image.jpg" alt="14 Valentine's Day Cards Featuring Your Fave Pop Lyrics" title="14 Valentine's Day Cards Featuring Your Fave Pop Lyrics" pagespeed_url_hash="3741592212"/>
+</span>
+14 Valentine&#039;s Day Cards Featuring Your Fave Pop Lyrics	</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a href="http://www.metrolyrics.com/news-story-grammys-unforgettable-moments.html" title="13 Unforgettable Moments from the 57th GRAMMY Awards" onmousedown="ev('X-Small News Module','searche:grammys-unforgettable-moments:url:news-story-grammys-unforgettable-moments');">
+<span class="tmb tmb-xs not-playable">
+<img pagespeed_no_defer="" src="http://netstorage.metrolyrics.com/editorials/grammys-unforgettable-moments/xxsmall-image.jpg" alt="13 Unforgettable Moments from the 57th GRAMMY Awards" title="13 Unforgettable Moments from the 57th GRAMMY Awards" pagespeed_url_hash="405792692"/>
+</span>
+13 Unforgettable Moments from the 57th GRAMMY Awards	</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a href="http://www.metrolyrics.com/news-story-grammy-pairings-list-performers-2015.html" title="It Takes Two! These Duos Will Blow You Away At The GRAMMYs" onmousedown="ev('X-Small News Module','searche:grammy-pairings-list-performers-2015:url:news-story-grammy-pairings-list-performers-2015');">
+<span class="tmb tmb-xs not-playable">
+<img pagespeed_no_defer="" src="http://netstorage.metrolyrics.com/editorials/grammy-pairings-list-performers-2015/xxsmall-image.jpg" alt="It Takes Two! These Duos Will Blow You Away At The GRAMMYs" title="It Takes Two! These Duos Will Blow You Away At The GRAMMYs" pagespeed_url_hash="613623726"/>
+</span>
+It Takes Two! These Duos Will Blow You Away At The GRAMMYs	</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="expanding-ad ad-box"><div id='div-gpt-ad-mpu_middle'></div></div>
+<div class="module">
+<div class="YAD-33d5ae30-b856-37ea-bf02-743567f6ce89"></div>
+<script type="text/javascript" pagespeed_no_defer="">pagespeed.lazyLoadImages.overrideAttributeFunctions();</script><script pagespeed_no_defer="">(function(a,b,c,d,e,f){a[d]||(a[d]=function(){(a[d].q=a[d].q||[]).push([arguments,+new Date])});e=b.createElement(c);f=b.getElementsByTagName(c)[0];e.src='https://s.yimg.com/uq/syndication/yad.js';e.async=true;f.parentNode.insertBefore(e,f)}(window,document,'script','yad'));yad('33d5ae30-b856-37ea-bf02-743567f6ce89',{element:document.querySelector('.YAD-33d5ae30-b856-37ea-bf02-743567f6ce89')});</script>
+</div>
+<div class="module">
+<div class="add-lyric">
+<div class="header">
+<em>Add</em> Lyrics
+</div>
+<div class="driver-content">
+Know the lyrics to any of these songs?<br/>
+<div class="lyric">
+<a class="title" href="http://www.metrolyrics.com/love-you-tohere-there-and-everywhere-lyrics-beatles.html#/correction" target="_blank" onmousedown="ev('Add Missing Lyrics','Suggestion: love-you-tohere-there-and-everywhere-lyrics-beatles')">Love You To/Here, There And Everywhere</a>
+Lyrics by
+<span class="artist">Beatles</span>
+</div>
+<div class="lyric">
+<a class="title" href="http://www.metrolyrics.com/yellow-submarine-mbe-s-royalty-politics-and-war-lyrics-beatles.html#/correction" target="_blank" onmousedown="ev('Add Missing Lyrics','Suggestion: yellow-submarine-mbe-s-royalty-politics-and-war-lyrics-beatles')">Yellow Submarine: M.B.E. S, Royalty, Politics, And War</a>
+Lyrics by
+<span class="artist">Beatles</span>
+</div>
+<div class="lyric">
+<a class="title" href="http://www.metrolyrics.com/sentimental-journey-lyrics-beatles.html#/correction" target="_blank" onmousedown="ev('Add Missing Lyrics','Suggestion: sentimental-journey-lyrics-beatles')">Sentimental Journey</a>
+Lyrics by
+<span class="artist">Beatles</span>
+</div>
+If so - or if you notice any other song that's missing - be the first to submit them!<br/>
+</div>
+<div class="driver-footer">
+<a class="btn" href="http://www.metrolyrics.com/add.html?artistid=1145" onmousedown="ev('Add Missing Lyrics','Suggestion: New lyrics')">Add New Lyrics</a>
+</div>
+</div>	</div>
+</div>
+</div><!-- END: page-content -->
+</div>
+</div>
+<div class="bottom-ad">
+<div id='div-gpt-ad-leaderboard_bottom'></div>	</div>
+</div>
+</div>
+</div>
+<footer class="page-footer" id="page-footer">
+<div class="row">
+<div class="hot-songs module">
+<header>
+<p class='discover-more-link'>
+Discover the top 100 songs in:
+<a onmousedown="ev('Footer','LATM')" href='http://www.metrolyrics.com/es/latm/top100.html '>Latin America</a> |
+<a onmousedown="ev('Footer','France')" href='http://www.metrolyrics.com/fr/eu/top100.html '>France</a> |
+<a onmousedown="ev('Footer','Asia')" href='http://www.metrolyrics.com/en/sea/top100.html '>Asia</a>
+</p>
+<h3><span>Songs So Hot</span> They're Sizzling</h3>
+</header>
+<ul class="clearfix">	<li class="grid_3 alpha">
+<a href="http://www.metrolyrics.com/i-bet-my-life-lyrics-imagine-dragons.html" title="I Bet My Life Lyrics" onmousedown="ev('Footer','Hot Songs Item');">I Bet My Life Lyrics</a>
+<a href="http://www.metrolyrics.com/imagine-dragons-lyrics.html" title="Imagine Dragons" onmousedown="ev('Footer','Hot Songs Artist: Imagine Dragons');">Imagine Dragons</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/payback-lyrics-juicy-j.html" title="Payback Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Payback Lyrics</a>
+<a href="http://www.metrolyrics.com/juicy-j-lyrics.html" title="Juicy J" onmousedown="ev('Footer','Hot Songs Artist: Juicy J');">Juicy J</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/remember-me-lyrics-chris-brown.html" title="Remember Me Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Remember Me Lyrics</a>
+<a href="http://www.metrolyrics.com/chris-brown-lyrics.html" title="Chris Brown" onmousedown="ev('Footer','Hot Songs Artist: Chris Brown');">Chris Brown</a>
+</li>	<li class="grid_3 omega">
+<a href="http://www.metrolyrics.com/mother-lyrics-florence-and-the-machine.html" title="Mother Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Mother Lyrics</a>
+<a href="http://www.metrolyrics.com/florence-and-the-machine-lyrics.html" title="Florence and the Machine" onmousedown="ev('Footer','Hot Songs Artist: Florence and the Machine');">Florence and the Machine</a>
+</li>	</ul>
+<ul class="clearfix">	<li class="grid_3 alpha">
+<a href="http://www.metrolyrics.com/energy-lyrics-drake.html" title="Energy Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Energy Lyrics</a>
+<a href="http://www.metrolyrics.com/drake-lyrics.html" title="Drake" onmousedown="ev('Footer','Hot Songs Artist: Drake');">Drake</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/star67-lyrics-drake.html" title="Star67 Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Star67 Lyrics</a>
+<a href="http://www.metrolyrics.com/drake-lyrics.html" title="Drake" onmousedown="ev('Footer','Hot Songs Artist: Drake');">Drake</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/ride-out-lyrics-kid-ink.html" title="Ride Out Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Ride Out Lyrics</a>
+<a href="http://www.metrolyrics.com/kid-ink-lyrics.html" title="Kid Ink" onmousedown="ev('Footer','Hot Songs Artist: Kid Ink');">Kid Ink</a>
+</li>	<li class="grid_3 omega">
+<a href="http://www.metrolyrics.com/i-know-lyrics-big-sean.html" title="I Know Lyrics" onmousedown="ev('Footer','Hot Songs Item');">I Know Lyrics</a>
+<a href="http://www.metrolyrics.com/big-sean-lyrics.html" title="Big Sean" onmousedown="ev('Footer','Hot Songs Artist: Big Sean');">Big Sean</a>
+</li>	</ul>
+<ul class="clearfix">	<li class="grid_3 alpha">
+<a href="http://www.metrolyrics.com/together-in-electric-dreams-lyrics-britney-spears.html" title="Together In Electric Dreams Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Together In Electric Dreams Lyrics</a>
+<a href="http://www.metrolyrics.com/britney-spears-lyrics.html" title="Britney Spears" onmousedown="ev('Footer','Hot Songs Artist: Britney Spears');">Britney Spears</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/joan-of-arc-lyrics-madonna.html" title="Joan Of Arc Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Joan Of Arc Lyrics</a>
+<a href="http://www.metrolyrics.com/madonna-lyrics.html" title="Madonna" onmousedown="ev('Footer','Hot Songs Artist: Madonna');">Madonna</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/hold-tight-lyrics-madonna.html" title="Hold Tight Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Hold Tight Lyrics</a>
+<a href="http://www.metrolyrics.com/madonna-lyrics.html" title="Madonna" onmousedown="ev('Footer','Hot Songs Artist: Madonna');">Madonna</a>
+</li>	<li class="grid_3 omega">
+<a href="http://www.metrolyrics.com/drinks-on-us-lyrics-the-weeknd.html" title="Drinks On Us Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Drinks On Us Lyrics</a>
+<a href="http://www.metrolyrics.com/the-weeknd-lyrics.html" title="The Weeknd" onmousedown="ev('Footer','Hot Songs Artist: The Weeknd');">The Weeknd</a>
+</li>	</ul>
+<ul class="clearfix">	<li class="grid_3 alpha">
+<a href="http://www.metrolyrics.com/deserve-lyrics-big-sean.html" title="Deserve Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Deserve Lyrics</a>
+<a href="http://www.metrolyrics.com/big-sean-lyrics.html" title="Big Sean" onmousedown="ev('Footer','Hot Songs Artist: Big Sean');">Big Sean</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/four-five-seconds-lyrics-rihanna.html" title="Four Five Seconds Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Four Five Seconds Lyrics</a>
+<a href="http://www.metrolyrics.com/rihanna-lyrics.html" title="Rihanna" onmousedown="ev('Footer','Hot Songs Artist: Rihanna');">Rihanna</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/earned-it-lyrics-the-weeknd.html" title="Earned It Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Earned It Lyrics</a>
+<a href="http://www.metrolyrics.com/the-weeknd-lyrics.html" title="The Weeknd" onmousedown="ev('Footer','Hot Songs Artist: The Weeknd');">The Weeknd</a>
+</li>	<li class="grid_3 omega">
+<a href="http://www.metrolyrics.com/blank-space-lyrics-taylor-swift.html" title="Blank Space Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Blank Space Lyrics</a>
+<a href="http://www.metrolyrics.com/taylor-swift-lyrics.html" title="Taylor Swift" onmousedown="ev('Footer','Hot Songs Artist: Taylor Swift');">Taylor Swift</a>
+</li>	</ul>
+<ul class="clearfix">	<li class="grid_3 alpha">
+<a href="http://www.metrolyrics.com/style-lyrics-taylor-swift.html" title="Style Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Style Lyrics</a>
+<a href="http://www.metrolyrics.com/taylor-swift-lyrics.html" title="Taylor Swift" onmousedown="ev('Footer','Hot Songs Artist: Taylor Swift');">Taylor Swift</a>
+</li>	</ul>
+</div>
+<div class="hr"></div>
+<div class="footer-iframe-wrapper">
+<script type="text/psajs" orig_index="4">//<![CDATA[
+(function(){var b="pagespeed_iframe",c="iframe";window.pagespeed=window.pagespeed||{};var g=window.pagespeed,h=function(){};h.prototype.a=function(){var a=document.getElementsByTagName(b);if(0<a.length){for(var a=a[0],f=document.createElement(c),d=0,e=a.attributes,k=e.length;d<k;++d)f.setAttribute(e[d].name,e[d].value);a.parentNode.replaceChild(f,a)}};h.prototype.convertToIframe=h.prototype.a;g.b=function(){g.deferIframe=new h};g.deferIframeInit=g.b;})();
+pagespeed.deferIframeInit();
+//]]></script><pagespeed_iframe frameborder="0" id="footer-iframe" src="http://www.metrolyrics.com/en/iframes/footer.html" allowtransparency="yes" scrolling="no"><script pagespeed_orig_type="text/javascript" type="text/psajs" orig_index="5">
+pagespeed.deferIframe.convertToIframe();</script></pagespeed_iframe>
+</div>
+</div>
+</footer>
+</div>
+<div id="fpo" class="ng-hide" ng-controller="fpOverlayCtrl" ng-show="$root.fpo.visible" ng-click="$root.fpo.close()">
+<div stop-event="click mouseup mousedown">
+<ng-include src="$root.fpo.templateUrl"></ng-include>
+</div>
+</div>
+</div>
+<div id="interstitial" style="display:none"></div>
+<script pagespeed_no_defer="" id='req-config'>var requirejs={paths:{baseUrl:'/js/desktop',lib:'/js/lib',vendor:'/js/vendor',jquery:'//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min',facebook:'//connect.facebook.net/en_US/all',youtube:'https://www.youtube.com/iframe_api?noext'},shim:{'facebook':{exports:'FB'},'youtube':{exports:'YT'},'domReady':{exports:'domReady'},'angular':{deps:['jquery'],exports:'angular'},'vendor/jquery.slimscroll':{deps:['jquery'],exports:'jQuery.fn.slimScroll'}},waitSeconds:10};requirejs.paths.angular='//ajax.googleapis.com/ajax/libs/angularjs/1.2.18/angular.min';</script>
+<script pagespeed_no_defer="" src="http://www.metrolyrics.com/js/vendor/require-v5.2.9.2.min.js"></script>
+<script src="http://www.metrolyrics.com/js/desktop/artistlyrics-v5.2.9.2.min.js" type="text/psajs" orig_index="6"></script>
+<script type="text/psajs" orig_index="7">googletag.cmd.push(function(){googletag.display('div-gpt-ad-skin');googletag.display('div-gpt-ad-leaderboard');googletag.display('div-gpt-ad-mpu');googletag.display('div-gpt-ad-mpu_middle');googletag.display('div-gpt-ad-leaderboard_bottom');googletag.display('interstitial');});</script>
+<script type="text/psajs" orig_index="8">var b=document.createElement("script");b.type="text/javascript";b.async=!0;var c=["http://988e3b255aa765925d6b-662669ee3e2497ef5de1fff529ecac92.r54.cf2.rackcdn.com","https://1a1d70f8e97771f9fab1-662669ee3e2497ef5de1fff529ecac92.ssl.cf2.rackcdn.com"];b.src=("https:"==document.location.protocol?c[1]:c[0])+"/ba3zi27t2tcg.js";var d=document.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d);</script>	<script type='text/x-gubedml' id='gubedml'>eyJTZXJ2ZXIiOiJ3d3cubWV0cm9seXJpY3MuY29tIiwiSG9zdG5hbWUiOiJ3czgxLnBoeDEuY2JzaWcubmV0IiwiR2VuZXJhdGlvbiBEYXRlIjoiRnJpLCAyMCBGZWIgMjAxNSAxMzoyMDo0MiAtMDgwMCIsIlN0YXJ0IFRpbWUiOjE0MjQ0NjcyNDIsIkVuZCBUaW1lIjoxNDI0NDY3MjQyLCJSZW5kZXIgU2Vjb25kcyI6MCwiU3RhcnQgbWljcm9zZWNvbmRzIjoxNDI0NDY3MjQyLjM5NTcsIkVuZCBtaWNyb3NlY29uZHMiOjE0MjQ0NjcyNDIuNDM2MywiUmVuZGVyIG1pY3Jvc2Vjb25kcyI6MC4wNDA1MDE4MzI5NjIwMzYsIldpZ2V0IENvbmZpZyI6eyJ5YWhvb1JlY29tbWVuZCA6IFlhaG9vIjp7ImhvbWVwYWdlIjp0cnVlLCJsYXlvdXQiOiJSZWNvbW1lbmQiLCJkaXZJRCI6IjMzZDVhZTMwLWI4NTYtMzdlYS1iZjAyLTc0MzU2N2Y2Y2U4OSIsInJlZmluZWRMaW5rcyI6ZmFsc2V9LCJ2aWRlb0dhbGxlcnkgOiBWaWRlb0dhbGxlcnkiOnsiYXJ0aXN0aWQiOjExNDUsImRpc2FibGVMYXp5TG9hZCI6dHJ1ZX0sIm11c2ljTmV3cyA6IE11c2ljTmV3cyI6eyJsYXlvdXQiOiJ4LXNtYWxsIiwibGltaXQiOjUsInRhZyI6MTE0NSwiZ2VucmVpZCI6IjEiLCJibGVuZGVkIjp0cnVlLCJ0eXBlIjoiYXJ0aXN0IiwiZGlzYWJsZUxhenlMb2FkIjp0cnVlfSwiYXJ0aXN0SGVhZGVyIDogQXJ0aXN0SGVhZGVyIjp7ImFjdGl2ZSI6Imx5cmljcyIsImFydGlzdGlkIjoxMTQ1fSwiaGVyb0ltYWdlQmFja2dyb3VuZCA6IEhlcm9JbWFnZUJhY2tncm91bmQiOnsiYXJ0aXN0aWQiOjExNDV9LCJwYWdpbmF0aW9uIDogUGFnaW5hdGlvbiI6eyJ1cmwiOiJiZWF0bGVzLWx5cmljcyIsIml0ZW1Db3VudCI6NDc1LCJsaW1pdCI6NzUsInBhZ2VOdW0iOm51bGwsIm5vUGFnZVVybCI6ImJlYXRsZXMtYWxwYWdlLSIsIm1pblBhZ2VOdW0iOjAsInBhZ2luZ0xpbWl0IjoxMH0sImFydGlzdENvbnRlbnREcml2ZXIgOiBDb250ZW50RHJpdmVyIjp7ImFydGlzdGlkIjoxMTQ1LCJnZW5yZWlkIjoiMSIsImxheW91dCI6IlNtYWxsIn0sImFkZEx5cmljcyA6IEx5cmljRHJpdmVyIjp7ImFydGlzdGlkIjoxMTQ1LCJnZW5yZWlkIjoiMSIsImxheW91dCI6IkFkZEx5cmljcyJ9LCJmb290ZXJMaW5rcyI6IkZvb3RlckxpbmtzIn19</script>
+</body>
+</html>
+<script pagespeed_no_defer="">//<![CDATA[
+(function(){var e=encodeURIComponent,f=window,h=document,m="width",n="documentElement",p="height",q="length",r="prototype",s="body",t="&",u="&ci=",w="&n=",x="&rd=",y=",",z="?",A="Content-Type",B="Microsoft.XMLHTTP",C="Msxml2.XMLHTTP",D="POST",E="application/x-www-form-urlencoded",F="img",G="input",H="load",I="oh=",J="on",K="pagespeed_url_hash",L="url=",M=function(a,c,d){if(a.addEventListener)a.addEventListener(c,d,!1);else if(a.attachEvent)a.attachEvent(J+c,d);else{var b=a[J+c];a[J+c]=function(){d.call(this);b&&b.call(this)}}};f.pagespeed=f.pagespeed||{};var N=f.pagespeed,O=function(a,c,d,b,g){this.d=a;this.f=c;this.g=d;this.a=g;this.c={height:f.innerHeight||h[n].clientHeight||h[s].clientHeight,width:f.innerWidth||h[n].clientWidth||h[s].clientWidth};this.e=b;this.b={}};O[r].j=function(a){a=a.getBoundingClientRect();return{top:a.top+(void 0!==f.pageYOffset?f.pageYOffset:(h[n]||h[s].parentNode||h[s]).scrollTop),left:a.left+(void 0!==f.pageXOffset?f.pageXOffset:(h[n]||h[s].parentNode||h[s]).scrollLeft)}};O[r].i=function(a){if(0>=a.offsetWidth&&0>=a.offsetHeight)return!1;a=this.j(a);var c=a.top.toString()+y+a.left.toString();if(this.b.hasOwnProperty(c))return!1;this.b[c]=!0;return a.top<=this.c[p]&&a.left<=this.c[m]};O[r].l=function(){for(var a=[F,G],c=[],d={},b=0;b<a[q];++b)for(var g=h.getElementsByTagName(a[b]),k=0;k<g[q];++k){var v=g[k].getAttribute(K);v&&g[k].getBoundingClientRect&&this.i(g[k])&&!(v in d)&&(c.push(v),d[v]=!0)}b=!1;a=I+this.g;this.a&&(a+=w+this.a);if(0!=c[q]){a+=u+e(c[0]);for(b=1;b<c[q];++b){d=y+e(c[b]);if(131072<a[q]+d[q])break;a+=d}b=!0}this.e&&(d=x+e(JSON.stringify(this.h())),131072>=a[q]+d[q]&&(a+=d),b=!0);N.criticalImagesBeaconData=a;if(b){var c=this.d,b=this.f,l;if(f.XMLHttpRequest)l=new XMLHttpRequest;else if(f.ActiveXObject)try{l=new ActiveXObject(C)}catch(P){try{l=new ActiveXObject(B)}catch(Q){}}l&&(l.open(D,c+(-1==c.indexOf(z)?z:t)+L+e(b)),l.setRequestHeader(A,E),l.send(a))}};O[r].h=function(){for(var a={},c=h.getElementsByTagName(F),d=0;d<c[q];++d){var b=c[d],g=b.getAttribute(K);if("undefined"==typeof b.naturalWidth||"undefined"==typeof b.naturalHeight||"undefined"==typeof g)break;if("undefined"==typeof a[b.src]&&0<b[m]&&0<b[p]&&0<b.naturalWidth&&0<b.naturalHeight||"undefined"!=typeof a[b.src]&&b[m]>=a[b.src].n&&b[p]>=a[b.src].m)a[g]={renderedWidth:b[m],renderedHeight:b[p],originalWidth:b.naturalWidth,originalHeight:b.naturalHeight}}return a};N.k=function(a,c,d,b,g){var k=new O(a,c,d,b,g);M(f,H,function(){f.setTimeout(function(){k.l()},0)})};N.criticalImagesBeaconInit=N.k;})();pagespeed.criticalImagesBeaconInit('/mod_pagespeed_beacon','http://www.metrolyrics.com/beatles-lyrics.html','5UMDquJnRh',false,'UT4eD1boq_E');
+//]]></script><script type="text/javascript" src="/mod_pagespeed_static/js_defer.IRaJtkfeqL.js"></script>

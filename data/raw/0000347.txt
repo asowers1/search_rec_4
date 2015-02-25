@@ -1,0 +1,1205 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+	<meta name="google-site-verification" content="kuasvLJLVt13hu9U4CDeFSOL2xp3qUcm8V_DtMrJP6U" />
+    
+    
+    <title>Top 10 Abba Songs (Plus a Full List) - EnkiCharity</title>
+    <meta name="Keywords" content="Abba Songs">
+    <meta name="author" content="Tina">
+    <meta name="description" content="Abba will go down in pop history as one of the most universally loved and celebrated acts of all time. And here we present you with the top 10 Abba songs. Check and enjoy!">
+
+
+    <!-- Le styles -->
+    <link href="/s/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/s/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/s/css/jasny-bootstrap.min.css" rel="stylesheet">
+    <link href="/s/css/default_editor.css" rel="stylesheet">
+    <link href="/s/css/main.css" rel="stylesheet">
+    <link href="/s/css/base.css" rel="stylesheet">
+    <link href="/s/images/enkicharity-favicon.ico" rel="icon" type="image/x-icon">
+    <link href="/s/images/enkicharity-favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="64x64" href="/s/images/enkicharity-apple-icon.png">
+    
+    <link href="/s/css/editor.css" rel="stylesheet"/>
+    <link href="/s/css/mingda.css" rel="stylesheet"/>
+  	<link rel="stylesheet" type="text/css" href="/s/css/elastislide.css" />
+    <link href="/s/css/article_view.css" rel="stylesheet"/>
+
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/s/js/html5.js"></script>
+      <script src="/s/js/respond.src.js"></script>  
+    <![endif]-->
+
+  </head>
+
+  <body data-spy="scroll" data-target="#myaffix" data-offset="100" >
+    <div class="navbar navbar-fixed-top" >
+      <div class="navbar-inner">
+        <div class="container">
+        	<div class="navbar-header">
+	        	<a class="navbar-brand" href="/">
+	        		<span></span>
+	        	</a>
+				<!--hide,show for mobile start-->
+	        	<i class="fa fa-bars headerFold"></i>
+				<!--hide,show for mobile end-->
+        	</div>
+        	<form class="navbar-form navbar-left" action="/search" role="search">
+			  <div class="form-group">
+			    <input type="text" class="form-control" placeholder="Search" name="q">
+			  </div>
+			  <button type="submit" class="btn btn-primary">Search</button>
+			</form>
+    
+
+	        <ul class="nav navbar-nav navbar-right">
+	        	<li class="dropdown"><a href="" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-eye"></i>EXPLORE<b class="fa fa-caret"></b></a>
+		            <ul class="dropdown-menu explore-ul">
+		                <li><a href="/topic:random"><span class="fa fa-random"></span>Random Articles</a></li>
+		                <li><a href="/topic"><span class="fa fa-file-text-o"></span>Recently Published</a></li>
+		                <li><a href="/topic:enkilove/rank/"><span class="fa fa-heart-o"></span>Enkilove Ranking</a>
+		              </ul>
+		        </li>
+		        <li class="dropdown category-button"><a href="" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-bars"></i>CATEGORY</a>
+		        	<ul class="dropdown-menu category-ul">
+		        		
+		        			<li>
+								<a href="/category:career-work/">
+									<span class="nav-cate-1 img"></span>
+									<div class="text">Career &amp; Work</div>
+								</a>
+							</li>
+						
+		        			<li>
+								<a href="/category:entertainment/">
+									<span class="nav-cate-2 img"></span>
+									<div class="text">Entertainment</div>
+								</a>
+							</li>
+						
+		        			<li>
+								<a href="/category:food-drink/">
+									<span class="nav-cate-3 img"></span>
+									<div class="text">Food &amp; Drink</div>
+								</a>
+							</li>
+						
+		        			<li>
+								<a href="/category:health-wellness/">
+									<span class="nav-cate-4 img"></span>
+									<div class="text">Health &amp; Wellness</div>
+								</a>
+							</li>
+						
+		        			<li>
+								<a href="/category:life/">
+									<span class="nav-cate-5 img"></span>
+									<div class="text">Life</div>
+								</a>
+							</li>
+						
+		        			<li>
+								<a href="/category:games/">
+									<span class="nav-cate-6 img"></span>
+									<div class="text">Games</div>
+								</a>
+							</li>
+						
+		        			<li>
+								<a href="/category:technology/">
+									<span class="nav-cate-7 img"></span>
+									<div class="text">Technology</div>
+								</a>
+							</li>
+						
+		        			<li>
+								<a href="/category:travel/">
+									<span class="nav-cate-8 img"></span>
+									<div class="text">Travel</div>
+								</a>
+							</li>
+						
+		        			<li>
+								<a href="/category:trends/">
+									<span class="nav-cate-9 img"></span>
+									<div class="text">Trends</div>
+								</a>
+							</li>
+						
+		        			<li>
+								<a href="/category:society-culture/">
+									<span class="nav-cate-10 img"></span>
+									<div class="text">Society &amp; Culture</div>
+								</a>
+							</li>
+						
+		        			<li>
+								<a href="/category:style-fashion/">
+									<span class="nav-cate-13 img"></span>
+									<div class="text">Style &amp; Fashion</div>
+								</a>
+							</li>
+						
+		        			<li>
+								<a href="/category:pets/">
+									<span class="nav-cate-14 img"></span>
+									<div class="text">Pets</div>
+								</a>
+							</li>
+						
+		        			<li>
+								<a href="/category:education/">
+									<span class="nav-cate-15 img"></span>
+									<div class="text">Education</div>
+								</a>
+							</li>
+						
+		        			<li>
+								<a href="/category:relationship/">
+									<span class="nav-cate-16 img"></span>
+									<div class="text">Relationship</div>
+								</a>
+							</li>
+						
+		        			<li>
+								<a href="/category:science/">
+									<span class="nav-cate-17 img"></span>
+									<div class="text">Science</div>
+								</a>
+							</li>
+						
+		        			<li>
+								<a href="/category:bizarre-stuff/">
+									<span class="nav-cate-18 img"></span>
+									<div class="text">Bizarre Stuff</div>
+								</a>
+							</li>
+						
+		        	</ul>
+		        </li>
+		        
+		        	
+	        	<li class="create-article"><a href="/topic:beginCreateArticle"><i class="fa fa-edit"></i>CREATE</a></li>
+	        	
+		        
+		        
+		          <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-sign-in"></i>LOG IN<b class="fa fa-caret"></b></a>     
+		              <div class="dropdown-menu login-box">
+			              <form action="/accounts/login/?next=/abba-songs.html" method="post"><input type='hidden' name='csrfmiddlewaretoken' value='Y7ASE5DMupqaryObDDDntchIpgUzub9A' />
+			              	 <input type="hidden" name="this_is_the_login_form" value="1" />
+			              	 <div class="row">
+			              	 	<div class="col-md-12 r-1">Log In</div>
+			              	 	<div class="col-md-12 r-2"><input class="form-control" type="text" name="username" id="id_username" placeholder="Username"></div>
+			              	 	<div class="col-md-12 r-3"><input class="form-control" type="password" name="password" id="id_password" placeholder="Password"></div>
+			              	 	<div class="col-md-12 r-4 checkbox">
+								  <label><input type="checkbox"> Remember me </label>
+								</div>
+			              	 	<div class="col-md-12 col-sm-12 col-xs-12 r-5"><button type="submit" class="btn btn-info pull-right">Log In</button></div>
+			              	 	<div class="col-md-12 col-sm-12 col-xs-12 r-6">Log in via</div>
+			              	 	<div class="col-md-6 col-sm-6 col-xs-6 r-7"><a href="/login/facebook/" class="facebook"></a></div>
+			              	 	<div class="col-md-6 col-sm-6 col-xs-6 r-7"><a href="/login/google-oauth2/" class="google"></a></div>
+			              	 	<div class="col-md-6 col-sm-6 col-xs-6 r-8"><a href="/accounts/register/">Create an account</a></div>
+			              	 	<div class="col-md-6 col-sm-6 col-xs-6 r-8"><a href="/accounts/password/reset/">Forgot  password?</a></div>
+			              	 </div>
+			          	  </form>
+		              </div>
+		        </li><!-- /li Account -->
+		         
+	       </ul>        
+        
+        </div>
+      </div>
+    </div><!-- /navbar -->
+    
+    
+<div class="top-bg" style="background-image:url(/s/upload/images/c73c7239af2ea4266cbf2181db149363-1900-400.jpeg)"></div>
+<div class="container main-body" >
+	<div class="row">
+		<div class="big-heading">
+			<div class="heading">
+				<h1>Abba Songs</h1>
+				<span class="cate-name">Category : Entertainment</span>
+				<span class="random-btn"><a href="/topic:random"><i class="fa fa-random"></i></a></span>
+			</div>			
+		</div>
+	</div>
+</div>
+
+    
+    
+    
+    <div class="container main-body">
+    	
+<!--  left affix -->
+<div id="myaffix">
+    <ul class="nav nav-tabs nav-stacked affix-top" data-spy="affix" data-offset-top="200">
+   	
+   		
+        <li class="active" title="Introduction"><a href="#affix-section-0">Introduction</a></li>
+        
+    
+   		
+        <li class="dropdown" title="Part 1: Top 10 Abba Songs">
+       	 	<a href="#affix-section-1">
+        	
+        		Part 1: T...
+        	
+        	</a>
+        		
+        		<ul class="nav nav-tabs nav-stacked">
+        			
+        				
+        					<li title="Waterloo (1974)"><a href="#Part 1: Top 10 Abba Songs0">1. Wat...</a></li>
+			        	
+        			
+        				
+        					<li title="SOS (1975)"><a href="#Part 1: Top 10 Abba Songs1">2. SOS...</a></li>
+			        	
+        			
+        				
+        					<li title="Mamma Mia (1975)"><a href="#Part 1: Top 10 Abba Songs2">3. Mam...</a></li>
+			        	
+        			
+        				
+        					<li title="Fernando (1976)"><a href="#Part 1: Top 10 Abba Songs3">4. Fer...</a></li>
+			        	
+        			
+        				
+        					<li title="Dancing Queen (1976)"><a href="#Part 1: Top 10 Abba Songs4">5. Dan...</a></li>
+			        	
+        			
+        				
+        					<li title="Knowing Me, Knowing You (1977)"><a href="#Part 1: Top 10 Abba Songs5">6. Kno...</a></li>
+			        	
+        			
+        				
+        					<li title="Take a Chance on Me (1978)"><a href="#Part 1: Top 10 Abba Songs6">7. Tak...</a></li>
+			        	
+        			
+        				
+        					<li title="I Have a Dream (1979)"><a href="#Part 1: Top 10 Abba Songs7">8. I H...</a></li>
+			        	
+        			
+        				
+        					<li title="The Winner Takes It All (1980)"><a href="#Part 1: Top 10 Abba Songs8">9. The...</a></li>
+			        	
+        			
+        				
+        					<li title="One of Us (1981)"><a href="#Part 1: Top 10 Abba Songs9">10. One...</a></li>
+			        	
+        			
+        		</ul>
+        		
+        </li>
+        
+    
+   		
+        <li class="dropdown" title="Part 2: Full List of Abba Songs ">
+       	 	<a href="#affix-section-2">
+        	
+        		Part 2: F...
+        	
+        	</a>
+        		
+        		<ul class="nav nav-tabs nav-stacked">
+        			
+        				
+        					<li title="Album âRing Ringâ (1973)"><a href="#Part 2: Full List of Abba Songs 0">1. Alb...</a></li>
+			        	
+        			
+        				
+        					<li title="Album âWaterlooâ (1974)"><a href="#Part 2: Full List of Abba Songs 1">2. Alb...</a></li>
+			        	
+        			
+        				
+        					<li title="Album âABBAâ (1975)"><a href="#Part 2: Full List of Abba Songs 2">3. Alb...</a></li>
+			        	
+        			
+        				
+        					<li title="Album âArrivalâ (1977)"><a href="#Part 2: Full List of Abba Songs 3">4. Alb...</a></li>
+			        	
+        			
+        				
+        					<li title="Album âVoulez-Vousâ (1979)"><a href="#Part 2: Full List of Abba Songs 4">5. Alb...</a></li>
+			        	
+        			
+        				
+        					<li title="Album âSuper Trouperâ (1980)"><a href="#Part 2: Full List of Abba Songs 5">6. Alb...</a></li>
+			        	
+        			
+        				
+        					<li title="Album âThe Visitorsâ (1981)"><a href="#Part 2: Full List of Abba Songs 6">7. Alb...</a></li>
+			        	
+        			
+        		</ul>
+        		
+        </li>
+        
+    
+   		
+    
+   		
+    
+    </ul>
+</div>
+<!-- right-shockcut -->
+<div id="fixed-bottom">
+<div class="fixed-bottom-tool active">
+		<div class="user-tool">
+		<a href="/user/profile/7">
+			
+				<img src="/s/upload/p_images/Img240954080-100-100.jpeg">
+			
+			<div class="user-name" title="Tina"><div>Tina</div></div></a>
+		</div>
+		<div class="enkilove-tool">
+			
+				<i class="fa fa-heart" action="/topic:favour/abba-songs/"></i>
+			
+			<span> 0</span>
+		</div>
+		<div class="share-tool">
+			<span></span>
+		</div>
+		<div class="gotop"></div>
+</div>
+</div>
+<!-- right-shockcut -->
+<!--  /left affix -->
+
+    	<div class="row">
+		   
+		    
+		  <div class="col-md-9 col-xs-12" role="main">
+		  
+		      
+		      
+			
+<div id="main-content" class="mingda">
+	<!-- panels for sections -->
+    
+	
+	<!-- Introduction panel -->
+	<div class="panel panel-default intro-panel" id="affix-section-0">
+	    <h2 class="panel-heading">Introduction</h2>
+		<span class="edit-btn">
+	  		
+	  	</span>	
+	  <div class="panel-body">
+	  	<div class="panel-body-inner" id="Introduction0">
+	  		<div class="row">
+	  			<div class="col-md-12  col-xs-12 first-line">
+	  				<span>Catalogue</span>
+	  			</div>
+	  			<div class="col-md-12 col-xs-12 second-line">
+	  				<div class="list_carousel">
+						<ul id="intro_slider">
+						
+							
+	  				 	
+		  				 	 
+							  
+						
+							
+							<li>
+								<a href="#affix-section-1"  title="Jump to Part 1: Top 10 Abba Songs-2">
+									
+							   			
+							   			<img src="http://img.youtube.com/vi/MFiul07QXiM/1.jpg">
+	<!-- 						   			<span class="video-logo"></span> -->
+							   			<span class="over-lay img-top">
+							   		
+						   				<p>
+						   					
+						   						Part 1: Top 10 Abba Songs
+						   					
+						   				</p>
+						   			</span>
+
+						   		</a>
+							</li>
+	  				 		
+	  				 	
+		  				 	 
+							  
+						
+							
+							<li>
+								<a href="#affix-section-2"  title="Jump to Part 2: Full List of Abba Songs -3">
+									
+							   			<span class="over-lay">
+							   		
+						   				<p>
+						   					
+						   						Part 2: Full List of Abba Songs 
+						   					
+						   				</p>
+						   			</span>
+
+						   		</a>
+							</li>
+	  				 		
+	  				 	
+		  				 	 
+							  
+						
+							
+	  				 	
+		  				 	 
+							  
+						
+							
+	  				 	
+		  				 	 
+							  
+						
+						</ul>
+						<div class="clearfix"></div>
+						<a id="intro_prev" class="prev" href="#"><i class="fa fa-angle-left"></i></a>
+						<a id="intro_next" class="next" href="#"><i class="fa fa-angle-right"></i></a>
+					</div>
+	  			</div>
+	  			
+	  			
+	  			<div class="col-md-12 col-xs-12 third-line">
+	  				<p>Abba remains one of the most iconic and influential pop groups of all time, having produced an archive of memorable hits that are still celebrated the world today. Hailing from Stockholm, Sweden and comprising members Agnetha FÃ¤ltskog, BjÃ¶rn Ulvaeus, Benny Andersson, Anni-Frid &quot;Frida&quot; Lyngstad, these four superstars spent a decade wowing the world between 1972 and 1982. Abba will go down in pop history as one of the most universally loved and celebrated acts of all time. So, here we present you the top 10 Abba songs.</p>
+	  			</div>
+	  			<div class="col-md-12 col-xs-12 forth-line">
+	  				
+	  				
+	  			 		
+		  			    <div class="only-one-media">
+		  			    
+				  				<img src="/s/upload/images/c73c7239af2ea4266cbf2181db149363.jpg" style="width:434px;">
+				  			
+		  			    </div>
+		  			    
+					
+			    	
+	  			</div>
+	  			
+	  		</div>
+	  	</div>
+	  </div>
+	  
+	</div>
+	<!-- /introdution panel -->
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<!-- Steps panel -->
+	
+	
+	<!-- Steps panel -->
+	
+	<div class="anchor panel panel-default steps-panel" id="affix-section-1">
+	  <h2 class="panel-heading">Part 1: Top 10 Abba Songs</h2>
+	  <div class="panel-body">
+		
+	  	<div class="panel-body-inner section-introduction">
+	  		<div class="inner-text">
+	  		<span class=""></span>
+	  			These 10 great Abba songs are ordered by release year. Enjoy!
+	  		</div>
+	  	</div>
+		
+	  	
+	  	<div class="anchor panel-body-inner" id="Part 1: Top 10 Abba Songs0">
+	  		<div class="element-text">
+	  			<span class="">1<!--i class="fa fa-quote-right"></i--></span>
+	  			
+	  			<h3 class="element-title">Waterloo (1974)</h3>
+	  			
+	  			<p>Perhaps the very first song that comes to mind when most think about Abba, âWaterlooâ is every bit as fresh today as if it was recorded yesterday. This is the track that propelled Abba to fame when it won the 1974 Eurovision Song Contest and summarily topped the charts all over the world.&nbsp;</p>
+	  		</div>
+	  		
+	  		
+	  		<div class="element-media">
+	  			
+	  			<iframe src="https://www.youtube.com/embed/MFiul07QXiM" frameborder="0" allowfullscreen height="500"></iframe>	
+	  		</div>
+	  	    
+	  	    
+	  	</div>
+	  	
+	  	<div class="anchor panel-body-inner" id="Part 1: Top 10 Abba Songs1">
+	  		<div class="element-text">
+	  			<span class="">2<!--i class="fa fa-quote-right"></i--></span>
+	  			
+	  			<h3 class="element-title">SOS (1975)</h3>
+	  			
+	  			<p>Not only had the song been loved by people all over the world, but âSOSâ was also the song singled out by the likes of John Lennon and all manner of music icons as one of Abbaâs best ever. It has a somewhat darker element to the music and yet remains an all-time dance floor classic.&nbsp;</p>
+	  		</div>
+	  		
+	  		
+	  		<div class="element-media">
+	  			
+	  			<iframe src="https://www.youtube.com/embed/cvChjHcABPA" frameborder="0" allowfullscreen height="500"></iframe>	
+	  		</div>
+	  	    
+	  	    
+	  	</div>
+	  	
+	  	<div class="anchor panel-body-inner" id="Part 1: Top 10 Abba Songs2">
+	  		<div class="element-text">
+	  			<span class="">3<!--i class="fa fa-quote-right"></i--></span>
+	  			
+	  			<h3 class="element-title">Mamma Mia (1975)</h3>
+	  			
+	  			<p>The second NO.1 of all Abba songs and the one that some insist saved the band, âMamma Miaâ is a seriously iconic title thatâs of course now graced West End Theatres and the Big Screens of Hollywood. A phenomenal success story like nothing weâve seen or heard to date.&nbsp;</p>
+	  		</div>
+	  		
+	  		
+	  		<div class="element-media">
+	  			
+	  			<iframe src="https://www.youtube.com/embed/unfzfe8f9NI" frameborder="0" allowfullscreen height="500"></iframe>	
+	  		</div>
+	  	    
+	  	    
+	  	</div>
+	  	
+	  	<div class="anchor panel-body-inner" id="Part 1: Top 10 Abba Songs3">
+	  		<div class="element-text">
+	  			<span class="">4<!--i class="fa fa-quote-right"></i--></span>
+	  			
+	  			<h3 class="element-title">Fernando (1976)</h3>
+	  			
+	  			<p>Itâs a little known fact, but âFernandoâ was actually supposed to be a solo single for just one of the members of Abba, but it ended up so successful that they released it as a group effort. It topped the charts in Australia for 14 weeks and still sells by the boatload today.&nbsp;</p>
+	  		</div>
+	  		
+	  		
+	  		<div class="element-media">
+	  			
+	  			<iframe src="https://www.youtube.com/embed/G8bm6XlxuCY" frameborder="0" allowfullscreen height="500"></iframe>	
+	  		</div>
+	  	    
+	  	    
+	  	</div>
+	  	
+	  	<div class="anchor panel-body-inner" id="Part 1: Top 10 Abba Songs4">
+	  		<div class="element-text">
+	  			<span class="">5<!--i class="fa fa-quote-right"></i--></span>
+	  			
+	  			<h3 class="element-title">Dancing Queen (1976)</h3>
+	  			
+	  			<p>This is one of Abba songs that is still enjoyed by people around the whole world.&nbsp;Released almost 40 years ago, âDancing Queenâ is every bit the pop masterpiece. Not only did it top the charts all over the world, but Queen Elizabeth even once admitted that whenever this song is played at royal functions, she cannot help but have a dance. Quite the seal of approval.&nbsp;</p>
+	  		</div>
+	  		
+	  		
+	  		<div class="element-media">
+	  			
+	  			<iframe src="https://www.youtube.com/embed/xFrGuyw1V8s" frameborder="0" allowfullscreen height="500"></iframe>	
+	  		</div>
+	  	    
+	  	    
+	  	</div>
+	  	
+	  	<div class="anchor panel-body-inner" id="Part 1: Top 10 Abba Songs5">
+	  		<div class="element-text">
+	  			<span class="">6<!--i class="fa fa-quote-right"></i--></span>
+	  			
+	  			<h3 class="element-title">Knowing Me, Knowing You (1977)</h3>
+	  			
+	  			<p>Whatâs most interesting about âKnowing Me, Knowing Youâ is the way in which the tune as a whole is so upbeat, despite the fact that the song is all about the fraying relationships between the bandâs members. Things were going very wrong, but they still put out a global superhit.&nbsp;</p>
+	  		</div>
+	  		
+	  		
+	  		<div class="element-media">
+	  			
+	  			<iframe src="https://www.youtube.com/embed/iUrzicaiRLU" frameborder="0" allowfullscreen height="500"></iframe>	
+	  		</div>
+	  	    
+	  	    
+	  	</div>
+	  	
+	  	<div class="anchor panel-body-inner" id="Part 1: Top 10 Abba Songs6">
+	  		<div class="element-text">
+	  			<span class="">7<!--i class="fa fa-quote-right"></i--></span>
+	  			
+	  			<h3 class="element-title">Take a Chance on Me (1978)</h3>
+	  			
+	  			<p>One of the catchiest intros ever put down on vinyl and with a wonderfully upbeat tune throughout, âTake a Chance on Meâ has to date sold millions of copies the world over and is still a staple at parties, discos and weddings all over the place.&nbsp;</p>
+	  		</div>
+	  		
+	  		
+	  		<div class="element-media">
+	  			
+	  			<iframe src="https://www.youtube.com/embed/-crgQGdpZR0" frameborder="0" allowfullscreen height="500"></iframe>	
+	  		</div>
+	  	    
+	  	    
+	  	</div>
+	  	
+	  	<div class="anchor panel-body-inner" id="Part 1: Top 10 Abba Songs7">
+	  		<div class="element-text">
+	  			<span class="">8<!--i class="fa fa-quote-right"></i--></span>
+	  			
+	  			<h3 class="element-title">I Have a Dream (1979)</h3>
+	  			
+	  			<p>A slightly slower tune from the Swedish super group, itâs almost unthinkable but âI Have a Dreamâ did not in fact make it into the charts in the US. The folks in the UK, however, took much more kindly to it and drove the song to No.2. It was later covered by Irish boy band Westlife.&nbsp;</p>
+	  		</div>
+	  		
+	  		
+	  		<div class="element-media">
+	  			
+	  			<iframe src="https://www.youtube.com/embed/r82fyOb8F5w" frameborder="0" allowfullscreen height="500"></iframe>	
+	  		</div>
+	  	    
+	  	    
+	  	</div>
+	  	
+	  	<div class="anchor panel-body-inner" id="Part 1: Top 10 Abba Songs8">
+	  		<div class="element-text">
+	  			<span class="">9<!--i class="fa fa-quote-right"></i--></span>
+	  			
+	  			<h3 class="element-title">The Winner Takes It All (1980)</h3>
+	  			
+	  			<p>Another song that climbed the charts all over the world, âThe Winner Takes it Allâ didnât quite have the same success as Dancing Queen but was nonetheless voted as the UKâs all-time favorite Abba song. Itâs graced more movies and TV show soundtracks than itâs possible to recount.&nbsp;</p>
+	  		</div>
+	  		
+	  		
+	  		<div class="element-media">
+	  			
+	  			<iframe src="https://www.youtube.com/embed/92cwKCU8Z5c" frameborder="0" allowfullscreen height="500"></iframe>	
+	  		</div>
+	  	    
+	  	    
+	  	</div>
+	  	
+	  	<div class="anchor panel-body-inner" id="Part 1: Top 10 Abba Songs9">
+	  		<div class="element-text">
+	  			<span class="">10<!--i class="fa fa-quote-right"></i--></span>
+	  			
+	  			<h3 class="element-title">One of Us (1981)</h3>
+	  			
+	  			<p>The final hit single written by Abba is really as sad as it gets. Penned at the time of the couplesâ divorces and telling a tale of tragedy, it didnât do quite so well as prior upbeat tunes but was still a great success in the UK.</p>
+	  		</div>
+	  		
+	  		
+	  		<div class="element-media">
+	  			
+	  			<iframe src="https://www.youtube.com/embed/IIKAe8Wi0S0" frameborder="0" allowfullscreen height="500"></iframe>	
+	  		</div>
+	  	    
+	  	    
+	  	</div>
+	  	
+	  </div>
+	</div>
+	<!-- /steps panel -->
+	
+	
+	<!-- Steps panel -->
+	
+	<div class="anchor panel panel-default steps-panel" id="affix-section-2">
+	  <h2 class="panel-heading">Part 2: Full List of Abba Songs </h2>
+	  <div class="panel-body">
+		
+	  	
+	  	<div class="anchor panel-body-inner" id="Part 2: Full List of Abba Songs 0">
+	  		<div class="element-text">
+	  			<span class="">1<!--i class="fa fa-quote-right"></i--></span>
+	  			
+	  			<h3 class="element-title">Album âRing Ringâ (1973)</h3>
+	  			
+	  			<p>Another Town, Another Train</p><p>Disillusion</p><p>He Is Your Brother</p><p>I Am Just A Girl</p><p>I Saw It In The Mirror</p><p>Love Isn&#39;t Easy (But It Sure Is Hard Enough)</p><p>Me and Bobby and Bobby&#39;s Brother</p><p>Nina, Pretty Ballerina</p><p>People Need Love</p><p>Ring Ring</p><p>Ring Ring (Bara du slog en signal)</p><p>Rock &amp; Roll Band&nbsp;</p>
+	  		</div>
+	  		
+	  		
+	  	    
+	  	</div>
+	  	
+	  	<div class="anchor panel-body-inner" id="Part 2: Full List of Abba Songs 1">
+	  		<div class="element-text">
+	  			<span class="">2<!--i class="fa fa-quote-right"></i--></span>
+	  			
+	  			<h3 class="element-title">Album âWaterlooâ (1974)</h3>
+	  			
+	  			<p>Waterloo</p><p>Sitting In The Palmtree</p><p>King Kong Song</p><p>Hasta MaÃ±ana</p><p>My Mama Said</p><p>Dance (While The Music Still Goes On)</p><p>Honey Honey</p><p>Watch Out</p><p>What About Livingstone</p><p>Gonna Sing You My Lovesong</p><p>Suzy-Hang-Around</p><p>Waterloo&nbsp;</p>
+	  		</div>
+	  		
+	  		
+	  	    
+	  	</div>
+	  	
+	  	<div class="anchor panel-body-inner" id="Part 2: Full List of Abba Songs 2">
+	  		<div class="element-text">
+	  			<span class="">3<!--i class="fa fa-quote-right"></i--></span>
+	  			
+	  			<h3 class="element-title">Album âABBAâ (1975)</h3>
+	  			
+	  			<p>Mamma Mia</p><p>Hey, Hey Helen</p><p>Tropical Loveland</p><p>SOS</p><p>Man in the Middle</p><p>Bang-A-Boomerang</p><p>I Do, I Do, I Do, I Do, I Do</p><p>Rock Me</p><p>Intermezzo No. 1 (Instrumental)</p><p>I&#39;ve Been Waiting for You</p><p>So Long</p>
+	  		</div>
+	  		
+	  		
+	  	    
+	  	</div>
+	  	
+	  	<div class="anchor panel-body-inner" id="Part 2: Full List of Abba Songs 3">
+	  		<div class="element-text">
+	  			<span class="">4<!--i class="fa fa-quote-right"></i--></span>
+	  			
+	  			<h3 class="element-title">Album âArrivalâ (1977)</h3>
+	  			
+	  			<p>When I Kissed The Teacher</p><p>Dancing Queen Lyrics</p><p>My Love, My Life</p><p>Dum Dum Diddle</p><p>Knowing Me, Knowing You</p><p>Money, Money, Money</p><p>That&#39;s Me</p><p>Why Did It Have To Be Me</p><p>Tiger</p><p>Arrival&nbsp;</p>
+	  		</div>
+	  		
+	  		
+	  	    
+	  	</div>
+	  	
+	  	<div class="anchor panel-body-inner" id="Part 2: Full List of Abba Songs 4">
+	  		<div class="element-text">
+	  			<span class="">5<!--i class="fa fa-quote-right"></i--></span>
+	  			
+	  			<h3 class="element-title">Album âVoulez-Vousâ (1979)</h3>
+	  			
+	  			<p>As Good As New</p><p>Voulez-Vous</p><p>I Have A Dream</p><p>Angeleyes</p><p>The King Has Lost His Crown</p><p>Does Your Mother Know</p><p>If It Wasn&#39;t for the Nights</p><p>Chiquitita</p><p>Lovers (Live A Little Longer)</p><p>Kisses Of Fire&nbsp;</p>
+	  		</div>
+	  		
+	  		
+	  	    
+	  	</div>
+	  	
+	  	<div class="anchor panel-body-inner" id="Part 2: Full List of Abba Songs 5">
+	  		<div class="element-text">
+	  			<span class="">6<!--i class="fa fa-quote-right"></i--></span>
+	  			
+	  			<h3 class="element-title">Album âSuper Trouperâ (1980)</h3>
+	  			
+	  			<p>Super Trouper</p><p>The Winner Takes It All</p><p>On And On And On</p><p>Andante, Andante</p><p>Me And I</p><p>Happy New Year</p><p>Our Last Summer</p><p>The Piper</p><p>Lay All Your Love On Me</p><p>The Way Old Friends Do&nbsp;</p>
+	  		</div>
+	  		
+	  		
+	  	    
+	  	</div>
+	  	
+	  	<div class="anchor panel-body-inner" id="Part 2: Full List of Abba Songs 6">
+	  		<div class="element-text">
+	  			<span class="">7<!--i class="fa fa-quote-right"></i--></span>
+	  			
+	  			<h3 class="element-title">Album âThe Visitorsâ (1981)</h3>
+	  			
+	  			<p>The Visitors</p><p>Head Over Heels</p><p>When all is said and done</p><p>Soldiers</p><p>I Let The Music Speak</p><p>One Of Us</p><p>Two For The Price Of One</p><p>Slipping Through My Fingers</p><p>Like An Angel Passing Through My Room&nbsp;</p>
+	  		</div>
+	  		
+	  		
+	  	    
+	  	</div>
+	  	
+	  </div>
+	</div>
+	<!-- /steps panel -->
+	
+	
+	<!-- Steps panel -->
+	
+	
+	<!-- Steps panel -->
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	
+	
+	
+		
+	
+		
+	
+		
+	
+	
+<!-- comment panel -->
+	<div class="panel comment-panel">
+		<div class="panel-heading">
+			ANY IDEAS ABOUT THIS TOPIC?
+			<div class="add-cmt-btn">Write your comment</div>
+		</div>
+		<div class="comment-area">
+		<!--comment post area-->
+				
+				    
+				    <form action="/comments/post/" method="POST">
+				    <input type='hidden' name='csrfmiddlewaretoken' value='Y7ASE5DMupqaryObDDDntchIpgUzub9A' />
+
+				    <textarea cols="40" id="id_comment" name="comment" rows="10">
+</textarea>
+				    <input id="id_honeypot" name="honeypot" type="text" />
+				    <input id="id_content_type" name="content_type" type="hidden" value="mdarticle.mdarticle" />
+				    <input id="id_object_pk" name="object_pk" type="hidden" value="4750" />
+				    <input id="id_timestamp" name="timestamp" type="hidden" value="1424480278" />
+				    <input id="id_security_hash" name="security_hash" type="hidden" value="02759eca7dafc80fb8c6f835b67bf3e73534b7c5" />
+				    <input type="hidden" name="next" value="/abba-songs.html" />
+				    <div class="reg-panel">
+				    <p><i class="fa fa-info-circle"></i>Please <a href="/accounts/login/">Log In</a> or add your name and email to post the comment.</p>
+				    	<div>NAME:<input id="id_name" maxlength="50" name="name" type="text" /></div>
+				    	<div>EMAIL:<input id="id_email" name="email" type="email" /></div>
+				    </div>
+				    <div class="submit-panel">
+				    	<input type="button" value="Comment" id="id_submit"/>
+				    	<input type="button" value="Cancel" id="id_cancel">
+				    </div>
+				    </form>
+				
+			</div>
+		<!--end of comment post area-->
+
+			
+		<div class="panel-body">
+			<div class="comment-list">
+				<ul>
+					
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+<!-- comment panel -->
+
+
+	
+	
+	<div class="panel panel-default">
+	  <div class="panel-heading">Related Articles</div>
+	  <div class="panel-body related-article-body">
+	  	<ul id="related-article-slider">
+	  	  
+	      <li>
+		   	<a href="/opera-singers.html" title="Opera Singers">
+		   		
+		   		<img src="/s/upload/images/2014/12/301ceb3b54d16a2b38c45a4487153df8-125-125.jpeg">
+		   		
+		   		<span class="over-lay2">Opera Singers</span>
+		   	</a>
+		  </li>
+	      
+	      <li>
+		   	<a href="/best-reggae-artists.html" title="Best Reggae Artists">
+		   		
+		   		<img src="/s/upload/images/2014/12/dca94018ded7d9556a6f069b1ef8c138-125-125.jpeg">
+		   		
+		   		<span class="over-lay2">Best Reggae Artists</span>
+		   	</a>
+		  </li>
+	      
+	      <li>
+		   	<a href="/jazz-artists.html" title="Jazz Artists">
+		   		
+		   		<img src="/s/upload/images/2014/12/168ae6f779d9f7a5a124f4717338c5c5-125-125.jpeg">
+		   		
+		   		<span class="over-lay2">Jazz Artists</span>
+		   	</a>
+		  </li>
+	      
+	      <li>
+		   	<a href="/rap-love-songs_1.html" title="20 Best Rap Love Songs ">
+		   		
+		   		<img src="/s/upload/images/6005d5a1ac011c3ea49e61776cf6523e-125-125.jpeg">
+		   		
+		   		<span class="over-lay2">20 Best Rap Love ...</span>
+		   	</a>
+		  </li>
+	      
+	      <li>
+		   	<a href="/rap-love-songs.html" title="Rap Love Songs">
+		   		
+		   		<img src="/s/upload/images/a486acb7333e426839d90f6559c01c8a-125-125.jpeg">
+		   		
+		   		<span class="over-lay2">Rap Love Songs</span>
+		   	</a>
+		  </li>
+	      
+	      <li>
+		   	<a href="/top-10-adele-songs.html" title="Top 10 Adele Songs">
+		   		
+		   		<img src="/s/upload/images/df6e5567e4ed4810234c20cb618fba69-125-125.jpeg">
+		   		
+		   		<span class="over-lay2">Top 10 Adele Songs</span>
+		   	</a>
+		  </li>
+	       
+		</ul>	
+		<a id="relate-prev"><i class="fa fa-angle-left"></i></a>	
+		<a id="relate-next"><i class="fa fa-angle-right"></i></a>
+	  </div>
+	</div>
+	
+</div>
+
+			
+		</div><!-- /role main-->
+		
+		
+<div class="col-md-3  col-xs-12" role="">
+
+	<aside class="row aside-right" >
+		<section  class="col-md-12 col-sm-5 col-xs-12 meet-the-author">
+			<div class="section-heading">
+			</div>
+			<div class="section-body">
+				<div class="inner-meta">
+					
+					<img src="/s/upload/p_images/Img240954080-100-100.jpeg">
+					
+					<p>
+						<strong>Tina</strong>
+						
+						<span class="female-icon"></span>
+						
+					</p>
+					<p class="contact">
+						<a><i class="fa fa-envelope" id="Contact-sendmail"></i></a>
+						
+						
+					</p>
+					<P>Age:29&nbsp;&nbsp;</P>
+					<p>On EnkiCharity over 5 months</p>
+					
+					<div class="intro intro-min">
+						One must have a good sense of humor to truly enjoy a life.
+
+						
+					</div>
+					<div class="intro intro-max">
+						One must have a good sense of humor to truly enjoy a life.
+
+						<p><span class="intro-fold">fold it <i class="fa fa-long-arrow-up"></i></span></p>
+					</div>
+					
+				</div>
+			</div>
+			<div class="section-footer">
+				<a class="author-profile" href="/user/profile/7">
+				Author Profile <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i>
+				</a>
+			</div>
+		</section>
+				
+		
+		<section  class="col-md-12 col-sm-5  col-xs-12 right-ul-1 promotion">
+			<div class="section-body">
+			<p style="line-height:1.8em;">Valentine's day is coming!! Share with us valentine tips, valentine movies to watch, valentine quotes, etc. </p>
+			<a href="/topic:beginCreateArticle_valentine/">Write for love  now!</a>
+			</div>
+		</section>
+		
+		
+		<section  class="col-md-12 col-sm-5  col-xs-12 right-ul-1 topic">
+			<div class="section-heading">
+				<h4>Most Popular Topic</h4>
+			</div>
+			<div class="section-body">
+				<ul>
+					
+					<li>
+						<div class="pic">
+							
+							<img src="/s/upload/images/868525ab8cfb66eb9c616e316d367abc-50-50.jpeg">
+							
+						</div>
+						<div class="text"><a href="/best-friend-tag-questions.html " title="55 Best Friend Tag Questions">55 Best Friend Tag Questions</a></div>
+						<div class="number">
+							191K+
+						</div>
+					</li>
+					
+					<li>
+						<div class="pic">
+							
+							<img src="/s/upload/images/79fbbbb725e332c4fa0c553712d738ce-50-50.jpeg">
+							
+						</div>
+						<div class="text"><a href="/top-8-famous-celebrity-snapchats.html " title="Top 8 Famous Celebrity Snapchats">Top 8 Famous Celebrity Snapchats</a></div>
+						<div class="number">
+							131K+
+						</div>
+					</li>
+					
+					<li>
+						<div class="pic">
+							
+							<img src="/s/upload/images/3c70ecefc4341003fc7e085bbfbdea87-50-50.png">
+							
+						</div>
+						<div class="text"><a href="/gmail-new-account.html " title="Gmail New Account">Gmail New Account</a></div>
+						<div class="number">
+							128K+
+						</div>
+					</li>
+					
+					<li>
+						<div class="pic">
+							
+							<img src="/s/upload/images/2580d82ef05eb231c9da12beec1e15fe-50-50.jpeg">
+							
+						</div>
+						<div class="text"><a href="/cute-things-to-say-to-your-girlfriend.html " title="Cute Things to Say to Your Girlfriend">Cute Things to Say to Your Girlfriend</a></div>
+						<div class="number">
+							94K+
+						</div>
+					</li>
+					
+					<li>
+						<div class="pic">
+							
+							<img src="/s/upload/images/2014/12/0cbd4a406c8f8ba4a695590a15288592-50-50.jpeg">
+							
+						</div>
+						<div class="text"><a href="/how-to-make-your-period-come-faster.html " title="How to Make Your Period Come Faster">How to Make Your Period Come Faster</a></div>
+						<div class="number">
+							49K+
+						</div>
+					</li>
+					
+				</ul>
+			</div>
+		</section>
+		
+	  </aside>	
+	
+	</div><!-- /right_content -->
+
+		</div>
+    </div> <!-- /container -->
+    
+    
+    
+    <footer class="">
+    	<div class="container">
+    		<div class="row footer-links">
+    			<div class="col-md-2"><a href="/">Home</a></div>
+    			<div class="col-md-2"><a href="http://www.enkicharity.com/terms-of-use.html">Terms Of Use</a></div>
+    			<div class="col-md-4"><a href="http://www.enkicharity.com/about-enki-charity.html">About Enki Charity</a></div>
+    			<div class="col-md-2"><a href="http://www.enkicharity.com/how-to-write-an-article-on-enkicharity.html">How To Write</a></div>
+    			
+    				<div class="col-md-2"><a href="/accounts/login/">Log In</a></div>
+    			
+    		</div>
+    	</div>
+   		<div class="footer-share">
+			<div>
+				<a href="https://www.facebook.com/enkicharity?skip_nax_wizard=true&ref_type=bookmark"><img src="/s/images/share/share-1-white.png"></a>
+				<a href="https://twitter.com/Enkicharity"><img src="/s/images/share/share-2-white.png"></a>
+				<a href="https://plus.google.com/107691868219194091281"><img src="/s/images/share/share-3-white.png"></a>
+				<a href="http://www.pinterest.com/enkicharity/"><img src="/s/images/share/share-4-white.png"></a>
+			</div>
+   		</div>
+   		<div class="container">
+   			<span class="footer-poweredby">All text are contributed by our excellent writers. Powered by EnkiCharity.com.</span>
+    	</div>
+    	<div class="donation-paypal-button">
+		        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+				<input type="hidden" name="cmd" value="_donations">
+				<input type="hidden" name="business" value="8SKMS9UP69JPE">
+				<input type="hidden" name="lc" value="C2">
+				<input type="hidden" name="button_subtype" value="services">
+				<input type="hidden" name="no_note" value="0">
+				<input type="hidden" name="cn" value="Add special instructions to the seller:">
+				<input type="hidden" name="no_shipping" value="1">
+				<input type="hidden" name="currency_code" value="USD">
+				<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHosted">
+				<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" 
+				
+				border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+				<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" 
+				
+				width="1" height="1">
+				</form>
+        </div>
+      <div style="display:none">Server responsed at: 02/21/2015 12:57 a.m.</div>
+    </footer>
+
+    <script src="/s/js/jquery-1.11.1.min.js"></script>
+    <script src="/s/js/bootstrap.min.js"></script>
+    <script src="/s/js/jasny-bootstrap.min.js"></script>
+     <!--[if lt IE 9]>
+      <script src="/s/js/ie8-customed.js"></script>  
+    <![endif]--> 
+    
+ 	<script src="/s/js/modernizr.custom.17475.js"></script>
+ 	<script type="text/javascript" src="/s/js/jquery.carouFredSel-6.2.1.js"></script>
+    <script type="text/javascript" src="/s/js/marked.js"></script>
+    <script type="text/javascript" src="/s/js/article_view.js"></script>
+    <script src="/s/js/template-native.js"></script>
+	<script id="mailsend-tmp" type="text/html">
+		<div id="MailSendWindow">
+			<form role="form" method="post" id="mailsend-form"><input type='hidden' name='csrfmiddlewaretoken' value='Y7ASE5DMupqaryObDDDntchIpgUzub9A' />
+				<div class="mailsend-title">Send Email<i class="fa fa-times"></i></div>
+				<div class="mailsend-body">
+					<ul>
+						<li><span><input name="sendto" type="text" value="Tina" placeholder="@"/></span><input value="AnonymousUser" type="hidden" name="sendfrom"/></li>
+						<li><span><input name="title" maxlength="255" type="text" placeholder="title:"/></span></li>
+						<li class="emailsend-text"><textarea cols="70" rows="10" maxlength="999" placeholder="" name="content"></textarea></li>
+					</ul>
+				</div>
+				<div class="mailsend-submit"><div class="cancel-button">Cancel</div><div class="mailsend-button">Send</div></div>
+			</form>
+		</div>
+	</script>
+
+
+    
+    
+    <script>
+		//screenWidth
+		var screenWidth = $('body').width();
+		//(for mobile)when screenWidth <600 ,no scroll-change action
+		if(screenWidth>600){
+			window.onscroll = _onScroll;
+		}
+		function _onScroll(){
+
+			var yscroll=document.body.scrollTop||document.documentElement.scrollTop;
+
+			if(yscroll<20){
+				$(".navbar").removeClass(" for-scroll");
+				$("body").css("padding-top","80px");
+			}else{
+				$(".navbar").addClass(" for-scroll");
+				$("body").css("padding-top","40px");
+			}
+			$("#home-slider").css("margin-top","0");
+		};
+		// for header fold
+		$(function(){
+			$('.headerFold').on('click',function(){
+				$('.navbar-inner .navbar-right').toggle();
+			});
+		});
+    </script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-56080279-1', 'auto');
+      ga('send', 'pageview');
+    
+</script>
+
+  </body>
+</html>

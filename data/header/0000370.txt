@@ -1,0 +1,9 @@
+Server: Apache-Coyote/1.1
+Content-Length: 216147
+Content-Type: text/html;charset=utf-8
+Vary: Accept-Encoding
+Access-Control-Allow-Origin: http://c.brightcove.com
+Cache-Control: max-age=183
+Date: Sat, 21 Feb 2015 01:11:06 GMT
+Connection: close
+

@@ -1,0 +1,24 @@
+Server: nginx
+Date: Fri, 20 Feb 2015 20:43:33 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+X-Drupal-Cache: MISS
+Etag: "1424440144-1"
+X-Frame-Options: SameOrigin
+Content-Language: en
+X-UA-Compatible: IE=edge,chrome=1
+X-Generator: Drupal 7 (http://drupal.org)
+Link: </movie-reviews/titanic>; rel="canonical",</node/1252071>; rel="shortlink"
+Cache-Control: public, max-age=86400
+Last-Modified: Fri, 20 Feb 2015 13:49:04 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie,Accept-Encoding
+X-Request-ID: v-3be6f1e0-b907-11e4-a985-22000ae82924
+X-AH-Environment: prod
+X-Varnish: 1839093328 1838202806
+Age: 24866
+Via: 1.1 varnish
+X-Cache: HIT
+X-Cache-Hits: 41
+

@@ -1,0 +1,23 @@
+Cache-Control: public, s-maxage=14400, max-age=120
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Date: Sat, 21 Feb 2015 00:31:43 GMT
+Etag: "1424473189-0+gzip+ident"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Fri, 20 Feb 2015 22:59:49 +0000
+Link: <http://www.billboard.com/node/473830>; rel="shortlink",<http://www.billboard.com/articles/list/473830/michael-jacksons-top-50-billboard-hits>; rel="canonical"
+Server: ECS (ewr/15E3)
+Vary: Accept-Encoding
+Via: 1.1 varnish
+X-Cache: HIT
+X-Cache-Hits: HIT (1)
+X-Debug-Cookies: 
+X-Debug-Log: Removed cookies
+X-Drupal-Cache: MISS
+X-Generator: Drupal 7 (http://drupal.org)
+X-NX-Host: www.billboard.com
+X-Trace: 1BDA48F023BB9D3158BE9739C7F4B6E1C1A11D730A18FF733C01E76F19
+X-Varnish: 516087675 516067393
+Content-Length: 91418
+Connection: close
+

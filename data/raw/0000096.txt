@@ -1,0 +1,170 @@
+
+
+
+<html>
+<head>
+<!--PLS_META-->
+<meta  name="NYT_HEADLINE" content="NYTimes">
+<meta  name="BY_LINE" content="">
+<meta  name="FIRSTPAR" content="">
+<meta  name="DISPLAYDATE" content="">
+<meta  name="NYT_SORTDATE" content="">
+<meta  name="pdate" content="">
+<!--123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789 -->
+<!--123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789 -->
+<!--123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789 -->
+<!--123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789 -->
+<title>NYTimes</title>
+</head>
+<!--plsfield:TEXT-->
+<BODY BGCOLOR=#ffffff>
+<NYT_HEADER version="1.0" type="books">
+<table border=0 cellpadding=0 cellspacing=0>
+<td align=left valign=top width=60><br></td>
+<td align=left valign=top width=480>
+<NYT_BANNER version="1.0" type="books">
+<img src="http://graphics.nytimes.com/books/images_br/1banbookreview.gif" border="0" WIDTH="468" HEIGHT="40" alt="banner">
+</NYT_BANNER>
+<br clear=all>
+<NYT_TOOLBARMAP version="1.0" type="main">
+<map name="maintoolbar2"> 
+<area shape="rect" coords="0,0,75,16" href="/yr/mo/day/"
+onMouseOver="window.status='Click to go to the Home Page';return true">
+<area shape="rect" coords="76,0,154,16" href="/info/contents/siteindex.html"
+onMouseOver="window.status='Click to see site contents';return true">
+<area shape="rect" coords="155,0,233,16" href="/search/daily/"
+onMouseOver="window.status='Click to search the current site';return true">
+<area shape="rect" coords="234,0,312,16" href="/comment/"
+onMouseOver="window.status='Click for discussion in the Forums';return true">
+<area shape="rect" coords="313,0,391,16" href="/archives/"
+onMouseOver="window.status='Click to search the archives';return true">
+<area shape="rect" coords="392,0,468,16" href="/marketplace/"
+onMouseOver="window.status='Click to visit the Marketplace';return true">
+</map>
+</NYT_TOOLBARMAP>
+<NYT_TOOLBAR version="1.0" type="main">
+<a href="/images/maintoolbar2.map"> 
+<img src="http://graphics.nytimes.com/images/maintoolbar2.gif" border="0" alt="toolbar" ismap usemap=#maintoolbar2 width="468" height="16"></a>
+</NYT_TOOLBAR>
+<br>
+<NYT_AD version="1.0" location="top" type="books">
+<!-- context ad setup --> 
+<!-- context ad reference Top -->
+
+</NYT_AD>
+</td></table>
+</NYT_HEADER>
+<blockquote><blockquote>
+<NYT_TEXT version="1.0" type="books">
+<p>
+<hr width=75%>
+<p>
+<h2><hdl>
+MURDER IN THE MONASTERY
+</hdl>
+</h2>
+<b>Date:</b><dat>
+June 5, 1983, Sunday, Late City Final Edition
+</dat>
+<subsec>
+Section 7; Page 1, Column 4; Book Review Desk
+</subsec>
+<br>
+<b>Byline:</b><byl>
+By Franco Ferrucci; Franco Ferrucci is an Italian novelist and essayist who teaches at Rutgers University. His latest book is ''The Poetics of Disguise: Homer, Dante and Shakespeare.
+</byl>
+<br>
+<b>Lead:</b><lp>
+<a name=hit0000></a>THE NAME OF THE <b>ROSE</b>, By <b>Umberto</b> <b>Eco</b>.  Translated by William Weaver.  502 pp. New York: A Helen & Kurt Wolff Book/ Harcourt Brace Jovanovich. $15.95.
+<p>
+IMAGINE a medieval castle run by the Benedictines, with cellarers, herbalists, gardeners, librarians, young novices. One after the other, half a dozen monks are found murdered in the most bizarre ways. A learned Franciscan who is sent to solve the mystery finds himself involved in the frightening events inside the abbey. Imagine also that toward the end of the narrative it turns out that all those horrible crimes were committed for highly ethical and cultural reasons. Just fancy that the manuscript of the lost second part of the ''Poetics'' by Aristotle - the lost book containing his theory of comedy and laughter - has been found in the library and that somebody will do anything to stop the circulation of that manuscript. 
+<p>
+At this point all you have to know is that <b>Umberto</b> <b>Eco</b> has written a novel - his first - and that it has become a literary event in Europe. On the best-seller list practically everywhere, the book has also received two of the most important literary awards in France and in Italy (the Prix Medici and the Premio Strega). Now this excellent translation by William Weaver makes ''The Name of the <b>Rose</b>'' available in English. Translating a book with so many voices and levels of meaning cannot have been easy.
+</lp>
+<br>
+<b>Text:</b><txt>
+<p>
+Mr. Eco's accomplishment seems to have the sturdy pace of inevitability, so that one is tempted to explore the reasons for the celebrity of this novel even before commenting on it. The answer may lie in the fact that Mr. Eco is the unacknowledged leader of contemporary Italian culture, a man whose academic and ideological prestige has grown steadily through years of dazzling and solid work. In international forums he is considered the most important representative of semiotics, that elegant pursuit of the meaning of signs in language and elsewhere, since the death of Roland Barthes.  (The reader who is curious about it might look into Mr. Eco's ''Role of the Reader,'' recently published in English.) He is also a historian, a scholarly critic of the works of James Joyce and a distinguished teacher at the University of Bologna.
+<p>
+FOR many years he has also been an extremely popular columnist for the magazine L'Espresso. Using both intelligence and flexibility, he has become the spokesman of a philosophical trend that could be labeled as a kind of ''neo-enlightenment.'' His approach entails methodological doubting versus dogmatism, and the use of parody and irony against sectarian thought; his idea of culture is that it is mainly a channel of interdisciplinary exchange rather than a provider of certainties or a chapel for hermetic and initiatory rites.
+<p>
+But that description is already a beginning of an interpretation of Mr. Eco's novel. ''The Name of the Rose'' takes place in the 14th century. In some of his essays Mr. Eco has linked that century with our age, with all of its certainties weakened under the combined blows of new sciences and contradictory social events. Aptly enough, the novel is a mystery, the most rationalist of all literary genres, based on a determination to reach irrefutable, if partial, truth: Who is the assassin and what are his motives? And what signs will help to unravel the mystery?
+<p>
+In the novel, William of Baskerville, the protagonist, has been called to investigate a crime in a Benedictine abbey. Like Sherlock Holmes, William comes from England - not from Scotland Yard, however, but from the philosophical school of Roger Bacon and William of Occam, the founders of cognitive empiricism, a philosophy based on the exact examination of real evidence revealed by the senses and thus a perfect tool for unraveling a mystery. It is to these men that our learned and ironic monk-detective constantly refers.
+<p>
+The story is narrated by Adso, a novice who is young and whose admiration of William is naive. An intellectual and emotional bond develops between the two, a bond similar to that between Leverkun and the good Serenus who narrates his story in Thomas Mann's ''Doktor Faustus.'' Adso speaks in the name of a faith that William has probably lost. The old biblical problem, about whether the first sin was a forbidden pursuit of knowledge or a sin of disobedience, finds no answer. Does the passion for knowledge derive from loss of faith?  Or, in today's terms: Does semiotics derive from loss of certainty in unshakable truth?
+<p>
+The assassin himself gives us an answer when he finally confesses the reasons for his crimes. His motivations deal with a poetic and philosophic problem that I cannot reveal without being unfair to the reader. It is enough to say that wild theological discussions develop between William of Baskerville and the murderer. After the discovery of the culprit, the novel explodes with pyrotechnic inventions, literally as well as figuratively. Hold on till the end.
+<p>
+THE narrative impulse that commands the story is irresistible. That is no mean feat for a book in which many pages describe ecclesiastical councils or theological debates, and many others analyze in detail the positions of European powers regarding the reform of the Franciscan Order. There are also frequent quotations in classic and medieval Latin. Yet Mr. Eco's delight in his narrative does not fail to touch the reader, who may or may not choose to be intrigued with the levels of interpretation crisscrossing in front of him as in a semiotic labyrinth. After all, for a semiologist like Mr. Eco, a sleuth's pursuit of the truth behind a murder mystery involves also the pursuit of meaning - in words, symbols, ideas, every conceivable sign the visible universe contains.
+<p>
+I shall point out just one hidden path as an example. It is certainly possible to read ''The Name of the Rose'' as a novel in which every character and event find an equivalent in today's world.  In many ways this is a roman a clef. Those pages dedicated to heretical movements in the Middle Ages - two stories in the novel are about Brother Dolcino and Brother Michael, heretics burned alive, along with their followers, by the Inquisition -have clear references to contemporary attempts at revolution in different countries and the harsh repression of those efforts. In addition, the trial of the cellarer in this novel reveals analogies with Stalin's purges: savage self-accusations, brainwashing and all.
+<p>
+Different levels of meaning pervade the microcosm of the book. In New York two months ago I met a friend of Mr. Eco, a scholar who, not having published any books, cannot find an academic appointment.  I am sure I recognize in him the model of a minor character of this novel - ''a most voracious reader, he knew by heart all the books in the library, but he had a strange infirmity: he was unable to write.  They called him Abbas agraphicus.''
+<p>
+Many similar games are there for the reader to discover. He may decide not to play any of the games but to be carried along instead by the elan of the narration. He will have to make a choice between Adso and William. It is almost too obvious that William is Mr. Eco himself. But he is Eco the philosopher and essayist, while the Eco who writes ''The Name of the Rose'' is Adso: a voice young and old at the same time, speaking from nostalgia for love and passion. William shapes the story with his insight; Adso gives it his own pathos. He will never think, as William does, that ''books are not made to be believed but to be subjected to inquiry''; Adso writes to be believed.
+<p>
+I, FOR one, go along with Adso. After all, even if it is William who solves the
+</txt>
+<P>
+<NYT_LINKS_OFFSITE version="1.0" type="barnesandnoble">
+<A HREF="http://www.nytimes.com/books/bn"><IMG
+SRC="http://www.nytimes.com/books/images_br/buy11.gif" WIDTH=118
+HEIGHT=47 BORDER=0></A>
+</NYT_LINKS_OFFSITE>  
+</NYT_TEXT>
+</blockquote></blockquote>
+<!--plsfield:NYT_FOOTER-->
+<NYT_FOOTER version="1.0" type="books">
+<br>
+<table border=0 cellpadding=0 cellspacing=0>
+<td align=left valign=top width=60><br></td>
+<td align=center valign=top width=468>
+<NYT_AD version="1.0" location="bottom" type="books">
+<!-- context ad reference Bottom -->
+
+</NYT_AD>
+<p><font size=1><a href="/books/">Return to the Books Home Page</a></font>
+<hr size=1>
+<P>
+<font size=-1>
+<NYT_TOOLBAR version="1.0" type="main" location="bottom">
+<A HREF="/"><B>Home</B></A> | 
+<NOBR><A HREF="/info/contents/siteindex.html"><B>Site Index</B></A> |</NOBR> 
+<NOBR><A HREF="/search/daily/"><B>Site Search</B></A>  | </NOBR>
+<A HREF="/comment/"><B>Forums</B></A>  | 
+<A HREF="/archives/"><B>Archives</B></A> | 
+<A HREF="/marketplace/"><B>Marketplace</B></A>
+<P>
+<NOBR><A HREF="/yr/mo/day/late/">Quick News</A>  | </NOBR>
+<NOBR><A HREF="/yr/mo/day/front/">Page One Plus</A>  |</NOBR>
+<A HREF="/yr/mo/day/world/">International</A>  | 
+<A HREF="/yr/mo/day/national/">National/N.Y.</A>   | 
+<A HREF="/yr/mo/day/business/">Business</A>   | 
+<A HREF="/yr/mo/day/tech/">Technology</A>  | 
+<A HREF="/yr/mo/day/science/">Science</A>   | 
+<A HREF="/yr/mo/day/sports/">Sports</A>   | 
+<A HREF="/weather/">Weather</A>  | 
+<A HREF="/yr/mo/day/editorial/">Editorial</A>    | 
+<A HREF="/yr/mo/day/oped/">Op-Ed</A> | 
+<A HREF="/yr/mo/day/artleisure/">Arts</A>   | 
+<A HREF="/yr/mo/day/auto/">Automobiles</A>   | 
+<A HREF="/books/yr/mo/day/home/">Books</A>  | 
+<A HREF="/diversions/">Diversions</A>   | 
+<NOBR><A HREF="/yr/mo/day/jobmarket/">Job Market</A>  |</NOBR>  
+<NOBR><A HREF="/yr/mo/day/realestate/">Real Estate</A>  |</NOBR>  
+<A HREF="/yr/mo/day/travel/">Travel</A> 
+<P>
+<A HREF="/subscribe/help/">Help/Feedback</A>  | 
+<A HREF="/classified/">Classifieds</A>   | 
+<A HREF="/info/contents/services.html">Services</A>   | 
+<NOBR><A HREF="http://www.nytoday.com/">New York Today</A></NOBR> 
+</NYT_TOOLBAR>
+<NYT_COPYRIGHT version="1.0" type="books">
+<p>
+<a href="http://www.nytimes.com/info/help/copyright.html">Copyright 1997 The New York Times Company</a>
+</NYT_COPYRIGHT>
+</td></table>
+</NYT_FOOTER>
+</body>
+</html>

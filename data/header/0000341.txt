@@ -1,0 +1,13 @@
+Date: Sat, 21 Feb 2015 00:54:58 GMT
+X-Abt-Server-Hostname: txglobe8
+X-Abt-Application-Version: 1.22.6
+Set-Cookie: TMog=g125396c3e2927478676c6f626538a6;Path=/;Domain=.about.com;Expires=Thu, 11-Mar-2083 04:09:05 GMT
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: Mint=g125396c3e2927478676c6f626538a6;Path=/;Domain=.about.com;Expires=Sat, 21-Feb-2015 01:24:58 GMT
+Set-Cookie: pc=1;Path=/;Domain=.about.com;Expires=Sat, 21-Feb-2015 01:24:58 GMT
+Content-Type: text/html; charset=UTF-8
+Cache-Control: max-age=3600, private
+Vary: Accept-Encoding, User-Agent
+Transfer-Encoding: chunked
+Server: Jetty(9.0.z-SNAPSHOT)
+

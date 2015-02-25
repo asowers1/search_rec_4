@@ -1,0 +1,14 @@
+Age: 0
+Cache-Control: max-age=3600
+Content-Type: text/html; charset=utf-8
+Date: Sat, 21 Feb 2015 01:26:09 GMT
+ETag: "eb9b56e9e0d637ae4427dd6cea6ddf76"
+Last-Modified: Sat, 21 Feb 2015 01:26:09 GMT
+Vary: Accept-Encoding
+Via: 1.1 varnish
+X-Backend: web0
+X-Cacheable: YES
+X-Varnish: 423605457
+transfer-encoding: chunked
+Connection: Close
+

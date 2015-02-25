@@ -1,0 +1,1339 @@
+<!DOCTYPE html>
+<!--
+
+    "We keep moving forward, opening up new doors and
+      doing new things, because we're curious ...
+        and curiosity keeps leading us down new paths."
+
+                              Walt Disney
+
+-->
+<!--[if lt IE 9]><html class="no-js no-media-query"><![endif]-->
+<!--[if (gte IE 9)|(!IE)]><!-->
+<html class="no-js" version="HTML+RDFa 1.1" lang="">
+<!--<![endif]-->
+<head prefix="og: http://ogp.me/ns#" dir="ltr">
+  <title>Dead Man's Chest | Pirates of the Caribbean</title>
+  <script type="text/javascript">this.Disney={"portal":"pirates.disney.com","ajaxBase":"/","locales":[],"didBase":"https://a.dilcdn.com/_did/","rtl":false};</script>
+<script src="//a.dilcdn.com/a/head-382fc5f66417.js" type="text/javascript"></script>
+<link rel="stylesheet" href="//a.dilcdn.com/a/application-14ec6d0ebe7e.css" type="text/css">
+<link rel="stylesheet" href="//a.dilcdn.com/a/modules-03636a82c23d.css" type="text/css">
+<link rel="stylesheet" href="//a.dilcdn.com/a/unique-modules-06f17fcc376a.css" type="text/css">
+<link rel="stylesheet" href="//a.dilcdn.com/a/international-modules-d347e7b223c7.css" type="text/css">
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="//a.dilcdn.com/a/ie-application-56690f25fd13.css" type="text/css">
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="//a.dilcdn.com/a/goc/responsive-f77267503465.css"><link rel="stylesheet" type="text/css" href="//a.dilcdn.com/a/goc/responsive-desktop-30986f7f4f0f.css" media="all and (min-width: 1025px)"><link rel="stylesheet" type="text/css" href="//a.dilcdn.com/a/goc/responsive-mobile-4057a9e6598a.css" media="only all and (max-width: 1024px)"><!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="//a.dilcdn.com/a/goc/responsive-desktop-30986f7f4f0f.css"><![endif]--><script type="text/javascript">(function(e){"use strict";var t=e.GOC=e.GOC||{};t.queue=t.queue||[],t.opts=t.opts||{}})(this),GOC.load=function(e,t){"use strict";var n=document,r=n.getElementsByTagName("script")[0],i=n.createElement("script");i.type="text/javascript",i.async="async",i.onload=i.onreadystatechange=function(e,n){var r=this,i=r.readyState,s=r.parentNode;s&&(n||!i||i==="complete"||i==="loaded")&&(s.removeChild(this),!n&&t&&t())},i.src=e,r.parentNode.insertBefore(i,r),i=n=r=null},function(e){"use strict";var t=e.encodeURIComponent;e.GOC.load("//a.dilcdn.com/g/domains/"+t(e.location.hostname)+".js")}(this),function(e){"use strict";var t=e.GOC,n=e.encodeURIComponent;t.ao=function(e){var r=[],i=t.opts,s=i.footer;i.lang&&r.push("lang="+n(i.lang)),i.cds&&r.push("cds"),i.searchtype&&r.push("searchtype="+n(i.searchtype)),i.hide_desktop_menu&&r.push("hide_desktop_menu");if(s)for(var o in s)s.hasOwnProperty(o)&&r.push("footer["+encodeURIComponent(o)+"]="+encodeURIComponent(s[o]));return r.length&&(e+=(e.indexOf("?")<0?"?":"&")+r.join("&")),e}}(this),GOC.css=function(e){"use strict";var t=document,n=t.createElement("style"),r=t.getElementsByTagName("head")[0],i=(r||t).getElementsByTagName("script")[0];e&&(n.setAttribute("type","text/css"),i?i.parentNode.insertBefore(n,i):r.appendChild(n),n.styleSheet?n.styleSheet.cssText=e:n.appendChild(t.createTextNode(e)))},function(e,t){"use strict";var n=e.GOC,r=e.screen,i=e.document,s=i.documentElement,o=function(){var e=r&&r.fontSmoothingEnabled,n,s,o,u,a;if(e!==t)return e;try{n=i.createElement("canvas"),n.width=n.height=32,s=n.getContext("2d"),s.textBaseline="top",s.font="32px Arial",s.fillStyle=s.strokeStyle="black",s.fillText("O",0,0);for(o=0;o<32;o++)for(u=0;u<32;u++){a=s.getImageData(o,u,1,1).data[3];if(a!==255&&a!==0)return!0}return!1}catch(f){return t}},u=function(e){var t=i.createElement("div");t.innerHTML="M",t.style.fontFamily=e,s.insertBefore(t,s.firstChild),s.clientWidth,s.removeChild(t)};n.pf=function(e,t){o()===!0&&(n.css(e),u(t))}}(this);GOC.pf("@font-face{font-family:'Matterhorn';src:url(\"//a.dilcdn.com/a/m4-573eba883466.eot#\") format(\"eot\"),url(\"//a.dilcdn.com/a/m4-4f55e08dfcef.woff\") format(\"woff\"),url(\"//a.dilcdn.com/a/m4-e3b605e8daea.ttf\") format(\"truetype\"),url(\"//a.dilcdn.com/a/m4-b63bf5e5da5f.svg#Matterhorn\") format(\"svg\");font-weight:400;font-style:normal}\n","Matterhorn");GOC.opts.cds=false;GOC.opts.bg="dark";GOC.opts.footer={"comscore":"Pirates of the Caribbean"};GOC.opts.hide_desktop_menu=null;GOC.opts.searchtype="is";GOC.load("//a.dilcdn.com/a/goc/responsive-9a80dd60a67c.js");GOC.a="//a.dilcdn.com/g/us/pirates/sac/";GOC.is="//a.dilcdn.com/g/us/pirates/is/";GOC.queue.push(["_sMenu","//a.dilcdn.com/g/us/pirates/responsive/menu-44fbf44b7527.js"]);</script>
+<link rel="canonical" href="http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<link rel="shortcut icon" href="//a.dilcdn.com/a/favicon-4e5a8e1c0964.ico">
+<meta name="description" content="Visit the Pirates of the Caribbean: Dead Man's Chest site to play games, watch videos, meet the characters, browse images and buy the movie.">
+<meta property="og:title" content="Pirates of the Caribbean: Dead Man's Chest presented by Disney">
+<meta property="og:description" content="Visit the Pirates of the Caribbean: Dead Man's Chest site to play games, watch videos, meet the characters, browse images and buy the movie.">
+<meta property="og:type" content="video.movie">
+<meta property="og:site_name" content="Pirates of the Caribbean">
+<meta property="og:url" content="http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest">
+<meta property="og:image" content="http://cdnvideo.dolimg.com/cdn_assets/48997d5dfaec7f366a791a03c96f3ebb0bfd119e.jpg">
+</head>
+<body dir="ltr" data-ad_system="dfp">
+  <div id="style-pack-theming"><style type="text/css">
+
+  /* base-level page background styles */
+  /* NOTE: footer inverted stuffs on footer and #goc-ft currently handled by js */
+    #body-bg{ opacity: 1; }
+      #body-bg .main, #body-bg .safety-color{ background-color: #001b1e; }
+      #body-bg .color-fade{
+        background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #001b1e), color-stop(40px, #001b1e), color-stop(72%, #003224), color-stop(92%, #003224));
+        background-image: -webkit-linear-gradient(top, #001b1e 0%, #001b1e 40px, #003224 72%, #003224 92%);
+        background-image: linear-gradient(to bottom, #001b1e 0%, #001b1e 40px, #003224 72%, #003224 92%);
+        /* IE9 */ -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#001b1e', endColorstr='#003224', GradientType=0)";
+      }
+
+
+      @media screen and (min-width: 1025px){
+        /* color values should change in tandem with $base-font-default-color in style_elements and the border-color defined in footer.css.scss */
+        footer #bottomnav a, footer #bottomnav p, footer #help p, footer #utility p{ color: #fff; }
+        footer #bottomnav .col, footer #utility .divider { border-color: rgba(255, 255, 255, 0.07); }
+      }
+
+
+  /* module-level color themes */
+      .module.primary-theme:not(.skip-styles) h1:not(.skip-text-styles), .module.primary-theme:not(.skip-styles) h2:not(.skip-text-styles), .module.primary-theme.list_module_featured:not(.skip-styles) h3:not(.skip-text-styles){ color: #331c00; }
+      .module.primary-theme:not(.skip-styles) p:not(.skip-text-styles), .module:not(.skip-text-styles) ul:not(.skip-text-styles), .module.primary-theme:not(.skip-styles) li:not(.skip-text-styles), .module:not(.skip-text-styles) ol:not(.skip-text-styles){ color: #5a4d3d; }
+      .module.primary-theme:not(.skip-styles){ background-color: #f0e3c1; background-image: none; }
+
+      .module.secondary-theme:not(.skip-styles) h1:not(.skip-text-styles), .module.secondary-theme:not(.skip-styles) h2:not(.skip-text-styles), .module.secondary-theme.list_module_featured:not(.skip-styles) h3:not(.skip-text-styles){ color: #000000; }
+      .module.secondary-theme:not(.skip-styles) p:not(.skip-text-styles), .module.secondary-theme:not(.skip-styles) ul:not(.skip-text-styles), .module.secondary-theme:not(.skip-styles) li:not(.skip-text-styles), .module.secondary-theme:not(.skip-styles) ol:not(.skip-text-styles){ color: #000000; }
+      .module.secondary-theme:not(.skip-styles){ background-color: #000000; background-image: none; }
+
+
+  /* module-level icon colors */
+    .module .module_header.icon .header_icon{
+      background-color: #691516;
+      background-image: -webkit-gradient(linear, left top, left bottom, from(#a30b0d), to(#691516));
+      background-image: -webkit-linear-gradient(top, #a30b0d, #691516);
+      background-image: linear-gradient(to bottom, #a30b0d, #691516);
+    }
+
+  /* font styles */
+
+</style>
+</div>
+  <div id="takeover-styles-default"><style type="text/css">
+
+  /* style-pack-configured takeover styles */
+
+    #takeover-area .overlay.default .main-color{ background-color: #none; }
+
+
+
+    #takeover-area .overlay.default .repeating-color {
+      background-image: -webkit-gradient(linear, left top, left bottom, from(#none 216px), to(#none));
+      background-image: -webkit-linear-gradient(top, #none 216px, #none);
+      background-image: linear-gradient(to bottom, #none 216px, #none);
+      /* IE9 */ -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#none', endColorstr='#none', GradientType=0)";
+    }
+    #takeover-area .overlay.default .safety-color .color-block{ background-color: #none;}
+
+    #takeover-area .overlay.default .safety-color .color-block{ background-color: #none;}
+
+  @media screen and (min-width: 1025px){
+      #nav-logo, #nav-local li a, aside.gpt.pushdown:not(.adtech){ color: #fff; }
+      #nav-local li a.active{ color: #b2dfff; }
+  }
+
+  /* TODO: hook this up in the ruby only layer */
+    @media screen and (min-width: 1025px){
+      #nav-logo{ background-image: url(//a.dilcdn.com/a/logos/nav_logo-d2c2cf757f1e.png);}
+    }
+    @media screen and (-webkit-min-device-pixel-ratio: 1.5) and (min-width: 1025), screen and (min-resolution: 144dpi) and (min-width: 1025){
+      #nav-logo{ background-image: url(//a.dilcdn.com/a/logos/nav_logo@2x-022720380465.png);}
+    }
+</style>
+</div>
+  <div id="takeover-styles-module-override"></div>
+
+  <div id="goc-body">
+<div class="goc-el goc-bg-dark" id="goc-bar">
+  <div class="goc-bound">
+    <ul id="goc-user">
+      <li class="goc-login"><span role="button" onclick=""><u>Login</u></span></li>
+      <li class="goc-logout"><span role="button" onclick=""><u>Logout</u></span></li>
+    </ul>
+    <form class="goc-search" action="http://search.disney.com/search" method="GET">
+      <input type="hidden" name="o" value="pirates">
+      <input type="text" name="q" class="instant-search-input" placeholder="Search">
+    </form>
+    <ul id="goc-desktop-global" class="goc-desktop-global">
+      <li class="goc-desktop"><a href="http://disney.com/" class=""><u>Disney.com</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://www.disneystore.com/transfer/280559/?CMP=OTL-Dcom:ChromShpIconB" class=""><u>Store</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://disneyparks.disney.go.com/?DISCID=DI_mtt_chrome" class=""><u>Parks &amp; Travel</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://video.disney.com/" class=""><u>Video</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://movies.disney.com" class=""><u>Movies</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://shows.disney.com" class=""><u>TV</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://music.disney.com" class=""><u>Music</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://games.disney.com" class=""><u>Games</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://books.disney.com/" class=""><u>Books</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://liveshows.disney.com" class=""><u>Live Shows</u></a></li>
+    </ul>
+  </div>
+</div>
+<div id="goc-nav" class="goc-el goc-bg-dark">
+  <span id="goc-logo" title="Disney"></span>
+  <span id="goc-e" role="button" title="Navigate"></span>
+</div>
+<script type="text/javascript">GOC.queue.push(["trigger","accept:base"]);</script>
+  
+  <div id="nav-local" class="nav-local ">
+  <div id="nav-pushdown"></div>
+  <div class="bound">
+    <a href="http://pirates.disney.com" title="Disney Pirates" class="nav-logo"id="nav-logo"><span>Pirates</span> </a>
+    <span id="nav-e" role="button" title="Navigate"></span>
+    <ul>
+      <li><a href="/movies">Movies</a></li>
+      <li><a href="/video">Video</a></li>
+      <li><a href="/games-activities">Games &amp; Activities</a></li>
+      <li><a href="/characters">Characters</a></li>
+      <li><a href="/galleries">Galleries</a></li>
+      <li><a href="http://www.disneystore.com/transfer/280559/?cmp=OTL-Dcom&amp;att=Dcom_FS_PiratesoftheCaribbean_Chrome_Shop">Store</a></li>
+      <li><a href="http://disneyparks.disney.go.com?CMP=AFC-DPFY13Q1DIENT1379G">Parks &amp; Travel</a></li>
+    </ul>
+      <span id="search_cancel_text">Cancel</span>
+  </div>
+</div>
+
+
+  <div id="base-bg"></div>
+  <div id="burger-container">
+    <div id="background-styles">
+        <div class="site-default-gradient">
+          <div class="safety-color"></div>
+        </div>
+    
+        <div id="body-bg">
+          <div class="safety-color"></div>
+          <div class="main"></div>
+          <div class="color-fade"></div>
+        </div>
+    
+        <div id="takeover-area">
+          <div class="overlay default">
+            <div class="safety-color">
+              <div class="color-block"></div>
+            </div>
+            <div class="main-color"></div>
+            <div class="repeating repeating-color"></div>
+            <div class="repeating repeating-image"></div>
+            <div class="main-image"></div>
+            <div class="fade-out"></div>
+          </div>
+          <div class="overlay module-override">
+            <div class="safety-color">
+              <div class="color-block"></div>
+            </div>
+            <div class="main-color"></div>
+            <div class="repeating repeating-color"></div>
+            <div class="repeating repeating-image"></div>
+            <div class="main-image"></div>
+            <div class="fade-out"></div>
+          </div>
+        </div>
+    </div>
+
+    <div id="nav-body">
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+      <script type="text/javascript">window.jQuery || document.write('<script src ="//a.dilcdn.com/a/jquery-35f326448996.js" type="text/javascript"><\/script>')</script>
+      <script type="text/javascript">Disney.DidOpts={"loc":"en-US"};</script>
+      <script src="//a.dilcdn.com/a/application-dfb13d9136f4.js" type="text/javascript"></script>
+      <div id="spinner">
+        <img src="//a.dilcdn.com/a/utility/loading/loading-72a4c28445e9.gif">
+        <p></p>
+      </div>
+      <div id="main"><article id="burger" class="frozen">
+<style type="text/css">
+
+  <!-- /* hero_universal module 1-0 */ -->
+
+  
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module hero_universal ref-1-0 light primary-theme skip-styles skip-bottom-border skip-top-border full-height full-width ">
+          <div class="bound">
+
+  <div class="carousel  universal">
+    <ul class="slides">
+        <li><div class="branding">
+  <div class="scaler"></div>
+
+
+  
+
+  <div class="background">
+    
+    <img src="http://cdnvideo.dolimg.com/cdn_assets/aa5eec5180dc3286cc4b70667a90ea89f395cac7.jpg" alt="Dead Mans Chest Home">
+  </div>
+
+
+  
+
+  
+</div>
+
+<div class="content left">
+  <div class="logo">
+
+    <a href="" class="heading">
+      <h2 class="light" ></h2>
+      <h3 class="light"></h3>
+    </a>
+
+  </div>
+</div>
+
+</li>
+    </ul>
+  </div>
+  
+</div>
+
+        </section><style type="text/css">
+
+  <!-- /* property_nav module 1-1 */ -->
+
+  
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module property_nav ref-1-1 light primary-theme  bun">
+          <style type="text/css">
+  
+    .property_nav_wrap{
+      background-color: #691516;
+      background-image: -webkit-gradient(linear, left top, left bottom, from(#a30b0d), to(#691516));
+      background-image: -webkit-linear-gradient(top, #a30b0d, #691516);
+      background-image: -moz-linear-gradient(top, #a30b0d, #691516);
+      background-image: -o-linear-gradient(top, #a30b0d, #691516);
+      background-image: linear-gradient(to bottom, #a30b0d, #691516);
+    }
+   .property_nav_wrap ul li:hover{
+      background-color: #470506;
+      background-image: -webkit-gradient(linear, left top, left bottom, from(#691516), to(#470506));
+      background-image: -webkit-linear-gradient(top, #691516, #470506);
+      background-image: -moz-linear-gradient(top, #691516, #470506);
+      background-image: -o-linear-gradient(top, #691516, #470506);
+      background-image: linear-gradient(to bottom, #691516, #470506);
+    }
+    .property_nav_wrap ul li.active{
+      background-color: #691516;
+      background-image: -webkit-gradient(linear, left top, left bottom, from(#470506), to(#691516));
+      background-image: -webkit-linear-gradient(top, #470506, #691516);
+      background-image: -moz-linear-gradient(top, #470506, #691516);
+      background-image: -o-linear-gradient(top, #470506, #691516);
+      background-image: linear-gradient(to bottom, #470506, #691516);
+    }
+    .module.property_nav .property_nav_wrap ul li a{ color: ; }
+  
+</style>
+
+  <div class="property_nav_wrap">
+    <div class="property_nav_scroller">
+      <ul class="links-">
+        <li class=""><a href="http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest" title="Movie Home">Movie Home</a></li><li class=""><a href="http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest/characters" title="Characters">Characters</a></li><li class=""><a href="http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest/video" title="Video">Video</a></li><li class=""><a href="http://pirates.disney.com/movies" title="Buy Movie">Buy Movie</a></li>
+      </ul>
+    </div>
+  </div>
+
+        </section><style type="text/css">
+
+  <!-- /* property_description module 1-2 */ -->
+
+   /* background color */
+    .module.ref-1-2, .module.ref-1-2.primary-theme, .module.ref-1-2.secondary-theme{
+      background-color: f0e3c1;
+      background-image: none;
+    }
+
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module property_description ref-1-2 light primary-theme  bun">
+          <div class="bound">
+  <div class="module_body">
+    <div class="content" data-title="Pirates of the Caribbean: Dead Man's Chest">
+      <div class="header">
+        <h1 style="color:">Pirates of the Caribbean: Dead Man's Chest</h1>
+
+        <div class="meta">
+          <p><span class="meta-heading">Rated:</span> PG-13</p>
+          <p><span class="meta-heading">Release Date:</span> July 7, 2006</p>
+        </div>
+      </div>
+      <p class="desc">Charming rogue pirate Captain Jack Sparrow is back for a grand, swashbuckling, nonstop joyride filled with devilish pirate humor, monstrous sea creatures and breathtaking black magic. Now, Jack's got a blood debt to pay; he owes his soul to the legendary Davy Jones, ghostly Ruler of the Ocean Depths, but ever-crafty Jack isn't about to go down without a fight.</p>
+
+      
+
+    </div>
+
+    <div class="ad-container">
+      
+      
+    </div>
+  </div>
+</div>
+
+        </section><style type="text/css">
+
+  <!-- /* characters module 1-4 */ -->
+
+   /* background color */
+    .module.ref-1-4, .module.ref-1-4.primary-theme, .module.ref-1-4.secondary-theme{
+      background-color: #8e1a23;
+      background-image: none;
+    }
+
+
+     /* background images */
+      @media screen and (min-width: 680px){
+        .module.ref-1-4, .module.ref-1-4.primary-theme, .module.ref-1-4.secondary-theme{
+          background-size: 100% auto;
+          background-image: url(http://cdnvideo.dolimg.com/cdn_assets/cc706c6f689441b2bac9ecda2af65275fd80ad84.jpg);
+          background-position: top left;
+        }
+      }
+        @media screen and (-webkit-min-device-pixel-ratio: 1.5) and (min-width: 680px), screen and (min-resolution: 144dpi) and (min-width: 680px){
+          .module.ref-1-4, .module.ref-1-4.primary-theme, .module.ref-1-4.secondary-theme{
+            background-image: url(http://cdnvideo.dolimg.com/cdn_assets/cc706c6f689441b2bac9ecda2af65275fd80ad84.jpg);
+          }
+        }
+
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module slider ref-1-4 light primary-theme  ">
+          <div class="bound character ">
+
+  
+
+  
+
+  <div class="slides peek-4 no-peek">
+    <ol class="slider-list peek-4">
+        <li class="slider-page">
+          <ul class="col-container cols-4 rows-1">
+              <span class="col item  "><div class="entity-container entity-type-personality
+              ratio-baseball_card
+              links-out
+              corners-slight
+              title-overlay
+              
+              show-details
+              
+            ">
+
+    <a href="http://pirates.disney.com/jack-sparrow"  class="entity-link" >
+
+    <div class="personality-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/5c96c725e0de19d80018a9bc5ba9c029dcf209d0.jpg" class="thumb" alt=" Jack Sparrow">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                skip-styles
+                skip-styles
+                text-center
+                
+              ">
+
+      <a href="http://pirates.disney.com/jack-sparrow"  class="entity-link" >
+        <h3 class="title"> Jack Sparrow</h3>
+    </a>
+
+
+    
+    <p class="desc">Captain of the Black Pearl and legendary pirate of the Seven Seas, Captain Jack Sparrow is the irreverent trickster of the Caribbean.</p>
+    
+    
+
+      <a href="http://pirates.disney.com/jack-sparrow"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+              <span class="col item  "><div class="entity-container entity-type-personality
+              ratio-baseball_card
+              links-out
+              corners-slight
+              title-overlay
+              
+              show-details
+              
+            ">
+
+    <a href="http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest/characters"  class="entity-link" >
+
+    <div class="personality-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/1f3a0fbd76afdbfd9fecacf5e8ea304fd07891a0.jpg" class="thumb" alt="Davy Jones">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                skip-styles
+                skip-styles
+                text-center
+                
+              ">
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest/characters"  class="entity-link" >
+        <h3 class="title">Davy Jones</h3>
+    </a>
+
+
+    
+    <p class="desc">Once a man who &quot;ran afoul of that which vexes all men,&quot; he now is condemned for eternity to captain the Flying Dutchman.</p>
+    
+    
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest/characters"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+              <span class="col item  "><div class="entity-container entity-type-personality
+              ratio-baseball_card
+              links-out
+              corners-slight
+              title-overlay
+              
+              show-details
+              
+            ">
+
+    <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters"  class="entity-link" >
+
+    <div class="personality-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/006b82eabcb1a48dc1bd3301816c76c0dd187a98.jpg" class="thumb" alt="Hector Barbossa">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                skip-styles
+                skip-styles
+                text-center
+                
+              ">
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters"  class="entity-link" >
+        <h3 class="title">Hector Barbossa</h3>
+    </a>
+
+
+    
+    <p class="desc">Once a ferocious pirate and deadly enemy of Captain Jack Sparrow, Captain Barbossa enters an uneasy alliance with his rival.</p>
+    
+    
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+              <span class="col item  "><div class="entity-container entity-type-personality
+              ratio-baseball_card
+              links-out
+              corners-slight
+              title-overlay
+              
+              show-details
+              
+            ">
+
+    <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters"  class="entity-link" >
+
+    <div class="personality-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/0560a4c693fd0b7ed3f11eb6c6adf47d2463b7c7.jpg" class="thumb" alt="Jack the Monkey">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                skip-styles
+                skip-styles
+                text-center
+                
+              ">
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters"  class="entity-link" >
+        <h3 class="title">Jack the Monkey</h3>
+    </a>
+
+
+    
+    <p class="desc">Named after Jack Sparrow, this capuchin monkey is fiercely loyal to his owner Captain Barbossa.</p>
+    
+    
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+          </ul>
+        </li>
+    </ol>
+    <div class="peek"></div> 
+  </div>
+</div>
+
+        </section><style type="text/css">
+
+  <!-- /* trailer module 1-5 */ -->
+
+  
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module trailer ref-1-5 light primary-theme  ">
+          <div class="bound">
+  <div class="container">
+
+      <div class="video-container trailer-box">
+        <div class="scaler"></div>
+          <div id="player_trailer" class="player video trailer-box">
+            <noscript>
+              <div class="player_error">Uh, oh! It seems JavaScript is disabled in your internet browser. Please enable JavaScript if you would like to watch videos on this site.</div>
+            </noscript>
+          </div>
+
+        <div id="card" class="card embed">
+          <div class="card_header">
+            <p class="btn_replay skip-text-styles">Replay</p>
+            <p class="btn_watch skip-text-styles">Watch on</p>
+          </div>
+
+          <div class="suggested">
+            <ul>
+                <li><div class="entity-container entity-type-video
+              ratio-16x9
+              links-out
+              corners-default
+              title-overlay
+              
+              show-details
+              
+            ">
+
+    <a href="http://video.disney.com/watch/blackbeard-and-the-mutineers-4be3870d84403a0e1266b068"  class="entity-link" >
+
+    <div class="video-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/829c5d953eba1a02ee7bcf7cf63b1d76a274414b.jpg" class="thumb" alt="Blackbeard and the Mutineers">
+          
+        
+        <time aria-hidden="true">1:34</time>
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              has-timestamp
+                
+                skip-styles
+                text-left
+                
+              ">
+
+      <a href="http://video.disney.com/watch/blackbeard-and-the-mutineers-4be3870d84403a0e1266b068"  class="entity-link" >
+        <h3 class="title">Blackbeard and the Mutineers</h3>
+    </a>
+
+
+    
+    <p class="desc">Captain Jack Sparrow discovers that no mutiny can succeed against the fearsome Blackbeard.</p>
+    
+    
+
+      <a href="http://video.disney.com/watch/blackbeard-and-the-mutineers-4be3870d84403a0e1266b068"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">Watch Now</h4>
+      </a>
+
+  </div>
+</div>
+
+
+</li>
+                <li><div class="entity-container entity-type-video
+              ratio-16x9
+              links-out
+              corners-default
+              title-overlay
+              
+              show-details
+              
+            ">
+
+    <a href="http://video.disney.com/watch/asteroid-race-disney-infinity-toy-box-4f8e858610d5ccf3c61c7c00"  class="entity-link" >
+
+    <div class="video-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/50a3c4ef61c6b4e30ceb15c54e655034b39abce5.jpg" class="thumb" alt="Asteroid Race!! - DISNEY INFINITY Toy Box">
+          
+        
+        <time aria-hidden="true">0:30</time>
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              has-timestamp
+                
+                skip-styles
+                text-left
+                
+              ">
+
+      <a href="http://video.disney.com/watch/asteroid-race-disney-infinity-toy-box-4f8e858610d5ccf3c61c7c00"  class="entity-link" >
+        <h3 class="title">Asteroid Race!! - DISNEY INFINITY Toy Box</h3>
+    </a>
+
+
+    <h4 class="ptitle">Disney Infinity</h4>
+    <p class="desc">Star Command's remote base has been taken by Zurg! Race your way up through the asteroids to the base &amp; kick Zurg out!!</p>
+    
+    
+
+      <a href="http://video.disney.com/watch/asteroid-race-disney-infinity-toy-box-4f8e858610d5ccf3c61c7c00"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">Watch Now</h4>
+      </a>
+
+  </div>
+</div>
+
+
+</li>
+                <li><div class="entity-container entity-type-video
+              ratio-16x9
+              links-out
+              corners-default
+              title-overlay
+              
+              show-details
+              
+            ">
+
+    <a href="http://video.disney.com/watch/the-lone-ranger-play-set-disney-infinity-4de7180596875e22bd6e0ec6"  class="entity-link" >
+
+    <div class="video-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/dfcfe7887025188cb67357856e5d41768bb0a4c5.jpg" class="thumb" alt="The Lone Ranger Play Set - Disney Infinity">
+          
+        
+        <time aria-hidden="true">1:33</time>
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              has-timestamp
+                
+                skip-styles
+                text-left
+                
+              ">
+
+      <a href="http://video.disney.com/watch/the-lone-ranger-play-set-disney-infinity-4de7180596875e22bd6e0ec6"  class="entity-link" >
+        <h3 class="title">The Lone Ranger Play Set - Disney Infinity</h3>
+    </a>
+
+
+    <h4 class="ptitle">Disney Infinity</h4>
+    <p class="desc">Saddle up and ride for justice in the Lone Ranger Play Set. Join forces with the famed masked hero John Reid and Native America warrior Tonto to rid the...</p>
+    
+    
+
+      <a href="http://video.disney.com/watch/the-lone-ranger-play-set-disney-infinity-4de7180596875e22bd6e0ec6"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">Watch Now</h4>
+      </a>
+
+  </div>
+</div>
+
+
+</li>
+                <li><div class="entity-container entity-type-video
+              ratio-16x9
+              links-out
+              corners-default
+              title-overlay
+              
+              show-details
+              
+            ">
+
+    <a href="http://video.disney.com/watch/on-stranger-tide-premiere-radio-disney-4c7bafa3ae60f26db97b490d"  class="entity-link" >
+
+    <div class="video-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/71645042e65faf00ab3a6c1de549526cea57e0ce.jpg" class="thumb" alt="On Stranger Tide Premiere - Radio Disney">
+          
+        
+        <time aria-hidden="true">1:42</time>
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              has-timestamp
+                
+                skip-styles
+                text-left
+                
+              ">
+
+      <a href="http://video.disney.com/watch/on-stranger-tide-premiere-radio-disney-4c7bafa3ae60f26db97b490d"  class="entity-link" >
+        <h3 class="title">On Stranger Tide Premiere - Radio Disney</h3>
+    </a>
+
+
+    <h4 class="ptitle">Radio Disney</h4>
+    <p class="desc">Visit the Disneyland red-carpet premiere of the fourth Pirates of the Caribbean film.</p>
+    
+    
+
+      <a href="http://video.disney.com/watch/on-stranger-tide-premiere-radio-disney-4c7bafa3ae60f26db97b490d"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">Watch Now</h4>
+      </a>
+
+  </div>
+</div>
+
+
+</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="module_header details">
+        <h2><a href="http://video.disney.com/watch/pirates-of-the-caribbean-dead-man-s-chest-4bcc50dca8a9e22413f9939c" title="Pirates of the Caribbean: Dead Man's Chest Trailer">Pirates of the Caribbean: Dead Man's Chest Trailer</a></h2>
+        <p class="desc">Experience the action-packed adventures of Captain Jack Sparrow, a swashbuckling pirate who owes his soul to Davy Jones.</p>
+      </div>
+
+  </div>
+</div>
+
+        </section><style type="text/css">
+
+  <!-- /* rich_image module 1-7 */ -->
+
+  
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module rich_image ref-1-7 light primary-theme full-height full-width ">
+          <div class="bound">
+  
+    <img src="http://cdnvideo.dolimg.com/cdn_assets/7aded7b691b198efa349d024c9668475aee1e046.jpg">
+  </a>
+</div>
+
+
+        </section><style type="text/css">
+
+  <!-- /* recommended module 1-8 */ -->
+
+   /* background color */
+    .module.ref-1-8, .module.ref-1-8.primary-theme, .module.ref-1-8.secondary-theme{
+      background-color: f0e3c1;
+      background-image: none;
+    }
+
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module recommended ref-1-8 light primary-theme  ">
+          <div class="bound movie ">
+
+  
+
+<div class="module_header no-desc">
+  <div class="title">
+    <h2>Recommended Movies</h2>
+    
+  </div>
+  
+</div>
+
+
+  <div class="cols-4 col-container">
+    <span class="col item  "><div class="entity-container entity-type-movie
+              ratio-poster
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl"  class="entity-link" >
+
+    <div class="movie-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/49ceb41768ec1dac5bc3c8c14ca4c53eb848c4d9.jpg" class="thumb" alt="Pirates of the Caribbean: The Curse of the Black Pearl">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl"  class="entity-link" >
+        <h3 class="title">Pirates of the Caribbean: The Curse of the Black Pearl</h3>
+    </a>
+
+
+    
+    <p class="desc">The roguish yet charming Captain Jack Sparrow's idyllic pirate life capsizes after his nemesis, the wily Captain Barbossa, steals his ship, the Black Pearl, and later attacks the town of Port Royal, kidnapping the governor's beautiful daughter Elizabeth. In a gallant attempt to rescue her and recapture the Black Pearl, Elizabeth's childhood friend Will Turner joins forces with Jack.What Will doesn't know is that a cursed treasure has doomed Barbossa and his crew to live forever as the undead.</p>
+    
+    
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+<span class="col item  "><div class="entity-container entity-type-movie
+              ratio-poster
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="http://pirates.disney.com/pirates-of-the-caribbean-at-worlds-end"  class="entity-link" >
+
+    <div class="movie-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/cfb174e15a419a470878716309034bb4896289cb.jpg" class="thumb" alt="Pirates of the Caribbean: At World's End">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-at-worlds-end"  class="entity-link" >
+        <h3 class="title">Pirates of the Caribbean: At World's End</h3>
+    </a>
+
+
+    
+    <p class="desc">Just when he's needed most, Captain Jack Sparrow, that witty and wily charmer of a pirate, is trapped on a sea of sand in Davy Jones' Locker. In an increasingly shaky alliance, Will Turner, Elizabeth Swann and Captain Barbossa begin a desperate quest to find and rescue him. Captain Jack's the last of the nine Pirate Lords of the Brethren Court who must come together united in one last stand to preserve the freedom-loving pirates' way of life.</p>
+    
+    
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-at-worlds-end"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+<span class="col item  "><div class="entity-container entity-type-movie
+              ratio-poster
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="http://pirates.disney.com/pirates-of-the-caribbean-on-stranger-tides"  class="entity-link" >
+
+    <div class="movie-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/367ea5c5a033687b920d38aa2754c50f30a3ad58.jpg" class="thumb" alt="Pirates of the Caribbean: On Stranger Tides">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-on-stranger-tides"  class="entity-link" >
+        <h3 class="title">Pirates of the Caribbean: On Stranger Tides</h3>
+    </a>
+
+
+    
+    <p class="desc">Pirates Of The Caribbean: On Stranger Tides is a tale of truth, betrayal, youth, demise - and mermaids! When Jack Sparrow crosses paths with a woman from his past, he's not sure if it's love, or if she's a ruthless con artist using him to find the fabled Fountain of Youth. Forced aboard the ship of the most feared pirate ever, Jack doesn't know who to fear more - Blackbeard or the woman from his past.</p>
+    
+    
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-on-stranger-tides"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+<span class="col item  "><div class="entity-container entity-type-movie
+              ratio-poster
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="http://movies.disney.com/national-treasure"  class="entity-link" >
+
+    <div class="movie-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/42fdcc38b41972196ec758ebfcdb7e77a3c5569c.jpg" class="thumb" alt="National Treasure">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="http://movies.disney.com/national-treasure"  class="entity-link" >
+        <h3 class="title">National Treasure</h3>
+    </a>
+
+
+    
+    <p class="desc">Treasure hunter, Ben Gates, sets out to recover a mysterious Revolutionary War chest, but unravels more than he bargained for.</p>
+    
+    
+
+      <a href="http://movies.disney.com/national-treasure"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+  </div>
+
+</div>
+
+        </section>
+</article>
+<script type="text/javascript">this.Grill?Grill.topper=null:(function(){var a=document.getElementsByTagName("html")[0];a.setAttribute("class",a.getAttribute("class")+" grill-error")})();this.Grill?Grill.burger={"title":"Dead Man's Chest | Pirates of the Caribbean","cto":{"country":"","contentDescription":"","contentType":"","property":"pir","propertyId":"4b91e833bcc4a90a58b69196","buId":"4bb23dbe19683ddd58da775d","buCode":"wdpm","region":"","intBreadcrumbs":"","cmsId":"MH","program":"","comscorekw":"","account":"pirates,disneypictures,matterhorn","categoryCode":"dcom","siteCode":"fran_pir","brandSegment":"fran_pir","pageName":"pirates-of-the-caribbean-dead-mans-chest","breadcrumbs":"movies:pirates-of-the-caribbean-dead-mans-chest","ctoSrcPath":"/stat/dolWebAnalytics.js"},"cds":0,"pda":true,"href":"http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest","stack":[{"view":"hero_universal","ref":"1-0","type":"hero","count":1,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[{"id":"4e647ab27284935d8f65c95d","slug":"dead-mans-chest-home","entity_type":"hero","entity_config":{},"title":"Dead Mans Chest Home","contentPosition":"left","largeLink":true,"editorialColor":"light","heroSize":"standard","image_assets":{"retina":{"wide_src":"http://cdnvideo.dolimg.com/cdn_assets/b90729bb8967c8610568174d73dfa693208d582f.jpg","mobile_src":"http://cdnvideo.dolimg.com/cdn_assets/9ed542dd00acb96063940bd139b1f45d2627282f.jpg"},"non_retina":{"wide_src":"http://cdnvideo.dolimg.com/cdn_assets/aa5eec5180dc3286cc4b70667a90ea89f395cac7.jpg","mobile_src":"http://cdnvideo.dolimg.com/cdn_assets/9ed542dd00acb96063940bd139b1f45d2627282f.jpg"}},"hero":"http://cdnvideo.dolimg.com/cdn_assets/aa5eec5180dc3286cc4b70667a90ea89f395cac7.jpg","hero2x":"http://cdnvideo.dolimg.com/cdn_assets/b90729bb8967c8610568174d73dfa693208d582f.jpg","hero_mobile":"http://cdnvideo.dolimg.com/cdn_assets/9ed542dd00acb96063940bd139b1f45d2627282f.jpg","cta_button_title":"See More","type":"Hero"}],"style":{"default_color_theme":"light","color_theme":"light","images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"property_nav","ref":"1-1","type":"propertynav","count":1,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[{"pn_style":{"background_color":"#691516","gradient_color":"#a30b0d","hover_color":"#470506","hover_gradient_color":"#691516","active_color":"#691516","active_gradient_color":"#470506","font_color":""},"pn_links":[{"title":"Movie Home","type":"ExternalLink","href":"http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest"},{"title":"Characters","type":"ExternalLink","href":"http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest/characters"},{"title":"Video","type":"ExternalLink","href":"http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest/video"},{"title":"Buy Movie","type":"ExternalLink","href":"http://pirates.disney.com/movies"}],"id":"4e64a7e029ac2ab0d65a1f49","slug":"dead-man-s-chest-ppn","entity_type":"propertynav","entity_config":{},"title":"Dead Man's Chest PPN","cta_button_title":"See More","type":"PropertyNav"}],"style":{"default_color_theme":"light","color_theme":"light","images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"property_description","ref":"1-2","type":"movie","count":1,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[{"rating":"PG-13","year":2006,"desc":"Charming rogue pirate Captain Jack Sparrow is back for a grand, swashbuckling, nonstop joyride filled with devilish pirate humor, monstrous sea creatures and breathtaking black magic. Now, Jack's got a blood debt to pay; he owes his soul to the legendary Davy Jones, ghostly Ruler of the Ocean Depths, but ever-crafty Jack isn't about to go down without a fight.","release":"July 7, 2006","id":"4ba34c57257b159e961b9666","slug":"pirates-of-the-caribbean-dead-mans-chest","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Pirates of the Caribbean: Dead Man's Chest","poster":"http://cdnvideo.dolimg.com/cdn_assets/48997d5dfaec7f366a791a03c96f3ebb0bfd119e.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/48997d5dfaec7f366a791a03c96f3ebb0bfd119e.jpg","catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/48997d5dfaec7f366a791a03c96f3ebb0bfd119e.jpg","description":"Charming rogue pirate Captain Jack Sparrow is back for a grand, swashbuckling, nonstop joyride filled with devilish pirate humor, monstrous sea creatures and breathtaking black magic. Now, Jack's got a blood debt to pay; he owes his soul to the legendary Davy Jones, ghostly Ruler of the Ocean Depths, but ever-crafty Jack isn't about to go down without a fight.","short_desc":"Charming rogue pirate Captain Jack Sparrow is back for a grand, swashbuckling, nonstop joyride filled with devilish pirate humor, monstrous sea creatures and breathtaking black magic. Now, Jack's got a blood debt to pay; he owes his soul to the legendary Davy Jones, ghostly Ruler of the Ocean Depths, but ever-crafty Jack isn't about to go down without a fight.","cta_button_title":"See More","type":"Movie","href":"http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest"}],"style":{"bg_color":"f0e3c1","auto_color_theme":"light","default_color_theme":"light","color_theme":"light","images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images","rated":"Rated","release_date":"Release Date"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"featured_game","ref":"1-3","type":"game","count":1,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[{"primaryImageName":"game","id":"4c766a2be34975d52173bbb6","slug":"rogue-s-battleship","entity_type":"game","entity_config":{"rounded_corners":"default","parent_title":false,"thumb_outline":true,"aspect_ratio":"4x3","button_cta":"play_game","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Pirates of the Caribbean - Rogue's Battleship","go_pub_id":"9894","game_type":"Online: Single-Player","game_data":{"description":"Do ye have what it takes to be captain of the Black Pearl?","fileUrl":"http://a.dolimg.com/media/en-US/games/pirdmc_spl_act_rougesbattleship/pirdmc_spl_act_rougesbattleship.swf","height":400,"html5Url":"","id":"9894","images":{"img750x500":""},"minimumFlashPlayerVersion":"10","reportingAssetName":"gam|twds|pir_dmc|dol|spl|act|9894|rougesbattleship","title":"Pirates of the Caribbean - Rogue's Battleship","type":"AS2","width":600,"apiVersion":"1.0","genre":"act","lastPublishedDate":"","core_id":"4dc3e07ebc44307cbefa79c7"},"desc":"Do ye have what it takes to be captain of the Black Pearl?","compatibility_flags":["flash"],"thumb":"http://cdnvideo.dolimg.com/cdn_assets/4de0a8cbb771612253fa9754903d5d081f4ce5bb.jpg","thumb_4x3":"http://cdnvideo.dolimg.com/cdn_assets/4de0a8cbb771612253fa9754903d5d081f4ce5bb.jpg","ptitle":"Pirates of the Caribbean: Dead Man's Chest","phref":"http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest","publish_date":"May 8, 2013","description":"Do ye have what it takes to be captain of the Black Pearl?","short_desc":"Do ye have what it takes to be captain of the Black Pearl?","cta_button_title":"Play Game","sub_type":"online_single_player","type":"Game","href":"http://games.disney.com/rogue-s-battleship"}],"style":{"bg_color":"f0e3c1","auto_color_theme":"light","default_color_theme":"light","color_theme":"light","images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images","play_game":"Play Game"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"characters","ref":"1-4","type":"character","count":9,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[{"person":null,"role":null,"title":" Jack Sparrow","photo":"http://cdnvideo.dolimg.com/cdn_assets/5c96c725e0de19d80018a9bc5ba9c029dcf209d0.jpg","id":"4c7e05af2b1485b251b7f4dd","slug":"jack-sparrow","entity_type":"personality","entity_config":{"title_overlay":true,"extended_title":true,"rounded_corners":"slight","thumb_outline":true,"aspect_ratio":"baseball_card","skip_styles":true,"text_alignment":"center","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"photo2x":"http://cdnvideo.dolimg.com/cdn_assets/e12c6b042ba46e43697492be6bce82e81409abd7.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/5c96c725e0de19d80018a9bc5ba9c029dcf209d0.jpg","thumb2x":"http://cdnvideo.dolimg.com/cdn_assets/e12c6b042ba46e43697492be6bce82e81409abd7.jpg","description":"Captain of the Black Pearl and legendary pirate of the Seven Seas, Captain Jack Sparrow is the irreverent trickster of the Caribbean. A captain of equally dubious morality and sobriety, a master of self-promotion and self interest, he \ufb01ghts a constant and losing battle with his own best tendencies.","short_desc":"Captain of the Black Pearl and legendary pirate of the Seven Seas, Captain Jack Sparrow is the irreverent trickster of the Caribbean.","cta_button_title":"See More","type":"Character","href":"http://pirates.disney.com/jack-sparrow"},{"person":null,"role":null,"title":"Davy Jones","photo":"http://cdnvideo.dolimg.com/cdn_assets/1f3a0fbd76afdbfd9fecacf5e8ea304fd07891a0.jpg","id":"4be83e070448c90ba944d40b","slug":"davy-jones","entity_type":"personality","entity_config":{"title_overlay":true,"extended_title":true,"rounded_corners":"slight","thumb_outline":true,"aspect_ratio":"baseball_card","skip_styles":true,"text_alignment":"center","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"photo2x":"http://cdnvideo.dolimg.com/cdn_assets/ec9d6c7c6d97c4593446afca3861112d0a975e83.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/1f3a0fbd76afdbfd9fecacf5e8ea304fd07891a0.jpg","thumb2x":"http://cdnvideo.dolimg.com/cdn_assets/ec9d6c7c6d97c4593446afca3861112d0a975e83.jpg","description":"The legendary Davy Jones is a supernatural force condemned for eternity to captain the haunted ship, the Flying Dutchman. But once, Davy Jones was a man, like any other, who \"ran afoul of that which vexes all men.\"","short_desc":"Once a man who \"ran afoul of that which vexes all men,\" he now is condemned for eternity to captain the Flying Dutchman.","cta_button_title":"See More","type":"Character","href":"http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest/characters"},{"person":null,"role":null,"title":"Hector Barbossa","photo":"http://cdnvideo.dolimg.com/cdn_assets/006b82eabcb1a48dc1bd3301816c76c0dd187a98.jpg","id":"4c7e05af4d67d5b251b7f4dd","slug":"hector-barbossa","entity_type":"personality","entity_config":{"title_overlay":true,"extended_title":true,"rounded_corners":"slight","thumb_outline":true,"aspect_ratio":"baseball_card","skip_styles":true,"text_alignment":"center","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"photo2x":"http://cdnvideo.dolimg.com/cdn_assets/48e9f0da0b3ab3c93925dbada1d8ae3186f05240.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/006b82eabcb1a48dc1bd3301816c76c0dd187a98.jpg","thumb2x":"http://cdnvideo.dolimg.com/cdn_assets/48e9f0da0b3ab3c93925dbada1d8ae3186f05240.jpg","description":"Once a ferocious pirate and deadly enemy of Captain Jack Sparrow, Captain Barbossa enters an uneasy alliance with his rival in a race to the Fountain of Youth. Hector Barbossa, a vile pirate returned from the dead, is the ultimate survivor. Having lost his leg\u2014and the Black Pearl\u2014Barbossa has traded black and silver for the grand blue and gold uniform of his Majesty\u2019s Royal navy. Now serving as a privateer and commanding the Providence under the Union Jack rather than the Jolly Roger, Barbossa claims to owe his allegiance to King and Country. But is it valor or revenge that pushes Barbosa toward the Fountain of Youth, a rendezvous with Captain Jack, Blackbeard and destiny?","short_desc":"Once a ferocious pirate and deadly enemy of Captain Jack Sparrow, Captain Barbossa enters an uneasy alliance with his rival.","cta_button_title":"See More","type":"Character","href":"http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters"},{"person":null,"role":null,"title":"Jack the Monkey","photo":"http://cdnvideo.dolimg.com/cdn_assets/0560a4c693fd0b7ed3f11eb6c6adf47d2463b7c7.jpg","id":"4e637679afe8b2e79ff868a8","slug":"jack-the-monkey","entity_type":"personality","entity_config":{"title_overlay":true,"extended_title":true,"rounded_corners":"slight","thumb_outline":true,"aspect_ratio":"baseball_card","skip_styles":true,"text_alignment":"center","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"photo2x":"http://cdnvideo.dolimg.com/cdn_assets/372a7e6af62c461debe73b261a9783a72f1efd1e.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/0560a4c693fd0b7ed3f11eb6c6adf47d2463b7c7.jpg","thumb2x":"http://cdnvideo.dolimg.com/cdn_assets/372a7e6af62c461debe73b261a9783a72f1efd1e.jpg","description":"Named after Jack Sparrow, this capuchin monkey is fiercely loyal to his owner Captain Barbossa.","short_desc":"Named after Jack Sparrow, this capuchin monkey is fiercely loyal to his owner Captain Barbossa.","cta_button_title":"See More","type":"Character","href":"http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters"},{"person":null,"role":null,"title":"Will Turner","photo":"http://cdnvideo.dolimg.com/cdn_assets/320cb737e4f947b9fdaf2f3df54bdac8be6c6836.jpg","id":"4be7591b63d1ace95cf1c0e2","slug":"will-turner","entity_type":"personality","entity_config":{"title_overlay":true,"extended_title":true,"rounded_corners":"slight","thumb_outline":true,"aspect_ratio":"baseball_card","skip_styles":true,"text_alignment":"center","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"photo2x":"http://cdnvideo.dolimg.com/cdn_assets/0f39b2c94201f35d2581046c775cdcddb6975952.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/320cb737e4f947b9fdaf2f3df54bdac8be6c6836.jpg","thumb2x":"http://cdnvideo.dolimg.com/cdn_assets/0f39b2c94201f35d2581046c775cdcddb6975952.jpg","description":"Born to a father he did not know was a pirate, Will Turner remains humble and selfless even as he sails the seas to save his father and find his true love Elizabeth Swan.","short_desc":"Will Turner sails the seas to save his father, find his true identity and reunite with his true love Elizabeth Swan.","cta_button_title":"See More","type":"Character","href":"http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters"},{"person":null,"role":null,"title":"Elizabeth Swann","photo":"http://cdnvideo.dolimg.com/cdn_assets/6c470a0c4f1c39ab2187f5caa8a9ec03cf47b82b.jpg","id":"4be83e04663d890ba944d40b","slug":"elizabeth-swann","entity_type":"personality","entity_config":{"title_overlay":true,"extended_title":true,"rounded_corners":"slight","thumb_outline":true,"aspect_ratio":"baseball_card","skip_styles":true,"text_alignment":"center","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"photo2x":"http://cdnvideo.dolimg.com/cdn_assets/dcb60f1c4779db0782e33e6d85b118b01bd911d9.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/6c470a0c4f1c39ab2187f5caa8a9ec03cf47b82b.jpg","thumb2x":"http://cdnvideo.dolimg.com/cdn_assets/dcb60f1c4779db0782e33e6d85b118b01bd911d9.jpg","description":"On board the HMS Dauntless as a young girl, Elizabeth tends to the sole shipwreck survivor who she discovers might be a pirate. Little does she know what lies ahead from this fateful encounter.","short_desc":"As a young girl she found a mysterious shipwreck survivor. Little did she know what adventures would stem from this fateful encounter.","cta_button_title":"See More","type":"Character","href":"http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters"},{"person":null,"role":null,"title":"Joshamee Gibbs","photo":"http://cdnvideo.dolimg.com/cdn_assets/e0744aead83e16d6a99c24d34e95a87b61cfc185.jpg","id":"4be7157a6dbe5bfba00faf58","slug":"joshamee-gibbs","entity_type":"personality","entity_config":{"title_overlay":true,"extended_title":true,"rounded_corners":"slight","thumb_outline":true,"aspect_ratio":"baseball_card","skip_styles":true,"text_alignment":"center","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"photo2x":"http://cdnvideo.dolimg.com/cdn_assets/d03aef555fb25a06cb62b134166093767e884a4a.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/e0744aead83e16d6a99c24d34e95a87b61cfc185.jpg","thumb2x":"http://cdnvideo.dolimg.com/cdn_assets/d03aef555fb25a06cb62b134166093767e884a4a.jpg","short_desc":"A superstitious deckhand with muted impatience for authority, Gibbs sails alongside his preferred captain and friend, Jack Sparrow.","cta_button_title":"See More","type":"Character","href":"http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters"},{"person":null,"role":null,"title":"Pintel & Ragetti","photo":"http://cdnvideo.dolimg.com/cdn_assets/51c78c90f5a577d2de56d47da43ee3f7184899ec.jpg","id":"4be87e24c26290a7e7b24bcb","slug":"pintel-ragetti","entity_type":"personality","entity_config":{"title_overlay":true,"extended_title":true,"rounded_corners":"slight","thumb_outline":true,"aspect_ratio":"baseball_card","skip_styles":true,"text_alignment":"center","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"photo2x":"http://cdnvideo.dolimg.com/cdn_assets/090efe8ca0d7d661622866e61303ccfb0cafb1ff.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/51c78c90f5a577d2de56d47da43ee3f7184899ec.jpg","thumb2x":"http://cdnvideo.dolimg.com/cdn_assets/090efe8ca0d7d661622866e61303ccfb0cafb1ff.jpg","short_desc":"Pintel and Ragetti muddle their way from one situation to another, small minds in the middle of great events.","cta_button_title":"See More","type":"Character","href":"http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters"},{"person":null,"role":null,"title":"Tia Dalma","photo":"http://cdnvideo.dolimg.com/cdn_assets/26f2c7ca6877222057dfd323a6e6d870b85e2d13.jpg","id":"4e6d48305d5743910a185176","slug":"tia-dalma","entity_type":"personality","entity_config":{"title_overlay":true,"extended_title":true,"rounded_corners":"slight","thumb_outline":true,"aspect_ratio":"baseball_card","skip_styles":true,"text_alignment":"center","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"photo2x":"http://cdnvideo.dolimg.com/cdn_assets/d1e26af29f6271f8b094c3b8e112ac8e3c0bd0ee.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/26f2c7ca6877222057dfd323a6e6d870b85e2d13.jpg","thumb2x":"http://cdnvideo.dolimg.com/cdn_assets/d1e26af29f6271f8b094c3b8e112ac8e3c0bd0ee.jpg","short_desc":"A mysterious woman who wields the power of voodoo-like magic, there's more to her than meets the eye.","cta_button_title":"See More","type":"Character","href":"http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest/characters"}],"style":{"bg_color":"#8e1a23","auto_color_theme":"dark","default_color_theme":"light","color_theme":"light","images":{"background_image":{"url":"http://cdnvideo.dolimg.com/cdn_assets/cc706c6f689441b2bac9ecda2af65275fd80ad84.jpg","retina_url":"http://cdnvideo.dolimg.com/cdn_assets/cc706c6f689441b2bac9ecda2af65275fd80ad84.jpg","alignment":"top"},"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"trailer","ref":"1-5","type":"video","count":1,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[{"primaryImageName":"thumb","id":"4bcc50dca8a9e22413f9939c","slug":"pirates-of-the-caribbean-dead-man-s-chest","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"Pirates of the Caribbean: Dead Man's Chest Trailer","duration":"1:58","duration_sec":118,"duration_iso":"T00H01M58S","description":"Experience the action-packed adventures of Captain Jack Sparrow, a swashbuckling pirate who owes his soul to Davy Jones.","analytics":"vid|dimg|pir_dmc|shr|0_nlfnl7dl|Pirates of the Caribbean: Dead Mans Chest Trailer","adId":"0_nlfnl7dl","analyticsId":"0_nlfnl7dl","vType":"Trailer - Movie","adPattern":"C","externals":[{"account":"628012","data":{"objectType":"KalturaMediaEntry","id":"0_nlfnl7dl","name":"Pirates of the Caribbean-Dead Man's Chest - Pirates of the Caribbean: Dead Mans Chest Trailer - xd12098 - 2012-03-29","description":null,"partnerId":"628012","userId":"DOLAutoImport","creatorId":"DOLAutoImport","tags":"dolautoimport","adminTags":null,"categories":"video","categoriesIds":"3031262","status":"2","moderationStatus":"6","moderationCount":"0","type":"1","createdAt":"1333453885","updatedAt":"1399634953","rank":"0","totalRank":"0","votes":"0","groupId":null,"partnerData":null,"downloadUrl":"http://cdnbakmi.kaltura.com/p/628012/sp/62801200/raw/entry_id/0_nlfnl7dl/version/0","searchText":"_KAL_NET_ _628012_ _MEDIA_TYPE_1|  Pirates of the Caribbean-Dead Mans Chest - Pirates of the Caribbean: Dead Mans Chest Trailer - xd12098 - 2012-03-29 dolautoimport ","licenseType":"1","version":"0","thumbnailUrl":"http://cdnbakmi.kaltura.com/p/628012/sp/62801200/thumbnail/entry_id/0_nlfnl7dl/version/100001/acv/662","accessControlId":"519772","startDate":"1333004400","endDate":null,"referenceId":"xd12098","replacingEntryId":null,"replacedEntryId":null,"replacementStatus":"0","partnerSortValue":"0","conversionProfileId":"1710192","rootEntryId":"0_nlfnl7dl","operationAttributes":null,"entitledUsersEdit":null,"entitledUsersPublish":null,"plays":"0","views":"0","width":"320","height":"134","duration":"118","msDuration":"118000","durationType":null,"mediaType":"1","conversionQuality":"1710192","sourceType":"6","searchProviderType":null,"searchProviderId":null,"creditUserName":null,"creditUrl":null,"mediaDate":null,"dataUrl":"http://cdnbakmi.kaltura.com/p/628012/sp/62801200/flvclipper/entry_id/0_nlfnl7dl/version/0","flavorParamsIds":"0,385871,385881,385901,385911,385931,386961,386981,387021,387031,387041,426321,426331,426341,426351,426361,698081,698092,698102,698112,698122,698142,698152","metadataProfileId":"4631","metadataProfileVersion":"16","metadataObjectType":"1","objectId":"0_nlfnl7dl","DisplayName":"Pirates of the Caribbean: Dead Mans Chest Trailer","ShortTitle":"Pirates of the Caribbean: Dead Mans Chest Trailer","LongTitle":"Pirates of the Caribbean-Dead Man's Chest: Pirates of the Caribbean: Dead Mans Chest Trailer","ShortDescription":"Captain Jack Sparrow owes his soul to Davy Jones.","LongDescription":"Experience the action-packed adventures of Captain Jack Sparrow, a swashbuckling pirate who owes his soul to Davy Jones.","Series":"pirates of the caribbean-dead man's chest","SeriesCode":"pir_dmc","Season":"0","Episode":"0","Property":"pir_dmc","PropertyName":"pirates of the caribbean-dead man's chest","LegacyAssetId":"xd12098","BusinessUnit":"Disney Interactive Media Group","BusinessUnit2":"dimg","BusinessUnitCode":"dimg","Restricted":"true","Keywords":"Pirates of the Caribbean: Dead Man's Chest, Disney movies online, Keira Knightley, Jack Sparrow, Johnny Depp, Orlando Bloom, Will Turner, Bootstrap Bill, Elizabeth Swann, Barbossa, Davy Jones","SearchAvailability":"true","AgeRangeMin":"2","AgeRangeMax":"18","Licensed":"false","Advertisement":"false","Form":"shr","VideoType":"Trailer","thumbnail_updatedAt":"1349896555","lastPlayedAt":null,"redirectEntryId":null},"data_id":"0_nlfnl7dl","id":"522f3365c697a1101901ebf5","source":"kaltura","updated_at":"2014-06-27T11:33:41-07:00","video_id":"0_nlfnl7dl"},{"account":"1.0","data":{},"data_id":"xd12098","id":"522f3365c697a1101901ebf6","source":"house_number","updated_at":"2014-06-27T11:33:41-07:00","video_id":"xd12098"}],"embedURL":"http://video.disney.com/embed/4bcc50dca8a9e22413f9939c","authors":{"properties":["4b91e833bcc4a90a58b69196"],"publishers":["4bb23dbe19683ddd58da775d","4bb23dbe19683ddd58da775d"],"networks":["4b91db2d7a6f3963fc560f6c"]},"start_date":"2012-03-29T00:00:00-07:00","flavors":[{"bitrate":600,"format":"mp4","id":"522f3365c697a1101901ebfe","width":"848","height":"480","security_profile":["rtmpe","encrypted_hls"],"url":"mp4:xd_shortform/unknown/xd12098/a0c6b4-hxd12098_dd_pirateofthecaribbean2trailer-h264m_aac_848x480_536x64.mp4"},{"bitrate":564,"format":"mp4","id":"522f3365c697a1101901ebfd","width":"480","height":"272","security_profile":["rtmpe","encrypted_hls"],"url":"mp4:xd_shortform/unknown/xd12098/d0dc12-hxd12098_dd_pirateofthecaribbean2trailer-h264b_aac_480x320_500x64.mp4"},{"bitrate":414,"format":"mp4","id":"522f3365c697a1101901ebfc","width":"480","height":"272","security_profile":["rtmpe","encrypted_hls"],"url":"mp4:xd_shortform/unknown/xd12098/b8fc9e-hxd12098_dd_pirateofthecaribbean2trailer-h264b_aac_480x320_350x64.mp4"},{"bitrate":3000,"format":"mp4","id":"522f3365c697a1101901ebfb","width":"1280","height":"720","security_profile":["rtmpe","encrypted_hls"],"url":"mp4:xd_shortform/unknown/xd12098/204673-hxd12098_dd_pirateofthecaribbean2trailer-h264m_aac_1280x720_2904x96.mp4"},{"bitrate":2200,"format":"mp4","id":"522f3365c697a1101901ebfa","width":"1280","height":"720","security_profile":["rtmpe","encrypted_hls"],"url":"mp4:xd_shortform/unknown/xd12098/f7535f-hxd12098_dd_pirateofthecaribbean2trailer-h264m_aac_1280x720_2104x96.mp4"},{"bitrate":1500,"format":"mp4","id":"522f3365c697a1101901ebf9","width":"1280","height":"720","security_profile":["rtmpe","encrypted_hls"],"url":"mp4:xd_shortform/unknown/xd12098/c49dd5-hxd12098_dd_pirateofthecaribbean2trailer-h264m_aac_1280x720_1404x96.mp4"},{"bitrate":128,"format":"mp4","id":"522f3365c697a1101901ebf8","width":"320","height":"176","security_profile":["rtmpe","encrypted_hls"],"url":"mp4:xd_shortform/unknown/xd12098/fa1dea-hxd12098_dd_pirateofthecaribbean2trailer-h264b_aac_320x240_96x32.mp4"},{"bitrate":1000,"format":"mp4","id":"522f3365c697a1101901ebf7","width":"848","height":"480","security_profile":["rtmpe","encrypted_hls"],"url":"mp4:xd_shortform/unknown/xd12098/1b36ae-hxd12098_dd_pirateofthecaribbean2trailer-h264m_aac_848x480_904x96.mp4"},{"bitrate":1000,"format":"mp4","id":"522f3365c697a1101901ebf7","width":"848","height":"480","security_profile":["progressive","encrypted_hls"],"url":"http://cdn.videos.dolimg.com/xd_shortform/unknown/xd12098/1b36ae-hxd12098_dd_pirateofthecaribbean2trailer-h264m_aac_848x480_904x96.mp4"},{"bitrate":128,"format":"mp4","id":"522f3365c697a1101901ebf8","width":"320","height":"176","security_profile":["progressive","encrypted_hls"],"url":"http://cdn.videos.dolimg.com/xd_shortform/unknown/xd12098/fa1dea-hxd12098_dd_pirateofthecaribbean2trailer-h264b_aac_320x240_96x32.mp4"},{"bitrate":1500,"format":"mp4","id":"522f3365c697a1101901ebf9","width":"1280","height":"720","security_profile":["progressive","encrypted_hls"],"url":"http://cdn.videos.dolimg.com/xd_shortform/unknown/xd12098/c49dd5-hxd12098_dd_pirateofthecaribbean2trailer-h264m_aac_1280x720_1404x96.mp4"},{"bitrate":2200,"format":"mp4","id":"522f3365c697a1101901ebfa","width":"1280","height":"720","security_profile":["progressive","encrypted_hls"],"url":"http://cdn.videos.dolimg.com/xd_shortform/unknown/xd12098/f7535f-hxd12098_dd_pirateofthecaribbean2trailer-h264m_aac_1280x720_2104x96.mp4"},{"bitrate":3000,"format":"mp4","id":"522f3365c697a1101901ebfb","width":"1280","height":"720","security_profile":["progressive","encrypted_hls"],"url":"http://cdn.videos.dolimg.com/xd_shortform/unknown/xd12098/204673-hxd12098_dd_pirateofthecaribbean2trailer-h264m_aac_1280x720_2904x96.mp4"},{"bitrate":414,"format":"mp4","id":"522f3365c697a1101901ebfc","width":"480","height":"272","security_profile":["progressive","encrypted_hls"],"url":"http://cdn.videos.dolimg.com/xd_shortform/unknown/xd12098/b8fc9e-hxd12098_dd_pirateofthecaribbean2trailer-h264b_aac_480x320_350x64.mp4"},{"bitrate":564,"format":"mp4","id":"522f3365c697a1101901ebfd","width":"480","height":"272","security_profile":["progressive","encrypted_hls"],"url":"http://cdn.videos.dolimg.com/xd_shortform/unknown/xd12098/d0dc12-hxd12098_dd_pirateofthecaribbean2trailer-h264b_aac_480x320_500x64.mp4"},{"bitrate":600,"format":"mp4","id":"522f3365c697a1101901ebfe","width":"848","height":"480","security_profile":["progressive","encrypted_hls"],"url":"http://cdn.videos.dolimg.com/xd_shortform/unknown/xd12098/a0c6b4-hxd12098_dd_pirateofthecaribbean2trailer-h264m_aac_848x480_536x64.mp4"},{"bitrate":1500,"format":"webm","id":"522f3365c697a1101901ebff","width":"1280","height":"720","security_profile":["progressive","rtmpe","encrypted_hls"],"url":"http://cdn.videos.dolimg.com/xd_shortform/unknown/xd12098/390132-hxd12098_dd_pirateofthecaribbean2trailer-vp8_vorbis_1280x720_1404x96.webm"},{"bitrate":3000,"format":"webm","id":"522f3365c697a1101901ec00","width":"1280","height":"720","security_profile":["progressive","rtmpe","encrypted_hls"],"url":"http://cdn.videos.dolimg.com/xd_shortform/unknown/xd12098/a49f1c-hxd12098_dd_pirateofthecaribbean2trailer-vp8_vorbis_1280x720_2904x96.webm"},{"bitrate":1000,"format":"applehttp","id":"522f3365c697a1101901ec01","width":"848","height":"480","security_profile":["progressive","rtmpe","encrypted_hls"],"url":"http://video.disney.com/watch/hls/stream/xd_shortform/unknown/xd12098/568c00-h264m_aac_848x480_904x96.m3u8?video_id=4bcc50dca8a9e22413f9939c&nvb=20150220195338&nva=20150221025338&token=0c97b12da83174189de48"},{"bitrate":128,"format":"applehttp","id":"522f3365c697a1101901ec02","width":"320","height":"240","security_profile":["progressive","rtmpe","encrypted_hls"],"url":"http://video.disney.com/watch/hls/stream/xd_shortform/unknown/xd12098/33a965-h264b_aac_320x240_96x32.m3u8?video_id=4bcc50dca8a9e22413f9939c&nvb=20150220195338&nva=20150221025338&token=090a892b5b4c8043e1c45"},{"bitrate":414,"format":"applehttp","id":"522f3365c697a1101901ec03","width":"480","height":"320","security_profile":["progressive","rtmpe","encrypted_hls"],"url":"http://video.disney.com/watch/hls/stream/xd_shortform/unknown/xd12098/4c4769-h264b_aac_480x320_350x64.m3u8?video_id=4bcc50dca8a9e22413f9939c&nvb=20150220195338&nva=20150221025338&token=0b87a6f5800bef4e38c36"},{"bitrate":564,"format":"applehttp","id":"522f3365c697a1101901ec04","width":"480","height":"320","security_profile":["progressive","rtmpe","encrypted_hls"],"url":"http://video.disney.com/watch/hls/stream/xd_shortform/unknown/xd12098/e8a44d-h264b_aac_480x320_500x64.m3u8?video_id=4bcc50dca8a9e22413f9939c&nvb=20150220195338&nva=20150221025338&token=0d29d396fadb1fa31bf8d"},{"bitrate":600,"format":"applehttp","id":"522f3365c697a1101901ec05","width":"848","height":"480","security_profile":["progressive","rtmpe","encrypted_hls"],"url":"http://video.disney.com/watch/hls/stream/xd_shortform/unknown/xd12098/24c41a-h264m_aac_848x480_536x64.m3u8?video_id=4bcc50dca8a9e22413f9939c&nvb=20150220195338&nva=20150221025338&token=0e5bfd727f2a06918ef55"},{"bitrate":1000,"format":"applehttp","id":"522f3365c697a1101901ec01","width":"848","height":"480","security_profile":["progressive","rtmpe","encrypted_hls"],"url":"http://video.disney.com/watch/hls/master/4bcc50dca8a9e22413f9939c.m3u8?nvb=20150220195338&nva=20150221025338&token=07b80bc285dbdc11f68be"}],"next":[{"primaryImageName":"thumb","id":"4bcd1e927ad4e5d339e69f42","slug":"pirates-of-the-caribbean-the-curse-of-the-black-pearl","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"Pirates of the Caribbean: The Curse of the Black Pearl","duration":"0:48","duration_sec":48,"duration_iso":"T00H00M48S","description":"Climb aboard as the legendary Captain Jack Sparrow joins forces with Will Turner to save the governor's daughter from bloodthirsty pirates.","embedURL":"http://video.disney.com/embed/4bcd1e927ad4e5d339e69f42","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/8ca3b34c48b2abf22526e4105c8da1838c379877.jpg","ptitle":"Pirates of the Caribbean: Dead Man's Chest","phref":"http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest","publish_date":"May 3, 2012","property":["Piratas do Caribe: o ba\u00fa da morte","Pirates of the Caribbean: Dead Man's Chest","Pirates of the Caribbean: Dead Man's Chest","Piratas del Caribe: El cofre de la muerte","Fluch der Karibik 2","Pirates of the Caribbean: Dead Man's Chest","Piratas do Caribe: a maldi\u00e7\u00e3o do P\u00e9rola Negra","Pirates of the Caribbean: The Curse of the Black Pearl","Pirates of the Caribbean: The Curse of the Black Pearl","Piratas do Caribe: a maldi\u00e7\u00e3o do P\u00e9rola Negra","Piratas del Caribe: La maldici\u00f3n del Perla Negra","Pirates of the Caribbean: The Curse of the Black Pearl","Fluch der Karibik - Teil 1","Fluch der Karibik","Pirates of the Caribbean","Piratas del Caribe"],"short_desc":"Climb aboard as the legendary Captain Jack Sparrow joins forces with Will Turner to save the governor's daughter from bloodthirsty pirates.","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/pirates-of-the-caribbean-the-curse-of-the-black-pearl-4bcd1e927ad4e5d339e69f42"},{"primaryImageName":"thumb","id":"4be1103c5c70e42f7f3ce022","slug":"pirates-of-the-caribbean-at-world-s-end-trailer","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"Pirates of the Caribbean: At World's End Trailer","duration":"2:18","duration_sec":138,"duration_iso":"T00H02M18S","description":"Captain Jack's trapped in Davy Jones locker, which leads Elizabeth, Will, and Barbossa on a desperate quest to rescue him.","embedURL":"http://video.disney.com/embed/4be1103c5c70e42f7f3ce022","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/a1af7daa74eb6513623217878c603dccbd8b45ec.jpg","publish_date":"May 2, 2012","property":["Piratas del Caribe: en el fin del mundo","Piratas do Caribe: no fim do mundo","Pirates of the Caribbean: At World's End","Pirates of the Caribbean - Am Ende der Welt","Pirates of the Caribbean: At World's End","Pirates of the Caribbean: At World's End"],"short_desc":"Captain Jack's trapped in Davy Jones locker, which leads Elizabeth, Will, and Barbossa on a desperate quest to rescue him.","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/pirates-of-the-caribbean-at-world-s-end-trailer-4be1103c5c70e42f7f3ce022"},{"primaryImageName":"thumb","id":"4be3870e9e470a0e1266b068","slug":"carriage-chase","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"Carriage Chase","duration":"1:01","duration_sec":61,"duration_iso":"T00H01M01S","description":"Jack Sparrow takes a hair-raising ride through London streets, with the law in close pursuit.","embedURL":"http://video.disney.com/embed/4be3870e9e470a0e1266b068","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/e28f0106940c88d35823c5c784f20b30d39aeccb.jpg","publish_date":"May 11, 2012","property":["Pirates of the Caribbean - Fremde Gezeiten","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Piratas del Caribe: Navegando aguas misteriosas","Piratas do Caribe: navegando em \u00e1guas misteriosas","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides"],"short_desc":"Jack Sparrow takes a hair-raising ride through London streets, with the law in close pursuit.","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/carriage-chase-4be3870e9e470a0e1266b068"},{"primaryImageName":"thumb","id":"4be3870a63a9ba0e1266b068","slug":"locating-the-fountain","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"Locating the Fountain","duration":"1:08","duration_sec":68,"duration_iso":"T00H01M08S","description":"In Pirates of the Caribbean: On Stranger Tides, something strange occurs in Jack's search for the Fountain of Youth.","embedURL":"http://video.disney.com/embed/4be3870a63a9ba0e1266b068","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/8b0097321637ffd3a66fc49a43c4e01c57184fb9.jpg","publish_date":"May 11, 2012","property":["Pirates of the Caribbean - Fremde Gezeiten","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Piratas del Caribe: Navegando aguas misteriosas","Piratas do Caribe: navegando em \u00e1guas misteriosas","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides"],"short_desc":"In Pirates of the Caribbean: On Stranger Tides, something strange occurs in Jack's search for the Fountain of Youth.","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/locating-the-fountain-4be3870a63a9ba0e1266b068"},{"primaryImageName":"thumb","id":"4be38720e24f2a0e1266b068","slug":"on-stranger-tides-different-mermaids","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"On Stranger Tides: Different Mermaids","duration":"0:58","duration_sec":58,"duration_iso":"T00H00M58S","description":"Meet the mermaids of On Stranger Tides, played by beauties and Olympic athletes.","embedURL":"http://video.disney.com/embed/4be38720e24f2a0e1266b068","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/514a3e9bb477ff16ebaf9635a2b8ea39725834f7.jpg","publish_date":"May 11, 2012","property":["Pirates of the Caribbean - Fremde Gezeiten","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Piratas del Caribe: Navegando aguas misteriosas","Piratas do Caribe: navegando em \u00e1guas misteriosas","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides"],"short_desc":"Meet the mermaids of On Stranger Tides, played by beauties and Olympic athletes.","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/on-stranger-tides-different-mermaids-4be38720e24f2a0e1266b068"},{"primaryImageName":"thumb","id":"4be3871de9762a0e1266b068","slug":"on-stranger-tides-inside-scoop","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"On Stranger Tides Inside Scoop","duration":"1:15","duration_sec":75,"duration_iso":"T00H01M15S","description":"Ian McShane (Blackbeard) spills his on-set stories from the making of On Stranger Tides.","embedURL":"http://video.disney.com/embed/4be3871de9762a0e1266b068","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/05d78d2728a4ebb0630e802821c655cdf28d65bc.jpg","publish_date":"May 14, 2012","property":["Pirates of the Caribbean - Fremde Gezeiten","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Piratas del Caribe: Navegando aguas misteriosas","Piratas do Caribe: navegando em \u00e1guas misteriosas","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides"],"short_desc":"Ian McShane (Blackbeard) spills his on-set stories from the making of On Stranger Tides.","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/on-stranger-tides-inside-scoop-4be3871de9762a0e1266b068"},{"primaryImageName":"thumb","id":"4be3870c5c496a0e1266b068","slug":"mermaid-story","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"Mermaid Story","duration":"0:33","duration_sec":33,"duration_iso":"T00H00M33S","description":"Sailors in peril share lore about the lovely but deadly sea creatures known as mermaids.","embedURL":"http://video.disney.com/embed/4be3870c5c496a0e1266b068","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/8af5846a3bfabbbf890531838d77866a57179a0f.jpg","publish_date":"May 11, 2012","property":["Pirates of the Caribbean - Fremde Gezeiten","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Piratas del Caribe: Navegando aguas misteriosas","Piratas do Caribe: navegando em \u00e1guas misteriosas","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides"],"short_desc":"Sailors in peril share lore about the lovely but deadly sea creatures known as mermaids.","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/mermaid-story-4be3870c5c496a0e1266b068"},{"primaryImageName":"thumb","id":"4be38673b8c07a0e1266b068","slug":"able-bodied-crew","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"Able-Bodied Crew","duration":"1:18","duration_sec":78,"duration_iso":"T00H01M18S","description":"In Pirates of the Caribbean: The Curse of the Black Pearl, Jack Sparrow attempts to assemble an able-bodied crew.","embedURL":"http://video.disney.com/embed/4be38673b8c07a0e1266b068","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/e3a7a18bd9d0238c5bb9856ede429b4d1d32f7a8.jpg","publish_date":"August 2, 2012","property":["Piratas do Caribe: a maldi\u00e7\u00e3o do P\u00e9rola Negra","Pirates of the Caribbean: The Curse of the Black Pearl","Pirates of the Caribbean: The Curse of the Black Pearl","Piratas do Caribe: a maldi\u00e7\u00e3o do P\u00e9rola Negra","Piratas del Caribe: La maldici\u00f3n del Perla Negra","Pirates of the Caribbean: The Curse of the Black Pearl","Fluch der Karibik - Teil 1","Fluch der Karibik","Pirates of the Caribbean","Piratas del Caribe"],"short_desc":"In Pirates of the Caribbean: The Curse of the Black Pearl, Jack Sparrow attempts to assemble an able-bodied crew.","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/able-bodied-crew-4be38673b8c07a0e1266b068"},{"primaryImageName":"thumb","id":"4bb39d49ad70ca8833003b15","slug":"true-tales-of-capt-jack-sparrow","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"True Tales of Capt. Jack Sparrow","duration":"1:47","duration_sec":107,"duration_iso":"T00H01M47S","description":"Captain Jack Sparrow fights zombies and Blackbeard on his way to trap a mermaid.","embedURL":"http://video.disney.com/embed/4bb39d49ad70ca8833003b15","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/df0e7b550123d9087fe2daa0f8f84d2c97a77414.jpg","publish_date":"May 2, 2012","short_desc":"Captain Jack Sparrow fights zombies and Blackbeard on his way to trap a mermaid.","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/true-tales-of-capt-jack-sparrow-4bb39d49ad70ca8833003b15"},{"primaryImageName":"thumb","id":"4db33b33ed8737e3b5adc7e8","slug":"trailer-lego-pirates-of-the-caribbean-the-video-game","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"Trailer - LEGO Pirates of the Caribbean: The Video Game","duration":"1:32","duration_sec":92,"duration_iso":"T00H01M32S","description":"Pirates of the Caribbean with a LEGO twist!","embedURL":"http://video.disney.com/embed/4db33b33ed8737e3b5adc7e8","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/6a12631ba590d2fc8f016c6106abb575709a3dd0.jpg","publish_date":"April 25, 2013","short_desc":"Pirates of the Caribbean with a LEGO twist!","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/trailer-lego-pirates-of-the-caribbean-the-video-game-4db33b33ed8737e3b5adc7e8"},{"primaryImageName":"thumb","id":"4be3870b679c0a0e1266b068","slug":"someone-has-to-jump","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"Someone Has to Jump","duration":"1:37","duration_sec":97,"duration_iso":"T00H01M37S","description":"Someone has to take a long walk off a short cliff -- will it be Jack or Angelica?","embedURL":"http://video.disney.com/embed/4be3870b679c0a0e1266b068","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/5550fc838c91eee4d216ce466dc3df1882382b6b.jpg","publish_date":"May 11, 2012","property":["Pirates of the Caribbean - Fremde Gezeiten","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Piratas del Caribe: Navegando aguas misteriosas","Piratas do Caribe: navegando em \u00e1guas misteriosas","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides"],"short_desc":"Someone has to take a long walk off a short cliff -- will it be Jack or Angelica?","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/someone-has-to-jump-4be3870b679c0a0e1266b068"},{"primaryImageName":"thumb","id":"4be3871011f89a0e1266b068","slug":"jack-s-escape","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"Jack's Escape","duration":"2:16","duration_sec":136,"duration_iso":"T00H02M16S","description":"Jack evades all the king's horses and all the king's men when he escapes Buckingham Palace.","embedURL":"http://video.disney.com/embed/4be3871011f89a0e1266b068","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/d7940914e637612b2e63212c96bd768f6905744b.jpg","publish_date":"May 11, 2012","property":["Pirates of the Caribbean - Fremde Gezeiten","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Piratas del Caribe: Navegando aguas misteriosas","Piratas do Caribe: navegando em \u00e1guas misteriosas","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides"],"short_desc":"Jack evades all the king's horses and all the king's men when he escapes Buckingham Palace.","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/jack-s-escape-4be3871011f89a0e1266b068"},{"primaryImageName":"thumb","id":"4be3871fdd103a0e1266b068","slug":"on-stranger-tides-sneak-peek","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"On Stranger Tides Sneak Peek","duration":"0:55","duration_sec":55,"duration_iso":"T00H00M55S","description":"Are you ready for another round of Jack? See what's in store when On Stranger Tides comes to Blu-ray and DVD.","embedURL":"http://video.disney.com/embed/4be3871fdd103a0e1266b068","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/58a0e5f281f05f732cfc118efb32990db3851c6a.jpg","publish_date":"May 14, 2012","property":["Pirates of the Caribbean - Fremde Gezeiten","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Piratas del Caribe: Navegando aguas misteriosas","Piratas do Caribe: navegando em \u00e1guas misteriosas","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides"],"short_desc":"Are you ready for another round of Jack? See what's in store when On Stranger Tides comes to Blu-ray and DVD.","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/on-stranger-tides-sneak-peek-4be3871fdd103a0e1266b068"},{"primaryImageName":"thumb","id":"4e09fbcbf913d734b5495e54","slug":"toy-box-trailer-capt-jack-sparrow-meets-tonto","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"Capt. Jack Sparrow Meets Tonto - Toy Box Trailer","duration":"0:32","duration_sec":32,"duration_iso":"T00H00M32S","description":"The possibilities are endless in the Disney Infinity Toy Box.  Collect some of your favorite Disney and Disney Pixar characters and play any way you want....","embedURL":"http://video.disney.com/embed/4e09fbcbf913d734b5495e54","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/a3eebcdc20041691d39d1a88a2653440ee13437b.jpg","ptitle":"Disney Infinity","phref":"http://video.disney.com/collections/disney-infinity-4dcc8ec62974fb68c32ef4f9","publish_date":"July 3, 2013","property":["Disney Infinity","Disney Infinity"],"short_desc":"The possibilities are endless in the Disney Infinity Toy Box.  Collect some of your favorite Disney and Disney Pixar characters and play any way you want....","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/toy-box-trailer-capt-jack-sparrow-meets-tonto-4e09fbcbf913d734b5495e54"},{"primaryImageName":"thumb","id":"4eff5d25251935ca97509f8a","slug":"epicpiratecombat-disney-infinity-toy-box","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"EpicPirateCombat - DISNEY INFINITY Toy Box","duration":"0:45","duration_sec":45,"duration_iso":"T00H00M45S","description":"Goal: Reach the Dragon's Den to free the trapped Princess! Rules: No flying, gliding, hovering, etc.","embedURL":"http://video.disney.com/embed/4eff5d25251935ca97509f8a","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/fc9f7dc6e1ac3ad7670a1f7a15f5d4a2fcc86182.jpg","ptitle":"Disney Infinity","phref":"http://video.disney.com/collections/disney-infinity-4dcc8ec62974fb68c32ef4f9","publish_date":"January 14, 2014","property":["Disney Infinity","Disney Infinity"],"short_desc":"Goal: Reach the Dragon's Den to free the trapped Princess! Rules: No flying, gliding, hovering, etc.","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/epicpiratecombat-disney-infinity-toy-box-4eff5d25251935ca97509f8a"}],"suggested":[{"primaryImageName":"thumb","id":"4be3870d84403a0e1266b068","slug":"blackbeard-and-the-mutineers","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"Blackbeard and the Mutineers","duration":"1:34","duration_sec":94,"duration_iso":"T00H01M34S","description":"Captain Jack Sparrow discovers that no mutiny can succeed against the fearsome Blackbeard.","embedURL":"http://video.disney.com/embed/4be3870d84403a0e1266b068","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/829c5d953eba1a02ee7bcf7cf63b1d76a274414b.jpg","publish_date":"May 11, 2012","property":["Pirates of the Caribbean - Fremde Gezeiten","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Piratas del Caribe: Navegando aguas misteriosas","Piratas do Caribe: navegando em \u00e1guas misteriosas","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides"],"short_desc":"Captain Jack Sparrow discovers that no mutiny can succeed against the fearsome Blackbeard.","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/blackbeard-and-the-mutineers-4be3870d84403a0e1266b068"},{"primaryImageName":"thumb","id":"4f8e858610d5ccf3c61c7c00","slug":"asteroid-race-disney-infinity-toy-box","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"Asteroid Race!! - DISNEY INFINITY Toy Box","duration":"0:30","duration_sec":30,"duration_iso":"T00H00M30S","description":"Star Command's remote base has been taken by Zurg! Race your way up through the asteroids to the base & kick Zurg out!!","embedURL":"http://video.disney.com/embed/4f8e858610d5ccf3c61c7c00","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/50a3c4ef61c6b4e30ceb15c54e655034b39abce5.jpg","ptitle":"Disney Infinity","phref":"http://video.disney.com/collections/disney-infinity-4dcc8ec62974fb68c32ef4f9","publish_date":"May 8, 2014","property":["Disney Infinity","Disney Infinity"],"short_desc":"Star Command's remote base has been taken by Zurg! Race your way up through the asteroids to the base & kick Zurg out!!","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/asteroid-race-disney-infinity-toy-box-4f8e858610d5ccf3c61c7c00"},{"primaryImageName":"thumb","id":"4de7180596875e22bd6e0ec6","slug":"the-lone-ranger-play-set-disney-infinity","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"The Lone Ranger Play Set - Disney Infinity","duration":"1:33","duration_sec":93,"duration_iso":"T00H01M33S","description":"Saddle up and ride for justice in the Lone Ranger Play Set. Join forces with the famed masked hero John Reid and Native America warrior Tonto to rid the...","embedURL":"http://video.disney.com/embed/4de7180596875e22bd6e0ec6","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/dfcfe7887025188cb67357856e5d41768bb0a4c5.jpg","ptitle":"Disney Infinity","phref":"http://video.disney.com/collections/disney-infinity-4dcc8ec62974fb68c32ef4f9","publish_date":"June 6, 2013","property":["Disney Infinity","Disney Infinity"],"short_desc":"Saddle up and ride for justice in the Lone Ranger Play Set. Join forces with the famed masked hero John Reid and Native America warrior Tonto to rid the...","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/the-lone-ranger-play-set-disney-infinity-4de7180596875e22bd6e0ec6"},{"primaryImageName":"thumb","id":"4c7bafa3ae60f26db97b490d","slug":"on-stranger-tide-premiere-radio-disney","entity_type":"video","entity_config":{"rounded_corners":"default","title_overlay":true,"thumb_outline":true,"aspect_ratio":"16x9","button_cta":"watch_now","show_ptitle":true,"text_alignment":"left","details_visibility":"show","allow_title_overlay":true,"allow_details_visibility":"show"},"title":"On Stranger Tide Premiere - Radio Disney","duration":"1:42","duration_sec":102,"duration_iso":"T00H01M42S","description":"Visit the Disneyland red-carpet premiere of the fourth Pirates of the Caribbean film.","embedURL":"http://video.disney.com/embed/4c7bafa3ae60f26db97b490d","authors":{"properties":null,"publishers":null,"networks":null},"thumb":"http://cdnvideo.dolimg.com/cdn_assets/71645042e65faf00ab3a6c1de549526cea57e0ce.jpg","ptitle":"Radio Disney","phref":"http://video.disney.com/collections/radio-disney-4befcbbc61a55b29118e2222","publish_date":"March 12, 2013","property":["Take Over with Ernie D"],"short_desc":"Visit the Disneyland red-carpet premiere of the fourth Pirates of the Caribbean film.","cta_button_title":"Watch Now","type":"Video","href":"http://video.disney.com/watch/on-stranger-tide-premiere-radio-disney-4c7bafa3ae60f26db97b490d"}],"preview":"http://cdnvideo.dolimg.com/cdn_assets/5d481aaf11cc123628272798516bd1f83d7429a3.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/4c04ab8439fe25414ba58e364f331ab475681a4c.jpg","publish_date":"May 3, 2012","short_desc":"Experience the action-packed adventures of Captain Jack Sparrow, a swashbuckling pirate who owes his soul to Davy Jones.","cta_button_title":"Watch Now","sub_type":"trailer_movie","type":"Video","href":"http://video.disney.com/watch/pirates-of-the-caribbean-dead-man-s-chest-4bcc50dca8a9e22413f9939c"}],"style":{"default_color_theme":"light","color_theme":"light","images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images","no_javascript":"Uh, oh! It seems JavaScript is disabled in your internet browser. Please enable JavaScript if you would like to watch videos on this site.","video_expired":"Sorry, this video is no longer available.","country_disallowed":"We're sorry, this video cannot be played in your region.","dependencies_not_met":", oh! It appears your internet browser is out of date. Please upgrade your internet browser or update Adobe Flash Player.","get_flash_player":"Get Adobe Flash Player","embedding_disabled":"Sorry, but this video can only be played on Disney.com","device_not_supported":"Sorry, but your device does not support the playback of this video.","video_not_found":"Uh, oh! We can't find this video right now. Please try again later!","replay":"Replay","watch_on":"Watch on"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"featured_gallery","ref":"1-6","type":"gallery","count":1,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[{"gallery_title":"Dead Man's Chest Gallery","parent_page_title":"Visit Dead Man's Chest","images":[{"caption":"Elizabeth\u2019s wedding day is rudely interrupted.","id":"52f5432d0a172d5ba8009611","image_d_asset_id":"4e7c7e9e58902fa03e46abca","image_filename":"e0bf2ff3becfdb5aafcb77a7615c868dddd48804.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/e0bf2ff3becfdb5aafcb77a7615c868dddd48804.jpg","mobile_image_d_asset_id":"4f1d6e5261e4373d400ca0f2","mobile_image_filename":"5b502deb6f0694f7554671c5333a6a139dcde5eb.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/5b502deb6f0694f7554671c5333a6a139dcde5eb.jpg","seo_title":"Elizabeth Swann","thumbnail_image_d_asset_id":"4f1d6e4f3e8e2e4ba9aa9b4f","thumbnail_image_filename":"f4475c5c81b3f44434d37b98925c1a76c715fd45.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/f4475c5c81b3f44434d37b98925c1a76c715fd45.jpg","seo":{"title":"Elizabeth Swann","description":"Elizabeth\u2019s wedding day is rudely interrupted."},"seoCaption":"Elizabeth\u2019s wedding day is rudely interrupted.","image":"http://cdnvideo.dolimg.com/cdn_assets/e0bf2ff3becfdb5aafcb77a7615c868dddd48804.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/5b502deb6f0694f7554671c5333a6a139dcde5eb.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/f4475c5c81b3f44434d37b98925c1a76c715fd45.jpg","title":"Elizabeth Swann"},{"caption":"The captain of the Flying Dutchman is a terrifying adversary.","id":"52f5432d0a172d5ba8009610","image_d_asset_id":"4e7c7ece9649efa0af76abcb","image_filename":"559d42a88ca293a4bcb222a2f275ebcb066c9315.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/559d42a88ca293a4bcb222a2f275ebcb066c9315.jpg","mobile_image_d_asset_id":"4f1d6e578bee68e632ac9a49","mobile_image_filename":"fdb7a69bb39c13974386abef16d723f6709b3c06.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/fdb7a69bb39c13974386abef16d723f6709b3c06.jpg","seo_title":"Davy Jones","thumbnail_image_d_asset_id":"4f1d6e55d68b64fb2f19ddab","thumbnail_image_filename":"cc3758dcb577e3902a5cc17c68ed18c6d7049c8e.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/cc3758dcb577e3902a5cc17c68ed18c6d7049c8e.jpg","seo":{"title":"Davy Jones","description":"The captain of the Flying Dutchman is a terrifying adversary."},"seoCaption":"The captain of the Flying Dutchman is a terrifying adversary.","image":"http://cdnvideo.dolimg.com/cdn_assets/559d42a88ca293a4bcb222a2f275ebcb066c9315.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/fdb7a69bb39c13974386abef16d723f6709b3c06.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/cc3758dcb577e3902a5cc17c68ed18c6d7049c8e.jpg","title":"Davy Jones"},{"caption":"Captain Jack is worshipped as a god on a remote island.","id":"52f5432d0a172d5ba800960f","image_d_asset_id":"4e7c7f06d3a58b8cb9df4a6c","image_filename":"1d9c5eb7de1cf6ebd37e56eea1eda08d0037e625.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/1d9c5eb7de1cf6ebd37e56eea1eda08d0037e625.jpg","mobile_image_d_asset_id":"4f1d6e5c34f4a40955c8694f","mobile_image_filename":"dba32dd78da4e6fe7bebdb7a5dd89e97fb8ff73b.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/dba32dd78da4e6fe7bebdb7a5dd89e97fb8ff73b.jpg","seo_title":"Cannibal God","thumbnail_image_d_asset_id":"4f1d6e5a968b98e5fabc9a49","thumbnail_image_filename":"256d7de6e3567b3be9e2d4315bcebe31914f3254.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/256d7de6e3567b3be9e2d4315bcebe31914f3254.jpg","seo":{"title":"Cannibal God","description":"Captain Jack is worshipped as a god on a remote island."},"seoCaption":"Captain Jack is worshipped as a god on a remote island.","image":"http://cdnvideo.dolimg.com/cdn_assets/1d9c5eb7de1cf6ebd37e56eea1eda08d0037e625.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/dba32dd78da4e6fe7bebdb7a5dd89e97fb8ff73b.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/256d7de6e3567b3be9e2d4315bcebe31914f3254.jpg","title":"Cannibal God"},{"caption":"Jack\u2019s former worshippers are a little upset with him.","id":"52f5432d0a172d5ba800960e","image_d_asset_id":"4e7c802bb0ea9b8cb9df4a6c","image_filename":"3154ee87192a42e178cad60183d4b21b68878232.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/3154ee87192a42e178cad60183d4b21b68878232.jpg","mobile_image_d_asset_id":"4f1d6e5ffd5f773d400ca0f2","mobile_image_filename":"f77e72813ea13e28082c8335feff29543d8a8969.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/f77e72813ea13e28082c8335feff29543d8a8969.jpg","seo_title":"Captain Jack on the Run","thumbnail_image_d_asset_id":"4f1d6e5e8a96afef04db1d9f","thumbnail_image_filename":"5da1433f642fbe1b3640f448e46f8f082b50f91f.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/5da1433f642fbe1b3640f448e46f8f082b50f91f.jpg","seo":{"title":"Captain Jack on the Run","description":"Jack\u2019s former worshippers are a little upset with him."},"seoCaption":"Jack\u2019s former worshippers are a little upset with him.","image":"http://cdnvideo.dolimg.com/cdn_assets/3154ee87192a42e178cad60183d4b21b68878232.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/f77e72813ea13e28082c8335feff29543d8a8969.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/5da1433f642fbe1b3640f448e46f8f082b50f91f.jpg","title":"Captain Jack on the Run"},{"caption":"The compass is the key to everything\u2014for those who know how to use it.","id":"52f5432d0a172d5ba800960d","image_d_asset_id":"4e7c806771126d38c71e47bd","image_filename":"08c72a9e928674644d295366237af53bc7460f24.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/08c72a9e928674644d295366237af53bc7460f24.jpg","mobile_image_d_asset_id":"4f1d6e62ab76f76f2778b830","mobile_image_filename":"471be71a40dd3628cd53f17f8e9010bb28d51963.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/471be71a40dd3628cd53f17f8e9010bb28d51963.jpg","seo_title":"Jack's Compass","thumbnail_image_d_asset_id":"4f1d6e61903b0e4ba9aa9b4f","thumbnail_image_filename":"61b787186512d3eb02a7f18c2d799981ca27a456.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/61b787186512d3eb02a7f18c2d799981ca27a456.jpg","seo":{"title":"Jack's Compass","description":"The compass is the key to everything\u2014for those who know how to use it."},"seoCaption":"The compass is the key to everything\u2014for those who know how to use it.","image":"http://cdnvideo.dolimg.com/cdn_assets/08c72a9e928674644d295366237af53bc7460f24.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/471be71a40dd3628cd53f17f8e9010bb28d51963.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/61b787186512d3eb02a7f18c2d799981ca27a456.jpg","title":"Jack's Compass"},{"caption":"The prophetess advises Jack with riddles.","id":"52f5432d0a172d5ba800960c","image_d_asset_id":"4e7c80a2d5a5ed38c6ce47bd","image_filename":"5fc2de5e804015ccd66e79ea8cdb0c9b5c57d828.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/5fc2de5e804015ccd66e79ea8cdb0c9b5c57d828.jpg","mobile_image_d_asset_id":"4f1d6e66e22f63c655eb1fd0","mobile_image_filename":"04e4be68972ccb031c816d3d3bbe26211db20685.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/04e4be68972ccb031c816d3d3bbe26211db20685.jpg","seo_title":"Tia Dalma","thumbnail_image_d_asset_id":"4f1d6e6555f0e8e632ac9a49","thumbnail_image_filename":"82988add0196b1dc673fad542828b8de3f46ea0d.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/82988add0196b1dc673fad542828b8de3f46ea0d.jpg","seo":{"title":"Tia Dalma","description":"The prophetess advises Jack with riddles."},"seoCaption":"The prophetess advises Jack with riddles.","image":"http://cdnvideo.dolimg.com/cdn_assets/5fc2de5e804015ccd66e79ea8cdb0c9b5c57d828.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/04e4be68972ccb031c816d3d3bbe26211db20685.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/82988add0196b1dc673fad542828b8de3f46ea0d.jpg","title":"Tia Dalma"},{"caption":"Davy Jones\u2019 terrible \u201cpet\u201d attacks.","id":"52f5432d0a172d5ba800960b","image_d_asset_id":"4e7c80d0243dafa03e46abca","image_filename":"f778dc467da750d8e6b7bdb728d7d078427e7d8d.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/f778dc467da750d8e6b7bdb728d7d078427e7d8d.jpg","mobile_image_d_asset_id":"4f1d6e6bd77d076f2778b830","mobile_image_filename":"7d581d5811cc785f468b2c787b097bc949c7d536.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/7d581d5811cc785f468b2c787b097bc949c7d536.jpg","seo_title":"The Kraken","thumbnail_image_d_asset_id":"4f1d6e69cc92076f2778b830","thumbnail_image_filename":"676c533ac28cf360516d00e3dbd0d311cf3af81b.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/676c533ac28cf360516d00e3dbd0d311cf3af81b.jpg","seo":{"title":"The Kraken","description":"Davy Jones\u2019 terrible \u201cpet\u201d attacks."},"seoCaption":"Davy Jones\u2019 terrible \u201cpet\u201d attacks.","image":"http://cdnvideo.dolimg.com/cdn_assets/f778dc467da750d8e6b7bdb728d7d078427e7d8d.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/7d581d5811cc785f468b2c787b097bc949c7d536.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/676c533ac28cf360516d00e3dbd0d311cf3af81b.jpg","title":"The Kraken"},{"caption":"Captain Jack, Will, and Norrington each want the heart of Davy Jones.","id":"52f5432d0a172d5ba800960a","image_d_asset_id":"4e7c817fcd9b5f1464e6ab7b","image_filename":"35f0098609a13aa8ef508db490848dc9c55826bf.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/35f0098609a13aa8ef508db490848dc9c55826bf.jpg","mobile_image_d_asset_id":"4f1d6e714384740955c8694f","mobile_image_filename":"b6c91afb9b85e7d764e45ef03a45c21f91d9690e.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/b6c91afb9b85e7d764e45ef03a45c21f91d9690e.jpg","seo_title":"Standoff","thumbnail_image_d_asset_id":"4f1d6e6f578454098e286950","thumbnail_image_filename":"ee3b3654f46690e2d7727e757c357f4857450c95.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/ee3b3654f46690e2d7727e757c357f4857450c95.jpg","seo":{"title":"Standoff","description":"Captain Jack, Will, and Norrington each want the heart of Davy Jones."},"seoCaption":"Captain Jack, Will, and Norrington each want the heart of Davy Jones.","image":"http://cdnvideo.dolimg.com/cdn_assets/35f0098609a13aa8ef508db490848dc9c55826bf.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/b6c91afb9b85e7d764e45ef03a45c21f91d9690e.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/ee3b3654f46690e2d7727e757c357f4857450c95.jpg","title":"Standoff"},{"caption":"Norrington and Will engage in a deadly game.","id":"52f5432d0a172d5ba8009609","image_d_asset_id":"4e7c81c74db24f1464e6ab7b","image_filename":"e18e9c35b24da0c4eb6aa502f21ff45ac36b0739.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/e18e9c35b24da0c4eb6aa502f21ff45ac36b0739.jpg","mobile_image_d_asset_id":"4f1d6e76a0191fef04db1d9f","mobile_image_filename":"2b7881866853623ce6fa6954a2b101c918c51b2d.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/2b7881866853623ce6fa6954a2b101c918c51b2d.jpg","seo_title":"Waterwheel Duel","thumbnail_image_d_asset_id":"4f1d6e7443a154095598694f","thumbnail_image_filename":"5f41061ba1a22bb59c7a68d02590862035f8cfc3.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/5f41061ba1a22bb59c7a68d02590862035f8cfc3.jpg","seo":{"title":"Waterwheel Duel","description":"Norrington and Will engage in a deadly game."},"seoCaption":"Norrington and Will engage in a deadly game.","image":"http://cdnvideo.dolimg.com/cdn_assets/e18e9c35b24da0c4eb6aa502f21ff45ac36b0739.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/2b7881866853623ce6fa6954a2b101c918c51b2d.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/5f41061ba1a22bb59c7a68d02590862035f8cfc3.jpg","title":"Waterwheel Duel"},{"caption":"In the chaos of battle, Elizabeth tries to save the day.","id":"52f5432d0a172d5ba8009608","image_d_asset_id":"4e7c81fdb005ffa0af76abcb","image_filename":"3ef218b766a2a40baa0b9cbd39b227e30d4d6fb2.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/3ef218b766a2a40baa0b9cbd39b227e30d4d6fb2.jpg","mobile_image_d_asset_id":"4f1d6e7b2945440955c8694f","mobile_image_filename":"93b11324f35bd47f364df73d50b5c4c367e0edce.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/93b11324f35bd47f364df73d50b5c4c367e0edce.jpg","seo_title":"Elizabeth Armed","thumbnail_image_d_asset_id":"4f1d6e79493618e5fabc9a49","thumbnail_image_filename":"615dfcecea2b383b2307d7e3823dde4528554c42.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/615dfcecea2b383b2307d7e3823dde4528554c42.jpg","seo":{"title":"Elizabeth Armed","description":"In the chaos of battle, Elizabeth tries to save the day."},"seoCaption":"In the chaos of battle, Elizabeth tries to save the day.","image":"http://cdnvideo.dolimg.com/cdn_assets/3ef218b766a2a40baa0b9cbd39b227e30d4d6fb2.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/93b11324f35bd47f364df73d50b5c4c367e0edce.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/615dfcecea2b383b2307d7e3823dde4528554c42.jpg","title":"Elizabeth Armed"},{"caption":"The unearthly crew comes ashore to protect Davy\u2019s hearts.","id":"52f5432d0a172d5ba8009607","image_d_asset_id":"4e7c823fd499ad38c71e47bd","image_filename":"bf17369e0f1cf641bd52ce5ec2d9f01c03edea99.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/bf17369e0f1cf641bd52ce5ec2d9f01c03edea99.jpg","mobile_image_d_asset_id":"4f1d6e7f1e6203c655eb1fd0","mobile_image_filename":"a1a145558a1d97dfe4e995dcc11592a5ba014023.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/a1a145558a1d97dfe4e995dcc11592a5ba014023.jpg","seo_title":"Davy Jones Attacks","thumbnail_image_d_asset_id":"4f1d6e7db60118e5fabc9a49","thumbnail_image_filename":"c8730f4220dafdb17c9cff39eacdf323703647ce.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/c8730f4220dafdb17c9cff39eacdf323703647ce.jpg","seo":{"title":"Davy Jones Attacks","description":"The unearthly crew comes ashore to protect Davy\u2019s hearts."},"seoCaption":"The unearthly crew comes ashore to protect Davy\u2019s hearts.","image":"http://cdnvideo.dolimg.com/cdn_assets/bf17369e0f1cf641bd52ce5ec2d9f01c03edea99.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/a1a145558a1d97dfe4e995dcc11592a5ba014023.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/c8730f4220dafdb17c9cff39eacdf323703647ce.jpg","title":"Davy Jones Attacks"},{"caption":"The two scoundrels try to make off with the prize.","id":"52f5432d0a172d5ba8009606","image_d_asset_id":"4e7c8298994c3b8c817f4a6c","image_filename":"aa34b9ddd5923ea7e401f21b599c764e11839e86.jpg","image_fog":"http://cdnvideo.dolimg.com/cdn_assets/aa34b9ddd5923ea7e401f21b599c764e11839e86.jpg","mobile_image_d_asset_id":"4f1d6e846bbd576f2778b830","mobile_image_filename":"f70bf9a3e6c56f43b5d107423870d4dea33c1e90.jpg","mobile_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/f70bf9a3e6c56f43b5d107423870d4dea33c1e90.jpg","seo_title":"Pintel and Ragetti","thumbnail_image_d_asset_id":"4f1d6e81deb568e632ac9a49","thumbnail_image_filename":"7a3a2e7c715674df64b2c6c706a1807968b5d25b.jpg","thumbnail_image_fog":"http://cdnvideo.dolimg.com/cdn_assets/7a3a2e7c715674df64b2c6c706a1807968b5d25b.jpg","seo":{"title":"Pintel and Ragetti","description":"The two scoundrels try to make off with the prize."},"seoCaption":"The two scoundrels try to make off with the prize.","image":"http://cdnvideo.dolimg.com/cdn_assets/aa34b9ddd5923ea7e401f21b599c764e11839e86.jpg","mobile_image":"http://cdnvideo.dolimg.com/cdn_assets/f70bf9a3e6c56f43b5d107423870d4dea33c1e90.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/7a3a2e7c715674df64b2c6c706a1807968b5d25b.jpg","title":"Pintel and Ragetti"}],"id":"4f1d6e848da6d989c57dc629","slug":"dead-mans-chest-gallery","entity_type":"gallery","entity_config":{"rounded_corners":"none","thumb_outline":true,"aspect_ratio":"4x3","button_cta":"view_slideshow","stack_box":true,"subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"Dead Man's Chest Gallery","banner":"http://cdnvideo.dolimg.com/cdn_assets/cfe82d33a555a299d6e26ea250e2f69ce52bdcd9.jpg","parent_page":"http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest","numImages":12,"thumbnail":"http://cdnvideo.dolimg.com/cdn_assets/e8bad72c17f38251ef73c6f50dede109d421f637.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/e8bad72c17f38251ef73c6f50dede109d421f637.jpg","description":"Check out your favorite pictures from Pirates of the Caribbean: Dead Man's Chest!","short_desc":"Check out your favorite pictures from Pirates of the Caribbean: Dead Man's Chest!","cta_button_title":"View Slideshow","type":"Gallery","href":"http://pirates.disney.com/dead-mans-chest-gallery"}],"style":{"bg_color":"f0e3c1","auto_color_theme":"light","default_color_theme":"light","color_theme":"light","images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images","view_slideshow":"View Slideshow"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8","desc":"Check out your favorite pictures from Pirates of the Caribbean: Dead Man's Chest!"},{"view":"rich_image","ref":"1-7","type":"","count":0,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[],"style":{"default_color_theme":"light","color_theme":"light","images":{"foreground_image":{"url":"http://cdnvideo.dolimg.com/cdn_assets/7aded7b691b198efa349d024c9668475aee1e046.jpg","retina_url":"http://cdnvideo.dolimg.com/cdn_assets/08929f40ea17542a1613bf876fc24eea9eb51de4.jpg","mobile_url":"http://cdnvideo.dolimg.com/cdn_assets/9019f02658d9624d864f3bbe711174d62c880838.jpg","mobile_retina_url":"http://cdnvideo.dolimg.com/cdn_assets/9019f02658d9624d864f3bbe711174d62c880838.jpg","alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"recommended","ref":"1-8","type":"movie","count":5,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":"Recommended Movies","data":[{"rating":"PG-13","year":null,"desc":"The roguish yet charming Captain Jack Sparrow's idyllic pirate life capsizes after his nemesis, the wily Captain Barbossa, steals his ship, the Black Pearl, and later attacks the town of Port Royal, kidnapping the governor's beautiful daughter Elizabeth. In a gallant attempt to rescue her and recapture the Black Pearl, Elizabeth's childhood friend Will Turner joins forces with Jack.What Will doesn't know is that a cursed treasure has doomed Barbossa and his crew to live forever as the undead.","release":"July 9, 2003","id":"4ba34c576fb3359e961b9666","slug":"pirates-of-the-caribbean-the-curse-of-the-black-pearl","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Pirates of the Caribbean: The Curse of the Black Pearl","poster":"http://cdnvideo.dolimg.com/cdn_assets/49ceb41768ec1dac5bc3c8c14ca4c53eb848c4d9.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/49ceb41768ec1dac5bc3c8c14ca4c53eb848c4d9.jpg","catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/49ceb41768ec1dac5bc3c8c14ca4c53eb848c4d9.jpg","description":"The roguish yet charming Captain Jack Sparrow's idyllic pirate life capsizes after his nemesis, the wily Captain Barbossa, steals his ship, the Black Pearl, and later attacks the town of Port Royal, kidnapping the governor's beautiful daughter Elizabeth. In a gallant attempt to rescue her and recapture the Black Pearl, Elizabeth's childhood friend Will Turner joins forces with Jack.What Will doesn't know is that a cursed treasure has doomed Barbossa and his crew to live forever as the undead.","short_desc":"The roguish yet charming Captain Jack Sparrow's idyllic pirate life capsizes after his nemesis, the wily Captain Barbossa, steals his ship, the Black Pearl, and later attacks the town of Port Royal, kidnapping the governor's beautiful daughter Elizabeth. In a gallant attempt to rescue her and recapture the Black Pearl, Elizabeth's childhood friend Will Turner joins forces with Jack.What Will doesn't know is that a cursed treasure has doomed Barbossa and his crew to live forever as the undead.","cta_button_title":"See More","type":"Movie","href":"http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl"},{"rating":"PG-13","year":null,"desc":"Just when he's needed most, Captain Jack Sparrow, that witty and wily charmer of a pirate, is trapped on a sea of sand in Davy Jones' Locker. In an increasingly shaky alliance, Will Turner, Elizabeth Swann and Captain Barbossa begin a desperate quest to find and rescue him. Captain Jack's the last of the nine Pirate Lords of the Brethren Court who must come together united in one last stand to preserve the freedom-loving pirates' way of life.","release":"May 25, 2007","id":"4ba34c571ff3959e961b9666","slug":"pirates-of-the-caribbean-at-worlds-end","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Pirates of the Caribbean: At World's End","poster":"http://cdnvideo.dolimg.com/cdn_assets/cfb174e15a419a470878716309034bb4896289cb.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/cfb174e15a419a470878716309034bb4896289cb.jpg","catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/cfb174e15a419a470878716309034bb4896289cb.jpg","description":"Just when he's needed most, Captain Jack Sparrow, that witty and wily charmer of a pirate, is trapped on a sea of sand in Davy Jones' Locker. In an increasingly shaky alliance, Will Turner, Elizabeth Swann and Captain Barbossa begin a desperate quest to find and rescue him. Captain Jack's the last of the nine Pirate Lords of the Brethren Court who must come together united in one last stand to preserve the freedom-loving pirates' way of life.","short_desc":"Just when he's needed most, Captain Jack Sparrow, that witty and wily charmer of a pirate, is trapped on a sea of sand in Davy Jones' Locker. In an increasingly shaky alliance, Will Turner, Elizabeth Swann and Captain Barbossa begin a desperate quest to find and rescue him. Captain Jack's the last of the nine Pirate Lords of the Brethren Court who must come together united in one last stand to preserve the freedom-loving pirates' way of life.","cta_button_title":"See More","type":"Movie","href":"http://pirates.disney.com/pirates-of-the-caribbean-at-worlds-end"},{"rating":"PG-13","year":null,"desc":"Pirates Of The Caribbean: On Stranger Tides is a tale of truth, betrayal, youth, demise - and mermaids! When Jack Sparrow crosses paths with a woman from his past, he's not sure if it's love, or if she's a ruthless con artist using him to find the fabled Fountain of Youth. Forced aboard the ship of the most feared pirate ever, Jack doesn't know who to fear more - Blackbeard or the woman from his past.","release":"May 20, 2011","id":"4ba34c572cab959e961b9666","slug":"pirates-of-the-caribbean-on-stranger-tides","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Pirates of the Caribbean: On Stranger Tides","poster":"http://cdnvideo.dolimg.com/cdn_assets/367ea5c5a033687b920d38aa2754c50f30a3ad58.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/367ea5c5a033687b920d38aa2754c50f30a3ad58.jpg","catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/367ea5c5a033687b920d38aa2754c50f30a3ad58.jpg","description":"Pirates Of The Caribbean: On Stranger Tides is a tale of truth, betrayal, youth, demise - and mermaids! When Jack Sparrow crosses paths with a woman from his past, he's not sure if it's love, or if she's a ruthless con artist using him to find the fabled Fountain of Youth. Forced aboard the ship of the most feared pirate ever, Jack doesn't know who to fear more - Blackbeard or the woman from his past.","short_desc":"Pirates Of The Caribbean: On Stranger Tides is a tale of truth, betrayal, youth, demise - and mermaids! When Jack Sparrow crosses paths with a woman from his past, he's not sure if it's love, or if she's a ruthless con artist using him to find the fabled Fountain of Youth. Forced aboard the ship of the most feared pirate ever, Jack doesn't know who to fear more - Blackbeard or the woman from his past.","cta_button_title":"See More","type":"Movie","href":"http://pirates.disney.com/pirates-of-the-caribbean-on-stranger-tides"},{"rating":"PG","year":null,"desc":"Ever since he was a boy, Gates has been obsessed with finding the legendary Knights Templar Treasure, the greatest fortune known to man. As Gates tries to find and decipher ancient riddles that will lead him to it, he's dogged by a ruthless enemy who wants the riches for himself. Now in a race against time, Gates must steal one of America's most sacred and guarded documents \u2013 the Declaration of Independence \u2013 or let it, and a key clue to the mystery, fall into dangerous hands.","release":"November 19, 2004","id":"4ba34c51254cf59e961b9666","slug":"national-treasure","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"National Treasure","tid":"4bd800644e40893a6ac45c67","ttitle":"National Treasure Trailer","tduration":"2:23","poster":"http://cdnvideo.dolimg.com/cdn_assets/42fdcc38b41972196ec758ebfcdb7e77a3c5569c.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/42fdcc38b41972196ec758ebfcdb7e77a3c5569c.jpg","catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/ce40f7684c808a6bcccafae47414aa4e02874467.jpg","thref":"http://video.disney.com/watch/national-treasure-trailer-4bd800644e40893a6ac45c67","tthumb":"http://cdnvideo.dolimg.com/cdn_assets/40616873874db162e32c231e0424bbe3b5169ab3.jpg","description":"Ever since he was a boy, Gates has been obsessed with finding the legendary Knights Templar Treasure, the greatest fortune known to man. As Gates tries to find and decipher ancient riddles that will lead him to it, he's dogged by a ruthless enemy who wants the riches for himself. Now in a race against time, Gates must steal one of America's most sacred and guarded documents \u2013 the Declaration of Independence \u2013 or let it, and a key clue to the mystery, fall into dangerous hands.","short_desc":"Treasure hunter, Ben Gates, sets out to recover a mysterious Revolutionary War chest, but unravels more than he bargained for.","cta_button_title":"See More","type":"Movie","href":"http://movies.disney.com/national-treasure"},{"rating":"PG","year":null,"desc":"In order to find the The Lost City of Gold, Ben Gates and his team must weave their way to the final clue in a mysterious and highly guarded book containing centuries of secrets. But there's only one way to find it \u2013 Ben Gates must kidnap the President.","release":"December 21, 2007","id":"4ba34c515bbf659e961b9666","slug":"national-treasure-book-of-secrets","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"National Treasure: Book of Secrets","poster":"http://cdnvideo.dolimg.com/cdn_assets/8f534046eb5cd3c9564092e68b7338f909e80061.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/8f534046eb5cd3c9564092e68b7338f909e80061.jpg","catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/e1f23627e1d856aabd5415d79037f0e7c9c5d52c.jpg","description":"In order to find the The Lost City of Gold, Ben Gates and his team must weave their way to the final clue in a mysterious and highly guarded book containing centuries of secrets. But there's only one way to find it \u2013 Ben Gates must kidnap the President.","short_desc":"Treasure hunter, Ben Gates, once again sets out on an exhilarating, action-packed, global quest to unearth hidden history.","cta_button_title":"See More","type":"Movie","href":"http://movies.disney.com/national-treasure-book-of-secrets"}],"header_data":{"title":"Recommended Movies"},"style":{"bg_color":"f0e3c1","auto_color_theme":"light","default_color_theme":"light","color_theme":"light","images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"}],"style":{"primary_theme":{"text_color":"#5a4d3d","header_color":"#331c00","link_color":null,"background_color":"#f0e3c1","theme_type":null,"text_lightness":"dark"},"secondary_theme":{"text_color":"#000000","header_color":"#000000","link_color":null,"background_color":"#000000","theme_type":null,"text_lightness":"light"},"icon_styles":{"top":"#a30b0d","bottom":"#691516"},"takeover_styles":{"local_chrome_color":"light","local_chrome_dark":false,"main_background_color":"#none","pushdown_safety_color":"#none","top_gradient":{"color":"#none","color_stop":"216px"}},"page_background_styles":{"bg_color":"#001b1e","footer_inverted":true,"footer_text_color":"light","pushdown_safety_color":"#003224","gradient":{"color":"#003224","stop1":"0%","stop2":"40px","stop3":"72%","stop4":"92%"}}},"adData":{"config":{"targeting":{"unit":"dol","siteSection":"pirates-of-the-caribbean-dead-mans-chest","contentType":"movie","pageName":"pirates-of-the-caribbean-dead-mans-chest","contentId":"4ba34c57257b159e961b9666","property":"pir","propertyId":"4b91e833bcc4a90a58b69196","actor":"","character":"","characterId":null,"keywords":null,"product":null,"movieGenre":"Action","movieRating":"PG-13","movieTitle":"Pirates of the Caribbean: Dead Man's Chest","gameGenre":null,"gameTitle":null,"gameType":null},"web":"/7046/dcom/pirates/pirates-of-the-caribbean-dead-mans-chest","mobile":"/7046/dcom-mobile/pirates/pirates-of-the-caribbean-dead-mans-chest"},"cds":0,"disableAds":false,"pda":true,"adSystem":"dfp","adTargeting":{"unit":"dol","siteSection":"pirates-of-the-caribbean-dead-mans-chest","contentType":"movie","pageName":"pirates-of-the-caribbean-dead-mans-chest","contentId":"4ba34c57257b159e961b9666","property":"pir","propertyId":"4b91e833bcc4a90a58b69196","actor":"","character":"","characterId":null,"keywords":null,"product":null,"movieGenre":"Action","movieRating":"PG-13","movieTitle":"Pirates of the Caribbean: Dead Man's Chest","gameGenre":null,"gameTitle":null,"gameType":null},"cmsIdKalturaMap":[{"description":"US","kaltura_act_id":"628012","cms_id":"604"}],"dfpAdRule":1},"market_code":"us","browser_warning":{"header":"We recommend you view this site in a newer web browser.","body":"Disney wants to bring you the best online experiences that use the latest technology. You may continue to the site, but we cannot guarantee that things will look and behave correctly.","continue_button":"Continue"},"age_gate_text":{},"optimizely":{},"global_chrome":{"background":"dark"},"branding":"Pirates of the Caribbean"}:(function(){var a=document.getElementsByTagName("html")[0];a.setAttribute("class",a.getAttribute("class")+" grill-error")})();</script>
+<!-- pageview_candidate comscorekw= -->
+</div>
+    </div>
+    <footer>
+      <h2 class="outline">Footer</h2>
+      <nav id="bottomnav">
+        <div class="mobile-home">
+          <h3><a href="/">Home</a></h3>
+        </div>
+        <ul class="cols-4"><li class="col item">
+          <h3><a href="/movies">Movies</a></h3>
+            <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl"  data-module-title="Movies">Pirates of the Caribbean: The Curse of the Black Pearl</a>
+            <a href="http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest"  data-module-title="Movies">Pirates of the Caribbean: Dead Man's Chest</a>
+            <a href="http://pirates.disney.com/pirates-of-the-caribbean-at-worlds-end"  data-module-title="Movies">Pirates of the Caribbean: At World's End</a>
+            <a href="http://pirates.disney.com/pirates-of-the-caribbean-on-stranger-tides"  data-module-title="Movies">Pirates of the Caribbean: On Stranger Tides</a>
+        </li><li class="col item">
+          <h3><a href="video">Videos</a></h3>
+            <a href="http://video.disney.com/watch/jack-s-escape-4be3871011f89a0e1266b068"  data-module-title="Videos">Jack's Escape</a>
+            <a href="http://video.disney.com/watch/someone-has-to-jump-4be3870b679c0a0e1266b068"  data-module-title="Videos">Someone Has to Jump</a>
+            <a href="http://video.disney.com/watch/pirates-of-the-caribbean-the-curse-of-the-black-pearl-4bcd1e927ad4e5d339e69f42"  data-module-title="Videos">Pirates of the Caribbean: The Curse of the Black Pearl</a>
+            <a href="http://video.disney.com/watch/pirates-of-the-caribbean-dead-man-s-chest-4bcc50dca8a9e22413f9939c"  data-module-title="Videos">Pirates of the Caribbean: Dead Man's Chest Trailer</a>
+            <a href="http://video.disney.com/watch/pirates-of-the-caribbean-at-world-s-end-trailer-4be1103c5c70e42f7f3ce022"  data-module-title="Videos">Pirates of the Caribbean: At World's End Trailer</a>
+        </li><li class="col item">
+          <h3><a href="/games-activities">Games</a></h3>
+            <a href="http://games.disney.com/whack-a-crab"  data-module-title="Games">Pirates of the Caribbean - Whack A Crab</a>
+            <a href="http://games.disney.com/warrrr"  data-module-title="Games">Pirates of the Caribbean - Warrrr</a>
+            <a href="http://games.disney.com/treacherous-waters"  data-module-title="Games">Pirates of the Caribbean - Treacherous Waters</a>
+            <a href="http://games.disney.com/rogue-s-battleship"  data-module-title="Games">Pirates of the Caribbean - Rogue's Battleship</a>
+            <a href="http://games.disney.com/pirates-vs-mermaids"  data-module-title="Games">Pirates of the Caribbean - Pirates vs. Mermaids</a>
+        </li><li class="col item">
+          <h3><a href="characters">Characters</a></h3>
+            <a href="http://pirates.disney.com/jack-sparrow"  data-module-title="Characters"> Jack Sparrow</a>
+            <a href="http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest/characters"  data-module-title="Characters">Davy Jones</a>
+            <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters"  data-module-title="Characters">Hector Barbossa</a>
+            <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters"  data-module-title="Characters">Will Turner</a>
+            <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters"  data-module-title="Characters">Elizabeth Swann</a>
+        </li></ul>
+      </nav>
+    
+      <section id="utility" class="">
+        <div class="divider">
+            <form class="search" action="http://search.disney.com/search" method="GET">
+              <input type="hidden" name="o" value="home">
+              <div class="search-field">
+                <input type="text" name="q" placeholder="Search" autocomplete="off" id="searchField_Footer">
+                <span class="search-icon"></span>
+              </div>
+            </form>
+        </div>
+      </section>
+    
+    
+    </footer>
+  </div>
+
+  
+  <div id="goc-ft">
+  <section id="help">
+    <h2 class="outline">Help</h2>
+    <div id="logo"></div>
+    <nav>
+      <h3 class="outline">About and Legal</h3>
+      <ul id="about">
+          <li><a target="" href="http://corporate.disney.go.com/index.html?ppLink=pp_wdig">About Disney</a></li>
+          <li><a target="" href="https://help.disney.com/">Disney Help</a></li>
+          <li><a target="" href="http://disneycareers.com/en/default/">Careers</a></li>
+          <li><a target="" href="http://disney.go.com/guestservices/">Contact Us</a></li>
+          <li><a target="" href="http://family.disney.com/">Family</a></li>
+          <li><a target="" href="http://www.babble.com/">Babble</a></li>
+      </ul>
+      <ul id="legal">
+          <li><a target="" href="http://disneytermsofuse.com">Terms of Use</a></li>
+          <li><a target="" href="http://disney.go.com/guestservices/legalnotices?ppLink=pp_wdig">Legal Notices</a></li>
+          <li><a target="" href="https://disneyprivacycenter.com/">Privacy Policy</a></li>
+          <li><a target="" href="https://disneyprivacycenter.com/notice-to-california-residents/">Your California Privacy Rights</a></li>
+          <li><a target="" href="https://disneyprivacycenter.com/kids-privacy-policy/english/">Children's Online Privacy Policy</a></li>
+          <li><a target="" href="http://disney.go.com/guestservices/disclaimers/redirect?destination=http://preferences.truste.com/2.0/?type=disneycolor&amp;affiliateId=115">Interest-Based Ads</a></li>
+      </ul>
+      <div id="copyright">
+        Â© Disney, All Rights Reserved, <span class="branding">Pirates of the Caribbean</span>
+      </div>
+    </nav>
+  </section>
+</div>
+</div>
+  <div id="browser_warning" class="modal-prompt-window">
+  <div class="modal-info">
+    <ul id="modal_message">
+      <h3 class="modal-title" style="text-align:left">We recommend you view this site in a newer web browser.</h3>
+      <p class="modal-content">Disney wants to bring you the best online experiences that use the latest technology. You may continue to the site, but we cannot guarantee that things will look and behave correctly.</p>
+      <div class="modal-accept">
+        <a id="modal_accept" class="button large blue"></a>
+      </div>
+    </ul>
+  </div>
+</div>
+<div class="modal-overlay"></div>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+Cache-Control: public, s-maxage=14400, max-age=120
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Date: Sat, 21 Feb 2015 00:12:54 GMT
+Etag: "1424473480-0+ident"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Fri, 20 Feb 2015 23:04:40 +0000
+Link: <http://www.billboard.com/node/5893869>; rel="shortlink",<http://www.billboard.com/articles/list/5893869/the-beatles-top-50-songs-biggest-billboard-hot-100-hits>; rel="canonical"
+Server: ECS (ewr/15BD)
+Vary: Accept-Encoding
+Via: 1.1 varnish
+X-Cache: HIT
+X-Cache-Hits: HIT (1)
+X-Debug-Cookies: 
+X-Debug-Log: Removed cookies
+X-Drupal-Cache: MISS
+X-Generator: Drupal 7 (http://drupal.org)
+X-NX-Host: www.billboard.com
+X-Varnish: 516089405 516071125
+Content-Length: 88268
+Connection: close
+

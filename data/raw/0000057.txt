@@ -1,0 +1,594 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><!-- InstanceBegin template="/Templates/articlePage.dwt.aspx" codeOutsideHTMLIsLocked="true" -->
+<head>
+<!-- InstanceParam name="sideMenu" type="boolean" value="true" --><!-- InstanceParam name="adBarMain" type="boolean" value="true" --><!-- InstanceParam name="adBarSecondary" type="boolean" value="true" --><!-- InstanceBeginEditable name="doctitle" -->
+<title id="TitleID">The Truth, Dan Brown, and The Da Vinci Code</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="keywords" -->
+<meta name="keywords" content="The Da Vinci Code, Dan Brown, Richard Abanes, Pagan, Paganism, Satan, Satanism, Jesus Christ, Jesus, Christian, history, Holy Grail, Mary Magdalene, Bible, Scripture">
+<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="description" -->
+<meta name="description" content="The Da Vinci Code by Dan Brown is one of the most intriguing, yet disturbing, books to ever hit bestseller lists. Unfortunately, it basically condemns Christianity as nothing less than a wicked fraud. ">
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="articleTitle" -->
+<meta name="articleTitle" content="Pagan Da Vinci">
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="articleImage" -->
+<meta name="articleImage" content="/special/DaVinciCode/images/Book_TheGospelCode_MD.jpg">
+<!-- InstanceEndEditable -->
+<!-- Template Parameters Driving Content -->
+<!-- InstanceParam name="docHeading" type="boolean" value="true" -->
+<!-- InstanceParam name="docAuthor" type="boolean" value="true" -->
+<!-- InstanceParam name="docDate" type="boolean" value="false" -->
+<!-- InstanceParam name="sidebar" type="boolean" value="true" -->
+<!-- InstanceParam name="contentBottom" type="boolean" value="true" -->
+<!-- InstanceParam name="sidebarWatchNow" type="boolean" value="false" -->
+<!-- Template Parameters Driving Video Link -->
+<!-- InstanceParam name="streamTitle" type="text" value="CBN Newswatch" -->
+<!-- InstanceParam name="streamSource" type="text" value="newswatch" -->
+<!-- InstanceParam name="streamProgram" type="text" value="newswatch" -->
+<!-- InstanceParam name="streamSegment" type="text" value="" -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<meta id="WTsv" name="WT.sv" content="NV254"></meta>
+
+
+<link href="/noindex/template/layout.css" rel="stylesheet" type="text/css" />
+<link href="/noindex/template/touts.css" rel="stylesheet" type="text/css" />
+<link href="/noindex/template/styles.css" rel="stylesheet" type="text/css" />
+<link href="/Global/App_Themes/Social/Dashboard.css" rel="stylesheet" type="text/css" />
+<link href="/Global/App_Themes/Default/jquery.pager.css" rel="stylesheet" type="text/css" />
+<link href="/Global/App_Themes/Default/comments.css" rel="stylesheet" type="text/css" />
+<!-- special ... -1 -->
+<script language=javascript>
+// default all ad positions
+bPosition_Right = false; bPosition_Right1 = false; bPosition_Top = false; bPosition_Top1 = false; bPosition_Left = false; bPosition_Bottom = false; bPosition_Bottom1 = false; bPosition_PreRoll = false; bPosition_PreRollCompanion = false; iAdsToShow = 0; iAdsShown = 0;	
+</script>
+
+<script language="javascript" type="text/javascript" src="http://cdn.cbn.com/Scripts/jquery-1.3.2.min.js"></script>
+<script language="javascript" type="text/javascript" src="http://cdn.cbn.com/Scripts/jquery-ui-1.7.2.custom.min.js"></script>
+<script language="javascript" type="text/javascript" src="http://cdn.cbn.com/scripts/ui/ui.core.js"></script>
+<script language="javascript" type="text/javascript" src="http://cdn.cbn.com/scripts/ui/ui.tabs.js"></script>
+<script language="javascript" type="text/javascript" src="http://cdn.cbn.com/scripts/jquery.slider.js"></script>
+<script language="javascript" type="text/javascript" src="http://cdn.cbn.com/scripts/jquery.jswipe.js"></script>
+<script language="javascript" type="text/javascript" src="/Global/Scripts/jQuery/jquery.pager.js"></script>
+<script language="javascript" type="text/javascript" src="/noindex/template/jquery.js"></script>
+<script language="javascript" type="text/JavaScript" src="/templates/common/javascripts.js"></script>
+<script language="javascript" type="text/JavaScript" src="http://cdn.cbn.com/scripts/swfobject.js"></script>
+<script language="javascript" type="text/javascript" src="/scripts/mbox.js"></script>       
+<script language="javascript" type="text/javascript" src="/Global/Scripts/Dashboard.js"></script>
+<script language="javascript" type="text/javascript" src="/Global/Scripts/comments.js"></script>
+<script language="javascript" type="text/javascript" src="/Global/Scripts/login.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+
+
+<link rel="stylesheet" type="text/css" href="/scripts/biblereferencer/styles.css" />
+<script language="javascript" type="text/javascript" src="/scripts/biblereferencer/jquery.biblereferencer.js"></script>
+<script>
+    $(document).ready(function (e) {
+        setTimeout(function () {
+            $(".centerTD p, #centerTD p, #contentArea p,.centerTD blockquotes, #centerTD blockquotes, #contentArea blockquotes").biblereferencer();
+        }, 500);
+        $(document).trigger('CORE:HAS_INITIALIZED');
+    });
+    $(window).resize(function () {
+        $(document).trigger('CORE:HAS_RESIZED');
+    });
+</script>
+</script>
+</head>
+<body id="BodyID">
+
+<!--[if lte IE 6]><script src="/scripts/ie6/warning.js"></script><script>window.onload=function(){e("/scripts/ie6/")}</script><![endif]-->
+<a name="top" style="clear:both;"></a>
+<!--//#include virtual="/noindex/special/inc_ChristmasWrapper.html" -->
+<div id="wrapper">
+	<div id="utilityNav">
+			<ul>
+				<li><a class="menuItem" href="/partners/about/our-ministries/">CBN'S MINISTRIES</a></li>
+				<li><a class="menuItem" href="/giving/700club/option.aspx?m=GVSL0004&intcmp=GVSL0004_special">Give To CBN</a></li>
+				<li><a class="menuItem" href="/partners/">Partners</a></li>
+				<li><a class="menuItem" href="/employment/index.aspx">Jobs</a></li>
+				<li id="myCBN">				
+					<span>
+						<a href='http://my.cbn.com/' id = 'cbnLoginLink'>Log In</a> or <a href='http://my.cbn.com/' id = 'cbnSignUpLink'>Sign Up</a></span>
+
+					
+				</li>
+				<li id="search">
+				<input id="txtSearch" type="text" class="text" name="q" maxlength="256" /><input type="button" id="btnGo" class="button smallBlueButton" value="Search" onclick="googleSearch(this)" />
+
+				</li>
+			</ul>
+</div>
+<a href="/index.aspx" id="logoLink"><h1>The Christian Broadcasting Network</h1></a>
+	<div id="ad_lb_top">
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+  	if (typeof(bPosition_Top) == "undefined") {
+  		bPosition_Top = false;
+  	}
+  	if (typeof (bPosition_Top1) == "undefined") {
+  		bPosition_Top1 = false;
+  	}
+  	if (!bPosition_Top) {
+  		document.write(' <div style="visibility: hidden; display: none;">');
+  	} else {
+  	document.write('<div id="advertising_banner_top">');
+  	}
+//-->
+</SCRIPT>	
+<table cellpadding=0 cellspacing=0 border=0 width="100%">
+	<tr valign=middle>
+		<td align=center>
+			<!------ OAS AD 'Top' begin ------>
+			<SCRIPT LANGUAGE=JavaScript>
+			<!--
+				if (bPosition_Top) {
+					iAdsShown++;
+					document.write("<div style='padding: 0px; margin: 0px; width: 728px;'>");
+					OAS_AD('Top');
+					sFeedbackText = '<div class="advertising_feedback_text" style="float:right"><a href="/contact/feedback-ads.aspx">Ad Feedback</a></div>';
+					document.write(sFeedbackText);
+				}
+			//-->
+			</SCRIPT>
+			<!------ OAS AD 'Top' end ------>
+		</td>
+	</tr>
+</table>
+</div></div>		
+		<div id="nav">
+			<ul>
+				<li class="menuItemBlock"><a class="menuItem" href="/700club">The 700 Club</a></li><li class="menuItemBlock"><a class="menuItem" href="/news">CBN News</a></li><li class="menuItemBlock"><a class="menuItem" href="http://event.cbn.com/700clubinteractive/">700 Club Interactive</a></li><li class="menuItemBlock"><a class="menuItem" href="http://bible.cbn.com/">Bible</a></li><li class="menuItemBlock"><a class="menuItem" href="/spirituallife/PrayerAndCounseling/">Prayer</a></li><li class="menuItemBlock"><a class="menuItem" href="/radio">Radio</a></li><li class="menuItemBlock"><a class="menuItem" href="/media/player/browse.aspx">Video</a></li><li class="menuItemBlock"><a class="menuItem" href="/media/player/?s=cbnlive-1">Live TV</a></li><li class="menuItemBlock" id="topMenu-AboutCBN" ><a class="menuItem" href="/partners/about/?intcmp=GVSL0410">Our Ministries</a></li><li class="menuItemBlock" id="giveTest"><a class="menuItem" href="https://www.cbn.com/giving/700club/option.aspx?intcmp=GVSL0005_special">Give to CBN</a></li>
+			</ul>
+		</div>
+		<div id="subnav">
+			<ul>
+				<li class="menuItemBlock" id="spirituallife"><a class="menuItem" href="/spirituallife/">Spiritual Life</a></li>
+				<li class="menuItemBlock" id="family"><a class="menuItem" href="/family/">Family</a></li>
+				<li class="menuItemBlock" id="kids"><a href="http://superbook.tv/" target="_new" class="menuItem">Kids</a></li>
+				<li class="menuItemBlock" id="health"><a class="menuItem" href="/finance/">Finance</a></li>
+				<li class="menuItemBlock" id="finance"><a class="menuItem" href="/health/">Health</a></li>
+				<li class="menuItemBlock" id="entertainment"><a class="menuItem" href="/entertainment/">Entertainment</a></li>
+				<li class="menuItemBlock divider">|</li>
+				
+				<li class="menuItemBlock interactive"><a class="menuItem" href="/mobile/">Mobile &amp; Apps</a></li>
+				<li class="menuItemBlock interactive"><a class="menuItem" href="http://www.cbn.com/community/af/emailpreferences.aspx?intcmp=TNEM0001_community">Email</a></li>
+				<li class="menuItemBlock interactive"><a class="menuItem" href="/communitypublic/interactiveblogs.aspx">Blogs</a></li>
+				<li class="menuItemBlock interactive"><a class="menuItem" href="http://my.cbn.com/">MyCBN</a></li>
+				<li class="menuItemBlock interactive"><a class="menuItem" href="http://shop.cbn.com">Shop CBN</a></li>
+				<li class="menuItemBlock interactive"><a href="/social_networks.aspx" class="menuItem">Social</a></li>
+				<li class="menuItemBlock interactive"><a class="menuItem" href="/superbook">Superbook</a></li>
+			</ul>
+</div>
+		
+		
+				
+		<div id="copy">
+		<form name="Form1" method="post" action="abanes_truth-danbrown.aspx" id="Form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIwNzkwNTk5NjRkZJ9pqjfriQMK+Pk41w3J31Zfr20y" />
+</div>
+
+<table width="100%" border="0" cellspacing="20" cellpadding="0">
+	<tr>
+		<td width="1" class="leftMenu">
+			
+				<div id="sectionNav">
+<h3 class="top">Explore</h3>
+<ul>
+  <li><a href="/about/">Mission & History</a></li>
+  <li><a href="/partners/about/our-ministries/">Our Ministries</a></li>
+  <li><a href="/partners/about/where-we-work/">Where We Work</a></li>
+  <li><a href="/partners/about/how-you-can-help/">How You Can Help</a></li>
+  <li><a href="/contact/feedback.aspx">Contact CBN</a></li>
+  <li><a href="/employment/">Employment</a></li>
+  <li><a href="/about/bios/">Staff Bios</a></li>
+  <li><a href="/about/visit/">Visit CBN</a>  </li>
+</ul>
+<h3>Website</h3>
+<ul>
+  <li><a href="/about/copyright/">Copyright Info</a></li>
+  <li><a href="/about/privacy_notice.aspx">Privacy Notice</a></li>
+  <li><a href="/about/LinkToCBNDirections.aspx">Link to CBN.com</a></li>
+  <li><a href="/about/make_cbn_your_homepage.aspx">Set Homepage</a></li>
+</ul>
+</div>
+<br />
+
+<div id="advertising_banner_sky" style="text-align:center; width: 160px; margin-top:10px; margin-bottom:0px; padding-bottom: 0px; ">
+<center>
+<div style="padding: 0px; margin: 0px; width:160px">
+	<!------ OAS AD 'Left' begin ------>
+	<script language=JavaScript>
+	<!--
+	if (typeof(bPosition_Left) == "undefined") {
+		bPosition_Left = false;
+	}
+	if (bPosition_Left) {
+		iAdsShown++;
+		OAS_AD('Left');
+		sFeedbackText = '<div class="advertising_feedback_text"><a href="/contact/feedback-ads.aspx">Ad Feedback</a></div>';
+		document.write(sFeedbackText);
+	}
+	//-->
+	</script>
+	<!------ OAS AD 'Left' end ------>
+</div>
+</center>
+</div>
+
+			
+			<!-- InstanceBeginEditable name="leftnavContent" --><img src="/templates/images/spacer.gif" width="75" height="1"><br>
+			<!-- InstanceEndEditable -->		</td>
+		<td>
+		
+        <table width="200" border="0" align="right" cellpadding="10" cellspacing="0">
+        	<tr>
+        		<td>
+        			<div align="center"><!-- InstanceBeginEditable name="sidebarImage" --><img height=109 
+								src="/special/DaVinciCode/images/Book_TruthBehindDaVinciCode_MD.jpg" 
+								width=143 border=0><!-- InstanceEndEditable --></div></td>
+        		</tr>
+        	
+        	<tr>
+        		<td>
+        			<!-- InstanceBeginRepeat name="sidebarItems" --><!-- InstanceBeginRepeatEntry -->
+        			<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+                    	<tr>
+                    		<td class="sectionHeader"><!-- InstanceBeginEditable name="sidebarHeading" -->More on <em>The Da Vinci Code </em><!-- InstanceEndEditable --></td>
+               		  </tr>
+                    	<tr>
+                    		<td class="sectionBlock"><!-- InstanceBeginEditable name="sidebarContent" -->
+                    		  <p><a href="/special/DaVinciCode/"> <em>The Da Vinci Code</em>: A Biblical Response</a></p>
+                    		  <p>Related article: <a href="/entertainment/books/carpenter_abanes_davincicode.aspx">The Truth Behind <em>The Da Vinci Code</em></a></p>
+                    		  <!-- InstanceEndEditable --></td>
+               		  </tr>
+                    	<tr>
+                    		<td>&nbsp;</td>
+               		  </tr>
+                   	</table>
+        			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
+        			<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+                    	<tr>
+                    		<td class="sectionHeader"><!-- InstanceBeginEditable name="sidebarHeading" -->Recommended Reading <!-- InstanceEndEditable --></td>
+               		  </tr>
+                    	<tr>
+                    		<td class="sectionBlock"><!-- InstanceBeginEditable name="sidebarContent" -->
+                    		    <p><em><a href="/redir/par_TruthBehindDaVinciCode.aspx">The Truth Behind the Da Vinci Code</a> </em>by Richard Abanes</p>
+                    		    <p><em><a href="/redir/par_DaVinciDeception.aspx">The Da Vinci Deception</a></em> by Erwin W. Lutzer </p>
+                    		<!-- InstanceEndEditable --></td>
+               		  </tr>
+                    	<tr>
+                    		<td>&nbsp;</td>
+               		  </tr>
+                   	</table>
+        			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --></td>
+        		</tr>
+        	</table>
+		
+		
+		<h6><!-- #BeginEditable "heading" -->A biblical response <!-- #EndEditable --></h6>
+		
+		<h1><!-- #BeginEditable "title" -->The Truth, Dan Brown, and <em>The Da Vinci Code</em><!-- #EndEditable --></h1>
+		
+		<h5><!-- #BeginEditable "author" -->By Richard Abanes<i><br>
+		    Author of The Truth Behind the Da Vinci Code <br>
+                	</i><!-- #EndEditable --></h5>
+		
+		<br>
+		<!-- #BeginEditable "body" --> 
+              <p><span class=source><a href="http://www.cbn.com">CBN.com</a> &#150;</span> <em>The Da Vinci Code</em> by Dan Brown is one of the most intriguing,  yet disturbing, books to ever hit 
+bestseller lists. It has entertained millions of fiction  fans and will probably continue to do so thanks to director Ron Howard's motion picture adaptation of  it starring Tom Hanks. </p>
+              <p>Unfortunately, the saga boldly attacks Christian beliefs  relating to the reliability of Scripture, the deity of Christ, the organization of the early church, and  the activities of church leaders during Christianity's formative years. It basically condemns the  entire faith as nothing less than a wicked fraud. As one book reviewer put it, <em>The  Da Vinci Code</em> promotes &quot;the gleefully heretical notion that the entirety  of Judeo-Christian culture is founded on a misogynist [woman-hating] lie.&quot;  Or as the novel itself reads, &quot;Almost everything our fathers taught us  about Christ is false&quot; (p. 235). </p>
+              <p>According to <em>The Da Vinci Code</em>, true Christianity was started  by a Jesus Christ whom others viewed as just another prophet. He allegedly made  no claims of divinity. Moreover, he was married, and his wife was none other  than Mary Magdalene, who not only bore his child, but who also was handpicked  by him to lead the church. This plan, however, fell through after<br>
+                  Christ's death because the other apostles, especially Peter,  were enraged about Mary being Christ's successor. So she fled in fear of her  life to France,  where she raised Christ's daughter. There, so the story goes, Christ's lineage intermarried  with French royalty, thereby creating the Merovingian bloodline of kings.</p>
+              <p>Virtually everyone knew this &quot;truth&quot; during Christianity's  earliest years, says Brown's book. But 
+                  then, by recasting Mary &quot;as a whore in order to erase evidence  of her powerful family ties,&quot; male church leaders were able to begin  &quot;the greatest cover-up in human history.&quot; These religious villains  also changed the originally pagan, goddess-worshiping church into a  Jesus-worshiping, power-crazed den of evildoers who perverted Christ's  teachings to further their own political agenda.</p>
+              <p>In <em>The Da Vinci Code</em>, we also learn that Mary Magdalene's  story would have been lost forever had it not been for her protectors. They  chronicled Mary's life, and even catalogued her descendants. Nevertheless, the  Church relentlessly sought to annihilate all documents relating to her identity  and &quot;her family's rightful claim to power.&quot; This ongoing attempt by  Roman Catholic authorities to eradicate all evidence of &quot;the true story of  her life&quot; went on for centuries. </p>
+              <p>The Church's diabolical plot failed, however, because a  group of truth-honoring knights stepped into the conflict. These warriors  &quot;known collectively as the Knights Templar&quot; were organized by a  brotherhood called the Priory of Sion, a secret group allegedly founded in 1099  by the French king Godefroi de Bouillon. He was a descendant of Jesus and Mary,  who according to <em>The Da Vinci Code</em>, formed the Priory so the truth would be  protected and passed on to future generations.</p>
+              <p>Who were the members of the Priory of Sion? This is where  Leonardo da Vinci comes into the picture. He and Sir Isaac Newton, along with  the Italian painter Botticelli, the French author Victor Hugo, and many other  historical figures, were all supposedly Grand Masters of the Priory. For proof  of Leonardo's involvement, Brown says that one need only look at some of the  artist's most famous paintings. They supposedly contain symbols and codes that  reflect Leonardo's own worship of the sacred feminine (or the goddess), his disdain  for traditional Christianity, and the truth about Mary Magdalene. </p>
+              <p>It is difficult to know where to begin dissecting <em>The Da  Vinci Code</em>. Brown's story is little more than a well- crafted, cleverly written  454-page diatribe against Christianity, especially its Roman Catholic sector.  Equally troubling is the way that he, his publisher, and the media have  presented <em>The Da Vinci Code</em> as a &quot;fact-based&quot; expose wherein the  characters reveal truths long hidden from, or at the very least ignored by, the  general public. To use the author's own words, &quot;When you finish the book,  like it or not, you've learned a ton.&quot; Nearly every reviewer has parroted  this line, which is not surprising since the book itself, on the very first  page, reads: &quot;FACT:... All descriptions of artwork, architecture,  documents, and secret rituals in this novel are accurate.&quot;</p>
+              <p>The truth, however, is that Brown's story has very little to  do with truth. Instead, errors abound in <em>The Da Vinci Code</em> and not just about  Christianity either, but also about the Knights Templar, Medieval witch hunts,  pagan symbolism, the Dead Sea Scrolls, the Gnostic gospels, and the works of  Leonardo Da Vinci. Brown does not even get right the number of glass panes in  the Louvre Museum's pyramid (there were 673 panes not 666) or the origins of  the Olympic games in ancient Greece (he claims they were based on an eight-year  cycle in honor of Venus, when in reality, they ran on a four-year cycle in  honor of Zeus). </p>
+              <p>Such mistakes illustrate the book's main weakness: its lack  of accuracy and misrepresentations of history. In other words, beyond the issue  of whether or not Christianity is true, readers must also ask themselves several  questions that are far more basic to the story:</p>
+              <ul>
+                  <li> Does it correctly present historical events? <br>
+                </li>
+                  <li>Does it properly interpret classic works of art? <br>
+                </li>
+                  <li>Does it accurately represent Christian teachings?</li>
+              </ul>
+              <p>Ultimately, the facts will speak for themselves.</p>
+              <p>More from <a href="/special/DaVinciCode/">The Da Vinci Code: A Biblical Response</a></p>
+              <p>Order your copy of <em><a href="/redir/par_TruthBehindDaVinciCode.aspx">The Truth Behind the Da Vinci Code</a> </em>by Richard Abanes</p>
+              <p>Related article: <a href="/entertainment/books/carpenter_abanes_davincicode.aspx">The Truth Behind the Da Vinci Code</a></p>
+              <p><a href="http://en.wikipedia.org/wiki/Richard_Abanes">More from Richard Abanes </a></p>
+              <hr>
+              <p>Richard Abanes is an author and speaker whose ministry focuses on combating cults and false teaching. He formerly worked with the Christian Research Institute. He has also ministered at Saddleback Church and performed in several major musicals. His works oppose not only cults, but also extreme forms of Christianity such as end-time fanaticism, militia movements, and conspiracy theory. His books include: <em><a href="http://www.parable.com/cbn/item_0736914390.htm">The Truth Behind The Da Vinci Code</a></em>; <a href="http://www.parable.com/cbn/item_0875099750.htm"><em>Fantasy and Your Family</em></a>;<em><a href="http://www.parable.com/cbn/item_0736917004.htm"> Harry Potter, Narnia, and the Lord of the Rings: What   You Need to Know about Fantasy Books and Movies</a>; <a href="http://www.amazon.com/gp/product/0801057825/sr=8-12/qid=1144340076/ref=sr_1_12/103-3059073-2370266?%5Fencoding=UTF8">Defending the Faith</a>;</em> <a href="http://www.parable.com/cbn/item_0805419659.htm"><em>End-Time Visions</em></a>; <a href="http://www.parable.com/cbn/item_1568582838.htm"><em>One Nation Under Gods</em></a>; <a href="http://www.parable.com/cbn/item_0736917381.htm"><em>Rick Warren and the Purpose that Drives Him</em></a>; and <a href="http://www.parable.com/cbn/item_0736913556.htm"><em>Becoming Gods</em></a>.</p>
+              <p>&nbsp;</p>
+              <!-- #EndEditable -->
+		  
+<style type="text/css">
+<!--
+-->
+</style>
+
+
+<div class="clear">
+	<ul class="articleTools">
+		<li><a class="iconButtonSmall translate" href="javascript:toggleBox('babelfish',1);"><span>Translate</span></a>
+			<div align="center" id="babelfish" style="visibility:hidden; position:absolute; padding: 15px 15px 15px 15px; background-color:#edf1fa; ">
+				<script language="JavaScript1.2" src="http://www.altavista.com/static/scripts/translate_engl.js"></script><br />
+				<span class="caption"><a href="javascript:toggleBox('babelfish',0);">Close</a></span>
+			</div>
+		</li>
+		<li>
+			<a class="iconButtonSmall print" href="/special/davincicode/abanes_truth-danbrown.aspx?option=print"><span>Print Page</span></a>
+		</li>
+		<li><a class="iconButtonSmall email" href="javascript:sendtofriendPop('/special/davincicode/abanes_truth-danbrown.aspx')"><span>Email to a Friend</span></a></li>
+		<li><!-- ADDTHIS BUTTON BEGIN -->
+<a class="iconButtonSmall share" href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', addthis_url, '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><span>Share With A Friend</span></a>
+<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+<script type="text/javascript">
+	addthis_pub = 'cbndigitalmedia';
+	addthis_logo = 'http://www.cbn.com/templates/images/cbn_com_logo.jpg';
+	addthis_logo_background = 'fdf0c4';
+	addthis_logo_color = '623300';
+	addthis_brand = 'CBN.com';
+	addthis_options = 'favorites, facebook, twitter, more';
+	addthis_test0309 = false;
+	// has a url been specified?
+	if ((typeof(addthis_url) == "undefined") || (addthis_url == "")) {
+		// current pagename without any parameters	
+		addthis_url = window.location.href.substr(0, (window.location.href.indexOf("?")<0)?window.location.href.length:window.location.href.indexOf("?"));
+	}
+</script>
+<!-- ADDTHIS BUTTON END --></li>
+	</ul>
+</div>
+
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>
+  FB.init({
+    appId  : 'YOUR APP ID',
+    status : true, // check login status
+    cookie : true, // enable cookies to allow the server to access the session
+    xfbml  : true, // parse XFBML
+    channelURL : 'http://WWW.MYDOMAIN.COM/channel.html', // channel.html file
+    oauth  : true // enable OAuth 2.0
+  });
+</script>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<div id="fb-root"></div>
+<script>(function(d){
+  var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+  js = d.createElement('script'); js.id = id; js.async = true;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=119038841522128&xfbml=1";
+  d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+</script>
+<script>
+var shareBlock = '';
+	shareBlock += '<div id="shareBlock" style="height:75px;">';
+	shareBlock += '<table cellspacing="10" cellpadding="0" border="0" style="margin-bottom:20px;"><tr>';
+	shareBlock += '<td style="vertical-align:top"><fb:like send="false" layout="box_count" show_faces="false"></fb:like></td>';
+	shareBlock += '<td style="vertical-align:top; width:55px;"><g:plusone size="tall"></g:plusone></td>';
+	shareBlock += '<td style="vertical-align:top; width:65px;"><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical">Tweet</a></td>';
+	//shareBlock += '<td style="vertical-align:bottom"><a href="javascript:sendtofriendPop(\''+document.location+'\')"><img src="/media/player/img/btn_email.gif" alt="Email" border="0" height="20" width="59"></a></td>';
+	shareBlock += '</tr></table>';
+	shareBlock += '</div>';
+$(document).ready(function(){
+	$("td.centerTD>h5:first").after(shareBlock);
+	$("#centerTD>h5:first").after(shareBlock);
+	$("#contentArea>h5:first").after(shareBlock);
+	//$("img#articleImage, div#movieImage, td.centerTD table:first img:first").after('<div style="width:150px; margin:0px auto 1em;"><fb:like layout="button_count" show_faces="false" width="150" action="recommend" style="margin-top:1em;"></fb:like></div>');
+});
+</script>
+<br clear="all">
+<hr size=1>
+<div align="center" clear="all"><span class="alert"><strong>CBN IS HERE FOR YOU!</strong></span><br />
+	<b>Are you seeking answers in life? Are you hurting? <br />
+	Are you facing a difficult situation?</b> 
+</div>
+<ul>
+	<li><a href="/spirituallife/BibleStudyAndTheology/Discipleship/Steps_to_Peace_With_God.aspx?intcmp=EVAN0003">Find your way to peace with God</a></li>
+	<li><a href="/SpiritualLife/prayerandcounseling/">Send us your prayer request online</a></li>
+
+	<li><a href="/spirituallife/PrayerAndCounseling/PCC/index.aspx">Call The 700 Club Prayer Center</a> at <strong>1&nbsp;(800)&nbsp;823-6053</strong>, 24 hours a day. </li>
+</ul>
+<p align="center"> A caring friend will be there to pray with you in your time of need.</p>
+		</td>
+		<td width="1">
+			
+				<TABLE width="140" border="0" cellspacing="0" cellpadding="0" id="Table1">
+	<TR valign="top">
+		<TD class="sectionBlock"><p class="caption" align="center"><a href="/giving/700club/option.asp?o=1&amp;m=giveRightNav" class="caption"><img src="/images/ad_givetocbn.gif" alt="Become a CBN Partner Today" width="120" height="60" border="0" /> <br />
+		  Pledge Express</a><br />
+  <a href="/giving/700club/option.asp?o=1&amp;m=premiumRightNav"><img src="/images3/premiums/EmpoweredBeliever_Product_SM.jpg" width="100" height="100" vspace="5" border="0" /></a><br />
+  <strong><a href="/giving/700club/option.asp?o=1&amp;m=partnerRightNav">Become A<br />
+    CBN Partner</a> </strong>and receive 
+		  Pat's 
+		  DVD teaching: <a href="/premiums/empoweredBeliever/">The Empowered Believer </a></p>
+		  <p class="caption" align="center"><a href="/Premiums/pledgeExpress.aspx"><img src="/images3/premiums/FB2_Product_SM.jpg" width="100" height="100" border="0" /></a><br />
+            <a href="/Premiums/pledgeExpress.aspx">Financial Boot Camp II</a></p>
+		  <P align="center"><STRONG><A href="/partners/">CBN Partners</A></STRONG><BR />
+		  See how you can make a difference everyday</P>
+			<P align="center" class="caption"><a href="/shop/cbn/"><img src="/images/shop/cbn/Shop_adbar-sale.jpg" alt="Shop CBN" width="120" height="160" border="0" /></a></P>	  </TD>
+	</TR>
+</TABLE>
+<TABLE width="140" border="0" cellspacing="0" cellpadding="0" id="Table1">
+  <TR valign="top">
+    <TD class="sectionBlock"><p align="center" class="caption"><a href="/700club/features/skinnywed/"><img src="/images3/ad_skinnywed.jpg" width="120" height="60" border="0" /></a></p>
+      <p align="center" class="caption"><strong><font color="#CC0000">- CALL TO ACTION -</font></strong></p>
+      <ul class="caption">
+        <li> <a href="/special/marriageamendment/">Protect the Sanctity of Marriage</a></li>
+        <li> <a href="/special/supremecourt/prayerpledge.asp">Operation Supreme Court Freedom </a> </li>
+        <li> <a href="/special/pledgeofallegiance/merch.asp">Support the 
+          Pledge of Allegiance</a></li>
+        <li> <a href="/communitypublic/backiraq180/">Pray for our Troops</a></li>
+        <li> <a href="/700club/features/contact_congress.asp">Contact Congress</a></li>
+      </ul>
+      <P align="center"><A href="/dailylife/career/"><IMG src="/images3/ad_career-wantMore.jpg" alt="Hate Your Job?  Let Dan Miller help." width="120" height="60" border="0"></A></P>
+    </TD>
+  </TR>
+</TABLE>
+
+		</td>
+	</tr>
+</table>
+</form>
+
+   	</div>
+</div>
+<div id="footer">
+	<div id="footerContent">
+		<img id="footerBanner" src="/images/template/footer-imageMap.jpg" width="1060" height="215" border="0" usemap="#Map" />
+		<map name="Map" id="Map">
+			<area shape="rect" coords="0,0,265,145" href="/CBNTelevision.aspx" />
+			<area shape="rect" coords="270,0,527,145" href="http://www.cbn.com/partners/about/our-ministries/" />
+			<area shape="rect" coords="534,1,790,146" href="http://my.cbn.com/" />
+			<area shape="rect" coords="800,1,1055,146" href="http://shop.cbn.com/cbn/" />
+			<area shape="rect" coords="950,168,1041,196" href="/communitypublic/interactiveblogs.aspx" />
+			<area shape="rect" coords="804,169,923,196" href="/podcast/" />
+			<area shape="rect" coords="454,168,533,195" href="/rss.aspx " />
+			<area shape="rect" coords="317,168,436,195" href="http://my.cbn.com/" />
+			<area shape="rect" coords="176,168,295,195" href="https://twitter.com/700club" target="_blank" />
+			<area shape="rect" coords="29,168,148,195" href="http://www.facebook.com/700club" target="_blank" />
+		</map>
+		<div style="width:550px; padding:25px; float:left; overflow:hidden;">
+	    <h2>About CBN</h2>
+			<p class="noMargin">CBN is a global ministry committed to preparing the nations of the world for the coming of Jesus Christ through mass media. Using television and the Internet, CBN is proclaiming the Good News in <strong>147 countries and territories</strong>, with programs and content in <strong>62 languages</strong>.
+			<ul class="horizontalList">
+				<li><a href="/partners/about/our-ministries/">Our Ministries</a></li>
+				<li><a href="/partners/about/where-we-work/">Where We Work</a></li>
+				<li><a href="/partners/about/how-you-can-help/">How You Can Help</a></li>
+<!--
+				<li><a href="/about/mission/Statement_Of_Faith.aspx">Statement of Faith</a></li>
+				<li><a href="/about/mission/Mission_Statement.aspx">Mission Statement</a></li>
+-->
+				<li><a href="/about/index.aspx">Mission & History</a></li>
+				<li><a href="/special/50years/">The First 50 Years of CBN</a></li>
+				<li><a href="/about/visit/index.aspx">Visit CBN</a></li>
+				<li><a href="/employment/index.aspx">Job Opportunities</a></li>
+				<li><a href="http://www.regent.edu" target="_blank">Regent University</a></li>
+			    <li><a href="/about/annualreports/index14.aspx">Financial Statements</a></li>
+			</ul>
+			<h2>Contact/Help</h2>
+			<ul class="horizontalList">
+				<li><a href="/contact/feedback.aspx">Contact Us</a></li>
+				<li><a href="/spirituallife/PrayerAndCounseling/">Prayer &amp; Counseling</a></li>
+				<li><a href="/spirituallife/PrayerAndCounseling/">Call for Prayer: (800) 823-6053 </a></li>
+				<li><a href="/contact/feedback-advertise-with-cbn.aspx">Advertise with Us</a></li>
+
+				
+			</ul>
+		</div>
+		<div style="float:right; width:390px; padding:25px; overflow:hidden;">
+			<div class="fadeUp">
+				<h2>Get Involved</h2>
+				<ul class="horizontalList">
+					<li><a href="/giving/700club/option.aspx?o=1&amp;m=GVSL0009&amp;intcmp=GVSL0009_special">Give to CBN</a></li>
+					<li><a href="/giving/livingtributes/index.aspx">Memorial &amp; Tribute Gifts</a></li>
+					<li><a href="/giving/700club/pledgeexpress.aspx">Pledge Express</a></li>
+					<li><a href="/partners/index.aspx">CBN Partners</a></li>
+					<li><a href="/giving/700club/option.aspx?o=4&amp;m=GVSL0009&amp;intcmp=GVSL0009_special">Mail in Giving</a></li>
+					<li><a href="/giving/700club/option.aspx?o=1&amp;m=GVSL0009&amp;intcmp=GVSL0009_special">Become a CBN Partner</a></li>
+				    <li><a href="http://www.cbnlegacy.org">Planned Giving &amp; Your Legacy</a></li>
+
+				</ul>
+			</div>
+			<div class="fadeDown" style="height:95px; padding-top:10px;">
+				<h2>Around the World</h2>
+				<ul class="horizontalList">
+					<li><a href="/partners/about/our-ministries/">Our Ministries</a></li>
+					<li><a href="/partners/about/where-we-work/">Where We Work</a></li>
+					<li><a href="/worldreach/">CBN International</a></li>
+					<li><a href="/worldreach/worldreach_projects_orphans_promise.aspx">Orphan's Promise</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="ad_lb_bottom" style="width:798px; margin-left:auto; margin-right:auto;">
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+  	if (typeof(bPosition_Bottom) == "undefined") {
+  		bPosition_Bottom = false;
+  	}
+  	if (typeof(bPosition_Bottom1) == "undefined") {
+  		bPosition_Bottom1 = false;
+  	}
+	if (!bPosition_Bottom) {
+  		document.write(' <div style="visibility: hidden; display: none;">');
+  	} else {
+  	document.write('<br style="clear: both"><div id="advertising_banner_top">');
+  	}
+//-->
+</SCRIPT>	
+<table cellpadding=0 cellspacing=0 border=0>
+	<tr valign=middle>
+		<td align=center>
+			<!------ OAS AD 'Bottom' begin ------>
+			<SCRIPT LANGUAGE=JavaScript>
+			<!--
+				if (bPosition_Bottom) {
+					iAdsShown++;
+					document.write("<div style='padding: 0px; margin: 0px; width: 728px;'>");
+					OAS_AD('Bottom');
+					sFeedbackText = '<div class="advertising_feedback_text"><a href="/contact/feedback-ads.aspx">Ad Feedback</a></div>';
+					document.write(sFeedbackText);
+				}
+			//-->
+			</SCRIPT>
+			<!------ OAS AD 'Bottom' end ------>
+		</td>
+	</tr>
+</table>
+</div></div>		
+  </div>
+	<div id="copyright" class="clear centered">Â© <script>var theDate=new Date();document.write(theDate.getFullYear());</script> The Christian Broadcasting Network, Inc., A nonprofit 501 (c)(3) Charitable Organization.Â &nbsp;<a href="/about/privacy_notice.aspx">Privacy Policy</a> Â | Â <a href="/about/termsofuse.aspx">Terms of Use Agreement</a></div>
+</div>
+
+<!-- SiteCatalyst code version: H.20.2. -->
+<script language="JavaScript" type="text/javascript" src="/Scripts/s_code_community.aspx"></script>
+<script language="JavaScript" type="text/javascript" src="/Scripts/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+	/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+	var s_code = s.t(); if (s_code) document.write(s_code)//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+	if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
+//-->
+</script>
+<noscript>
+	<!--
+	// Comment out for https compatibility
+	<a href="http://www.omniture.com" title="Web Analytics">
+	<img src="http://cbn.122.2o7.net/b/ss/cbncomdev/1/H.20.2--NS/0" height="1" width="1" border="0" alt="" />
+	</a>-->
+</noscript>
+<!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.2. -->
+
+<!-- ga conv must execute after sitecatalyst scripts -->
+<script type="text/javascript">
+try {
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "www.googleadservices.com/pagead/conversion.js' type='text/javascript'%3E%3C/script%3E"));
+
+} catch (e) { }
+</script>
+<!-- end of ga conv -->
+
+<!-- START OF UserZoom Tag -->
+<script type="text/javascript">
+var uzHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+document.write(unescape("%3Cscript charset='utf-8' src='" + uzHost + "cdn3.userzoom.com/uz.js?cuid=7160E1D149F6DF1188490022196C4538' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- END OF UserZoom Tag -->
+
+
+</body>
+<!-- InstanceEnd --></html>

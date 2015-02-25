@@ -1,0 +1,22 @@
+Last-Modified: Sat, 21 Feb 2015 00:38:07 GMT
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=31536000
+x-apple-translated-wo-url: /WebObjects/MZStore.woa/wa/viewArtist?id=54657&cc=us&urlDesc=/elton-john
+x-apple-orig-url: https://itunes.apple.com/us/artist/elton-john/id54657
+x-apple-application-site: ST11
+apple-timing-app: 764 ms
+x-apple-aka-ttl: Generated Fri Feb 20 16:38:07 PST 2015, Expires Fri Feb 20 16:39:07 PST 2015, TTL 60s
+x-apple-application-instance: 2126056
+Content-Type: text/html; charset=UTF-8
+x-webobjects-loadaverage: 0
+x-apple-jingle-correlation-key: DWWKIQ5P6K4TMJES3TFSYSNVWQ
+Server: ATS/4.1.0
+X-Apple-ATS-Cache-Key: /17.173.38.161/80/us/artist/elton-john/id54657/iDevice/https
+Vary: Accept-Encoding
+Cache-Control: no-transform, max-age=54
+Date: Sat, 21 Feb 2015 00:38:07 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+X-Apple-Partner: origin.0
+

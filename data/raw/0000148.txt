@@ -1,0 +1,1332 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.23" />
+<meta name="keywords" content="Marvel Movies,marvelmovies,The Avengers (team),Avengers Tower,Avengers: Age of Ultron,Steven Rogers,Anthony Stark,Iron Man (armor),Bruce Banner,Hulk,Thor Odinson,Natalia Romanoff,Clint Barton" />
+<meta name="description" content="The Avengers are a team of superheroes assembled by Nick Fury and the intelligence..." />
+<meta name="google-site-verification" content="mee0ZWi4ltBfBd35n4sR0ZXrgHEQ52XaT9-jEoav-b4" />
+<link rel="canonical" href="http://marvel-movies.wikia.com/wiki/The_Avengers_(team)" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb58/marvelmovies/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/marvelmovies/images/6/64/Favicon.ico/revision/latest?cb=20100303030246" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Marvel Movies (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://marvel-movies.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="Marvel Movies Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>The Avengers (team) - Marvel Movies Wiki - Wolverine, Iron Man 2, Thor</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images4.wikia.nocookie.net/__am/1424372360/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg2.wikia.nocookie.net%252F__cb20141117093833%252Fmarvelmovies%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D994%26background-image-width%3D1708%26color-body%3D%2523000000%26color-body-middle%3D%2523000000%26color-buttons%3Dblack%26color-header%3D%2523808080%26color-links%3D%25236c93b1%26color-page%3D%2523ffffff%26page-opacity%3D100%26widthType%3D2%26wordmark-font%3Dfontin/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationHubsMenu.scss,extensions/wikia/UserLogin/css/UserLoginDropdown.globalNavigation.scss,extensions/wikia/WallNotifications/styles/WallNotifications.globalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationOasis.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearchOasis.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://marvel-movies.wikia.com/__load/-/cb%3D1424372360%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: marvelmovies:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="movies",
+wgWikiCategories=["comics"],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":true,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"pageArticleId":4281,"pageIsArticle":true,"pageName":"The_Avengers_(team)","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=18-24;age=25-34;age=18-34;age=kids;age=teen;gnre=action;gnre=adventure;gnre=comics;gnre=fantasy;media=movies;media=comics;theme=superheroes;theme=heroes","wikiDbName":"marvelmovies","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"Entertainment"},"providers":[],"slots":{"bottomLeaderboardImpressionCapping":[2,4,6]},"forceProviders":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[5,7,8,13,14,15,18,20,21,22,129,142,100056,100057,100058,100059,100408,100428],
+wgWikiFactoryTagNames=["movie","comics/manga","action/adventure","teens_(14-17)","kids_(13)","male","family","adults_(18-35)","adults_(35+)","female","entertainment","dvd/blu-ray","wow","t9","skyscraper","skyscrapperwow","addriverstoragepilot","apertureenabled"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1424372360",
+wgDBname="marvelmovies",
+wgCityId="6294",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=4281,
+wgCategories=["Unsourced quotes","Superhero Team","The Avengers characters","The Avengers culture"],
+wgPageName="The_Avengers_(team)",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="character",
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1424372360",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s38","wiki":"marvelmovies","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>
+function syslogReport(priority,message,context){context=context||null;var url='//jserrorslog.wikia.com/',i=new Image(),data={'@message':message,'syslog_pri':priority};if(context){data['@context']=context;}
+try{data['@fields']={server:document.cookie.match(/server.([A-Z]*).cache/)[1]};}catch(e){}
+try{i.src=url+'l?'+JSON.stringify(data);}catch(e){i.src=url+'e?'+e;}}</script><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1424372360&amp;c=6294&amp;lc=en&amp;lid=75&amp;x=marvelmovies&amp;y=c1&amp;u=0&amp;a=4281&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1424372360&amp;c=6294&amp;lc=en&amp;lid=75&amp;x=marvelmovies&amp;y=c1&amp;u=0&amp;a=4281&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://marvel-movies.wikia.com/__load/-/cb%3D1424372360%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1424372360%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1424372360/groups/-/abtesting,oasis_blocking,analytics_gas_js,adengine2_tracking_js,adengine2_rubicon_rtp_js,adengine2_amazon_match_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Marvel Movies" />
+	<meta property="og:title" content="The Avengers (team)" />
+	<meta property="og:description" content="The Avengers are a team of superheroes assembled by Nick Fury and the intelligence agencyÂ S.H.I.E.L.D. through the Avenger Initiative. They exist in the Marvel Cinematic Universe and feature all the heroes of Marvel Studios&#039; independent productions. They first appeared as a team in 2012&#039;s The Avengers.Â The Avengers were formed to combat threats that could not be dealt with alone. The team currently consists of Iron Man, Captain America, the Hulk, Thor, Black Widow and Hawkeye. They were..." />
+	<meta property="og:url" content="http://marvel-movies.wikia.com/wiki/The_Avengers_(team)" />
+	<meta property="og:image" content="http://img4.wikia.nocookie.net/__cb20140920034706/marvelmovies/images/thumb/e/e4/Avengers-age-of-ultron-team-textless.jpg/2000px-Avengers-age-of-ultron-team-textless.jpg" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-The_Avengers_team  TOC_hide MiniEditor wikinav2 skin-oasis background-not-tiled background-dynamic">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fmarvel-movies.wikia.com%2Fwiki%2FThe_Avengers_%28team%29%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require(["ext.wikia.adEngine.amazonMatchOld", "wikia.geo", "wikia.instantGlobals"], function (amazon, geo, globals) {
+		var ac = globals["wgAmazonMatchOldCountries"];
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+	require(["ext.wikia.adEngine.amazonMatch", "wikia.geo", "wikia.instantGlobals"], function (amazon, geo, globals) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+</script>
+<!-- Unsupported language for AnalyticsProviderIVW2 -->
+<!-- Start for RubiconRTP, page_view -->
+<script>
+	require(['wikia.geo', 'wikia.instantGlobals', 'ext.wikia.adEngine.rubiconRtp'], function (geo, instantGlobals, rtp) {
+		var rtpCountries = ["US","GB","BR"], country = geo.getCountryCode();
+
+		if (rtpCountries.indexOf(country) !== -1 && !instantGlobals.wgSitewideDisableRubiconRTP) {
+			rtp.call({"disabled":false,"oz_site":"7450\/11979","oz_zone":"145168","oz_ad_slot_size":"728x90","skin":["oasis"],"oz_cached_only":false,"slotname":["BOTTOM_LEADERBOARD","CORP_TOP_LEADERBOARD","HOME_TOP_LEADERBOARD","HUB_TOP_LEADERBOARD","TOP_LEADERBOARD"]});
+		}
+	});
+</script><div class="WikiaSiteWrapper">
+	<h1>Wikia</h1>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+	<nav class="global-navigation" id="globalNavigation">
+	<div class="page-width">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com"
+				class="wikia-logo"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+			</a>
+		</div>
+		<div class="hubs-container table-cell" id="hubsEntryPoint">
+			<a class="hubs-entry-point"></a>
+<nav id="hubs" class="hubs-menu">
+	<ul class="hub-list">
+					<li>
+								<a data-vertical="comics" href="http://comicshub.wikia.com/wiki/Comics_Hub" class="comics hub-link ">
+					<span class="icon"></span>
+					<span class="label">Comics</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="tv" href="http://tvhub.wikia.com/wiki/TV_Hub" class="tv hub-link ">
+					<span class="icon"></span>
+					<span class="label">TV</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="movies" href="http://movieshub.wikia.com/wiki/Movies_Hub" class="movies hub-link  active">
+					<span class="icon"></span>
+					<span class="label">Movies</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="music" href="http://musichub.wikia.com/wiki/Music_Hub" class="music hub-link ">
+					<span class="icon"></span>
+					<span class="label">Music</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="books" href="http://bookshub.wikia.com/wiki/Books_Hub" class="books hub-link ">
+					<span class="icon"></span>
+					<span class="label">Books</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="games" href="http://gameshub.wikia.com/wiki/Games_Hub" class="games hub-link ">
+					<span class="icon"></span>
+					<span class="label">Games</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="lifestyle" href="http://lifestylehub.wikia.com/wiki/Lifestyle_Hub" class="lifestyle hub-link ">
+					<span class="icon"></span>
+					<span class="label">Lifestyle</span>
+				</a>
+							</li>
+			</ul>
+	<div class="hub-links">
+		<div class="hub-menu-section movies-links active">
+			<ul>
+			<strong>NOW PLAYING</strong>
+							<li>
+					<a href="http://ow.ly/J5T6z">Kingsman: The Secret Service</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5T89">50 Shades of Grey</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5T9O">The SpongeBob Movie: Sponge Out of Water</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>FAN RADAR</strong>
+							<li>
+					<a href="http://ow.ly/J5Tbw">Pitch Perfect 2</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Tde">Furious 7</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5TeS">Avengers: Age of Ultron</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>IN THE NEWS</strong>
+							<li>
+					<a href="http://ow.ly/J5TjA">Spidey Joins MCU</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Tmv">Who is Miles Morales?</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Tof">Oscar Buzz</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>TOP VIDEOS</strong>
+							<li>
+					<a href="http://ow.ly/J5TtH">Straight Outta Compton</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5TvS">The Man From U.N.C.L.E.</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5TxJ">Fantastic Four Easter Eggs</a>
+				</li>
+					</ul>
+		<a class="more" href="http://movieshub.wikia.com/wiki/Movies_Hub">More Movies</a>
+</div>
+	</div>
+</nav>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://marvel-movies.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search within Marvel Movies..." data-search-url="http://marvel-movies.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search within Marvel Movies..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell">
+	<li class="account-navigation-first-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=The_Avengers_(team)" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">				<div class="avatar-container anon-avatar-placeholder">
+									</div>
+			</a>
+							<span class="sign-in-label">Sign in</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+		</div>
+		<div id="UserLoginDropdown" class="UserLoginDropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Sign up</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="The_Avengers_(team)">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_LEADERBOARD"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_BUTTON_WIDE"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_SKIN"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h1 class="wordmark medium graphic font-fontin">
+	<a accesskey="z" href="/wiki/Marvel_Movies">
+					<img src="http://img2.wikia.nocookie.net/__cb58/marvelmovies/images/8/89/Wiki-wordmark.png" alt="Marvel Movies"  width="250" height="65" >
+			</a>
+</h1>
+        <nav class="WikiNav">
+    	        <h1>Marvel Movies Navigation</h1>
+        		<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/X-Men:_Days_of_Future_Past">Days of Future Past</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Wolverine">Wolverine</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Sentinels">Sentinels</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Bolivar_Trask">Bolivar Trask</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Charles_Xavier">Charles Xavier</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Magneto">Magneto</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Mystique">Mystique</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Beast">Beast</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Guardians_of_the_Galaxy_(film)">GotG</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Peter_Quill">Peter Quill</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Drax_the_Destroyer">Drax the Destroyer</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Gamora">Gamora</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Rocket_Raccoon">Rocket Raccoon</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Groot">Groot</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Portal:Movies_in_production">Upcoming</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Avengers:_Age_of_Ultron">Avengers: Age of Ultron<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Avengers_(team)">The Avengers</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ultron">Ultron</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/HYDRA">HYDRA</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Fantastic_Four_(2015)">Fantastic 4<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Reed_Richards">Mr. Fantastic</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Susan_Storm">Invisible Woman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jonathan_Storm">Human Torch</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Benjamin_Grimm">The Thing</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Ant-Man_(film)">Ant-Man<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Scott_Lang">Scott Lang</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hank_Pym">Hank Pym</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hope_van_Dyne">Hope van Dyne</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Darren_Cross">Yellowjacket</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Captain_America_3">Captain America 3<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Steven_Rogers">Captain America</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Portal:Movies">Movies</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/The_Amazing_Spider-Man_2">TASM2<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Peter_Parker">Spider-Man</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gwen_Stacy">Gwen Stacy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Harry_Osborn">Harry Osborn</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Maxwell_Dillon">Electro</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Aleksei_Sytsevich">Rhino</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Norman_Osborn">Norman Osborn</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Captain_America:_The_Winter_Soldier">Cap 2<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Steve_Rogers">Captain America</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bucky_Barnes">Winter Soldier</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Natasha_Romanoff">Black Widow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sam_Wilson">Falcon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Nicholas_Fury">Nick Fury</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Alexander_Pierce">Alexander Pierce</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Brock_Rumlow">Brock Rumlow</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Thor_2">Thor 2<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Thor_Odinson">Thor Odinson</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Loki_Laufeyson">Loki Laufeyson</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jane_Foster">Jane Foster</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Malekith">Malekith</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Algrim">Algrim</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/The_Wolverine">The Wolverine<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/James_Howlett">Wolverine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ichir%C5%8D_Yashida">Silver Samurai</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Viper">Viper</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mariko_Yashida">Mariko Yashida</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Yukio">Yukio</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenuichio_Harada">Kenuichio Harada</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Iron_Man_3">Iron Man 3<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tony_Stark">Tony Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/James_Rhodes">James Rhodes</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pepper_Potts">Pepper Potts</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Trevor_Slattery">Mandarin</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Aldrich_Killian">Aldrich Killian</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/The_Amazing_Spider-Man_(2012)">TASM<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Peter_Parker">Peter Parker</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Curt_Connors">Curt Connors</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gwen_Stacy">Gwen Stacy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/George_Stacy">George Stacy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ben_Parker">Ben Parker</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/May_Parker">May Parker</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>    </nav>
+	    <div class="buttons">
+		<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+					<a href="#" class="wikia-button share-button secondary"  data-id="shareButton"> Share<span class="share-dot"></span><span class="share-pixel"></span></a>
+    </div>
+	    <div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>    </div>
+</header>
+
+				
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+				<header id="WikiaPageHeader" class="WikiaPageHeader">
+    <h1>The Avengers (team)</h1>
+
+	<nav class="wikia-menu-button loginToEditProtectedPage" >
+	<a accesskey="e"  href="/wiki/Special:SignUp?returnto=The_Avengers_(team)&amp;returntoquery=action%3Dedit&amp;type=login" data-id="edit" id="ca-viewsource">
+		<img alt="" class="sprite edit-pencil" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Edit	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/The_Avengers_(team)?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">11</span></a>
+        <div class="tally">
+			<em>3,630</em><span>pages on<br /> this wiki</span>        </div>
+		</header>
+
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+
+					
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><table style="width:250px;float:right;clear:right;margin:1em 0 1em 1em;border:1px solid #B5B7CF;background:#EFF0FF;-moz-border-radius:10px;-moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;padding:10px 10px 10px 10px; text-align: left; float: right;">
+
+<tr>
+<td colspan="2" style="text-align: center; font-size:125%; color:white;" bgcolor="red"> <b>The Avengers (team)</b>
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center;"> <div class="center"><div class="floatnone"><a href="http://vignette2.wikia.nocookie.net/marvelmovies/images/6/6b/March_2015_Empire_Magazine_Avengers_2_Cover_With_Text_Removed_%281325x1549%29_-_Imgur.jpg/revision/latest?cb=20150131185336" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="March 2015 Empire Magazine Avengers 2 Cover With Text Removed (1325x1549) - Imgur"  	class="lzy lzyPlcHld " 	 	data-image-key="March_2015_Empire_Magazine_Avengers_2_Cover_With_Text_Removed_%281325x1549%29_-_Imgur.jpg" 	data-image-name="March 2015 Empire Magazine Avengers 2 Cover With Text Removed (1325x1549) - Imgur.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/6/6b/March_2015_Empire_Magazine_Avengers_2_Cover_With_Text_Removed_%281325x1549%29_-_Imgur.jpg/revision/latest/scale-to-width/284?cb=20150131185336"  	 width="284"  	 height="367"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/marvelmovies/images/6/6b/March_2015_Empire_Magazine_Avengers_2_Cover_With_Text_Removed_%281325x1549%29_-_Imgur.jpg/revision/latest/scale-to-width/284?cb=20150131185336" 	 alt="March 2015 Empire Magazine Avengers 2 Cover With Text Removed (1325x1549) - Imgur"  	class="" 	 	data-image-key="March_2015_Empire_Magazine_Avengers_2_Cover_With_Text_Removed_%281325x1549%29_-_Imgur.jpg" 	data-image-name="March 2015 Empire Magazine Avengers 2 Cover With Text Removed (1325x1549) - Imgur.jpg" 	 	 width="284"  	 height="367"  	 	 	 	></noscript></a></div></div>
+</td></tr>
+<tr style="vertical-align: top;">
+<td style="vertical-align: top;"> <b>Members</b> </td><td> <a href="/wiki/Steven_Rogers" title="Steven Rogers">Steve Rogers/Captain America</a><br /><a href="/wiki/Anthony_Stark" title="Anthony Stark">Tony Stark</a>/<a href="/wiki/Iron_Man_(armor)" title="Iron Man (armor)">Iron Man</a><br /><a href="/wiki/Bruce_Banner" title="Bruce Banner">Bruce Banner</a>/<a href="/wiki/Hulk" title="Hulk">The Hulk</a><br /><a href="/wiki/Thor_Odinson" title="Thor Odinson">Thor</a><br /><a href="/wiki/Natalia_Romanoff" title="Natalia Romanoff">Natasha Romanoff/Black Widow</a><br /><a href="/wiki/Clint_Barton" title="Clint Barton">Clint Barton/Hawkeye</a><br /><a href="/wiki/Pietro_Maximoff" title="Pietro Maximoff">Pietro Maximoff/Quicksilver</a><br /><a href="/wiki/Wanda_Maximoff" title="Wanda Maximoff">Wanda Maximoff/Scarlet Witch</a><br /><a href="/wiki/The_Vision" title="The Vision">The Vision</a>
+</td></tr>
+<tr style="vertical-align: top;">
+<td> <b>Appeared in</b> </td><td> <i><a href="/wiki/The_Avengers_(film)" title="The Avengers (film)">The Avengers</a></i><br /><i><a href="/wiki/Avengers:_Age_of_Ultron" title="Avengers: Age of Ultron">Avengers: Age of Ultron</a></i><br /><i><a href="/wiki/Avengers:_Infinity_War,_Part_I" title="Avengers: Infinity War, Part I">Avengers: Infinity War, Part I</a></i><br /><i><a href="/wiki/Avengers:_Infinity_War,_Part_II" title="Avengers: Infinity War, Part II">Avengers: Infinity War, Part II</a></i>
+</td></tr>
+<tr style="vertical-align: top;">
+<td style="vertical-align: top;"> <b>Actors</b> </td><td> <a href="/wiki/Chris_Evans" title="Chris Evans">Chris Evans</a><br /><a href="/wiki/Robert_Downey_Jr." title="Robert Downey Jr.">Robert Downey Jr.</a><br /><a href="/wiki/Mark_Ruffalo" title="Mark Ruffalo">Mark Ruffalo</a><br /><a href="/wiki/Chris_Hemsworth" title="Chris Hemsworth">Chris Hemsworth</a><br /><a href="/wiki/Scarlett_Johansson" title="Scarlett Johansson">Scarlett Johansson</a><br /><a href="/wiki/Jeremy_Renner" title="Jeremy Renner">Jeremy Renner</a><br /><a href="/wiki/Aaron_Taylor-Johnson" title="Aaron Taylor-Johnson">Aaron Taylor-Johnson</a><br /><a href="/wiki/Elizabeth_Olsen" title="Elizabeth Olsen">Elizabeth Olsen</a><br /><a href="/wiki/Paul_Bettany" title="Paul Bettany">Paul Bettany</a>
+</td></tr></table>
+<div class="quote">
+<dl><dd><span>"<i>There was an idea... called the Avengers Initiative. The idea was to bring together a group of of remarkable people to see if they could become something more. To see if they could work together when we needed them to, to fight the battles that we never could. </i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Nick_Fury" title="Nick Fury" class="mw-redirect">Nick Fury</a> to the Avengers after <a href="/wiki/Phil_Coulson" title="Phil Coulson" class="mw-redirect">Phil Coulson's</a> death.</div>
+</dd></dl>
+<p><b>The Avengers</b> are a team of superheroes assembled by <a href="/wiki/Nick_Fury_(character)" title="Nick Fury (character)" class="mw-redirect">Nick Fury</a> and the intelligence agencyÂ <a href="/wiki/S.H.I.E.L.D._(Marvel_Cinematic_Universe)" title="S.H.I.E.L.D. (Marvel Cinematic Universe)" class="mw-redirect">S.H.I.E.L.D.</a> through the <a href="/wiki/Avenger_Initiative" title="Avenger Initiative" class="mw-redirect">Avenger Initiative</a>. They exist in the <a href="/wiki/Marvel_Cinematic_Universe" title="Marvel Cinematic Universe">Marvel Cinematic Universe</a> and feature all the heroes of Marvel Studios' independent productions. They first appeared as a team in 2012's <i><a href="/wiki/The_Avengers_(film)" title="The Avengers (film)">The Avengers</a>.Â </i>The Avengers were formed to combat threats that could not be dealt with alone.
+</p><p>The team currently consists of <a href="/wiki/Anthony_Stark" title="Anthony Stark">Iron Man</a>, <a href="/wiki/Steve_Rogers_(Marvel_Cinematic_Universe)" title="Steve Rogers (Marvel Cinematic Universe)" class="mw-redirect">Captain America</a>, the <a href="/wiki/Bruce_Banner" title="Bruce Banner">Hulk</a>, <a href="/wiki/Thor_Odinson_(Marvel_Cinematic_Universe)" title="Thor Odinson (Marvel Cinematic Universe)" class="mw-redirect">Thor</a>, <a href="/wiki/Natasha_Romanoff" title="Natasha Romanoff" class="mw-redirect">Black Widow</a> and <a href="/wiki/Clint_Barton" title="Clint Barton">Hawkeye</a>. They were initially brought together by <a href="/wiki/S.H.I.E.L.D." title="S.H.I.E.L.D.">S.H.I.E.L.D.</a> to combat <a href="/wiki/Loki_Laufeyson" title="Loki Laufeyson">Loki</a>, Thor's adoptive brother. The Avengers are based on the superhero team created by <a href="/wiki/Stan_Lee" title="Stan Lee">Stan Lee</a> and Steve Ditko and feature a similar roster to Mark Millar's Ultimates, the Ultimate Marvel Universe version of the team. The team was initially formed by <a href="/wiki/Nick_Fury" title="Nick Fury" class="mw-redirect">Nick Fury</a> to "fight the battles that S.H.I.E.L.D. never could".
+</p>
+<nav id="toc" class="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a href="#" class="internal" id="togglelink" data-show="show" data-hide="hide">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Biography">Biography</span></h2>
+<h3><span class="mw-headline" id="Iron_Man"><i><a href="/wiki/Iron_Man_(film)" title="Iron Man (film)">Iron Man</a></i></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:Â Iron Man (film)">"<i>You think you're the only superhero in the world? Mr. Stark, you've become part of a bigger universe. You just don't know it yet.</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Nick_Fury" title="Nick Fury" class="mw-redirect">Nick Fury</a><sup class="noprint"><a href="/wiki/Iron_Man_(film)" title="Iron Man (film)">[src]</a></sup></div>
+</dd></dl>
+<p>In a post-credits scene, <a href="/wiki/Anthony_Stark" title="Anthony Stark">Tony Stark</a> is unexpectedly visited by <a href="/wiki/S.H.I.E.L.D." title="S.H.I.E.L.D.">S.H.I.E.L.D.</a> Director <a href="/wiki/Nick_Fury" title="Nick Fury" class="mw-redirect">Nick Fury</a> who notes that Stark is not "the only superhero in the world" and states he wants to discuss the "<a href="/wiki/Avengers_Initiative" title="Avengers Initiative">Avenger Initiative</a>".
+</p>
+<h3><span class="mw-headline" id="Iron_Man_2"><i><a href="/wiki/Iron_Man_2" title="Iron Man 2">Iron Man 2</a></i></span></h3>
+<figure class="article-thumb tleft show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/marvelmovies/images/9/91/AvengersInitiative-IM2.png/revision/latest?cb=20131126060523" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="AvengersInitiative-IM2"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="AvengersInitiative-IM2.png" 	data-image-name="AvengersInitiative-IM2.png" 	 data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/9/91/AvengersInitiative-IM2.png/revision/latest/scale-to-width/180?cb=20131126060523"  	 width="180"  	 height="77"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/marvelmovies/images/9/91/AvengersInitiative-IM2.png/revision/latest/scale-to-width/180?cb=20131126060523" 	 alt="AvengersInitiative-IM2"  	class="thumbimage " 	 	data-image-key="AvengersInitiative-IM2.png" 	data-image-name="AvengersInitiative-IM2.png" 	 	 width="180"  	 height="77"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:AvengersInitiative-IM2.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Avengers Initiative folder.</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source:Â Iron Man 2">"<i>I told you I don't want to join your super-secret boy band.</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Anthony_Stark" title="Anthony Stark">Anthony Stark</a><sup class="noprint"><a href="/wiki/Iron_Man_2" title="Iron Man 2">[src]</a></sup></div>
+</dd></dl>
+<p>Fury informs Stark that his Iron Man persona is assigned to the team, but due to certain conditions, Stark himself is deemed unsuitable. Stark agrees on the condition that Senator Stern present him and Col. Rhodes with their medals for bravery.
+</p>
+<h3><span class="mw-headline" id="Marvel_One-Shot:_The_Consultant"><i><a href="/wiki/Marvel_One-Shot:_The_Consultant" title="Marvel One-Shot: The Consultant">Marvel One-Shot: The Consultant</a></i></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:Â Marvel One-Shot: The Consultant">"<i>So, on the Council's orders, we have to send one of our people down to Ross to ask for Blonksy, who we don't even want?</i>"</span>
+</dd><dd>&#8213;Jasper Sitwell <sup class="noprint"><a href="/wiki/Marvel_One-Shot:_The_Consultant" title="Marvel One-Shot: The Consultant">[src]</a></sup></div>
+</dd></dl>
+<p>Agents <a href="/wiki/Phil_Coulson" title="Phil Coulson" class="mw-redirect">Coulson</a> and <a href="/wiki/Jasper_Sitwell" title="Jasper Sitwell">Sitwell</a> conspire to thwart the Security Council's directive that <a href="/wiki/Emil_Blonsky" title="Emil Blonsky">Emil Blonsky</a> be added to the Avengers roster.
+</p>
+<h3><span class="mw-headline" id="The_Incredible_Hulk"><i><a href="/wiki/The_Incredible_Hulk_(film)" title="The Incredible Hulk (film)">The Incredible Hulk</a></i></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:Â The Incredible Hulk (film)">"<i>What if I told you we were putting a team together?</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Anthony_Stark" title="Anthony Stark">Tony Stark</a><sup class="noprint"><a href="/wiki/The_Incredible_Hulk_(film)" title="The Incredible Hulk (film)">[src]</a></sup></div>
+</dd></dl>
+<p><a href="/wiki/Thaddeus_Ross" title="Thaddeus Ross">General Ross</a> is drinking in a bar when he is approached by industrialist Stark, who casually reveals that a "team" is being put together.
+</p>
+<h3><span class="mw-headline" id="Thor"><i><a href="/wiki/Thor_(film)" title="Thor (film)">Thor</a></i></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:Â Thor (film)">"<i>Know this, son of Coul. You and I, we fight for the same cause: the protection of this world. From this day forward, you can count me in as your ally, if... you return the items you have taken from Jane.</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Thor_Odinson" title="Thor Odinson">Thor Odinson</a><sup class="noprint"><a href="/wiki/Thor_(film)" title="Thor (film)">[src]</a></sup></div>
+</dd></dl>
+<p><a href="/wiki/Phil_Coulson" title="Phil Coulson" class="mw-redirect">Agent Coulson</a> notes <a href="/wiki/Thor_Odinson_(Marvel_Cinematic_Universe)" title="Thor Odinson (Marvel Cinematic Universe)" class="mw-redirect">Thor</a>'s strength while he is in his mortal form, trying to reclaim <a href="/wiki/Mjolnir" title="Mjolnir" class="mw-redirect">Mjolnir</a>. After Thor defeats the <a href="/wiki/The_Destroyer" title="The Destroyer">Destroyer</a>, Thor tells Coulson to consider him an ally to S.H.I.E.L.D., but speeds away before he can be debriefed, indicating that he has been considered for the Avengers Initiative.
+</p>
+<h3><span class="mw-headline" id="Captain_America:_The_First_Avenger"><i><a href="/wiki/Captain_America:_The_First_Avenger" title="Captain America: The First Avenger">Captain America: The First Avenger</a></i></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:Â Captain America: The First Avenger">"<i>You came here with a mission, sir, trying to get me back to the world?<br />Trying to save it.</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Steve_Rogers" title="Steve Rogers" class="mw-redirect">Steve Rogers</a> and <a href="/wiki/Nick_Fury" title="Nick Fury" class="mw-redirect">Nick Fury</a><sup class="noprint"><a href="/wiki/Captain_America:_The_First_Avenger" title="Captain America: The First Avenger">[src]</a></sup></div>
+</dd></dl>
+<p><a href="/wiki/Steve_Rogers" title="Steve Rogers" class="mw-redirect">Steve Rogers</a> was woken after 70 years on ice and later meets Nick Fury, who recruits him to the Avengers intiative.
+</p>
+<h3><span class="mw-headline" id="The_Avengers"><i><a href="/wiki/The_Avengers_(film)" title="The Avengers (film)">The Avengers</a></i></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:Â  The Avengers (film)">"<i>There was an idea, Stark knows this. Called the Avengers Initiative. The idea was to bring together a group of remarkable people, see if they become something more. See if they can work together when we needed them to. To fight the battles that we never could.</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Nick_Fury" title="Nick Fury" class="mw-redirect">Nick Fury</a><sup class="noprint"><a href="/wiki/The_Avengers_(film)" title="The Avengers (film)">[src]</a></sup></div>
+</dd></dl>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/marvelmovies/images/a/a0/The_Avengers-unite.jpg/revision/latest?cb=20140816174928" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="The Avengers-unite"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="The_Avengers-unite.jpg" 	data-image-name="The Avengers-unite.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/a/a0/The_Avengers-unite.jpg/revision/latest/scale-to-width/180?cb=20140816174928"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/marvelmovies/images/a/a0/The_Avengers-unite.jpg/revision/latest/scale-to-width/180?cb=20140816174928" 	 alt="The Avengers-unite"  	class="thumbimage " 	 	data-image-key="The_Avengers-unite.jpg" 	data-image-name="The Avengers-unite.jpg" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:The_Avengers-unite.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Avengers Assemble!</p> 		 	</figcaption> </figure>
+<p>Nick Fury assembles the team when an unexpected threat associated with Thor's brother <a href="/wiki/Loki" title="Loki" class="mw-redirect">Loki</a> and the <a href="/wiki/Tesseract" title="Tesseract">Tesseract</a> appears. The team initially have difficulty and refusal to obey each other; for example, Tony Stark is reluctant to working under the command of Captain America, Thor demands that Loki is his responsibility and the team is uncomfortable with the presence of Bruce Banner. When Loki attempts to destroy the team and promote his godlike supremecy to Earth in a public way, the Avengers depart from S.H.I.E.L.D.'s command and rally in defense of New York as it is invaded by the extraterrestrials known as the <a href="/wiki/Chitauri_(Marvel_Cinematic_Universe)" title="Chitauri (Marvel Cinematic Universe)" class="mw-redirect">Chitauri</a>. Captain America takes command of the team and they each work to supress the invasion force. The Hulk beats Loki into submission and Iron Man sends a nuclear weapon fired by the World Security Council into the portal through which the aliens enter Earth and their fleet is destroyed, breaking the neural connection with their ground troops and instantly killing them. The team take Loki as their prisoner and Thor takes both Loki and the Tesseract back to <a href="/wiki/Asgard" title="Asgard">Asgard</a>. The team disbands but agrees to reassemble when another global threat requires their combined efforts.
+</p>
+<h3><span class="mw-headline" id="Iron_Man_3"><i><a href="/wiki/Iron_Man_3" title="Iron Man 3">Iron Man 3</a></i></span></h3>
+<p>The team was mentioned by <a href="/wiki/Harold_Hogan" title="Harold Hogan">Harold Hogan</a>Â as the "Super Friends"Â and were mentioned once more byÂ <a href="/wiki/Harley_Keener" title="Harley Keener">Harley Keener</a>.
+</p>
+<h3><span class="mw-headline" id="Thor:_The_Dark_World"><i><a href="/wiki/Thor:_The_Dark_World" title="Thor: The Dark World">Thor: The Dark World</a></i></span></h3>
+<p>The team was mentioned by <a href="/wiki/Loki_Laufeyson" title="Loki Laufeyson">Loki</a>.
+</p>
+<h3><span class="mw-headline" id="Captain_America:_The_Winter_Soldier"><i><a href="/wiki/Captain_America:_The_Winter_Soldier" title="Captain America: The Winter Soldier">Captain America: The Winter Soldier</a></i></span></h3>
+<p>The repaired <a href="/wiki/Stark_Tower" title="Stark Tower" class="mw-redirect">Stark Tower</a>, now called The Avengers Tower, appears briefly during the targeting sequence.
+</p>
+<h3><span class="mw-headline" id="Avengers:_Age_of_Ultron"><i><a href="/wiki/Avengers:_Age_of_Ultron" title="Avengers: Age of Ultron">Avengers: Age of Ultron</a></i></span></h3>
+<p><i>To be added</i>
+</p>
+<h3><span class="mw-headline" id="Avengers:_Infinity_War.2C_Part_I"><i><a href="/wiki/Avengers:_Infinity_War,_Part_I" title="Avengers: Infinity War, Part I">Avengers: Infinity War, Part I</a></i></span></h3>
+<p><i>To be added</i>
+</p>
+<h3><span class="mw-headline" id="Avengers:_Infinity_War.2C_Part_II"><i><a href="/wiki/Avengers:_Infinity_War,_Part_II" title="Avengers: Infinity War, Part II">Avengers: Infinity War, Part II</a></i></span></h3>
+<p><i>To be added</i>
+</p>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write(
+            '<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full"' +
+            'data-mon-type="amazon_video" data-mon-slot="in_content">' +
+            '<div class="affiliate" data-mon-pid="B00QROH0QK" data-mon-ptag="marvel-the_avengers_(t-6294-4281-B00QROH0QK-piv-fl-npr-ic-f" ' +
+            'data-mon-pname="Guardians of the Galaxy (Theatrical)"><div class="affiliate-header">' +
+            '<a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00QROH0QK/ref=atv_feed_catalog?tag=wikia-monsvc-ic-20&ascsubtag=marvel-the_avengers_(t-6294-4281-B00QROH0QK-piv-fl-npr-ic-f">' +
+            '<img  src="http://ecx.images-amazon.com/images/I/51ySf939tsL._SX320_SY240_.jpg"></a></div>' +
+            '<a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00QROH0QK/ref=atv_feed_catalog?tag=wikia-monsvc-ic-20&ascsubtag=marvel-the_avengers_(t-6294-4281-B00QROH0QK-piv-fl-npr-ic-f">' +
+            '<div class="product-title">Guardians of the Galaxy (Theatrical)</div>' +
+            '<div class="product-detail"></div>' +
+            '<div class="rating-bar"><div class="rating" style="width: 90.0%"></div></div></a>' +
+            '<div class="product-button non-prime">' +
+            '<a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00QROH0QK/ref=atv_feed_catalog?tag=wikia-monsvc-ic-20&ascsubtag=marvel-the_avengers_(t-6294-4281-B00QROH0QK-piv-fl-npr-ic-f"></a>' +
+            '<a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00QROH0QK/ref=atv_feed_catalog?tag=wikia-monsvc-ic-20&ascsubtag=marvel-the_avengers_(t-6294-4281-B00QROH0QK-piv-fl-npr-ic-f"></a>' +
+            '</div></div></aside>'
+        );
+    } else 
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write(
+        '<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" ' +
+        'data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div>' +
+        '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">' +
+        '</scr' + 'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" ' +
+        'data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fsl_ffa mon_hub_movies mon_sl_ic" ' +
+        'data-ad-type="text" ' + 'data-font-size="large" ' +'data-font-face="arial" ' +
+        ' data-color-bg="#ffffff" data-color-border="#ffffff" data-color-link="#6c93b1" data-color-url="#6c93b1" data-color-text="#3a3a3a" ></ins>' +
+        '<script>(adsbygoogle = window.adsbygoogle || []).push({});</scr' + 'ipt></div></div>'
+    );
+}
+</script><h2><span class="mw-headline" id="Members">Members</span></h2>
+<ul><li><a href="/wiki/Steve_Rogers" title="Steve Rogers" class="mw-redirect">Steve Rogers/Captain America</a> <small>(leader)</small>
+</li><li><a href="/wiki/Tony_Stark" title="Tony Stark" class="mw-redirect">Tony Stark</a>/<a href="/wiki/Iron_Man_(armor)" title="Iron Man (armor)">Iron Man</a>
+</li><li><a href="/wiki/Thor_Odinson" title="Thor Odinson">Thor Odinson</a>
+</li><li><a href="/wiki/Bruce_Banner" title="Bruce Banner">Bruce Banner</a>/<a href="/wiki/Hulk" title="Hulk">Hulk</a>
+</li><li><a href="/wiki/Clint_Barton" title="Clint Barton">Clint Barton/Hawkeye</a>
+</li><li><a href="/wiki/Natasha_Romanoff" title="Natasha Romanoff" class="mw-redirect">Natasha Romanoff/Black Widow</a>
+</li><li><a href="/wiki/Wanda_Maximoff" title="Wanda Maximoff">Wanda Maximoff/Scarlet Witch</a> <small>(joins in <i><a href="/wiki/Avengers:_Age_of_Ultron" title="Avengers: Age of Ultron">Avengers: Age of Ultron</a></i>)</small>
+</li><li><a href="/wiki/Pietro_Maximoff" title="Pietro Maximoff">Pietro Maximoff/Quicksilver</a> <small>(joins in <i><a href="/wiki/Avengers:_Age_of_Ultron" title="Avengers: Age of Ultron">Avengers: Age of Ultron</a></i>)</small>
+</li><li><a href="/wiki/The_Vision" title="The Vision">Vision</a> <small>(joins in <i><a href="/wiki/Avengers:_Age_of_Ultron" title="Avengers: Age of Ultron">Avengers: Age of Ultron</a></i>)</small>
+</li></ul>
+<h2><span class="mw-headline" id="Allies">Allies</span></h2>
+<ul><li><a href="/wiki/S.H.I.E.L.D." title="S.H.I.E.L.D.">S.H.I.E.L.D.</a>
+<ul><li><a href="/wiki/Nick_Fury" title="Nick Fury" class="mw-redirect">Nick Fury</a>
+</li><li><a href="/wiki/Erik_Selvig" title="Erik Selvig">Erik Selvig</a>
+</li><li><a href="/wiki/Phil_Coulson" title="Phil Coulson" class="mw-redirect">Phil Coulson</a>Â - considered a member of the team by Nick Fury
+</li><li><a href="/wiki/Maria_Hill" title="Maria Hill">Maria Hill</a>
+</li><li><a href="/wiki/Sharon_Carter" title="Sharon Carter">Sharon Carter</a>
+</li><li><a href="/wiki/Jasper_Sitwell" title="Jasper Sitwell">Jasper Sitwell</a> - ally turned enemy
+</li></ul>
+</li><li><a href="/wiki/Thaddeus_Ross" title="Thaddeus Ross">Thaddeus Ross</a>
+</li><li><a href="/wiki/James_Rhodes" title="James Rhodes">James Rhodes</a>
+</li><li><a href="/wiki/World_Security_Council" title="World Security Council">World Security Council</a> <small>(except <a href="/wiki/Alexander_Pierce" title="Alexander Pierce">Alexander Pierce</a>)</small>
+</li><li><a href="/wiki/Sam_Wilson" title="Sam Wilson">Sam Wilson</a>
+</li><li><a href="/wiki/James_Barnes" title="James Barnes">James Barnes</a> <small>(Questionable; although he saved Rogers' life, it is unknown how much of his life he remembers prior to his capture and brainwashing at the hands of HYDRA )</small>
+</li><li><a href="/wiki/Erik_Selvig" title="Erik Selvig">Erik Selvig</a>
+</li></ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Enemies">Enemies</span></h2>
+<ul><li><a href="/wiki/Loki" title="Loki" class="mw-redirect">Loki</a>
+</li><li><a href="/wiki/Abomination" title="Abomination">Abomination</a> <small>(Considered for membership by World Security Council prior the sabotage of Phil Coulson and Tony Stark)</small>
+</li><li><a href="/wiki/Thanos" title="Thanos">Thanos</a>
+</li><li><a href="/wiki/Chitauri" title="Chitauri">Chitauri</a>
+</li><li><a href="/wiki/The_Other" title="The Other">The Other</a>
+</li><li><a href="/wiki/Leviathan" title="Leviathan">Leviathan</a>
+</li><li><a href="/wiki/Ultron" title="Ultron">Ultron</a>
+</li><li><a href="/wiki/Ultron_Sentinels" title="Ultron Sentinels">Ultron Sentinels</a>
+</li><li><a href="/wiki/Scarlet_Witch_(Earth-199999)" title="Scarlet Witch (Earth-199999)" class="mw-redirect">Scarlet Witch</a>
+</li><li><a href="/wiki/Quicksilver_(Earth-199999)" title="Quicksilver (Earth-199999)" class="mw-redirect">Quicksilver</a>
+</li><li><a href="/wiki/The_Vision" title="The Vision">Vision</a>
+</li><li><a href="/wiki/Wolfgang_von_Strucker" title="Wolfgang von Strucker">Wolfgang von Strucker</a>
+</li><li><a href="/wiki/Alexander_Pierce" title="Alexander Pierce">Alexander Pierce</a>
+</li><li><a href="/wiki/Arnim_Zola" title="Arnim Zola">Arnim Zola</a> <small>(Targeted several members with his Project Insight algorithm.)</small>
+</li><li><a href="/wiki/HYDRA" title="HYDRA">HYDRA</a>
+</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span></h2>
+<ul><li>Joss Whedon talked about the power levels of the various Avengers: "<i>I had to find a way to service all the characters, to figure out why they're in the room in the first place. My biggest concern was that if I didn't pay enough attention to minutiae then the film would become generic in its concepts and visuals. Or that I'd be so concentrated on those things, I'd look around and the film wouldn't be about anything.</i>"
+</li><li>On the action scenes and what Whedon terms "the hierarchy of power". "<i>If this <a href="/wiki/Steve_Rogers" title="Steve Rogers" class="mw-redirect">guy</a> hits someone, he falls down. If this <a href="/wiki/Hulk" title="Hulk">guy</a> hits someone, he flies backwards. Its very complicated.</i>"
+</li><li>Whedon commented on Mark Ruffalo's 'Hulk' actions: "<i>It's fun to say that Mark Ruffalo and I fought a great deal, because he's the sweetest man that I may ever have met. Yes, we did actually lay out some mats and tussle but just trying to figure out what the Hulk would be doing, what a person does in a real fight. Once he gets angry you have to keep asking "well what's making him angry now..." and go moment-to-moment. That's been the hardest thing in this movie. Mark is tremendous, I think he's going to blow people away - again - and we've gone where nobody has. We [have] Hulk in the house and everything pisses him off.</i>"
+</li></ul>
+<h2><span class="mw-headline" id="Trivia"> Trivia </span></h2>
+<ul><li>The roster of the team is similar to that of the Ultimates roster in the comic book miniseries <i>The Ultimates</i>. The Ultimates were conceived as the Ultimate Marvel Universe's equivalent of the mainstream Avengers. The Avengers of the Marvel Cinematic Universe bear a strong resemblance to the Ultimates in that they were formed by S.H.I.E.L.D. as a government-sponsored team to combat the threat of the Chitauri. Like in <i>The Ultimates 2</i>, the team leaves S.H.I.E.L.D. employ and becomes independent.
+<ul><li><a href="/wiki/Henry_Pym" title="Henry Pym">Henry Pym (Ant-Man)</a> and <a href="/wiki/The_Wasp" title="The Wasp">The Wasp</a> are on the original Avengers roster in the mainstream comics, as well as their Ultimate universe versions being in the first roster of the Ultimates, but are absent from the live-action film.
+</li></ul>
+</li><li>The speech in the first teaser trailer was taken from the introduction of many Avengers comic books since the 1970s. In the TV series <i>The Avengers: Earth's Mightiest Heroes</i>, the new intro features Nick Fury stating a speech similar to this one.
+</li><li>The movie's roster will be seen in the next animated series <i>Avengers Assemble</i> with Falcon joining the roster.
+</li><li>With Quicksilver and Scarlet Witch appearing inÂ <i>Avengers: Age of Ultron</i>, the roster continues to closely follow the comics as they both joined The Avengers along-side Captain America and Hawkeye (both of whom are founding members in the first film) after the original lineup disbanded, thus forming the second.Â 
+</li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span></h2>
+<div id="gallery-0" hash="5c40328667d88000d6f9a96c3a3eb736" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers_team-jpg" style="position: relative; height:139px; width:185px; top:23px;"><a class="image lightbox" href="/wiki/File:Avengers_team.jpg" title="Avengers team.jpg (39 KB)" style="height:139px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/marvelmovies/images/7/77/Avengers_team.jpg/revision/latest/scale-to-width/185?cb=20110929145421" title="Avengers team.jpg (39 KB)" class="thumbimage" alt="Avengers team" data-image-name="Avengers team.jpg" data-image-key="Avengers_team.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers team.jpg (39 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengers team" data-image-name="Avengers team.jpg" data-image-key="Avengers_team.jpg" data-src="http://vignette1.wikia.nocookie.net/marvelmovies/images/7/77/Avengers_team.jpg/revision/latest/scale-to-width/185?cb=20110929145421" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengersteam-png" style="position: relative; height:184px; width:130px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Avengersteam.png" title="Avengersteam.png (617 KB)" style="height:184px; width:130px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/marvelmovies/images/8/87/Avengersteam.png/revision/latest/scale-to-width/131?cb=20120526165833" title="Avengersteam.png (617 KB)" class="thumbimage" alt="Avengersteam" data-image-name="Avengersteam.png" data-image-key="Avengersteam.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengersteam.png (617 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengersteam" data-image-name="Avengersteam.png" data-image-key="Avengersteam.png" data-src="http://vignette1.wikia.nocookie.net/marvelmovies/images/8/87/Avengersteam.png/revision/latest/scale-to-width/131?cb=20120526165833" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengersassemble1-png" style="position: relative; height:185px; width:138px;"><a class="image lightbox" href="/wiki/File:Avengersassemble1.png" title="Avengersassemble1.png (635 KB)" style="height:185px; width:138px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/marvelmovies/images/4/4a/Avengersassemble1.png/revision/latest/scale-to-width/138?cb=20120314140907" title="Avengersassemble1.png (635 KB)" class="thumbimage" alt="Avengersassemble1" data-image-name="Avengersassemble1.png" data-image-key="Avengersassemble1.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengersassemble1.png (635 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengersassemble1" data-image-name="Avengersassemble1.png" data-image-key="Avengersassemble1.png" data-src="http://vignette3.wikia.nocookie.net/marvelmovies/images/4/4a/Avengersassemble1.png/revision/latest/scale-to-width/138?cb=20120314140907" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers_live_banner-jpg" style="position: relative; height:124px; width:185px; top:30.5px;"><a class="image lightbox" href="/wiki/File:Avengers_live_banner.jpg" title="Avengers live banner.jpg (110 KB)" style="height:124px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/3/37/Avengers_live_banner.jpg/revision/latest/scale-to-width/185?cb=20120131230337" title="Avengers live banner.jpg (110 KB)" class="thumbimage" alt="Avengers live banner" data-image-name="Avengers live banner.jpg" data-image-key="Avengers_live_banner.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers live banner.jpg (110 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengers live banner" data-image-name="Avengers live banner.jpg" data-image-key="Avengers_live_banner.jpg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/3/37/Avengers_live_banner.jpg/revision/latest/scale-to-width/185?cb=20120131230337" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="x1860478a2super-jpg" style="position: relative; height:181px; width:185px; top:2px;"><a class="image lightbox" href="/wiki/File:1860478a2super.jpg" title="1860478a2super.jpg (75 KB)" style="height:181px; width:185px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/marvelmovies/images/d/d9/1860478a2super.jpg/revision/latest/scale-to-width/185?cb=20110614221527" title="1860478a2super.jpg (75 KB)" class="thumbimage" alt="1860478a2super" data-image-name="1860478a2super.jpg" data-image-key="1860478a2super.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="1860478a2super.jpg (75 KB)" class="thumbimage lzy lzyPlcHld" alt="1860478a2super" data-image-name="1860478a2super.jpg" data-image-key="1860478a2super.jpg" data-src="http://vignette4.wikia.nocookie.net/marvelmovies/images/d/d9/1860478a2super.jpg/revision/latest/scale-to-width/185?cb=20110614221527" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">The first promo art of the team.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers_team_promo-jpg" style="position: relative; height:138px; width:185px; top:23.5px;"><a class="image lightbox" href="/wiki/File:Avengers_team_promo.jpg" title="Avengers team promo.jpg (323 KB)" style="height:138px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/6/66/Avengers_team_promo.jpg/revision/latest/scale-to-width/185?cb=20110831123250" title="Avengers team promo.jpg (323 KB)" class="thumbimage" alt="Avengers team promo" data-image-name="Avengers team promo.jpg" data-image-key="Avengers_team_promo.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers team promo.jpg (323 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengers team promo" data-image-name="Avengers team promo.jpg" data-image-key="Avengers_team_promo.jpg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/6/66/Avengers_team_promo.jpg/revision/latest/scale-to-width/185?cb=20110831123250" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Avengers promo art.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers-mural-jpg" style="position: relative; height:146px; width:185px; top:19.5px;"><a class="image lightbox" href="/wiki/File:Avengers-mural.jpg" title="Avengers-mural.jpg (214 KB)" style="height:146px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/0/0b/Avengers-mural.jpg/revision/latest/scale-to-width/185?cb=20120526155552" title="Avengers-mural.jpg (214 KB)" class="thumbimage" alt="Avengers-mural" data-image-name="Avengers-mural.jpg" data-image-key="Avengers-mural.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers-mural.jpg (214 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengers-mural" data-image-name="Avengers-mural.jpg" data-image-key="Avengers-mural.jpg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/0/0b/Avengers-mural.jpg/revision/latest/scale-to-width/185?cb=20120526155552" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Avengers Promo art.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="The_Avengers_sdcc-jpg" style="position: relative; height:40px; width:185px; top:72.5px;"><a class="image lightbox" href="/wiki/File:The_Avengers_sdcc.jpg" title="The Avengers sdcc.jpg (1.08 MB)" style="height:40px; width:185px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/marvelmovies/images/8/87/The_Avengers_sdcc.jpg/revision/latest/scale-to-width/185?cb=20110724174400" title="The Avengers sdcc.jpg (1.08 MB)" class="thumbimage" alt="The Avengers sdcc" data-image-name="The Avengers sdcc.jpg" data-image-key="The_Avengers_sdcc.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="The Avengers sdcc.jpg (1.08 MB)" class="thumbimage lzy lzyPlcHld" alt="The Avengers sdcc" data-image-name="The Avengers sdcc.jpg" data-image-key="The_Avengers_sdcc.jpg" data-src="http://vignette4.wikia.nocookie.net/marvelmovies/images/8/87/The_Avengers_sdcc.jpg/revision/latest/scale-to-width/185?cb=20110724174400" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">the second promo art with S.H.I.E.L.D. agents.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers_assemble-jpg" style="position: relative; height:184px; width:135px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Avengers_assemble.jpg" title="Avengers assemble.jpg (294 KB)" style="height:184px; width:135px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/3/3a/Avengers_assemble.jpg/revision/latest/scale-to-width/136?cb=20110831144135" title="Avengers assemble.jpg (294 KB)" class="thumbimage" alt="Avengers assemble" data-image-name="Avengers assemble.jpg" data-image-key="Avengers_assemble.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers assemble.jpg (294 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengers assemble" data-image-name="Avengers assemble.jpg" data-image-key="Avengers_assemble.jpg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/3/3a/Avengers_assemble.jpg/revision/latest/scale-to-width/136?cb=20110831144135" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Promotional cover art with Nick Fury.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers_Trio-png" style="position: relative; height:125px; width:185px; top:30px;"><a class="image lightbox" href="/wiki/File:Avengers_Trio.png" title="Avengers Trio.png (698 KB)" style="height:125px; width:185px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/marvelmovies/images/4/48/Avengers_Trio.png/revision/latest/scale-to-width/185?cb=20110826193332" title="Avengers Trio.png (698 KB)" class="thumbimage" alt="Avengers Trio" data-image-name="Avengers Trio.png" data-image-key="Avengers_Trio.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers Trio.png (698 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengers Trio" data-image-name="Avengers Trio.png" data-image-key="Avengers_Trio.png" data-src="http://vignette4.wikia.nocookie.net/marvelmovies/images/4/48/Avengers_Trio.png/revision/latest/scale-to-width/185?cb=20110826193332" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Official Promo art.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="X340c1b8a-jpg" style="position: relative; height:184px; width:147px; top:0.5px;"><a class="image lightbox" href="/wiki/File:X340c1b8a.jpg" title="X340c1b8a.jpg (87 KB)" style="height:184px; width:147px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/marvelmovies/images/e/ee/X340c1b8a.jpg/revision/latest/scale-to-width/147?cb=20120129173304" title="X340c1b8a.jpg (87 KB)" class="thumbimage" alt="X340c1b8a" data-image-name="X340c1b8a.jpg" data-image-key="X340c1b8a.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="X340c1b8a.jpg (87 KB)" class="thumbimage lzy lzyPlcHld" alt="X340c1b8a" data-image-name="X340c1b8a.jpg" data-image-key="X340c1b8a.jpg" data-src="http://vignette3.wikia.nocookie.net/marvelmovies/images/e/ee/X340c1b8a.jpg/revision/latest/scale-to-width/147?cb=20120129173304" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="The-avengers-2012--jpg" style="position: relative; height:73px; width:185px; top:56px;"><a class="image lightbox" href="/wiki/File:The-avengers-2012-.jpg" title="The-avengers-2012-.jpg (100 KB)" style="height:73px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/0/08/The-avengers-2012-.jpg/revision/latest/scale-to-width/185?cb=20111220234128" title="The-avengers-2012-.jpg (100 KB)" class="thumbimage" alt="The-avengers-2012-" data-image-name="The-avengers-2012-.jpg" data-image-key="The-avengers-2012-.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="The-avengers-2012-.jpg (100 KB)" class="thumbimage lzy lzyPlcHld" alt="The-avengers-2012-" data-image-name="The-avengers-2012-.jpg" data-image-key="The-avengers-2012-.jpg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/0/08/The-avengers-2012-.jpg/revision/latest/scale-to-width/185?cb=20111220234128" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Eyg5e45yh-png" style="position: relative; height:184px; width:152px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Eyg5e45yh.png" title="Eyg5e45yh.png (1.19 MB)" style="height:184px; width:152px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/marvelmovies/images/f/f2/Eyg5e45yh.png/revision/latest/scale-to-width/153?cb=20120118213741" title="Eyg5e45yh.png (1.19 MB)" class="thumbimage" alt="Eyg5e45yh" data-image-name="Eyg5e45yh.png" data-image-key="Eyg5e45yh.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Eyg5e45yh.png (1.19 MB)" class="thumbimage lzy lzyPlcHld" alt="Eyg5e45yh" data-image-name="Eyg5e45yh.png" data-image-key="Eyg5e45yh.png" data-src="http://vignette4.wikia.nocookie.net/marvelmovies/images/f/f2/Eyg5e45yh.png/revision/latest/scale-to-width/153?cb=20120118213741" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Photo-4-jpg" style="position: relative; height:148px; width:185px; top:18.5px;"><a class="image lightbox" href="/wiki/File:Photo-4.jpg" title="Photo-4.jpg (1.37 MB)" style="height:148px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/marvelmovies/images/1/17/Photo-4.jpg/revision/latest/scale-to-width/185?cb=20120405031742" title="Photo-4.jpg (1.37 MB)" class="thumbimage" alt="Photo-4" data-image-name="Photo-4.jpg" data-image-key="Photo-4.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Photo-4.jpg (1.37 MB)" class="thumbimage lzy lzyPlcHld" alt="Photo-4" data-image-name="Photo-4.jpg" data-image-key="Photo-4.jpg" data-src="http://vignette1.wikia.nocookie.net/marvelmovies/images/1/17/Photo-4.jpg/revision/latest/scale-to-width/185?cb=20120405031742" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers_team_assemble-png" style="position: relative; height:83px; width:185px; top:51px;"><a class="image lightbox" href="/wiki/File:Avengers_team_assemble.png" title="Avengers team assemble.png (815 KB)" style="height:83px; width:185px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/marvelmovies/images/2/24/Avengers_team_assemble.png/revision/latest/scale-to-width/185?cb=20111215060006" title="Avengers team assemble.png (815 KB)" class="thumbimage" alt="Avengers team assemble" data-image-name="Avengers team assemble.png" data-image-key="Avengers_team_assemble.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers team assemble.png (815 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengers team assemble" data-image-name="Avengers team assemble.png" data-image-key="Avengers_team_assemble.png" data-src="http://vignette3.wikia.nocookie.net/marvelmovies/images/2/24/Avengers_team_assemble.png/revision/latest/scale-to-width/185?cb=20111215060006" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengersposterart-gif" style="position: relative; height:184px; width:145px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Avengersposterart.gif" title="Avengersposterart.gif (1.14 MB)" style="height:184px; width:145px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/marvelmovies/images/7/78/Avengersposterart.gif/revision/latest/scale-to-width/145?cb=20120126021509" title="Avengersposterart.gif (1.14 MB)" class="thumbimage" alt="Avengersposterart" data-image-name="Avengersposterart.gif" data-image-key="Avengersposterart.gif"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengersposterart.gif (1.14 MB)" class="thumbimage lzy lzyPlcHld" alt="Avengersposterart" data-image-name="Avengersposterart.gif" data-image-key="Avengersposterart.gif" data-src="http://vignette4.wikia.nocookie.net/marvelmovies/images/7/78/Avengersposterart.gif/revision/latest/scale-to-width/145?cb=20120126021509" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="x2053u-jpg" style="position: relative; height:65px; width:185px; top:60px;"><a class="image lightbox" href="/wiki/File:2053u.jpg" title="2053u.jpg (23 KB)" style="height:65px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/0/04/2053u.jpg/revision/latest/scale-to-width/185?cb=20120201002652" title="2053u.jpg (23 KB)" class="thumbimage" alt="2053u" data-image-name="2053u.jpg" data-image-key="2053u.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="2053u.jpg (23 KB)" class="thumbimage lzy lzyPlcHld" alt="2053u" data-image-name="2053u.jpg" data-image-key="2053u.jpg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/0/04/2053u.jpg/revision/latest/scale-to-width/185?cb=20120201002652" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="x2lo3whi-jpg" style="position: relative; height:185px; width:185px;"><a class="image lightbox" href="/wiki/File:2lo3whi.jpg" title="2lo3whi.jpg (65 KB)" style="height:185px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/marvelmovies/images/1/11/2lo3whi.jpg/revision/latest/scale-to-width/185?cb=20120201002754" title="2lo3whi.jpg (65 KB)" class="thumbimage" alt="2lo3whi" data-image-name="2lo3whi.jpg" data-image-key="2lo3whi.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="2lo3whi.jpg (65 KB)" class="thumbimage lzy lzyPlcHld" alt="2lo3whi" data-image-name="2lo3whi.jpg" data-image-key="2lo3whi.jpg" data-src="http://vignette1.wikia.nocookie.net/marvelmovies/images/1/11/2lo3whi.jpg/revision/latest/scale-to-width/185?cb=20120201002754" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Untitled23-png" style="position: relative; height:59px; width:185px; top:63px;"><a class="image lightbox" href="/wiki/File:Untitled23.png" title="Untitled23.png (767 KB)" style="height:59px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/marvelmovies/images/e/ec/Untitled23.png/revision/latest/scale-to-width/185?cb=20120201002839" title="Untitled23.png (767 KB)" class="thumbimage" alt="Untitled23" data-image-name="Untitled23.png" data-image-key="Untitled23.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Untitled23.png (767 KB)" class="thumbimage lzy lzyPlcHld" alt="Untitled23" data-image-name="Untitled23.png" data-image-key="Untitled23.png" data-src="http://vignette1.wikia.nocookie.net/marvelmovies/images/e/ec/Untitled23.png/revision/latest/scale-to-width/185?cb=20120201002839" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengersbanner1-png" style="position: relative; height:33px; width:185px; top:76px;"><a class="image lightbox" href="/wiki/File:Avengersbanner1.png" title="Avengersbanner1.png (614 KB)" style="height:33px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/4/4f/Avengersbanner1.png/revision/latest/scale-to-width/185?cb=20120204121000" title="Avengersbanner1.png (614 KB)" class="thumbimage" alt="Avengersbanner1" data-image-name="Avengersbanner1.png" data-image-key="Avengersbanner1.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengersbanner1.png (614 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengersbanner1" data-image-name="Avengersbanner1.png" data-image-key="Avengersbanner1.png" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/4/4f/Avengersbanner1.png/revision/latest/scale-to-width/185?cb=20120204121000" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Agsag-png" style="position: relative; height:185px; width:138px;"><a class="image lightbox" href="/wiki/File:Agsag.png" title="Agsag.png (360 KB)" style="height:185px; width:138px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/b/bc/Agsag.png/revision/latest/scale-to-width/138?cb=20120212165009" title="Agsag.png (360 KB)" class="thumbimage" alt="Agsag" data-image-name="Agsag.png" data-image-key="Agsag.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Agsag.png (360 KB)" class="thumbimage lzy lzyPlcHld" alt="Agsag" data-image-name="Agsag.png" data-image-key="Agsag.png" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/b/bc/Agsag.png/revision/latest/scale-to-width/138?cb=20120212165009" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Iron Man, Captain America, and Thor poster.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengersbig3-jpg" style="position: relative; height:185px; width:185px;"><a class="image lightbox" href="/wiki/File:Avengersbig3.jpg" title="Avengersbig3.jpg (133 KB)" style="height:185px; width:185px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/marvelmovies/images/a/a1/Avengersbig3.jpg/revision/latest/scale-to-width/185?cb=20120328012042" title="Avengersbig3.jpg (133 KB)" class="thumbimage" alt="Avengersbig3" data-image-name="Avengersbig3.jpg" data-image-key="Avengersbig3.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengersbig3.jpg (133 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengersbig3" data-image-name="Avengersbig3.jpg" data-image-key="Avengersbig3.jpg" data-src="http://vignette4.wikia.nocookie.net/marvelmovies/images/a/a1/Avengersbig3.jpg/revision/latest/scale-to-width/185?cb=20120328012042" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Merchandising Logo.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Subpage-header-jpg" style="position: relative; height:40px; width:185px; top:72.5px;"><a class="image lightbox" href="/wiki/File:Subpage-header.jpg" title="Subpage-header.jpg (79 KB)" style="height:40px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/b/b4/Subpage-header.jpg/revision/latest/scale-to-width/185?cb=20120212165330" title="Subpage-header.jpg (79 KB)" class="thumbimage" alt="Subpage-header" data-image-name="Subpage-header.jpg" data-image-key="Subpage-header.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Subpage-header.jpg (79 KB)" class="thumbimage lzy lzyPlcHld" alt="Subpage-header" data-image-name="Subpage-header.jpg" data-image-key="Subpage-header.jpg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/b/b4/Subpage-header.jpg/revision/latest/scale-to-width/185?cb=20120212165330" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Merchandising Banner.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Atggtagag-png" style="position: relative; height:184px; width:123px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Atggtagag.png" title="Atggtagag.png (237 KB)" style="height:184px; width:123px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/c/c6/Atggtagag.png/revision/latest/scale-to-width/123?cb=20120218161122" title="Atggtagag.png (237 KB)" class="thumbimage" alt="Atggtagag" data-image-name="Atggtagag.png" data-image-key="Atggtagag.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Atggtagag.png (237 KB)" class="thumbimage lzy lzyPlcHld" alt="Atggtagag" data-image-name="Atggtagag.png" data-image-key="Atggtagag.png" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/c/c6/Atggtagag.png/revision/latest/scale-to-width/123?cb=20120218161122" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Avengers prequel comic cover.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="The_Avengers-1-jpg" style="position: relative; height:162px; width:185px; top:11.5px;"><a class="image lightbox" href="/wiki/File:The_Avengers-1.jpg" title="The Avengers-1.jpg (140 KB)" style="height:162px; width:185px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/marvelmovies/images/a/a3/The_Avengers-1.jpg/revision/latest/scale-to-width/185?cb=20120207200038" title="The Avengers-1.jpg (140 KB)" class="thumbimage" alt="The Avengers-1" data-image-name="The Avengers-1.jpg" data-image-key="The_Avengers-1.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="The Avengers-1.jpg (140 KB)" class="thumbimage lzy lzyPlcHld" alt="The Avengers-1" data-image-name="The Avengers-1.jpg" data-image-key="The_Avengers-1.jpg" data-src="http://vignette3.wikia.nocookie.net/marvelmovies/images/a/a3/The_Avengers-1.jpg/revision/latest/scale-to-width/185?cb=20120207200038" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Rthbrhrhrthrthrhtrth2-png" style="position: relative; height:184px; width:111px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Rthbrhrhrthrthrhtrth2.png" title="Rthbrhrhrthrthrhtrth2.png (1.14 MB)" style="height:184px; width:111px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/marvelmovies/images/4/41/Rthbrhrhrthrthrhtrth2.png/revision/latest/scale-to-width/112?cb=20120302203743" title="Rthbrhrhrthrthrhtrth2.png (1.14 MB)" class="thumbimage" alt="Rthbrhrhrthrthrhtrth2" data-image-name="Rthbrhrhrthrthrhtrth2.png" data-image-key="Rthbrhrhrthrthrhtrth2.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Rthbrhrhrthrthrhtrth2.png (1.14 MB)" class="thumbimage lzy lzyPlcHld" alt="Rthbrhrhrthrthrhtrth2" data-image-name="Rthbrhrhrthrthrhtrth2.png" data-image-key="Rthbrhrhrthrthrhtrth2.png" data-src="http://vignette3.wikia.nocookie.net/marvelmovies/images/4/41/Rthbrhrhrthrthrhtrth2.png/revision/latest/scale-to-width/112?cb=20120302203743" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers_merch-jpg" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:Avengers_merch.jpg" title="Avengers merch.jpg (117 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/marvelmovies/images/e/e0/Avengers_merch.jpg/revision/latest/scale-to-width/185?cb=20120303205738" title="Avengers merch.jpg (117 KB)" class="thumbimage" alt="Avengers merch" data-image-name="Avengers merch.jpg" data-image-key="Avengers_merch.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers merch.jpg (117 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengers merch" data-image-name="Avengers merch.jpg" data-image-key="Avengers_merch.jpg" data-src="http://vignette3.wikia.nocookie.net/marvelmovies/images/e/e0/Avengers_merch.jpg/revision/latest/scale-to-width/185?cb=20120303205738" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">The Big Three's helmets.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers_Sheild-jpg" style="position: relative; height:124px; width:185px; top:30.5px;"><a class="image lightbox" href="/wiki/File:Avengers_Sheild.jpg" title="Avengers Sheild.jpg (547 KB)" style="height:124px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/6/64/Avengers_Sheild.jpg/revision/latest/scale-to-width/185?cb=20120824234006" title="Avengers Sheild.jpg (547 KB)" class="thumbimage" alt="Avengers Sheild" data-image-name="Avengers Sheild.jpg" data-image-key="Avengers_Sheild.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers Sheild.jpg (547 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengers Sheild" data-image-name="Avengers Sheild.jpg" data-image-key="Avengers_Sheild.jpg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/6/64/Avengers_Sheild.jpg/revision/latest/scale-to-width/185?cb=20120824234006" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">S.H.I.E.l.D files on The Avengers.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers_bsa_promo_1_1-jpg" style="position: relative; height:93px; width:185px; top:46px;"><a class="image lightbox" href="/wiki/File:Avengers_bsa_promo_1_1.jpg" title="Avengers bsa promo 1 1.jpg (120 KB)" style="height:93px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/9/9a/Avengers_bsa_promo_1_1.jpg/revision/latest/scale-to-width/185?cb=20120311175950" title="Avengers bsa promo 1 1.jpg (120 KB)" class="thumbimage" alt="Avengers bsa promo 1 1" data-image-name="Avengers bsa promo 1 1.jpg" data-image-key="Avengers_bsa_promo_1_1.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers bsa promo 1 1.jpg (120 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengers bsa promo 1 1" data-image-name="Avengers bsa promo 1 1.jpg" data-image-key="Avengers_bsa_promo_1_1.jpg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/9/9a/Avengers_bsa_promo_1_1.jpg/revision/latest/scale-to-width/185?cb=20120311175950" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Banner.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengersteamshot-jpg" style="position: relative; height:82px; width:185px; top:51.5px;"><a class="image lightbox" href="/wiki/File:Avengersteamshot.jpg" title="Avengersteamshot.jpg (5.45 MB)" style="height:82px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/9/95/Avengersteamshot.jpg/revision/latest/scale-to-width/185?cb=20120315201730" title="Avengersteamshot.jpg (5.45 MB)" class="thumbimage" alt="Avengersteamshot" data-image-name="Avengersteamshot.jpg" data-image-key="Avengersteamshot.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengersteamshot.jpg (5.45 MB)" class="thumbimage lzy lzyPlcHld" alt="Avengersteamshot" data-image-name="Avengersteamshot.jpg" data-image-key="Avengersteamshot.jpg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/9/95/Avengersteamshot.jpg/revision/latest/scale-to-width/185?cb=20120315201730" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Banner.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Agq3fw63-png" style="position: relative; height:185px; width:118px;"><a class="image lightbox" href="/wiki/File:Agq3fw63.png" title="Agq3fw63.png (368 KB)" style="height:185px; width:118px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/marvelmovies/images/5/5f/Agq3fw63.png/revision/latest/scale-to-width/118?cb=20120401195855" title="Agq3fw63.png (368 KB)" class="thumbimage" alt="Agq3fw63" data-image-name="Agq3fw63.png" data-image-key="Agq3fw63.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Agq3fw63.png (368 KB)" class="thumbimage lzy lzyPlcHld" alt="Agq3fw63" data-image-name="Agq3fw63.png" data-image-key="Agq3fw63.png" data-src="http://vignette3.wikia.nocookie.net/marvelmovies/images/5/5f/Agq3fw63.png/revision/latest/scale-to-width/118?cb=20120401195855" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Thor, Iron Man, and Hulk against Loki.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengersbig4-jpg" style="position: relative; height:184px; width:121px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Avengersbig4.jpg" title="Avengersbig4.jpg (157 KB)" style="height:184px; width:121px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/2/23/Avengersbig4.jpg/revision/latest/scale-to-width/122?cb=20120409025802" title="Avengersbig4.jpg (157 KB)" class="thumbimage" alt="Avengersbig4" data-image-name="Avengersbig4.jpg" data-image-key="Avengersbig4.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengersbig4.jpg (157 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengersbig4" data-image-name="Avengersbig4.jpg" data-image-key="Avengersbig4.jpg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/2/23/Avengersbig4.jpg/revision/latest/scale-to-width/122?cb=20120409025802" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Captain America, Thor, Iron Man &amp; The Hulk.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers_background_10-jpg" style="position: relative; height:148px; width:185px; top:18.5px;"><a class="image lightbox" href="/wiki/File:Avengers_background_10.jpg" title="Avengers background 10.jpg (1.27 MB)" style="height:148px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/marvelmovies/images/6/6b/Avengers_background_10.jpg/revision/latest/scale-to-width/185?cb=20120405031509" title="Avengers background 10.jpg (1.27 MB)" class="thumbimage" alt="Avengers background 10" data-image-name="Avengers background 10.jpg" data-image-key="Avengers_background_10.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers background 10.jpg (1.27 MB)" class="thumbimage lzy lzyPlcHld" alt="Avengers background 10" data-image-name="Avengers background 10.jpg" data-image-key="Avengers_background_10.jpg" data-src="http://vignette1.wikia.nocookie.net/marvelmovies/images/6/6b/Avengers_background_10.jpg/revision/latest/scale-to-width/185?cb=20120405031509" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers-super-bowl085-jpg" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:Avengers-super-bowl085.jpg" title="Avengers-super-bowl085.jpg (135 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/marvelmovies/images/6/61/Avengers-super-bowl085.jpg/revision/latest/scale-to-width/185?cb=20120206025746" title="Avengers-super-bowl085.jpg (135 KB)" class="thumbimage" alt="Avengers-super-bowl085" data-image-name="Avengers-super-bowl085.jpg" data-image-key="Avengers-super-bowl085.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers-super-bowl085.jpg (135 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengers-super-bowl085" data-image-name="Avengers-super-bowl085.jpg" data-image-key="Avengers-super-bowl085.jpg" data-src="http://vignette1.wikia.nocookie.net/marvelmovies/images/6/61/Avengers-super-bowl085.jpg/revision/latest/scale-to-width/185?cb=20120206025746" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Avengers Assemble.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Anigif-gif" style="position: relative; height:100px; width:185px; top:42.5px;"><a class="image lightbox" href="/wiki/File:Anigif.gif" title="Anigif.gif (861 KB)" style="height:100px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/a/ab/Anigif.gif/revision/latest/scale-to-width/185?cb=20120222063521" title="Anigif.gif (861 KB)" class="thumbimage" alt="Anigif" data-image-name="Anigif.gif" data-image-key="Anigif.gif"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Anigif.gif (861 KB)" class="thumbimage lzy lzyPlcHld" alt="Anigif" data-image-name="Anigif.gif" data-image-key="Anigif.gif" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/a/ab/Anigif.gif/revision/latest/scale-to-width/185?cb=20120222063521" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Avengers Assemble.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers-super-bowl089-jpg" style="position: relative; height:98px; width:185px; top:43.5px;"><a class="image lightbox" href="/wiki/File:Avengers-super-bowl089.jpg" title="Avengers-super-bowl089.jpg (40 KB)" style="height:98px; width:185px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/marvelmovies/images/0/03/Avengers-super-bowl089.jpg/revision/latest/scale-to-width/185?cb=20120206052312" title="Avengers-super-bowl089.jpg (40 KB)" class="thumbimage" alt="Avengers-super-bowl089" data-image-name="Avengers-super-bowl089.jpg" data-image-key="Avengers-super-bowl089.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers-super-bowl089.jpg (40 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengers-super-bowl089" data-image-name="Avengers-super-bowl089.jpg" data-image-key="Avengers-super-bowl089.jpg" data-src="http://vignette4.wikia.nocookie.net/marvelmovies/images/0/03/Avengers-super-bowl089.jpg/revision/latest/scale-to-width/185?cb=20120206052312" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Avengers Assemble.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers-super-bowl093-jpg" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:Avengers-super-bowl093.jpg" title="Avengers-super-bowl093.jpg (129 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/f/fe/Avengers-super-bowl093.jpg/revision/latest/scale-to-width/185?cb=20120206025214" title="Avengers-super-bowl093.jpg (129 KB)" class="thumbimage" alt="Avengers-super-bowl093" data-image-name="Avengers-super-bowl093.jpg" data-image-key="Avengers-super-bowl093.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers-super-bowl093.jpg (129 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengers-super-bowl093" data-image-name="Avengers-super-bowl093.jpg" data-image-key="Avengers-super-bowl093.jpg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/f/fe/Avengers-super-bowl093.jpg/revision/latest/scale-to-width/185?cb=20120206025214" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Avengers Assemble.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Teamassembled-jpg" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:Teamassembled.jpg" title="Teamassembled.jpg (372 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/marvelmovies/images/c/cb/Teamassembled.jpg/revision/latest/scale-to-width/185?cb=20140204052432" title="Teamassembled.jpg (372 KB)" class="thumbimage" alt="Teamassembled" data-image-name="Teamassembled.jpg" data-image-key="Teamassembled.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Teamassembled.jpg (372 KB)" class="thumbimage lzy lzyPlcHld" alt="Teamassembled" data-image-name="Teamassembled.jpg" data-image-key="Teamassembled.jpg" data-src="http://vignette1.wikia.nocookie.net/marvelmovies/images/c/cb/Teamassembled.jpg/revision/latest/scale-to-width/185?cb=20140204052432" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">The team assembled.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="The_Avengers_NY-png" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:The_Avengers_NY.png" title="The Avengers NY.png (3.58 MB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/1/16/The_Avengers_NY.png/revision/latest/scale-to-width/185?cb=20131205052117" title="The Avengers NY.png (3.58 MB)" class="thumbimage" alt="The Avengers NY" data-image-name="The Avengers NY.png" data-image-key="The_Avengers_NY.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="The Avengers NY.png (3.58 MB)" class="thumbimage lzy lzyPlcHld" alt="The Avengers NY" data-image-name="The Avengers NY.png" data-image-key="The_Avengers_NY.png" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/1/16/The_Avengers_NY.png/revision/latest/scale-to-width/185?cb=20131205052117" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Yhvgvgvgvgv-jpg" style="position: relative; height:100px; width:185px; top:42.5px;"><a class="image lightbox" href="/wiki/File:Yhvgvgvgvgv.jpg" title="Yhvgvgvgvgv.jpg (79 KB)" style="height:100px; width:185px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/marvelmovies/images/0/0d/Yhvgvgvgvgv.jpg/revision/latest/scale-to-width/185?cb=20120413223454" title="Yhvgvgvgvgv.jpg (79 KB)" class="thumbimage" alt="Yhvgvgvgvgv" data-image-name="Yhvgvgvgvgv.jpg" data-image-key="Yhvgvgvgvgv.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Yhvgvgvgvgv.jpg (79 KB)" class="thumbimage lzy lzyPlcHld" alt="Yhvgvgvgvgv" data-image-name="Yhvgvgvgvgv.jpg" data-image-key="Yhvgvgvgvgv.jpg" data-src="http://vignette3.wikia.nocookie.net/marvelmovies/images/0/0d/Yhvgvgvgvgv.jpg/revision/latest/scale-to-width/185?cb=20120413223454" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Dufhdunhf-jpg" style="position: relative; height:100px; width:185px; top:42.5px;"><a class="image lightbox" href="/wiki/File:Dufhdunhf.jpg" title="Dufhdunhf.jpg (78 KB)" style="height:100px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/marvelmovies/images/1/13/Dufhdunhf.jpg/revision/latest/scale-to-width/185?cb=20120419203622" title="Dufhdunhf.jpg (78 KB)" class="thumbimage" alt="Dufhdunhf" data-image-name="Dufhdunhf.jpg" data-image-key="Dufhdunhf.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Dufhdunhf.jpg (78 KB)" class="thumbimage lzy lzyPlcHld" alt="Dufhdunhf" data-image-name="Dufhdunhf.jpg" data-image-key="Dufhdunhf.jpg" data-src="http://vignette1.wikia.nocookie.net/marvelmovies/images/1/13/Dufhdunhf.jpg/revision/latest/scale-to-width/185?cb=20120419203622" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengerstheatricalposterart-jpg" style="position: relative; height:116px; width:185px; top:34.5px;"><a class="image lightbox" href="/wiki/File:Avengerstheatricalposterart.jpg" title="Avengerstheatricalposterart.jpg (609 KB)" style="height:116px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/0/00/Avengerstheatricalposterart.jpg/revision/latest/scale-to-width/185?cb=20120301112258" title="Avengerstheatricalposterart.jpg (609 KB)" class="thumbimage" alt="Avengerstheatricalposterart" data-image-name="Avengerstheatricalposterart.jpg" data-image-key="Avengerstheatricalposterart.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengerstheatricalposterart.jpg (609 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengerstheatricalposterart" data-image-name="Avengerstheatricalposterart.jpg" data-image-key="Avengerstheatricalposterart.jpg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/0/00/Avengerstheatricalposterart.jpg/revision/latest/scale-to-width/185?cb=20120301112258" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengerstriumphant-jpg" style="position: relative; height:69px; width:185px; top:58px;"><a class="image lightbox" href="/wiki/File:Avengerstriumphant.jpg" title="Avengerstriumphant.jpg (229 KB)" style="height:69px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/marvelmovies/images/1/14/Avengerstriumphant.jpg/revision/latest/scale-to-width/185?cb=20120708042804" title="Avengerstriumphant.jpg (229 KB)" class="thumbimage" alt="Avengerstriumphant" data-image-name="Avengerstriumphant.jpg" data-image-key="Avengerstriumphant.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengerstriumphant.jpg (229 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengerstriumphant" data-image-name="Avengerstriumphant.jpg" data-image-key="Avengerstriumphant.jpg" data-src="http://vignette1.wikia.nocookie.net/marvelmovies/images/1/14/Avengerstriumphant.jpg/revision/latest/scale-to-width/185?cb=20120708042804" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Team_assemble-jpg" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:Team_assemble.jpg" title="Team assemble.jpg (197 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/4/42/Team_assemble.jpg/revision/latest/scale-to-width/185?cb=20120822191054" title="Team assemble.jpg (197 KB)" class="thumbimage" alt="Team assemble" data-image-name="Team assemble.jpg" data-image-key="Team_assemble.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Team assemble.jpg (197 KB)" class="thumbimage lzy lzyPlcHld" alt="Team assemble" data-image-name="Team assemble.jpg" data-image-key="Team_assemble.jpg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/4/42/Team_assemble.jpg/revision/latest/scale-to-width/185?cb=20120822191054" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="AvengersAssembleteam-jpg" style="position: relative; height:184px; width:130px; top:0.5px;"><a class="image lightbox" href="/wiki/File:AvengersAssembleteam.jpg" title="AvengersAssembleteam.jpg (637 KB)" style="height:184px; width:130px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/marvelmovies/images/3/33/AvengersAssembleteam.jpg/revision/latest/scale-to-width/130?cb=20140408015354" title="AvengersAssembleteam.jpg (637 KB)" class="thumbimage" alt="AvengersAssembleteam" data-image-name="AvengersAssembleteam.jpg" data-image-key="AvengersAssembleteam.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="AvengersAssembleteam.jpg (637 KB)" class="thumbimage lzy lzyPlcHld" alt="AvengersAssembleteam" data-image-name="AvengersAssembleteam.jpg" data-image-key="AvengersAssembleteam.jpg" data-src="http://vignette3.wikia.nocookie.net/marvelmovies/images/3/33/AvengersAssembleteam.jpg/revision/latest/scale-to-width/130?cb=20140408015354" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="MarvelPhase2-Avengers-jpg" style="position: relative; height:134px; width:185px; top:25.5px;"><a class="image lightbox" href="/wiki/File:MarvelPhase2-Avengers.jpg" title="MarvelPhase2-Avengers.jpg (65 KB)" style="height:134px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/7/73/MarvelPhase2-Avengers.jpg/revision/latest/scale-to-width/185?cb=20150128095120" title="MarvelPhase2-Avengers.jpg (65 KB)" class="thumbimage" alt="MarvelPhase2-Avengers" data-image-name="MarvelPhase2-Avengers.jpg" data-image-key="MarvelPhase2-Avengers.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="MarvelPhase2-Avengers.jpg (65 KB)" class="thumbimage lzy lzyPlcHld" alt="MarvelPhase2-Avengers" data-image-name="MarvelPhase2-Avengers.jpg" data-image-key="MarvelPhase2-Avengers.jpg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/7/73/MarvelPhase2-Avengers.jpg/revision/latest/scale-to-width/185?cb=20150128095120" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Promo art Phase II</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Marvelousavengers-jpg" style="position: relative; height:185px; width:180px;"><a class="image lightbox" href="/wiki/File:Marvelousavengers.jpg" title="Marvelousavengers.jpg (109 KB)" style="height:185px; width:180px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/8/83/Marvelousavengers.jpg/revision/latest/scale-to-width/180?cb=20140111073637" title="Marvelousavengers.jpg (109 KB)" class="thumbimage" alt="Marvelousavengers" data-image-name="Marvelousavengers.jpg" data-image-key="Marvelousavengers.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Marvelousavengers.jpg (109 KB)" class="thumbimage lzy lzyPlcHld" alt="Marvelousavengers" data-image-name="Marvelousavengers.jpg" data-image-key="Marvelousavengers.jpg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/8/83/Marvelousavengers.jpg/revision/latest/scale-to-width/180?cb=20140111073637" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers-age-of-ultron-team-textless-jpg" style="position: relative; height:142px; width:185px; top:21.5px;"><a class="image lightbox" href="/wiki/File:Avengers-age-of-ultron-team-textless.jpg" title="Avengers-age-of-ultron-team-textless.jpg (4.1 MB)" style="height:142px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/marvelmovies/images/e/e4/Avengers-age-of-ultron-team-textless.jpg/revision/latest/scale-to-width/185?cb=20140920034706" title="Avengers-age-of-ultron-team-textless.jpg (4.1 MB)" class="thumbimage" alt="Avengers-age-of-ultron-team-textless" data-image-name="Avengers-age-of-ultron-team-textless.jpg" data-image-key="Avengers-age-of-ultron-team-textless.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers-age-of-ultron-team-textless.jpg (4.1 MB)" class="thumbimage lzy lzyPlcHld" alt="Avengers-age-of-ultron-team-textless" data-image-name="Avengers-age-of-ultron-team-textless.jpg" data-image-key="Avengers-age-of-ultron-team-textless.jpg" data-src="http://vignette1.wikia.nocookie.net/marvelmovies/images/e/e4/Avengers-age-of-ultron-team-textless.jpg/revision/latest/scale-to-width/185?cb=20140920034706" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="AoU_Steve-2C_Clint-2C_Tony-2C_Rhodey-jpg" style="position: relative; height:93px; width:185px; top:46px;"><a class="image lightbox" href="/wiki/File:AoU_Steve,_Clint,_Tony,_Rhodey.jpg" title="AoU Steve, Clint, Tony, Rhodey.jpg (312 KB)" style="height:93px; width:185px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/marvelmovies/images/b/b5/AoU_Steve%2C_Clint%2C_Tony%2C_Rhodey.jpg/revision/latest/scale-to-width/185?cb=20141109073041" title="AoU Steve, Clint, Tony, Rhodey.jpg (312 KB)" class="thumbimage" alt="AoU Steve, Clint, Tony, Rhodey" data-image-name="AoU Steve, Clint, Tony, Rhodey.jpg" data-image-key="AoU_Steve%2C_Clint%2C_Tony%2C_Rhodey.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="AoU Steve, Clint, Tony, Rhodey.jpg (312 KB)" class="thumbimage lzy lzyPlcHld" alt="AoU Steve, Clint, Tony, Rhodey" data-image-name="AoU Steve, Clint, Tony, Rhodey.jpg" data-image-key="AoU_Steve%2C_Clint%2C_Tony%2C_Rhodey.jpg" data-src="http://vignette4.wikia.nocookie.net/marvelmovies/images/b/b5/AoU_Steve%2C_Clint%2C_Tony%2C_Rhodey.jpg/revision/latest/scale-to-width/185?cb=20141109073041" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">The Avenger Team with James Rhodes at <a href="/wiki/Avengers_Tower" title="Avengers Tower">Avengers Tower</a> in <a href="/wiki/Avengers:_Age_of_Ultron" title="Avengers: Age of Ultron">Age of Ultron</a></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers-2-sneak-peek-photo-jpg" style="position: relative; height:77px; width:185px; top:54px;"><a class="image lightbox" href="/wiki/File:Avengers-2-sneak-peek-photo.jpg" title="Avengers-2-sneak-peek-photo.jpg (1.34 MB)" style="height:77px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/8/80/Avengers-2-sneak-peek-photo.jpg/revision/latest/scale-to-width/185?cb=20141230055304" title="Avengers-2-sneak-peek-photo.jpg (1.34 MB)" class="thumbimage" alt="Avengers-2-sneak-peek-photo" data-image-name="Avengers-2-sneak-peek-photo.jpg" data-image-key="Avengers-2-sneak-peek-photo.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers-2-sneak-peek-photo.jpg (1.34 MB)" class="thumbimage lzy lzyPlcHld" alt="Avengers-2-sneak-peek-photo" data-image-name="Avengers-2-sneak-peek-photo.jpg" data-image-key="Avengers-2-sneak-peek-photo.jpg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/8/80/Avengers-2-sneak-peek-photo.jpg/revision/latest/scale-to-width/185?cb=20141230055304" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="The_Avengers_AoU_Promo-png" style="position: relative; height:185px; width:139px;"><a class="image lightbox" href="/wiki/File:The_Avengers_AoU_Promo.png" title="The Avengers AoU Promo.png (435 KB)" style="height:185px; width:139px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/marvelmovies/images/4/41/The_Avengers_AoU_Promo.png/revision/latest/scale-to-width/139?cb=20141230171753" title="The Avengers AoU Promo.png (435 KB)" class="thumbimage" alt="The Avengers AoU Promo" data-image-name="The Avengers AoU Promo.png" data-image-key="The_Avengers_AoU_Promo.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="The Avengers AoU Promo.png (435 KB)" class="thumbimage lzy lzyPlcHld" alt="The Avengers AoU Promo" data-image-name="The Avengers AoU Promo.png" data-image-key="The_Avengers_AoU_Promo.png" data-src="http://vignette3.wikia.nocookie.net/marvelmovies/images/4/41/The_Avengers_AoU_Promo.png/revision/latest/scale-to-width/139?cb=20141230171753" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers-AOUteam-jpg" style="position: relative; height:184px; width:114px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Avengers-AOUteam.jpg" title="Avengers-AOUteam.jpg (44 KB)" style="height:184px; width:114px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/marvelmovies/images/a/ad/Avengers-AOUteam.jpg/revision/latest/scale-to-width/115?cb=20150113032624" title="Avengers-AOUteam.jpg (44 KB)" class="thumbimage" alt="Avengers-AOUteam" data-image-name="Avengers-AOUteam.jpg" data-image-key="Avengers-AOUteam.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers-AOUteam.jpg (44 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengers-AOUteam" data-image-name="Avengers-AOUteam.jpg" data-image-key="Avengers-AOUteam.jpg" data-src="http://vignette4.wikia.nocookie.net/marvelmovies/images/a/ad/Avengers-AOUteam.jpg/revision/latest/scale-to-width/115?cb=20150113032624" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">The Avengers with Vision</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Team-Avengers-png" style="position: relative; height:183px; width:185px; top:1px;"><a class="image lightbox" href="/wiki/File:Team-Avengers.png" title="Team-Avengers.png (580 KB)" style="height:183px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/marvelmovies/images/4/4b/Team-Avengers.png/revision/latest/scale-to-width/185?cb=20150115223223" title="Team-Avengers.png (580 KB)" class="thumbimage" alt="Team-Avengers" data-image-name="Team-Avengers.png" data-image-key="Team-Avengers.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Team-Avengers.png (580 KB)" class="thumbimage lzy lzyPlcHld" alt="Team-Avengers" data-image-name="Team-Avengers.png" data-image-key="Team-Avengers.png" data-src="http://vignette1.wikia.nocookie.net/marvelmovies/images/4/4b/Team-Avengers.png/revision/latest/scale-to-width/185?cb=20150115223223" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="AoU_team_0002-jpg" style="position: relative; height:185px; width:135px;"><a class="image lightbox" href="/wiki/File:AoU_team_0002.jpg" title="AoU team 0002.jpg (8.4 MB)" style="height:185px; width:135px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/marvelmovies/images/0/06/AoU_team_0002.jpg/revision/latest/scale-to-width/135?cb=20150215130716" title="AoU team 0002.jpg (8.4 MB)" class="thumbimage" alt="AoU team 0002" data-image-name="AoU team 0002.jpg" data-image-key="AoU_team_0002.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="AoU team 0002.jpg (8.4 MB)" class="thumbimage lzy lzyPlcHld" alt="AoU team 0002" data-image-name="AoU team 0002.jpg" data-image-key="AoU_team_0002.jpg" data-src="http://vignette3.wikia.nocookie.net/marvelmovies/images/0/06/AoU_team_0002.jpg/revision/latest/scale-to-width/135?cb=20150215130716" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengersunited-png" style="position: relative; height:183px; width:185px; top:1px;"><a class="image lightbox" href="/wiki/File:Avengersunited.png" title="Avengersunited.png (656 KB)" style="height:183px; width:185px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/marvelmovies/images/0/02/Avengersunited.png/revision/latest/scale-to-width/185?cb=20150115223515" title="Avengersunited.png (656 KB)" class="thumbimage" alt="Avengersunited" data-image-name="Avengersunited.png" data-image-key="Avengersunited.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengersunited.png (656 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengersunited" data-image-name="Avengersunited.png" data-image-key="Avengersunited.png" data-src="http://vignette3.wikia.nocookie.net/marvelmovies/images/0/02/Avengersunited.png/revision/latest/scale-to-width/185?cb=20150115223515" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="AoU_Assemble-jpg" style="position: relative; height:171px; width:185px; top:7px;"><a class="image lightbox" href="/wiki/File:AoU_Assemble.jpg" title="AoU Assemble.jpg (8.97 MB)" style="height:171px; width:185px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/marvelmovies/images/1/1a/AoU_Assemble.jpg/revision/latest/scale-to-width/185?cb=20150215131517" title="AoU Assemble.jpg (8.97 MB)" class="thumbimage" alt="AoU Assemble" data-image-name="AoU Assemble.jpg" data-image-key="AoU_Assemble.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="AoU Assemble.jpg (8.97 MB)" class="thumbimage lzy lzyPlcHld" alt="AoU Assemble" data-image-name="AoU Assemble.jpg" data-image-key="AoU_Assemble.jpg" data-src="http://vignette3.wikia.nocookie.net/marvelmovies/images/1/1a/AoU_Assemble.jpg/revision/latest/scale-to-width/185?cb=20150215131517" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="AvengersAgeOfUltrontoriginal6-jpeg" style="position: relative; height:184px; width:147px; top:0.5px;"><a class="image lightbox" href="/wiki/File:AvengersAgeOfUltrontoriginal6.jpeg" title="AvengersAgeOfUltrontoriginal6.jpeg (110 KB)" style="height:184px; width:147px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/3/30/AvengersAgeOfUltrontoriginal6.jpeg/revision/latest/scale-to-width/147?cb=20150113041629" title="AvengersAgeOfUltrontoriginal6.jpeg (110 KB)" class="thumbimage" alt="AvengersAgeOfUltrontoriginal6" data-image-name="AvengersAgeOfUltrontoriginal6.jpeg" data-image-key="AvengersAgeOfUltrontoriginal6.jpeg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="AvengersAgeOfUltrontoriginal6.jpeg (110 KB)" class="thumbimage lzy lzyPlcHld" alt="AvengersAgeOfUltrontoriginal6" data-image-name="AvengersAgeOfUltrontoriginal6.jpeg" data-image-key="AvengersAgeOfUltrontoriginal6.jpeg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/3/30/AvengersAgeOfUltrontoriginal6.jpeg/revision/latest/scale-to-width/147?cb=20150113041629" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers-team-original6-AOU-jpg" style="position: relative; height:185px; width:123px;"><a class="image lightbox" href="/wiki/File:Avengers-team-original6-AOU.jpg" title="Avengers-team-original6-AOU.jpg (102 KB)" style="height:185px; width:123px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/marvelmovies/images/6/6f/Avengers-team-original6-AOU.jpg/revision/latest/scale-to-width/123?cb=20150206135420" title="Avengers-team-original6-AOU.jpg (102 KB)" class="thumbimage" alt="Avengers-team-original6-AOU" data-image-name="Avengers-team-original6-AOU.jpg" data-image-key="Avengers-team-original6-AOU.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers-team-original6-AOU.jpg (102 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengers-team-original6-AOU" data-image-name="Avengers-team-original6-AOU.jpg" data-image-key="Avengers-team-original6-AOU.jpg" data-src="http://vignette1.wikia.nocookie.net/marvelmovies/images/6/6f/Avengers-team-original6-AOU.jpg/revision/latest/scale-to-width/123?cb=20150206135420" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="AvengersBig4-png" style="position: relative; height:60px; width:185px; top:62.5px;"><a class="image lightbox" href="/wiki/File:AvengersBig4.png" title="AvengersBig4.png (341 KB)" style="height:60px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/marvelmovies/images/c/cd/AvengersBig4.png/revision/latest/scale-to-width/185?cb=20150113042501" title="AvengersBig4.png (341 KB)" class="thumbimage" alt="AvengersBig4" data-image-name="AvengersBig4.png" data-image-key="AvengersBig4.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="AvengersBig4.png (341 KB)" class="thumbimage lzy lzyPlcHld" alt="AvengersBig4" data-image-name="AvengersBig4.png" data-image-key="AvengersBig4.png" data-src="http://vignette1.wikia.nocookie.net/marvelmovies/images/c/cd/AvengersBig4.png/revision/latest/scale-to-width/185?cb=20150113042501" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers-AOUcharacters-promoart-jpg" style="position: relative; height:34px; width:185px; top:75.5px;"><a class="image lightbox" href="/wiki/File:Avengers-AOUcharacters-promoart.jpg" title="Avengers-AOUcharacters-promoart.jpg (931 KB)" style="height:34px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/marvelmovies/images/2/2f/Avengers-AOUcharacters-promoart.jpg/revision/latest/scale-to-width/185?cb=20150203150326" title="Avengers-AOUcharacters-promoart.jpg (931 KB)" class="thumbimage" alt="Avengers-AOUcharacters-promoart" data-image-name="Avengers-AOUcharacters-promoart.jpg" data-image-key="Avengers-AOUcharacters-promoart.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers-AOUcharacters-promoart.jpg (931 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengers-AOUcharacters-promoart" data-image-name="Avengers-AOUcharacters-promoart.jpg" data-image-key="Avengers-AOUcharacters-promoart.jpg" data-src="http://vignette1.wikia.nocookie.net/marvelmovies/images/2/2f/Avengers-AOUcharacters-promoart.jpg/revision/latest/scale-to-width/185?cb=20150203150326" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengers_Promo_Art-png" style="position: relative; height:185px; width:159px;"><a class="image lightbox" href="/wiki/File:Avengers_Promo_Art.png" title="Avengers Promo Art.png (408 KB)" style="height:185px; width:159px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/marvelmovies/images/7/75/Avengers_Promo_Art.png/revision/latest/scale-to-width/159?cb=20150123234526" title="Avengers Promo Art.png (408 KB)" class="thumbimage" alt="Avengers Promo Art" data-image-name="Avengers Promo Art.png" data-image-key="Avengers_Promo_Art.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengers Promo Art.png (408 KB)" class="thumbimage lzy lzyPlcHld" alt="Avengers Promo Art" data-image-name="Avengers Promo Art.png" data-image-key="Avengers_Promo_Art.png" data-src="http://vignette1.wikia.nocookie.net/marvelmovies/images/7/75/Avengers_Promo_Art.png/revision/latest/scale-to-width/159?cb=20150123234526" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Avengersageofultron-artwork2-jpg-7Eoriginal-jpeg" style="position: relative; height:185px; width:123px;"><a class="image lightbox" href="/wiki/File:Avengersageofultron-artwork2.jpg%7Eoriginal.jpeg" title="Avengersageofultron-artwork2.jpg~original.jpeg (2.32 MB)" style="height:185px; width:123px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/marvelmovies/images/e/e2/Avengersageofultron-artwork2.jpg~original.jpeg/revision/latest/scale-to-width/123?cb=20150210020143" title="Avengersageofultron-artwork2.jpg~original.jpeg (2.32 MB)" class="thumbimage" alt="Avengersageofultron-artwork2.jpg~original" data-image-name="Avengersageofultron-artwork2.jpg~original.jpeg" data-image-key="Avengersageofultron-artwork2.jpg%7Eoriginal.jpeg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Avengersageofultron-artwork2.jpg~original.jpeg (2.32 MB)" class="thumbimage lzy lzyPlcHld" alt="Avengersageofultron-artwork2.jpg~original" data-image-name="Avengersageofultron-artwork2.jpg~original.jpeg" data-image-key="Avengersageofultron-artwork2.jpg%7Eoriginal.jpeg" data-src="http://vignette2.wikia.nocookie.net/marvelmovies/images/e/e2/Avengersageofultron-artwork2.jpg~original.jpeg/revision/latest/scale-to-width/123?cb=20150210020143" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><br /><a class="wikia-photogallery-add wikia-button noprint" style="display: none"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite photo" width="26" height="16" />Add a photo to this gallery</a></div><script>JSSnippetsStack.push({dependencies:[{"url":"http://slot1.images1.wikia.nocookie.net/__am/1423869437/group/-/wikia_photo_gallery_js","type":"js"},{"url":"http://slot1.images2.wikia.nocookie.net/__am/1423869437/sass/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg2.wikia.nocookie.net%252F__cb20141117093833%252Fmarvelmovies%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D994%26background-image-width%3D1708%26color-body%3D%2523000000%26color-body-middle%3D%2523000000%26color-buttons%3Dblack%26color-header%3D%2523808080%26color-links%3D%25236c93b1%26color-page%3D%2523ffffff%26page-opacity%3D100%26widthType%3D2%26wordmark-font%3Dfontin/extensions/wikia/WikiaPhotoGallery/css/gallery.scss","type":"css"}],callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})</script>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><br />
+</p>
+<table class="noprint" style="clear: right;margin:1em 0 1em 1em;border:1px solid #B5B7CF;background:#EFF0FF;-moz-border-radius:10px;padding:5px 5px 5px 5px; text-align: left; float: right;">
+
+<tr>
+<td style="text-align: center; font-size:90%; color:black;" class="plainlinks"><b>See:</b> <i><b><a  class="text" href="http://en.marveldatabase.com/Avengers_(Earth-616)">The Avengers</a></b></i> <b> on the </b></td><td> <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><body><div class="floatright"><div><a href="http://community.wikia.com/wiki/c:marvel" title="w:c:marvel"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="MDB" class="lzy lzyPlcHld " data-image-key="MDB.png" data-image-name="MDB.png" data-src="http://vignette3.wikia.nocookie.net/marvelmovies/images/a/a9/MDB.png/revision/latest/scale-to-width/120?cb=20080501171020" width="120" height="34" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"></a></div></div></body></html>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 330/300000
+Postâexpand include size: 6268/2097152 bytes
+Template argument size: 3668/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key marvelmovies:pcache:idhash:4281-0!*!0!!en!2!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1424372360/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1424372360/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://marvel-movies.wikia.com/wiki/The_Avengers_(team)?oldid=136507">http://marvel-movies.wikia.com/wiki/The_Avengers_(team)?oldid=136507</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Unsourced quotes" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Unsourced_quotes" title="Category:Unsourced quotes" class="newcategory">Unsourced quotes</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Superhero Team" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Superhero_Team" title="Category:Superhero Team">Superhero Team</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="The Avengers characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:The_Avengers_characters" title="Category:The Avengers characters">The Avengers characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="The Avengers culture" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:The_Avengers_culture" title="Category:The Avengers culture">The Avengers culture</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+					<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+					<div id="WikiaRail" class="WikiaRail">
+
+	<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+			<div class="loading"></div>
+	
+</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<!-- BEGIN SLOTNAME: LEFT_SKYSCRAPER_3 -->
+<div id="LEFT_SKYSCRAPER_3" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["LEFT_SKYSCRAPER_3"]);
+</script>
+</div>
+<!-- END SLOTNAME: LEFT_SKYSCRAPER_3 -->
+	
+			<section>
+	<div class="header-container">
+		<h1>Around Wikia's network</h1>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/6294" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer row">
+	<nav>
+		<div class="branding vertical-movies black">
+			<a class="wikia-logo" href="http://movieshub.wikia.com/wiki/Movies_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>Movies</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424372360/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424372360/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424372360/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["GPT_FLUSH"]);
+</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: INVISIBLE_1 -->
+<div id="INVISIBLE_1" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_1"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_1 -->
+<!-- BEGIN SLOTNAME: INVISIBLE_2 -->
+<div id="INVISIBLE_2" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_2"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_2 -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1424372360/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1424372360/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"marvelmovies","kv_article_id":4281,"kv_wpage":"The_Avengers_(team)","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=18-24;age=25-34;age=18-34;age=kids;age=teen;gnre=action;gnre=adventure;gnre=comics;gnre=fantasy;media=movies;media=comics;theme=superheroes;theme=heroes","kv_domain":"marvel-movies.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://marvel-movies.wikia.com/__load/-/cb%3D1424372360%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis%26ve%3D1/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Avengers_(team)","wgTitle":"The Avengers (team)","wgCurRevisionId":136507,"wgArticleId":4281,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Unsourced quotes","Superhero Team","The Avengers characters","The Avengers culture"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"The_Avengers_(team)","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"true","background-image":"http://img2.wikia.nocookie.net/__cb20141117093833/marvelmovies/images/5/50/Wiki-background","background-image-height":"994","background-image-width":"1708","color-body":"#000000","color-body-middle":"#000000","color-buttons":"black","color-header":"#808080","color-links":"#6c93b1","color-page":"#ffffff","page-opacity":"100","widthType":2,"wordmark-font":"fontin"},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Marvel Movies","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1424372360/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1424372360/common","wgSitename":"Marvel Movies","wgMWrevId":false,"wgRevisionId":136507,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=The_Avengers_(team)","fbReturnToTitle":"The_Avengers_(team)","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"http://slot1.images.wikia.nocookie.net/__cb1424372360/common/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdWvwETAAAAACS_0luypJPV7aiQkpLzoZN26YAf","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":true,"verticalName":"Entertainment","WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"The Avengers (team)"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"enablerichtext":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"founderemails-joins-6294":0,"founderemails-edits-6294":0,"founderemails-views-digest-6294":0,"founderemails-complete-digest-6294":0,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,
+"searchNs500":false,"searchNs501":false,"searchNs502":false,"searchNs503":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: marvelmovies:resourceloader:filter:minify-js:7:17e06684f54b0fe4b2d284aaf3871a78 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikiaViewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.wikiaInYourLang"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1424372360/groups/-/oasis_shared_core_js,adengine2_js,adengine2_late_js,oasis_shared_js,oasis_anon_with_new_global_nav_js,liftium_ads_js,liftium_ads_extra_js,adengine2_oasis_ads_js,adengine2_interactive_maps_js,toc_js,qualaroo_js,global_footer_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1424372360/group/-/videos_module_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1424372360.0.76268"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1424372360/group/-/monetization_module_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1424372360/group/-/global_navigation_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://marvel-movies.wikia.com/__load/-/cb%3D1424372360%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://marvel-movies.wikia.com/__load/-/cb%3D1424372360%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/site"></script>
+<script type='text/javascript'>
+var agllGroup = "Entertainment";
+!function(){
+var a=document.createElement("script");a.type="text/javascript";a.async=!0;var b=["http://a98dc034c7781a941eba-bac02262202668bbe918ea9fb5289cd2.r58.cf2.rackcdn.com","https://52e473ee9859b886964f-bac02262202668bbe918ea9fb5289cd2.ssl.cf2.rackcdn.com"];a.src=("https:"==document.location.protocol?b[1]:b[0])+"/c59hk50tip94.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(a,c)
+}();</script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationHubsMenu.scss","extensions\/wikia\/UserLogin\/css\/UserLoginDropdown.globalNavigation.scss","extensions\/wikia\/WallNotifications\/styles\/WallNotifications.globalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationOasis.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearchOasis.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

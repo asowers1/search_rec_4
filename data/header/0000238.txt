@@ -1,0 +1,13 @@
+Server: nginx
+Date: Fri, 20 Feb 2015 22:30:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Vary: Cookie
+X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+X-Pingback: http://variety.com/xmlrpc.php
+X-UA-Compatible: IE=Edge
+Link: <http://on.variety.com/1BuktxK>; rel=shortlink
+X-ac: 4.ewr _dca
+

@@ -1,0 +1,14 @@
+Date: Fri, 20 Feb 2015 19:22:52 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d8de5ddc154582273fe4d2bda588face41424460171; expires=Sat, 20-Feb-16 19:22:51 GMT; path=/; domain=.catholic.com; HttpOnly
+Set-Cookie: SESS609b1e514922d564de1e300f45e28f45=d44gipp7ed3bdtbkcmprsh1nn4; expires=Sun, 15-Mar-2015 22:56:11 GMT; path=/; domain=.catholic.com
+Last-Modified: Fri, 20 Feb 2015 16:45:31 GMT
+ETag: W/"6d9640a4e545ff905ecd943f52c52f4a"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Cache-Control: must-revalidate, public
+Vary: Accept-Encoding
+Server: cloudflare-nginx
+CF-RAY: 1bbd1347ce980697-EWR
+

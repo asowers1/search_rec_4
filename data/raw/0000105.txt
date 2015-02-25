@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<title>The Eagle has Landed - Book Review</title>
+			
+	
+	<link rel="pingback" href="http://graemeshimmin.com/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.3.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="A review of the classic espionage thriller The Eagle has Landed by Jack Higgins. Includes plot summary, and analysis of the book and the movie."/>
+<link rel="canonical" href="http://graemeshimmin.com/the-eagle-has-landed-book-review/" />
+<link rel="publisher" href="http://google.com/+GraemeshimminBlackHelicopters"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Eagle has Landed - Book Review" />
+<meta property="og:description" content="A review of the classic espionage thriller The Eagle has Landed by Jack Higgins. Includes plot summary, and analysis of the book and the movie." />
+<meta property="og:url" content="http://graemeshimmin.com/the-eagle-has-landed-book-review/" />
+<meta property="og:site_name" content="Graeme Shimmin, spy thriller and alternate history writer" />
+<meta property="article:publisher" content="https://www.facebook.com/blackhelicopterspies" />
+<meta property="article:author" content="https://www.facebook.com/graeme.shimmin" />
+<meta property="article:tag" content="Britain,Germany,Movies,Novels,Reviews,Spies and Espionage,World War Two" />
+<meta property="article:section" content="Book Reviews" />
+<meta property="article:published_time" content="2014-01-29T14:25:44+00:00" />
+<meta property="article:modified_time" content="2014-03-11T23:01:39+00:00" />
+<meta property="og:updated_time" content="2014-03-11T23:01:39+00:00" />
+<meta property="fb:admins" content="1225245626" />
+<meta property="og:image" content="http://graemeshimmin.com/wp-content/uploads/2014/01/The-Eagle-Has-Landed-Jenny-Agutter.jpg" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="A review of the classic espionage thriller The Eagle has Landed by Jack Higgins. Includes plot summary, and analysis of the book and the movie."/>
+<meta name="twitter:title" content="The Eagle has Landed - Book Review"/>
+<meta name="twitter:site" content="@LordShimbo"/>
+<meta name="twitter:domain" content="Graeme Shimmin, spy thriller and alternate history writer"/>
+<meta name="twitter:image:src" content="http://graemeshimmin.com/wp-content/uploads/2014/01/The-Eagle-Has-Landed-Jenny-Agutter.jpg"/>
+<meta name="twitter:creator" content="@LordShimbo"/>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Graeme Shimmin, spy thriller and alternate history writer &raquo; Feed" href="http://graemeshimmin.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Graeme Shimmin, spy thriller and alternate history writer &raquo; Comments Feed" href="http://graemeshimmin.com/comments/feed/" />
+<meta content="Origin v.2.3" name="generator"/>
+	<style type="text/css">
+		body { color: #; }
+		#content-area a { color: #424242; }
+		ul.nav li a { color: # !important; }
+		ul.nav > li.current_page_item > a, ul#top-menu > li:hover > a, ul.nav > li.current-cat > a { color: #eba10e; }
+		h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: #424242; }
+
+		#sidebar a { color:#eba10e; }
+		.footer-widget { color:#424242 }
+		#footer a, ul#bottom-menu li a { color:#424242 }
+	</style>
+
+<link rel='stylesheet' id='viperbar_front_style-css'  href='http://graemeshimmin.com/wp-content/plugins/viperbar/client/css/front_style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='v48fv_images-css'  href='http://graemeshimmin.com/wp-content/plugins/redactor/library/base/public/css/images.css' type='text/css' media='all' />
+<link rel='stylesheet' id='v48fv_front-css'  href='http://graemeshimmin.com/wp-content/plugins/redactor/library/base/public/css/front.css' type='text/css' media='all' />
+<link rel='stylesheet' id='v48fv_common-css'  href='http://graemeshimmin.com/wp-content/plugins/redactor/library/base/public/css/common.css' type='text/css' media='all' />
+<link rel='stylesheet' id='digg-digg-css'  href='http://graemeshimmin.com/wp-content/plugins/digg-digg/css/diggdigg-style.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='origin-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,800italic,400,300,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='et-gf-raleway-css'  href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,600,500,700,800,900&#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='et-gf-pt-sans-css'  href='http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='origin-style-css'  href='http://graemeshimmin.com/wp-content/themes/Origin/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-top-posts-widget-css'  href='http://graemeshimmin.com/wp-content/plugins/jetpack/modules/widgets/top-posts/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-css-css'  href='http://graemeshimmin.com/wp-content/themes/Origin/epanel/shortcodes/css/shortcodes.css' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-responsive-css-css'  href='http://graemeshimmin.com/wp-content/themes/Origin/epanel/shortcodes/css/shortcodes_responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://graemeshimmin.com/wp-content/plugins/jetpack/css/jetpack.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://graemeshimmin.com/wp-content/themes/Origin/epanel/page_templates/js/fancybox/jquery.fancybox-1.3.4.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='et_page_templates-css'  href='http://graemeshimmin.com/wp-content/themes/Origin/epanel/page_templates/page_templates.css' type='text/css' media='screen' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.3.2 - Universal enabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-34133648-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('set', 'anonymizeIp', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('send','pageview');
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='http://graemeshimmin.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://graemeshimmin.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var viperbar = {"ajaxurl":"http:\/\/graemeshimmin.com\/wp-admin\/admin-ajax.php","viperbar_submission_nonce":"70e6f15c43","form_type":"mailchimp","cookie_hide":"true","cookie_days":"30"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://graemeshimmin.com/wp-content/plugins/viperbar/client/js/front.js'></script>
+<script type='text/javascript' src='http://graemeshimmin.com/wp-includes/js/json2.min.js'></script>
+<script type='text/javascript' src='http://graemeshimmin.com/wp-content/plugins/prowritingaid/pwa-util.js'></script>
+<link rel='shortlink' href='http://wp.me/p2FWyN-Ut' />
+<link rel="image_src" href="http://graemeshimmin.com/wp-content/uploads/2014/01/The-Eagle-Has-Landed-Jenny-Agutter-320x240.jpg" /><script type="text/javascript">
+	window._wp_rp_static_base_url = 'https://wprp.zemanta.com/static/';
+	window._wp_rp_wp_ajax_url = "http://graemeshimmin.com/wp-admin/admin-ajax.php";
+	window._wp_rp_plugin_version = '3.5.3';
+	window._wp_rp_post_id = '3501';
+	window._wp_rp_num_rel_posts = '4';
+	window._wp_rp_thumbnails = true;
+	window._wp_rp_post_title = 'The+Eagle+Has+Landed%3A+Book+Review';
+	window._wp_rp_post_tags = ['germany', 'britain', 'world+war+two', 'spies+and+espionage', 'reviews', 'novels', 'movies', 'book+reviews', 'spies+and+espionage', 'movie+reviews', 'review', 'jenni', 'higgin', 'thriller', 'black', 'irish', 'churchil', 'kurt', 'jack', 'mussolini', 'eagl', 'steiner', 'magazin', 'book', 'war'];
+	window._wp_rp_promoted_content = false;
+</script>
+<script type="text/javascript" src="https://wprp.zemanta.com/static/js/loader.js?version=3.5.3" async></script>
+<link rel="stylesheet" href="http://graemeshimmin.com/wp-content/plugins/wordpress-23-related-posts-plugin/static/themes/pinterest.css?version=3.5.3" />
+<style type="text/css">
+.related_post_title {
+margin-bottom 30px;
+}
+ul.related_post {
+}
+ul.related_post li {
+}
+ul.related_post li a {
+}
+ul.related_post li img {
+}</style>
+		<style>
+			#info-bg, #main-wrap:before { background: #424242; }
+			#top-menu a:hover .link_text, .current-menu-item > a, #top-menu .current-menu-item > a:hover, #top-menu .current-menu-item > a:hover .link_bg, .et_active_dropdown > li a, #top-menu .et_clicked, #mobile-nav { color: #424242; }
+
+			@media only screen and (max-width: 1023px){
+				#info-area { background: #424242; }
+			}
+
+			.widget, #top-menu a, #mobile-nav, #info-area, #info-bg, #top-menu { border-color: #fefefe; }
+
+			.current-menu-item > a, .et_active_dropdown > li a, #top-menu .et_clicked, #mobile-nav, #top-menu a:hover .link_bg, #top-menu .current-menu-item > a:hover, #top-menu .current-menu-item > a:hover .link_bg { background: #fefefe; }
+
+			#top-menu ul ul a:hover .link_bg { background: #f8f8f8; }
+
+			#sidebar, #sidebar h4 { color: #ffffff; }
+
+			#sidebar a, #top-menu li a { color: #ffffff; }
+
+		h1, h2, h3, h4, h5, h6 { font-family: 'Raleway', Helvetica, Arial, Lucida, sans-serif; }body { font-family: 'PT Sans', Helvetica, Arial, Lucida, sans-serif; }		</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><!-- All in one Favicon 4.3 --><link rel="icon" href="http://graemeshimmin.com/wp-content/uploads/2013/03/8ecaf6dcceb3d5e04a1304aacc5c08fb.png" type="image/png"/>
+<link rel="apple-touch-icon-precomposed" href="http://graemeshimmin.com/wp-content/uploads/2013/03/f612b3f64e6d0006e95c84352025b619.png" />
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #fefefe; }
+</style>
+<meta name="msvalidate.01" content="9C98091857441DAC15B816A40DF0F081" />
+<meta name="google-site-verification" content="P-tAUVL4IQGUmvRe3YdW2r7aDyuQ5jv3742WYjzUCqM" />		<link rel="stylesheet" id="custom-css-css" type="text/css" href="http://graemeshimmin.com/?custom-css=1&#038;csblog=1&#038;cscache=6&#038;csrev=96" />
+		
+	<!--[if lt IE 9]>
+		<script src="http://graemeshimmin.com/wp-content/themes/Origin/js/html5.js" type="text/javascript"></script>
+		<script src="http://graemeshimmin.com/wp-content/themes/Origin/js/respond.min.js" type="text/javascript"></script>
+	<![endif]-->
+</head>
+<body class="single single-post postid-3501 single-format-standard custom-background opera et_includes_sidebar">
+	<div id="main-wrap" class="clearfix">
+		
+		<div id="info-bg"></div>
+
+		<div id="info-area">
+			<div id="logo-area">
+								<a href="http://graemeshimmin.com/"><img src="http://graemeshimmin.com/wp-content/uploads/2013/03/My-Logo-grey.png" alt="Graeme Shimmin, spy thriller and alternate history writer" id="logo"/></a>
+			</div> <!-- #logo-area -->
+
+			
+			<span id="mobile-nav">Navigation Menu<span>+</span></span>
+
+			<nav id="top-menu">
+				<ul id="menu-shimbo" class="nav"><li id="menu-item-1172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1172"><a href="http://graemeshimmin.com/free-story/">Free Short Story</a></li>
+<li id="menu-item-4813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4813"><a href="http://graemeshimmin.com/follow-graeme-shimmin/">Follow Me</a></li>
+<li id="menu-item-1179" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1179"><a href="http://graemeshimmin.com/category/art/">Art</a></li>
+<li id="menu-item-1176" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1176"><a href="http://graemeshimmin.com/category/movie-reviews/">Movie Reviews</a></li>
+<li id="menu-item-1178" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1178"><a href="http://graemeshimmin.com/category/writing-spy-fiction/">Writing Spy Fiction</a></li>
+<li id="menu-item-2296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2296"><a href="http://graemeshimmin.com/caption-competition/">Caption Competition</a></li>
+<li id="menu-item-1679" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1679"><a href="http://graemeshimmin.com/category/writing-alternative-history/">Writing Alternative History</a></li>
+<li id="menu-item-1177" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1177"><a href="http://graemeshimmin.com/category/graeme-shimmin-books/">Books by Graeme Shimmin</a></li>
+<li id="menu-item-1175" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1175"><a href="http://graemeshimmin.com/category/spies-and-espionage/">Spies and Espionage</a></li>
+<li id="menu-item-1402" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1402"><a href="http://graemeshimmin.com/category/alternative-history/">Alternative History</a></li>
+<li id="menu-item-1752" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1752"><a href="http://graemeshimmin.com/category/book-reviews/">Book Reviews</a></li>
+<li id="menu-item-1170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1170"><a href="http://graemeshimmin.com/author-readings/">Readings</a></li>
+<li id="menu-item-1174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1174"><a href="http://graemeshimmin.com/biography/">About me</a></li>
+<li id="menu-item-1173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1173"><a href="http://graemeshimmin.com/emailme/">Email me</a></li>
+<li id="menu-item-4989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4989"><a href="http://graemeshimmin.com/guest-post-submissions/">Guest Post Submissions</a></li>
+</ul>			</nav>
+
+				<div id="sidebar">
+		<div id="blog_subscription-2" class="widget jetpack_subscription_widget"><h4 class="widgettitle"><label for="subscribe-field">Subscribe</label></h4>
+		<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-2">
+			<div id="subscribe-text"><p>Receive notification of new posts by email.</p>
+</div>
+			<p id="subscribe-email">
+				<label id="jetpack-subscribe-label" for="subscribe-field">
+					Email Address				</label>
+				<input type="email" name="email" value="" id="subscribe-field" placeholder="Email Address" />
+			</p>
+
+			<p id="subscribe-submit">
+				<input type="hidden" name="action" value="subscribe" />
+				<input type="hidden" name="source" value="http://graemeshimmin.com/the-eagle-has-landed-book-review/" />
+				<input type="hidden" name="sub-type" value="widget" />
+				<input type="hidden" name="redirect_fragment" value="blog_subscription-2" />
+								<input type="submit" value="Subscribe" name="jetpack_subscriptions_widget" />
+			</p>
+		</form>
+
+		<script>
+			( function( d ) {
+				if ( ( 'placeholder' in d.createElement( 'input' ) ) ) {
+					var label = d.getElementById( 'jetpack-subscribe-label' );
+ 					label.style.clip 	 = 'rect(1px, 1px, 1px, 1px)';
+ 					label.style.position = 'absolute';
+ 					label.style.height   = '1px';
+ 					label.style.width    = '1px';
+ 					label.style.overflow = 'hidden';
+				}
+			} ) ( document );
+		</script>
+
+		
+</div> <!-- end .widget --><div id="tag_cloud-2" class="widget widget_tag_cloud"><h4 class="widgettitle">Subjects</h4><div class="tagcloud"><a href='http://graemeshimmin.com/tag/alternative-history/' class='tag-link-7' title='19 topics' style='font-size: 18.071942446043pt;'>Alternative History</a>
+<a href='http://graemeshimmin.com/tag/archetypes/' class='tag-link-49' title='2 topics' style='font-size: 9.8129496402878pt;'>Archetypes</a>
+<a href='http://graemeshimmin.com/tag/art-2/' class='tag-link-31' title='11 topics' style='font-size: 15.856115107914pt;'>Art</a>
+<a href='http://graemeshimmin.com/tag/assassins/' class='tag-link-39' title='9 topics' style='font-size: 15.05035971223pt;'>Assassins</a>
+<a href='http://graemeshimmin.com/tag/bbc/' class='tag-link-29' title='2 topics' style='font-size: 9.8129496402878pt;'>BBC</a>
+<a href='http://graemeshimmin.com/tag/britain/' class='tag-link-59' title='17 topics' style='font-size: 17.669064748201pt;'>Britain</a>
+<a href='http://graemeshimmin.com/tag/channel-4/' class='tag-link-33' title='1 topic' style='font-size: 8pt;'>Channel 4</a>
+<a href='http://graemeshimmin.com/tag/cia/' class='tag-link-22' title='10 topics' style='font-size: 15.453237410072pt;'>CIA</a>
+<a href='http://graemeshimmin.com/tag/cold-war/' class='tag-link-58' title='12 topics' style='font-size: 16.158273381295pt;'>Cold War</a>
+<a href='http://graemeshimmin.com/tag/comedy/' class='tag-link-62' title='3 topics' style='font-size: 11.021582733813pt;'>Comedy</a>
+<a href='http://graemeshimmin.com/tag/cyber-espionage/' class='tag-link-20' title='2 topics' style='font-size: 9.8129496402878pt;'>Cyber-Espionage</a>
+<a href='http://graemeshimmin.com/tag/fbi/' class='tag-link-67' title='3 topics' style='font-size: 11.021582733813pt;'>FBI</a>
+<a href='http://graemeshimmin.com/tag/flags/' class='tag-link-50' title='1 topic' style='font-size: 8pt;'>Flags</a>
+<a href='http://graemeshimmin.com/tag/france/' class='tag-link-63' title='3 topics' style='font-size: 11.021582733813pt;'>France</a>
+<a href='http://graemeshimmin.com/tag/germany/' class='tag-link-54' title='18 topics' style='font-size: 17.870503597122pt;'>Germany</a>
+<a href='http://graemeshimmin.com/tag/how-to/' class='tag-link-55' title='20 topics' style='font-size: 18.273381294964pt;'>How To</a>
+<a href='http://graemeshimmin.com/tag/india/' class='tag-link-64' title='1 topic' style='font-size: 8pt;'>India</a>
+<a href='http://graemeshimmin.com/tag/iran/' class='tag-link-46' title='1 topic' style='font-size: 8pt;'>Iran</a>
+<a href='http://graemeshimmin.com/tag/james-bond/' class='tag-link-15' title='4 topics' style='font-size: 12.028776978417pt;'>James Bond</a>
+<a href='http://graemeshimmin.com/tag/kgb/' class='tag-link-43' title='8 topics' style='font-size: 14.546762589928pt;'>KGB</a>
+<a href='http://graemeshimmin.com/tag/mi5/' class='tag-link-34' title='6 topics' style='font-size: 13.539568345324pt;'>MI5</a>
+<a href='http://graemeshimmin.com/tag/mi6/' class='tag-link-44' title='13 topics' style='font-size: 16.561151079137pt;'>MI6</a>
+<a href='http://graemeshimmin.com/tag/miniseries/' class='tag-link-24' title='3 topics' style='font-size: 11.021582733813pt;'>Miniseries</a>
+<a href='http://graemeshimmin.com/tag/mossad/' class='tag-link-45' title='2 topics' style='font-size: 9.8129496402878pt;'>MOSSAD</a>
+<a href='http://graemeshimmin.com/tag/movies/' class='tag-link-16' title='18 topics' style='font-size: 17.870503597122pt;'>Movies</a>
+<a href='http://graemeshimmin.com/tag/novels/' class='tag-link-8' title='41 topics' style='font-size: 21.294964028777pt;'>Novels</a>
+<a href='http://graemeshimmin.com/tag/plot/' class='tag-link-37' title='5 topics' style='font-size: 12.834532374101pt;'>Plot</a>
+<a href='http://graemeshimmin.com/tag/posters/' class='tag-link-30' title='9 topics' style='font-size: 15.05035971223pt;'>Posters</a>
+<a href='http://graemeshimmin.com/tag/propaganda/' class='tag-link-56' title='1 topic' style='font-size: 8pt;'>Propaganda</a>
+<a href='http://graemeshimmin.com/tag/publishing/' class='tag-link-61' title='17 topics' style='font-size: 17.669064748201pt;'>Publishing</a>
+<a href='http://graemeshimmin.com/tag/quotes/' class='tag-link-51' title='2 topics' style='font-size: 9.8129496402878pt;'>Quotes</a>
+<a href='http://graemeshimmin.com/tag/raw/' class='tag-link-73' title='2 topics' style='font-size: 9.8129496402878pt;'>R&amp;AW</a>
+<a href='http://graemeshimmin.com/tag/reviews/' class='tag-link-17' title='39 topics' style='font-size: 21.093525179856pt;'>Reviews</a>
+<a href='http://graemeshimmin.com/tag/russia/' class='tag-link-60' title='2 topics' style='font-size: 9.8129496402878pt;'>Russia</a>
+<a href='http://graemeshimmin.com/tag/science-fiction/' class='tag-link-76' title='3 topics' style='font-size: 11.021582733813pt;'>Science Fiction</a>
+<a href='http://graemeshimmin.com/tag/short-stories/' class='tag-link-47' title='5 topics' style='font-size: 12.834532374101pt;'>Short Stories</a>
+<a href='http://graemeshimmin.com/tag/special-forces/' class='tag-link-68' title='2 topics' style='font-size: 9.8129496402878pt;'>Special Forces</a>
+<a href='http://graemeshimmin.com/tag/spies-and-espionage/' class='tag-link-6' title='48 topics' style='font-size: 22pt;'>Spies and Espionage</a>
+<a href='http://graemeshimmin.com/tag/television/' class='tag-link-32' title='3 topics' style='font-size: 11.021582733813pt;'>Television</a>
+<a href='http://graemeshimmin.com/tag/true-stories/' class='tag-link-23' title='5 topics' style='font-size: 12.834532374101pt;'>True Stories</a>
+<a href='http://graemeshimmin.com/tag/usa/' class='tag-link-65' title='5 topics' style='font-size: 12.834532374101pt;'>USA</a>
+<a href='http://graemeshimmin.com/tag/world-war-one/' class='tag-link-57' title='5 topics' style='font-size: 12.834532374101pt;'>World War One</a>
+<a href='http://graemeshimmin.com/tag/world-war-two/' class='tag-link-48' title='11 topics' style='font-size: 15.856115107914pt;'>World War Two</a>
+<a href='http://graemeshimmin.com/tag/writing/' class='tag-link-38' title='29 topics' style='font-size: 19.884892086331pt;'>Writing</a>
+<a href='http://graemeshimmin.com/tag/young-adult/' class='tag-link-41' title='2 topics' style='font-size: 9.8129496402878pt;'>Young Adult</a></div>
+</div> <!-- end .widget --><div id="twitter_timeline-2" class="widget widget_twitter_timeline"><a class="twitter-timeline" data-widget-id="477438827166826497" data-theme="dark" data-link-color="#f7f7f7" data-border-color="#f7f7f7" data-chrome="transparent" data-tweet-limit="3" width="300" height="400" lang="EN">My Tweets</a></div> <!-- end .widget --><div id="search-2" class="widget widget_search"><h4 class="widgettitle"> </h4><form role="search" method="get" id="searchform" class="searchform" action="http://graemeshimmin.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></div> <!-- end .widget --><div id="top-posts-2" class="widget widget_top-posts"><h4 class="widgettitle">Most Popular</h4><ul>				<li>
+										<a href="http://graemeshimmin.com/how-to-start-a-story/" class="bump-view" data-bump-view="tp">
+						How to Start a Story					</a>
+									</li>
+							<li>
+										<a href="http://graemeshimmin.com/writing-tips-novel-writing-software/" class="bump-view" data-bump-view="tp">
+						Novel Writing Software: the tools you really need					</a>
+									</li>
+							<li>
+										<a href="http://graemeshimmin.com/how-to-become-a-spy/" class="bump-view" data-bump-view="tp">
+						How to Become a Spy					</a>
+									</li>
+							<li>
+										<a href="http://graemeshimmin.com/writing-spy-fiction-tips-on-developing-a-plot-for-a-spy-novel/" class="bump-view" data-bump-view="tp">
+						Writing Spy Fiction with an Unputdownable Plot					</a>
+									</li>
+							<li>
+										<a href="http://graemeshimmin.com/how-to-write-a-novel-synopsis/" class="bump-view" data-bump-view="tp">
+						Novel Synopsis: How to Write a Synopsis for your Novel					</a>
+									</li>
+							<li>
+										<a href="http://graemeshimmin.com/creating-an-irresistible-elevator-pitch/" class="bump-view" data-bump-view="tp">
+						Creating an Irresistible Elevator Pitch					</a>
+									</li>
+							<li>
+										<a href="http://graemeshimmin.com/manuscript-format-for-novel-submission/" class="bump-view" data-bump-view="tp">
+						Manuscript format: get your novel ready for submission					</a>
+									</li>
+							<li>
+										<a href="http://graemeshimmin.com/self-publish-on-kindle/" class="bump-view" data-bump-view="tp">
+						How to Self Publish on Kindle in Three Easy Steps 					</a>
+									</li>
+							<li>
+										<a href="http://graemeshimmin.com/discovering-a-blockbuster-spy-novel-plot-idea/" class="bump-view" data-bump-view="tp">
+						Plot Ideas: How to Discover a Blockbuster					</a>
+									</li>
+							<li>
+										<a href="http://graemeshimmin.com/writing-a-logline-for-a-novel/" class="bump-view" data-bump-view="tp">
+						Writing a Killer Logline					</a>
+									</li>
+			</ul></div> <!-- end .widget -->	</div> <!-- end #sidebar -->
+		</div> <!-- #info-area -->
+
+		<div id="main">
+			<div id="wrapper">
+<div style="background-image: url(http://graemeshimmin.com/wp-content/uploads/2014/01/The-Eagle-Has-Landed-header1.jpg);" id="big_thumbnail"></div>
+<div id="main-content">
+
+	
+	<article id="post-3501" class="post-3501 post type-post status-publish format-standard has-post-thumbnail hentry category-book-reviews category-movie-reviews category-spies-and-espionage tag-britain tag-germany tag-movies tag-novels tag-reviews tag-spies-and-espionage tag-world-war-two entry-content clearfix">
+		<div class="main-title">
+			<h1>The Eagle Has Landed: Book Review</h1>
+				</div> <!-- .main-title -->
+
+	
+		<p> <i> The Eagle Has Landed </i> Â was written by Jack Higgins and published in 1975. It is generally regarded as a classic of the spy thriller genre.</p>
+<p>Warning: Major spoilers are blacked out like this   <span class="v48fv_48x16_blackout blackout"><span>  secret  </span></span> . To view them, just select/highlight them.</p>
+<h2> The Eagle Has Landed: Logline </h2>
+<p>During World War Two, a unit of German paratroopers and an Irish revolutionary infiltrate England to try to kidnap Churchill. When their cover story is blown they have to try to complete their mission against impossible odds.</p>
+<p> <img class="aligncenter size-medium wp-image-3735" alt="The Eagle Has Landed Jenny Agutter" src="http://graemeshimmin.com/wp-content/uploads/2014/01/The-Eagle-Has-Landed-Jenny-Agutter-320x240.jpg" width="320" height="240" /> </p>
+<h2> The Eagle Has Landed:Â Plot Summary </h2>
+<p>In the prologue it&#8217;s the 1970s. Jack Higgins is researching a Norfolk churchyard for a magazine article. He discovers a mass grave with a headstone that says:</p>
+<blockquote>
+<p style="text-align: center;" align="center"> Here lies Lieutenant-Colonel Kurt Steiner and 13 German paratroopers, killed in action on the 6th November, 1943. </p>
+</blockquote>
+<p>The vicar and the locals become angry when Higgins asks about the headstone, but he bribes one to tell him who Kurt Steiner was. He gets the answer, &#8220;He was the German lad who came here with his men to shoot Mr. Churchill&#8230;&#8221;</p>
+<p>It&#8217;s 1943. Inspired by Otto Skorzenyâs daring rescue of Mussolini, Hitler has the idea of kidnapping British Prime MinisterÂ Winston Churchill.</p>
+<p>OberstÂ Radl, examines the possibility.Â He thinks itâs impossible until heÂ reads a report from a German spy, Joanna Grey, which says that Churchill plans to weekend near theÂ Norfolk coast.</p>
+<p>Radl devises a plan to drop a unit of FallschirmjÃ¤ger paratroopers into Norfolk. They will drop one night and kidnap Churchill the next. The German Navy will then extract them by boat.</p>
+<p>As the FallschirmjÃ¤ger will be disguised as a unit of Polish paratroopers, they need an English-speaking officer to avoid arousing suspicion. Radl hears of a veteran FallschirmjÃ¤ger, Lieutenant ColonelÂ Kurt Steiner, whoÂ speaks perfect English as he was brought up in London. But Steiner hasÂ been assigned to a penal unit, because he and his men tried to stop SS troops killing a Jewish girl in Warsaw. Now they are making suicide attacks on shipping in the English Channel. Radl has Steiner and his men reassigned to his command.</p>
+<p>Radl also recruits an IRA member, Liam Devlin. Devlin Â infiltrates England, contacts Mrs. Grey and gets a job as a marsh warden. He also becomes romantically involved with a local girl, Molly Prior.</p>
+<p>The local bully is jealous and tries to attack Molly, but Devlin defends her. Devlin also buys an army truck and a jeep on the black-market to transport Steiner and his men. The black-marketeers try to double cross Devlin and he shoots two of them. One dies of his wounds and this draws the attention of the Police Special Branch, who start searching for Devlin.</p>
+<p>Steiner and his men parachute into Norfolk and are met by Devlin and Mrs. Grey. They spend the day in the village, having duped the locals.Â A child from the village falls into the mill race and is carried away by the current. One of Steiner&#8217;s men rescues her, but is crushed by the water wheel, revealing his German uniform. The villagers realise who the &#8216;Polish&#8217; paratroopers really are&#8230;</p>
+<p>Steiner&#8217;s men   <span class="v48fv_48x16_blackout blackout"><span>  round up the locals, but one escapes and alerts a unit of the US Army camped nearby. The Americans make a foolhardy attack and are massacred by the battle-hardened FallschirmjÃ¤ger. More American troops arrive. Outnumbered, Steiner&#8217;s men make a last stand at the church.  </span></span> </p>
+<p>Molly   <span class="v48fv_48x16_blackout blackout"><span>   helps Steiner and Devlin escape from the church. Devlin heads to the coast to be picked up by the German navy, but stops at his cottage on the way. The Special Branch detectives are waiting, but he manages to shoot them. He wades out to sea, meets the ship and escapes.   </span></span> </p>
+<p>Steiner   <span class="v48fv_48x16_blackout blackout"><span>  steals a dispatch riderâs motorbike and infiltrates the house where Churchill is staying. He succeeds in reaching Churchill, but hesitates to kill him. The guards shoot Steiner, killing him.  </span></span> </p>
+<p>In the epilogue, back in the 1970s   <span class="v48fv_48x16_blackout blackout"><span>  Higgins meets the vicar again. He tells Higgins that in fact at the time of Steinerâs attack, Churchill was in Tehran. The man Steiner nearly killed was a double and Steiner&#8217;s sacrifice was futile.  </span></span> </p>
+<h2> The Eagle Has Landed:Â Analysis </h2>
+<p> <i> The Eagle Has Landed </i> Â is a daring novel and pulls off a difficult trick. That it succeeds triumphantly is a testament to a great thriller writer.</p>
+<p>This success starts from a great  <a title="Plot Ideas: How to Discover a Blockbuster" href="http://graemeshimmin.com/discovering-a-blockbuster-spy-novel-plot-idea/"> high concept </a> Â and then builds on it.Â The novel is relatively slow placed until the FallschirmjÃ¤ger land in England, but the tension develops steadily. Once in England, the pace accelerates for an action-packed last quarter. The final twist is stunning on a first read.</p>
+<h3> The Issues </h3>
+<p>There are two main problems that Jack Higgins overcame:</p>
+<p>The first problem is that, as with  <em>  <a title="The Day of the Jackal â Book Review" href="http://graemeshimmin.com/the-day-of-the-jackal-book-review/"> The Day of the Jackal, </a>  </em>  we know the ending before we start. Winston Churchill was not kidnapped by the Germans during World War Two. So Steiner must fail, it&#8217;s just a question of how.</p>
+<p>Second, the reader is being asked to accept a Nazi soldier and an IRA terrorist as sympathetic protagonists.</p>
+<p>In <em>  The Day of the Jackal, </em>  Frederick Forsyth solved the problem by making the story into a &#8216;howdunit&#8217;.Â The vital key that Jack Higgins used to solve these issues was to make the varied cast of characters vivid and sympathetic.</p>
+<h3>  <span style="font-size: 1.17em; line-height: 1.5em;"> Making difficult characters sympathetic </span>  </h3>
+<p>Higgins gets around the problem of making the protagonists sympathetic in two clever ways.</p>
+<p>First, Higgins has an eye for character in a way that  <a title="Where Eagles Dare: Book Review" href="http://graemeshimmin.com/where-eagles-dare-book-review/"> Alistair Maclean, </a>  for example, never had. He uses that skill to make Steiner and Devlin as sympathetic as possible to the reader. In fact, to a modern eye, he potentially even goes too far, as anti-heroes are much more mainstream than they used to be.</p>
+<p>Steiner and his men are professional soldiers, not Nazis. They are in a penal unit, after attempting to stop an SS unit killing a Jewish girl. Steiner himself has an old-fashioned code of honour and his father is an anti-Nazi who is imprisoned by the Gestapo.Â He also has no negative personal characteristics at all. His men love him. Women love him. He&#8217;s thoughtful, charming and strong. He inspires instant respect in everyone he meets.</p>
+<p>Devlin is a more complex character than Steiner, possibly because he is based on a real person:Â Frank Ryan, an IRA man who fought on the Republican side in Spain, was captured and spent the war in Germany.</p>
+<p>Devlin is a ruthless IRA terrorist, but he&#8217;s also charming, funny and full of self-doubt. He falls for a local girl and defends her against a local thug and would-be rapist. And he outwits the unpleasant, double-crossing black-marketeers. This is a classic device to make an anti-hero sympathetic &#8211; he&#8217;s not as bad as the characters he&#8217;s pitted against.</p>
+<h3> Tragedy </h3>
+<p>As story theorists from Aristotle onwards have said, the goal of tragedy is catharsis: the creation of strong emotion in the reader.</p>
+<p> <em> The Eagle Has Landed </em> Â has a &#8216;mission&#8217; plot. The preparations are shown in detail as Radl brings the team together, and all the characters on the team are likeable. This builds the reader&#8217;s empathy and involvement in the plot, but they know it must fail. This creates the classic dichotomy of tragedy. Because of their sympathy, the reader wants Steiner to somehow carry the plot out, or at least survive, but feels the inevitable approaching, creating an emotional response.</p>
+<p>The second element of tragedy is that the character&#8217;s own flaws bring about their demise. Steiner and his men fail because they are  <em> too nice.  </em> If they hadn&#8217;t saved the local girl they would not have been exposed and the mission might have been a success. If they didn&#8217;t let the locals go they might have escaped. In the end Steiner fails because he is not ruthless enough.</p>
+<p> <em> The Eagle Has Landed </em> Â has all the critical elements of a tragedy. That&#8217;s a big part of its success.</p>
+<h3> Is The Eagle Has Landed true? </h3>
+<p> <em> The Eagle Has Landed </em>  opens with this Author&#8217;s Note:</p>
+<blockquote>
+<div> At precisely one o&#8217;clock on the morning of Saturday 6 November 1943, Heinrich Himmler, Reichsfuhrer of the SS and Chief of State Police, received a simple message.Â  <em> The Eagle has landed. </em> Â It meant that a small force of German paratroops were at that moment safely in England and poised to snatch the British Prime Minister, Winston Churchill, from the Norfolk country house near the sea, where he was spending a quiet weekend. This book is an attempt to recreate the events surrounding that astonishing exploit.Â  <span style="line-height: 1.5em;"> At least fifty per cent of it is documented historical fact. The reader must decide for himself how much of the rest is a matter of speculation, or fiction&#8230; </span>  </div>
+</blockquote>
+<p>The novel is framed with chapters from the point of view of the author himself, where he makes further claims about the meetings he&#8217;s had and the documents he&#8217;s examined proving the story is true. There are also two maps of &#8216;Studley Constable&#8217;, the Norfolk village where most of the story takes place.</p>
+<p> <img class="aligncenter size-large wp-image-3199" alt="The Eagle Has Landed Studley Constable 001" src="http://graemeshimmin.com/wp-content/uploads/2013/10/The-Eagle-Has-Landed-Studley-Constable-001-640x480.jpg" width="640" height="480" /> </p>
+<p>Because of the authenticity, some people are convinced the story must beÂ true.</p>
+<p>Let&#8217;s just be clear here &#8211;  <em> The Eagle Has Landed </em>  is not a true story. Jack Higgins goes to such lengths to claim authenticity because people are more likely to accept a fantastical story if they think it&#8217;s true. This is a common trait in spy thrillers &#8211; an aura of authenticity helps maintain the suspension of disbelief.</p>
+<p>In fact, there were no German spies in England during World War Two &#8211; they were all picked up by MI5. And any spy operating their transmitter from their bedroom twice weekly would be picked up in no time, so Mrs. Grey&#8217;s part of the story is pure fiction.</p>
+<p>And would Germany really send such a small force &#8211; only just over a dozen soldiers? Similar British paratroop operations like the Bruneval raid consisted of a minimum of a company &#8211; over a hundred soldiers.</p>
+<p>The only partial claims to truth are:</p>
+<ul>
+<li> The Soviets claimed to have foiled a plot to assassinate Churchill, Stalin and Roosevelt at the Tehran Conference. The plot involved German spies preparing the way for a paratroop landing. The Soviets said they had foiled the plot by arresting the spies, but after the war Otto Skorzeny, who the Soviets said was behind the plot, claimed it was all Soviet propaganda. </li>
+<li> Devlin, as we saw earlier, was based on IRA man Frank Ryan. Ryan was involved in various stillborn plots to supply the IRA with German money and weapons, one of which was called  <em> Operation Sea Eagle. </em>  Nothing ever came of the planned operations and Ryan died in Germany in 1944. </li>
+<li>   <span class="v48fv_48x16_blackout blackout"><span>  Churchill didn&#8217;t have a double, but he did have a vocal impersonator, Norman Shelley, who is thought to have recorded some of his speeches for radio broadcast. A British general, Bernard Montgomery, did have a double.  </span></span>  </li>
+</ul>
+<h2> The Eagle Has Landed:Â Alternative Cover </h2>
+<p>The swooping eagle is the emblem of the FallschirmjÃ¤ger. It&#8217;s shown here in a close up of of their badge. The red, white and black colour scheme is also reminiscent of Nazi Germany without the clichÃ© of including a swastika.</p>
+<p> <img class="aligncenter size-full wp-image-3733" alt="The Eagle Has Landed Book Cover" src="http://graemeshimmin.com/wp-content/uploads/2014/01/The-Eagle-Has-Landed1.jpg" width="640" height="480" /> </p>
+<h2> The Eagle Has Landed:Â My Verdict </h2>
+<p>Fully deserving of its status as a classic covert operations thriller. A must read.</p>
+<h2> The Eagle Has Landed: The Movie </h2>
+<p> <img class="aligncenter size-medium wp-image-3507" alt="The Eagle Has Landed by Jack Higgins - Michael Caine as Steiner" src="http://graemeshimmin.com/wp-content/uploads/2014/01/The-Eagle-Has-Landed-320x240.jpg" width="320" height="240" /> </p>
+<p> <i> The Eagle Has Landed </i> Â was filmed in 1976, directed by John Sturges andÂ starring Michael Caine as Steiner,Â Donald Sutherland as Devlin,Â Robert Duvall as Radl andÂ Jenny Agutter asÂ Molly.</p>
+<p>The movie doesn&#8217;t work.</p>
+<p>Michael Caine is badly miscast as Steiner. Robert DuvallÂ  has a good go at his role, as do the supporting cast playing various Nazis. Donald Sutherland and Jenny Agutter are OK, athough the romance sub-plot is cut down dramatically. Sutherland also looks nothing like the short, dark Devlin described in the book. The worst role is reserved for Larry Hagman, who is given a disastrous comic turn asÂ Colonel Pitts, the incompetent American commander who gets his butt kicked by Steiner and his FallschirmjÃ¤ger.</p>
+<p>Caine himself has said he was disappointed with the movie, claiming John SturgesÂ was not really interested in making it and failed to edit it effectively ( <i> The Eagle Has Landed </i> Â was Sturges&#8217; final film).</p>
+<p>Here&#8217;s the trailer:<br />
+ <iframe src="//www.youtube.com/embed/fD9soYn4tQA" height="390" width="640" allowfullscreen="" frameborder="0">  </iframe> </p>
+<h2> The Eagle Has Flown: The Sequel </h2>
+<p> <em> The Eagle Has Flown </em>  relies on a retcon to get the plot going. Steiner was clearly dead at the end of  <em> The Eagle has Landed: </em> </p>
+<blockquote>
+<p style="text-align: center;"> The second bullet caught him in the heart, killing him instantly. </p>
+</blockquote>
+<p>But at the start of  <em> The Eagle has Flown, </em>  he is resurrected. Apparently he was &#8216;very lucky&#8217; that the bullets didn&#8217;t kill him. It&#8217;s hard to get over such implausibility, but if you can live with it, then the novel is a solid enough thriller, though nothing like as good as  <em> The Eagle Has Landed.  </em> The plot concerns an attempt, sponsored by Himmler for nefarious reasons, to rescue Steiner, who is being held in the Tower of London. Devlin also returns. <em><br />
+ </em> </p>
+<p>Jack Higgins wrote two other novels centred on the character of Liam Devlin,  <em> Touch the Devil </em>  and  <em> Confessional,  </em> both set when Devlin is a much older man. Devlin also makes cameo appearances in some of Higgins&#8217; other thrillers.</p>
+<h2> Want to Read it? <b>  </b>  </h2>
+<p> <i>  <i> The Eagle Has Landed </i> Â  </i> is available on US AmazonÂ  <a href="http://www.amazon.com/gp/product/0425177181/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0425177181&amp;linkCode=as2&amp;tag=graeshim-20" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.amazon.com/gp/product/0425177181/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0425177181&amp;linkCode=as2&amp;tag=graeshim-20', ' here, ');"> here, </a>  <img class="ncrcjinbvrdrtderiorj pdxtpemsxkbdjhhzatsy aiwtsgbooxliiuqlaafq srntkciwdutknpvjdbdv" style="border: none !important; margin: 0px !important;" alt="" src="http://ir-na.amazon-adsystem.com/e/ir?t=graeshim-20&amp;l=as2&amp;o=1&amp;a=0425177181" width="0" height="0" border="0" />  and UK Amazon  <a href="http://www.amazon.co.uk/gp/product/1405917520/ref=as_li_ss_tl?ie=UTF8&amp;camp=1634&amp;creative=19450&amp;creativeASIN=1405917520&amp;linkCode=as2&amp;tag=graeshim-21" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.amazon.co.uk/gp/product/1405917520/ref=as_li_ss_tl?ie=UTF8&amp;camp=1634&amp;creative=19450&amp;creativeASIN=1405917520&amp;linkCode=as2&amp;tag=graeshim-21', ' here. ');"> here. </a>  <img class="ncrcjinbvrdrtderiorj pdxtpemsxkbdjhhzatsy aiwtsgbooxliiuqlaafq srntkciwdutknpvjdbdv" style="border: none !important; margin: 0px !important;" alt="" src="http://ir-uk.amazon-adsystem.com/e/ir?t=graeshim-21&amp;l=as2&amp;o=2&amp;a=1405917520" width="0" height="0" border="0" /> </p>
+<p>I&#8217;m not linking to the movie or  <em> The Eagle Has Flown, </em>  as I don&#8217;t recommend them.</p>
+<h2> Agree? Disagree? </h2>
+<p>If youâd like to discuss anything in my review, please  <a title="Email me" href="http://graemeshimmin.com/emailme/"> email me. </a>  Otherwise. please feel free to share it using the buttons below. </p>
+<div class='dd_post_share'><div class='dd_buttons'><div class='dd_button'><div class='dd-twitter-ajax-load dd-twitter-3501'></div><a href="http://twitter.com/share" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://twitter.com/share', '');"  class="twitter-share-button" data-url="http://graemeshimmin.com/the-eagle-has-landed-book-review/" data-count="horizontal" data-text="The Eagle Has Landed: Book Review" data-via="@LordShimbo"></a></div><div class='dd_button'><div class='dd-reddit-ajax-load dd-reddit-3501'></div><iframe class='DD_REDDIT_AJAX_3501' src='' height='0' width='0' scrolling='no' frameborder='0'></iframe></div><div class='dd_button'><script src='http://www.stumbleupon.com/hostedbadge.php?s=1&amp;r=http%3A%2F%2Fgraemeshimmin.com%2Fthe-eagle-has-landed-book-review%2F'></script></div><div class='dd_button'><div class='dd-fbshare-ajax-load dd-fbshare-3501'></div><a href="http://www.facebook.com/sharer.php" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.facebook.com/sharer.php', '');" class='DD_FBSHARE_AJAX_3501' name='fb_share' type='button_count' share_url='http://graemeshimmin.com/the-eagle-has-landed-book-review/'></a></div><div class='dd_button'><div class='dd-google1-ajax-load dd-google1-3501'></div><g:plusone size='medium' href='http://graemeshimmin.com/the-eagle-has-landed-book-review/'></g:plusone></div><div class='dd_button'><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fgraemeshimmin.com%2Fthe-eagle-has-landed-book-review%2F&description=The%20Eagle%20Has%20Landed%3A%20Book%20Review&media=http://graemeshimmin.com/wp-content/uploads/2014/01/The-Eagle-Has-Landed-Jenny-Agutter.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fgraemeshimmin.com%2Fthe-eagle-has-landed-book-review%2F&amp;description=The%20Eagle%20Has%20Landed%3A%20Book%20Review&amp;media=http://graemeshimmin.com/wp-content/uploads/2014/01/The-Eagle-Has-Landed-Jenny-Agutter.jpg', '');"  class="pin-it-button dd-pinterest-ajax-load dd-pinterest-3501" count-layout="horizontal"></a></div></div><div style='clear:both'></div></div><script type="text/javascript"> jQuery(document).ready(function($) { window.setTimeout('loadTwitter_3501()',1000);window.setTimeout('loadReddit_3501()',1000);window.setTimeout('loadFBShare_3501()',1000);window.setTimeout('loadGoogle1_3501()',1000);window.setTimeout('loadPinterest_3501()',1000); }); </script><script type="text/javascript"> function loadTwitter_3501(){ jQuery(document).ready(function($) { $('.dd-twitter-3501').remove();$.getScript('http://platform.twitter.com/widgets.js'); }); } function loadReddit_3501(){ jQuery(document).ready(function($) { $('.dd-reddit-3501').remove();$('.DD_REDDIT_AJAX_3501').attr('width','120');$('.DD_REDDIT_AJAX_3501').attr('height','22');$('.DD_REDDIT_AJAX_3501').attr('src','http://www.reddit.com/static/button/button1.html?width=120&url=http%3A%2F%2Fgraemeshimmin.com%2Fthe-eagle-has-landed-book-review%2F&title=The%20Eagle%20Has%20Landed%3A%20Book%20Review&newwindow=1'); }); } function loadFBShare_3501(){ jQuery(document).ready(function($) { $('.dd-fbshare-3501').remove(); $.getScript('http://static.ak.fbcdn.net/connect.php/js/FB.Share'); }); } function loadGoogle1_3501(){ jQuery(document).ready(function($) { $('.dd-google1-3501').remove();$.getScript('https://apis.google.com/js/plusone.js'); }); }function loadPinterest_3501(){ jQuery(document).ready(function($) { $.getScript('http://assets.pinterest.com/js/pinit.js'); }); }</script><!-- Social Buttons Generated by Digg Digg plugin v5.3.6,
+    Author : Buffer, Inc
+    Website : http://bufferapp.com/diggdigg -->
+<div class="wp_rp_wrap  wp_rp_pinterest" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">You Might Also Like</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-4449" data-post-type="none" ><a href="http://graemeshimmin.com/eye-of-the-needle-review/" class="wp_rp_thumbnail"><img src="http://graemeshimmin.com/wp-content/uploads/2014/05/eye-of-the-needle-kate-nelligan-150x112.jpg" alt="Eye of the Needle: Book Review" width="150" /></a><a href="http://graemeshimmin.com/eye-of-the-needle-review/" class="wp_rp_title">Eye of the Needle: Book Review</a></li><li data-position="1" data-poid="in-3441" data-post-type="none" ><a href="http://graemeshimmin.com/where-eagles-dare-book-review/" class="wp_rp_thumbnail"><img src="http://graemeshimmin.com/wp-content/uploads/2014/01/Where-Eagles-Dare-Featured-Image-150x112.jpg" alt="Where Eagles Dare: Book Review" width="150" /></a><a href="http://graemeshimmin.com/where-eagles-dare-book-review/" class="wp_rp_title">Where Eagles Dare: Book Review</a></li><li data-position="2" data-poid="in-4826" data-post-type="none" ><a href="http://graemeshimmin.com/great-impersonation-book-review/" class="wp_rp_thumbnail"><img src="http://graemeshimmin.com/wp-content/uploads/2014/08/The-Great-Impersonation-Featured-Image-150x112.jpg" alt="The Great Impersonation: Book Review" width="150" /></a><a href="http://graemeshimmin.com/great-impersonation-book-review/" class="wp_rp_title">The Great Impersonation: Book Review</a></li><li data-position="3" data-poid="in-2837" data-post-type="none" ><a href="http://graemeshimmin.com/the-spy-who-came-in-from-the-cold-review/" class="wp_rp_thumbnail"><img src="http://graemeshimmin.com/wp-content/uploads/2013/06/The-Spy-Who-Came-in-from-the-Cold-Featured-Image-150x112.jpg" alt="The Spy Who Came in From the Cold: Review" width="150" /></a><a href="http://graemeshimmin.com/the-spy-who-came-in-from-the-cold-review/" class="wp_rp_title">The Spy Who Came in From the Cold: Review</a></li></ul><div class="wp_rp_footer"><a href="http://www.zemanta.com/?wp-related-posts" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.zemanta.com/?wp-related-posts', 'Zemanta');" class="wp_rp_backlink" target="_blank"  rel="nofollow">Zemanta</a></div></div></div>
+				
+	</article> <!-- end .entry-content -->
+
+	
+	
+	
+</div> <!-- #main-content -->
+<footer id="main-footer">
+</footer> <!-- #main-footer -->
+			</div> <!-- #wrapper -->
+		</div> <!-- #main -->
+	</div> <!-- #main-wrap -->
+
+		<div style="display:none">
+	</div>
+		<script type="text/javascript">
+			!function(d,s,id){
+				var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+				if(!d.getElementById(id)){
+					js=d.createElement(s);
+					js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+					fjs.parentNode.insertBefore(js,fjs);
+				}
+			}(document,"script","twitter-wjs");
+		</script>
+		<div id="ViperBar_main" rel="3501"><div id="ViperBar_inner" style="background: #424242 repeat-x; color: #EEEEEE;"><div style="margin: 5px; display:none;" id="viperbar_thanks">Thank you! Please check your email inbox to confirm.</div><div id="viperbar_ajaxload"><em>Loading...</em></div><div id="viperbar_form_content">Get my monthly free short story<form method="post" id="viperbar_mailchimp_form" class="ViperBar_form"><input type="text" name="EMAIL" placeholder="Email Address" class="Viper_input_default viper_email_input" /><input type="submit" value="Subscribe" name="subscribe" id="ViperBar_submit" style="display:inline; background: #CCCCCC url('http://graemeshimmin.com/wp-content/plugins/viperbar/includes/gradient.php?width=10&height=30&color=FF9933') repeat-x !important; color: #000000!important;" /></form></div><div id="ViperBar_hide"><a href="javascript:void(0);"><img src="http://graemeshimmin.com/wp-content/plugins/viperbar/images/icon-up.png" /></a></div></div><div id="ViperBar_show"><a href="javascript:void(0);"><img src="http://graemeshimmin.com/wp-content/plugins/viperbar/images/icon-down.png" /></a></div></div><script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://graemeshimmin.com/wp-content/plugins/jetpack/modules/wpgroho.js'></script>
+<script type='text/javascript' src='http://graemeshimmin.com/wp-content/themes/Origin/js/jquery.infinitescroll.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_origin_strings = {"load_posts":"Loading new posts...","no_posts":"No more posts to load"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://graemeshimmin.com/wp-content/themes/Origin/js/custom.js'></script>
+<script type='text/javascript' src='http://graemeshimmin.com/wp-content/themes/Origin/epanel/page_templates/js/fancybox/jquery.easing-1.3.pack.js'></script>
+<script type='text/javascript' src='http://graemeshimmin.com/wp-content/themes/Origin/epanel/page_templates/js/fancybox/jquery.fancybox-1.3.4.pack.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_ptemplates_strings = {"captcha":"Captcha","fill":"Fill","field":"field","invalid":"Invalid email"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://graemeshimmin.com/wp-content/themes/Origin/epanel/page_templates/js/et-ptemplates-frontend.js'></script>
+<script type='text/javascript' src='http://graemeshimmin.com/wp-content/plugins/wordpress-23-related-posts-plugin/static/js/pinterest.js'></script>
+
+	<script src="http://stats.wp.com/e-201508.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.3.2',blog:'39549229',post:'3501',tz:'0'});
+	var load_cmc = function(){linktracker_init(39549229,3501,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script></body>
+</html>

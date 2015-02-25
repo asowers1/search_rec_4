@@ -1,0 +1,2447 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.apple.com/itms/" lang="en">
+
+
+  <head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="keywords" content="download Elton John, music, songs, Pop, higher quality than mp3, iTunes" /><meta name="description" content="Preview and download top songs and albums by Elton John on the iTunes Store. Songs by Elton John start at just $0.69." /><meta name="platform-cache-id" content="8" />
+<link rel="canonical" href="https://itunes.apple.com/us/artist/elton-john/id54657" />
+
+<title>iTunes - Music - Elton John</title>
+
+
+
+
+
+
+<script>
+if (!window.its) {
+    window.its = {};
+}
+its.markupLoadStartTime = new Date().getTime();
+
+if (!window.onerror) window.onerror = function(message, url, lineNumber) {
+    if (!window._earlyOnerrorException) {
+        window._earlyOnerrorException = {message: message,
+                                         url: url,
+                                         lineNumber: lineNumber};
+    }
+};
+</script>
+
+
+<link charset="utf-8" rel="stylesheet" type="text/css" href="https://s.mzstatic.com/htmlResources/C72F/web-storefront-base.css" />
+<link charset="utf-8" rel="stylesheet" type="text/css" href="https://s.mzstatic.com/htmlResources/C72F/web-storefront-preview.css" />
+
+
+
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript" charset="utf-8" src="/htmlResources/C72F/frameworks-primaryinit01.js"></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript" charset="utf-8">its.serverData={"storePlatformData":{},"pageData":{},"constants":{"Urls":{"upgradeITunesUrl":"http://www.apple.com/itunes/download/","upgradeSafariUrl":"http://www.apple.com/safari/download/"},"MZMediaType":{"EBooks":{"id":11,"name":"EBooks"},"MobileSoftware":{"id":8,"name":"MobileSoftwareApplications"},"MacSoftware":{"id":12,"name":"DesktopApps"},"Music":{"id":1,"name":"Music"},"Audiobooks":{"id":3,"name":"Audiobooks"},"Podcasts":{"id":2,"name":"Podcasts"},"ClassicSoftware":{"id":7,"name":"iPodGames"},"MusicVideos":{"id":5,"name":"MusicVideos"},"TVShows":{"id":4,"name":"TVShows"},"iTunesU":{"id":10,"name":"iTunesU"},"Movies":{"id":6,"name":"Movies"},"Ringtones":{"id":9,"name":"Ringtones"}},"SFSortOrder":{"PlaylistName":{"id":9},"RecentBestSellers":{"id":18},"SeriesOrder":{"id":17},"CmcRecommended":{"id":10},"Popularity":{"id":3},"ArtistName":{"id":8},"Featured":{"id":1},"TopRated":{"id":5},"Duration":{"id":11},"ReleaseDate":{"id":2},"TrackNumber":{"id":13},"Name":{"id":0},"AllTimeBestSellers":{"id":14},"ExpirationDate":{"id":6},"Price":{"id":7},"MostRecent":{"id":16},"PurchaseDate":{"id":4},"DateAdded":{"id":15},"DiscNumber":{"id":12}},"SFEntityType":{"Artist":{"id":1},"Playlist":{"id":4},"TopContents":{"id":7},"MultiRoom":{"id":3},"Search":{"id":6},"WeMix":{"id":8},"Cmc":{"id":2},"Work":{"id":10},"Wishlist":{"id":9},"TopAuthors":{"id":12},"Room":{"id":5},"TheyMix":{"id":11}},"countryCode":"usa","languageCode":"en","SFCustomComponentCountryCode":"usa","IXDisplayableKind":{"Artist":{"id":20,"cssClasses":[],"name":"artist"},"MobileSoftware":{"id":11,"cssClasses":["application"],"name":"iosSoftware","mtId":"8"},"Album":{"id":2,"cssClasses":["album","music"],"name":"album","mtId":"1"},"ShortFilm":{"id":8,"cssClasses":["short-film","movie","video"],"name":"shortFilm","mtId":"6"},"PodcastEpisode":{"id":15,"cssClasses":["podcast-episode"],"name":"podcastEpisode","mtId":"2"},"ApplePubEBook":{"id":36,"cssClasses":["ebook"],"name":"ibook","mtId":"11"},"Song":{"id":1,"cssClasses":["song","music"],"name":"song","mtId":"1"},"MovieBundle":{"id":24,"cssClasses":["bundle","movie","video"],"name":"movieBundle","mtId":"6"},"RingtoneAlbum":{"id":22,"cssClasses":[],"name":"ringtoneAlbum","mtId":"9"},"Book":{"id":3,"cssClasses":["audiobook"],"name":"book","mtId":"3"},"ToneAlbum":{"id":32,"cssClasses":[],"name":"toneAlbum","mtId":"9"},"TVEpisode":{"id":6,"cssClasses":["tv-episode","tv","video"],"name":"tvEpisode","mtId":"4"},"TVSeason":{"id":7,"cssClasses":["tv-season","tv","video"],"name":"tvSeason","mtId":"4"},"Course":{"id":34,"cssClasses":["course","itunes-u"],"name":"course","mtId":"10"},"ClassicSoftwarePackage":{"id":18,"cssClasses":["ipod-game"],"name":"gamePackage","mtId":"7"},"Movie":{"id":9,"cssClasses":["movie","video"],"name":"movie","mtId":"6"},"Booklet":{"id":13,"cssClasses":["booklet","music"],"name":"booklet","mtId":"1"},"SocialArtist":{"id":28,"cssClasses":[],"name":"socialArtist"},"EBook":{"id":25,"cssClasses":["ebook"],"name":"epubBook","mtId":"11"},"MacSoftware":{"id":30,"cssClasses":["application","mac-application"],"name":"desktopApp","mtId":"12"},"MusicVideo":{"id":5,"cssClasses":["music-video","music","video"],"name":"musicVideo","mtId":"5"},"Ringtone":{"id":21,"cssClasses":[],"name":"ringtone","mtId":"9"},"Podcast":{"id":4,"cssClasses":["podcast"],"name":"podcast","mtId":"2"},"Concert":{"id":26,"cssClasses":[],"name":"concert","mtId":"1"},"ApplePubTextbook":{"id":37,"cssClasses":["ebook"],"name":"ibookTextbook","mtId":"13"},"SoftwareAddOn":{"id":16,"cssClasses":["software-add-on","application"],"name":"softwareAddOn","mtId":"8"},"Tone":{"id":31,"cssClasses":[],"name":"tone","mtId":"9"},"WeMix":{"id":19,"cssClasses":["wemix","music"],"name":"itunesMix","mtId":"1"},"SocialPerson":{"id":27,"cssClasses":[],"name":"socialPerson"},"ClassicSoftware":{"id":10,"cssClasses":["ipod-game"],"name":"ipodGame","mtId":"7"},"MetaEBook":{"id":35,"cssClasses":["ebook"],"name":"metaEbook","mtId":"13"},"iTunesPass":{"id":12,"cssClasses":["itunes-pass","album","music"],"name":"itunesPass","mtId":"1"},"Mix":{"id":14,"cssClasses":["mix","music"],"name":"mix","mtId":"1"},"TheyMix":{"id":33,"cssClasses":[],"name":"thirdPartyMix"}},"AddToWishlistResult":{"ItemIsFree":{"id":6},"ListFull":{"id":3},"SomeContentAlreadyOwnedButUnfulfilled":{"id":5},"SomeContentAlreadyInWishlist":{"id":1},"Success":{"id":0},"Failure":{"id":2},"SomeContentAlreadyOwned":{"id":4}},"getEmailUrl":"https://itunes.apple.com/WebObjects/MZStore.woa/wa/generateEmail?cc=us"},"properties":{"clientStatsLoadTimeGroup":"4006","MZHtmlResourcesUtil.allowDeferJsLoad":true,"countryCodeIso2a":"us","currencyFormat":"$#,##0.00;$#,##0.00;-$#,##0.00","currencySymbol":"$","currencyThousandSeparator":",","currencyDecimalSeparator":".","MZFeatureEnabler.isCadillacEnabled":true,"MZFinance.VolumeBuyQuantityUpperLimit":25000,"iTunesUEnrollLink":"","ITSServerEnvironment":"prod","ITSServerInstance":"2126056","ITSResourceRevNum":"C72F","resourceUrlPrefix":"https://s.mzstatic.com","ITSLogger.ServerReportingProtocol":"https","ITSLogger.ServerReportingDomain":"metrics.mzstatic.com","ITSLogger.ServerReportingApp":"MZUserXP","ITSLogger.RecordStatsAction":"recordStats","ITSLogger.SenderName":"ITSClient","ITSLogger.mirrorToServerByDefaultOnErrors":true,"DynaLoader.allowDynaLoading":true,"itsLoggerQueueProcessingInterval":10000,"cobaltBundleId":"com.apple.itunesu","getCobaltAppLink":"https://itunes.apple.com/us/app/id490217893","cobaltLearnMore":"https://itunes.apple.com/us/learn-more?about=iTunesUUpgradePage&type=2","isCobaltEnabled":true,"isCobaltJavascriptRedirectEnabled":true,"isCobaltUpsellPageEnabled":true,"isRadioHistoryEnabled":true,"personalizedButtonsEnabled":true,"SF6.Personalization.isCMAEnabled":true,"SF6.Personalization.isCMSEnabled":true,"SFJ.isNFAEnabledInStorefront":true,"SFJ.isRecommendationsSwooshEnabledInStorefront":true,"SF6.StorePlatform.whitelistParams":["caller","dsid","id","p"],"vendLastSupportedVersionIfAvailable":true,"vendLastSupportedVersionMacOs":true,"isBookGiftingEnabled":true,"metrics":{"metricsUrl":"https://xp.apple.com/report","compoundSeparator":"_","tokenSeparator":"|","postFrequency":60000,"blacklistedFields":["capacitySystem","capacitySystemAvailable","capacityDisk","capacityData","capacityDataAvailable"],"fieldsMap":{"single":{"targetId":["id","adamId","contentId","type","fcId","station-hash"]},"custom":{"location":["id","adamId","dataSetId","name","fcKind","kindIds","type","station-hash","core-seed-name"],"impressions":["id","adamId","station-hash"]},"cookies":["itcCt"],"multi":{}},"metricsBase":{"storeFrontHeader":"","language":"1","platformId":"8","platformName":"ItunesPreview","storeFront":"143441","environmentDataCenter":"ST11"}},"MZStore.shouldAttemptToEvaluateXpathSecondTime":true,"MZStore.shouldCacheElementTypeProtoObjects":true}}</script>
+<script type="text/javascript" charset="utf-8">
+if (!window.iTSLocalization) { iTSLocalization = {}; }
+iTSLocalization._strings = {"Js.MyAlerts.GeniusActivationNeeded.Button":"Go to Genius", "Js.Pagination.NextPage":"Next Page", "Js.Wishlist.RemoveTooltip":"Remove from Wish List", "Js.CNConnections.RequestSent":"Request sent", "Js.Showcase.Next":"Next Item", "Js.CNConnections.Dialog.GetStarted":"Get Started", "Js.ReportAConcern.SigninMessage":"Enter your Apple ID and password, then click Sign In.", "CNConnections.Upload.UploadErrorMessage":"Sorry, there was an error during upload.", "Js.InlineReview.SigninMessage":"Enter your Apple ID and password, then click Sign In.", "Js.TextTruncation.More":"More", "Js.QuickView.Unavailable.Title":"Quick View is currently unavailable for this item.", "Less":"Less", "Js.MyAlerts.GeniusActivationNeeded.Message":"This requires Genius.", "CNConnections.Dialog.Post.Review.SignIn.Title":"Sign in to post.", "Js.ManageArtistAlerts.CheckAll.Artists":"Check All Artists", "CNConnections.Upload.UploadErrorHeading":"There is a Problem With Your Upload", "Js.TellAFriend.SigninMessage":"Enter your Apple ID and password, then click Sign In.", "CNConnections.Dialog.StopFollowing.Message":"CNConnections.Dialog.StopFollowing.Message", "CNConnections.Dialog.OptIn.Title":"Ping Will No Longer Be Available as of September 30", "CNConnections.Dialog.StopFollowing.Title":"Are you sure you want to stop following @@fullName@@?", "Js.InlineReview.SigninTitle":"Sign in to write a review.", "Js.InlineRating.SigninMessage":"Sign in to continue.", "Js.MyAlerts.GeniusActivationNeeded.Explanation":"Alerts based on your library content will not be enabled until you have turned on Genius. To learn more, click Go to Genius.", "_thousandsSeparator":",", "InAppPurchases":"In-App Purchases", 
+"Js.CNConnections.LoginRequired.Message":"This requires Ping. Ping will no longer be available as of September 30, and we are not accepting new members. If you are already a Ping member, sign in below to continue.", "Js.Pagination.PreviousPage":"Previous Page", "Js.TellAFriend.SigninTitle":"Sign in to tell a friend.", "Js.InlineReview.RateThis":"Rate this", "Js.InlineReview.5":"it's great", "Js.InlineReview.4":"it's good", "Js.Pagination.Back":"Back", "Js.InlineReview.3":"it's ok", "CNConnections.Dialog.PrivateUser.IllegalAction.Message":"If you would like to perform this action, please change your privacy settings.", "Js.InlineReview.2":"don't like it", "Js.InlineReview.1":"hate it", "Js.InlinePreview.StopPreview":"Stop preview of @@title@@", "Js.QuickView.Unavailable.Text":"Please try again later.", "Js.MyAlerts.ConfirmEmailSignUp.Explanation":"You can change this preference at any time from your My Alerts page.", "Js.CNConnections.Dialog.Cancel":"Cancel", "Js.CNConnections.PeoplePopupMore":"and @@count@@ other@@s@@...", "CNConnections.Dialog.OptIn.Message":"Liking a review requires Ping, and we are no longer accepting new members.", "Js.CNConnections.Confirmed":"Confirmed", "Js.CNConnections.UserReview.YouLiked":"You Liked", "Js.CreateAccount":"Create Apple ID", "Js.CNConnections.OptInRequired.Title":"Ping", "Js.Pagination.Next":"Next", "Js.ManageArtistAlerts.CheckAll.Actors":"Check All Actors", "Js.ManageArtistAlerts.CheckAll":"Check All", "Js.ReportAConcern.SigninTitle":"Sign in to report a concern.", "Js.MyAlerts.CancelEmailSignUp.Explanation":"You can change this preference at any time from your My Alerts page.", "CNConnections.Dialog.PrivateUser.LeakyAction.Message":"This action will make your profile photo and name visible to others.", "Js.TextLimit.Remaining":"@@count@@ characters remaining", "More":"More", "CNConnections.Dialog.PrivateUser.LeakyAction.Title":"Are you sure you want to perform this action?", "Js.Pagination.PageNumberTitle":"page @@num@@", "Js.Pagination.DisabledButtonText":"disabled @@button_text@@", "Js.MyAlerts.CancelEmailSignUp.Message":"Are you sure you want to stop receiving email alerts?", "JS.errors.requiredLite":"Please fill in all required fields.", "CNConnections.Dialog.Post.Review.SignIn.Message":"Enter your Apple ID or AOL screen name and your password, then click Sign In.", "Js.InlineReview.Thanks":"Thanks!", "Js.InlineReview.Error":"Error", "CNConnections.Dialog.Like.Review.SignIn.Message":"Enter your Apple ID or AOL screen name and your password, then click Sign In.", "Js.ManageArtistAlerts.UncheckAll.Artists":"Uncheck All Artists", "Js.List.Item":"item", "Js.iTunesStoreError.Explanation":"There was an error in the iTunes Store. Please try again later.  (@@errorNum@@)", "Js.InlineReview.ClickToRate":"Click to rate", "CNConnections.Dialog.PrivateUser.IllegalAction.Title":"Private users may not perform this action.", "Js.InlineRating.SigninTitle":"Sign in to rate this item.", "Js.MyAlerts.ConfirmEmailSignUp.Message":"Are you sure you want to receive email alerts?", "Js.ManageArtistAlerts.UncheckAll.Actors":"Uncheck All Actors", "CNConnections.Dialog.OptIn.ButtonSubmit":"Learn More", "_decimalSeparator":".", "CNConnections.Dialog.OptIn.ButtonCancel":"Cancel", 
+"Js.CNConnections.OptInRequired.Message":"This requires Ping. Ping will no longer be available as of September 30, and we are not accepting new members. If you are already a Ping member, sign in below to continue.", "Js.CNConnections.LoginRequired.Title":"Sign in to access Ping.", "CNConnections.Dialog.OptIn.ButtonSignIn":"Sign In", "Js.Pagination.PageNumber":"Page @@num@@", "Js.Search.HintsTitle":"Suggestions", "Js.InlinePreview.PlayPreview":"Play preview of @@title@@", "CNConnections.Dialog.Like.Review.SignIn.Title":"Sign in to like a review.", "Js.ManageArtistAlerts.UncheckAll":"Uncheck All", "Js.iTunesStoreError.Message":"We could not complete your request.", "CNConnections.Upload.MaxPhotosErrorMessage":"You can have no more than 20 photos in one post."}
+</script>
+
+<script type="text/javascript" charset="utf-8" src="/htmlResources/C72F/web-storefront-base.js"></script>
+<script type="text/javascript" charset="utf-8" src="/htmlResources/C72F/web-storefront-preview.js"></script>
+<script type="text/javascript" charset="utf-8" src="/htmlResources/C72F/web-storefront-previewRegionSensitive.js"></script>
+
+
+<link charset="utf-8" href="https://www.apple.com/ac/globalheader/1.0/styles/globalheader.css" id="globalheader-stylesheet" rel="stylesheet" type="text/css" />
+
+
+
+
+
+</head>
+ 
+  <body onload="detectAndOpenItunes();" class="geo-us lang-en-us lang-en">
+  <script type="text/javascript">
+      checkIfAskPermissionApprovalSheet();
+  </script>
+  
+    
+    <script language ="JavaScript" type="text/javascript">
+      ITSMediaPlayer.insertMediaPlayer();
+    </script>
+  
+
+  
+  <nav id="globalheader" class="globalheader gh-selected-tab-itunes" role="navigation" aria-label="Global Navigation" data-hires="false" data-analytics-region="global nav" lang="en-us"><div id="gh-content" class="gh-content">
+		<ul class="gh-menu">
+<li id="gh-menu-icon-toggle" class="gh-menu-icon gh-menu-icon-toggle"><button id="gh-svg-icons" class="gh-svg-wrapper"><span class="gh-text-replace">Menu</span></button></li>
+			<li id="gh-menu-icon-home" class="gh-menu-icon gh-menu-icon-home"><a href="http://www.apple.com/"><span class="gh-text-replace">Apple</span></a></li>
+		</ul>
+<!--/gh-menu--><div class="gh-nav">
+			<div class="gh-nav-view">
+				<ul class="gh-nav-list">
+<li class="gh-tab gh-tab-apple"><a class="gh-tab-link" href="http://www.apple.com/"><span class="gh-tab-inner"><span class="gh-text-replace">Apple</span></span></a></li>
+					<li class="gh-tab gh-tab-store"><a class="gh-tab-link" href="http://store.apple.com/us"><span class="gh-tab-inner"><span class="gh-text-replace">Store</span></span></a></li>
+					<li class="gh-tab gh-tab-mac"><a class="gh-tab-link" href="http://www.apple.com/mac/"><span class="gh-tab-inner"><span class="gh-text-replace">Mac</span></span></a></li>
+					<li class="gh-tab gh-tab-iphone"><a class="gh-tab-link" href="http://www.apple.com/iphone/"><span class="gh-tab-inner"><span class="gh-text-replace">iPhone</span></span></a></li>
+					<li class="gh-tab gh-tab-watch"><a class="gh-tab-link" href="http://www.apple.com/watch/"><span class="gh-tab-inner"><span class="gh-text-replace">Watch</span></span></a></li>
+					<li class="gh-tab gh-tab-ipad"><a class="gh-tab-link" href="http://www.apple.com/ipad/"><span class="gh-tab-inner"><span class="gh-text-replace">iPad</span></span></a></li>
+					<li class="gh-tab gh-tab-ipod"><a class="gh-tab-link" href="http://www.apple.com/ipod/"><span class="gh-tab-inner"><span class="gh-text-replace">iPod</span></span></a></li>
+					<li class="gh-tab gh-tab-itunes"><a class="gh-tab-link" href="http://www.apple.com/itunes/"><span class="gh-tab-inner"><span class="gh-text-replace">iTunes</span></span></a></li>
+					<li class="gh-tab gh-tab-support"><a class="gh-tab-link" href="http://www.apple.com/support/"><span class="gh-tab-inner"><span class="gh-text-replace">Support</span></span></a></li>
+					<li id="gh-tab-search" class="gh-tab gh-tab-search">
+						<div id="gh-search" class="gh-search" role="search">
+							<form action="/search/" method="post" class="gh-search-form" id="gh-search-form" data-search-recommended-results='{"url":"https://www.apple.com/global/nav/scripts/shortcuts.php","requestName":"recommendedResults","queryName":"q","dataType":"xml"}' data-search-suggested-searches='{"url":"https://www.apple.com/search/instant/getSuggestions","requestName":"suggestedSearches","queryName":"query","queryParams":{"model":"marcom_en_US","locale":"en_US"},"dataType":"json"}'>
+								<div class="gh-search-input-wrapper">
+									<label for="gh-search-input" class="gh-text-replace">Search apple.com</label>
+									<input type="text" name="q" id="gh-search-input" class="gh-search-input" placeholder="Search apple.com">
+</div>
+								<button disabled type="submit" id="gh-search-submit" class="gh-search-submit gh-search-magnify"><span class="gh-text-replace">Search apple.com</span></button>
+								<button disabled type="reset" id="gh-search-reset" class="gh-search-reset"><span class="gh-text-replace">Reset</span></button>
+							</form>
+						</div>
+						<a class="gh-search-magnify" href="http://www.apple.com/search/"><span class="gh-text-replace">Search apple.com</span></a>
+					</li>
+				</ul>
+</div>
+		</div>
+<!--/gh-nav-->
+	</div>
+</nav><script src="https://www.apple.com/ac/globalheader/1.0/scripts/globalheader.js" type="text/javascript" charset="utf-8"></script><div id="productheader"><div class="localnav" data-analytics-region="product nav"><h2><img src="https://s.mzstatic.com/images/web/itunes_preview/itunespreview_en@2x.png" alt="iTunes" height="32" width="263"></h2><ul class="localnav-links"><li><a href="http://www.apple.com/itunes/overview/" class="localnav-link">Overview</a></li><li><a href="http://www.apple.com/itunes/music/" class="localnav-link">Music</a></li><li><a href="http://www.apple.com/itunes/video/" class="localnav-link">Video</a></li><li><a href="http://www.apple.com/itunes/charts/" class="localnav-link">Charts</a></li></ul></div></div>
+
+  <div id="main">
+    <div id="itunes-detector">
+  <div id="launching-itunes">
+
+    <div id="status">
+      <div class="opening-itunes" id="loadingItunes"><span>Opening the iTunes Store.</span><span>If iTunes doesn't open, click the iTunes application icon in your Dock or on your Windows desktop.</span><span class="spinner">Progress Indicator</span></div>
+      <div class="opening-itunes" id="loadingIbooks"><span>Opening the iBooks Store.</span><span>If iBooks doesn't open, click the iBooks app in your Dock.</span><span class="spinner">Progress Indicator</span></div>
+  </div>
+</div>
+
+  <div id="itunes-client-required">
+    <div class="callout">
+      <div class="left">iTunes</div>
+
+      <h2>iTunes is the world's easiest way to organize and add to your digital media collection.</h2>
+
+      <p preview-capable-text="We are unable to find iTunes on your computer. To buy and download music by [?], get iTunes now." class="intro has-preview-capable-text">
+        We are unable to find iTunes on your computer. To preview and buy music by [?], download iTunes now.          
+      </p>
+
+      <div class="download">
+        <p>Already have iTunes? Click I Have iTunes to open it now.</p>
+        <a class="i-have-itunes" onclick="its.detect.userOverrideSetItunesInstalled(); its.detect.openItunes(); return true;" href="#">
+          <img alt="I Have iTunes" src="/images/web/ihaveitunes.png" />
+        </a>
+        <a href="#" onclick="javascript:window.location='http://www.apple.com/itunes/affiliates/download/?id=54657'; return true;"><img alt="Free Download" src="/images/web/freedownload.png" /></a>
+      </div>
+
+      <a class="macpc" href="#">iTunes for Mac + PC</a>
+    </div>
+  </div>
+</div>
+
+
+    
+    
+    
+  
+
+    <div id="content">
+      
+      <div class="padder">
+
+        <div id="title" class="intro">
+          <h1>Elton John</h1>
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/artist/elton-john/id54657&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+          <p preview-capable-text="To preview a song, mouse over the title and click Play. Open iTunes to buy and download music." class="has-preview-capable-text">
+            To preview a song, mouse over the title and click Play. Open iTunes to buy and download music.          
+          </p>
+        </div>
+
+        <div class="center-stack">
+            <div id="biography" metrics-loc="Titledbox_Biography" class="biography">
+  
+    <h4>
+      
+      Biography
+    </h4>
+    
+  
+  
+  
+    <div more-text="More" will-truncate-max-height="72"><p class="extra">In terms of sales and lasting popularity, Elton John was the biggest pop superstar of the early '70s. Initially marketed as a singer/songwriter, John soon revealed he could craft Beatlesque pop and pound out rockers with equal aplomb. He could dip into soul, disco, and country, as well as classic pop balladry and even progressive rock. His versatility, combined with his effortless melodic skills, dynamic charisma, and flamboyant stage shows, made him the most popular recording artist of the '70s. Unlike many pop stars, John was able to sustain his popularity, charting a Top 40 single every single year from 1970 to 1996. During that time, he had temporary slumps in creativity and sales, as he fell out of favor with critics, had fights with his lyricist, Bernie Taupin, and battled various addictions and public scandals. But through it all, John remained a remarkably popular artist, and many of his songs &#8212; including "Your Song," "Rocket Man," "Goodbye Yellow Brick Road," and "Don't Let the Sun Go Down on Me" &#8212; became contemporary pop standards.</p><p class="extra">The son of a former Royal Air Force trumpeter, John was born Reginald Kenneth Dwight in 1947. Dwight began playing piano at the age of four, and when he was 11, he won a scholarship to the Royal Academy of Music. After studying for six years, he left school with the intention of breaking into the music business. In 1961, he joined his first band, Bluesology, and divided his time between playing with the group, giving solo concerts at a local hotel, and running errands for a London publishing house. By 1965, Bluesology was backing touring American soul and R&amp;B musicians like Major Lance, Doris Troy, and the Bluebells. In 1966, Bluesology became Long John Baldry's supporting band and began touring cabarets throughout England. Dwight became frustrated with Baldry's control of the band and began searching for other groups to join. He failed his lead vocalist auditions for both King Crimson and Gentle Giant before responding to an advertisement by Liberty Records. Though he failed his Liberty audition, he was given a stack of lyrics left with the label courtesy of Bernie Taupin, who had also replied to the ad. Dwight wrote music for Taupin's lyrics and began corresponding with him through mail. By the time the two met six months later, Dwight had changed his name to Elton John, taking his first name from Bluesology saxophonist Elton Dean and his last from John Baldry.</p><p class="extra">John and Taupin were hired by Dick James to become staff songwriters at his fledgling DJM in 1968. The pair collaborated at a rapid rate, with Taupin submitting batches of lyrics &#8212; he often wrote a song an hour &#8212; every few weeks. John would then write music without changing the words, sometimes completing the songs in under a half-hour. Over the next two years, the duo wrote songs for pop singers like Roger Cook and Lulu. In the meantime, John recorded cover versions of current hits for budget labels to be sold in supermarkets. By the summer of 1968, he had begun recording singles for release under his own name. Usually, these songs were more rock- and radio-oriented than the tunes he and Taupin were giving to other vocalists, yet neither of his early singles for Philips, "I've Been Loving You Too Long" and "Lady Samantha," sold well. In June of 1969, he released his debut album for DJM, Empty Sky, which received fair reviews, but no sales. </p><p class="extra">For his second album, John and Taupin hired producer Gus Dudgeon and arranger Paul Buckmaster, who contributed grandiose string charts to Elton John. Released in the summer of 1970, Elton John began to make inroads in America, where it appeared on MCA's Uni subsidiary. In August, he gave his first American concert at the Troubadour in Los Angeles, which received enthusiastic reviews, as well as praise from Quincy Jones and Leon Russell. Throughout the fall, Elton John continued to climb the charts on the strength of the Top Ten single "Your Song." John followed it quickly in late 1970 with the concept album Tumbleweed Connection, which received heavy airplay on album-oriented radio in the U.S., helping it climb into the Top Ten. The rapid release of Tumbleweed Connection established a pattern of frequent releases that John maintained throughout his career. In 1971, he released the live 11-17-70 and the Friends soundtrack, before releasing Madman Across the Water late in the year. Madman Across the Water was successful, but John achieved stardom with the follow-up, 1972's Honky Chateau. Recorded with his touring band &#8212; bassist Dee Murray, drummer Nigel Olsson, and guitarist Davey Johnstone &#8212; and featuring the hit singles "Rocket Man" and "Honky Cat," Honky Chateau became his first American number one album, spending five weeks at the top of the charts. </p><p class="extra">Between 1972 and 1976, John and Taupin's hitmaking machine was virtually unstoppable. "Rocket Man" began a four-year streak of 16 Top 20 hits in a row; out of those 16 &#8212; including "Crocodile Rock," "Daniel," "Bennie and the Jets," "The Bitch Is Back," and "Philadelphia Freedom" &#8212; only one, the FM hit "Saturday Night's Alright for Fighting," failed to reach the Top Ten. Honky Chateau began a streak of seven consecutive number one albums &#8212; Don't Shoot Me I'm Only the Piano Player (1973), Goodbye Yellow Brick Road (1973), Caribou (1974), Greatest Hits (1974), Captain Fantastic and the Brown Dirt Cowboy (1975), Rock of the Westies (1975) &#8212; that all went platinum. John founded Rocket, a record label distributed by MCA, in 1973 in order to sign and produce acts like Neil Sedaka and Kiki Dee. John didn't become a Rocket recording artist himself, choosing to stay with MCA for a record-breaking eight-million-dollar contract in 1974. Later in 1974, he played and sang on John Lennon's number one comeback single "Whatever Gets You Through the Night," and he persuaded Lennon to join him on-stage at Madison Square Garden on Thanksgiving Day 1974; it would prove to be Lennon's last live performance. The following year, Captain Fantastic became John's first album to enter the American charts at number one. After its release, he revamped his band, which now featured Johnstone, Quaye, Roger Pope, Ray Cooper, and bassist Kenny Passarelli; Rock of the Westies was the first album to feature this lineup. </p><p class="extra">Throughout the mid-'70s, John's concerts were enormously popular, as were his singles and albums, and he continued to record and perform at a rapid pace until 1976. That year, he revealed in an interview in Rolling Stone that he was bisexual; he would later admit that the confession was a compromise, since he was afraid to reveal that he was homosexual. Many fans reacted negatively to John's bisexuality, and his audience began to shrink somewhat in the late '70s. The decline in his record sales was also due to his exhaustion. After 1976, John cut his performance schedule drastically, announcing that he was retiring from live performances in 1977 and started recording only one album a year. His relationship with Taupin became strained following the release of 1976's double album Blue Moves, and the lyricist began working with other musicians. John returned in 1978 with A Single Man, which was written with Gary Osborne; the record produced no Top 20 singles. That year, he returned to live performances, first by jamming at the Live Stiffs package tour, then by launching a comeback tour in 1979 accompanied only by percussionist Ray Cooper. "Mama Can't Buy You Love," a song he recorded with Philly soul producer Thom Bell in 1977, returned him to the Top Ten in 1979, but that year's Victim of Love was a commercial disappointment. </p><p class="extra">John reunited with Taupin for 1980's 21 at 33, which featured the Top Ten single "Little Jeannie." Over the next three years, John remained a popular concert artist, but his singles failed to break the Top Ten, even if they reached the Top 40. In 1981, he signed with Geffen Records and his second album, Jump Up!, became a gold album on the strength of "Blue Eyes" and "Empty Garden (Hey Hey Johnny)," his tribute to John Lennon. But it was 1983's Too Low for Zero that began his last great streak of hit singles, with the MTV hit "I'm Still Standing" and the Top Ten single "I Guess That's Why They Call It the Blues." Throughout the rest of the '80s, John's albums would consistently go gold, and they always generated at least one Top 40 single; frequently, they featured Top Ten singles like "Sad Songs (Say So Much)" (1984), "Nikita" (1986), "Candle in the Wind" (1987), and "I Don't Want to Go on with You Like That" (1988). While his career continued to be successful, his personal life was in turmoil. Since the mid-'70s, he had been addicted to cocaine and alcohol, and the situation only worsened during the '80s. In a surprise move, he married engineer Renate Blauel in 1984; the couple stayed married for four years, although John later admitted he realized he was homosexual before his marriage. In 1986, he underwent throat surgery while on tour, but even after he successfully recovered, he continued to abuse cocaine and alcohol. </p><p class="extra">Following a record-breaking five-date stint at Madison Square Garden in 1988, John auctioned off all of his theatrical costumes, thousands of pieces of memorabilia, and his extensive record collection through Sotheby's. The auction was a symbolic turning point. Over the next two years, John battled both his drug addiction and bulimia, undergoing hair replacement surgery at the same time. By 1991 he was sober, and the following year he established the Elton John AIDS Foundation; he also announced that he would donate all royalties from his single sales to AIDS research.</p><p class="extra">In 1992, John returned to active recording with The One. Peaking at number eight on the U.S. charts and going double platinum, the album became his most successful record since Blue Moves and sparked a career renaissance for John. He and Taupin signed a record-breaking publishing deal with Warner/Chappell Music in 1992 for an estimated 39 million dollars. In 1994, John collaborated with lyricist Tim Rice on songs for Disney's animated feature The Lion King. One of their collaborations, "Can You Feel the Love Tonight," won the Academy Award for Best Original Song, as well as the Grammy for Best Male Pop Vocal Performance. John's 1995 album Made in England continued his comeback, peaking at number three on the U.K. charts and number 13 in the U.S.; in America, the album went platinum. The 1997 follow-up, The Big Picture, delivered more of the same well-crafted pop, made the Top Ten, and produced a hit in "Something About the Way You Look Tonight." However, its success was overshadowed by John's response to the tragic death of Princess Diana &#8212; he re-recorded "Candle in the Wind" (originally a eulogy for Marilyn Monroe) as a tribute to his slain friend, with Taupin adapting the lyrics for what was planned as the B-side of "Something About the Way You Look Tonight." </p><p class="extra">With the profits earmarked for Diana's favorite charities, and with a debut performance at Diana's funeral, "Candle in the Wind 1997" became the fastest-selling hit of all time in both Britain and the U.S. upon the single's release, easily debuting at number one on both sides of the Atlantic; with first-week sales of over three million copies in the U.S. alone and 14 weeks in the top spot, it was John's biggest hit ever. For his next project, John reunited with Lion King collaborator Tim Rice to write songs for Disney's Broadway musical adaptation of the story of Aida; an album of their efforts featuring a who's who of contemporary pop musicians was released in early 1999, going gold by the end of the year. In late 2000, John landed a TV special with CBS, performing a selection of his greatest hits at Madison Square Garden; a companion album drawn from those performances, One Night Only, was issued shortly before the special aired. Released in 2001, Songs from the West Coast was a return to form for John, who found critical success for the first time since the '80s. However, it wasn't until 2004's popular Peachtree Road album that he managed to match that success commercially. In 2006, John and Taupin released The Captain &amp; the Kid, a sequel to 1975's Captain Fantastic and the Brown Dirt Cowboy. John busied himself with stage work and a Vegas show before he unexpectedly recorded a duet album with Leon Russell, releasing the T-Bone Burnett-produced The Union in the fall of 2010. </p><p class="extra">The Union revived Russell's career and the duo supported the record with a limited tour. John settled into another Vegas stint in 2011, signing a contract with Caesars Palace to deliver a show called The Million Dollar Piano over the next three years. Despite this long-term commitment, Elton pursued other projects: he published an autobiography called Love Is the Cure in the summer of 2012 and around the same time, the Australian dance duo Pnau reworked many of his classic '70s recordings on the Good Morning to the Night album. He also completed another collection of new songs called The Diving Board; the T-Bone Burnett-produced album appeared in September 2013. </p></div>
+  
+  
+</div>
+<div metrics-loc="Titledbox_Top Albums" class="top-albums">
+  
+    <h3>
+      
+      Top Albums
+    </h3>
+    
+  
+  
+  
+    
+<div metrics-loc="Swoosh_" rows="4" class="swoosh lockup-container album music large">
+
+  
+    
+    <div num-items="20" class="content"><div>
+<div role="group" metrics-loc="Lockup_" adam-id="219668167" preview-artist="Elton John" aria-label="Rocket Man - Number Ones, Elton John" preview-title="Rocket Man - Number Ones" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/rocket-man-number-ones/id219668167" class="artwork-link"><div class="artwork"><img width="100" height="89" alt="Rocket Man - Number Ones, Elton John" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Music/v4/f0/95/a9/f095a954-b9ff-ea05-314d-f3d77f1d3de7/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Music/v4/f0/95/a9/f095a954-b9ff-ea05-314d-f3d77f1d3de7/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>1. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/rocket-man-number-ones/id219668167" class="name">Rocket Man - Number Ones</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/rocket-man-number-ones/id219668167&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="3451744" preview-artist="Elton John" aria-label="Elton John: Greatest Hits, Elton John" preview-title="Elton John: Greatest Hits" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/elton-john-greatest-hits/id3451744" class="artwork-link"><div class="artwork"><img width="99" height="100" alt="Elton John: Greatest Hits, Elton John" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Music/v4/c3/99/7d/c3997d9f-764d-2e2e-4346-e274cd839159/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Music/v4/c3/99/7d/c3997d9f-764d-2e2e-4346-e274cd839159/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>2. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/elton-john-greatest-hits/id3451744" class="name">Elton John: Greatest Hits</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/elton-john-greatest-hits/id3451744&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="521523" preview-artist="Elton John" aria-label="Greatest Hits 1970-2002, Elton John" preview-title="Greatest Hits 1970-2002" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/greatest-hits-1970-2002/id521523" class="artwork-link"><div class="artwork"><img width="100" height="90" alt="Greatest Hits 1970-2002, Elton John" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Music/v4/6f/c2/38/6fc2387e-12de-92bb-b892-f3c1cac0785b/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Music/v4/6f/c2/38/6fc2387e-12de-92bb-b892-f3c1cac0785b/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>3. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/greatest-hits-1970-2002/id521523" class="name">Greatest Hits 1970-2002</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/greatest-hits-1970-2002/id521523&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="5243931" preview-artist="Elton John" aria-label="Tumbleweed Connection (Remastered), Elton John" preview-title="Tumbleweed Connection (Remastered)" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/tumbleweed-connection-remastered/id5243931" class="artwork-link"><div class="artwork"><img width="100" height="99" alt="Tumbleweed Connection (Remastered), Elton John" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Music6/v4/00/9c/20/009c2089-57ab-90d0-36ac-0a176c762d94/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Music6/v4/00/9c/20/009c2089-57ab-90d0-36ac-0a176c762d94/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>4. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/tumbleweed-connection-remastered/id5243931" class="name">Tumbleweed Connection (Remastered)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/tumbleweed-connection-remastered/id5243931&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="389816892" preview-artist="Elton John & Leon Russell" aria-label="The Union, Elton John" preview-title="The Union" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/the-union/id389816892" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="The Union, Elton John" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Music/v4/54/44/3b/54443b9a-692f-ea9c-0993-038443066df7/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Music/v4/54/44/3b/54443b9a-692f-ea9c-0993-038443066df7/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>5. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/the-union/id389816892" class="name">The Union</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/the-union/id389816892&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="798901876" preview-artist="Elton John" aria-label="Goodbye Yellow Brick Road (40th Anniversary Celebration), Elton John" preview-title="Goodbye Yellow Brick Road (40th Anniversary Celebration)" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/goodbye-yellow-brick-road/id798901876" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Goodbye Yellow Brick Road (40th Anniversary Celebration), Elton John" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Music4/v4/27/d3/93/27d39306-ada8-be0e-de7e-2e356329311e/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Music4/v4/27/d3/93/27d39306-ada8-be0e-de7e-2e356329311e/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>6. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/goodbye-yellow-brick-road/id798901876" class="name">Goodbye Yellow Brick Road (40th Anniversary Celebration)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/goodbye-yellow-brick-road/id798901876&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="662011790" preview-artist="Elton John" aria-label="The Diving Board (Deluxe Version), Elton John" preview-title="The Diving Board (Deluxe Version)" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/diving-board-deluxe-version/id662011790" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="The Diving Board (Deluxe Version), Elton John" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Music2/v4/b8/a2/7f/b8a27f47-2da2-9f10-dc1a-69dace537380/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Music2/v4/b8/a2/7f/b8a27f47-2da2-9f10-dc1a-69dace537380/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>7. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/diving-board-deluxe-version/id662011790" class="name">The Diving Board (Deluxe Version)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/diving-board-deluxe-version/id662011790&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="3451777" preview-artist="Elton John" aria-label="Elton John's Greatest Hits, Vol. 2, Elton John" preview-title="Elton John's Greatest Hits, Vol. 2" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/elton-johns-greatest-hits/id3451777" class="artwork-link"><div class="artwork"><img width="98" height="100" alt="Elton John&apos;s Greatest Hits, Vol. 2, Elton John" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Music/v4/4c/88/e8/4c88e80b-7d98-9090-0f7b-d6dc444fc772/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Music/v4/4c/88/e8/4c88e80b-7d98-9090-0f7b-d6dc444fc772/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>8. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/elton-johns-greatest-hits/id3451777" class="name">Elton John's Greatest Hits, Vol. 2</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/elton-johns-greatest-hits/id3451777&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="120955326" preview-artist="Elton John & Original Cast of Billy Elliot" aria-label="Billy Elliot - The Musical (Original Cast Recording), Elton John" preview-title="Billy Elliot - The Musical (Original Cast Recording)" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/billy-elliot-musical-original/id120955326" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Billy Elliot - The Musical (Original Cast Recording), Elton John" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Music/v4/ac/1c/0f/ac1c0f96-1e18-89ed-8652-b2d13a059e9c/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Music/v4/ac/1c/0f/ac1c0f96-1e18-89ed-8652-b2d13a059e9c/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>9. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/billy-elliot-musical-original/id120955326" class="name">Billy Elliot - The Musical (Original Cast Recording)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/billy-elliot-musical-original/id120955326&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="45394" preview-artist="Elton John" aria-label="Honky Ch&acirc;teau, Elton John" preview-title="Honky ChÃ¢teau" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/honky-chateau/id45394" class="artwork-link"><div class="artwork"><img width="100" height="99" alt="Honky ChÃ¢teau, Elton John" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Music/v4/bd/48/50/bd48504c-b7e3-ac82-6e36-59808447cf6b/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Music/v4/bd/48/50/bd48504c-b7e3-ac82-6e36-59808447cf6b/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>10. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/honky-chateau/id45394" class="name">Honky ChÃ¢teau</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/honky-chateau/id45394&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="485535551" preview-artist="Elton John" aria-label="Captain Fantastic and the Brown Dirt Cowboy, Elton John" preview-title="Captain Fantastic and the Brown Dirt Cowboy" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/captain-fantastic-brown-dirt/id485535551" class="artwork-link"><div class="artwork"><img width="100" height="99" alt="Captain Fantastic and the Brown Dirt Cowboy, Elton John" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Music/v4/38/8a/5a/388a5a2f-e02a-0625-7ee7-a8d6e67a6b29/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Music/v4/38/8a/5a/388a5a2f-e02a-0625-7ee7-a8d6e67a6b29/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>11. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/captain-fantastic-brown-dirt/id485535551" class="name">Captain Fantastic and the Brown Dirt Cowboy</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/captain-fantastic-brown-dirt/id485535551&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="485503624" preview-artist="Elton John" aria-label="Elton John, Elton John" preview-title="Elton John" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/elton-john/id485503624" class="artwork-link"><div class="artwork"><img width="100" height="99" alt="Elton John, Elton John" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Music/v4/ed/93/44/ed93443f-8dce-920d-6fce-e03b81149e75/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Music/v4/ed/93/44/ed93443f-8dce-920d-6fce-e03b81149e75/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>12. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/elton-john/id485503624" class="name">Elton John</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/elton-john/id485503624&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="189325817" preview-artist="Elton John" aria-label="The Captain &amp; The Kid (Bonus Tracks), Elton John" preview-title="The Captain & The Kid (Bonus Tracks)" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/captain-kid-bonus-tracks/id189325817" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="The Captain &amp; The Kid (Bonus Tracks), Elton John" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Music/v4/85/5f/ca/855fca9f-fff1-09ab-4a28-a8b72834c344/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Music/v4/85/5f/ca/855fca9f-fff1-09ab-4a28-a8b72834c344/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>13. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/captain-kid-bonus-tracks/id189325817" class="name">The Captain &amp; The Kid (Bonus Tracks)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/captain-kid-bonus-tracks/id189325817&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="264628714" preview-artist="Elton John" aria-label="Elton 60 - Live at Madison Square Garden, Elton John" preview-title="Elton 60 - Live at Madison Square Garden" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/elton-60-live-at-madison-square/id264628714" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Elton 60 - Live at Madison Square Garden, Elton John" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Music/v4/e0/a5/a7/e0a5a7c8-fe08-af91-a740-fb2c08922fb1/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Music/v4/e0/a5/a7/e0a5a7c8-fe08-af91-a740-fb2c08922fb1/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>14. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/elton-60-live-at-madison-square/id264628714" class="name">Elton 60 - Live at Madison Square Garden</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/elton-60-live-at-madison-square/id264628714&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="353672026" preview-artist="Lady Gaga" aria-label="Poker Face / Speechless / Your Song (feat. Elton John) [Live from the 52nd Annual Grammy Awards] - Single, Lady Gaga" preview-title="Poker Face / Speechless / Your Song (feat. Elton John) [Live from the 52nd Annual Grammy Awards] - Single" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/poker-face-speechless-your/id353672026" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Poker Face / Speechless / Your Song (feat. Elton John) [Live from the 52nd Annual Grammy Awards] - Single, Lady Gaga" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Music/v4/28/5d/e7/285de748-dbf6-1f35-87c8-390013a7de33/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Music/v4/28/5d/e7/285de748-dbf6-1f35-87c8-390013a7de33/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>15. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/poker-face-speechless-your/id353672026" class="name">Poker Face / Speechless / Your Song (feat. Elton John) [Live from the 52nd Annual Grammy Awards] - Single</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/poker-face-speechless-your/id353672026&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="412424" preview-artist="Elton John" aria-label="Live In Australia, Elton John" preview-title="Live In Australia" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/live-in-australia/id412424" class="artwork-link"><div class="artwork"><img width="100" height="99" alt="Live In Australia, Elton John" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Music/v4/a7/e8/cb/a7e8cba3-4654-5ffc-836e-fa4dae199a48/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Music/v4/a7/e8/cb/a7e8cba3-4654-5ffc-836e-fa4dae199a48/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>16. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/live-in-australia/id412424" class="name">Live In Australia</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/live-in-australia/id412424&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="389844607" preview-artist="Elton John & Leon Russell" aria-label="The Union, Elton John" preview-title="The Union" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/the-union/id389844607" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="The Union, Elton John" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Music/v4/f7/cf/0a/f7cf0a68-1ce8-d8a1-7050-234fc9d349c9/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Music/v4/f7/cf/0a/f7cf0a68-1ce8-d8a1-7050-234fc9d349c9/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>17. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/the-union/id389844607" class="name">The Union</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/the-union/id389844607&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="406341" preview-artist="Elton John" aria-label="Greatest Hits 1976-1986, Elton John" preview-title="Greatest Hits 1976-1986" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/greatest-hits-1976-1986/id406341" class="artwork-link"><div class="artwork"><img width="100" height="99" alt="Greatest Hits 1976-1986, Elton John" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Music/v4/43/3b/dd/433bdd81-e36b-828c-ecb3-e10657af752b/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Music/v4/43/3b/dd/433bdd81-e36b-828c-ecb3-e10657af752b/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>18. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/greatest-hits-1976-1986/id406341" class="name">Greatest Hits 1976-1986</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/greatest-hits-1976-1986/id406341&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="313562" preview-artist="Elton John" aria-label="Don't Shoot Me I'm Only the Piano Player, Elton John" preview-title="Don't Shoot Me I'm Only the Piano Player" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/dont-shoot-me-im-only-piano/id313562" class="artwork-link"><div class="artwork"><img width="100" height="99" alt="Don&apos;t Shoot Me I&apos;m Only the Piano Player, Elton John" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Music/v4/67/9e/de/679edecb-3d71-7b2a-6120-8f35ab2822cf/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Music/v4/67/9e/de/679edecb-3d71-7b2a-6120-8f35ab2822cf/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>19. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/dont-shoot-me-im-only-piano/id313562" class="name">Don't Shoot Me I'm Only the Piano Player</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/dont-shoot-me-im-only-piano/id313562&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="662004721" preview-artist="Elton John" aria-label="The Diving Board, Elton John" preview-title="The Diving Board" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/the-diving-board/id662004721" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="The Diving Board, Elton John" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Music2/v4/ea/ed/72/eaed72ab-5811-1685-262c-9167d71cc63d/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Music2/v4/ea/ed/72/eaed72ab-5811-1685-262c-9167d71cc63d/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>20. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/the-diving-board/id662004721" class="name">The Diving Board</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/the-diving-board/id662004721&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+</div></div>
+  
+</div>
+<ul class="list paginate"><li><a href="https://itunes.apple.com/us/artist/elton-john/id54657?albumPage=1#albumPage" class="selected">1</a></li><li><a href="https://itunes.apple.com/us/artist/elton-john/id54657?albumPage=2#albumPage">2</a></li><li><a href="https://itunes.apple.com/us/artist/elton-john/id54657?albumPage=3#albumPage">3</a></li><li><a href="https://itunes.apple.com/us/artist/elton-john/id54657?albumPage=4#albumPage">4</a></li></ul>
+  
+  
+</div>
+<div metrics-loc="Titledbox_Top Songs" class="top-songs">
+  
+    <h3>
+      
+      Top Songs
+    </h3>
+    
+  
+  
+  
+    
+
+
+
+
+
+	<div metrics-loc="TrackList" role="grid" aria-readonly="true" class="track-list song music">
+	     
+		<div class="tracklist-content-box" role="presentation">
+		  <table role="presentation" column-classes="index,name,album,time,price,view-in-itunes" class="tracklist-table content sortable total-flexible-columns-2 total-columns-6">
+		    
+		    
+	          <thead>
+	            <tr>
+	              
+	                 <th role="columnheader" aria-sort="ascending" class="index ascending">
+	                    
+	                    &nbsp;
+	                  </th>
+	              
+	                 <th role="columnheader" class="name flexible-col">
+	                    Name
+	                    
+	                  </th>
+	              
+	                 <th role="columnheader" class="album flexible-col">
+	                    Album
+	                    
+	                  </th>
+	              
+	                 <th role="columnheader" class="time">
+	                    Time
+	                    
+	                  </th>
+	              
+	                 <th role="columnheader" class="price">
+	                    Price
+	                    
+	                  </th>
+	              
+	                 <th role="columnheader" class="view-in-itunes">
+	                    
+	                    &nbsp;
+	                  </th>
+	              
+	            </tr>
+	          </thead>
+		     
+		    <tbody>
+	            
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a353.phobos.apple.com/us/r1000/074/Music/02/6c/84/mzm.sngqlnbw.aac.p.m4a" preview-album="Greatest Hits 1970-2002" preview-artist="Elton John" preview-title="Tiny Dancer" preview-duration="30000" adam-id="521332" row-number="0" class="song music">
+      
+        <td role="gridcell" sort-value="1" class="index ascending">
+          <span class="index"><span>1</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Tiny Dancer" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/tiny-dancer/id521523?i=521332">Tiny Dancer</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits 1970-2002" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits-1970-2002/id521523"><span class="text">Greatest Hits 1970-2002</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="377653" class="time">
+          <span><span class="text">6:17</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.69" class="price">
+          <span>$0.69</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/tiny-dancer/id521523?i=521332&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1525.phobos.apple.com/us/r1000/079/Music/v4/93/86/81/938681f1-0594-e060-35f4-1144b6684523/mzaf_8653090897510112761.aac.m4a" preview-album="Elton John: Greatest Hits" preview-artist="Elton John" preview-title="Your Song" preview-duration="30000" adam-id="3451722" row-number="1" class="song music">
+      
+        <td role="gridcell" sort-value="2" class="index ascending">
+          <span class="index"><span>2</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Your Song" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/your-song/id3451744?i=3451722">Your Song</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Elton John: Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/elton-john-greatest-hits/id3451744"><span class="text">Elton John: Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="239600" class="time">
+          <span><span class="text">3:59</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.69" class="price">
+          <span>$0.69</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/your-song/id3451744?i=3451722&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1352.phobos.apple.com/us/r1000/034/Music/v4/4b/2d/0d/4b2d0db7-c8fe-2ca8-db21-962be9347923/mzaf_8402348760876449534.plus.aac.p.m4a" preview-album="The Lion King (Original Motion Picture Soundtrack)" preview-artist="Elton John" preview-title="Can You Feel the Love Tonight" preview-duration="30000" adam-id="156089582" row-number="2" class="song music">
+      
+        <td role="gridcell" sort-value="3" class="index ascending">
+          <span class="index"><span>3</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Can You Feel the Love Tonight" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/can-you-feel-the-love-tonight/id156089366?i=156089582">Can You Feel the Love Tonight</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Lion King (Original Motion Picture Soundtrack)" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/lion-king-original-motion/id156089366"><span class="text">The Lion King (Original Motion Picture Soundtrack)</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="241013" class="time">
+          <span><span class="text">4:01</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.69" class="price">
+          <span>$0.69</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/can-you-feel-the-love-tonight/id156089366?i=156089582&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a705.phobos.apple.com/us/r1000/110/Music/v4/34/59/cc/3459cc03-4d8d-c849-d59c-abf27660acb4/mzaf_8690655032063549589.aac.m4a" preview-album="Elton John: Greatest Hits" preview-artist="Elton John" preview-title="Rocket Man (I Think It's Going to Be a Long Long Time)" preview-duration="30000" adam-id="3451732" row-number="3" class="song music">
+      
+        <td role="gridcell" sort-value="4" class="index ascending">
+          <span class="index"><span>4</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Rocket Man (I Think It&#39;s Going to Be a Long Long Time)" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/rocket-man-i-think-its-going/id3451744?i=3451732">Rocket Man (I Think It's Going to Be a Long Long Time)</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Elton John: Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/elton-john-greatest-hits/id3451744"><span class="text">Elton John: Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="280800" class="time">
+          <span><span class="text">4:40</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/rocket-man-i-think-its-going/id3451744?i=3451732&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a618.phobos.apple.com/us/r1000/106/Music/75/15/b4/mzm.lsznluwi.aac.p.m4a" preview-album="Greatest Hits 1970-2002" preview-artist="Elton John" preview-title="Bennie and the Jets" preview-duration="30000" adam-id="521387" row-number="4" class="song music">
+      
+        <td role="gridcell" sort-value="5" class="index ascending">
+          <span class="index"><span>5</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Bennie and the Jets" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/bennie-and-the-jets/id521523?i=521387">Bennie and the Jets</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits 1970-2002" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits-1970-2002/id521523"><span class="text">Greatest Hits 1970-2002</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="309053" class="time">
+          <span><span class="text">5:09</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/bennie-and-the-jets/id521523?i=521387&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1693.phobos.apple.com/us/r1000/098/Music/d3/3e/fb/mzm.zjwmuyth.aac.p.m4a" preview-album="Greatest Hits 1970-2002" preview-artist="Elton John" preview-title="Rocket Man" preview-duration="30000" adam-id="521335" row-number="5" class="song music">
+      
+        <td role="gridcell" sort-value="6" class="index ascending">
+          <span class="index"><span>6</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Rocket Man" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/rocket-man/id521523?i=521335">Rocket Man</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits 1970-2002" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits-1970-2002/id521523"><span class="text">Greatest Hits 1970-2002</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="285360" class="time">
+          <span><span class="text">4:45</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/rocket-man/id521523?i=521335&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a800.phobos.apple.com/us/r1000/096/Music/v4/85/a9/8a/85a98a8f-f113-8caa-9eee-d821518c7294/mzaf_5034781628799297831.aac.m4a" preview-album="Elton John: Greatest Hits" preview-artist="Elton John" preview-title="Goodbye Yellow Brick Road" preview-duration="30000" adam-id="3451728" row-number="6" class="song music">
+      
+        <td role="gridcell" sort-value="7" class="index ascending">
+          <span class="index"><span>7</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Goodbye Yellow Brick Road" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/goodbye-yellow-brick-road/id3451744?i=3451728">Goodbye Yellow Brick Road</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Elton John: Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/elton-john-greatest-hits/id3451744"><span class="text">Elton John: Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="193960" class="time">
+          <span><span class="text">3:13</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/goodbye-yellow-brick-road/id3451744?i=3451728&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a371.phobos.apple.com/us/r1000/075/Music/94/28/18/mzm.ztegeouw.aac.p.m4a" preview-album="Greatest Hits 1970-2002" preview-artist="Elton John" preview-title="I Guess That's Why They Call It the Blues" preview-duration="30000" adam-id="521453" row-number="7" class="song music">
+      
+        <td role="gridcell" sort-value="8" class="index ascending">
+          <span class="index"><span>8</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="I Guess That&#39;s Why They Call It the Blues" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/i-guess-thats-why-they-call/id521523?i=521453">I Guess That's Why They Call It the Blues</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits 1970-2002" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits-1970-2002/id521523"><span class="text">Greatest Hits 1970-2002</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="284200" class="time">
+          <span><span class="text">4:44</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/i-guess-thats-why-they-call/id521523?i=521453&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a61.phobos.apple.com/us/r1000/104/Music/fe/7b/cb/mzm.jotmnrfv.aac.p.m4a" preview-album="Greatest Hits 1970-2002" preview-artist="Elton John & Kiki Dee" preview-title="Don't Go Breaking My Heart" preview-duration="30000" adam-id="521425" row-number="8" class="song music">
+      
+        <td role="gridcell" sort-value="9" class="index ascending">
+          <span class="index"><span>9</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Don&#39;t Go Breaking My Heart" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/dont-go-breaking-my-heart/id521523?i=521425">Don't Go Breaking My Heart</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits 1970-2002" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits-1970-2002/id521523"><span class="text">Greatest Hits 1970-2002</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="267093" class="time">
+          <span><span class="text">4:27</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.99" class="price">
+          <span>$0.99</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/dont-go-breaking-my-heart/id521523?i=521425&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1762.phobos.apple.com/us/r1000/092/Music/v4/ae/3f/ca/ae3fcac9-d53b-561f-7886-1a644831aa5b/mzaf_6112694249928614029.aac.m4a" preview-album="Elton John: Greatest Hits" preview-artist="Elton John" preview-title="Crocodile Rock" preview-duration="30000" adam-id="3451742" row-number="9" class="song music">
+      
+        <td role="gridcell" sort-value="10" class="index ascending">
+          <span class="index"><span>10</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Crocodile Rock" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/crocodile-rock/id3451744?i=3451742">Crocodile Rock</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Elton John: Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/elton-john-greatest-hits/id3451744"><span class="text">Elton John: Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="235067" class="time">
+          <span><span class="text">3:55</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/crocodile-rock/id3451744?i=3451742&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1283.phobos.apple.com/us/r1000/081/Music/v4/ce/ed/ec/ceedecea-e664-f592-dc66-847d403271ec/mzaf_968204076841394487.aac.m4a" preview-album="Elton John: Greatest Hits" preview-artist="Elton John" preview-title="Bennie and the Jets" preview-duration="30000" adam-id="3451734" row-number="10" class="song music">
+      
+        <td role="gridcell" sort-value="11" class="index ascending">
+          <span class="index"><span>11</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Bennie and the Jets" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/bennie-and-the-jets/id3451744?i=3451734">Bennie and the Jets</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Elton John: Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/elton-john-greatest-hits/id3451744"><span class="text">Elton John: Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="311400" class="time">
+          <span><span class="text">5:11</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/bennie-and-the-jets/id3451744?i=3451734&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1677.phobos.apple.com/us/r1000/097/Music/v4/23/ef/b8/23efb8a3-a4e4-1636-0145-e050091d5335/mzaf_227708511569103422.aac.m4a" preview-album="Elton John: Greatest Hits" preview-artist="Elton John" preview-title="Don't Let the Sun Go Down On Me" preview-duration="30000" adam-id="3451738" row-number="11" class="song music">
+      
+        <td role="gridcell" sort-value="12" class="index ascending">
+          <span class="index"><span>12</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Don&#39;t Let the Sun Go Down On Me" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/dont-let-the-sun-go-down-on-me/id3451744?i=3451738">Don't Let the Sun Go Down On Me</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Elton John: Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/elton-john-greatest-hits/id3451744"><span class="text">Elton John: Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="335707" class="time">
+          <span><span class="text">5:35</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/dont-let-the-sun-go-down-on-me/id3451744?i=3451738&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1174.phobos.apple.com/us/r1000/116/Music/f1/25/9f/mzm.lxpdwgye.aac.p.m4a" preview-album="Greatest Hits 1970-2002" preview-artist="Elton John" preview-title="Levon" preview-duration="30000" adam-id="521327" row-number="12" class="song music">
+      
+        <td role="gridcell" sort-value="13" class="index ascending">
+          <span class="index"><span>13</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Levon" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/levon/id521523?i=521327">Levon</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits 1970-2002" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits-1970-2002/id521523"><span class="text">Greatest Hits 1970-2002</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="324507" class="time">
+          <span><span class="text">5:24</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/levon/id521523?i=521327&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a14.phobos.apple.com/us/r1000/067/Music/v4/06/39/ca/0639ca5f-879d-c40f-eca9-0d65b3c07fb9/mzaf_2908456638480674578.aac.m4a" preview-album="Elton John: Greatest Hits" preview-artist="Elton John" preview-title="Daniel" preview-duration="30000" adam-id="3451724" row-number="13" class="song music">
+      
+        <td role="gridcell" sort-value="14" class="index ascending">
+          <span class="index"><span>14</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Daniel" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/daniel/id3451744?i=3451724">Daniel</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Elton John: Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/elton-john-greatest-hits/id3451744"><span class="text">Elton John: Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="232867" class="time">
+          <span><span class="text">3:52</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/daniel/id3451744?i=3451724&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a770.phobos.apple.com/us/r1000/062/Music/7d/e6/e7/mzm.kzyqsoia.aac.p.m4a" preview-album="Greatest Hits 1970-2002" preview-artist="Elton John" preview-title="Candle In the Wind" preview-duration="30000" adam-id="521375" row-number="14" class="song music">
+      
+        <td role="gridcell" sort-value="15" class="index ascending">
+          <span class="index"><span>15</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Candle In the Wind" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/candle-in-the-wind/id521523?i=521375">Candle In the Wind</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits 1970-2002" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits-1970-2002/id521523"><span class="text">Greatest Hits 1970-2002</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="230720" class="time">
+          <span><span class="text">3:50</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/candle-in-the-wind/id521523?i=521375&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1589.phobos.apple.com/us/r1000/083/Music/94/e5/72/mzm.yudxtlyx.aac.p.m4a" preview-album="Greatest Hits 1970-2002" preview-artist="Elton John" preview-title="I'm Still Standing" preview-duration="30000" adam-id="521449" row-number="15" class="song music">
+      
+        <td role="gridcell" sort-value="16" class="index ascending">
+          <span class="index"><span>16</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="I&#39;m Still Standing" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/im-still-standing/id521523?i=521449">I'm Still Standing</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits 1970-2002" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits-1970-2002/id521523"><span class="text">Greatest Hits 1970-2002</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="184080" class="time">
+          <span><span class="text">3:04</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/im-still-standing/id521523?i=521449&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a772.phobos.apple.com/us/r1000/090/Music/fc/5f/74/mzm.ewwtchpy.aac.p.m4a" preview-album="Greatest Hits 1970-2002" preview-artist="Elton John" preview-title="Your Song" preview-duration="30000" adam-id="521323" row-number="16" class="song music">
+      
+        <td role="gridcell" sort-value="17" class="index ascending">
+          <span class="index"><span>17</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Your Song" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/your-song/id521523?i=521323">Your Song</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits 1970-2002" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits-1970-2002/id521523"><span class="text">Greatest Hits 1970-2002</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="245400" class="time">
+          <span><span class="text">4:05</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/your-song/id521523?i=521323&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1513.phobos.apple.com/us/r1000/095/Music/0b/c9/70/mzm.sisnqidt.aac.p.m4a" preview-album="Honky Ch&acirc;teau" preview-artist="Elton John" preview-title="Mona Lisas and Mad Hatters" preview-duration="30000" adam-id="45388" row-number="17" class="song music">
+      
+        <td role="gridcell" sort-value="18" class="index ascending">
+          <span class="index"><span>18</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Mona Lisas and Mad Hatters" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/mona-lisas-and-mad-hatters/id45394?i=45388">Mona Lisas and Mad Hatters</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Honky ChÃ¢teau" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/honky-chateau/id45394"><span class="text">Honky ChÃ¢teau</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="300533" class="time">
+          <span><span class="text">5:00</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/mona-lisas-and-mad-hatters/id45394?i=45388&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a859.phobos.apple.com/us/r1000/017/Music/v4/e4/d3/78/e4d3786c-c9a6-e8b7-8807-6d2ff2673884/mzaf_2305484721654209167.plus.aac.p.m4a" preview-album="The Lion King (Original Motion Picture Soundtrack)" preview-artist="Elton John" preview-title="Circle of Life" preview-duration="30000" adam-id="156089569" row-number="18" class="song music">
+      
+        <td role="gridcell" sort-value="19" class="index ascending">
+          <span class="index"><span>19</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Circle of Life" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/circle-of-life/id156089366?i=156089569">Circle of Life</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Lion King (Original Motion Picture Soundtrack)" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/lion-king-original-motion/id156089366"><span class="text">The Lion King (Original Motion Picture Soundtrack)</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="291600" class="time">
+          <span><span class="text">4:51</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/circle-of-life/id156089366?i=156089569&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a163.phobos.apple.com/us/r1000/116/Music/0d/b9/2e/mzm.wrnyazin.aac.p.m4a" preview-album="Rocket Man - Number Ones" preview-artist="Elton John" preview-title="Rocket Man (I Think It's Going to Be a Long Long Time)" preview-duration="30000" adam-id="219668260" row-number="19" class="song music">
+      
+        <td role="gridcell" sort-value="20" class="index ascending">
+          <span class="index"><span>20</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Rocket Man (I Think It&#39;s Going to Be a Long Long Time)" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/rocket-man-i-think-its-going/id219668167?i=219668260">Rocket Man (I Think It's Going to Be a Long Long Time)</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Rocket Man - Number Ones" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/rocket-man-number-ones/id219668167"><span class="text">Rocket Man - Number Ones</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="281951" class="time">
+          <span><span class="text">4:41</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/rocket-man-i-think-its-going/id219668167?i=219668260&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a445.phobos.apple.com/us/r1000/076/Music/v4/b5/32/8e/b5328e04-bde8-5810-b8ca-ac6facd627ca/mzaf_6518302515828506858.aac.m4a" preview-album="Elton John: Greatest Hits" preview-artist="Elton John" preview-title="Saturday Night's Alright for Fighting" preview-duration="30000" adam-id="3451730" row-number="20" class="song music">
+      
+        <td role="gridcell" sort-value="21" class="index ascending">
+          <span class="index"><span>21</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Saturday Night&#39;s Alright for Fighting" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/saturday-nights-alright-for/id3451744?i=3451730">Saturday Night's Alright for Fighting</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Elton John: Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/elton-john-greatest-hits/id3451744"><span class="text">Elton John: Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="292200" class="time">
+          <span><span class="text">4:52</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/saturday-nights-alright-for/id3451744?i=3451730&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1969.phobos.apple.com/us/r1000/108/Music/14/e5/87/mzm.opybdxeh.aac.p.m4a" preview-album="Twenty Five (Remastered)" preview-artist="George Michael & Elton John" preview-title="Don't Let the Sun Go Down On Me" preview-duration="30000" adam-id="500213843" row-number="21" class="song music">
+      
+        <td role="gridcell" sort-value="22" class="index ascending">
+          <span class="index"><span>22</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Don&#39;t Let the Sun Go Down On Me" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/dont-let-the-sun-go-down-on-me/id500213709?i=500213843">Don't Let the Sun Go Down On Me</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Twenty Five (Remastered)" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/twenty-five-remastered/id500213709"><span class="text">Twenty Five (Remastered)</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="347920" class="time">
+          <span><span class="text">5:47</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.99" class="price">
+          <span>$0.99</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/dont-let-the-sun-go-down-on-me/id500213709?i=500213843&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1037.phobos.apple.com/us/r1000/078/Music/d6/66/93/mzm.genkyzru.aac.p.m4a" preview-album="Greatest Hits 1970-2002" preview-artist="Elton John" preview-title="Someone Saved My Life Tonight" preview-duration="30000" adam-id="521403" row-number="22" class="song music">
+      
+        <td role="gridcell" sort-value="23" class="index ascending">
+          <span class="index"><span>23</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Someone Saved My Life Tonight" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/someone-saved-my-life-tonight/id521523?i=521403">Someone Saved My Life Tonight</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits 1970-2002" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits-1970-2002/id521523"><span class="text">Greatest Hits 1970-2002</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="407440" class="time">
+          <span><span class="text">6:47</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/someone-saved-my-life-tonight/id521523?i=521403&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a112.phobos.apple.com/us/r1000/100/Music/v4/14/a9/5f/14a95f89-b6bb-a674-a5f9-7472ea130a32/mzaf_9188486021512807382.aac.m4a" preview-album="Elton John: Greatest Hits" preview-artist="Elton John" preview-title="Candle in the Wind" preview-duration="30000" adam-id="3451736" row-number="23" class="song music">
+      
+        <td role="gridcell" sort-value="24" class="index ascending">
+          <span class="index"><span>24</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Candle in the Wind" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/candle-in-the-wind/id3451744?i=3451736">Candle in the Wind</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Elton John: Greatest Hits" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/elton-john-greatest-hits/id3451744"><span class="text">Elton John: Greatest Hits</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="228000" class="time">
+          <span><span class="text">3:48</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/candle-in-the-wind/id3451744?i=3451736&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1135.phobos.apple.com/us/r1000/092/Music/89/8a/12/mzm.ubsatycy.aac.p.m4a" preview-album="Greatest Hits 1970-2002" preview-artist="Elton John" preview-title="Philadelphia Freedom" preview-duration="30000" adam-id="521400" row-number="24" class="song music">
+      
+        <td role="gridcell" sort-value="25" class="index ascending">
+          <span class="index"><span>25</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Philadelphia Freedom" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/philadelphia-freedom/id521523?i=521400">Philadelphia Freedom</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Greatest Hits 1970-2002" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/greatest-hits-1970-2002/id521523"><span class="text">Greatest Hits 1970-2002</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="322067" class="time">
+          <span><span class="text">5:22</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/philadelphia-freedom/id521523?i=521400&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+
+		    </tbody>
+		  </table>
+		</div>
+		
+		
+		
+    </div>
+
+    <ul class="list paginate"><li><a href="https://itunes.apple.com/us/artist/elton-john/id54657?trackPage=1#trackPage" class="selected">1</a></li><li><a href="https://itunes.apple.com/us/artist/elton-john/id54657?trackPage=2#trackPage">2</a></li><li><a href="https://itunes.apple.com/us/artist/elton-john/id54657?trackPage=3#trackPage">3</a></li><li><a href="https://itunes.apple.com/us/artist/elton-john/id54657?trackPage=4#trackPage">4</a></li><li><a href="https://itunes.apple.com/us/artist/elton-john/id54657?trackPage=5#trackPage">5</a></li><li><a href="https://itunes.apple.com/us/artist/elton-john/id54657?trackPage=6#trackPage">6</a></li><li><a href="https://itunes.apple.com/us/artist/elton-john/id54657?trackPage=7#trackPage">7</a></li><li><a href="https://itunes.apple.com/us/artist/elton-john/id54657?trackPage=8#trackPage">8</a></li><li><a href="https://itunes.apple.com/us/artist/elton-john/id54657?trackPage=9#trackPage">9</a></li><li><a href="https://itunes.apple.com/us/artist/elton-john/id54657?trackPage=10#trackPage">10</a></li><li><a href="https://itunes.apple.com/us/artist/elton-john/id54657?trackPage=2#trackPage" class="paginate-more">Next</a></li></ul>
+  
+  
+</div>
+<div metrics-loc="Titledbox_Top Music Videos" class="top-albums">
+  
+    <h3>
+      
+      Top Music Videos
+    </h3>
+    
+  
+  
+  
+    
+<div metrics-loc="Swoosh_" rows="4" class="swoosh lockup-container music-video music video large album">
+
+  
+    
+    <div num-items="18" class="content"><div>
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1582.v.phobos.apple.com/us/r1000/054/Video/ad/4a/46/mzm.jxjyaqef..640x352.h264lc.u.p.m4v" adam-id="353672047" preview-artist="Lady Gaga" video-preview-width="640" aria-label="Poker Face / Speechless / Your Song (feat. Elton John) [Live from the 52nd Annual Grammy Awards], Lady Gaga" preview-duration="30000.0" preview-title="Poker Face / Speechless / Your Song (feat. Elton John) [Live from the 52nd Annual Grammy Awards]" video-preview-height="352" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/poker-face-speechless-your/id353672047" class="artwork-link"><div class="artwork"><img width="100" height="55" alt="Poker Face / Speechless / Your Song (feat. Elton John) [Live from the 52nd Annual Grammy Awards], Lady Gaga" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video/v4/d1/ca/f3/d1caf3ee-75c7-e0eb-f71e-8a2e152be45d/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Video/v4/d1/ca/f3/d1caf3ee-75c7-e0eb-f71e-8a2e152be45d/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>1. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/poker-face-speechless-your/id353672047" class="name">Poker Face / Speechless / Your Song (feat. Elton John) [Live from the 52nd Annual Grammy Awards]</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/poker-face-speechless-your/id353672047&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a57.v.phobos.apple.com/us/r1000/023/Video/dd/65/ca/mzm.jvmiuppw..640x480.h264lc.u.p.m4v" adam-id="261507773" preview-artist="Elton John & Kiki Dee" video-preview-width="640" aria-label="Don't Go Breaking My Heart, Elton John &amp; Kiki Dee" preview-duration="261200.0" preview-title="Don't Go Breaking My Heart" video-preview-height="480" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/dont-go-breaking-my-heart/id261507773" class="artwork-link"><div class="artwork"><img width="100" height="75" alt="Don&apos;t Go Breaking My Heart, Elton John &amp; Kiki Dee" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Video/v4/f7/df/93/f7df93f1-f5a0-12db-c045-207669da8b37/cover204x150.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Video/v4/f7/df/93/f7df93f1-f5a0-12db-c045-207669da8b37/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>2. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/dont-go-breaking-my-heart/id261507773" class="name">Don't Go Breaking My Heart</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/dont-go-breaking-my-heart/id261507773&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1003.v.phobos.apple.com/us/r1000/049/Video/85/92/ba/mzm.ymujuvad..640x360.h264lc.u.p.m4v" adam-id="261507759" preview-artist="Elton John" video-preview-width="640" aria-label="Rocket Man (Live), Elton John" preview-duration="462440.0" preview-title="Rocket Man (Live)" video-preview-height="360" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/rocket-man-live/id261507759" class="artwork-link"><div class="artwork"><img width="100" height="75" alt="Rocket Man (Live), Elton John" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Video/v4/03/77/88/037788c1-d0b9-5f9b-1f91-b7be7d797479/cover204x150.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Video/v4/03/77/88/037788c1-d0b9-5f9b-1f91-b7be7d797479/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>3. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/rocket-man-live/id261507759" class="name">Rocket Man (Live)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/rocket-man-live/id261507759&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a970.v.phobos.apple.com/us/r1000/041/Video/ed/d6/bd/mzm.unkaihhy..640x480.h264lc.u.p.m4v" adam-id="261507785" preview-artist="Elton John" video-preview-width="640" aria-label="Something About the Way You Look Tonight, Elton John" preview-duration="238160.0" preview-title="Something About the Way You Look Tonight" video-preview-height="480" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/something-about-way-you-look/id261507785" class="artwork-link"><div class="artwork"><img width="100" height="75" alt="Something About the Way You Look Tonight, Elton John" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Video/v4/27/ab/0e/27ab0e94-121d-aa04-bcef-981d4b0cb165/cover204x150.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Video/v4/27/ab/0e/27ab0e94-121d-aa04-bcef-981d4b0cb165/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>4. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/something-about-way-you-look/id261507785" class="name">Something About the Way You Look Tonight</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/something-about-way-you-look/id261507785&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a223.v.phobos.apple.com/us/r1000/027/Video/ce/01/1a/mzm.mebiuqsf..640x480.h264lc.u.p.m4v" adam-id="251116803" preview-artist="Elton John" video-preview-width="640" aria-label="This Train Don't Stop There Anymore, Elton John" preview-duration="289664.0" preview-title="This Train Don't Stop There Anymore" video-preview-height="480" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/this-train-dont-stop-there/id251116803" class="artwork-link"><div class="artwork"><img width="100" height="75" alt="This Train Don&apos;t Stop There Anymore, Elton John" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video/v4/34/f8/50/34f850b4-850e-5989-f04c-5a3d55ad46c6/cover204x150.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Video/v4/34/f8/50/34f850b4-850e-5989-f04c-5a3d55ad46c6/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>5. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/this-train-dont-stop-there/id251116803" class="name">This Train Don't Stop There Anymore</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/this-train-dont-stop-there/id251116803&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1082.v.phobos.apple.com/us/r1000/001/Video/bf/53/a3/mzm.nudyfwax..640x480.h264lc.u.p.m4v" adam-id="400723140" preview-artist="Elton John" video-preview-width="640" aria-label="I'm Still Standing, Elton John" preview-duration="30000.0" preview-title="I'm Still Standing" video-preview-height="480" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/im-still-standing/id400723140" class="artwork-link"><div class="artwork"><img width="100" height="75" alt="I&apos;m Still Standing, Elton John" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Video/v4/f6/1b/8d/f61b8dba-6acf-547f-1c12-5eba2f0a2533/cover204x150.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Video/v4/f6/1b/8d/f61b8dba-6acf-547f-1c12-5eba2f0a2533/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>6. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/im-still-standing/id400723140" class="name">I'm Still Standing</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/im-still-standing/id400723140&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1867.v.phobos.apple.com/us/r1000/013/Video/a8/53/6c/mzm.zsqnoksc..640x480.h264lc.u.p.m4v" adam-id="251116871" preview-artist="Elton John" video-preview-width="640" aria-label="Blue Eyes, Elton John" preview-duration="204137.0" preview-title="Blue Eyes" video-preview-height="480" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/blue-eyes/id251116871" class="artwork-link"><div class="artwork"><img width="100" height="75" alt="Blue Eyes, Elton John" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Video/v4/d3/a5/a7/d3a5a723-197c-2a74-e376-fa76a41d96e9/cover204x150.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Video/v4/d3/a5/a7/d3a5a723-197c-2a74-e376-fa76a41d96e9/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>7. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/blue-eyes/id251116871" class="name">Blue Eyes</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/blue-eyes/id251116871&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1455.v.phobos.apple.com/us/r1000/134/Video2/v4/19/d4/d4/19d4d439-e348-059e-6637-53a3ff910e45/mzvf_1984921021581615729.640x464.h264lc.U.p.m4v" adam-id="275614249" preview-artist="George Michael" video-preview-width="640" aria-label="Don't Let the Sun Go Down On Me, George Michael" preview-duration="30000.0" preview-title="Don't Let the Sun Go Down On Me" video-preview-height="464" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/dont-let-the-sun-go-down-on-me/id275614249" class="artwork-link"><div class="artwork"><img width="100" height="73" alt="Don&apos;t Let the Sun Go Down On Me, George Michael" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Video5/v4/c5/b6/f4/c5b6f40b-764d-6cdf-6a79-3258ae22bac4/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Video5/v4/c5/b6/f4/c5b6f40b-764d-6cdf-6a79-3258ae22bac4/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>8. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/dont-let-the-sun-go-down-on-me/id275614249" class="name">Don't Let the Sun Go Down On Me</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/dont-let-the-sun-go-down-on-me/id275614249&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1236.v.phobos.apple.com/us/r1000/031/Video/38/22/0c/mzm.npyctlkl..640x352.h264lc.u.p.m4v" adam-id="300440886" preview-artist="The Killers, Elton John & Neil Tennant" video-preview-width="640" aria-label="Joseph, Better You Than Me, The Killers, Elton John &amp; Neil Tennant" preview-duration="31740.0" preview-title="Joseph, Better You Than Me" video-preview-height="352" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/joseph-better-you-than-me/id300440886" class="artwork-link"><div class="artwork"><img width="100" height="56" alt="Joseph, Better You Than Me, The Killers, Elton John &amp; Neil Tennant" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Video/v4/35/8b/2d/358b2d4d-adb8-e41c-e74e-9247bcd9cc08/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Video/v4/35/8b/2d/358b2d4d-adb8-e41c-e74e-9247bcd9cc08/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>9. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/joseph-better-you-than-me/id300440886" class="name">Joseph, Better You Than Me</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/joseph-better-you-than-me/id300440886&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a7.v.phobos.apple.com/us/r1000/073/Video/db/9b/4c/mzi.ksngetlp..640x464.h264lc.u.p.m4v" adam-id="453086585" preview-artist="Elton John" video-preview-width="640" aria-label="Sad Songs (Say So Much), Elton John" preview-duration="30000.0" preview-title="Sad Songs (Say So Much)" video-preview-height="464" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/sad-songs-say-so-much/id453086585" class="artwork-link"><div class="artwork"><img width="100" height="74" alt="Sad Songs (Say So Much), Elton John" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Video/v4/54/f1/c5/54f1c538-6eb6-686c-29d3-5d644d0f8944/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Video/v4/54/f1/c5/54f1c538-6eb6-686c-29d3-5d644d0f8944/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>10. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/sad-songs-say-so-much/id453086585" class="name">Sad Songs (Say So Much)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/sad-songs-say-so-much/id453086585&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1597.v.phobos.apple.com/us/r1000/055/Video/1d/ba/18/mzm.fmyhjpvo..640x336.h264lc.u.p.m4v" adam-id="377042467" preview-artist="Elton John & LeAnn Rimes" video-preview-width="640" aria-label="Written In the Stars, Elton John &amp; LeAnn Rimes" preview-duration="30000.0" preview-title="Written In the Stars" video-preview-height="336" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/written-in-the-stars/id377042467" class="artwork-link"><div class="artwork"><img width="100" height="53" alt="Written In the Stars, Elton John &amp; LeAnn Rimes" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video/v4/0c/a2/11/0ca211dd-93cb-cfec-a589-706a5d8ae2b2/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Video/v4/0c/a2/11/0ca211dd-93cb-cfec-a589-706a5d8ae2b2/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>11. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/written-in-the-stars/id377042467" class="name">Written In the Stars</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/written-in-the-stars/id377042467&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1746.v.phobos.apple.com/us/r1000/019/Video/v4/a3/94/a1/a394a15c-4186-0386-b129-0b34f9082aba/mzvf_7181477259377391098.640x366.h264lc.U.p.m4v" adam-id="881217056" preview-artist="Fall Out Boy" video-preview-width="853" aria-label="Save Rock and Roll (feat. Elton John), Fall Out Boy" preview-duration="30000.0" preview-title="Save Rock and Roll (feat. Elton John)" video-preview-height="366" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/save-rock-roll-feat.-elton/id881217056" class="artwork-link"><div class="artwork"><img width="100" height="56" alt="Save Rock and Roll (feat. Elton John), Fall Out Boy" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Video5/v4/2f/93/ee/2f93ee3d-b50c-5e7f-a499-aec9da94f3b5/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Video5/v4/2f/93/ee/2f93ee3d-b50c-5e7f-a499-aec9da94f3b5/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>12. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/save-rock-roll-feat.-elton/id881217056" class="name">Save Rock and Roll (feat. Elton John)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/save-rock-roll-feat.-elton/id881217056&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1315.v.phobos.apple.com/us/r1000/013/Video/27/1a/dc/mzm.mfzfpolf..640x464.h264lc.u.p.m4v" adam-id="371157048" preview-artist="Elton John" video-preview-width="640" aria-label="Nikita (Live on The Tube), Elton John" preview-duration="30000.0" preview-title="Nikita (Live on The Tube)" video-preview-height="464" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/nikita-live-on-the-tube/id371157048" class="artwork-link"><div class="artwork"><img width="100" height="74" alt="Nikita (Live on The Tube), Elton John" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Video/v4/7d/93/6d/7d936d4c-1161-ed98-bd10-bdeb9ac3f68b/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Video/v4/7d/93/6d/7d936d4c-1161-ed98-bd10-bdeb9ac3f68b/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>13. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/nikita-live-on-the-tube/id371157048" class="name">Nikita (Live on The Tube)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/nikita-live-on-the-tube/id371157048&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1635.v.phobos.apple.com/us/r1000/008/Video/4d/53/0e/mzm.yfqqyymy..640x352.h264lc.u.p.m4v" adam-id="424724337" preview-artist="Elton John & Leon Russell" video-preview-width="640" aria-label="Hey Ahab (Live from the Beacon Theatre, New York), Elton John &amp; Leon Russell" preview-duration="30000.0" preview-title="Hey Ahab (Live from the Beacon Theatre, New York)" video-preview-height="352" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/hey-ahab-live-from-beacon/id424724337" class="artwork-link"><div class="artwork"><img width="100" height="56" alt="Hey Ahab (Live from the Beacon Theatre, New York), Elton John &amp; Leon Russell" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Video/v4/26/bb/1e/26bb1e1d-8259-bd54-b9e8-ad0c2bd20e65/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Video/v4/26/bb/1e/26bb1e1d-8259-bd54-b9e8-ad0c2bd20e65/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>14. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/hey-ahab-live-from-beacon/id424724337" class="name">Hey Ahab (Live from the Beacon Theatre, New York)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/hey-ahab-live-from-beacon/id424724337&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1649.v.phobos.apple.com/us/r1000/081/Video/v4/5a/c6/bc/5ac6bc93-8ba5-6c48-3c53-dd254f8a9398/mzvf_6148897830536090170.640x400.h264lc.U.p.m4v" adam-id="630137532" preview-artist="Elton John" video-preview-width="640" aria-label="The One, Elton John" preview-duration="30000.0" preview-title="The One" video-preview-height="400" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/the-one/id630137532" class="artwork-link"><div class="artwork"><img width="100" height="63" alt="The One, Elton John" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Video2/v4/d8/52/d2/d852d245-12a4-80fa-4305-5ece8c218d16/cover260x125.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Video2/v4/d8/52/d2/d852d245-12a4-80fa-4305-5ece8c218d16/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>15. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/the-one/id630137532" class="name">The One</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/the-one/id630137532&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1089.v.phobos.apple.com/us/r1000/049/Video/7d/6d/99/mzm.byllsrhd..640x352.h264lc.u.p.m4v" adam-id="407663642" preview-artist="Elton John & Leon Russell" video-preview-width="640" aria-label="If It Wasn't for Bad (Live from the Beacon Theatre, New York), Elton John &amp; Leon Russell" preview-duration="30000.0" preview-title="If It Wasn't for Bad (Live from the Beacon Theatre, New York)" video-preview-height="352" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/if-it-wasnt-for-bad-live-from/id407663642" class="artwork-link"><div class="artwork"><img width="100" height="55" alt="If It Wasn&apos;t for Bad (Live from the Beacon Theatre, New York), Elton John &amp; Leon Russell" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Video/v4/4f/d7/82/4fd78219-2d34-5acb-4f2e-4da27940c85e/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Video/v4/4f/d7/82/4fd78219-2d34-5acb-4f2e-4da27940c85e/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>16. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/if-it-wasnt-for-bad-live-from/id407663642" class="name">If It Wasn't for Bad (Live from the Beacon Theatre, New York)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/if-it-wasnt-for-bad-live-from/id407663642&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1778.v.phobos.apple.com/us/r1000/012/Video4/v4/73/55/1c/73551c17-7cf0-658a-ba7d-e26f891ae595/mzvf_5918755066111406876.640x352.h264lc.U.p.m4v" adam-id="696237632" preview-artist="Elton John" video-preview-width="640" aria-label="Home Again, Elton John" preview-duration="30000.0" preview-title="Home Again" video-preview-height="352" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/home-again/id696237632" class="artwork-link"><div class="artwork"><img width="100" height="56" alt="Home Again, Elton John" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Video1/v4/b7/83/d3/b783d364-d847-5a1e-9d2f-ce058f5d9b97/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Video1/v4/b7/83/d3/b783d364-d847-5a1e-9d2f-ce058f5d9b97/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>17. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/home-again/id696237632" class="name">Home Again</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/home-again/id696237632&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-riaa="0" role="group" metrics-loc="Lockup_" video-preview-url="http://a128.v.phobos.apple.com/us/r1000/108/Video/44/a3/f7/mzi.lngkgwjn..640x320.h264lc.u.p.m4v" adam-id="485912699" preview-artist="Mary J. Blige" video-preview-width="640" aria-label="Deep Inside, Mary J. Blige" preview-duration="30000.0" preview-title="Deep Inside" video-preview-height="320" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/deep-inside/id485912699" class="artwork-link"><div class="artwork"><img width="100" height="50" alt="Deep Inside, Mary J. Blige" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Video/v4/ed/1c/9d/ed1c9d91-885b-59a6-4599-4cb9950a4cd8/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Video/v4/ed/1c/9d/ed1c9d91-885b-59a6-4599-4cb9950a4cd8/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>18. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/deep-inside/id485912699" class="name">Deep Inside</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/deep-inside/id485912699&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+</div></div>
+  
+</div>
+
+  
+  
+</div>
+<div metrics-loc="Titledbox_Top Movies" class="top-albums">
+  
+    <h3>
+      
+      Top Movies
+    </h3>
+    
+  
+  
+  
+    
+<div metrics-loc="Swoosh_" rows="4" class="swoosh lockup-container movie video large album">
+
+  
+    
+    <div num-items="8" class="content"><div>
+<div parental-rating="1" rating-movie="100,mpaa" role="group" metrics-loc="Lockup_" video-preview-url="http://a1345.v.phobos.apple.com/us/r1000/017/Video/a8/4c/29/mzm.hobtutdr..640x480.h264lc.d2.p.m4v" adam-id="421601856" preview-artist="Kelly Asbury" video-preview-width="853" aria-label="Gnomeo &amp; Juliet" preview-title="Gnomeo & Juliet" video-preview-height="480" class="lockup small movie video">
+  
+    <a href="https://itunes.apple.com/us/movie/gnomeo-juliet/id421601856" class="artwork-link"><div class="artwork"><img width="93" height="140" alt="Gnomeo &amp; Juliet" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video/v4/c8/81/7d/c8817db7-34c5-4697-f689-f509fadc3de4/poster280x280.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Video/v4/c8/81/7d/c8817db7-34c5-4697-f689-f509fadc3de4/poster140x140.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>1. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/movie/gnomeo-juliet/id421601856" class="name">Gnomeo &amp; Juliet</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/movie/gnomeo-juliet/id421601856&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-movie="0,mpaa" role="group" metrics-loc="Lockup_" video-preview-url="http://a1143.v.phobos.apple.com/us/r30/Video/v4/86/40/3f/86403f5e-2737-6458-54ee-e91432cf2203/mzvf_3578296479620851451.640x478.h264lc.D2.p.m4v" adam-id="589314858" preview-artist="Kevin Mazur" video-preview-width="853" aria-label="$ellebrity" preview-title="$ellebrity" video-preview-height="478" class="lockup small movie video">
+  
+    <a href="https://itunes.apple.com/us/movie/$ellebrity/id589314858" class="artwork-link"><div class="artwork"><img width="93" height="140" alt="$ellebrity" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video/v4/4d/09/2c/4d092cd0-e2e2-5c5b-d908-3ec795e6fb0c/poster280x280.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Video/v4/4d/09/2c/4d092cd0-e2e2-5c5b-d908-3ec795e6fb0c/poster140x140.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>2. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/movie/$ellebrity/id589314858" class="name">$ellebrity</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/movie/$ellebrity/id589314858&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-movie="200,mpaa" role="group" metrics-loc="Lockup_" video-preview-url="http://a735.v.phobos.apple.com/us/r1000/007/Video/0b/0a/da/mzm.rguoczil..640x472.h264lc.d2.p.m4v" adam-id="909736082" preview-artist="Will Finn, Don Paul, Bibo Bergeron & David Silverman" video-preview-width="848" aria-label="The Road to El Dorado" preview-title="The Road to El Dorado" video-preview-height="472" class="lockup small movie video">
+  
+    <a href="https://itunes.apple.com/us/movie/the-road-to-el-dorado/id909736082" class="artwork-link"><div class="artwork"><img width="93" height="140" alt="The Road to El Dorado" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Video4/v4/f2/3c/19/f23c19b6-e08f-d09b-0351-1c02bf41fcb2/poster280x280.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Video4/v4/f2/3c/19/f23c19b6-e08f-d09b-0351-1c02bf41fcb2/poster140x140.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>3. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/movie/the-road-to-el-dorado/id909736082" class="name">The Road to El Dorado</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/movie/the-road-to-el-dorado/id909736082&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-movie="0,mpaa" role="group" metrics-loc="Lockup_" video-preview-url="http://a916.v.phobos.apple.com/us/r1000/048/Video/87/27/5f/mzm.jvdktyfo..640x480.h264lc.d2.p.m4v" adam-id="327469646" preview-artist="David Furnish" video-preview-width="712" aria-label="Elton John: Tantrums and Tiaras" preview-duration="115816.0" preview-title="Elton John: Tantrums and Tiaras" video-preview-height="480" class="lockup small movie video">
+  
+    <a href="https://itunes.apple.com/us/movie/elton-john-tantrums-tiaras/id327469646" class="artwork-link"><div class="artwork"><img width="93" height="140" alt="Elton John: Tantrums and Tiaras" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Video/v4/17/7c/c7/177cc76f-c577-aeec-b9c9-5a3f4bf1bf6f/poster280x280.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Video/v4/17/7c/c7/177cc76f-c577-aeec-b9c9-5a3f4bf1bf6f/poster140x140.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>4. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/movie/elton-john-tantrums-tiaras/id327469646" class="name">Elton John: Tantrums and Tiaras</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/movie/elton-john-tantrums-tiaras/id327469646&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-movie="300,mpaa" role="group" metrics-loc="Lockup_" video-preview-url="http://a1771.v.phobos.apple.com/us/r1000/006/Video2/v4/d4/9f/5f/d49f5fe7-b38b-7284-5da2-2773a0fede20/mzvf_3169227313167090444.640x476.h264lc.D2.p.m4v" adam-id="855901969" preview-artist="Scot McFadyen, Sam Dunn & Reginald Harkema" video-preview-width="853" aria-label="Super Duper Alice Cooper" preview-title="Super Duper Alice Cooper" video-preview-height="476" class="lockup small movie video">
+  
+    <a href="https://itunes.apple.com/us/movie/super-duper-alice-cooper/id855901969" class="artwork-link"><div class="artwork"><img width="93" height="140" alt="Super Duper Alice Cooper" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Video5/v4/87/3d/ba/873dba52-d3c5-57f1-16de-0f2b513f0961/poster280x280.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Video5/v4/87/3d/ba/873dba52-d3c5-57f1-16de-0f2b513f0961/poster140x140.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>5. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/movie/super-duper-alice-cooper/id855901969" class="name">Super Duper Alice Cooper</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/movie/super-duper-alice-cooper/id855901969&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-movie="300,mpaa" role="group" metrics-loc="Lockup_" video-preview-url="http://a379.v.phobos.apple.com/us/r1000/056/Video/6f/c1/44/mzm.haxgmqpk..640x472.h264lc.d2.p.m4v" adam-id="376557971" preview-artist="Nick Hurran" video-preview-width="848" aria-label="It's a Boy Girl Thing" preview-duration="49341.0" preview-title="It's a Boy Girl Thing" video-preview-height="472" class="lockup small movie video">
+  
+    <a href="https://itunes.apple.com/us/movie/its-a-boy-girl-thing/id376557971" class="artwork-link"><div class="artwork"><img width="93" height="140" alt="It&apos;s a Boy Girl Thing" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Video/v4/8b/47/b4/8b47b493-da89-cef0-dfee-4adb92dda06b/poster280x280.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Video/v4/8b/47/b4/8b47b493-da89-cef0-dfee-4adb92dda06b/poster140x140.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>6. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/movie/its-a-boy-girl-thing/id376557971" class="name">It's a Boy Girl Thing</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/movie/its-a-boy-girl-thing/id376557971&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-movie="100,mpaa" role="group" metrics-loc="Lockup_" video-preview-url="http://a1075.v.phobos.apple.com/us/r1000/000/Video2/v4/76/bc/80/76bc806d-ce5c-ef65-8848-bfcdbdd8a4dc/mzvf_1080915851661999418.640x476.h264lc.D2.p.m4v" adam-id="891436670" preview-artist="Elton John" video-preview-width="853" aria-label="Elton John: The Million Dollar Piano" preview-title="Elton John: The Million Dollar Piano" video-preview-height="476" class="lockup small movie video">
+  
+    <a href="https://itunes.apple.com/us/movie/elton-john-million-dollar/id891436670" class="artwork-link"><div class="artwork"><img width="93" height="140" alt="Elton John: The Million Dollar Piano" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Video3/v4/a5/1d/fd/a51dfd7d-6292-dc83-348f-fc77730e132b/poster280x280.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Video3/v4/a5/1d/fd/a51dfd7d-6292-dc83-348f-fc77730e132b/poster140x140.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>7. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/movie/elton-john-million-dollar/id891436670" class="name">Elton John: The Million Dollar Piano</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/movie/elton-john-million-dollar/id891436670&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-movie="0,mpaa" role="group" metrics-loc="Lockup_" video-preview-url="http://a859.v.phobos.apple.com/us/r1000/009/Video/2e/94/3d/mzm.ocqzioqv..640x474.h264lc.d2.p.m4v" adam-id="921390355" preview-artist="Sarah Ball" video-preview-width="632" aria-label="Bob the Builder: Christmas to Remember" preview-duration="112445.0" preview-title="Bob the Builder: Christmas to Remember" video-preview-height="474" class="lockup small movie video">
+  
+    <a href="https://itunes.apple.com/us/movie/bob-builder-christmas-to-remember/id921390355" class="artwork-link"><div class="artwork"><img width="93" height="140" alt="Bob the Builder: Christmas to Remember" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video/v4/ee/1b/3c/ee1b3ce3-5eb3-550c-8748-3e52d7332696/poster280x280.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Video/v4/ee/1b/3c/ee1b3ce3-5eb3-550c-8748-3e52d7332696/poster140x140.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>8. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/movie/bob-builder-christmas-to-remember/id921390355" class="name">Bob the Builder: Christmas to Remember</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/movie/bob-builder-christmas-to-remember/id921390355&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+</div></div>
+  
+</div>
+
+  
+  
+</div>
+<div metrics-loc="Titledbox_Top Books" class="top-albums">
+  
+    <h3>
+      
+      Top Books
+    </h3>
+    
+  
+  
+  
+    
+<div metrics-loc="Swoosh_" rows="4" class="swoosh lockup-container ebook large album">
+
+  
+    
+    <div num-items="20" class="content"><div>
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="488753331" preview-artist="Elton John" aria-label="Love Is the Cure" preview-title="Love Is the Cure" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/love-is-the-cure/id488753331?mt=11" class="artwork-link"><div class="artwork"><img width="66" height="100" alt="Love Is the Cure" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Publication/v4/9f/16/76/9f1676c2-e840-3e36-dc3e-44bf34895681/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Publication/v4/9f/16/76/9f1676c2-e840-3e36-dc3e-44bf34895681/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>1. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/love-is-the-cure/id488753331?mt=11" class="name">Love Is the Cure</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/love-is-the-cure/id488753331?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="711443365" preview-artist="Playboy, Berry Gordy, Frank Sinatra, The Beatles, Ray Charles, Elton John, David Bowie, Bob Dylan, Luciano Pavarotti, Frank Zappa, Pete Townshend, Jay-Z & Kanye West" aria-label="Music Men: The Playboy Interview" preview-title="Music Men: The Playboy Interview" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/music-men-playboy-interview/id711443365?mt=11" class="artwork-link"><div class="artwork"><img width="59" height="100" alt="Music Men: The Playboy Interview" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Publication/v4/8e/14/bd/8e14bdac-a443-2fac-f753-a458bdeb9229/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Publication/v4/8e/14/bd/8e14bdac-a443-2fac-f753-a458bdeb9229/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>2. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/music-men-playboy-interview/id711443365?mt=11" class="name">Music Men: The Playboy Interview</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/music-men-playboy-interview/id711443365?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="509494018" preview-artist="Elton John" aria-label="Elton John - Greatest Hits 1970-2002 (Songbook)" preview-title="Elton John - Greatest Hits 1970-2002 (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/elton-john-greatest-hits-1970/id509494018?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="Elton John - Greatest Hits 1970-2002 (Songbook)" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Publication/v4/fc/bf/a9/fcbfa9be-b07f-b771-2ec3-58095456f6e0/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Publication/v4/fc/bf/a9/fcbfa9be-b07f-b771-2ec3-58095456f6e0/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>3. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/elton-john-greatest-hits-1970/id509494018?mt=11" class="name">Elton John - Greatest Hits 1970-2002 (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/elton-john-greatest-hits-1970/id509494018?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="523079862" preview-artist="Elton John" aria-label="The Elton John Keyboard Book (Songbook)" preview-title="The Elton John Keyboard Book (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/elton-john-keyboard-book-songbook/id523079862?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="The Elton John Keyboard Book (Songbook)" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Publication/v4/90/76/b3/9076b3e3-0d38-f8e6-64fe-e233ae583d9a/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Publication/v4/90/76/b3/9076b3e3-0d38-f8e6-64fe-e233ae583d9a/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>4. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/elton-john-keyboard-book-songbook/id523079862?mt=11" class="name">The Elton John Keyboard Book (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/elton-john-keyboard-book-songbook/id523079862?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="504839927" preview-artist="Elton John" aria-label="Elton John Anthology  (Songbook)" preview-title="Elton John Anthology  (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/elton-john-anthology-songbook/id504839927?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="Elton John Anthology  (Songbook)" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Publication/v4/e3/97/d5/e397d5b0-8d6c-e25a-773a-09fe59fd28a5/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Publication/v4/e3/97/d5/e397d5b0-8d6c-e25a-773a-09fe59fd28a5/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>5. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/elton-john-anthology-songbook/id504839927?mt=11" class="name">Elton John Anthology  (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/elton-john-anthology-songbook/id504839927?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="545282681" preview-artist="Elton John" aria-label="Elton John Favorites - Keyboard Transcriptions" preview-title="Elton John Favorites - Keyboard Transcriptions" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/elton-john-favorites-keyboard/id545282681?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="Elton John Favorites - Keyboard Transcriptions" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Publication/v4/49/4e/8c/494e8cc0-4d98-55ec-1d63-ca16e46a89e9/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Publication/v4/49/4e/8c/494e8cc0-4d98-55ec-1d63-ca16e46a89e9/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>6. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/elton-john-favorites-keyboard/id545282681?mt=11" class="name">Elton John Favorites - Keyboard Transcriptions</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/elton-john-favorites-keyboard/id545282681?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="522021712" preview-artist="Elton John" aria-label="Elton John (Songbook)" preview-title="Elton John (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/elton-john-songbook/id522021712?mt=11" class="artwork-link"><div class="artwork"><img width="65" height="100" alt="Elton John (Songbook)" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Publication/v4/07/8c/a3/078ca3c3-97e3-8212-6745-d1cf005992fe/cover130x210.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Publication/v4/07/8c/a3/078ca3c3-97e3-8212-6745-d1cf005992fe/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>7. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/elton-john-songbook/id522021712?mt=11" class="name">Elton John (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/elton-john-songbook/id522021712?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="506324441" preview-artist="Elton John" aria-label="The Lion King - Broadway Selections (Songbook)" preview-title="The Lion King - Broadway Selections (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/lion-king-broadway-selections/id506324441?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="The Lion King - Broadway Selections (Songbook)" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Publication/v4/dc/fd/20/dcfd20f9-df32-226b-429e-92718e78888b/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Publication/v4/dc/fd/20/dcfd20f9-df32-226b-429e-92718e78888b/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>8. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/lion-king-broadway-selections/id506324441?mt=11" class="name">The Lion King - Broadway Selections (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/lion-king-broadway-selections/id506324441?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="526056318" preview-artist="Elton John" aria-label="The Elton John Piano Solo Collection (Songbook)" preview-title="The Elton John Piano Solo Collection (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/elton-john-piano-solo-collection/id526056318?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="The Elton John Piano Solo Collection (Songbook)" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Publication/v4/eb/40/33/eb4033a8-8b8e-0481-6623-ae35b525c3e2/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Publication/v4/eb/40/33/eb4033a8-8b8e-0481-6623-ae35b525c3e2/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>9. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/elton-john-piano-solo-collection/id526056318?mt=11" class="name">The Elton John Piano Solo Collection (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/elton-john-piano-solo-collection/id526056318?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="507444295" preview-artist="Elton John" aria-label="Elton John/Leon Russell - The Union (Songbook)" preview-title="Elton John/Leon Russell - The Union (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/elton-john-leon-russell-union/id507444295?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="Elton John/Leon Russell - The Union (Songbook)" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Publication/v4/f6/20/7d/f6207df9-8744-5fc4-802b-a4121704555d/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Publication/v4/f6/20/7d/f6207df9-8744-5fc4-802b-a4121704555d/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>10. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/elton-john-leon-russell-union/id507444295?mt=11" class="name">Elton John/Leon Russell - The Union (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/elton-john-leon-russell-union/id507444295?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="555297061" preview-artist="Elton John" aria-label="Lion King Harmonica Songbook" preview-title="Lion King Harmonica Songbook" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/lion-king-harmonica-songbook/id555297061?mt=11" class="artwork-link"><div class="artwork"><img width="73" height="100" alt="Lion King Harmonica Songbook" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Publication/v4/df/5d/80/df5d808e-6512-4492-750b-91c7a5f13a65/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Publication/v4/df/5d/80/df5d808e-6512-4492-750b-91c7a5f13a65/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>11. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/lion-king-harmonica-songbook/id555297061?mt=11" class="name">Lion King Harmonica Songbook</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/lion-king-harmonica-songbook/id555297061?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="522706385" preview-artist="Elton John" aria-label="Disney's The Lion King (Songbook)" preview-title="Disney's The Lion King (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/disneys-lion-king-songbook/id522706385?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="Disney&apos;s The Lion King (Songbook)" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Publication/v4/a2/0b/74/a20b740f-ef87-e47b-8daa-9c65382d1358/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Publication/v4/a2/0b/74/a20b740f-ef87-e47b-8daa-9c65382d1358/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>12. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/disneys-lion-king-songbook/id522706385?mt=11" class="name">Disney's The Lion King (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/disneys-lion-king-songbook/id522706385?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="520105133" preview-artist="Elton John" aria-label="The Lion King - Deluxe Edition (Songbook)" preview-title="The Lion King - Deluxe Edition (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/lion-king-deluxe-edition-songbook/id520105133?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="The Lion King - Deluxe Edition (Songbook)" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Publication/v4/93/89/da/9389da5e-6514-e766-ae2a-17e586a51651/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Publication/v4/93/89/da/9389da5e-6514-e766-ae2a-17e586a51651/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>13. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/lion-king-deluxe-edition-songbook/id520105133?mt=11" class="name">The Lion King - Deluxe Edition (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/lion-king-deluxe-edition-songbook/id520105133?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="511881228" preview-artist="Elton John" aria-label="The Lion King - Broadway Selections (Songbook)" preview-title="The Lion King - Broadway Selections (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/lion-king-broadway-selections/id511881228?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="The Lion King - Broadway Selections (Songbook)" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Publication/v4/c3/57/2f/c3572f78-a8f8-850d-9ba0-b3795f4952bc/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Publication/v4/c3/57/2f/c3572f78-a8f8-850d-9ba0-b3795f4952bc/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>14. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/lion-king-broadway-selections/id511881228?mt=11" class="name">The Lion King - Broadway Selections (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/lion-king-broadway-selections/id511881228?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="555008875" preview-artist="Elton John" aria-label="Elton John (Songbook)" preview-title="Elton John (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/elton-john-songbook/id555008875?mt=11" class="artwork-link"><div class="artwork"><img width="62" height="100" alt="Elton John (Songbook)" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Publication/v4/d9/0f/46/d90f4660-7938-16e0-69fa-d7efd8e3e919/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Publication/v4/d9/0f/46/d90f4660-7938-16e0-69fa-d7efd8e3e919/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>15. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/elton-john-songbook/id555008875?mt=11" class="name">Elton John (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/elton-john-songbook/id555008875?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="510910345" preview-artist="Elton John" aria-label="Aida (Songbook)" preview-title="Aida (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/aida-songbook/id510910345?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="Aida (Songbook)" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Publication/v4/df/93/fe/df93fe5d-362b-2ba9-66b5-a890d6bfc812/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Publication/v4/df/93/fe/df93fe5d-362b-2ba9-66b5-a890d6bfc812/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>16. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/aida-songbook/id510910345?mt=11" class="name">Aida (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/aida-songbook/id510910345?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="526056544" preview-artist="Elton John" aria-label="The Lion King (Songbook)" preview-title="The Lion King (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/the-lion-king-songbook/id526056544?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="The Lion King (Songbook)" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Publication/v4/fc/c0/f2/fcc0f206-fc38-d565-c4ed-b58258df3f3b/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Publication/v4/fc/c0/f2/fcc0f206-fc38-d565-c4ed-b58258df3f3b/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>17. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/the-lion-king-songbook/id526056544?mt=11" class="name">The Lion King (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/the-lion-king-songbook/id526056544?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="526310176" preview-artist="Elton John" aria-label="The Best of Elton John (Songbook)" preview-title="The Best of Elton John (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/best-elton-john-songbook/id526310176?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="The Best of Elton John (Songbook)" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Publication/v4/e0/ba/90/e0ba90b5-f867-9c7c-6583-9d15b81c4fb6/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Publication/v4/e0/ba/90/e0ba90b5-f867-9c7c-6583-9d15b81c4fb6/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>18. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/best-elton-john-songbook/id526310176?mt=11" class="name">The Best of Elton John (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/best-elton-john-songbook/id526310176?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="526050511" preview-artist="Elton John" aria-label="Elton John - Greatest Hits (Songbook)" preview-title="Elton John - Greatest Hits (Songbook)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/elton-john-greatest-hits-songbook/id526050511?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="Elton John - Greatest Hits (Songbook)" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Publication/v4/d5/c6/e7/d5c6e75d-254e-a988-0eed-8fe0675a6e39/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Publication/v4/d5/c6/e7/d5c6e75d-254e-a988-0eed-8fe0675a6e39/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>19. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/elton-john-greatest-hits-songbook/id526050511?mt=11" class="name">Elton John - Greatest Hits (Songbook)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/elton-john-greatest-hits-songbook/id526050511?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="628243519" preview-artist="Elton John" aria-label="Elton John Favorites" preview-title="Elton John Favorites" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/elton-john-favorites/id628243519?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="Elton John Favorites" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Publication/v4/0d/48/20/0d4820da-2c92-a74e-e452-a29e0acf7722/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Publication/v4/0d/48/20/0d4820da-2c92-a74e-e452-a29e0acf7722/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>20. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/elton-john-favorites/id628243519?mt=11" class="name">Elton John Favorites</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/elton-john-favorites/id628243519?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+</div></div>
+  
+</div>
+<ul class="list paginate"><li><a href="https://itunes.apple.com/us/artist/elton-john/id54657?bookPage=1#bookPage" class="selected">1</a></li><li><a href="https://itunes.apple.com/us/artist/elton-john/id54657?bookPage=2#bookPage">2</a></li><li><a href="https://itunes.apple.com/us/artist/elton-john/id54657?bookPage=3#bookPage">3</a></li></ul>
+  
+  
+</div>
+<div metrics-loc="Titledbox_Top Audiobooks" class="top-albums">
+  
+    <h3>
+      
+      Top Audiobooks
+    </h3>
+    
+  
+  
+  
+    
+<div metrics-loc="Swoosh_" rows="4" class="swoosh lockup-container audiobook large album">
+
+  
+    
+    <div num-items="2" class="content"><div>
+<div role="group" metrics-loc="Lockup_" adam-id="538796939" preview-artist="Elton John" aria-label="Elton John, Love Is the Cure: On Life, Loss, And the End of AIDS (Unabridged)" audio-preview-url="http://a1923.phobos.apple.com/us/r30/Music/v4/cf/52/7b/cf527bf4-328f-db05-90c6-0ce3eae01351/mzaf_7156509534178432732.aac.m4a" preview-duration="30000" preview-title="Love Is the Cure: On Life, Loss, And the End of AIDS (Unabridged)" class="lockup small audiobook">
+  
+    <a href="https://itunes.apple.com/us/audiobook/love-is-cure-on-life-loss/id538796939" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Elton John, Love Is the Cure: On Life, Loss, And the End of AIDS (Unabridged)" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Music/v4/33/5d/72/335d7292-4054-b4b8-2aa1-ac1424df3365/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Music/v4/33/5d/72/335d7292-4054-b4b8-2aa1-ac1424df3365/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>1. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/audiobook/love-is-cure-on-life-loss/id538796939" class="name">Love Is the Cure: On Life, Loss, And the End of AIDS (Unabridged)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/audiobook/love-is-cure-on-life-loss/id538796939&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="588905299" preview-artist="Andrew Denton" aria-label="Andrew Denton, Enough Rope with Andrew Denton: Elton John" audio-preview-url="http://a1353.phobos.apple.com/us/r30/Music/v4/28/48/82/284882cc-2558-6c51-f59f-351bd028c6be/mzaf_388716267429759462.aac.m4a" preview-duration="30000" preview-title="Enough Rope with Andrew Denton: Elton John" class="lockup small audiobook">
+  
+    <a href="https://itunes.apple.com/us/audiobook/enough-rope-andrew-denton/id588905299" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Andrew Denton, Enough Rope with Andrew Denton: Elton John" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Music/v4/70/1c/c3/701cc368-ce6c-c7af-daeb-1fddcbda7e91/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Music/v4/70/1c/c3/701cc368-ce6c-c7af-daeb-1fddcbda7e91/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>2. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/audiobook/enough-rope-andrew-denton/id588905299" class="name">Enough Rope with Andrew Denton: Elton John</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/audiobook/enough-rope-andrew-denton/id588905299&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+</div></div>
+  
+</div>
+
+  
+  
+</div>
+
+        </div> 
+       
+        
+
+        
+        <div id="left-stack"><div class="bio-stats"><h5>Birth Name:</h5><p>Reginald Kenneth Dwight</p><h5>Born:</h5><p>March 25, 1947 in Pinner, Middlesex, England</p><h5>Genre</h5><div class="genres"><a href="https://itunes.apple.com/us/genre/music-pop/id14">Pop</a></div><h5>Years Active:</h5><p> '60s, '70s, '80s, '90s, '00s, '10s</p></div><div metrics-loc="Titledbox_Influencers">
+  
+    <h4>
+      
+      Influencers
+    </h4>
+    
+  
+  
+  
+    <ul class="list"><li><a href="https://itunes.apple.com/us/artist/the-rolling-stones/id1249595">The Rolling Stones</a></li><li><a href="https://itunes.apple.com/us/artist/the-beatles/id136975">The Beatles</a></li><li><a href="https://itunes.apple.com/us/artist/little-richard/id1168275">Little Richard</a></li><li><a href="https://itunes.apple.com/us/artist/the-beach-boys/id562555">The Beach Boys</a></li><li><a href="https://itunes.apple.com/us/artist/neil-sedaka/id181715">Neil Sedaka</a></li><li><a href="https://itunes.apple.com/us/artist/long-john-baldry/id6786160">Long John Baldry</a></li><li><a href="https://itunes.apple.com/us/artist/the-hollies/id547019">The Hollies</a></li></ul>
+  
+  
+</div>
+<div metrics-loc="Titledbox_Followers">
+  
+    <h4>
+      
+      Followers
+    </h4>
+    
+  
+  
+  
+    <ul class="list"><li><a href="https://itunes.apple.com/us/artist/marc-cohn/id735882">Marc Cohn</a></li><li><a href="https://itunes.apple.com/us/artist/phil-collins/id153718">Phil Collins</a></li><li><a href="https://itunes.apple.com/us/artist/crowded-house/id490131">Crowded House</a></li><li><a href="https://itunes.apple.com/us/artist/george-michael/id894337">George Michael</a></li><li><a href="https://itunes.apple.com/us/artist/scissor-sisters/id5610556">Scissor Sisters</a></li><li><a href="https://itunes.apple.com/us/artist/christopher-cross/id556538">Christopher Cross</a></li><li><a href="https://itunes.apple.com/us/artist/guns-n-roses/id106621">Guns N' Roses</a></li><li><a href="https://itunes.apple.com/us/artist/richard-marx/id16542">Richard Marx</a></li><li><a href="https://itunes.apple.com/us/artist/kevin-henry/id219753116">Kevin Henry</a></li><li><a href="https://itunes.apple.com/us/artist/boston/id60960">Boston</a></li></ul>
+  
+  
+</div>
+<div metrics-loc="Titledbox_Contemporaries">
+  
+    <h4>
+      
+      Contemporaries
+    </h4>
+    
+  
+  
+  
+    <ul class="list"><li><a href="https://itunes.apple.com/us/artist/rod-stewart/id57471">Rod Stewart</a></li><li><a href="https://itunes.apple.com/us/artist/billy-joel/id485953">Billy Joel</a></li><li><a href="https://itunes.apple.com/us/artist/phil-collins/id153718">Phil Collins</a></li><li><a href="https://itunes.apple.com/us/artist/fleetwood-mac/id158038">Fleetwood Mac</a></li><li><a href="https://itunes.apple.com/us/artist/sting/id94804">Sting</a></li><li><a href="https://itunes.apple.com/us/artist/van-morrison/id253638">Van Morrison</a></li><li><a href="https://itunes.apple.com/us/artist/ringo-story/id208177634">Ringo Story</a></li><li><a href="https://itunes.apple.com/us/artist/cliff-richard/id387307">Cliff Richard</a></li><li><a href="https://itunes.apple.com/us/artist/todd-rundgren/id482336">Todd Rundgren</a></li><li><a href="https://itunes.apple.com/us/artist/steely-dan/id59606">Steely Dan</a></li></ul>
+  
+  
+</div>
+</div>
+        
+      </div> 
+
+      
+    </div>
+  
+  </div>
+
+    
+    
+    
+    <object classID="CLSID:D719897A-B07A-4C0C-AEA9-9B663A28DFCB" width="1" height="1" id="iTunesDetectorIE" ></object>
+    <script type="text/javascript">itms.PageData.itunesDownloadUrl='http://www.apple.com/itunes/affiliates/download/?id=54657';</script>
+
+  
+  
+      <div id="socialwrapper">
+        <aside class="social selfclear"><section class="column first"><h1><img src="https://www.apple.com/itunes/shared/itunes-this-week/images/social_appstore_title.png" alt="App Store on Facebook and Twitter" width="261" height="20"></h1>
+		<iframe src="//www.facebook.com/plugins/like.php?app_id=116556461780510&amp;href=http%3A%2F%2Fwww.facebook.com%2FAppStore&amp;send=false&amp;layout=box_count&amp;width=85&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=75&amp;locale=en_US" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:75px;" allowtransparency="true" class="right"></iframe>
+		<img src="https://www.apple.com/global/elements/itunesmodule/facebook_appstore_icon.png" alt="" width="55" height="55" class="left"><p>Discover and share<br> new apps.</p>
+		<p class="nopad">Follow us on <a href="http://tw.appstore.com/M7e">@AppStore</a>.</p>
+	</section><section class="column"><h1><img src="https://www.apple.com/itunes/shared/itunes-this-week/images/social_itunes_facebook_title.png" alt="iTunes on Facebook" width="146" height="20"></h1>
+		<iframe src="//www.facebook.com/plugins/like.php?app_id=161583840592879&amp;href=http%3A%2F%2Fwww.facebook.com%2FiTunes&amp;send=false&amp;layout=box_count&amp;width=85&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=75&amp;locale=en_US" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:75px;" allowtransparency="true" class="right"></iframe>
+		<img src="https://www.apple.com/global/elements/itunesmodule/facebook_itunes_icon.png" alt="" width="55" height="55" class="left"><p>Discover and share new music, movies, TV, books, and more.</p>
+	</section><section class="column last"><h1><img src="https://www.apple.com/itunes/shared/itunes-this-week/images/social_itunes_twitter_title.png" alt="iTunes on Twitter" width="126" height="20"></h1>
+		<img src="https://www.apple.com/global/elements/itunesmodule/twitter_icon.png" alt="" width="55" height="55" class="left"><p>Follow us <a href="http://tw.itunes.com/H8a">@iTunes</a> and discover <br>new iTunes Radio Stations<br> and the music we love.</p>
+	</section></aside>
+      </div>
+  
+  
+  <footer id="globalfooter"><div id="breadory">
+			<ol id="breadcrumbs">
+<li class="home"><a href="http://www.apple.com/">Home</a></li>
+				<li>iTunes</li>
+			</ol>
+<!--googleoff: all--><div id="directorynav" class="itunes">
+	<div id="dn-cola" class="column first">
+		<h3>iTunes</h3>
+		<ul>
+<li><a href="http://www.apple.com/itunes/download/">Download iTunes</a></li>
+			<li><a href="http://www.apple.com/itunes/features/">Features</a></li>
+			<li><a href="http://www.apple.com/itunes/charts/">iTunes Charts</a></li>
+		</ul>
+</div>
+	<div id="dn-colb" class="column">
+		<h3>More iTunes</h3>
+		<ul>
+<li><a href="http://www.apple.com/itunes/digital-music-basics/">Digital Music Basics</a></li>
+			<li><a href="http://www.apple.com/itunes/gifts/">iTunes Gifts</a></li>
+			<li><a href="http://www.apple.com/education/ipad/itunes-u/">iTunes U</a></li>
+			<li><a href="http://www.apple.com/support/ipod/">iPod + iTunes Support</a></li>
+			<li><a href="http://www.apple.com/airplay/">AirPlay</a></li>
+			<li><a href="http://www.apple.com/accessibility/other-products/">Accessibility</a></li>
+		</ul>
+</div>
+	<div id="dn-colc" class="column">
+		<h3>Working with iTunes</h3>
+		<ul>
+<li><a href="http://www.apple.com/itunes/working-itunes/">Overview</a></li>
+			<li><a href="http://www.apple.com/itunes/working-itunes/sell-content/">Sell Your Content</a></li>
+			<li><a href="http://www.apple.com/itunes/working-itunes/enhance/">Enhance Your Content</a></li>
+			<li><a href="http://www.apple.com/itunes/working-itunes/market/">Market with iTunes</a></li>
+			<li><a href="http://www.apple.com/itunes/link/">Link to iTunes</a></li>
+		</ul>
+</div>
+	<div id="dn-cold" class="column last">
+		<h3>iTunes Store</h3>
+		<ul>
+<li><a href="http://itunes.apple.com/us/browse/">Browse iTunes Store</a></li>
+			<li><a href="https://itunes.apple.com/us/genre/ios/id36?mt=8">Browse App Store</a></li>
+			<li><a href="http://itunes.apple.com/us/store">Buy Music Now</a></li>
+			<li><a href="http://store.apple.com/us/browse/home/giftcards/itunes/gallery">Buy iTunes Gift Cards</a></li>
+			<li><a href="https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/redeemLandingPage">Redeem iTunes Gift Cards</a></li>
+			<li><a href="http://www.apple.com/itunes/corporatesales/">iTunes Corporate Sales</a></li>
+			<li><a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMultiRoom?cc=us&amp;fcId=496598350">Free Single of the Week</a></li>
+		</ul>
+</div>
+	<div class="capbottom"></div>
+</div>
+<!--googleon: all-->
+
+		</div>
+<!--/breadory-->
+		<p class="gf-buy footer-shop"><span>Shop the <a href="http://store.apple.com/us">Apple Online Store</a> (1-800-MY-APPLE),</span> visit an <a href="http://www.apple.com/retail/">Apple Retail Store</a>, or find a <a href="http://www.apple.com/buy/">reseller</a>.</p>
+
+<ul class="gf-links piped footer-links">
+<li><a href="http://www.apple.com/about/" class="first">Apple Info</a></li>
+	<li><a href="http://www.apple.com/sitemap/">Site Map</a></li>
+	<li><a href="http://www.apple.com/hotnews/">Hot News</a></li>
+	<li><a href="http://www.apple.com/rss/">RSS Feeds</a></li>
+	<li><a href="http://www.apple.com/contact/" class="contact_us">Contact Us</a></li>
+	<li><a href="http://www.apple.com/choose-your-country/" class="choose">
+		
+			<img src="https://www.apple.com/global/elements/flags/22x22/usa.png" alt="Choose your country or region" width="22" height="22" data-hires="true"></a></li>
+</ul>
+<div class="gf-sosumi footer-sosumi">
+	<p>Copyright &copy; 2014 Apple Inc. All rights reserved.</p>
+	<ul class="piped">
+<li><a href="http://www.apple.com/legal/internet-services/terms/site.html" class="first">Terms of Use</a></li>
+		<li><a href="http://www.apple.com/legal/privacy/en-us/">Privacy Policy</a></li>
+	</ul>
+</div>
+
+	</footer>
+  <script language="JavaScript" type="text/javascript"><!--
+
+    var iTSMetricsCallbackFunction = function() {
+	    ITSMetrics.reportingSuite = "appleitmswww,appleitmsus";
+	    ITSMetrics.omniture = ITSMetrics.createBaselineOmnitureObject();
+	    
+	    ITSMetrics.isPageMetricsEnabled=true;
+	    
+	    
+	    
+	
+	    /* Page Metrics */
+	    ITSMetrics.omniture.pageName="SEO-Artist-US-Elton John-54657";
+ITSMetrics.omniture.channel="SEO";
+ITSMetrics.omniture.prop22="HTML";
+ITSMetrics.omniture.eVar22="HTML";
+
+	    
+	    
+	    
+	    /* User Agent */
+	    var userAgentForMetrics = ITSMetrics.userAgentForMetrics();
+	    ITSMetrics.omniture.prop12 = userAgentForMetrics;
+	    ITSMetrics.omniture.eVar12 = userAgentForMetrics;
+	    
+	    // check if Game Center
+	    var gcUserAgent = "GameCenter";
+	    var isGameCenter = userAgentForMetrics.length >= gcUserAgent.length && userAgentForMetrics.substr(0, gcUserAgent.length) == gcUserAgent;
+	    if (isGameCenter) {
+	        // prepend "GameCenter" to page and channel name
+	        if (ITSMetrics.omniture.pageName) ITSMetrics.omniture.pageName = "GameCenter-" + ITSMetrics.omniture.pageName;
+	        if (ITSMetrics.omniture.channel) ITSMetrics.omniture.channel = "GameCenter-" + ITSMetrics.omniture.channel;
+	    }
+	    
+	    
+	    /* Browser Plugins */
+	    ITSMetrics.shouldTrackBrowserPlugins = false;
+	    
+	    /* Pass-thru query params */
+	    ITSMetrics.processQueryParameterInfoInCurrentRequest(ITSMetrics.omniture);
+	    
+	    if (ITSMetrics.isPageMetricsEnabled && ITSMetrics.isOmnitureSupportedOnClient()) {
+	        ITSMetrics.emitPagePing = function() {
+	            var s_code=ITSMetrics.omniture.t();
+                // Make a second ping to Figaro for Preview
+                if (window.webPreview) {
+                    var queryParams = {};
+                    queryParams.responseType="image";
+                    queryParams.eventVersion = 1;  // begin query parameters
+                    queryParams.eventType = "page";  // hardcoded
+
+                    var time = new Date();
+                    queryParams.eventTime = time.getTime();
+                    queryParams.pageName = ITSMetrics.omniture.pageName;
+                    queryParams.pageUrl = window.location.href;  // current page url
+                    queryParams.refUrl = document.referrer; //Refer
+                    queryParams.pageType = ITSMetrics.omniture.channel; //Channel
+
+                    queryParams.userAgent = window.navigator.userAgent; //User agent
+
+                    queryParams.screenWidth = screen.width;
+                    queryParams.screenHeight = screen.height; // screen size
+
+                    queryParams.windowInnerWidth = window.innerWidth;  // browser width
+                    queryParams.windowInnerHeight = window.innerHeight;  // browser height
+
+                    queryParams.app = navigator.appName;
+
+                    var url = "https://xp.apple.com/report/2/xp_its_preview";
+
+                    url = its.url.appendUrlParameters(url, queryParams);
+                    var image = new Image();
+                    image.src = url;
+                }
+                if (s_code) {
+	                var containingDiv = document.createElement('div');
+	                containingDiv.innerHTML = s_code;
+	                document.body.appendChild(containingDiv);
+	            }
+	        };
+	        its.x.addEventListener(window, 'load', function() { window.setTimeout(ITSMetrics.emitPagePing, 1) }, false );
+	    }
+    };
+
+    if (!window["ITSMetrics"]){ 
+	    iTSDefer.register(function() {
+	        iTSMetricsCallbackFunction();
+	    });
+    } else {
+        iTSMetricsCallbackFunction();
+    }
+--></script>
+    <script>
+        if (!window.its) {
+            window.its = {};
+        }
+        window.its.markupLoadEndTime = new Date().getTime();
+    </script>
+
+
+
+</body>
+
+
+
+</html>

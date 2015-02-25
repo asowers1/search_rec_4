@@ -1,0 +1,17 @@
+Date: Fri, 20 Feb 2015 19:23:52 GMT
+Server: Server
+Content-Type: text/html; charset=utf-8
+Status: 200 OK
+Vary: User-Agent
+X-Request-Id: 07WHSY2NXJWW6WCQR4NH
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "84ec943c6384a90aadc9afd755aacd89"
+Cache-Control: max-age=0, private, must-revalidate
+X-Frame-Options: SAMEORIGIN
+X-Runtime: 0.029307
+X-Content-Type-Options: nosniff
+Set-Cookie: csid=BAhJIhg5OTktNTM3NTE1OC04NDE1NTgyBjoGRVQ%3D--290fcb9bbcbdea3b08f53a31d4f10372bcfda01a; path=/; expires=Tue, 20-Feb-2035 19:23:52 GMT
+Set-Cookie: locale=de; path=/
+Set-Cookie: _session_id2=bce435f6151195424bb6a2686e8b7a89; path=/; expires=Sat, 21-Feb-2015 01:23:52 GMT; HttpOnly
+Transfer-Encoding: chunked
+

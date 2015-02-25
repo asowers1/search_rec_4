@@ -1,0 +1,23 @@
+Cache-Control: public, s-maxage=14400, max-age=120
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Date: Sat, 21 Feb 2015 01:06:09 GMT
+Etag: "1424473387-0+ident"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Fri, 20 Feb 2015 23:03:07 +0000
+Link: <http://www.billboard.com/node/6106408>; rel="shortlink",<http://www.billboard.com/articles/list/6106408/mariah-carey-25-top-billboard-hits-hot-100-chart>; rel="canonical"
+Server: ECS (ewr/15DC)
+Vary: Accept-Encoding
+Via: 1.1 varnish
+X-Cache: HIT
+X-Cache-Hits: HIT (2)
+X-Debug-Cookies: 
+X-Debug-Log: Removed cookies
+X-Drupal-Cache: MISS
+X-Generator: Drupal 7 (http://drupal.org)
+X-NX-Host: www.billboard.com
+X-Trace: 1BB4112A59D08074F1746901B94E4F0A9AD7FF58C01A887414DEA6F2E1
+X-Varnish: 550113545 550049634
+Content-Length: 85371
+Connection: close
+

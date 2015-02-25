@@ -1,0 +1,21 @@
+Content-Type: text/html; charset=utf-8
+Expires: Fri, 20 Feb 2015 19:36:52 GMT
+Server: nginx
+X-Gu-Backend-App: article
+X-Gu-NG-Cached: MISS
+X-Page-Speed: 1.9.32.3-4448
+Via: 1.1 varnish
+Cache-Control: max-age=300, stale-while-revalidate=30, stale-if-error=864000, private
+Content-Length: 256018
+Accept-Ranges: bytes
+Date: Fri, 20 Feb 2015 19:31:52 GMT
+Via: 1.1 varnish
+Age: 0
+Connection: close
+X-Served-By: cache-lcy1123-LCY, cache-iad2143-IAD
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-GU-Edition: us
+Vary: Accept-Encoding,User-Agent
+X-GU-Platform: next-gen-router
+

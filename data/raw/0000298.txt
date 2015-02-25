@@ -1,0 +1,1398 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:c="http://s.opencalais.com/1/pred/"
+  xmlns:sys="http://s.opencalais.com/1/type/sys/"
+  xmlns:lid="http://s.opencalais.com/1/type/lid/"
+  xmlns:cat="http://s.opencalais.com/1/type/cat/"
+  xmlns:resolved="http://s.opencalais.com/1/type/er/"
+  xmlns:cgeo="http://s.opencalais.com/1/type/er/Geo/"
+  xmlns:eventfact="http://s.opencalais.com/1/type/em/r/"
+  xmlns:entity="http://s.opencalais.com/1/type/em/e/"
+  xmlns:cld="http://s.opencalais.com/1/linkeddata/pred/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" />
+  <title>Michael Jackson&#039;s Top 50 Billboard Hit Songs on Hot 100 Chart | Billboard</title>
+  <meta name="description" content="In a career that spanned almost all 50 years of his life, Michael Jackson became a mainstay on the Billboard charts. It was his dominance on the weekly Billboard Hot 100, however, that entered him into the record books: As a solo artist, 13 of his singles went to No. 1 -- the most by a male artist -- and an additional four songs by the Jackson 5 also topped the chart." />
+<meta name="robots" content="index" />
+<meta property="og:url" content="http://www.billboard.com/articles/list/473830/michael-jacksons-top-50-billboard-hits" />
+<meta property="og:site_name" content="Billboard" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="In a career that spanned almost all 50 years of his life, Michael Jackson became a mainstay on the Billboard charts. It was his dominance on the weekly Billboard Hot 100, however, that entered him into the record books: As a solo artist, 13 of his singles went to No. 1 -- the most by a male artist -- and an additional four songs by the Jackson 5 also topped the chart." />
+<meta property="og:image" content="http://www.billboard.com/files/stylus/108602-michael_jackson_collage_thriller_617_409.jpg" />
+<meta property="og:title" content="Michael Jackson&#039;s Top 50 Billboard Hits" />
+<meta property="dcterms.title" content="Michael Jackson&#039;s Top 50 Billboard Hits" />
+<meta property="dcterms.date" content="2014-06-25T09:00-04:00" />
+<meta property="dcterms.identifier" content="http://www.billboard.com/articles/list/473830/michael-jacksons-top-50-billboard-hits" />
+<meta property="dcterms.language" content="und" />
+<meta property="dcterms.creator" content="admin" />
+<meta property="dcterms.type" content="Text" />
+<meta property="dcterms.format" content="text/html" />
+<meta name="sailthru.tags" content="Chart Beat,List" />
+<meta name="sailthru.date" content="2014-06-25T09:00:00-04:00" />
+<link rel="apple-touch-icon-precomposed" href="/sites/all/themes/bb/images/billboard-touch-icon-precomposed-phone.png" />
+<link rel="apple-touch-icon-precomposed" href="/sites/all/themes/bb/images/billboard-touch-icon-precomposed-retina.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="/sites/all/themes/bb/images/billboard-touch-icon-precomposed.png" sizes="72x72" />
+<link rel="shortcut icon" href="http://www.billboard.com/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta about="/articles/list/473830/michael-jacksons-top-50-billboard-hits" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<link rel="shortlink" href="http://www.billboard.com/node/473830" />
+<link rel="canonical" href="http://www.billboard.com/articles/list/473830/michael-jacksons-top-50-billboard-hits" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta content="Michael Jackson&amp;#039;s Top 50 Billboard Hits" about="/articles/list/473830/michael-jacksons-top-50-billboard-hits" property="dc:title" />
+  <link type="text/css" rel="stylesheet" href="http://www.billboard.com/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.billboard.com/files/css/css_H2Ds0Szmus79ZU6G0Gv8be7ZJhXfUee6g7XMh6DqVAQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.billboard.com/files/css/css_1VFrW3eVFAbWGmHfrvz3fbq-mOpHz_YS4h-16LxkjMo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.billboard.com/files/css/css_elJ_e1R3q7wVZlKr4ax37CeahaRPbqrOccq0Jn2mwik.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://www.billboard.com/files/css/css_FRQpstQ8OED9VvjfiyKU8ZYdKVo5xcI-392bBfmcYdM.css" media="print" />
+  <script type='text/javascript' src='//c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+  <script type='text/javascript'>
+    try {
+      amznads.getAds('3125');
+    } catch(e) { /*ignore*/}
+  </script>
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_uacct = "UA-1266747-9";
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_Fk2EtWXE7LCynSwKaRdAXUBdaCDoMujrnIEpGHWyzko.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+    (function() {
+      var useSSL = "https:" == document.location.protocol;
+      var src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+      document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+    })();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_PdiuypZMI8o81AYEdTHwjRslVPEF69JFzr7Y9sMWt4s.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+    function DARTLegolasGetCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+          var c = ca[i];
+          while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+          if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+    var segments = [];
+    //Read the cookie
+    var lsg = DARTLegolasGetCookie('lsg');
+    if (lsg) {
+      //Tokenize
+      var cookieTokens = this.lsg.split('s');
+
+      //Build string for dart requests
+      for(var i=0; i < cookieTokens.length; i++) {
+        if (cookieTokens[i] != '0') { 
+          segments.push(cookieTokens[i]); 
+        }
+      }
+    }
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_BOf-FR7Wm4w7K3OBdPkmXp2iRQpRf-PeYx-FfmQKi-c.js"></script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_-jenMcWHoY-_YofME9QdfIdN78Hvtfo2npip2cxdObU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.defineSlot("/6419/billboard/articles/lists", [[970, 250], [970, 90], [970, 66], [728, 91], [980, 50], [980, 250]], "dfp-ad-t")
+  .addService(googletag.companionAds())
+  .addService(googletag.pubads())
+  .setTargeting("pos", "t")
+  .setTargeting("nid", "473830");
+})
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.defineSlot("/6419/billboard/articles/lists", [[300, 250], [300, 600], [300, 251]], "dfp-ad-m1")
+  .addService(googletag.companionAds())
+  .addService(googletag.pubads())
+  .setTargeting("pos", "m1")
+  .setTargeting("amazon", "1")
+  .setTargeting("nid", "473830");
+})
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.defineSlot("/6419/billboard/articles/lists", [[300, 250], [300, 252]], "dfp-ad-m2")
+  .addService(googletag.companionAds())
+  .addService(googletag.pubads())
+  .setTargeting("pos", "m2")
+  .setTargeting("dartlegolas", segments)
+  .setTargeting("amazon", "1")
+  .setTargeting("nid", "473830");
+})
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.defineSlot("/6419/billboard/articles/lists", [[728, 90], [728, 92], [728, 66]], "dfp-ad-a")
+  .addService(googletag.companionAds())
+  .addService(googletag.pubads())
+  .setTargeting("pos", "a")
+  .setTargeting("dartlegolas", segments)
+  .setTargeting("amazon", "1")
+  .setTargeting("nid", "473830");
+})
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.defineOutOfPageSlot("/6419/billboard/articles/lists", "dfp-ad-o1")
+  .addService(googletag.companionAds())
+  .addService(googletag.pubads())
+  .setTargeting("pos", "o1")
+  .setTargeting("nid", "473830");
+})
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_EppbyVRYhU34reEYHpU3cF7DDqB8y46khqgW9yA_hAQ.js"></script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_nv44E4HYNYYXSqwFoeLwrqi_fmf_T7NZbkVMMNlNP0A.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().enableSingleRequest();
+  googletag.pubads().collapseEmptyDivs(true);
+  googletag.pubads().setTargeting("tags_global", ["articles","list","473830","michael-jacksons-top-50-billboard-hits"]);
+});
+googletag.enableServices();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_WmiIer2yBva61_gcL2TgBxG78YJKaJKz4Y0zQhoCfIc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  var bJsHost = (("https:" == document.location.protocol ) ? "https://sadmin." : "http://admin.");
+  document.write(unescape("%3Cscript src='" + bJsHost + "brightcove.com/js/BrightcoveExperiences.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_SOvllzNvex-Qe_E0fVax0CyaJkYx3_OIFl5m9ZT2cPE.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_GCrULKj3UnUxePqBRhrrnbJqwarfBmRL-x1B0bRyicI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-1266747-9"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://" : "http://") + "stats.g.doubleclick.net/dc.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_DEgdS0g3Fwini7ePB9r8IuxpQ0teOQm7oNoXQ-QBk7A.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var dart_url = "http://ad.doubleclick.net";
+var tile = 1;
+var ord = 1000000000 + Math.floor(Math.random() * 900000000);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+_gaq.push(['_setCustomVar', 1, 'pubDate', '2014062509', 3]);
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_tzEGTRyjbSNo4GS4Eh6_ZJb5BgaDvQF9UshkdxwThp0.js"></script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_h09dIEU3TRbnAH9FYY5utOwK9Vr5sGEYwxRjoZ-eWrU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bb","theme_token":"b7e5QKff_tDuKRFHZv8AtDGDZozH1pzVJnywZtDhJFU","js":{"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/contentanalysis\/contentanalysis.js":1,"sites\/all\/modules\/contentoptimizer\/contentoptimizer.js":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.js":1,"sites\/all\/modules\/user_alert\/js\/user-alert.js":1,"sites\/all\/modules\/apachesolr_autocomplete\/apachesolr_autocomplete.js":1,"sites\/all\/modules\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.js":1,"misc\/progress.js":1,"sites\/all\/modules\/billboard\/bb_chart_archived\/bb_chart_archived.js":1,"1":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.js":1,"sites\/all\/modules\/disqus\/disqus.js":1,"https:\/\/apis.google.com\/js\/plusone.js":1,"sites\/all\/modules\/billboard\/bb_chart\/bb_chart.js":1,"sites\/all\/modules\/jcarousel\/js\/jcarousel.js":1,"sites\/all\/modules\/jcarousel\/js\/jquery.jcarousel.min.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"2":1,"sites\/all\/modules\/billboard\/dart\/dart.js":1,"3":1,"sites\/all\/themes\/bb\/js\/modernizr.js":1,"sites\/all\/themes\/bb\/js\/plugins\/functions.js":1,"sites\/all\/themes\/bb\/js\/plugins\/add_placeholder.js":1,"sites\/all\/themes\/bb\/js\/plugins\/jquery.client.js":1,"sites\/all\/themes\/bb\/js\/plugins\/jquery.masonry.min.js":1,"sites\/all\/themes\/bb\/js\/application.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/bbbiz.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/billboard.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/milestone_lightbox.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/listing_clicks.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/open_drawer.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/fake_header.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/my_rating.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/gallery.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/infographic.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/jcarousel.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/pinteresterize.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/breaking_news_bar.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/more_copy.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/sticky_social_links.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/reveal_hidden.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/top.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/slide_switch.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/fbc_switch.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/do_masonry.js":1,"sites\/all\/themes\/bb\/js\/vendor\/select2.min.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/chart_name_search.js":1,"4":1,"\/\/ak.sail-horizon.com\/scout\/v1.js":1,"5":1,"https:\/\/platform.twitter.com\/widgets.js":1,"6":1,"sites\/all\/modules\/billboard\/bb_social\/js\/bb_social.js":1,"7":1,"8":1,"9":1,"10":1,"11":1,"12":1,"13":1,"14":1,"15":1,"16":1,"17":1,"18":1,"19":1,"20":1,"21":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/user_alert\/css\/user-alert.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/apachesolr_autocomplete\/apachesolr_autocomplete.css":1,"sites\/all\/modules\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/linkedin\/linkedin_auth\/linkedin_auth.css":1,"sites\/all\/modules\/linkedin\/linkedin_profile\/linkedin_profile.css":1,"sites\/all\/modules\/linkedin\/linkedin_status\/linkedin_status.css":1,"sites\/all\/modules\/print\/css\/printlinks.css":1,"sites\/all\/modules\/jcarousel\/skins\/default\/jcarousel-default.css":1,"sites\/all\/modules\/field_collection\/field_collection.theme.css":1,"sites\/all\/themes\/bb\/css\/common.css":1,"sites\/all\/themes\/bb\/css\/application.css":1,"sites\/all\/themes\/bb\/css\/header.css":1,"sites\/all\/themes\/bb\/css\/headers.css":1,"sites\/all\/themes\/bb\/css\/footer.css":1,"sites\/all\/themes\/bb\/css\/social.css":1,"sites\/all\/themes\/bb\/css\/genericons.css":1,"sites\/all\/themes\/bb\/css\/modules\/teaser.css":1,"sites\/all\/themes\/bb\/css\/modules\/gallery.css":1,"sites\/all\/themes\/bb\/css\/modules\/most_popular.css":1,"sites\/all\/themes\/bb\/css\/modules\/newsletter.css":1,"sites\/all\/themes\/bb\/css\/modules\/pull_quote.css":1,"sites\/all\/themes\/bb\/css\/modules\/rating.css":1,"sites\/all\/themes\/bb\/css\/modules\/rating2.css":1,"sites\/all\/themes\/bb\/css\/modules\/chart.css":1,"sites\/all\/themes\/bb\/css\/modules\/charts.css":1,"sites\/all\/themes\/bb\/css\/modules\/chart_summary.css":1,"sites\/all\/themes\/bb\/css\/modules\/chart_legend.css":1,"sites\/all\/themes\/bb\/css\/modules\/search.css":1,"sites\/all\/themes\/bb\/css\/modules\/album.css":1,"sites\/all\/themes\/bb\/css\/modules\/on_tour.css":1,"sites\/all\/themes\/bb\/css\/modules\/forms.css":1,"sites\/all\/themes\/bb\/css\/modules\/archive.css":1,"sites\/all\/themes\/bb\/css\/modules\/linkedin.css":1,"sites\/all\/themes\/bb\/css\/modules\/inline_promo.css":1,"sites\/all\/themes\/bb\/css\/modules\/pushdown_promo.css":1,"sites\/all\/themes\/bb\/css\/pages\/artist.css":1,"sites\/all\/themes\/bb\/css\/pages\/article.css":1,"sites\/all\/themes\/bb\/css\/pages\/tertiary.css":1,"sites\/all\/themes\/bb\/css\/pages\/landing-page.css":1,"sites\/all\/themes\/bb\/css\/pages\/landing-page-biz.css":1,"sites\/all\/themes\/bb\/css\/pages\/home-page.css":1,"sites\/all\/themes\/bb\/css\/pages\/search_results.css":1,"sites\/all\/themes\/bb\/css\/pages\/milestone.css":1,"sites\/all\/themes\/bb\/css\/pages\/bbma.css":1,"sites\/all\/themes\/bb\/css\/select2.css":1,"sites\/all\/themes\/bb\/css\/select2_overrides.css":1,"sites\/all\/themes\/bb\/css\/pages\/event-page.css":1,"sites\/all\/themes\/bb\/css\/billboard-print.css":1}},"apachesolr_autocomplete":{"path":"\/apachesolr_autocomplete"},"win_sonic_url":"\/milestone\/sonic","chartbeat":{"uid":3388,"domain":"billboard.com","useCanonical":true},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax","jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views","carousels":{"on_the_charts":{"buttonNextHTML":"\u003Cspan\u003E\u003C\/span\u003E","scroll":1,"buttonPrevHTML":"\u003Cspan\u003E\u003C\/span\u003E","skin":"default","selector":".on_the_charts"}}},"user_alert":{"url_prefix":""},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"disqusComments":"billboardcom","disqus":{"domain":"billboardcom","url":"http:\/\/www.billboard.com\/articles\/list\/473830\/michael-jacksons-top-50-billboard-hits","title":"Michael Jackson\u0026#039;s Top 50 Billboard Hits","identifier":"node\/473830"},"ajax":{"edit-submit--2":{"wrapper":"sailthru_block_messages","callback":"bb_sailthru_block_ajax_form_submit","event":"mousedown","keypress":true,"prevent":"click","url":"\/sailthru\/ajax\/bbcom","submit":{"_triggering_element_name":"op","_triggering_element_value":"Sign Up"}}}});
+//--><!]]>
+</script>
+  
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+  <!--[if lte IE 6]>
+  <link rel="stylesheet" href="http://universal-ie6-css.googlecode.com/files/ie6.1.1.css" media="screen, projection">
+  <![endif]-->
+  <!--[if IE 8]><meta http-equiv="X-UA-Compatible" content="IE=7" /><![endif]-->
+  <!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7395269" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=7395269&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Begin Legolas Tag -->
+<script type="text/javascript" src="http://rt.legolas-media.com/lgrt?ci=2&ti=1200&pbi=10805"></script>
+<!-- End Legolas Tag -->
+  <script type='text/javascript'>
+    try {
+      amznads.setTargetingForGPTAsync('amznslots');
+    } catch(e) { /*ignore*/}
+  </script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-473830 node-type-listicle"  data-behavior="billboard">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=340094652706297";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MD3ZLS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MD3ZLS');</script>
+  <!-- End Google Tag Manager -->
+    <div id="bb" class='node-type-article bbcom' data-behavior='bbcom'>
+
+                      <div class="upper_black_nav">
+        <div class="c">
+            <div class="region region-upper-navigation">
+    <div id="block-menu-menu-secondary-menu" class="block block-menu tertiary-menu">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/photos" title="Photos" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Photos&#039;]);">Photos</a></li>
+<li class="leaf"><a href="/articles/lists" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Lists&#039;]);">Lists</a></li>
+<li class="leaf"><a href="/articles/reviews" title="Reviews" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Reviews&#039;]);">Reviews</a></li>
+<li class="leaf"><a href="/artists/top-100" title="Top 100 Artists" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Top-100-Artists&#039;]);">Artists</a></li>
+<li class="leaf"><a href="/search/site/podcast?f%2525255B0%2525255D=ss_bb_type%3Aarticle" title="Podcasts" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Podcasts&#039;]);">Podcasts</a></li>
+<li class="leaf"><a href="/articles/columns/pop-shop" title="Pop-Shop" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Pop-Shop&#039;]);">Pop-Shop</a></li>
+<li class="leaf"><a href="/articles/columns/the-juice" title="The Juice" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;The-Juice&#039;]);">The Juice</a></li>
+<li class="leaf"><a href="/articles/columns/chart-beat" title="Chart Beat" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Chart-Beat&#039;]);">Chart Beat</a></li>
+<li class="last leaf promoted-red"><a href="http://www.billboard.com/87th-oscars-music" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Oscars2015&#039;]);" class="promoted-red">Oscars 2015</a></li>
+</ul>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+        </div>
+      </div>
+        <header id="header" role="banner"><div class="section clearfix">
+                    <div id="logo" class="region">
+          <a href="/" title="Billboard.com" onclick="_gaq.push(['_trackEvent','TopNavigation','Main-Logo']);" rel="home">Billboard</a>
+        </div>
+              <div class="region region-header">
+    <div id="block-billboard-blocks-bb-followus" class="block block-billboard-blocks">
+
+      
+  <div class="content">
+    <div class="item-list"><ul class="follow-us"><li class="first"><a href="http://www.facebook.com/Billboard" class="genericon genericon-facebook-alt" target="_blank" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Social&#039;,&#039;Facebook&#039;]);"></a></li>
+<li><a href="http://twitter.com/billboard" class="genericon genericon-twitter" target="_blank" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Social&#039;,&#039;Twitter&#039;]);"></a></li>
+<li><a href="https://plus.google.com/+Billboard" class="genericon genericon-googleplus-alt" target="_blank" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Social&#039;,&#039;Google+&#039;]);"></a></li>
+<li><a href="https://www.pinterest.com/billboard/" class="genericon genericon-pinterest" target="_blank" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Social&#039;,&#039;Pinterest&#039;]);"></a></li>
+<li><a href="http://instagram.com/billboard" class="genericon genericon-instagram" target="_blank" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Social&#039;,&#039;Instagram&#039;]);"></a></li>
+<li class="last"><a href="http://billboard.tumblr.com/" class="genericon genericon-tumblr" target="_blank" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Social&#039;,&#039;Tumblr&#039;]);"></a></li>
+</ul></div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-billboard-blocks-top-cover-art-image" class="block block-billboard-blocks">
+
+      
+  <div class="content">
+    <div class="top-cover-image">
+  <div class="top-links">
+    <ul>
+      <li><a href="/newsletters">Newsletters</a></li>
+      <li><a href="https://subscribe.billboard.com/sub/?p=BBL&amp;f=sale&amp;s=IB1404NS01">Subscribe Now &amp; Save</a></li>
+    </ul>
+  </div>
+  <div class="top-cover-image">
+    <a href="https://subscribe.billboard.com/sub/?p=BBL&amp;f=sale&amp;s=IB1404NS01" target="_blank" title="Subscribe To Billboard" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Header&#039;,&#039;Subscribe-Image&#039;]);"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/top_cover/public/media/bb5-imagine-dragons-cover-2015-billboard-225.jpg" alt="Billboard Magazine" /></a>  </div>
+  <div class="clearfix"></div>
+</div>
+  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+      
+              <div class="clearfix"></div>
+          </div></header> <!-- /.section, /#header -->
+
+        <nav id="navigation" role="navigation"><div class="section links clearfix">
+        <div class="region region-navigation">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first expanded"><div><a href="/articles" title="Billboard News" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;News&#039;]);" class="active active">News</a><ul class="menu"><li class="first leaf"><a href="/articles/columns/pop-shop" title="Pop-Shop" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;3rdLandingPageMenu&#039;,&#039;Style&#039;]);">Pop</a></li>
+<li class="leaf"><a href="/articles/columns/the-juice" title="R&amp;B/Hip-Hop" class="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;The-Juice&#039;]);">R&amp;B/Hip-Hop</a></li>
+<li class="leaf"><a href="/articles/columns/the-615" title="Country" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;615&#039;]);">Country</a></li>
+<li class="leaf"><a href="/articles/columns/code" title="EDM News" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Code&#039;]);">EDM</a></li>
+<li class="leaf"><a href="/articles/columns/latin-notas" title="Latin Music News" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Latin-Notas&#039;]);">Latin</a></li>
+<li class="leaf"><a href="/articles/columns/k-town" title="K-Pop News" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;K-Town&#039;]);">K-Pop</a></li>
+<li class="leaf"><a href="http://www.pretareporter.com" title="Fashion/Style News" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Fashion/Style&#039;]);">Fashion/Style</a></li>
+<li class="last leaf"><a href="/articles/columns/music-festivals" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Music-Festivals&#039;]);">Music Festivals</a></li>
+</ul></div></li>
+<li class="leaf"><a href="/charts/hot-100" title="Hot 100" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Hot-100&#039;]);">Hot 100</a></li>
+<li class="leaf"><a href="/charts/billboard-200" title="Billboard 200" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Billboard-200&#039;]);">Billboard 200</a></li>
+<li class="expanded"><div><a href="/charts" title="All Charts" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;All-Charts&#039;]);">Charts</a><ul class="menu"><li class="first leaf"><a href="http://www.billboard.com/charts/year-end" title="Year End Charts" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;YearEndCharts2014&#039;]);">Year-End 2014</a></li>
+<li class="leaf"><a href="/charts/artist-100" title="Billboard Artist 100" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Artist-100-Chart&#039;]);">Artist 100</a></li>
+<li class="leaf"><a href="http://realtime.billboard.com/?chart=trending140" title="Billboard Twitter Trending 140 Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Trending-140-Chart&#039;]);">Trending 140</a></li>
+<li class="leaf"><a href="http://realtime.billboard.com/?chart=emergingartists" title="Billboard Twitter Emerging Artists" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Emerging-Artists-Chart&#039;]);">Emerging Artists</a></li>
+<li class="leaf"><a href="/charts/holiday-albums" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;HolidayAlbums&#039;]);">Holiday Albums</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-rbhip-hop" title="R&amp;B/Hip-Hop Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;RB-Hip-Hop-Chart&#039;]);">R&amp;B/Hip-Hop</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-pop" title="Pop Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Pop-Chart&#039;]);">Pop</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-danceelectronic" title="Dance/Electronic Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Dance-Electronic-Chart&#039;]);">Dance/Electronic</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-country" title="Country Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Country-Chart&#039;]);">Country</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-rock" title="Rock Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Rock-Chart&#039;]);">Rock</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-latin" title="Latin Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Latin-Chart&#039;]);">Latin</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-breaking-and-entering" title="Breaking and Entering Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Breaking-and-Entering-Chart&#039;]);">Breaking and Entering</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-christiangospel" title="Christian/Gospel Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Christian-Gospel-Chart&#039;]);">Christian/Gospel</a></li>
+<li class="last leaf"><a href="/charts#id-chart-category-additional-genres" title="Additional Genres" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Additional-Genres&#039;]);">Additional Genres</a></li>
+</ul></div></li>
+<li class="leaf"><a href="/videos" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Videos&#039;]);">Videos</a></li>
+<li class="leaf"><a href="/biz" title="Music Business News" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Biz&#039;]);">Business</a></li>
+<li class="last leaf"><a href="http://www.pretareporter.com" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Style&#039;]);">Style</a></li>
+</ul>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-search-form" class="block block-search">
+
+      
+  <div class="content">
+    <form action="/articles/list/473830/michael-jacksons-top-50-billboard-hits" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input placeholder="Search Billboard" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="0" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-hNadXQiDvcxGWATnXueBvjk1PReFBtCXbXxEbtYfCtg" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+      <div class="clearfix"></div>
+    </div></nav> <!-- /.section, /#navigation -->
+    
+        <div id="content-header"><div class="section clearfix">
+        <div class="region region-content-header">
+    <div id="block-dfp-t" class="block block-dfp">
+
+      
+  <div class="content">
+    <div id="dfp-ad-t-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-t" class="dfp-tag-wrapper">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-t");
+    });
+  </script>
+</div>
+</div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+    </div></div> <!-- /.section, /#content-header -->
+    
+    <article class="cols cols_2x article">
+                                          
+                <header>
+                                        <h1 class="title" id="page-title">Michael Jackson's Top 50 Billboard Hits</h1>
+                                    <ul class="categories header_meta header_meta_categories"><li><a href="/articles">Articles</a></li><li class="pipes_separated"><a href="/tag/list">List</a></li><li class="last_element"><a href="/tag/chart-beat-3">Chart Beat</a></li></ul>                          <p> <time class="no-padding">June 25, 2014 9:00 AM EDT</time></p>
+                    </header>
+                            <div class="tabs"></div>
+                        
+        
+        <div id="main-wrapper"><div id="main" class="clearfix">
+            <div class="col col_1" role="main"><div class="section">
+                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+    <div id="node-473830" class="node node-listicle clearfix" about="/articles/list/473830/michael-jacksons-top-50-billboard-hits" typeof="sioc:Item foaf:Document">
+              <div class="article-hero">
+      <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/promo_650/public/stylus/108602-michael_jackson_collage_thriller_617_409.jpg" width="617" height="409" alt="Michael Jackson&#039;s Top 50 Billboard Hits" /></div></div></div>      <div class="social-actions">
+        <a href="http://pinterest.com/pin/create/button/?media=http%3A//www.billboard.com/files/stylus/108602-michael_jackson_collage_thriller_617_409.jpg&amp;url=http%3A//www.billboard.com/articles/list/473830/michael-jacksons-top-50-billboard-hits" class="pin-it-button" count-layout="none">&lt;img border=&quot;0&quot; src=&quot;//assets.pinterest.com/images/PinExt.png&quot; title=&quot;Pin It&quot; /&gt;</a>      </div>
+          </div>
+        <div data-behavior="sticky_social_links" class="social social_vert">
+  <ul class="with_buttons">
+            <li>
+      <span class="ib fb">702</span>
+      <div class="fb-like" data-href="http://www.billboard.com/articles/list/473830/michael-jacksons-top-50-billboard-hits" data-send="false" data-layout="button_count" data-width="300" data-show-faces="true"></div>    </li>
+            <li>
+      <span class="ib tw">1.204 k</span>
+      <div class="tweetbutton-tweet tweetbutton"><a href="https://twitter.com/share" data-size="medium" data-count="none" data-via="billboard" data-related=":" data-text="Michael Jackson&#039;s Top 50 Billboard Hits" data-counturl="http://www.billboard.com/articles/list/473830/michael-jacksons-top-50-billboard-hits" data-url="http://www.billboard.com/articles/list/473830/michael-jacksons-top-50-billboard-hits" data-lang="en" class="twitter-share-button"></a></div>    </li>
+            <li>
+      <span class="ib gplus">21</span>
+      <div class="g-plusone-wrapper"  ><div class="g-plusone" data-href="http://www.billboard.com/articles/list/473830/michael-jacksons-top-50-billboard-hits" data-size="medium" data-annotation="none" ></div></div>    </li>
+      </ul>
+    <ul>
+          <li class="sep">
+         <div class="pw-widget pw-size-medium" pw:copypaste="false" pw:url="http://www.billboard.com/articles/list/473830/michael-jacksons-top-50-billboard-hits">	
+      <a class="pw-button-post"></a>
+     </div>
+     </li>
+               <li class="sep">
+         <a href="/articles/list/473830/michael-jacksons-top-50-billboard-hits#disqus_thread" data-behavior="scroll_to" class="cmt ib active"></a>     </li>
+       </ul>
+    <div class="cleaner"></div>
+</div>
+  <div class="article_content">
+    <h2 class="field field-name-field-sub-headline field-type-text field-label-hidden">
+      A look back at the music that made Michael Jackson the undisputed King of Pop  </h2><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="chart-description">In a career that spanned almost all 50 years of his life, Michael Jackson became a mainstay on the Billboard charts. It was his dominance on the weekly Billboard Hot 100, however, that entered him into the record books: As a solo artist, 13 of his singles went to No. 1 -- the most by a male artist -- and an additional four songs by the Jackson 5 also topped the chart.</p>
+<p class="chart-description" style="text-align: center;"><strong><a href="http://www.billboard.com/articles/columns/pop-shop/6133910/michael-jackson-most-iconic-moment-poll-vote-now">Poll: Michael's Most Iconic Moment</a> </strong></p>
+<p class="chart-description" style="text-align: center;"><strong><a href="http://edit.billboard.com/articles/columns/the-juice/6133918/remembering-michael-jackson-how-artists-fans-reacted-to-king-of">Video: How Artists &amp; Fans Reacted to MJ's Death</a></strong></p>
+<p class="chart-description">Here, Jackson's top 50 singles are ranked based on a track's performance on the Hot 100. (Nielsen SoundScan started tabulating sales data for Billboard in 1991; as many Jackson songs were released before then, a measurement based on strict sales numbers would be incomplete.) Songs are ranked based on an inverse point system, with weeks at No. 1 earning the greatest value and weeks at No. 100 earning the least. (For all of the details on how this chart was compiled, scroll to the bottom of this page.)</p>
+<p style="text-align: center;"><a href="http://www.billboard.com/photos/426384/michael-jackson-his-life-in-photos"><strong>Photo Gallery: Michael Jackson's Life In Pictures</strong></a></p>
+<p style="text-align: center;"><a href="http://www.billboard.com/articles/events/bbma-2014/6092040/michael-jackson-hologram-billboard-music-awards"><strong>Michael Jackson Hologram at BBMAs: Behind the Scenes</strong></a></p>
+</div></div></div><div class="field-collection-container clearfix"><div class="cck_pager"><div class="field field-name-field-list field-type-field-collection field-label-hidden">
+                    <section class="article_list_item">
+                  <i>50          </i>
+        
+            <h3>"Lookin&#039; Through The Windows"</h3><h4>The Jackson 5</h4><div class="field field-name-field-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>Hot 100 Peak Position:</strong> 16 <br /><strong>Peak Date:</strong> August 26, 1972 <br /><strong>Weeks On Chart:</strong> 10<br />Jackson's Billboard chart history began with a streak of extraordinary success, as the Jackson 5's first 20 entries on what's now known as R&amp;B/Hip-Hop Songs all reached the top 10. This song marked the 10th top 10 in-a-row for the act on R&amp;B/Hip-Hop Songs, reaching No. 5 in 1972. On the Billboard Hot 100, the track peaked at No. 16. The title cut from the group's fifth studio album illustrated the maturation of Michael, then 13, from boy soprano to the tenor who would subsequently reign as the King of Pop.</p>
+<p><iframe src="https://embed.spotify.com/?uri=spotify:track:2WvgtodIaNfFErZHs9ictk" frameborder="0" height="80" width="500"></iframe></p>
+</div></div></div>
+              </section>
+              <section class="article_list_item">
+                  <i>49          </i>
+        
+            <h3>"Torture"</h3><h4>The Jacksons</h4><div class="field field-name-field-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>Hot 100 Peak Position:</strong> 28 <br /><strong>Peak Date:</strong> October 6, 1973 <br /><strong>Weeks On Chart:</strong> 13<br />The Jacksons' 1984 "Victory" album spawned multiple hits, including this funky rock number, which peaked at No. 17 on the Hot 100. While it was the second single from "Victory," it yielded the first music video produced for the album. Ironically, though Michael and Jermaine Jackson share lead on the song, neither appears in the clip, which was choreographed by Paula Abdul.</p>
+<p><iframe src="https://embed.spotify.com/?uri=spotify:track:79rIsbqmsjvz8umdE91J2s" frameborder="0" height="80" width="500"></iframe></p>
+</div></div></div>
+              </section>
+              <section class="article_list_item">
+                  <i>48          </i>
+        
+            <h3>"Get It Together"</h3><h4>The Jackson 5</h4><div class="field field-name-field-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>Hot 100 Peak Position:</strong> 28 <br /><strong>Peak Date:</strong> October 6, 1973 <br /><strong>Weeks On Chart:</strong> 13</p>
+<p>In 1973, Michael and his brothers weren't begging girls to stick around just yet. In fact, the Jackson 5's funk-flavored pop single "Get It Together" featured sweet vocals delivering a not-so-sweet message: "Get up off your high horse, girl." The band wasn't messing around in its lyrics or on the charts. Although the song peaked at No. 28 on the Hot 100, it was a No. 2 smash for the group on Billboard's R&amp;B songs chart.</p>
+<p><iframe src="https://embed.spotify.com/?uri=spotify:track:3rCUhUOjL0NjHiic2HCu4A" frameborder="0" height="80" width="500"></iframe></p>
+</div></div></div>
+              </section>
+              <section class="article_list_item">
+                  <i>47          </i>
+        
+            <h3>"You Rock My World"</h3><h4>Michael Jackson</h4><div class="field field-name-field-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>Hot 100 Peak Position:</strong> 10 <br /><strong>Peak Date:</strong> September 22, 2001 <br /><strong>Weeks On Chart:</strong> 20</p>
+<p>The lead single from Jackson's 2001 studio album "Invincible" peaked at No. 10 on the Hot 100, marking the King of Pop's final top 10 hit on the tally to-date. Co-produced by Jackson and Rodney Jerkins, the song was ushered in by an unsurprisingly lavish music video directed by Paul Hunter. The clip features Chris Tucker as Jackson's comic foil, along with turns from Michael Madsen and Marlon Brando.</p>
+<p><iframe src="https://embed.spotify.com/?uri=spotify:track:4oY2T9ur7Ll5b2kpBlcWcb" frameborder="0" height="80" width="500"></iframe></p>
+</div></div></div>
+              </section>
+              <section class="article_list_item">
+                  <i>46          </i>
+        
+            <h3>"Heartbreak Hotel"</h3><h4>The Jacksons</h4><div class="field field-name-field-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>Hot 100 Peak Position:</strong> 22 <br /><strong>Peak Date:</strong> February 14, 1981 <br /><strong>Weeks On Chart:</strong> 16</p>
+<p>"Heartbreak Hotel" was released June 17, 1980, and was the second single off the Jacksons' "Triumph" album. It peaked at No. 22 on the Hot 100. "One time Michael called me into a Hollywood studio to play a solo on a song that turned out to be 'Heartbreak Hotel,' " says Paul Jackson Jr., his longtime guitarist. "I asked him what kind of solo he wanted. The solo I played on the record is what he sang to me note for note."</p>
+</div></div></div>
+              </section>
+              <section class="article_list_item">
+                  <i>45          </i>
+        
+            <h3>"Corner Of The Sky"</h3><h4>The Jackson 5</h4><div class="field field-name-field-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>Hot 100 Peak Position:</strong> 18 <br /><strong>Peak Date:</strong> December 16, 1972 <br /><strong>Weeks On Chart:</strong> 12</p>
+<p>The Jackson 5 lent its soulful pop to the 1970s musical "Pippin" in the form of the track "Corner Of The Sky." In line with the musical's plot, "Corner Of The Sky" is about seeking out happiness in life ("But I won't rest/ 'Til I know I have it all"). The song, which also appeared on the Jackson 5's 1973 album "Skywriter," hit No. 18 on the Hot 100 and No. 9 on Billboard's R&amp;B songs chart.</p>
+<p><iframe src="https://embed.spotify.com/?uri=spotify:track:49k1fKTPJvXXNvJYZPvMko" frameborder="0" height="80" width="500"></iframe></p>
+</div></div></div>
+              </section>
+              <section class="article_list_item">
+                  <i>44          </i>
+        
+            <h3>"Little Bitty Pretty One"</h3><h4>The Jackson 5</h4><div class="field field-name-field-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>Hot 100 Peak Position:</strong> 13 <br /><strong>Peak Date:</strong> May 27, 1972 <br /><strong>Weeks On Chart:</strong> 9</p>
+<p>Few songs show off artists' vocal chops as well as this one, and the Jackson 5 reinforced their timeless family harmonies on this well-loved doo-wop classic. Thurston Harris introduced the song to pop audiences in 1957 and it has since been recorded by a wide range of acts, including the Allman Brothers, Huey Lewis &amp; the News and Aaron Carter. The Jackson 5's version of the song reached No. 8 on R&amp;B songs chart and No. 13 on the Hot 100 in 1972.</p>
+<p><iframe src="https://embed.spotify.com/?uri=spotify:track:7w4hJyEPkHHGb71ZhQefbi" frameborder="0" height="80" width="500"></iframe></p>
+</div></div></div>
+              </section>
+              <section class="article_list_item">
+                  <i>43          </i>
+        
+            <h3>"I Want To Be Where You Are"</h3><h4>Michael Jackson</h4><div class="field field-name-field-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>Hot 100 Peak Position:</strong> 16 <br /><strong>Peak Date:</strong> July 15, 1972 <br /><strong>Weeks On Chart:</strong> 11</p>
+<p>"I Wanna Be Where You Are" was released May 2, 1972, and appears on the album "Got to Be There." It was Jackson's third consecutive top 40 pop hit in the beginning of his solo career with Motown. The single peaked at No. 16 on the Hot 100 and would become one of Jackson's most covered songs, with Marvin Gaye, the Fugees and Jason Weaver doing their own renditions.</p>
+<p align="center">
+<iframe src="//www.youtube.com/embed/0GLaODfMqn4" frameborder="0" height="300" width="400"></iframe></p>
+</div></div></div>
+              </section>
+              <section class="article_list_item">
+                  <i>42          </i>
+        
+            <h3>"Butterflies"</h3><h4>Michael Jackson</h4><div class="field field-name-field-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>Hot 100 Peak Position:</strong> 14 <br /><strong>Peak Date:</strong> January 26, 2002 <br /><strong>Weeks On Chart:</strong> 20</p>
+<p>In what remains his last studio album, "Invincible" in 2001 served as the long-awaited follow-up to 1991's "Dangerous." The former set featured three neo-soul-styled tracks, including "Butterflies." With the help of British duo Floetry on backing vocals, the single peaked at No. 14 on the Hot 100.</p>
+<p><iframe src="https://embed.spotify.com/?uri=spotify:track:0rT9f5BSZrZ6DvzfBEckG0" frameborder="0" height="80" width="500"></iframe></p>
+</div></div></div>
+              </section>
+              <section class="article_list_item">
+                  <i>41          </i>
+        
+            <h3>"I Am Love (Parts I & II)"</h3><h4>The Jackson 5</h4><div class="field field-name-field-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>Hot 100 Peak Position:</strong> 15 <br /><strong>Peak Date:</strong> March 22, 1975 <br /><strong>Weeks On Chart:</strong> 14</p>
+<p>1975's "I Am Love" by the Jackson 5 was part soulful ballad (led by Jermaine) and part Michael-fronted, danceable funk/rock. But no matter the musical style, the message was the same: the brothers weren't letting their loves get away. The song was the Jackson 5's last top 20 hit with Motown, reaching No. 15 on the Hot 100 in 1975. It also went to No. 5 on Billboard's R&amp;B songs chart.</p>
+<p><iframe src="https://embed.spotify.com/?uri=spotify:track:6avUSHzZ1GG6StApojxKHK" frameborder="0" height="80" width="500"></iframe></p>
+<p style="text-align: center;"><a href="http://www.billboard.com/articles/list/473830/michael-jacksons-top-50-billboard-hits?list_page=1"><strong>NEXT: 40-31</strong></a></p>
+<p>Â </p>
+<p><span style="font-size: 11px;"><strong>How This Chart Was Created</strong><br />The ranking of Michael Jackson's top 50 Billboard hits is based on actual performance on the weekly Billboard Hot 100. Songs are ranked based on an inverse point system, with weeks at No. 1 earning the greatest value and weeks at No. 100 earning the least. For example, while "Billie Jean" spent one more week at No. 1 and two more weeks on the chart than "Say Say Say," Jackson's collaboration with Paul McCartney spent more weeks in the top 10 (13-11), the top 20 (16-12) and more weeks in the top 40 (18-17) than "Jean" did.<br />Prior to the Hot 100's implementation in 1991 of enhanced radio and sales information from Nielsen BDS and Nielsen SoundScan, songs had shorter reigns at No. 1 and shorter chart lives. To ensure equitable representation of the biggest hits from Michael Jackson's entire recording career, earlier time frames were each weighted to account for the difference between turnover rates from those decades and the turnover rates that have occurred since the advent of Nielsen Music data.</span></p>
+</div></div></div>
+              </section>
+    </div>
+<div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a href="/articles/list/473830/michael-jacksons-top-50-billboard-hits?list_page=1" class="active">2</a></li>
+<li class="pager-item"><a href="/articles/list/473830/michael-jacksons-top-50-billboard-hits?list_page=2" class="active">3</a></li>
+<li class="pager-item"><a href="/articles/list/473830/michael-jacksons-top-50-billboard-hits?list_page=3" class="active">4</a></li>
+<li class="pager-item"><a href="/articles/list/473830/michael-jacksons-top-50-billboard-hits?list_page=4" class="active">5</a></li>
+<li class="pager-next"><a href="/articles/list/473830/michael-jacksons-top-50-billboard-hits?list_page=1" class="active">next âº</a></li>
+<li class="pager-last last"><a href="/articles/list/473830/michael-jacksons-top-50-billboard-hits?list_page=4" class="active">last Â»</a></li>
+</ul></div></div></div>  </div> <!-- /.content -->
+  <div class="paginator">
+            <p>
+      <a href="#print" class="prt print">Print</a>
+    </p>
+  </div>
+    <div class="tagged">
+      </div>
+    <div class="sibling-nav">
+      </div>
+</div> <!-- /.node -->
+  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-multiblock-14" class="block block-multiblock">
+
+      
+  <div class="content">
+    <!-- ================================================ -->
+<!-- GRAVITY PLUGIN -->
+<!-- ================================================ -->
+
+
+  <div id="grv-personalization-16"></div>
+<script type='text/javascript'>
+  //<![CDATA[
+    (function(){
+    window.gravityInsightsParams = {
+      'type': 'content',
+      'action': '',
+      'site_guid': '339db668c63acf75d5bcc8be7728b693'
+    };
+    var adServerReq,bUrl,doUseGravityUserGuid,includeJs,jq,type,ug,wlPrefix,wlUrl,_ref,_ref1,_ref2;includeJs=function(a){var b;b=document.createElement("script");b.async=!0;b.src=a;a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(b,a)};bUrl="";ug=(doUseGravityUserGuid=!0===gravityInsightsParams.useGravityUserGuid?1:0)?"":gravityInsightsParams.user_guid||(null!=(_ref=/grvinsights=([^;]+)/.exec(document.cookie))?_ref[1]:void 0)||"";
+    wlUrl=(wlPrefix="http://rma-api.gravity.com/v1/api/intelligence",jq=(null!=(_ref1=window.jQuery)?null!=(_ref2=_ref1.fn)?_ref2.jquery:void 0:void 0)||"",type="iframe",adServerReq=gravityInsightsParams.ad||"",""+wlPrefix+"/wl?jq="+jq+"&sg="+gravityInsightsParams.site_guid+"&ug="+ug+"&ugug="+doUseGravityUserGuid+"&id=grv-personalization-16&pl=16"+("&type="+type+"&ad="+adServerReq+"&x="+(new Date).getTime())+("undefined"!==typeof forceArticleIds&&null!==forceArticleIds&&forceArticleIds.join?"&ai="+forceArticleIds.join(","):
+    "")+("undefined"!==typeof apids&&null!==apids&&""!==apids?"&apids="+encodeURIComponent(apids):""));bUrl&&includeJs(bUrl);wlUrl&&(window.gravityInsightsParams.sidebar&&(window.gravityInsightsParams.wlStartTime=(new Date).getTime()),includeJs(wlUrl));})();
+  //]]>
+</script>
+
+<!-- ================================================ -->
+<!-- END // GRAVITY PLUGIN -->
+<!-- ================================================ -->
+  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-disqus-disqus-comments" class="block block-disqus">
+
+      
+  <div class="content">
+    <div id="disqus_thread"><noscript><p><a href="http://billboardcom.disqus.com/?url=http%3A%2F%2Fwww.billboard.com%2Farticles%2Flist%2F473830%2Fmichael-jacksons-top-50-billboard-hits">View the discussion thread.</a></p></noscript></div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+                            </div></div> <!-- /.section, /#content -->
+                            <aside id="sidebar-second" class="col col_2 side_rail" role="complementary"><div class="section">
+                      <div class="region region-sidebar-second">
+    <div id="block-multiblock-16" class="block block-multiblock">
+
+      
+  <div class="content">
+    <style>
+.promocontainer {
+background: #000;
+text-align: center;
+}
+
+.promocontainer #promoheader {
+	background:#000;
+	text-align: center;
+	color: #fff;
+	font-size: 24px;
+	width: 100%;
+	height: auto;
+	line-height: 60px;
+}
+.promocontainer img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto; 
+	width:310px;
+	height:155px;
+}
+
+#featurearea {
+	margin:0 0 30px 0;
+}
+
+p.promotext { 
+	color:#fff;
+	font-size:18px;
+	line-height: 24px;
+	padding:10px;
+}
+
+.promocontainer #promolink {
+	
+}
+
+.promocontainer #promolink a {
+	background: #1cace2;
+	padding: 15px;
+	color:#fff;
+	margin: 10px 0 0 0;
+}
+
+.promocontainer ul {
+	list-style-type: circle !important;
+
+}
+
+.promocontainer li {
+	text-align:left;
+	border-top: 1px solid #444;
+	padding:16px 20px;
+	font-size: 14px;
+	color: #ffffff;
+}
+.promocontainer li a {
+	font-size: 14px;
+	color: #ffffff;
+}
+</style>
+
+
+
+<div class="promocontainer">
+	<div id="promoheader">
+<span>
+<a href="http://www.billboard.com/grammys/2015">2015 Grammys
+</a>
+</span>
+</div>
+	<div id="featurearea">
+		<a href="http://www.billboard.com/photos/6415041/greatest-grammy-moments-of-all-time-photos"><img src="http://www.billboard.com/files/styles/promo_650/public/media/grammys-adele-2015-billboard-310x155.jpg" alt="Grammy Moments"></a>
+	
+		<p class="promotext"><a href="http://www.billboard.com/photos/6415041/greatest-grammy-moments-of-all-time-photos?i=540703">The 50 Greatest Grammy Moments</a></p>
+	 	<span id="promolink">
+			<a href="http://www.billboard.com/grammys/2015">
+				Grammy Recaps, Video & Photos âº</a>
+		</span>
+	</div>
+		<ul>
+			<li>
+				<a style="font-size: 14px; color: #fff;" href="hhttp://www.billboard.com/articles/news/6465572/2015-grammy-performances-worst-to-best">Grammys 2015: All Performances Ranked From Worst to Best</a>
+			</li>
+			<li>
+				<a style="font-size: 14px; color: #fff;" "http://www.billboard.com/photos/6458465/grammy-week-2015-party-photos?i=545212">Grammy Week 2015: Photos From All the Parties!</a>
+			</li>
+			<li>
+				<a style="font-size: 14px; color: #fff;" href="http://www.billboard.com/articles/events/grammys-2015/6465551/grammys-2015-winners-57th-annual">Grammys 2015: And the Winners Are ...</a>
+			</li>
+		</ul>
+	</div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-dfp-m1" class="block block-dfp">
+
+      
+  <div class="content">
+    <div id="dfp-ad-m1-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-m1" class="dfp-tag-wrapper">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-m1");
+    });
+  </script>
+</div>
+</div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-bb-chart-on-the-charts" class="block block-bb-chart">
+
+      
+  <div class="content">
+    <h2 class="aside_on_the_charts">On the charts </h2>
+<div class="module module_chart_summary carousel">
+  <ul class="on_the_charts">
+        <li>
+    <p>
+      <a class="chart_name">Social 50</a>
+      <span class="chart_date chart_carousel">Mar 29, 2014</span>
+      <span class="chart_position position-peak">3</span>                          <a href="/artist/1490059/michael-jackson" class="black">
+          <i>Michael Jackson</i>
+        </a>
+          </p>
+        <p>
+      <a href="/charts/2014-03-29/social-50">View Chart</a>    </p>
+      </li>
+        <li>
+    <p>
+      <a class="chart_name">Social 50</a>
+      <span class="chart_date chart_carousel">Mar 22, 2014</span>
+      <span class="chart_position position-peak">3</span>                          <a href="/artist/1490059/michael-jackson" class="black">
+          <i>Michael Jackson</i>
+        </a>
+          </p>
+        <p>
+      <a href="/charts/2014-03-22/social-50">View Chart</a>    </p>
+      </li>
+        <li>
+    <p>
+      <a class="chart_name">Social 50</a>
+      <span class="chart_date chart_carousel">Mar 15, 2014</span>
+      <span class="chart_position position-peak">3</span>                          <a href="/artist/1490059/michael-jackson" class="black">
+          <i>Michael Jackson</i>
+        </a>
+          </p>
+        <p>
+      <a href="/charts/2014-03-15/social-50">View Chart</a>    </p>
+      </li>
+        <li>
+    <p>
+      <a class="chart_name">Social 50</a>
+      <span class="chart_date chart_carousel">Mar 08, 2014</span>
+      <span class="chart_position position-peak">3</span>                          <a href="/artist/1490059/michael-jackson" class="black">
+          <i>Michael Jackson</i>
+        </a>
+          </p>
+        <p>
+      <a href="/charts/2014-03-08/social-50">View Chart</a>    </p>
+      </li>
+        <li>
+    <p>
+      <a class="chart_name">Social 50</a>
+      <span class="chart_date chart_carousel">Mar 01, 2014</span>
+      <span class="chart_position position-peak">3</span>                          <a href="/artist/1490059/michael-jackson" class="black">
+          <i>Michael Jackson</i>
+        </a>
+          </p>
+        <p>
+      <a href="/charts/2014-03-01/social-50">View Chart</a>    </p>
+      </li>
+    </ul>
+</div>
+  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<section id="block-billboard-blocks-article-artist" class="block block-billboard-blocks">
+
+        <h2>Artists in this Article</h2>
+    
+  <div class="content">
+            <div data-behavior="listing_clicks" class="listing">
+        <article class="artist_thumb no_category">
+          <header>
+            <h1><a href="/artist/310778/michael-jackson">Michael Jackson</a></h1>
+            <div class="fb-like" data-href="http://www.billboard.com/artist/310778/michael-jackson" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>          </header>
+                      <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_55x55/public/artists/m/484990.jpg" alt="Michael Jackson" />                  </article>
+    </div>
+          <div data-behavior="listing_clicks" class="listing">
+        <article class="artist_thumb no_category">
+          <header>
+            <h1><a href="/artist/416643/jackson-5">The Jackson 5</a></h1>
+            <div class="fb-like" data-href="http://www.billboard.com/artist/416643/jackson-5" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>          </header>
+                      <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_55x55/public/artists/t/484920.jpg" alt="The Jackson 5" />                  </article>
+    </div>
+          <div data-behavior="listing_clicks" class="listing">
+        <article class="artist_thumb no_category">
+          <header>
+            <h1><a href="/artist/416684/jacksons">The Jacksons</a></h1>
+            <div class="fb-like" data-href="http://www.billboard.com/artist/416684/jacksons" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>          </header>
+                      <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_55x55/public/artists/t/2244080.jpg" alt="The Jacksons" />                  </article>
+    </div>
+        <!--<p><a data-behavior="reveal_hidden" href="#">View more<i class="icon down-arrow"></i></a></p>-->
+  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<div class="block module module_newsletter"><div><p><span>Sign up for<br> our daily newsletter.</span></p><div id="block-bb-sailthru-bbcom-sailthru-subscribe" class="block block-bb-sailthru">
+
+      
+  <div class="content">
+    <form action="/articles/list/473830/michael-jacksons-top-50-billboard-hits" method="post" id="bb-sailthru-subscribe-block" accept-charset="UTF-8"><div><div id="sailthru_block_messages" class="form-wrapper"></div><div class="form-item form-type-textfield form-item-email">
+  <label for="edit-email">Email <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Enter your email address" type="text" id="edit-email" name="email" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<input type="submit" id="edit-submit--2" name="op" value="Sign Up" class="form-submit" /><input type="hidden" name="form_build_id" value="form-cz87xGSZIaDXxPVy-2x7qWxob0oHNxS48HUC6UpZckY" />
+<input type="hidden" name="form_id" value="bb_sailthru_subscribe_block" />
+</div></form>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+</div></div><div id="block-dfp-m2" class="block block-dfp">
+
+      
+  <div class="content">
+    <div id="dfp-ad-m2-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-m2" class="dfp-tag-wrapper">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-m2");
+    });
+  </script>
+</div>
+</div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-billboard-blocks-sidebar-promo" class="block block-billboard-blocks">
+
+      
+  <div class="content">
+    <style>
+.promocontainer {
+background: #000;
+text-align: center;
+}
+
+.promocontainer #promoheader {
+	background:#000;
+	text-align: center;
+	color: #fff;
+	font-size: 24px;
+	width: 100%;
+	height: auto;
+	line-height: 60px;
+}
+.promocontainer img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto; 
+	width:310px;
+	height:155px;
+}
+
+#featurearea {
+	margin:0 0 30px 0;
+}
+
+p.promotext{ 
+	color:#fff;
+	font-size:18px;
+	line-height: 24px;
+	padding:10px;
+}
+
+.promocontainer #promolink {
+	
+}
+
+.promocontainer #promolink a {
+	background: #1cace2;
+	padding: 15px;
+	color:#fff;
+	margin: 10px 0 0 0;
+}
+
+.promocontainer ul {
+	list-style-type: circle !important;
+
+}
+
+.promocontainer li {
+	text-align:left;
+	border-top: 1px solid #444;
+	padding:16px 20px;
+	font-size: 14px;
+	color: #ffffff;
+}
+.promocontainer li a {
+	font-size: 14px;
+	color: #ffffff;
+}
+</style>
+
+<div class="promocontainer">
+	<div id="promoheader"><span><a href="http://www.billboard.com/87th-oscars-music">2015 Oscars</a></span></div>
+
+	<div id="featurearea">
+		<a href="http://www.billboard.com/87th-oscars-music"><img src="http://www.billboard.com/files/styles/promo_650/public/media/oscars-red-carpet-billboard-310x155.jpg" alt="87th Oscars"></a>
+	
+		<p class="promotext"><a href="http://www.billboard.com/87th-oscars-music">Billboard's Oscar Coverage</a></p>
+	 	<span id="promolink">
+			<a href="http://www.billboard.com/articles/events/oscars/6472657/lady-gaga-perform-2015-oscars">
+				Lady Gaga Will Perform at 2015 Oscars
+ âº</a>
+		</span>
+	</div>
+		<ul>
+			<li>
+				<a style="font-size: 14px; color: #fff;" href="http://www.billboard.com/articles/events/oscars/6473227/neil-patrick-harris-happy-for-a-kanye-moment-at-the-oscars">Neil Patrick Harris Happy For a 'Kanye Moment' at the Oscars</a>
+			</li>
+			<li>
+				<a style="font-size: 14px; color: #fff;" href="https://edit.billboard.com/articles/columns/pop-shop/6443420/lorde-oscars-snub-hunger-games-yellow-flicker-beat-2015-academy-awards">Lorde's 'Hunger Games' Anthem 'Yellow Flicker Beat' Snubbed by Oscars -- Why?</a>
+			</li>
+			<li>
+				<a style="font-size: 14px; color: #fff;" href="http://www.billboard.com/photos/5915800/oscars-fashion-outrageous-academy-awards-outfits?i=489694">Oscars Fashion: Outrageous Academy Awards Outfits
+</a>
+			</li>
+		</ul>
+	</div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-multiblock-18" class="block block-multiblock">
+
+      
+  <div class="content">
+    <style>
+.promocontainer {
+background: #000;
+text-align: center;
+}
+
+.promocontainer #promoheader {
+	background:#444;
+	text-align: center;
+	color: #fff;
+	font-size: 24px;
+	width: 100%;
+	height: auto;
+	line-height: 60px;
+}
+.promocontainer img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto; 
+	width:310px;
+	height:155px;
+}
+
+#featurearea {
+	margin:0 0 30px 0;
+}
+
+p.promotext{ 
+	color:#fff;
+	font-size:18px;
+	line-height: 24px;
+	padding:10px;
+}
+
+.promocontainer #promolink {
+	
+}
+
+.promocontainer #promolink a {
+	background: #1cace2;
+	padding: 15px;
+	color:#fff;
+	margin: 10px 0 0 0;
+}
+
+.promocontainer ul {
+	list-style-type: circle !important;
+
+}
+
+.promocontainer li {
+	text-align:left;
+	border-top: 1px solid #444;
+	padding:16px 20px;
+	font-size: 14px;
+	color: #ffffff;
+}
+
+.promocontainer li a {
+	font-size: 14px;
+	color: #ffffff;
+}
+</style>
+
+<div class="promocontainer">
+	<div id="promoheader"><span></span></div>
+
+	<div id="featurearea">
+		<a href="http://www.billboard.com/so-you-know-you-cant-dance"><img src="http://www.billboard.com/files/styles/promo_650/public/media/icantdance-310x155.jpg" alt="So You Know You Can't Dance"></a>
+	
+		<p class="promotext"><a href="http://www.billboard.com/so-you-know-you-cant-dance">So You Know You Can't Dance</a></p>
+	 	<span id="promolink">
+			<a href="http://www.billboard.com/so-you-know-you-cant-dance">
+				Can't Dance? Learn How Here! >
+			</a>
+		</span>
+	</div>
+		<ul>
+			<li>
+				<a style="font-size: 14px; color: #fff;" href="http://www.billboard.com/video/so-you-know-you-cant-dance-fifth-harmony-teaches-sledgehammer-routine-6465900?auto=true">Watch Fifth Harmony Teach Their 'Sledgehammer' Moves
+				</a>
+			</li>
+			<li>
+				<a style="font-size: 14px; color: #fff;" href="http://www.billboard.com/video/so-you-know-you-cant-dance-maddie-ziegler-teaches-sias-chandelier-routine-6443550?auto=true">Maddie Ziegler Teaches Sia's "Chandelier"</a>
+			</li>
+			<li>
+				<a style="font-size: 14px; color: #fff;" href="http://www.billboard.com/video/so-you-know-you-cant-dance-sisqo-teaches-a-list-routine-6429441?auto=true">Sisqo Teaches 'A-List' Routine</a>
+			</li>
+		</ul>
+	</div>
+	
+<div class="promocontainer">
+	<div id="promoheader">
+<span>
+<a href="http://www.billboard.com/search/site/SNL40">SNL 40</a>
+</span>
+</div>
+	<div id="featurearea">
+		<a href="http://www.billboard.com/photos/6465933/snl-music-star-portraits?i=545404"><img src="http://www.billboard.com/files/styles/promo_650/public/media/snl-40-one-night-only-2015-billboard-310x155.jpg" alt="SNL 40"></a>
+	
+		<p class="promotext"><a href="http://www.billboard.com/photos/6465933/snl-music-star-portraits?i=545404">40 Years of SNL Portraits</a></p>
+	 	<span id="promolink">
+			<a href="http://www.billboard.com/articles/news/6266797/our-10-favorite-saturday-night-live-songs">10 Favorite 'Saturday Night Live' Songs âº</a>
+		</span>
+	</div>
+		<ul>
+			<li>
+				<a style="font-size: 14px; color: #fff;" href="http://www.billboard.com/articles/columns/pop-shop/6472978/snl-40th-anniversary-waynes-world-sketch-mocks-kanye-west-lorne">'SNL' 40th Anniversary: 'Wayne's World' Sketch Mocks Kanye West, Lorne Michaels</a>
+			</li>
+			<li>
+				<a style="font-size: 14px; color: #fff;" href="http://www.billboard.com/articles/news/6472990/snl-saturday-night-live-40th-anniversary-was-the-most-tweeted-tv-episode-ever">'SNL' 40th Anniversary Was the Most Tweeted TV Episode Ever</a>
+			</li>
+			<li>
+				<a style="font-size: 14px; color: #fff;" href="http://www.billboard.com/articles/6473000/watch-taylor-swift-paul-mccartney-prince-more-jam-at-snl-40-afterparty">Watch Taylor Swift, Paul McCartney, Prince & More Jam at 'SNL' Afterparty</a>
+			</li>
+		</ul>
+	</div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+                </div></aside> <!-- /.section, /#sidebar-second -->
+                        <div class="cleaner"></div>
+        </div></div> <!-- /#main, /#main-wrapper -->
+    </article>
+
+        
+    
+        <div id="footer-top" role="contentinfo"><div class="section">
+          <div class="region region-footer-top">
+    <section id="block-billboard-blocks-news-features" class="block block-billboard-blocks">
+
+        <h2>News and Features</h2>
+    
+  <div class="content">
+    <div class="sitewide-news-features">
+  <div class="view-gallery" data-behavior="listing_clicks">
+    <div class="view-content">
+    
+<article id="node-1538839" class="promo   node-listicle">
+  <div class="content-wrapper">
+        <div class="content-image">
+              <a href="/articles/list/1538839/top-50-love-songs-of-all-time"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/promo_225/public/media/valentines-home-page-flash-box-650-new_0.jpg" alt="Top 50 Love Songs of All Time" /></a>          </div>
+        <div class="content">
+      <header>
+                  <div class="category">Chart Beat</div>
+                <h1><a href="/articles/list/1538839/top-50-love-songs-of-all-time"  title="Top 50 Love Songs of All Time">Top 50 Love Songs of All Time</a></h1>
+      </header>
+
+      
+    </div> <!-- /.content -->
+    <div class="clearfix"></div>
+  </div>
+</article> <!-- /.node -->
+
+<article id="node-506152" class="promo   node-listicle">
+  <div class="content-wrapper">
+        <div class="content-image">
+              <a href="/articles/list/506152/top-30-breakup-songs-heartbreak-hits"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/promo_225/public/media/broken-hearts-650.jpg" alt="Heartbreak Hits: Top 30 Breakup Songs" /></a>          </div>
+        <div class="content">
+      <header>
+                  <div class="category">List</div>
+                <h1><a href="/articles/list/506152/top-30-breakup-songs-heartbreak-hits"  title="Heartbreak Hits: Top 30 Breakup Songs">Heartbreak Hits: Top 30 Breakup Songs</a></h1>
+      </header>
+
+      
+    </div> <!-- /.content -->
+    <div class="clearfix"></div>
+  </div>
+</article> <!-- /.node -->
+
+<article id="node-5922814" class="promo   node-listicle">
+  <div class="content-wrapper">
+        <div class="content-image">
+              <a href="/articles/list/5922814/top-50-movie-songs-of-all-time"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/promo_225/public/media/movie-collage-soundtracks-650.jpg" alt="Top 50 Movie Songs Of All Time" /></a>          </div>
+        <div class="content">
+      <header>
+                  <div class="category">Chart Beat</div>
+                <h1><a href="/articles/list/5922814/top-50-movie-songs-of-all-time"  title="Top 50 Movie Songs Of All Time">Top 50 Movie Songs Of All Time</a></h1>
+      </header>
+
+      
+    </div> <!-- /.content -->
+    <div class="clearfix"></div>
+  </div>
+</article> <!-- /.node -->
+
+<article id="node-6429426" class="promo   node-photo_gallery">
+  <div class="content-wrapper">
+        <div class="content-image">
+              <a href="/photos/6429426/music-photos-of-2015-january"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/promo_225/public/media/neil-young-late-night-jimmy-fallon-feb-2015-billboard-650.jpg" alt="Music Photos of 2015: January" /></a>          </div>
+        <div class="content">
+      <header>
+                  <div class="category">Photos</div>
+                <h1><a href="/photos/6429426/music-photos-of-2015-january"  title="Music Photos of 2015: January">Music Photos of 2015: January</a></h1>
+      </header>
+
+      
+    </div> <!-- /.content -->
+    <div class="clearfix"></div>
+  </div>
+</article> <!-- /.node -->
+   </div>
+  </div>
+</div>
+  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<div id="block-dfp-a" class="block block-dfp">
+
+      
+  <div class="content">
+    <div id="dfp-ad-a-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-a" class="dfp-tag-wrapper">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-a");
+    });
+  </script>
+</div>
+</div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+    </div>
+    </div></div><!-- /.section, /#footer-top -->
+    
+    <footer id="footer" role="contentinfo"><div class="section">
+          <div class="region region-footer">
+    <div id="block-billboard-blocks-cover-art-image" class="block block-billboard-blocks">
+
+      
+  <div class="content">
+    <a href="https://subscribe.billboard.com/sub/?p=BBL&amp;f=sale&amp;s=IB1404NS04" target="_blank" title="Subscribe To Billboard" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;Subscribe-Image&#039;]);"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/magazine_cover/public/media/bb5-imagine-dragons-cover-2015-billboard-225.jpg" alt="Billboard Magazine" /></a>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<section id="block-billboard-blocks-footer-subscribe" class="block block-billboard-blocks footer-magazine">
+
+        <h2>Magazine</h2>
+    
+  <div class="content">
+    <ul>
+  <li>
+    <a href="https://subscribe.billboard.com/sub/?p=BBL&f=landing" title="Customer Service"  onclick="_gaq.push(['_trackEvent', 'Footer', 'Customer-Service']);">Customer Service</a>
+    <br />
+    <a href="https://subscribe.billboard.com/sub/?p=BBL&f=sale&s=IB1404NS03" class="subscribe" title="Subscribe"  onclick="_gaq.push(['_trackEvent', 'Footer', 'Subscribe-Bottom-Left']);">Subscribe</a>
+    <br />
+    <a href="http://shop.billboard.com/" class="buy" title="Buy this issue"  onclick="_gaq.push(['_trackEvent', 'Footer', 'Buy-This-Issue']);">Buy this issue</a>
+  </li>
+</ul>
+  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<section id="block-billboard-blocks-footer-industry" class="block block-billboard-blocks">
+
+        <h2>Billboard biz</h2>
+    
+  <div class="content">
+    
+
+<div id="block-billboard_blocks_1" class="billboard_blocks">
+    <div class="footer_industry">
+                    <p>The online extension of Billboard magazine, www.billboard.com/biz is the essential online destination for the music business.</p>
+                            <a href="/biz" title="Learn more" onclick="_gaq.push(['_trackEvent', 'Footer', 'Biz-Learn-More']);">Learn more</a>
+            </div>
+</div>
+  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<section id="block-menu-menu-explore-billboard" class="block block-menu">
+
+        <h2>Explore Billboard</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/articles/news/467859/about-us" title="About Billboard" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;About-Billboard&#039;]);">About Billboard</a></li>
+<li class="leaf"><a href="http://shop.billboard.com/" title="Shop" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Shop&#039;]);">Shop</a></li>
+<li class="leaf"><a href="/archive/article" title="News Archive" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;News-Archive&#039;]);">News Archive</a></li>
+<li class="leaf"><a href="/photos" title="Photos Archive" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Photos-Archive&#039;]);">Photos Archive</a></li>
+<li class="leaf"><a href="/archive/video_item" title="Videos Archive" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Videos-Archive&#039;]);">Videos Archive</a></li>
+<li class="leaf"><a href="http://www.billboard.com/magazine-archive">Magazine Archive</a></li>
+<li class="last leaf"><a href="/archive/charts">Charts Archive</a></li>
+</ul>  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<section id="block-menu-menu-informations" class="block block-menu">
+
+        <h2>Information</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="http://m.billboard.com/" title="Mobile" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Mobile&#039;]);">Mobile</a></li>
+<li class="leaf"><a href="http://www.billboardevents.com/">Billboard Events</a></li>
+<li class="leaf"><a href="/articles/news/468196/contact-us" title="Contact Us" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;contact-us&#039;]);">Contact Us</a></li>
+<li class="leaf"><a href="/sitemap" title="Sitemap" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;sitemap&#039;]);">Sitemap</a></li>
+<li class="leaf"><a href="/faq" title="FAQ" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;faq&#039;]);">FAQ</a></li>
+<li class="leaf"><a href="https://docs.google.com/spreadsheet/viewform?formkey=dDZ1RmJPWndBRmc0cThUOEMwMXhLMXc6MQ#gid=0" title="Feedback" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Feedback&#039;]);">Feedback</a></li>
+<li class="last leaf"><a href="http://www.metrolyrics.com/" target="_blank">Lyrics</a></li>
+</ul>  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<section id="block-menu-menu-sharing-billboard" class="block block-menu">
+
+        <h2>Sharing Billboard</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="http://www.facebook.com/Billboard" title="Facebook" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Facebook&#039;]);" class="fb" target="_blank">Facebook</a></li>
+<li class="leaf"><a href="https://twitter.com/billboard" title="Twitter" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Twitter&#039;]);" class="tw" target="_blank">Twitter</a></li>
+<li class="leaf"><a href="https://plus.google.com/+Billboard/posts" title="Google+" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;GooglePlus&#039;]);" class="gplus" target="_blank">Google+</a></li>
+<li class="leaf"><a href="http://youtube.com/billboard" title="YouTube" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;YouTube&#039;]);" class="yt" target="_blank">YouTube</a></li>
+<li class="leaf"><a href="http://instagram.com/billboard" title="Instagram" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Instagram&#039;]);" class="ig" target="_blank">Instagram</a></li>
+<li class="leaf"><a href="http://billboard.tumblr.com/" title="Tumblr" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Tumblr&#039;]);" class="tb" target="_blank">Tumblr</a></li>
+<li class="leaf"><a href="http://pintrest.com/billboard" title="Pinterest" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Pinterest&#039;]);" class="pi" target="_blank">Pinterest</a></li>
+<li class="leaf"><a href="http://open.spotify.com/app/billboard" title="Spotify" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Spotify&#039;]);" class="sp" target="_blank">Spotify</a></li>
+<li class="leaf"><a href="/newsletters" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Newsletter&#039;]);" class="nsl com">Newsletter</a></li>
+<li class="last leaf"><a href="/biz/newsletters" title="Newsletter" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Newsletter&#039;]);" class="nsl biz">Newsletter</a></li>
+</ul>  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<div id="block-imageblock-2" class="block block-imageblock footer-logo">
+
+      
+  <div class="content">
+      <div class="block-image">
+    <img class="imageblock-image" typeof="foaf:Image" src="http://www.billboard.com/files/imageblock/logo_footer.png" alt="Billboard" />  </div>
+
+  <div class="block-body">
+     <!--smart_paging_autop_filter--><!--smart_paging_filter--><p style="margin-top: 20px;"><a title="Sonicbids Gigs" href="http://www.sonicbids.com" target="_blank"><img height="30" width="120" style="float: right;" alt="Sonicbids - bands apply to play gigs" title="Sonicbids Gigs" class="media-element file-media-original" typeof="foaf:Image" src="http://www.billboard.com/files/media/logo_sonicbids.png" /></a><a title="Backstage Casting" href="http://www.backstage.com/" target="_blank"><img height="30" width="145" style="float: right;" alt="Backstage Casting for Actors" title="Backstage Casting" class="media-element file-media-original" typeof="foaf:Image" src="http://www.billboard.com/files/media/logo_backstage.png" /></a></p>   </div>
+  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-menu-menu-footer-links" class="block block-menu">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/terms-of-use" title="Terms of Use" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Terms-Of-Use&#039;]);">Terms of Use</a></li>
+<li class="leaf"><a href="/privacy-policy" title="Privacy Policy" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Privacy-Policy&#039;]);">Privacy Policy    </a></li>
+<li class="last leaf"><a href="http://advertising.billboard.com/" title="Advertising" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Advertising&#039;]);" class="item-advertising" style="color:#1cace2 !important;">     Advertising</a></li>
+</ul>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-dfp-o1" class="block block-dfp">
+
+      
+  <div class="content">
+    <div id="dfp-ad-o1-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-o1" class="dfp-tag-wrapper">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-o1");
+    });
+  </script>
+</div>
+</div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+        <div id="copy">&copy; 2015 Billboard. All Rights Reserved.</div>
+    </div></footer> <!-- /.section, /#footer -->
+</div> <!-- /#bb -->    <div class="region region-page-bottom">
+    <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>  </div>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+                    function loadHorizon() {
+                          var s = document.createElement('script');
+                          s.type = 'text/javascript';
+                          s.async = true;
+                          s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+                          var x = document.getElementsByTagName('script')[0];
+                          x.parentNode.insertBefore(s, x);
+                      }
+                      loadHorizon();
+                      var oldOnLoad = window.onload;
+                      window.onload = function() {
+                          if (typeof oldOnLoad === 'function') {
+                              oldOnLoad();
+                          }
+                          if (typeof Sailthru !== 'undefined') {
+                          Sailthru.setup({
+        domain: 'horizon.billboard.com',
+      }); 
+                          }
+                      };
+
+        
+//--><!]]>
+</script>
+<script type="text/javascript" src="//ak.sail-horizon.com/scout/v1.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      if (typeof SailthruScout != 'undefined') {
+          SailthruScout.setup({
+            domain: 'horizon.billboard.com',
+            numVisible: '10',
+            includeConsumed: 'false',
+            
+          });
+      }
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function () { 
+    var s = document.createElement('script'); 
+    s.type = 'text/javascript'; 
+    s.async = true; 
+    s.src = ('https:' == document.location.protocol ? 'https://s' : 'http://i')
+    + '.po.st/share/script/post-widget.js#publisherKey=b9alt6tq217m0vjbjqtc'; 
+    var x = document.getElementsByTagName('script')[0]; 
+    x.parentNode.insertBefore(s, x); 
+    })();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_iNTKzGXhPkErEPVwhEeb7A8QEK12864csPIR-8FvEVE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+_sf_async_config.sections = "BBcom,BBcom Articles,Chart Beat"
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(){
+    window.gravityInsightsParams = {
+      'type': 'content',
+      'action': '',
+      'site_guid': '339db668c63acf75d5bcc8be7728b693'
+    };
+    window.GravityUtils||(window.GravityUtils={});
+    window.GravityUtils.includeJs||(window.GravityUtils.includeJs=function(b,e,c){var d,f,a;null==e&&(e=function(){});null==c&&(c=function(){});a=document.createElement("script");a.async=!0;d=!1;f=function(){d=!0;a.onreadystatechange=a.onload=null;return e()};a.onreadystatechange=function(){if(!d&&(!this.readyState||"complete"===this.readyState||"loaded"===this.readyState))return f()};a.onload=function(){if(!d)return f()};a.addEventListener?a.addEventListener("error",c,!1):a.attachEvent&&a.attachEvent("onerror",
+    c);a.src=b;b=document.getElementsByTagName("script")[0];return b.parentNode.insertBefore(a,b)});
+    var adServerReq,bUrl,doUseGravityUserGuid,jq,type,ug,wlPrefix,wlUrl,_ref,_ref1,_ref2;bUrl="https:"===document.location.protocol?"https://b-ssl.grvcdn.com/moth-min.js":"http://b.grvcdn.com/moth-min.js";ug=(doUseGravityUserGuid=!0===gravityInsightsParams.useGravityUserGuid?1:0)?"":gravityInsightsParams.user_guid||(null!=(_ref=/grvinsights=([^;]+)/.exec(document.cookie))?_ref[1]:void 0)||"";wlUrl=(wlPrefix="","");bUrl&&window.GravityUtils.includeJs(bUrl);wlUrl&&window.GravityUtils.includeJs(wlUrl);})();
+//--><!]]>
+</script>
+    <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0021/6696.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>  <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
+
+</body>
+</html>

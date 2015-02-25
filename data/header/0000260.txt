@@ -1,0 +1,11 @@
+Content-Type: text/html; charset=UTF-8
+Server: Apache
+X-Varnish: 1037434514
+Vary: Accept-Encoding
+Date: Sat, 21 Feb 2015 00:09:08 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: ctk=NTRlN2NjYTM0YzRlMDM2MmUzYWMxNTY3NjdhOA%3D%3D; expires=Thu, 20-Aug-2015 00:09:07 GMT; path=/; domain=.metacritic.com
+Set-Cookie: tmpid=1424477348205583; path=/
+

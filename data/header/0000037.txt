@@ -1,0 +1,14 @@
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 20 Feb 2015 19:08:01 GMT
+Expires: -1
+Last-Modified: Fri, 20 Feb 2015 19:08:01
+Pragma: no-cache
+Server: Apache
+Set-Cookie: BR_SID=KmVr6r%2CpUbNYpUhBDh4AxiSzP%2C9; path=/; domain=.bookrags.com
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-id: i-9049459a
+transfer-encoding: chunked
+Connection: Close
+

@@ -1,0 +1,250 @@
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="en-us"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="shortcut icon" href="http://pbs.twimg.com/media/BDRs9CpCEAEGIXU.png" />
+<meta name="distribution" content="global" />
+<meta name="robots" content="index,follow" />
+<meta  name="description" content="Watch Pirates of the Caribbean: Dead Man`s Chest Online - Legend has it that a tortured soul called Davy Jones lives beneath the sea with a terrible sea beast at his command. Unfortunately for the notorious pirate, Captain Jack Sparrow, this particular legend is very real. Years ago, Jack made a deal with Davy Jones, who is now expecting him to make good on his promise by handing himself over to Jonesâs servitude. But Jack will not give in without a fight, which is especially bad news for Will Turner and Elizabeth Swann, who always seem to get caught up in Jackâs mishaps. If Jack canât find a way to rid himself of Davy Jones once and for all, it may just spell the end for the three adventurers"/>
+<meta name="keywords" content="Watch Pirates of the Caribbean: Dead Man`s Chest Online, Watch Pirates of the Caribbean: Dead Man`s Chest Online For Free, Watch Pirates of the Caribbean: Dead Man`s Chest Online Megavideo, Watch Pirates of the Caribbean: Dead Man`s Chest Online Full Movie, Watch Pirates of the Caribbean: Dead Man`s Chest Online Free Without Downloading, Watch Pirates of the Caribbean: Dead Man`s Chest Online Free Streaming"/>
+<title>..: MEGASHARE.INFO - Watch Pirates of the Caribbean: Dead Man`s Chest Online Free :..</title>
+<style>body{background:#1E1E1E url(http://i1.ytimg.com/bg/8mV6zun2hL8XIzL2Z1it5g/101.jpg) repeat scroll 0 0;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:11px;margin:0;padding:0}
+Table,TR,TD{font-family:Verdana, Arial, Helvetica, sans-serif;font-size:11px;margin:0;padding:0}
+P{font-size:11px}
+a.episode{font-size:11px;text-decoration:none;color:#d87500}
+a.episode:hover{font-size:11px;color:#09a9fa}
+a{text-decoration:none;color:#5d5d5d}
+a:hover{color:#09a9fa}
+a.active{text-decoration:none;color:#09a9fa}
+a.active:hover{color:#5d5d5d}
+div{margin:4px}
+.textb{font-family:Arial, Helvetica, sans-serif;font-size:11px;color:#5d5d5d}
+.texta{font-family:Arial, Helvetica, sans-serif;font-size:11px;color:#182d47}
+.text{color:#5d5d5d;font:bold 12px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif}
+.sort_menu{float:left;width:100%;font-size:93%;line-height:normal}
+.sort_menu li a{float:center;margin-right:5px;font-size:11px}
+.sort_menu li.act a{height:17px;color:#FFF;padding:0}
+.side-announcement-box{background-color:#ffffe5;border:1px solid #f5e082;padding:10px}
+.yt-rounded{-moz-border-radius:7px;-webkit-border-radius:7px;border-radius:6px}
+.add{position:absolute;top:125px;left:30px;width:320px}
+.putlocker{background:url(http://i2.ytimg.com/u/Yl49Es8sJ4_3WrfeYGfmlA/channels3_background.jpg?v=4fb2c8a9) no-repeat left center;color:#EFEFEF;display:block;height:20px;width:94px}
+.sockshare{background:url(http://i2.ytimg.com/bg/iQ0n7q7Oob1Tba829uby7A/104.jpg) center;color:#EFEFEF;display:block;height:20px;width:90px}
+.novamov{background:url(http://i2.ytimg.com/bg/iQ0n7q7Oob1Tba829uby7A/102.jpg) center;color:#EFEFEF;display:block;height:20px;width:90px}
+.alternative{float:left;list-style-type:none;position:relative}
+.alternative li{float:left;padding-right:7px}
+.sort_menu ul,.sort_menu li{display:inline}</style>
+<script>function expandcontent(e){var t=e.parentNode.parentNode.id;var n=document.getElementById(t).getElementsByTagName("li");for(var r=0;r<n.length;r++){n[r].className="nor";if(typeof tabcontentIDs[t][r]!="undefined")document.getElementById(tabcontentIDs[t][r]).style.display="none"}e.parentNode.className="act";document.getElementById(e.getAttribute("rel")).style.display="block";saveselectedtabcontentid(t,e.getAttribute("rel"))}function savetabcontentids(e,t){if(typeof tabcontentIDs[e]=="undefined")tabcontentIDs[e]=new Array;tabcontentIDs[e][tabcontentIDs[e].length]=t}function saveselectedtabcontentid(e,t){if(enabletabpersistence==1)setCookie(e,t)}function getullistlinkbyId(e,t){var n=document.getElementById(e).getElementsByTagName("li");for(var r=0;r<n.length;r++){if(n[r].getElementsByTagName("a")[0].getAttribute("rel")==t){return n[r].getElementsByTagName("a")[0];break}}}function initializetabcontent(){for(var e=0;e<arguments.length;e++){if(enabletabpersistence==0&&getCookie(arguments[e])!="")setCookie(arguments[e],"");var t=getCookie(arguments[e]);var n=document.getElementById(arguments[e]);var r=n.getElementsByTagName("li");for(var i=0;i<r.length;i++){var s=r[i].getElementsByTagName("a")[0];if(s.getAttribute("rel")){savetabcontentids(arguments[e],s.getAttribute("rel"));s.onclick=function(){expandcontent(this);return false};if(r[i].className=="selected"&&t=="")expandcontent(s)}}if(t!=""){var o=getullistlinkbyId(arguments[e],t);if(typeof o!="undefined")expandcontent(o);else expandcontent(r[0].getElementsByTagName("a")[0])}}}function getCookie(e){var t=new RegExp(e+"=[^;]+","i");if(document.cookie.match(t))return document.cookie.match(t)[0].split("=")[1];return""}function setCookie(e,t){document.cookie=e+"="+t+"; path=/"}function slideInTab(e){document.getElementById(e).className="no_ok";c_tab="content_"+e;document.getElementById(c_tab).style.display="block"}function slideOutTab(e){document.getElementById(e).className="ok";c_tab="content_"+e;document.getElementById(c_tab).style.display="none"}function autoTab(e){switch(e){case 1:slideInTab("tab1");slideOutTab("tab2");slideOutTab("tab3");slideOutTab("tab4");break;case 2:slideInTab("tab2");slideOutTab("tab1");slideOutTab("tab3");slideOutTab("tab4");break;case 3:slideInTab("tab3");slideOutTab("tab1");slideOutTab("tab2");slideOutTab("tab4");break;case 4:slideInTab("tab4");slideOutTab("tab1");slideOutTab("tab2");slideOutTab("tab3");break}}function hideServices(){allServices.slideOut()}function showServices(){allServices.slideIn()}function initalize(){allServices=new Fx.Slide($("services"),{duration:400,mode:"horizontal",transition:Fx.Transitions.quadInOut});allServices.hide();document.getElementById("serviceContent").style.display="block"}function setgetFStr(e){getFStr=e;getFCount=0}function readgetF(){if(!getFStr)return END_OF_INPUT;if(getFCount>=getFStr.length)return END_OF_INPUT;var e=getFStr.charCodeAt(getFCount)&255;getFCount++;return e}function readReversegetF(){if(!getFStr)return END_OF_INPUT;while(true){if(getFCount>=getFStr.length)return END_OF_INPUT;var e=getFStr.charAt(getFCount);getFCount++;if(reversegetFChars[e]){return reversegetFChars[e]}if(e=="A")return 0}return END_OF_INPUT}function ntos(e){e=e.toString(16);if(e.length==1)e="0"+e;e="%"+e;return unescape(e)}function getF(e){setgetFStr(e);var t="";var n=new Array(4);var r=false;while(!r&&(n[0]=readReversegetF())!=END_OF_INPUT&&(n[1]=readReversegetF())!=END_OF_INPUT){n[2]=readReversegetF();n[3]=readReversegetF();t+=ntos(n[0]<<2&255|n[1]>>4);if(n[2]!=END_OF_INPUT){t+=ntos(n[1]<<4&255|n[2]>>2);if(n[3]!=END_OF_INPUT){t+=ntos(n[2]<<6&255|n[3])}else{r=true}}else{r=true}}return t}function doit(e){return unescape(getF(e))}var enabletabpersistence=1;var tabcontentIDs=new Object;var allServices;var tabi=1;var _mystart=-1;var END_OF_INPUT=-1;var arrChrs=new Array("A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z","a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z","0","1","2","3","4","5","6","7","8","9","+","/");var reversegetFChars=new Array;for(var i=0;i<arrChrs.length;i++){reversegetFChars[arrChrs[i]]=i}var getFStr;var getFCount;$(document).ready(function(){$.easing.bouncy=function(e,t,n,r,i){var s=1.70158;if((t/=i/2)<1)return r/2*t*t*(((s*=1.525)+1)*t-s)+n;return r/2*((t-=2)*t*(((s*=1.525)+1)*t+s)+2)+n};$.tools.tooltip.addEffect("bouncy",function(e){this.getTip().animate({top:"-=10"},500,"bouncy",e).show()},function(e){this.getTip().animate({top:"-=5"},500,"bouncy",function(){$(this).hide();e.call()})});$("#download_now").tooltip({effect:"bouncy"})})</script><script type="text/javascript">function gkpluginsAPI(e,t){player=gkthisMovie(e);if(!player){player=gkthisMovie(t)}if(gkplugins_messageHandleType=="removeLinkError"){player.onGKMessageHandle("gkMessageHandleRemoveLinkError")}else if(gkplugins_messageHandleType=="custom"){player.onGKMessageHandle("gkMessageHandle")}if(gkplugins_listboxDivID!=""){player.onGKPluginsLoadedHandle("gkPluginsLoaded")}}function gkPluginRun(e){alert(e)}function gkNextLocation(){alert("next location")}function gkMessageHandle(e){var e="Failed to load, try again later";return e}function gkPluginsLoaded(){try{initGKListbox(gkplugins_listboxDivID,player)}catch(e){alert(e.message)}}function gkMessageHandleRemoveLinkError(e){var t="File invalid";if(e.indexOf(t)>0){e=t}return e}function gkthisMovie(e){if(e==""){return null}var t=document.getElementById(e);if(!t.onGKMessageHandle){if(navigator.appName.indexOf("Microsoft")!=-1){t=window[e]}else{t=document[e]}}return t}var gkplugins_messageHandleType="custom";var gkplugins_listboxDivID="";var player</script>
+</head>
+<body bgcolor="#000000">
+<div align="center">
+	<table border="0" width="747" cellspacing="0" cellpadding="0">
+		<tr>
+			<td>
+			<img src="http://i4.ytimg.com/bg/G7hgflK3fIz_CujLI9IvNw/106.jpg" width="747" height="31" alt=""></td>
+		</tr>
+		<tr>
+			<td>
+			<table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td width="31"><img src="http://i4.ytimg.com/bg/G7hgflK3fIz_CujLI9IvNw/101.jpg" width="31" height="438" alt=""></td>
+					<td valign=top>
+						<table border=0 width="100%" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="20%" align=right></td>
+								<td align=center valign=top width="425">
+								
+										<script language=javascript>document.write(doit('JTNDb2JqZWN0JTIwaWQlM0QlMjJmbGFzaHBsYXllciUyMiUyMGNsYXNzaWQlM0QlMjJjbHNpZCUzQUQyN0NEQjZFLUFFNkQtMTFjZi05NkI4LTQ0NDU1MzU0MDAwMCUyMiUyMHdpZHRoJTNEJTIyNjg4JTIyJTIwaGVpZ2h0JTNEJTIyNDM1JTIyJTNFJTBBJTNDcGFyYW0lMjBuYW1lJTNEJTIybW92aWUlMjIlMjB2YWx1ZSUzRCUyMmh0dHAlM0ElMkYlMkZjZG4ubWVnYXNoYXJlLnNjJTJGbW9kdWxlcyUyRnlvdSUyRnBsYXllci5zd2YlMjIlMjAlMkYlM0UlMEElM0NwYXJhbSUyMG5hbWUlM0QlMjJ3bW9kZSUyMiUyMHZhbHVlJTNEJTIyb3BhcXVlJTIyJTIwJTJGJTNFJTBBJTNDcGFyYW0lMjBuYW1lJTNEJTIyYWxsb3dGdWxsU2NyZWVuJTIyJTIwdmFsdWUlM0QlMjJ0cnVlJTIyJTIwJTJGJTNFJTBBJTNDcGFyYW0lMjBuYW1lJTNEJTIyYWxsb3dTY3JpcHRBY2Nlc3MlMjIlMjB2YWx1ZSUzRCUyMmFsd2F5cyUyMiUyMCUyRiUzRSUwQSUzQ3BhcmFtJTIwbmFtZSUzRCUyMkZsYXNoVmFycyUyMiUyMHZhbHVlJTNEJTIyc2tpbiUzRGh0dHAlM0ElMkYlMkZjZG4ubWVnYXNoYXJlLnNjJTJGbW9kdWxlcyUyRnlvdSUyRmxpZ2h0cnY1LnppcCUyNmFtcCUzQnN0cmV0Y2hpbmclM0R1bmlmb3JtJTI2YW1wJTNCY29udHJvbGJhci5wb3NpdGlvbiUzRG92ZXIlMjZwbHVnaW5zJTNEaHR0cCUzQSUyRiUyRmNkbi5tZWdhc2hhcmUuc2MlMkZtb2R1bGVzJTJGcGl4JTJGcHJveHkuc3dmJTI2cHJveHkubGluayUzRG1lZ2FzaGFyZSUyQWVjMjNjNDYzM2QyYzEwYTcxY2Y1ZDVjZjRkYzM5YjhkZDI4MDdlZWEwMjUwMDM2MDkyYmZhZDkxNGFmMjk5MmM5ODVlM2ZiY2QzNDBkMWM4MmQ0Zjk4NmZhMTdhMmM0YjU1ZmUyZjNkNThjYmI5NWEwZjU5OGM3OWM4YjRhNDVmMjkwYzkyOTI1NTBhZWM2MTUzYmNiY2RiMzNlZWMxNTZhNDdkMTc2MjZhYjYyODM5ZGYyZDUxZWRkODM4MDg5NCUyNnByb3h5LmltYWdlJTNEJTIyJTIwJTJGJTNFJTNDZW1iZWQlMjBuYW1lJTNEJTIyZmxhc2hwbGF5ZXIlMjIlMjBzcmMlM0QlMjJodHRwJTNBJTJGJTJGY2RuLm1lZ2FzaGFyZS5zYyUyRm1vZHVsZXMlMkZ5b3UlMkZwbGF5ZXIuc3dmJTIyJTIwRmxhc2hWYXJzJTNEJTIyc2tpbiUzRGh0dHAlM0ElMkYlMkZjZG4ubWVnYXNoYXJlLnNjJTJGbW9kdWxlcyUyRnlvdSUyRmxpZ2h0cnY1LnppcCUyNmFtcCUzQnN0cmV0Y2hpbmclM0R1bmlmb3JtJTI2YW1wJTNCY29udHJvbGJhci5wb3NpdGlvbiUzRG92ZXIlMjZwbHVnaW5zJTNEaHR0cCUzQSUyRiUyRmNkbi5tZWdhc2hhcmUuc2MlMkZtb2R1bGVzJTJGcGl4JTJGcHJveHkuc3dmJTI2cHJveHkubGluayUzRG1lZ2FzaGFyZSUyQWVjMjNjNDYzM2QyYzEwYTcxY2Y1ZDVjZjRkYzM5YjhkZDI4MDdlZWEwMjUwMDM2MDkyYmZhZDkxNGFmMjk5MmM5ODVlM2ZiY2QzNDBkMWM4MmQ0Zjk4NmZhMTdhMmM0YjU1ZmUyZjNkNThjYmI5NWEwZjU5OGM3OWM4YjRhNDVmMjkwYzkyOTI1NTBhZWM2MTUzYmNiY2RiMzNlZWMxNTZhNDdkMTc2MjZhYjYyODM5ZGYyZDUxZWRkODM4MDg5NCUyNnByb3h5LmltYWdlJTNEJTIyJTIwdHlwZSUzRCUyMmFwcGxpY2F0aW9uJTJGeC1zaG9ja3dhdmUtZmxhc2glMjIlMjB3bW9kZSUzRCUyMm9wYXF1ZSUyMiUyMGFsbG93ZnVsbHNjcmVlbiUzRCUyMnRydWUlMjIlMjBhbGxvd1NjcmlwdEFjY2VzcyUzRCUyMmFsd2F5cyUyMiUyMHdpZHRoJTNEJTIyNjg4JTIyJTIwaGVpZ2h0JTNEJTIyNDM1JTIyJTIwJTJGJTNFJTBBJTNDJTJGb2JqZWN0JTNF'))</script>
+								</td>
+								<td width="20%" align="left"></td>
+							</tr>
+						</table>
+					</td>
+					<td width="28"><img src="http://i4.ytimg.com/u/cg9zDpsC6H6vElFs2foX3Q/channels3_background.jpg" width="28" height="438" alt=""></td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<div style="position: absolute;margin-left:590;margin-top:2;"><b><a target="_self" href="full_watch.php?id=TVRBMA">Watch in Fullscreen</a></b></div>
+			<img border="0" src="http://pbs.twimg.com/profile_background_images/443942715953135616/GJnYPjNf.png" width="747" height="76"></td>
+		</tr>
+			<tr>
+			<td background="http://i1.ytimg.com/bg/4SsNCe5dUdht97SIdDYXwQ/101.jpg">
+				<table border="0" width="100%" cellspacing="0" cellpadding="0">
+					<tr>
+						<td colspan="3">
+						<p align="center">
+						<img border="0" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" width="5" height="5"></td>
+					</tr>
+					<tr>
+						<td width="5">&nbsp;</td>
+<td width="10%" class="text" valign="middle">&nbsp;Watch in:&nbsp; &nbsp;</td><td class="text" width="90%" style="padding-right:3px; float:right;"><ul class="alternative"><li><a class="putlocker" href="video.php?id=TVRBMA&vhost=putlocker"></a></li><li><a class="sockshare" href="video.php?id=TVRBMA&vhost=sockshare"></a></li></ul></td>
+						<td width="5">&nbsp;</td>
+					</tr>
+					<tr>
+						<td colspan="3">
+						<p align="center">
+						<img border="0" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" width="5" height="5"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+			<tr>
+			<td>
+			<img border="0" src="http://pbs.twimg.com/profile_background_images/444016346867585024/AKYBXzXO.png" width="746" height="21"></td>
+		</tr>
+			<tr>
+			<td height="27" background="https://pbs.twimg.com/profile_background_images/443031347859173376/RqMlv1bY.png">
+			<table border="0" width="100%" cellspacing="0" cellpadding="0" height="100%">
+				<tr>
+					<td width="280">&nbsp;</td>
+					<td class="text">
+					  <div class="sort_menu">
+							<ul class="clearfix" id="parenttab">
+								<li class="nor"><a href="#" rel="tab_otherfilm"><span>Same category</span></a></li>
+								<li class="act"><a href="#" rel="tab_about"><span>Movie Summary</span></a></li>
+								<li class="act"><a href="#" rel="tab_comment"><span>User Comments</span></a></li>
+							</ul>
+						</div>
+					</td>
+					<td width="101">&nbsp;</td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td background="http://i1.ytimg.com/bg/4SsNCe5dUdht97SIdDYXwQ/101.jpg">
+			<table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td colspan="3">
+					<p align="center">
+					<img border="0" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" width="5" height="5"></td>
+				</tr>
+				<tr>
+					<td width="5">&nbsp;</td>
+					<td>
+						<table border="0" width="100%" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="21">&nbsp;</td>
+								<td><br>
+									<div class="contenedor_paneles" id="contenedor_paneles">
+										<div id="main">
+											<div id="tab_about" class="contents clearfix" style="display:">
+														<table border="0" width="100%" height="10" cellspacing="2" cellpadding="0">
+															<tr>
+																<td width="22%" valign="top">
+<script>
+function createRequestObject(){var e;try{e=new ActiveXObject("Msxml2.XMLHTTP")}catch(t){try{e=new ActiveXObject("Microsoft.XMLHTTP")}catch(n){e=null}}if(!e&&typeof XMLHttpRequest!="undefined"){e=new XMLHttpRequest}return e}function getobj(e){el=document.all?document.all[e]:dom?document.getElementById(e):document.layers[e];return el}function select_vote(e){uservote=e;for(i=1;i<=5;i++){objname="vote_"+i;var t=i<=e?"http://megashare.info/_temp/timhat/images/star2.gif":"http://megashare.info/_temp/timhat/images/star0.gif";getobj(objname).src=t}}function do_vote(e){try{http.open("POST","action.php");http.setRequestHeader("Content-Type","application/x-www-form-urlencoded");http.onreadystatechange=response_Vote;http.send("act=Rate&star="+e+"&f_id="+id)}catch(t){}finally{}return false}function response_Vote(){try{if(http.readyState==4&&http.status==200){response=http.responseText;eval("div_vote").innerHTML=response}}catch(e){alert("Error")}finally{}}function add_Playlist(){try{http.open("POST","action.php");http.setRequestHeader("Content-Type","application/x-www-form-urlencoded");http.onreadystatechange=response_addPlaylist;http.send("act=addPlaylist&f_id="+id)}catch(e){}finally{}return false}function response_addPlaylist(){try{if(http.readyState==4&&http.status==200){response=http.responseText;alert(response)}}catch(e){alert("Error")}finally{}}function Report(){try{http.open("POST","action.php");http.setRequestHeader("Content-Type","application/x-www-form-urlencoded");http.onreadystatechange=response_Report;http.send("act=Report&f_id="+id)}catch(e){}finally{}return false}function response_Report(){try{if(http.readyState==4&&http.status==200){response=http.responseText;alert(response)}}catch(e){alert("Error")}finally{}}var http=createRequestObject();var cPage=1;var cView=1;var id="TVRBMA";var ie45,ns6,ns4,dom;if(navigator.appName=="Microsoft Internet Explorer")ie45=parseInt(navigator.appVersion)>=4;else if(navigator.appName=="Netscape"){ns6=parseInt(navigator.appVersion)>=5;ns4=parseInt(navigator.appVersion)<5}dom=ie45||ns6
+</script>
+
+																	<p align="center">
+																	<img border="0" src="http://img.megashare.info/film/1247143109_movie(3).jpg" width="100" height="140"></td>
+																	<td width="78%" valign="top">
+																	<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+																	<b><font size="4">Pirates of the Caribbean: Dead Man`s Chest</font></b></p>
+																	<p align="left">
+																	<div><b>Writer</b> :  </div>
+																	<div><b>Director </b>:  </div>
+																	<div><b>Cast</b> :  </div>
+																	<div><b>Produce </b>: 2006 </div>
+																	<div><b>Genres </b>: Single Movies-Adventure </div>
+																	<div><b>Views</b> : 1540292 - <b>Download</b> : 0 - <b>User Rating</b> : <span id="div_vote"><a href="#Vote" onClick="return false;">
+		<img id="vote_1" src="_temp/timhat/images/star2.gif" border="0" onmouseover="select_vote(1)" onClick="do_vote(1)">
+		<img id="vote_2" src="_temp/timhat/images/star2.gif" border="0" onmouseover="select_vote(2)" onClick="do_vote(2)">
+		<img id="vote_3" src="_temp/timhat/images/star2.gif" border="0" onmouseover="select_vote(3)" onClick="do_vote(3)">
+		<img id="vote_4" src="_temp/timhat/images/star2.gif" border="0" onmouseover="select_vote(4)" onClick="do_vote(4)">
+		<img id="vote_5" src="_temp/timhat/images/star1.gif" border="0" onmouseover="select_vote(5)" onClick="do_vote(5)">
+	</a></span></div>
+																	<div class="yt-rounded" style="padding:2px;padding-left:5px;border-color:#c0c0c0;border-style: solid; border-width: 1;height:20px;">
+																		<table width="100%">
+																			<tr>
+																				<td width="39%" align=left>
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://megashare.sc/watch-pirates-of-the-caribbean-dead-mans-chest-online-TVRBMA&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=20" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:20px;" allowTransparency="true"></iframe>
+	<a target="socialbookmark" href="http://twitter.com/intent/tweet?text=Watch Pirates of the Caribbean: Dead Man`s Chest Online+http://megashare.sc/watch-pirates-of-the-caribbean-dead-mans-chest-online-TVRBMA"><img border="0" alt="Submit Thread to Twitter" src="http://i2.ytimg.com/bg/5i0-vBYcBaK2Kq7Tf0MM-g/101.jpg"/></a>
+</td>
+<td align=left>[ <b><a href="#Playlist" onClick="add_Playlist();return false;">Add Playlist</a></b> ]</td>
+<td align=right>[ <b><a href="#Report" onClick="Report();return false;">Video not Play?</a></b> ]</td>
+																			</tr>
+																		</table>
+																	</div>
+																</td>
+															</tr>
+															<tr>
+																<td colspan="2"><hr></td>
+															</tr>
+															<tr>
+																<td colspan="2">
+																<div class="side-announcement-box yt-rounded">Legend has it that a tortured soul called Davy Jones lives beneath the sea with a terrible sea beast at his command. Unfortunately for the notorious pirate, Captain Jack Sparrow, this particular legend is very real. Years ago, Jack made a deal with Davy Jones, who is now expecting him to make good on his promise by handing himself over to Jonesâs servitude. But Jack will not give in without a fight, which is especially bad news for Will Turner and Elizabeth Swann, who always seem to get caught up in Jackâs mishaps. If Jack canât find a way to rid himself of Davy Jones once and for all, it may just spell the end for the three adventurers</div></td>
+															</tr>
+															<tr>
+																<td colspan="2">&nbsp;</td>
+															</tr>
+														</table>
+											</div>
+											<div id="tab_comment" class="contents clearfix" style="display:none">
+												<table border="0" width="100%" height="10" cellspacing="2" cellpadding="0">
+													<tr>
+														<td><b><u>Have %d Comments</u> :</b></td>
+													</tr>
+													<tr>
+														<td align=center>
+															<div id="commentHTML">Loading... </div>
+														</td>
+<script>
+function urlReset(){view_Comment()}function view_Comment(){eval("commentHTML").innerHTML='<img src="http://www.google.com/mapmaker/mapfiles/loading.gif">';try{}catch(e){}finally{}return false}view_Comment()
+</script>
+													</tr>
+
+													<tr height=5><td align=center><hr></td></tr>
+													<tr>
+														<td><b>Write Comments</b></td>
+													</tr>
+													<tr>
+														<td><div style="margin:5px;text-align:center"><font color=red><b>*</b></font> To write comments you must <a target="_blank" href="index.php">Login</a>..</div></td>
+													</tr>
+													</form>
+
+												</table>
+											</div>
+
+											<div id="tab_otherfilm" class="contents clearfix" style="display:none">
+
+											</div>
+											
+										</div>
+									</div>
+										<script language="javascript1.2">initializetabcontent("parenttab")</script>
+								</td>
+								<td width="17">&nbsp;</td>
+							</tr>
+						</table>
+
+					</td>
+					<td width="5">&nbsp;</td>
+				</tr>
+				<tr>
+					<td colspan="3">
+					<p align="center">
+					<img border="0" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" width="5" height="5"></td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<img src="http://i3.ytimg.com/bg/RLwJEImWLbopSyp_0mvu0g/102.jpg" width="747" height="25" alt=""></td>
+		</tr>
+		</table>
+</div>
+<script type="text/javascript" src="http://www.adcash.com/script/java.php?option=rotateur&rotateur=155066"></script>
+
+
+<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
+<a href="http://www.histats.com" target="_blank" title="counter" ><script  type="text/javascript" >
+try {Histats.start(1,2929543,4,0,0,0,"00000000");
+Histats.track_hits();} catch(err){};
+</script></a>
+</body>
+</html>

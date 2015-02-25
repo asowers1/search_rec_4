@@ -1,0 +1,848 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>The Lord of the Rings Books - Official Tolkien Book Shop</title>
+        <meta name="keywords" content="Lord of the Rings, Tolkien, Books, Book"/>
+        <meta name="description" content="Free UK delivery &amp; great prices on The Lord of the Rings hardbacks, paperbacks and gift sets."/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="viewport" content="height=device-height,width=device-width,initial-scale=1.0,maximum-scale=1.0"/>
+    <link rel="shortcut icon" href="/template/resource/runtime/1212/g16/static/images/favicon.ico?v01_01_001" type="image/x-icon">
+
+    <link rel="stylesheet" href="/template/resource/runtime/1212/g16/static/styles/styles.css" type="text/css"/>
+    <!-- Additional IE/Win specific style sheet (Conditional Comments) -->
+    <!--[if IE]><link rel="stylesheet" href="/template/resource/runtime/1212/g16/static/styles/stylesIE.css" type="text/css" /><![endif]-->
+    <!--[if IE 8]><link rel="stylesheet" href="/template/resource/runtime/1212/g16/static/styles/stylesIE8.css" type="text/css" /><![endif]-->
+		<!--[if lt IE 8]><link rel="stylesheet" href="/template/resource/runtime/1212/g16/static/styles/stylesIE7.css" type="text/css" /><![endif]-->
+    <link rel="stylesheet" href="/template/resource/runtime/1212/g16/static/styles/print-render.css" type="text/css" media="print,projection"/>
+		
+    <script type="text/javascript" language="JavaScript" src="/template/resource/runtime/1212/g16/static/js/lib/jquery-1.6.4.min.js"></script>
+    <script type="text/javascript" language="JavaScript" src="/template/resource/runtime/1212/g16/static/js/lib/jquery.tools.min.js"></script>
+    <script type="text/javascript" language="JavaScript" src="/template/resource/runtime/1212/g16/static/js/lib/jquery.inherit-1.0.7.min.js"></script>
+    <script type="text/javascript" language="JavaScript" src="/template/resource/runtime/1212/g16/static/js/lib/jquery.json.js"></script>
+
+    <script type="text/javascript" language="JavaScript" src="/template/resource/runtime/1212/g16/static/js/lib/json2.js"></script>
+    <script type="text/javascript" language="JavaScript" src="/template/resource/runtime/1212/g16/static/js/lib/jsoner.commons.js"></script>
+    <script type="text/javascript" language="JavaScript" src="/template/resource/runtime/1212/g16/static/js/lib/xmldom.js"></script>
+    <script type="text/javascript" language="JavaScript" src="/template/resource/runtime/1212/g16/static/js/common.js"></script>
+    <script type="text/javascript" language="JavaScript" src="/template/resource/runtime/1212/g16/static/messages/en/messages_en.js"></script>
+    <script type="text/javascript" language="JavaScript" src="/template/resource/runtime/1212/g16/static/js/lib/custom-validators.js"></script>
+    <script type="text/javascript" language="JavaScript" src="/template/resource/runtime/1212/g16/static/js/ajax_update.js"></script>
+    
+    <script type="text/javascript" src="//esp.locayta.com/zones/9af697d4-c954-43fc-8644-cf21cd3b86ca.js"></script>
+
+		
+<meta name="google-site-verification" content="OSQn3Zbrn2gosdRZy0MrJwbvREIJxsvDrsHgEkmcu0o" />
+<meta name="msvalidate.01" content="BF4A70FA9F8CB9883390359F4C9E9374" />
+
+<script type="text/javascript">
+   var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6285572-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);  
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</head>
+<body itemscope itemtype="http://schema.org/WebPage"  class="pageCategory       category   The-Lord-of-the-Rings ">
+
+
+
+<!--[if IE 8]>
+    <style>
+        .ie8-upgrade {
+            width: 100%;
+            min-width: 980px;
+            height: 40px;
+            background: #F6E497;
+            border-bottom: 2px solid #B9121B;
+        }
+        .ie8-upgrade div{
+            display: inline;
+            float: left;
+        }
+        .ie8-upgrade img{
+            margin: auto;
+            width: 30px;
+            height: 30px;
+            padding: 5px;
+        }
+        .ie8-upgrade p{
+            font-size: 14px;
+            padding: 13px 10px;
+            margin: 0;
+            color: #B9121B;
+            overflow: hidden;
+        }
+        .ie8-upgrade a {
+            text-decoration: none;
+        }
+        .ie8-upgrade a:hover {
+            color: #1b8697;
+        }
+        #ie8-close-btn {
+            display: inline;
+            float: right;
+            font-size: 16px;
+            padding: 13px 20px;
+            color: #B9121B;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        .ie8-upgrade-clear {
+            clear: both;
+        }
+    </style>
+    <div class="ie8-upgrade">
+        <div><img src="/template/resource/runtime/1212/g16/static/images/browser_icon_ie.png"/></div>
+        <div><p>This website would like to remind you: Your browser (Internet Explorer 8) is <strong>out of date</strong>. <a target="_blank" href="http://updatemybrowser.org/">Update your browser</a> now for a better experience.</p></div>
+        <span id="ie8-close-btn" title="Close and ignore" onclick="closeIt()">X</span>
+    </div>
+    <div class="ie8-upgrade-clear"></div>
+    <script>
+        function closeIt() {
+            alert("If you don't upgrade your browser this site may not work!");
+            document.getElementById('ie8-close-btn').parentNode.style.display = 'none';
+        }
+    </script>
+<![endif]-->
+
+<div  id="divProgressBar" style="display: none">
+    <div id="divProgressBarHidden" class="hidden">
+    </div>
+    <div class="progressBar">
+        <table width="100%" border="0">
+            <tr><td><div class="width120"><img src="/template/resource/runtime/1212/g16/static/images/ajax-loader.gif" alt="" /><span class="text"><br />Please wait...</span></div></td></tr>
+        </table>
+    </div>
+</div>
+
+<div id="divPaymentProcessingProgress" style="display: none">
+    <div id="divPaymentProcessingProgressHidden" class="hidden">
+    </div>
+    <div class="progressBar">
+        <table width="100%" border="0">
+            <tr><td><div class="width200"><span class="text"><br />Payment processing is in progress.<br /></span><img src="/template/resource/runtime/1212/g16/static/images/ajax-loader.gif" alt="" /><span class="text"><br />Please wait...<br /><br /></span></div></td></tr>
+        </table>
+    </div>
+</div>
+
+<div id="divPasswordPolicy" style="display: none">
+    <div class="hidden"></div>
+    <div class="passwordPolicy">
+        <table width="100%" border="0">
+            <tr><td><div><span class="close"></span><span class="text"></span></div></td></tr>
+        </table>
+    </div>
+</div>
+<div id="wrapperOuter">
+    <div id="wrapperInner" class="widthfix">
+        <div id="page">
+            <div class="wrapper">
+                <div class="wrapper2">
+                    <div class="wrapper3">
+                        <div class="wrapper4">
+                            <a class="skip" href="#main" title="Skip navigation">Skip navigation</a>
+                            <table class="main" width="980">
+                                <tr>
+                                    <td id="headerContainer">
+                                        <div class="c1">
+                                            <div class="c2">
+                                                <div class="top"></div>
+                                            </div>
+                                        </div>
+                                        <div class="content">
+        <div class="iconMenu">
+    <div class="block">
+        <div class="corner1">
+            <div class="corner2">
+                <div class="lineTop"></div>
+            </div>
+        </div>
+        <div class="cont">
+            <ul>
+                    <li class="basket">
+                        <a href="/cart"><span>In Your Basket</span></a>
+                    </li>
+            </ul>
+        </div>
+        <div class="corner4">
+            <div class="corner3">
+                <div class="lineBtm"></div>
+            </div>
+        </div>
+    </div>
+    <div class="nofloat"></div>
+</div>
+        <div id="logoSection">
+    <div class="block">
+        <div class="corner1">
+            <div class="corner2">
+                <div class="lineTop"><h3 class="skip">Logo</h3></div>
+            </div>
+        </div>
+        <div class="cont">
+            <p>
+</p>
+<p class="logo">
+	<a href="/">Tolkien</a></p>
+<p class="tag-dark">
+	the official online book shop</p>
+<p class="tag-light">
+	EXCLUSIVE PRODUCTS - FREE UK DELIVERY - PRINT ON DEMAND BOOKS</p>
+
+        </div>
+        <div class="corner4">
+            <div class="corner3">
+                <div class="lineBtm"></div>
+            </div>
+        </div>
+    </div>
+    <div class="nofloat"></div>
+</div>
+            <div class="quickCartSection empty">
+        <div class="block floatLeft">
+            <div class="corner1"><div class="corner2"><div class="lineTop"><h3 class="skip">Quick Cart</h3></div></div></div>
+            <div class="cont">
+            <ul>
+                <li class="title"><a href="">Quick Cart</a></li>
+                <li class="items">Items: <span>0</span></li>
+                <li class="total">Subtotal: <span>&pound;00.00</span></li>
+            </ul>
+                <div class="nofloat"></div>
+                <div class="nofloat"></div>
+            </div>
+            <div class="corner4"><div class="corner3"><div class="lineBtm"></div></div></div>
+        </div>
+        <div class="nofloat"></div>
+        </div>
+
+        <div class="accountMenu">
+    <div class="block floatLeft">
+        <div class="corner1">
+            <div class="corner2">
+               <div class="lineTop"><h3>My account</h3></div> 
+            </div>
+        </div>
+        <div class="cont">
+            <ul>
+				
+				<li class="myAccount"><a href="/account/home">My account</a></li>
+				<li class="help last"><a href="/page/FAQs">Help</a></li>
+
+            </ul>
+        </div>
+		
+        <div class="corner4">
+            <div class="corner3">
+                <div class="lineBtm"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="nofloat"></div>
+
+</div>
+        <div class="searchSection">
+    <div class="block">
+    <div class="corner1"><div class="corner2"><div class="lineTop"><h3 class="skip">Quick Search</h3></div></div></div>
+    <div class="cont">
+     <form action="/search" method="get">
+       <input class="textInput" type="text" name="q" value="" placeholder="ISBN, Title or Keyword" />
+            <input class="goBtn" type="submit" value="Go"/>
+            <div class="nofloat"></div>
+        </form>
+    </div>
+    <div class="corner4"><div class="corner3"><div class="lineBtm"></div></div></div>
+    </div>
+    <div class="nofloat"></div>
+</div>
+        <div id="topBanners" >
+<div class="bannerLeft banners">
+        <div class="textSection">
+       <div class="block">
+               <div class="corner1"><div class="corner2"><div class="lineTop"></div></div></div>
+               <div class="cont">
+            <p>
+	Newsletter <strong>Exclusive News &amp; Offers</strong></p>
+<p>
+	<a href="#" rel="#signup"><img src="/file/IfbTdA8/93ed9918-144b-440d-aba6-540d9676f5ab.png" /></a></p>
+
+               </div>
+               <div class="corner4"><div class="corner3"><div class="lineBtm"></div></div></div>
+       </div>
+<div class="nofloat"></div>
+</div>
+
+        </div>
+<div class="bannerRight banners">
+        <div class="textSection">
+       <div class="block">
+               <div class="corner1"><div class="corner2"><div class="lineTop"></div></div></div>
+               <div class="cont">
+            <p>
+	Join us on Facebook</p>
+<p>
+	<a href="https://www.facebook.com/officialtolkien" target="_blank"><img src="/file/IfbTdA8/564aa980-565d-46ee-89dd-52502b9e0e9d.png" /></a></p>
+<p>
+	<a href="https://www.facebook.com/lordoftheringsbook" target="_blank"><img src="/file/IfbTdA8/ad5dd755-cddc-423e-8139-6100fd9c2295.png" /></a></p>
+<p>
+	<a href="https://www.facebook.com/TheHobbitBook" target="_blank"><img src="/file/IfbTdA8/9255b1db-97b8-48aa-a6aa-3c590f7f46f6.png" /></a></p>
+
+               </div>
+               <div class="corner4"><div class="corner3"><div class="lineBtm"></div></div></div>
+       </div>
+<div class="nofloat"></div>
+</div>
+
+        </div>
+</div>
+         <script type="text/javascript"> <!--
+function closeAllSubMenu(){
+    if (document.getElementById('mainMenu') == null) return;
+    var arrayDiv = document.getElementById('mainMenu').getElementsByTagName('div');
+    arrayLI = document.getElementById('mainMenu').getElementsByTagName('li');
+    for (i = 0; i < arrayDiv.length; i++)
+        arrayDiv[i].style.visibility = 'hidden';
+    for (i = 0; i < arrayLI.length; i++)
+        arrayLI[i].className = 'none';
+}
+
+function searchDIV(nameDiv){
+    var arrayDiv = document.getElementsByTagName('div');
+    i = 0;
+    while (( i < arrayDiv.length ) && ( arrayDiv[i].className != nameDiv )) i++;
+    return arrayDiv[i];
+}
+
+function widthDIV(nameDiv){
+    return searchDIV(nameDiv).offsetWidth;
+}
+
+
+function searchCSSName(nameCSS){
+    rul = document.styleSheets[0].rules;
+    i = 0;
+    if (rul == null)
+        return (null);
+    while (( i < rul.length ) && ( rul[i].selectorText != nameCSS ))
+        i++;
+    if (( i != rul.length ) && ( rul[i].selectorText == nameCSS ))
+        return( rul[i] );
+    return( null );
+}
+
+function displaySubMenu(itemName, subName){
+    closeAllSubMenu();
+    $('#'+subName+'').css('visibility','visible');
+    $('#'+itemName+'').addClass('chosen');
+
+    if (document.getElementById(subName).style.left == '')
+    {
+        if (document.getElementById(searchDIV('mainMenu').className) != null)
+        {
+            leftPosition_Submenu = ( document.getElementById(itemName).offsetLeft + document.getElementById(itemName).offsetWidth / 2 ) - document.getElementById(subName).offsetWidth / 2;
+            widthMenu = widthDIV('mainMenu');
+            if ((leftPosition_Submenu + document.getElementById(subName).offsetWidth) > widthMenu)
+                document.getElementById(subName).style.left = widthMenu - document.getElementById(subName).offsetWidth + 'px';
+            else if (leftPosition_Submenu < 0)
+                document.getElementById(subName).style.left = 0 + 'px'
+            else document.getElementById(subName).style.left = leftPosition_Submenu + 'px';
+        }
+    }
+    if (( document.styleSheets ) && ( (css = searchCSSName('.mainSubMenu_exp') ) != null)) document.getElementById(subName).style.marginTop = css.style.marginTop;
+}
+
+function hideSubMenu(itemName, subName){
+    $('#'+subName+'').css('visibility','hidden');
+    if ($('#'+itemName+'').hasClass('chosen')) $('#'+itemName+'').removeClass('chosen');
+}
+// --> </script>
+ <div class="nofloat"></div>
+ <div class="wrapperMenu">
+  <div class="mainMenu">
+     <div class="block">
+      <div class="corner1">
+         <div class="corner2">
+          <div class="lineTop">
+             <h3 class="skip">
+Main Menu            </h3>
+           </div>
+        </div>
+       </div>
+      <div class="cont">
+         <ul>
+          
+          
+          <li class="home" id="homePage">       
+          <a href="/index.html"><span class="l">&nbsp;</span><span class="name">Home</span></a> 
+          </li>
+
+          
+          <li class="category" id="categoryItem_3">       
+          <a href="/category/Exclusive+%26+Deluxe"><span class="l">&nbsp;</span><span class="name">Exclusive &amp; Deluxe</span></a> 
+          </li>  
+          <li class="category" id="categoryItem_4">       
+          <a href="/category/The+Hobbit"><span class="l">&nbsp;</span><span class="name">The Hobbit</span></a> 
+          </li>  
+          <li class="category" id="categoryItem_5">       
+          <a href="/category/The+Lord+of+the+Rings"><span class="l">&nbsp;</span><span class="name">The Lord of the Rings</span></a> 
+          </li>  
+          <li class="category" id="categoryItem_6">       
+          <a href="/category/Middle-earth+%26+Beyond"><span class="l">&nbsp;</span><span class="name">Middle-earth &amp; Beyond</span></a> 
+          </li>  
+          <li class="category" id="categoryItem_7">       
+          <a href="/category/Non-fiction"><span class="l">&nbsp;</span><span class="name">Non-fiction</span></a> 
+          </li>  
+          <li class="category" id="categoryItem_8">       
+          <a href="/category/Younger+Readers"><span class="l">&nbsp;</span><span class="name">Younger Readers</span></a> 
+          </li>  
+          <li class="category" id="categoryItem_9">       
+          <a href="/category/Further+Interest"><span class="l">&nbsp;</span><span class="name">Further Interest</span></a> 
+          </li>  
+          
+          
+          <li class="static" id="staticItem_1">          
+          <a href="/page/WIN+THE+HOBBIT%3A+THE+BATTLE+OF+THE+FIVE+ARMIES+VISUAL+COMPANION+EXCLUSIVELY+SIGNED%21"><span class="l">&nbsp;</span><span class="name">WIN THE HOBBIT: THE BATTLE OF THE FIVE ARMIES VISUAL COMPANION EXCLUSIVELY SIGNED!</span></a> 
+           </li>
+          <li class="static" id="staticItem_2">          
+          <a href="/page/Features+%26+News"><span class="l">&nbsp;</span><span class="name">Features &amp; News</span></a> 
+           </li>
+
+          
+        </ul>
+       </div>
+      <div class="corner4">
+         <div class="corner3">
+          <div class="lineBtm"></div>
+        </div>
+       </div>
+    </div>
+     <div class="nofloat"></div>
+   </div>
+</div>
+
+        <div class="textSection">
+       <div class="block">
+               <div class="corner1"><div class="corner2"><div class="lineTop"></div></div></div>
+               <div class="cont">
+            <p>
+	<img alt="The Lord of the Rings books" src="/file/IfbTdA8/de598f15-9fb1-49b2-85c7-6cd13c162917.jpg" /></p>
+
+
+               </div>
+               <div class="corner4"><div class="corner3"><div class="lineBtm"></div></div></div>
+       </div>
+<div class="nofloat"></div>
+</div>
+
+          <noscript>
+  <div class="noScriptContent">
+  <p class="top">JavaScript is required to use Tolkien.</p>
+  <p>Please enable JavaScript to continue.</p>
+  <p class="sub">For more information please visit <a href="http://enable-javascript.com/" target="_blank">http://enable-javascript.com</a></p>
+  
+  <style type="text/css">
+  #headerContainer .content .quickCartSection,
+  #headerContainer .content .wrapperMenu,
+  #headerContainer .content .categoryMenu,
+  #headerContainer .content .accountMenu,
+  #headerContainer .content .iconMenu,
+  #headerContainer .content .searchSection,
+  #headerContainer .content .checkoutProgressBar,
+	#headerContainer #topBanners,
+  #middleContainer, 
+  #footerContainer 
+  {display:none;}
+  table.main
+  {width:500px;text-align:center;}
+  table.main p
+  {padding-bottom:10px;}
+  table.main p a
+  {color:#B89E59;}
+  table.main p a:hover
+  {text-decoration:underline;}
+  table.main p.top
+  {color:#D33432;font-size:1.1em;line-height:20px;}
+  table.main p.sub
+  {font-size:0.8em;margin-top:10px;}
+  
+  #headerContainer #logoSection
+  {text-align:left;}
+  #headerContainer #logoSection .cont
+	{width:100%;}
+  .noScriptContent
+  {display:block !important;clear:both;text-align:left;font-family:Cabin, Arial, sans-serif;padding-top:40px;}
+  </style>
+  </div>	
+</noscript>
+            <div itemprop="breadcrumb" class="breadcrumbSection">
+        <div class="block">
+            <ul>
+                    <li class="first  2" >
+                            <a href="/index.html"><span>Home</span></a>
+                       
+                        
+                        
+                    </li>
+                    <li class="last  2" >
+                            <meta itemprop="url" content="http://www.tolkien.sandbox.powa.com/category/The+Lord+of+the+Rings" /> 
+                            <span>The Lord of the Rings</span>
+                       
+                        
+                        
+                        
+                        
+                    </li>
+            </ul>
+        </div>
+        <div class="nofloat"></div>
+    </div>
+
+                                            <div class="nofloat"></div>
+                                        </div>
+                                        <div class="c4">
+                                            <div class="c3">
+                                                <div class="btm"></div>
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        <table id="middleContainer">
+                                            <tr>
+                                                <td class="leftContainer">
+        <div class="textSection">
+       <div class="block">
+               <div class="corner1"><div class="corner2"><div class="lineTop"></div></div></div>
+               <div class="cont">
+            <p>
+	<style type="text/css">
+a:link {
+text-decoration:none;
+color:#B6991E;
+}
+a:visited {
+text-decoration:none;
+color:#B6991E;
+}
+a:hover {
+text-decoration:underline;
+color:#B6991E;
+}	</style>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border: 2px solid #E4E4E4; margin-top:10px;">
+	<tbody>
+		<tr>
+			<td style="border-color:#666666; padding:10px;">
+				<h1 style="font-size:32px; padding-bottom:0px;">
+					The Lord of the Rings</h1>
+				<p style="padding-top:0px;">
+					<strong>Author:</strong> <a href="/page/Features+%26+News/J.R.R.+tolkien">J. R. R. Tolkien</a></p>
+				<p>
+					The Lord of the Rings is a timeless classic consisting of the three books; The Fellowship of the Ring, The Two Towers &amp; The Return of the King.<br />
+					<a href="#summary">Read more &raquo;</a></p>
+				<p>
+					<strong>Characters: </strong>Gandalf, Aragorn, Frodo Baggins, Sauron, Legolas<br />
+					<strong>First Published:</strong> 1954<br />
+					<strong>Preceded by:</strong><br />
+					<a href="/category/The+Hobbit">The Hobbit</a></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+
+               </div>
+               <div class="corner4"><div class="corner3"><div class="lineBtm"></div></div></div>
+       </div>
+<div class="nofloat"></div>
+</div>
+
+        <div class="guidedSearchSection">
+
+<div class="appliedFiltersSection">
+<div id="Catfilters"></div>
+</div>
+
+<h3 class="heading">Refine your search by:</h3>
+<div id="Catfacets"></div>
+   
+</div>
+                                                </td>
+
+                                                <td class="centerContainer">
+                                                    <div class="c1">
+                                                        <div class="c2">
+                                                            <div class="top"></div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="content-wrapper">
+                                                            <a name="main"></a>
+                                                                                <span id="serch_error">
+                                                                    </span>
+        
+<script type="text/javascript"> <!--
+function onChangeSort(el, formId)
+{
+    var formToSubmit = this.document.getElementById(formId);
+    var inputs = formToSubmit.getElementsByTagName("input");
+    var psf, psfo;
+
+            if(el.value == '0')
+            {
+                psf = '2';
+                psfo = 'A';
+            }
+            if(el.value == '1')
+            {
+                psf = '2';
+                psfo = 'D';
+            }
+            if(el.value == '2')
+            {
+                psf = '1';
+                psfo = 'A';
+            }
+
+    for (var i = 0; i < inputs.length; i++)
+    {
+        if (inputs[i].name == 'psf')
+        {
+            inputs[i].value = psf;
+        }
+        if (inputs[i].name == 'psfo')
+        {
+            inputs[i].value = psfo;
+        }
+
+        clearPaging(inputs[i]);
+    }
+
+    formToSubmit.submit();
+}
+
+// --></script>
+<div class="categoryFilterSortSection">
+    <div class="block">
+        <div class="corner1">
+            <div class="corner2">
+                <div class="lineTop"></div>
+            </div>
+        </div>
+        <div class="cont">
+            <div class="orderBlock">
+                <span class="sort">
+                    <label>Sort:</label>
+                    <select onchange="onChangeSort(this, 'filterForm')" name="psf" autocomplete="off">
+                                <option value="0" selected="selected">Price: low to high</option>
+                                <option value="1">Price: high to low</option>
+                                <option value="2">Name</option>
+                    </select>
+                </span>
+            </div>
+        </div>
+        <div class="corner4">
+            <div class="corner3">
+                <div class="lineBtm"></div>
+            </div>
+        </div>
+    </div>
+    <div class="nofloat"></div>
+</div>
+
+        <div lmzone="Category" facetdomid="Catfacets" filterdomid="Catfilters" class="locaytaZone"></div>
+
+
+        <script type="text/javascript">
+LM.config("categorytree", "the_lord_of_the_rings");
+LM.config("category", "the_lord_of_the_rings");
+</script>
+                                                        </div>
+                                                    </div>
+                                                    <div class="c4">
+                                                        <div class="c3">
+                                                            <div class="btm"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td id="footerContainer">
+                                        <div class="c1">
+                                            <div class="c2">
+                                                <div class="top"></div>
+                                            </div>
+                                        </div>
+                                        <div class="content">
+        <div class="textSection">
+       <div class="block">
+               <div class="corner1"><div class="corner2"><div class="lineTop"></div></div></div>
+               <div class="cont">
+            <h2 id="summary">
+	The Lord of The Rings Summary</h2>
+<p style="text-align: justify; ">
+	After the success of <em>The Hobbit</em>, J.R.R. Tolkien duly set pen to paper and began what would be the first chapter of <em>The Lord of the Rings</em>, but it would be another twelve years before he would complete it, stating &quot;my work has escaped from my control, and I have produced a monster... it is not really a sequel to The Hobbit, but to The Silmarillion.&quot; Another four years passed while the &quot;monster&quot; was tirelessly worked on and in 1954 the first part of this towering work, <em>The Fellowship of the Ring</em>, was published. Four months after this <em>The Two Towers</em> appeared, and eleven months later <em>The Return of the King</em>. It would be over a decade before <em>The Lord of the Rings</em> became available in a single volume; now it can be read and enjoyed in paperback and hardback, with or without illustrations, in one volume or three, on audio CD or as a download, as a deluxe slipcased edition and as an ebook.</p>
+
+               </div>
+               <div class="corner4"><div class="corner3"><div class="lineBtm"></div></div></div>
+       </div>
+<div class="nofloat"></div>
+</div>
+
+        <div class="textSection">
+       <div class="block">
+               <div class="corner1"><div class="corner2"><div class="lineTop"></div></div></div>
+               <div class="cont">
+            
+<ul>
+	<li id="0" style="padding-left:00px; padding-right:7px;" >
+		<a href="/page/Delivery+%26+Returns">Delivery &amp; Returns</a></li>
+	<li id="1" style="padding-left:3px; padding-right:7px;" >
+		<a href="/enquiry/Contact+Us">Contact Us</a></li>
+	<li id="2" style="padding-left:3px; padding-right:7px;" >
+		<a href="/page/Terms+of+use">Terms of use</a></li>
+	<li id="3" style="padding-left:3px; padding-right:7px;" >
+		<a href="/page/Privacy+Policy">Privacy Policy</a></li>
+	<li id="4" style="padding-left:3px; padding-right:7px;" >
+		<a href="/page/Legal+Notices">Legal Notices</a></li>
+	<li id="5" style="padding-left:3px; padding-right:7px;" >
+		<a href="/page/FAQs">FAQs</a></li>
+	<li id="6" style="padding-left:3px; padding-right:7px;" >
+		<a href="/account/register">Register</a></li>
+	<li id="7" style="padding-left:3px; padding-right:7px;" >
+		<a href="/page/Site+Map">Site Map</a></li>
+	<li class="last" style="padding-left:3px; padding-right:0px;" >
+		<a href="https://plus.google.com/112583460472181244509"
+ rel="publisher">Google+</a></li>
+</ul>
+
+               </div>
+               <div class="corner4"><div class="corner3"><div class="lineBtm"></div></div></div>
+       </div>
+<div class="nofloat"></div>
+</div>
+
+        <div class="nofloat"></div>
+<div id="divPoweredBy" style="display:block;">
+<div class="pciCompliant">
+	<a onclick="window.open('/page/PCI+Compliant', '', 'toolbar=no, status=no, scrollbars=no, resizable=no, width=565, height=665')">
+		<img src="/template/resource/runtime/1212/g16/static/images/pciLogo.png" title="PCI Compliant" alt="PCI Compliant"/>
+	</a>
+</div>
+<div class="poweredBy">
+<img class="cards" src="/template/resource/runtime/1212/g16/static/images/icons/cards2.png" width="74" height="28" alt="MasterCard, Visa"/>
+	<img class="locayta" src="/template/resource/runtime/1212/g16/static/images/LocaytaLogo.png" title="Search technology provided by Locayta" alt="Search technology provided by Locayta"/>
+    
+	<a href="http://powa.com/" rel="popup" target="_blank">
+		<img src="/template/resource/runtime/1212/g16/static/images/poweredBy.png" title="Powa Website and Shopping Cart Solutions" alt="Powa Website and Shopping Cart Solutions"/>
+	</a>
+</div>
+</div>
+<div class="nofloat"></div>
+ <span style="display:none;">Page Type = 2</span>
+        <div id="disclaimerSection">
+    <div class="block">
+        <p><p class="notice">
+	&copy; 2014 HarperCollins Publishers Ltd, registered in Scotland, Company No. 27389. Registered address: Westerhill Road, Bishopsbriggs, Glasgow G64 2QT. Tolkien, various forms of Tolkien&rsquo;s signature and monogram, and the titles of Tolkien&rsquo;s works are registered trade marks of The J.R.R. Tolkien Estate Limited and/or its licensees. HarperCollins Publishers Ltd and The J.R.R. Tolkien Estate Limited expressly reserve all their rights in the content of the site.</p>
+<p class="copyright">
+	&nbsp;</p>
+<p class="notice">
+	&copy; Warner Bros. Entertainment Inc. All rights reserved. THE HOBBIT: THE DESOLATION OF SMAUG and the names of the characters, items, events and places therein are trademarks of The Saul Zaentz Company d/b/a Middle-earth Enterprises under license to New Line Productions, Inc.</p>
+<p class="notice">
+	(s13)</p>
+</p>
+    </div>
+    <div class="nofloat"></div>
+</div>
+                                            <div class="nofloat"></div>
+                                        </div>
+                                        <div class="c4">
+                                            <div class="c3">
+                                                <div class="btm"></div>
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="browserUpgrade">
+  <h2>Upgrade your browser to view this website.</h2>
+	<p>Outdated browsers such as Internet Explorer 6 (released in 2001) do not offer the latest features avaliable in modern browsers.</p>
+	<p>Older browsers are also no longer supported, and are thus vulnerable to security threats.</p>
+	<h3>Choose your new browser today and enjoy a better online experience</h3>
+	<div class="browserList">
+	  <div class="browser chrome">
+		  <a href="https://www.google.com/intl/en/chrome/browser/" target="_blank">
+			  <img src="/template/resource/runtime/1212/g16/static/images/browser_icon_chrome.png" alt="" width="120" height="124" />
+				<span>Chrome</span>
+			</a>
+		</div>
+	  <div class="browser firefox">
+		  <a href="http://www.mozilla.org/en-US/firefox/" target="_blank">
+			  <img src="/template/resource/runtime/1212/g16/static/images/browser_icon_firefox.png" alt="" width="120" height="124" />
+				<span>Firefox</span>
+			</a>
+		</div>
+	  <div class="browser safari">
+		  <a href="http://www.apple.com/safari/" target="_blank">
+			  <img src="/template/resource/runtime/1212/g16/static/images/browser_icon_safari.png" alt="" width="120" height="124" />
+				<span>Safari</span>
+			</a>
+		</div>
+	  <div class="browser opera">
+		  <a href="http://www.opera.com/" target="_blank">
+			  <img src="/template/resource/runtime/1212/g16/static/images/browser_icon_opera.png" alt="" width="120" height="124" />
+				<span>Opera</span>
+			</a>
+		</div>
+	  <div class="browser ie">
+		  <a href="http://windows.microsoft.com/en-US/internet-explorer/download-ie" target="_blank">
+			  <img src="/template/resource/runtime/1212/g16/static/images/browser_icon_ie.png" alt="" width="120" height="124" />
+				<span>Internet Explorer</span>
+			</a>
+		</div>
+	</div>
+</div>
+<div id="zoomViewfinder" style="display:none;"></div>
+<div id="signup" style="display:none;" class="popUpOverlay">
+<div id="pageTitle">
+<h2>Sign up</h2>
+</div>
+<iframe src="" border=â0â width="100%" height="600" style="border:none;" onload="javascript: if(typeof ewt != 'undefined' && ewt && ewt.setIFrameSrc) ewt.setIFrameSrc(this, 'https://www.pages01.net/harpercollinspublishersltd/tolkien/StandardForm'); else if(this.src != 'https://www.pages01.net/harpercollinspublishersltd/tolkien/StandardForm') this.src = 'https://www.pages01.net/harpercollinspublishersltd/tolkien/StandardForm';" >
+</iframe>
+
+</div>
+
+<script type="text/javascript">
+	if ($("body").hasClass("pageProductDetails"))
+	{
+	//document.write("<scr" + "ipt type='text/javascript' src='/template/resource/runtime/1212/g16/static/js/lib/jquery.galleriffic.js'></scr" + "ipt>");
+	//document.write("<scr" + "ipt type='text/javascript' src='/template/resource/runtime/1212/g16/static/js/lib/jquery.zooma-1.3.2.min.js'></scr" + "ipt>");
+	document.write("<scr" + "ipt type='text/javascript' src='/template/resource/runtime/1212/g16/static/js/lib/jquery.carouselLite.js'></scr" + "ipt>");
+	}
+	</script>
+
+  <script type="text/javascript" language="JavaScript" src="/template/resource/runtime/1212/g16/static/js/lib/jcycle.js"></script>
+	<script type="text/javascript" language="JavaScript" src="/template/resource/runtime/1212/g16/static/js/custom.js"></script>
+</body>
+</html>

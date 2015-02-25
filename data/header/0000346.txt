@@ -1,0 +1,14 @@
+Age: 84
+Cache-Control: max-age=3600
+Content-Type: text/html; charset=utf-8
+Date: Sat, 21 Feb 2015 00:57:29 GMT
+ETag: "8229564818c5260e1345d6f6218fadf5"
+Last-Modified: Sat, 21 Feb 2015 00:54:58 GMT
+Vary: Accept-Encoding
+Via: 1.1 varnish
+X-Backend: web1
+X-Cacheable: YES
+X-Varnish: 956148626 956147481
+transfer-encoding: chunked
+Connection: Close
+

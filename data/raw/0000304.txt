@@ -1,0 +1,1556 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,t,e){function r(e){if(!t[e]){var o=t[e]={exports:{}};n[e][0].call(o.exports,function(t){var o=n[e][1][t];return r(o?o:t)},o,o.exports)}return t[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({QJf3ax:[function(n,t){function e(n){function t(t,e,a){n&&n(t,e,a),a||(a={});for(var u=c(t),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,e);return s}function a(n,t){f[n]=c(n).concat(t)}function c(n){return f[n]||[]}function u(){return e(t)}var f={};return{on:a,emit:t,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");t.exports=e()},{gos:"7eSDFh"}],ee:[function(n,t){t.exports=n("QJf3ax")},{}],gos:[function(n,t){t.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,t){function e(n,t,e){if(r.call(n,t))return n[t];var o=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,t,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[t]=o,o}var r=Object.prototype.hasOwnProperty;t.exports=e},{}],D5DuLP:[function(n,t){function e(n,t,e){return r.listeners(n).length?r.emit(n,t,e):(o[n]||(o[n]=[]),void o[n].push(t))}var r=n("ee").create(),o={};t.exports=e,e.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,t){t.exports=n("D5DuLP")},{}],XL7HBI:[function(n,t){function e(n){var t=typeof n;return!n||"object"!==t&&"function"!==t?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");t.exports=e},{gos:"7eSDFh"}],id:[function(n,t){t.exports=n("XL7HBI")},{}],loader:[function(n,t){t.exports=n("G9z0Bl")},{}],G9z0Bl:[function(n,t){function e(){var n=v.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(d,function(t,e){t in n||(n[t]=e)}),v.proto="https"===l.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var t=f.createElement("script");t.src=v.proto+n.agent,f.body.appendChild(t)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=window,f=u.document,s="addEventListener",p="attachEvent",l=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},v=t.exports={offset:i(),origin:l,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(f[p]("onreadystatechange",r),u[p]("onload",e)),a("mark",["firstbyte",i()])},{1:11,handle:"D5DuLP"}],11:[function(n,t){function e(n,t){var e=[],o="",i=0;for(o in n)r.call(n,o)&&(e[i]=t(o,n[o]),i+=1);return e}var r=Object.prototype.hasOwnProperty;t.exports=e},{}]},{},["G9z0Bl"]);</script>
+
+        <!-- iOS metadata -->
+        <meta name="apple-mobile-web-app-capable" content="no">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+
+
+        <link rel="apple-touch-icon-precomposed" href="http://assets.allmusic.com/images/ios/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://assets.allmusic.com/images/ios/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://assets.allmusic.com/images/ios/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://assets.allmusic.com/images/ios/apple-touch-icon-144x144.png">
+
+        <link rel="shortcut icon" href="http://assets.allmusic.com/images/favicon.ico" type="image/x-icon" />
+        <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss" />
+
+        	<meta name="title" content="Michael Jackson | Songs | AllMusic">
+	<meta name="keywords" content="Bad,Beat It,Ben,Billie Jean,Black or White,Blood on the Dance Floor,Dirty Diana,Don&#039;t Stop &#039;Til You Get Enough,Earth Song,Got to Be There">
+	<meta name="description" content="Find Michael Jackson song information on AllMusic">
+	<meta name="image" content="http://cps-static.rovicorp.com/3/JPG_250/MI0003/641/MI0003641474.jpg?partner=allrovi.com">
+
+        <meta property="og:site_name" content="AllMusic">
+
+	<meta property="og:title" content="Michael Jackson | Songs | AllMusic">
+	<meta itemprop="name" content="Michael Jackson | Songs | AllMusic">
+	<meta name="twitter:title" content="Michael Jackson | Songs | AllMusic">
+
+	<meta property="og:description" content="Find Michael Jackson song information on AllMusic">
+	<meta itemprop="description" content="Find Michael Jackson song information on AllMusic">
+	<meta name="twitter:description" content="Find Michael Jackson song information on AllMusic">
+
+	<meta property="og:image" content="http://cps-static.rovicorp.com/3/JPG_250/MI0003/641/MI0003641474.jpg?partner=allrovi.com">
+	<meta itemprop="image" content="http://cps-static.rovicorp.com/3/JPG_250/MI0003/641/MI0003641474.jpg?partner=allrovi.com">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:image" content="http://cps-static.rovicorp.com/3/JPG_250/MI0003/641/MI0003641474.jpg?partner=allrovi.com">
+
+        <meta property="og:image" content="http://assets.allmusic.com/images/allmusic_facebook_share.png">
+        <meta property="og:url" content="http://www.allmusic.com/artist/michael-jackson-mn0000467203/songs">
+
+        <link rel="canonical" href="http://www.allmusic.com/artist/michael-jackson-mn0000467203/songs">
+
+        <title>Michael Jackson | Songs | AllMusic</title>
+
+        <link type="text/css" rel="stylesheet" href="http://assets.allmusic.com/css/global/global.css">
+
+                    <link type="text/css" rel="stylesheet" href="http://assets.allmusic.com/css/pages/artist/artist.css">
+        
+        <!-- Alexa tag -->
+        <meta name="alexaVerifyID" content="SfgYrX5roRNK_iy-Mr_tFkRlY7M"/>
+
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-7096127-1', 'auto');
+
+                                ga('send', 'pageview', 'artist/michael-jackson-mn0000467203/songs');
+                        setTimeout("ga('send','event','adjusted bounce rate','page visit 15 seconds or more')",15000);
+                </script>
+
+
+        <!-- Media query polyfill ( Always require because loading via dynamic ajax injection is too slow [the enquire.js will fire before the ajax completes] ) -->
+        <script src="http://assets.allmusic.com/js/lib/media.match.min.js"></script>
+
+        <script src="http://assets.allmusic.com/cache/setup.1423603314.js"></script>
+
+                    <script type="text/javascript">
+   // Get Mobile User agent
+   var isMobileUa = /iPhone|iPod|BlackBerry|Opera Mini|(android|bb\d+|meego).+mobile/i.test(navigator.userAgent);
+   // Get the browser width
+   var browserwidth = window.innerWidth;
+</script>
+<script type="text/javascript">
+   if (isMobile_AllMusic ) {
+       cmnunt_site = 'allmusic_mob';
+   } else {
+       cmnunt_site = 'allmusic';
+   }
+   cmnunt_silo = 's_mus';
+   cmnunt_subsilo = '';
+   cmnunt_tier = 'to,t2,internal';
+   cmnunt_zone = 'artist';
+   cmnunt_kw = 'artist_id=MN0000467203,genre=R&B,Pop/Rock,blockadex=FALSE,pagename=artist';
+   cmnunt_exclude = '';
+if (isMobile_AllMusic) {
+document.write('<scr'+'ipt type="text/javascript" src="http://cdn.complexmedianetwork.com/js/cmnUNTmobile.js"></scr'+'ipt>')
+} else {
+document.write('<scr'+'ipt type="text/javascript" src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></scr'+'ipt>')
+}
+</script>        
+    </head>
+    <body>
+        <noscript>
+            <div class="javascript-disabled" id="no-js">
+                AllMusic relies heavily on JavaScript.<br>
+                Please enable JavaScript in your browser to use the site fully.
+            </div>
+        </noscript>
+        <div class="stripe-container header-leaderboard">
+    <div class="advertising leaderboard">
+                    <div id="cmn_ad_tag_head" class="fw_allmusic">    <!-- 3x3 Ad Tag -->    <script type="text/javascript">        cmnUNT('3x3', tile_num++);    </script></div>            </div>
+</div>
+
+<div class="overflow-container artist">
+
+<div class="stripe-container header-main-nav clearfix">
+    <div class="max-header">
+        <div class="main-nav">
+
+    <div class="logo-container">
+        <a class="logo no-snap" href="/">
+            <h1>AllMusic</h1>
+        </a>
+    </div>
+
+    <nav class="mobile-menu"></nav>
+
+    <div class="search-container">
+        <form class="site-search" method="post" name="site-search" action="/search">
+            <input type="submit" class="site-search-button" name="submit">
+            <input type="search" class="site-search-input" name="term" placeholder="Search" tabindex="1">
+        </form>
+    </div>
+
+    <nav class="site-nav">
+        <ul>
+            <li class="new-releases">
+                <a href="/newreleases">New Releases</a>
+                <ul class="new-releases-nav">
+    <div class="sub-nav-container">
+        <div class="sub-nav-columns">
+            <div class="new-releases-subnav left">
+                <li class="nr-featured">
+                    <a href="/newreleases">Featured New Releases</a>
+                </li>
+                <li class="nr-editorschoice">
+                    <a href="/newreleases/editorschoice">Editors' Choice</a>
+                </li>
+                <li class="nr-all">
+                    <a href="/newreleases/all">All New Releases</a>
+                </li>
+            </div>
+            <div class="new-releases-subnav right">
+                <div class="sub-nav-content">
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</ul>            </li>
+            <li class="discover">
+                <a href="/discover">Discover</a>
+                <ul class="discover-nav">
+    <div class="sub-nav-container">
+        <div class="sub-nav-columns left">
+            <li class="discover-genres active">
+                <a href="/genres">Genres<span class="genres-arrow" style="display:none">&nbsp;&nbsp;&rsaquo;</span></a>
+            </li>
+            <li class="discover-moods">
+                <a href="/moods">Moods<span class="moods-arrow" style="display:none">&nbsp;&nbsp;&rsaquo;</span></a>
+            </li>
+            <li class="discover-themes">
+                <a href="/themes">Themes<span class="themes-arrow" style="display:none">&nbsp;&nbsp;&rsaquo;</span></a>
+            </li>
+        </div>
+        <div class="sub-nav-columns right">
+            <ul class="discover-genre-secondary">
+    <div class="genre-column">
+        <!-- spacer to prevent hover weirdness -->
+    </div>
+    <div class="genre-column">
+        <li class="individual">
+            <a href="/genre/blues-ma0000002467">Blues</a>
+        </li>
+        <li class="individual">
+            <a href="/genre/classical-ma0000002521">Classical</a>
+        </li>
+        <li class="individual">
+            <a href="/genre/country-ma0000002532">Country</a>
+        </li>
+    </div>
+    <div class="genre-column">
+        <li class="individual">
+            <a href="/genre/electronic-ma0000002572">Electronic</a>
+        </li>
+        <li class="individual">
+            <a href="/genre/folk-ma0000002592">Folk</a>
+        </li>
+        <li class="individual">
+            <a href="/genre/international-ma0000002660">International</a>
+        </li>
+    </div>
+    <div class="genre-column">
+        <li class="individual">
+            <a href="/genre/jazz-ma0000002674">Jazz</a>
+        </li>
+        <li class="individual">
+            <a href="/genre/latin-ma0000002692">Latin</a>
+        </li>
+        <li class="individual">
+            <a href="/genre/new-age-ma0000002745">New Age</a>
+        </li>
+    </div>
+    <div class="genre-column">
+        <li class="individual">
+            <a href="/genre/pop-rock-ma0000002613">Pop/Rock</a>
+        </li>
+        <li class="individual">
+            <a href="/genre/rap-ma0000002816">Rap</a>
+        </li>
+        <li class="individual">
+            <a href="/genre/r-b-ma0000002809">R&amp;B</a>
+        </li>
+    </div>
+    <div class="genre-column">
+        <li class="individual">
+            <a href="/genre/reggae-ma0000002820">Reggae</a>
+        </li>
+        <li class="individual">
+            <a href="/genre/stage-screen-ma0000004432">Stage &amp; Screen</a>
+        </li>
+        <li class="last">
+            <a href="/genres">All Genres</a>
+        </li>
+    </div>
+</ul>            <ul class="discover-mood-secondary" style="display:none;">
+    <div class="mood-column">
+        <!-- spacer to prevent hover weirdness -->
+    </div>
+    <div class="mood-column">
+        <li class="individual">
+            <a href="/mood/aggressive-xa0000000694">Aggressive</a>
+        </li>
+        <li class="individual">
+            <a href="/mood/bittersweet-xa0000000946">Bittersweet</a>
+        </li>
+        <li class="individual">
+            <a href="/mood/druggy-xa0000000979">Druggy</a>
+        </li>
+    </div>
+    <div class="mood-column">
+        <li class="individual">
+            <a href="/mood/energetic-xa0000000990">Energetic</a>
+        </li>
+        <li class="individual">
+            <a href="/mood/happy-xa0000001016">Happy</a>
+        </li>
+        <li class="individual">
+            <a href="/mood/hypnotic-xa0000000719">Hypnotic</a>
+        </li>
+    </div>
+    <div class="mood-column">
+        <li class="individual">
+            <a href="/mood/laid-back-mellow-xa0000001032">Laid Back/Mellow</a>
+        </li>
+        <li class="individual">
+            <a href="/mood/melancholy-xa0000000734">Melancholy</a>
+        </li>
+        <li>
+            <a href="/mood/passionate-xa0000001062">Passionate</a>
+        </li>
+    </div>
+    <div class="mood-column">
+        <li class="individual">
+            <a href="/mood/romantic-xa0000000758">Romantic</a>
+        </li>
+        <li class="individual">
+            <a href="/mood/sad-xa0000000761">Sad</a>
+        </li>
+        <li>
+            <a href="/mood/sentimental-xa0000000765">Sentimental</a>
+        </li>
+    </div>
+    <div class="mood-column">
+        <li>
+            <a href="/mood/sexy-xa0000000770">Sexy</a>
+        </li>
+        <li class="individual">
+            <a href="/mood/trippy-xa0000000749">Trippy</a>
+        </li>
+        <li class="last">
+            <a href="/moods">All Moods</a>
+        </li>
+    </div>
+</ul>            <ul class="discover-theme-secondary" style="display:none;">
+    <div class="theme-column">
+        <!-- spacer to prevent hover weirdness -->
+    </div>
+    <div class="theme-column">
+        <li class="individual">
+            <a href="/theme/background-music-ma0000006329">Background Music</a>
+        </li>
+        <li class="individual">
+            <a href="/theme/celebration-ma0000005042">Celebration</a>
+        </li>
+        <li class="individual">
+            <a href="/theme/cool-cocky-ma0000006328">Cool & Cocky</a>
+        </li>
+    </div>
+    <div class="theme-column">
+        <li class="individual">
+            <a href="/theme/drinking-ma0000004252">Drinking</a>
+        </li>
+        <li class="individual">
+            <a href="/theme/hanging-out-ma0000006297">Hanging Out</a>
+        </li>
+        <li class="individual">
+            <a href="/theme/in-love-ma0000005076">In Love</a>
+        </li>
+    </div>
+    <div class="theme-column">
+        <li class="individual">
+            <a href="/theme/introspection-ma0000006318">Introspection</a>
+        </li>
+        <li class="individual">
+            <a href="/theme/late-night-ma0000006321">Late Night</a>
+        </li>
+        <li class="individual">
+            <a href="/theme/partying-ma0000004272">Partying</a>
+        </li>
+    </div>
+    <div class="theme-column">
+        <li class="individual">
+            <a href="/theme/rainy-day-ma0000005096">Rainy Day</a>
+        </li>
+        <li class="individual">
+            <a href="/theme/relaxation-ma0000006314">Relaxation</a>
+        </li>
+        <li class="individual">
+            <a href="/theme/road-trip-ma0000006287">Road Trip</a>
+        </li>
+    </div>
+    <div class="theme-column">
+        <li class="individual">
+            <a href="/theme/romantic-evening-ma0000006312">Romantic Evening</a>
+        </li>
+        <li class="individual">
+            <a href="/theme/sex-ma0000005107">Sex</a>
+        </li>
+        <li class="last">
+            <a href="/themes">All Themes</a>
+        </li>
+    </div>
+</ul>        </div>
+    </div>
+</ul>            </li>
+            <li class="blog">
+                <a href="/blog">Articles</a>
+                <ul>
+    <div class="sub-nav-container clearfix">
+        <div class="sub-nav-columns">
+            <div class="blog-list">
+                <li class="blog-features">
+                    <a href="/blog/features">Features</a>
+                </li>
+                <li class="blog-interviews">
+                    <a href="/blog/interviews-14">Interviews</a>
+                </li>
+                <li class="blog-lists">
+                    <a href="/blog/lists">Lists</a>
+                </li>
+            </div>
+            <div class="blog-list">
+                <li class="blog-stream">
+                    <a href="/blog/stream-and-download">Streams</a>
+                </li>
+                <li class="blog-promotions">
+                    <a href="/videos">Videos</a>
+                </li>
+                <li class="blog-all">
+                    <a href="/blog">All Posts</a>
+                </li>
+            </div>
+            <div class="blog-subnav right">
+                <div class="sub-nav-blog-content"></div>
+            </div>
+        </div>
+    </div>
+</ul>
+            </li>
+            <li class="recommendations">
+                <a href="/recommendations">Recommendations</a>
+            </li>
+            <li class="my-profile">
+                <a href="javascript:void(0)" class="my-profile-link">My Profile</a>
+            </li>
+            <li class="advanced-search">
+                <a href="/advanced-search" class="advanced-search-link">Advanced Search</a>
+            </li>
+        </ul>
+    </nav>
+
+    <div class="user-social-nav">
+        <nav class="social-nav">
+            <ul>
+                <li class="facebook">
+                    <a href="http://www.facebook.com/AllMusicDotCom" alt="Like us on Facebook" title="Like us on Facebook">Facebook</a>
+                </li>
+                <li class="twitter">
+                    <a href="https://twitter.com/#!/Allmusic" alt="Follow us on Twitter" title="Follow us on Twitter">Twitter</a>
+                </li>
+                <li class="google-plus">
+                    <a href="https://plus.google.com/101788172919569561373/posts" alt="Follow us on Google+" title="Follow us on Google+">Google</a>
+                </li>
+                <li class="rss">
+                    <a alt="Subscribe to our RSS feed" title="Subscribe to our RSS feed" alt="Subscribe to our RSS feed" href="/rss" target="_blank">RSS</a>
+                </li>
+            </ul>
+        </nav>
+
+        <nav class="user-notifications">
+            <ul>
+                <li class="user-notification-icon">
+                </li>
+            </ul>
+        </nav>
+
+        <nav class="user-nav"></nav>
+    </div>
+
+</div>    </div>
+</div>
+
+<div id="cmn_wrap">
+<div class="content-container" itemscope itemtype="http://schema.org/MusicGroup">
+
+    <div class="sidebar">
+                    <div class="artist-image">
+                <img src="http://cps-static.rovicorp.com/3/JPG_400/MI0003/641/MI0003641474.jpg?partner=allrovi.com" alt="Michael Jackson" itemprop="image">
+
+                
+                            </div>
+        
+        <div class="advertising medium-rectangle">
+            <!-- 300x250 Ad Tag --><script type="text/javascript">    cmnUNT('300x250,300x600', tile_num++);</script>        </div>
+
+        <section class="basic-info">
+
+            <div class="affiliates num-3">
+            <h4>Stream or buy on:</h4>
+
+            <ul class="partner-buttons">
+                                    <li>
+                        <a href="http://www.amazon.com/s/?field-keywords=music: &#34;Michael Jackson&#34;&tag=allmusicdotcom-20" data-target="amazon" class="amazon" title="Search on Amazon">
+                            Amazon
+                        </a>
+                    </li>
+                                
+                                    <li>
+                        <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Fwww.rdio.com%2Fartist%2FMichael_Jackson%2F" data-target="rdio" class="rdio" title="Stream from Rdio">
+                            Rdio
+                        </a>
+                    </li>
+                                                    <li>
+                        <a href="http://itunes.apple.com/artist/id32940?at=11l6Yq&ct=allmusic " data-target="itunes" class="itunes" title="Download from iTunes">
+                            iTunes
+                        </a>
+                    </li>
+                            </ul>
+        </div>
+    
+            <div class="active-dates">
+            <h4>Active</h4>
+            <div>1960s - 2000s</div>
+        </div>
+    
+    
+            <div class="birth">
+            <h4>
+                Born            </h4>
+            <div>
+                August 29, 1958                 in Gary, IN            </div>
+        </div>
+    
+            <div class="death">
+            <h4>
+                Died            </h4>
+            <div>
+                June 25, 2009                 in Los Angeles, CA            </div>
+        </div>
+    
+            <div class="genre">
+            <h4>Genre</h4>
+            <div>
+                                    <a href="http://www.allmusic.com/genre/r-b-ma0000002809">R&B</a>                                    <a href="http://www.allmusic.com/genre/pop-rock-ma0000002613">Pop/Rock</a>                            </div>
+        </div>
+    
+            <div class="styles">
+            <h4>Styles</h4>
+            <div>
+                                    <a href="http://www.allmusic.com/style/contemporary-r-b-ma0000002969">Contemporary R&B</a>                                    <a href="http://www.allmusic.com/style/motown-ma0000002735">Motown</a>                                    <a href="http://www.allmusic.com/style/pop-ma0000012254">Pop</a>                                    <a href="http://www.allmusic.com/style/soul-ma0000002865">Soul</a>                                    <a href="http://www.allmusic.com/style/new-jack-swing-ma0000005027">New Jack Swing</a>                                    <a href="http://www.allmusic.com/style/dance-pop-ma0000004548">Dance-Pop</a>                            </div>
+        </div>
+    
+            <div class="aliases">
+            <h4>Also Known As</h4>
+            <div>
+                                    <div>Michael Joseph Jackson</div>
+                                    <div>The King of Pop</div>
+                            </div>
+        </div>
+    
+            <div class="member-of">
+            <h4>Member Of</h4>
+            <div>
+                                    <a href="http://www.allmusic.com/artist/the-jackson-5-mn0000083013" data-tooltip="{&quot;id&quot;:&quot;MN0000083013&quot;,&quot;thumbnail&quot;:true}">The Jackson 5</a>                            </div>
+        </div>
+    
+    
+    <a href="http://www.allmusic.com/artist/michael-jackson-mn0000467203/corrections" class="submit-corrections">Submit Corrections</a>
+</section>
+
+            <section class="media-gallery" >
+        <h3>Photo Gallery</h3>
+
+        <div class="media-gallery-content">
+                                <div class="media-gallery-image thumbnail" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/3\/JPG_400\/MI0003\/641\/MI0003641474.jpg?partner=allrovi.com&quot;,&quot;height&quot;:352,&quot;width&quot;:400,&quot;formatid&quot;:64,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:3,&quot;zoomLevel&quot;:0}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/3/JPG_170/MI0003/641/MI0003641474.jpg?partner=allrovi.com" style="left:-8px;" width="146" height="128" alt="" data-debug="170x149 (63)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:1,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/3\/JPG_400\/MI0001\/467\/MI0001467861.jpg?partner=allrovi.com&quot;,&quot;height&quot;:400,&quot;width&quot;:243,&quot;formatid&quot;:64,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:3,&quot;zoomLevel&quot;:0}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/3/JPG_170/MI0001/467/MI0001467861.jpg?partner=allrovi.com" style="top:-43px;" width="130" height="214" alt="" data-debug="103x170 (63)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:1,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/3\/JPG_400\/MI0003\/641\/MI0003641472.jpg?partner=allrovi.com&quot;,&quot;height&quot;:400,&quot;width&quot;:260,&quot;formatid&quot;:64,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:3,&quot;zoomLevel&quot;:0}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/3/JPG_170/MI0003/641/MI0003641472.jpg?partner=allrovi.com" style="top:-36px;" width="130" height="200" alt="" data-debug="110x170 (63)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:1,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/3\/JPG_400\/MI0003\/641\/MI0003641477.jpg?partner=allrovi.com&quot;,&quot;height&quot;:400,&quot;width&quot;:264,&quot;formatid&quot;:64,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:3,&quot;zoomLevel&quot;:0}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/3/JPG_170/MI0003/641/MI0003641477.jpg?partner=allrovi.com" style="top:-34px;" width="130" height="197" alt="" data-debug="112x170 (63)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:1,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/3\/JPG_400\/MI0003\/641\/MI0003641484.jpg?partner=allrovi.com&quot;,&quot;height&quot;:400,&quot;width&quot;:267,&quot;formatid&quot;:64,&quot;author&quot;:&quot;Neil Zlozower&quot;,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:3,&quot;zoomLevel&quot;:0}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/3/JPG_170/MI0003/641/MI0003641484.jpg?partner=allrovi.com" style="top:-33px;" width="130" height="195" alt="Neil Zlozower" data-debug="113x170 (63)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:1,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/3\/JPG_400\/MI0003\/641\/MI0003641485.jpg?partner=allrovi.com&quot;,&quot;height&quot;:400,&quot;width&quot;:266,&quot;formatid&quot;:64,&quot;author&quot;:&quot;Sam Emerson&quot;,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:3,&quot;zoomLevel&quot;:0}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/3/JPG_170/MI0003/641/MI0003641485.jpg?partner=allrovi.com" style="top:-33px;" width="130" height="195" alt="Sam Emerson" data-debug="113x170 (63)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:1,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/3\/JPG_400\/MI0003\/641\/MI0003641479.jpg?partner=allrovi.com&quot;,&quot;height&quot;:400,&quot;width&quot;:268,&quot;formatid&quot;:64,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:3,&quot;zoomLevel&quot;:0}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/3/JPG_170/MI0003/641/MI0003641479.jpg?partner=allrovi.com" style="top:-32px;" width="130" height="193" alt="" data-debug="114x170 (63)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:1,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/3\/JPG_400\/MI0003\/641\/MI0003641483.jpg?partner=allrovi.com&quot;,&quot;height&quot;:400,&quot;width&quot;:268,&quot;formatid&quot;:64,&quot;author&quot;:&quot;Sam Emerson&quot;,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:3,&quot;zoomLevel&quot;:0}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/3/JPG_170/MI0003/641/MI0003641483.jpg?partner=allrovi.com" style="top:-32px;" width="130" height="193" alt="Sam Emerson" data-debug="114x170 (63)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:1,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/3\/JPG_400\/MI0001\/335\/MI0001335731.jpg?partner=allrovi.com&quot;,&quot;height&quot;:400,&quot;width&quot;:339,&quot;formatid&quot;:64,&quot;author&quot;:&quot;Herb Ritts&quot;,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:3,&quot;zoomLevel&quot;:0}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/3/JPG_170/MI0001/335/MI0001335731.jpg?partner=allrovi.com" style="top:-12px;" width="130" height="153" alt="Herb Ritts" data-debug="144x170 (63)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:1,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/3\/JPG_400\/MI0001\/336\/MI0001336670.jpg?partner=allrovi.com&quot;,&quot;height&quot;:400,&quot;width&quot;:350,&quot;formatid&quot;:64,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:3,&quot;zoomLevel&quot;:0}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/3/JPG_170/MI0001/336/MI0001336670.jpg?partner=allrovi.com" style="top:-10px;" width="130" height="148" alt="" data-debug="149x170 (63)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:1,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/3\/JPG_400\/MI0001\/337\/MI0001337581.jpg?partner=allrovi.com&quot;,&quot;height&quot;:400,&quot;width&quot;:357,&quot;formatid&quot;:64,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:3,&quot;zoomLevel&quot;:0}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/3/JPG_170/MI0001/337/MI0001337581.jpg?partner=allrovi.com" style="top:-9px;" width="130" height="146" alt="" data-debug="151x170 (63)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:1,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/3\/JPG_400\/MI0001\/399\/MI0001399301.jpg?partner=allrovi.com&quot;,&quot;height&quot;:400,&quot;width&quot;:391,&quot;formatid&quot;:64,&quot;author&quot;:&quot;Matthew Rolston&quot;,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:3,&quot;zoomLevel&quot;:0}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/3/JPG_170/MI0001/399/MI0001399301.jpg?partner=allrovi.com" style="top:-2px;" width="130" height="133" alt="Matthew Rolston" data-debug="166x170 (63)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:1,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/3\/JPG_400\/MI0003\/090\/MI0003090311.jpg?partner=allrovi.com&quot;,&quot;height&quot;:400,&quot;width&quot;:395,&quot;formatid&quot;:64,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:3,&quot;zoomLevel&quot;:0}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/3/JPG_170/MI0003/090/MI0003090311.jpg?partner=allrovi.com" style="top:-1px;" width="130" height="131" alt="" data-debug="168x170 (63)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:1,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/3\/JPG_400\/MI0003\/641\/MI0003641478.jpg?partner=allrovi.com&quot;,&quot;height&quot;:400,&quot;width&quot;:397,&quot;formatid&quot;:64,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:3,&quot;zoomLevel&quot;:0}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/3/JPG_170/MI0003/641/MI0003641478.jpg?partner=allrovi.com" style="top:-1px;" width="130" height="131" alt="" data-debug="168x170 (63)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:1,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/3\/JPG_400\/MI0001\/467\/MI0001467855.jpg?partner=allrovi.com&quot;,&quot;height&quot;:400,&quot;width&quot;:398,&quot;formatid&quot;:64,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:3,&quot;zoomLevel&quot;:0}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/3/JPG_170/MI0001/467/MI0001467855.jpg?partner=allrovi.com" style="top:-1px;" width="130" height="130" alt="" data-debug="169x170 (63)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:1,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/3\/JPG_400\/MI0001\/400\/MI0001400205.jpg?partner=allrovi.com&quot;,&quot;height&quot;:274,&quot;width&quot;:400,&quot;formatid&quot;:64,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:3,&quot;zoomLevel&quot;:0}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/3/JPG_170/MI0001/400/MI0001400205.jpg?partner=allrovi.com" style="left:-28px;" width="187" height="128" alt="" data-debug="170x116 (63)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:2,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/3\/JPG_400\/MI0001\/469\/MI0001469193.jpg?partner=allrovi.com&quot;,&quot;height&quot;:400,&quot;width&quot;:289,&quot;formatid&quot;:64,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:3,&quot;zoomLevel&quot;:0}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/3/JPG_170/MI0001/469/MI0001469193.jpg?partner=allrovi.com" style="top:-26px;" width="130" height="181" alt="" data-debug="122x170 (63)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:2,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/3\/JPG_400\/MI0001\/334\/MI0001334314.jpg?partner=allrovi.com&quot;,&quot;height&quot;:400,&quot;width&quot;:361,&quot;formatid&quot;:64,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:2,&quot;zoomLevel&quot;:0}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/3/JPG_170/MI0001/334/MI0001334314.jpg?partner=allrovi.com" style="top:-8px;" width="130" height="144" alt="" data-debug="153x170 (63)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/Getty\/Michael%20Jackson\/_derived_jpg_q90_480x800_m0\/51130128.jpg?partner=allrovi.com&quot;,&quot;height&quot;:749,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:&quot;Dave Hogan\/Getty Images Entertainment\/Getty Images&quot;,&quot;imageTypeId&quot;:17,&quot;zoomLevel&quot;:1}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/Getty/Michael%20Jackson/_derived_jpg_q90_250x250_m0/51130128.jpg?partner=allrovi.com" style="top:-37px;" width="130" height="203" alt="" data-debug="160x250 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/Getty\/Michael%20Jackson\/_derived_jpg_q90_480x800_m0\/72565691.jpg?partner=allrovi.com&quot;,&quot;height&quot;:718,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:&quot;Getty Images&quot;,&quot;copyrightOwner&quot;:&quot;Dave Hogan\/Getty Images Entertainment\/Getty Images&quot;,&quot;imageTypeId&quot;:17,&quot;zoomLevel&quot;:1}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/Getty/Michael%20Jackson/_derived_jpg_q90_250x250_m0/72565691.jpg?partner=allrovi.com" style="top:-33px;" width="130" height="195" alt="Getty Images" data-debug="166x250 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/Getty\/Michael%20Jackson\/_2by3\/_derived_jpg_q90_480x800_m0\/85258408.jpg?partner=allrovi.com&quot;,&quot;height&quot;:720,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:&quot;Tim Whitby\/Getty Images Entertainment\/Getty Images&quot;,&quot;imageTypeId&quot;:17,&quot;zoomLevel&quot;:2}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/Getty/Michael%20Jackson/_2by3/_derived_jpg_q90_250x250_m0/85258408.jpg?partner=allrovi.com" style="top:-33px;" width="130" height="195" alt="" data-debug="166x250 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/Germany\/ARTE\/Michael%20Jackson%20-%20The%20Immortal%20World%20Tour\/_derived_jpg_q90_480x800_m0\/120624_jacksonkarriere_02.jpg?partner=allrovi.com&quot;,&quot;height&quot;:640,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:8,&quot;zoomLevel&quot;:2}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/Germany/ARTE/Michael%20Jackson%20-%20The%20Immortal%20World%20Tour/_derived_jpg_q90_250x250_m0/120624_jacksonkarriere_02.jpg?partner=allrovi.com" style="top:-22px;" width="130" height="173" alt="" data-debug="187x250 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/Germany\/ARTE\/Michael%20Jackson%20-%20The%20Immortal%20World%20Tour\/_derived_jpg_q90_480x800_m0\/120624_jacksonkarriere_04.jpg?partner=allrovi.com&quot;,&quot;height&quot;:640,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:8,&quot;zoomLevel&quot;:2}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/Germany/ARTE/Michael%20Jackson%20-%20The%20Immortal%20World%20Tour/_derived_jpg_q90_250x250_m0/120624_jacksonkarriere_04.jpg?partner=allrovi.com" style="top:-22px;" width="130" height="173" alt="" data-debug="187x250 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/Germany\/ARTE\/Michael%20Jackson%20-%20The%20Immortal%20World%20Tour\/_derived_jpg_q90_480x800_m0\/120624_jacksonkarriere_03.jpg?partner=allrovi.com&quot;,&quot;height&quot;:640,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:8,&quot;zoomLevel&quot;:3}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/Germany/ARTE/Michael%20Jackson%20-%20The%20Immortal%20World%20Tour/_derived_jpg_q90_250x250_m0/120624_jacksonkarriere_03.jpg?partner=allrovi.com" style="top:-22px;" width="130" height="173" alt="" data-debug="187x250 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/Germany\/ARTE\/Michael%20Jackson%20-%20The%20Immortal%20World%20Tour\/_derived_jpg_q90_480x800_m0\/hero.jpg?partner=allrovi.com&quot;,&quot;height&quot;:240,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:8,&quot;zoomLevel&quot;:3}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/Germany/ARTE/Michael%20Jackson%20-%20The%20Immortal%20World%20Tour/_derived_jpg_q90_250x250_m0/hero.jpg?partner=allrovi.com" style="left:-63px;" width="256" height="128" alt="" data-debug="250x125 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/Germany\/ARTE\/Michael%20Jackson%20-%20The%20Immortal%20World%20Tour\/_derived_jpg_q90_480x800_m0\/120624_jacksonkarriere_01.jpg?partner=allrovi.com&quot;,&quot;height&quot;:360,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:8,&quot;zoomLevel&quot;:3}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/Germany/ARTE/Michael%20Jackson%20-%20The%20Immortal%20World%20Tour/_derived_jpg_q90_250x250_m0/120624_jacksonkarriere_01.jpg?partner=allrovi.com" style="left:-20px;" width="171" height="128" alt="" data-debug="250x187 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/TLC\/Michael%20Jackson's%20Kids-%20Hidden%20Lives\/_derived_jpg_q90_480x800_m0\/21160_86435427_10.jpg?partner=allrovi.com&quot;,&quot;height&quot;:735,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:5}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/TLC/Michael%20Jackson's%20Kids-%20Hidden%20Lives/_derived_jpg_q90_250x250_m0/21160_86435427_10.jpg?partner=allrovi.com" style="top:-35px;" width="130" height="199" alt="" data-debug="163x250 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/Animal%20Planet\/Michael%20Jackson%20%26%20Bubbles%20The%20Untold%20Story\/_3by4\/_derived_jpg_q90_480x800_m0\/MichaelJackson%26BubblesTheUntoldStory-Still1.jpg?partner=allrovi.com&quot;,&quot;height&quot;:640,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:&quot;Polaris\/Animal Planet&quot;,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:2}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/Animal%20Planet/Michael%20Jackson%20%26%20Bubbles%20The%20Untold%20Story/_3by4/_derived_jpg_q90_250x250_m0/MichaelJackson%26BubblesTheUntoldStory-Still1.jpg?partner=allrovi.com" style="top:-22px;" width="130" height="173" alt="Polaris/Animal Planet" data-debug="187x250 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/NBC%20Universal%20Distribution\/Movies\/The%20Wiz\/_derived_jpg_q90_480x800_m0\/wiz2_2.jpg?partner=allrovi.com&quot;,&quot;height&quot;:240,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:&quot;Universal Studios&quot;,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:2}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/NBC%20Universal%20Distribution/Movies/The%20Wiz/_derived_jpg_q90_250x250_m0/wiz2_2.jpg?partner=allrovi.com" style="left:-63px;" width="256" height="128" alt="Universal Studios" data-debug="250x125 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/TLC\/Michael%20Jackson's%20Kids-%20Hidden%20Lives\/_derived_jpg_q90_480x800_m0\/21160_88743704_10.jpg?partner=allrovi.com&quot;,&quot;height&quot;:286,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:5}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/TLC/Michael%20Jackson's%20Kids-%20Hidden%20Lives/_derived_jpg_q90_250x250_m0/21160_88743704_10.jpg?partner=allrovi.com" style="left:-42px;" width="214" height="128" alt="" data-debug="250x149 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/Marvista_937\/Program\/26219988\/_4by3\/_derived_jpg_q90_480x800_m0\/MichaelJacksonTheJourney-Still2.jpg?partner=allrovi.com&quot;,&quot;height&quot;:360,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:2}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/Marvista_937/Program/26219988/_4by3/_derived_jpg_q90_250x250_m0/MichaelJacksonTheJourney-Still2.jpg?partner=allrovi.com" style="left:-20px;" width="171" height="128" alt="" data-debug="250x187 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/CinemaSource\/Moonwalker\/_4by3\/_derived_jpg_q90_480x800_m0\/077193h3.jpg?partner=allrovi.com&quot;,&quot;height&quot;:360,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:2}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/CinemaSource/Moonwalker/_4by3/_derived_jpg_q90_250x250_m0/077193h3.jpg?partner=allrovi.com" style="left:-20px;" width="171" height="128" alt="" data-debug="250x187 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/CinemaSource\/Moonwalker\/_4by3\/_derived_jpg_q90_480x800_m0\/077193h4.jpg?partner=allrovi.com&quot;,&quot;height&quot;:360,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:2}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/CinemaSource/Moonwalker/_4by3/_derived_jpg_q90_250x250_m0/077193h4.jpg?partner=allrovi.com" style="left:-20px;" width="171" height="128" alt="" data-debug="250x187 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/CinemaSource\/Michael%20Jackson's%20This%20Is%20It%20%20The%20IMAX%20Experience\/_derived_jpg_q90_480x800_m0\/081926H5.jpg?partner=allrovi.com&quot;,&quot;height&quot;:320,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:2}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/CinemaSource/Michael%20Jackson's%20This%20Is%20It%20%20The%20IMAX%20Experience/_derived_jpg_q90_250x250_m0/081926H5.jpg?partner=allrovi.com" style="left:-31px;" width="192" height="128" alt="" data-debug="250x166 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/CinemaSource\/Moonwalker\/_4by3\/_derived_jpg_q90_480x800_m0\/077193h5.jpg?partner=allrovi.com&quot;,&quot;height&quot;:360,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:3}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/CinemaSource/Moonwalker/_4by3/_derived_jpg_q90_250x250_m0/077193h5.jpg?partner=allrovi.com" style="left:-20px;" width="171" height="128" alt="" data-debug="250x187 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/CinemaSource\/Michael%20Jackson's%20This%20Is%20It\/_derived_jpg_q90_480x800_m0\/079549H5.jpg?partner=allrovi.com&quot;,&quot;height&quot;:320,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:3}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/CinemaSource/Michael%20Jackson's%20This%20Is%20It/_derived_jpg_q90_250x250_m0/079549H5.jpg?partner=allrovi.com" style="left:-31px;" width="192" height="128" alt="" data-debug="250x166 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/Marvista_937\/Program\/26219988\/_4by3\/_derived_jpg_q90_480x800_m0\/MichaelJacksonTheJourney-Still1.jpg?partner=allrovi.com&quot;,&quot;height&quot;:360,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:3}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/Marvista_937/Program/26219988/_4by3/_derived_jpg_q90_250x250_m0/MichaelJacksonTheJourney-Still1.jpg?partner=allrovi.com" style="left:-20px;" width="171" height="128" alt="" data-debug="250x187 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/CinemaSource\/Moonwalker\/_4by3\/_derived_jpg_q90_480x800_m0\/077193h2.jpg?partner=allrovi.com&quot;,&quot;height&quot;:360,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:4}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/CinemaSource/Moonwalker/_4by3/_derived_jpg_q90_250x250_m0/077193h2.jpg?partner=allrovi.com" style="left:-20px;" width="171" height="128" alt="" data-debug="250x187 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/Sony%20Pictures\/Michael%20Jackson's%20This%20Is%20It\/_derived_jpg_q90_480x800_m0\/MichaelJacksonsThisIsIt-Still1.jpg?partner=allrovi.com&quot;,&quot;height&quot;:319,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:&quot;Sony Pictures Entertainment&quot;,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:5}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/Sony%20Pictures/Michael%20Jackson's%20This%20Is%20It/_derived_jpg_q90_250x250_m0/MichaelJacksonsThisIsIt-Still1.jpg?partner=allrovi.com" style="left:-31px;" width="192" height="128" alt="Sony Pictures Entertainment" data-debug="250x166 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/Sony%20Pictures\/Michael%20Jackson's%20This%20Is%20It\/_derived_jpg_q90_480x800_m0\/MichaelJacksonsThisIsIt-Still2.jpg?partner=allrovi.com&quot;,&quot;height&quot;:319,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:&quot;Sony Pictures Entertainment&quot;,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:5}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/Sony%20Pictures/Michael%20Jackson's%20This%20Is%20It/_derived_jpg_q90_250x250_m0/MichaelJacksonsThisIsIt-Still2.jpg?partner=allrovi.com" style="left:-31px;" width="192" height="128" alt="Sony Pictures Entertainment" data-debug="250x166 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/NBC%20Universal%20Distribution\/Movies\/The%20Wiz\/_derived_jpg_q90_480x800_m0\/wiz2.jpg?partner=allrovi.com&quot;,&quot;height&quot;:360,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:&quot;Universal Studios&quot;,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:2}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/NBC%20Universal%20Distribution/Movies/The%20Wiz/_derived_jpg_q90_250x250_m0/wiz2.jpg?partner=allrovi.com" style="left:-20px;" width="171" height="128" alt="" data-debug="250x187 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/NBC%20Universal%20Distribution\/Movies\/The%20Wiz\/_derived_jpg_q90_480x800_m0\/wiz.jpg?partner=allrovi.com&quot;,&quot;height&quot;:360,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:&quot;Universal Studios&quot;,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:2}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/NBC%20Universal%20Distribution/Movies/The%20Wiz/_derived_jpg_q90_250x250_m0/wiz.jpg?partner=allrovi.com" style="left:-20px;" width="171" height="128" alt="" data-debug="250x187 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/CinemaSource\/Michael%20Jackson's%20This%20Is%20It\/_derived_jpg_q90_480x800_m0\/079549r3.jpg?partner=allrovi.com&quot;,&quot;height&quot;:360,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:5}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/CinemaSource/Michael%20Jackson's%20This%20Is%20It/_derived_jpg_q90_250x250_m0/079549r3.jpg?partner=allrovi.com" style="left:-20px;" width="171" height="128" alt="" data-debug="250x187 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/CinemaSource\/Michael%20Jackson's%20This%20Is%20It\/_derived_jpg_q90_480x800_m0\/079549r4.jpg?partner=allrovi.com&quot;,&quot;height&quot;:360,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:5}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/CinemaSource/Michael%20Jackson's%20This%20Is%20It/_derived_jpg_q90_250x250_m0/079549r4.jpg?partner=allrovi.com" style="left:-20px;" width="171" height="128" alt="" data-debug="250x187 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/CinemaSource\/Michael%20Jackson's%20This%20Is%20It\/_derived_jpg_q90_480x800_m0\/079549r5.jpg?partner=allrovi.com&quot;,&quot;height&quot;:360,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:6,&quot;zoomLevel&quot;:5}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/CinemaSource/Michael%20Jackson's%20This%20Is%20It/_derived_jpg_q90_250x250_m0/079549r5.jpg?partner=allrovi.com" style="left:-20px;" width="171" height="128" alt="" data-debug="250x187 (44)"></div>                    </div>
+
+                                <div class="media-gallery-image thumbnail" style="display:none;" data-gallery="{&quot;override&quot;:false,&quot;musicSort&quot;:0,&quot;url&quot;:&quot;http:\/\/cps-static.rovicorp.com\/2\/Open\/France\/CPF-CPJ-CPL-CPM-CPV-CMD-TPS\/Believers%2c%20Who's%20Back\/_derived_jpg_q90_480x800_m0\/BELIEVERS_WHO_S_BACK_.jpg?partner=allrovi.com&quot;,&quot;height&quot;:270,&quot;width&quot;:480,&quot;formatid&quot;:94,&quot;author&quot;:null,&quot;copyrightOwner&quot;:null,&quot;imageTypeId&quot;:15,&quot;zoomLevel&quot;:1}">
+                        <div class="cropped-image crop-image-borders" style="width:130px;height:128px;" ><img src="http://cps-static.rovicorp.com/2/Open/France/CPF-CPJ-CPL-CPM-CPV-CMD-TPS/Believers%2c%20Who's%20Back/_derived_jpg_q90_250x250_m0/BELIEVERS_WHO_S_BACK_.jpg?partner=allrovi.com" style="left:-49px;" width="228" height="128" alt="" data-debug="250x140 (44)"></div>                    </div>
+
+            
+                                    <div class="media-gallery-image empty" style="display:none;"></div>
+                                    <div class="media-gallery-image empty" style="display:none;"></div>
+                    </div>
+        <span class="gallery-lightbox-bind"></span>
+        <div class="dots-container">
+                            <a href="#" class="dot dots-full"></a>
+                            <a href="#" class="dot dots-empty"></a>
+                            <a href="#" class="dot dots-empty"></a>
+                            <a href="#" class="dot dots-empty"></a>
+                            <a href="#" class="dot dots-empty"></a>
+                            <a href="#" class="dot dots-empty"></a>
+                            <a href="#" class="dot dots-empty"></a>
+                            <a href="#" class="dot dots-empty"></a>
+                            <a href="#" class="dot dots-empty"></a>
+                            <a href="#" class="dot dots-empty"></a>
+                            <a href="#" class="dot dots-empty"></a>
+                            <a href="#" class="dot dots-empty"></a>
+                    </div>
+    </section>
+
+
+        <div class="advertising medium-rectangle-btf">
+            <script type="text/javascript">    cmnUNT('300x251', tile_num++);</script>        </div>
+
+        
+    <section class="blog-entries" >
+        <h3 class="headline">Related Blog Posts</h3>
+
+            <ul>
+                                    <li>
+                        <a href="/blog/post/rb-40-1971" title="R&B 40: 1971">
+                            R&B 40: 1971                        </a>
+                    </li>
+                                    <li>
+                        <a href="/blog/post/steel-panther-dissects-their-favorite-unintentionally-funny-music-videos" title="Steel Panther Dissects Their Favorite Unintentionally Funny Music Videos">
+                            Steel Panther Dissects Their Favorite Unintentionally Funny Music Videos                        </a>
+                    </li>
+                                    <li>
+                        <a href="/blog/post/the-story-of-daft-punks-get-lucky-as-told-by-bassist-nathan-east" title="The Story of Daft Punk's "Get Lucky," As Told By Bassist Nathan East">
+                            The Story of Daft Punk's "Get Lucky," As Told By Bassist Nathan East                        </a>
+                    </li>
+                                    <li>
+                        <a href="/blog/post/bassist-nathan-east-on-jamming-with-daft-punk-playing-the-grammys-and-a-vid" title="Bassist Nathan East on Jamming With Daft Punk, Playing the Grammys, and a Video Premiere">
+                            Bassist Nathan East on Jamming With Daft Punk, Playing the Grammys, and a Video Premiere                        </a>
+                    </li>
+                                    <li>
+                        <a href="/blog/post/new-releases-roundup-may-13" title="New Releases Roundup: May 13">
+                            New Releases Roundup: May 13                        </a>
+                    </li>
+                                    <li>
+                        <a href="/blog/post/rb-40-hits-singles-1983" title="R&B 40: 1983">
+                            R&B 40: 1983                        </a>
+                    </li>
+                                    <li>
+                        <a href="/blog/post/carlene-carter" title="Carlene Carter Revisits Her Childhood Musical Obsessions">
+                            Carlene Carter Revisits Her Childhood Musical Obsessions                        </a>
+                    </li>
+                                    <li>
+                        <a href="/blog/post/rb-40-hits-singles-1982" title="R&B 40: 1982">
+                            R&B 40: 1982                        </a>
+                    </li>
+                                    <li>
+                        <a href="/blog/post/fun-facts-about-michael-jacksons-thriller" title="Fun facts about Michael Jackson's "Thriller"">
+                            Fun facts about Michael Jackson's "Thriller"                        </a>
+                    </li>
+                                    <li>
+                        <a href="/blog/post/rb-40-hits-singles-1992" title="R&B 40: 1992â">
+                            R&B 40: 1992â                        </a>
+                    </li>
+                            </ul>
+
+    </section>
+
+
+    </div>
+
+    <div class="content">
+
+        <header itemprop="review" itemscope itemtype="http://schema.org/Review">
+    <div class="artist-bio-container">
+                    <div class="artist-sample-container">
+                <a href="#no-js"
+                   class="audio-player large"
+                   data-sample-url="/artist/MN0000467203/samples.json">
+                    <canvas width="55" height="55"></canvas>
+                </a>
+            </div>
+        
+        <hgroup>
+            <h2 class="artist-name" itemprop="name">
+                Michael Jackson            </h2>
+
+                            <h3 class="bio-author">
+                    Biography by <span itemprop="author">Steve Huey</span>
+                </h3>
+                        <div class="artist-follow" data-id="MN0000467203"></div>
+
+                            <script>
+                    // only show to users not on iOS
+                    if ((navigator.userAgent.indexOf('iPhone') === -1) && (navigator.userAgent.indexOf('iPod') === -1) && (navigator.userAgent.indexOf('iPad') === -1)) {
+                        document.write(
+                            '<div class="artist-radio">' +
+                            '<a href="javascript:void(0);" class="wah-wah-link" data-id="62e4e2d5-b34e-4712-01f0-ec879c6251ab">Launch Michael Jackson Radio</a>' +
+                            '<span class="radio-img"></span>' +
+                            '</div>'
+                        );
+                    }
+                </script>
+                    </hgroup>
+
+    </div>
+
+            <p class="biography">
+            <span itemprop="reviewBody">The biggest pop star of the '80s, and one of the most popular artists of all time, with a brilliant, soulful voice and breathtaking dance moves.</span>
+
+                            <br>
+                <a href="http://www.allmusic.com/artist/michael-jackson-mn0000467203/biography">Read Full Biography</a>                    </p>
+    </header>
+        
+        <ul class="tabs song-highlights">
+
+        <li class="tab overview" data-sections="moods,themes">
+        <a href="/artist/michael-jackson-mn0000467203">
+            Overview
+            <span class="arrow">&darr;</span>
+        </a>
+    </li>
+    
+            <li class="tab biography">
+            <a href="/artist/michael-jackson-mn0000467203/biography">
+                Biography
+                <span class="arrow">&darr;</span>
+            </a>
+        </li>
+    
+            <li class="tab discography">
+            <a href="/artist/michael-jackson-mn0000467203/discography">
+                Discography
+                <span class="arrow">&darr;</span>
+            </a>
+        </li>
+    
+            <li class="tab songs">
+            <a href="/artist/michael-jackson-mn0000467203/songs">
+                Songs
+                <span class="arrow">&darr;</span>
+            </a>
+        </li>
+    
+    
+            <li class="tab credits">
+            <a href="/artist/michael-jackson-mn0000467203/credits">
+                Credits
+                <span class="arrow">&darr;</span>
+            </a>
+        </li>
+    
+            <li class="tab awards">
+            <a href="/artist/michael-jackson-mn0000467203/awards">
+                Awards
+                <span class="arrow">&darr;</span>
+            </a>
+        </li>
+    
+            <li class="tab related">
+            <a href="/artist/michael-jackson-mn0000467203/related">
+                Related
+                <span class="arrow">&darr;</span>
+            </a>
+        </li>
+    
+</ul>
+        
+<div class="allmusic-share" data-sharemessage="Check out Michael Jackson - Biography, Discography, Credits and Similar Artists - AllMusic - ">
+    <p>
+        Share this page
+    </p>
+    <ul class="share-menu">
+        <li>
+            <a title="Share on Facebook" class="share-button facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.allmusic.com%2Fartist%2Fmichael-jackson-mn0000467203%2Fsongs">facebook</a>
+        </li>
+        <li>
+            <a title="Share on Twitter" class="share-button twitter" href="http://twitter.com/share?url=http%3A%2F%2Fwww.allmusic.com%2Fartist%2Fmichael-jackson-mn0000467203%2Fsongs&text=Check+out+Michael+Jackson+-+Biography%2C+Discography%2C+Credits+and+Similar+Artists+-+AllMusic+-+&counturl=http%3A%2F%2Fwww.allmusic.com%2Fartist%2Fmichael-jackson-mn0000467203%2Fsongs">twitter</a>
+        </li>
+        <li>
+            <a title="Share on Google+" class="share-button google-plus" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.allmusic.com%2Fartist%2Fmichael-jackson-mn0000467203%2Fsongs">google+</a>
+        </li>
+        <li>
+            <a title="Share via e-mail" class="share-button email" href="#">email</a>
+        </li>
+    </ul>
+    <div class="share-modal">
+        <a title="close button" class="close-button"></a>
+        <div class="share-frame"></div>
+    </div>
+</div>
+            <section class="song-highlights">
+
+        <h2 class="headline">Song Highlights</h2>
+
+        <table>
+            <thead>
+                <tr>
+                    
+                    <th class="title-composer">Title/Composer</th>
+
+                    <th class="toggle">
+                        <input type="radio" name="toggle" id="toggle-highlights" checked>
+                        <label for="toggle-highlights">Highlights</label>
+
+                        <input type="radio"
+                               name="toggle"
+                               id="toggle-all"
+                               onchange="window.location='http://www.allmusic.com/artist/michael-jackson-mn0000467203/songs/all'">
+                        <label for="toggle-all">All Songs</label>
+                    </th>
+                </tr>
+            </thead>
+
+            <tbody>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/bad-mt0010540276">Bad</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/michael-jackson-mn0000467203">Michael Jackson</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                    <a href="http://open.spotify.com/track/5N2wtVRejJpHCyui0ZyNFG" class="spotify" alt="Stream from Spotify" title="Stream from Spotify">Spotify</a>                                </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQituUhY%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/beat-it-mt0035412075">Beat It</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/michael-jackson-mn0000467203">Michael Jackson</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                                                    </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQituewk%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/ben-mt0012102419">Ben</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/donald-black-mn0000180851">Donald Black</a> / <a href="http://www.allmusic.com/artist/walter-scharf-mn0000232119">Walter Scharf</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                                                    </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQitr0V0%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/billie-jean-mt0035412071">Billie Jean</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/michael-jackson-mn0000467203">Michael Jackson</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                                                    </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQituez4%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/black-or-white-mt0035412069">Black or White</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/bill-bottrell-mn0000071819">Bill Bottrell</a> / <a href="http://www.allmusic.com/artist/michael-jackson-mn0000467203">Michael Jackson</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                    <a href="http://open.spotify.com/track/2PdFSWL1Zpg0lRnujLnNJJ" class="spotify" alt="Stream from Spotify" title="Stream from Spotify">Spotify</a>                                </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQituexk%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/blood-on-the-dance-floor-mt0000348700">Blood on the Dance Floor</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                                                    </li>
+                                <li class="rdio">
+                                                                    </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/dirty-diana-mt0010573805">Dirty Diana</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/michael-jackson-mn0000467203">Michael Jackson</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                    <a href="http://open.spotify.com/track/17rJRwpjHnIft9Rx2Z7K3A" class="spotify" alt="Stream from Spotify" title="Stream from Spotify">Spotify</a>                                </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQituUuY%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/dont-stop-til-you-get-enough-mt0010513743">Don't Stop 'Til You Get Enough</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/michael-jackson-mn0000467203">Michael Jackson</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                                                    </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQituU1w%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/earth-song-mt0035412070">Earth Song</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/michael-jackson-mn0000467203">Michael Jackson</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                    <a href="http://open.spotify.com/track/2BMCVC1kKFxiw1fy5CpwAh" class="spotify" alt="Stream from Spotify" title="Stream from Spotify">Spotify</a>                                </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQitueyk%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/got-to-be-there-mt0012036259">Got to Be There</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/elliot-willensky-mn0000143398">Elliot Willensky</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                    <a href="http://open.spotify.com/track/74JrSRW1FdHJ05lzufQ7qS" class="spotify" alt="Stream from Spotify" title="Stream from Spotify">Spotify</a>                                </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQitrz84%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/human-nature-mt0035412062">Human Nature</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/steve-porcaro-mn0000038489">Steve Porcaro</a> / <a href="http://www.allmusic.com/artist/john-bettis-mn0000809943">John Bettis</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                    <a href="http://open.spotify.com/track/7jcDPNcPbX5dy2yw8yUsBO" class="spotify" alt="Stream from Spotify" title="Stream from Spotify">Spotify</a>                                </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQitufIw%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/i-just-cant-stop-loving-you-mt0035412066">I Just Can't Stop Loving You</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/michael-jackson-mn0000467203">Michael Jackson</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                                                    </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQitue2I%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/jam-mt0035412060">Jam</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/teddy-riley-mn0000018176">Teddy Riley</a> / <a href="http://www.allmusic.com/artist/ren%C3%A9-moore-mn0000454925">RenÃ© Moore</a> / <a href="http://www.allmusic.com/artist/michael-jackson-mn0000467203">Michael Jackson</a> / <a href="http://www.allmusic.com/artist/bruce-swedien-mn0000639655">Bruce Swedien</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                    <a href="http://open.spotify.com/track/06VeaUmgdJND7Q6RU6569F" class="spotify" alt="Stream from Spotify" title="Stream from Spotify">Spotify</a>                                </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQitufNQ%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/little-christmas-tree-mt0000192414">Little Christmas Tree</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                                                    </li>
+                                <li class="rdio">
+                                                                    </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/man-in-the-mirror-mt0035412072">Man in the Mirror</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/siedah-garrett-mn0000033995">Siedah Garrett</a> / <a href="http://www.allmusic.com/artist/glen-ballard-mn0000664500">Glen Ballard</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                    <a href="http://open.spotify.com/track/1nl09AjkuO7BBRF3BFAPsC" class="spotify" alt="Stream from Spotify" title="Stream from Spotify">Spotify</a>                                </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQitue8g%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/one-day-in-your-life-mt0010275953">One Day in Your Life</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/sam-brown-mn0000592098">Sam Brown</a> / <a href="http://www.allmusic.com/artist/sam-brown-iii-mn0000831552">Sam Brown III</a> / <a href="http://www.allmusic.com/artist/renee-armand-mn0000987349">Renee Armand</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                    <a href="http://open.spotify.com/track/7vtaQNW7QHtQsLeshQlm3D" class="spotify" alt="Stream from Spotify" title="Stream from Spotify">Spotify</a>                                </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQitr1ro%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/rock-with-you-mt0031830942">Rock with You</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/rod-temperton-mn0000293897">Rod Temperton</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                                                    </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQituU2I%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/rockin-robin-mt0012035593">Rockin' Robin</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/jesse-thomas-mn0000848759">Jesse Thomas</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                    <a href="http://open.spotify.com/track/2aadUB2b4hugbdIPU8Aypk" class="spotify" alt="Stream from Spotify" title="Stream from Spotify">Spotify</a>                                </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQitrz4g%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/shes-out-of-my-life-mt0035412073">She's Out of My Life</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/tom-bahler-mn0000624956">Tom Bahler</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                    <a href="http://open.spotify.com/track/3oiEFdnT6VWhlrDjCYxxyk" class="spotify" alt="Stream from Spotify" title="Stream from Spotify">Spotify</a>                                </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQitue-I%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/smooth-criminal-mt0035412063">Smooth Criminal</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/michael-jackson-mn0000467203">Michael Jackson</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                                                    </li>
+                                <li class="rdio">
+                                                                    </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/the-way-you-make-me-feel-mt0035412064">The Way You Make Me Feel</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/michael-jackson-mn0000467203">Michael Jackson</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                    <a href="http://open.spotify.com/track/2MktNn429Sn1p4FjZjOM39" class="spotify" alt="Stream from Spotify" title="Stream from Spotify">Spotify</a>                                </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQitufLo%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/they-dont-care-about-us-mt0035412061">They Don't Care About Us</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/michael-jackson-mn0000467203">Michael Jackson</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                    <a href="http://open.spotify.com/track/7MdenVOyOCRoxbgPpjEiAL" class="spotify" alt="Stream from Spotify" title="Stream from Spotify">Spotify</a>                                </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQitufPk%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/thriller-mt0035412067">Thriller</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/rod-temperton-mn0000293897">Rod Temperton</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                    <a href="http://open.spotify.com/track/1D9KEXIrlmPUkMTdYzqgX4" class="spotify" alt="Stream from Spotify" title="Stream from Spotify">Spotify</a>                                </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQitue3A%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/wanna-be-startin-somethin-mt0035412074">Wanna Be Startin' Somethin'</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/michael-jackson-mn0000467203">Michael Jackson</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                    <a href="http://open.spotify.com/track/1uCbb7fkxRUrQAvCQgmSHo" class="spotify" alt="Stream from Spotify" title="Stream from Spotify">Spotify</a>                                </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQitufC0%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        
+                        <td class="title-composer">
+                            <div class="title">
+                                                                    <a href="http://www.allmusic.com/song/you-are-not-alone-mt0001913329">You Are Not Alone</a>                                
+                                                            </div>
+
+                            <div class="composer">
+                                                                    <a href="http://www.allmusic.com/artist/r-kelly-mn0000319347">R. Kelly</a>                                                            </div>
+                        </td>
+
+                        <td class="affiliates">
+                                                        <ul>
+                                <li class="spotify">
+                                    <a href="http://open.spotify.com/track/6oi4tYdXgClsuj5BAPkUoI" class="spotify" alt="Stream from Spotify" title="Stream from Spotify">Spotify</a>                                </li>
+                                <li class="rdio">
+                                    <a href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&subid=&offerid=221756.1&type=10&tmpid=7950&RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQitv5fE%2F" class="rdio" alt="Stream from Rdio" title="Stream from Rdio">Rdio</a>&nbsp;&nbsp;                                </li>
+                                <li class="mog">
+                                                                    </li>
+
+                            </ul>
+                                                    </td>
+                    </tr>
+                            </tbody>
+        </table>
+    </section>
+
+    </div>
+
+
+</div>
+
+<div class="stripe-container footer-leaderboard">
+    <div class="advertising leaderboard">
+                        <script type="text/javascript">        cmnUNT('728x91', tile_num++);    </script>            </div>
+</div>
+
+<div class="stripe-container footer-container">
+    <footer>
+        <div class="other-sites">
+                <a href="http://www.allmusic.com/" title="AllMusic - Albums and Artist Database - Music Search, Guide, Recommendations, Videos and Reviews">AllMusic</a>&nbsp;&nbsp;|&nbsp;
+                <a href="http://www.allmovie.com/" title="AllMovie - Movies and Films Database - Movie Search, Guide, Recommendations, and Reviews">AllMovie</a>&nbsp;&nbsp;|&nbsp;
+                <a href="http://www.sidereel.com/" title="SideReel - Watch TV &amp; Movies Online | Episodes, Seasons, Series | SideReel">SideReel</a>&nbsp;&nbsp;|&nbsp;
+                <a href="http://www.celebified.com/" title="Celebified - Celebrity news, watch videos, get tv info">Celebified</a>
+        </div>
+
+        <div class="corporate-links">
+                <a href="/copyright-policy" title="AllMusic - Copyright Policy &amp; Intellectual Property Rights">Copyright Policy</a>&nbsp;&nbsp;|&nbsp;
+                <a href="/about" title="AllMusic About">About</a>&nbsp;&nbsp;|&nbsp;
+                <a href="/faq" title="AllMusic FAQ">FAQ</a>&nbsp;&nbsp;|&nbsp;
+                <a href="https://getsatisfaction.com/allmedianetwork/categories/allmedianetwork_allmusic" title="AllMusic Customer Community" class="getSatisfactionLink">Feedback</a><span class="line-one">&nbsp;&nbsp;|&nbsp;</span>
+                <a href="/advertise" title="AllMusic Advertising Network"><br class="mobile-break">Advertise</a>&nbsp;&nbsp;|&nbsp;
+                <a href="/privacy-policy" title="AllMusic Privacy Policy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;
+                <a href="/terms-of-service" title="AllMusic Terms of Service">Terms of Service</a>
+        </div>
+
+        <div class="copyright">
+                &copy;2015 AllMusic, a division of All Media Network, LLC.<span class="line-two">&nbsp;&nbsp;|&nbsp;&nbsp;</span><br class="mobile-break">All Rights Reserved
+        </div>
+    </footer>
+</div>            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+            <script>!window.jQuery && document.write(unescape('%3Cscript src="http://assets.allmusic.com/js/jquery/jquery-1.9.1.min.js"%3E%3C/script%3E'))</script>
+            <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>
+            <script>!window.jQuery.ui && document.write(unescape('%3Cscript src="http://assets.allmusic.com/js/jquery/jquery-ui.min.js"%3E%3C/script%3E'))</script>
+
+            <script src="http://assets.allmusic.com/cache/global.1423603314.js"></script>
+
+                                            <script src="http://assets.allmusic.com/cache/artist.song-highlights.1423603314.js"></script>
+                                            <script>
+                    if(User.loggedIn) {
+                        ga('set', 'dimension1', 'Yes');
+                    } else {
+                        ga('set', 'dimension1', 'No');
+                    }
+                </script>
+            
+            <!-- BEGIN GetSat -->
+            <script type="text/javascript" charset="utf-8">
+                var is_ssl = ("https:" == document.location.protocol);
+                var asset_host = is_ssl ? "https://d11e618678w89x.cloudfront.net/" : "http://d11e618678w89x.cloudfront.net/";
+                document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+
+            <script type="text/javascript" charset="utf-8">
+                var feedback_widget = new GSFN.feedback_widget({
+                    display: 'overlay',
+                    company: 'allmedianetwork',
+                    placement: 'hidden',
+                    custom_css: 'http://assets.allmusic.com/css/modules/feedback-widget.css',
+                    color: '#222',
+                    style: 'idea',
+                    limit: '3',
+                    product: 'allmedianetwork_allmusic'
+                });
+            </script>
+            <!-- END GetSat -->
+
+            <!-- Begin comScore Tag -->
+            <script>
+                var _comscore = _comscore || [];
+                _comscore.push({ c1: "2", c2: "6685975" });
+                (function() {
+                    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+                    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+                    el.parentNode.insertBefore(s, el);
+                })();
+            </script>
+            <noscript>
+                <img src="http://b.scorecardresearch.com/p?c1=2&c2=17343944&cv=2.0&cj=1" />
+            </noscript>
+            <!-- End comScore Tag -->
+
+                    </div>
+                                
+       </div>
+
+       <!-- Footer Ad Tag -->
+<script type="text/javascript">
+cmnTB();
+cmnUNT('tover', tile_num++);
+</script>    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"37e6a77380","applicationID":"3096013","transactionName":"NlMEYhZXW0oEWkQNVg8ZJ1UQX1pXSnhCEFASQklFC1hSZg1QVwxVCFEOQhc=","queueTime":0,"applicationTime":1508,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-515.min.js"}</script></body>
+</html>

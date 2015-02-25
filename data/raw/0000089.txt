@@ -1,0 +1,2242 @@
+<!DOCTYPE html>
+<html class="desktop">
+
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# good_reads: http://ogp.me/ns/fb/good_reads#">
+  <meta name="google-site-verification" content="PfFjeZ9OK1RrUrKlmAPn_iZJ_vgHaZO1YQ-QlG2VsJs" />
+
+  <title>L.M. Montgomery (Author of Anne of Green Gables)</title>
+    <!-- OPEN GRAPH-->
+  <meta property="og:title" content="L.M. Montgomery"/>
+  <meta property="og:type" content="good_reads:author"/>
+  <meta property="og:site_name" content="Goodreads"/>
+  <meta property="og:description" content="Author of Anne of Green Gables, The Complete Anne of Green Gables Boxed Set, Anne of the Island, Anne of Avonlea, Anne's House of Dreams, Anne of Windy Poplars, Anne of Ingleside, Emily of New Moon, Rilla of Ingleside und Rainbow Valley"/>
+  <meta property="og:image" content="http://d.gr-assets.com/authors/1188896723p5/5350.jpg"/>
+    <meta property="good_reads:authored" content="http://www.goodreads.com/book/show/8127.Anne_of_Green_Gables">
+  <meta property="og:url" content="http://www.goodreads.com/author/show/5350.L_M_Montgomery">
+  <meta property="fb:app_id" content="2415071772"/>
+  <meta property="good_reads:name" content="L.M. Montgomery">
+  <meta itemprop="image" content="http://d.gr-assets.com/authors/1188896723p5/5350.jpg">
+
+
+    <meta name="description" content="About L.M. Montgomery: Lucy Maud Montgomery was a Canadian author, best known for a series of novels beginning with Anne of Green Gables, published in 19...">
+
+  <meta name="verify-v1" content="cEf8XOH0pulh1aYQeZ1gkXHsQ3dMPSyIGGYqmF53690=">
+  <meta name="apple-itunes-app" content="app-id=355833469">
+
+
+          <script type="text/javascript">
+        if (window.Mobvious === undefined) {
+          window.Mobvious = {};
+        }
+        window.Mobvious.device_type = 'desktop';
+        </script>
+
+
+  <link href="http://s.gr-assets.com/assets/goodreads-a26b39c5944f8b833bc7f454567f9559.css" media="screen" rel="stylesheet" type="text/css" />
+  <script src="http://s.gr-assets.com/assets/application-42fb4bc414525fe302b1f44339dae637.js" type="text/javascript"></script>
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="vEQYicxA/xEL8rrlyp95UdmwqprUjkm0BdM/n4uLIa4JzWA69+mObzdHLzJJE7ngOiIjEGpFR49MmaYFCNEx+A==" name="csrf-token" />
+
+  <meta content="1RKJ8YQ68EXTKHV1K3D7" name="request-id" />
+
+      <link rel="canonical" href="http://www.goodreads.com/author/show/5350.L_M_Montgomery" />
+
+  <!--[if lte IE 6]>
+    <link href="http://s.gr-assets.com/assets/ie6-cc52aa7387334f5af5c4030b6967aeae.css" media="screen" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript">
+//<![CDATA[
+
+      try {
+        document.execCommand("BackgroundImageCache", false, true);
+      }
+      catch(err) {}
+
+//]]>
+</script>  <![endif]-->
+
+  <!--[if lt IE 9]>
+    <link href="http://s.gr-assets.com/assets/ie-359aa440eb656520ac599b277282c9da.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+
+  <!--[if lt IE 8]>
+    <link href="http://s.gr-assets.com/assets/common_images_ie-7e02aa56087d0ffa4d957885fe28af2c.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+
+  <!--[if gte IE 8]><!-->
+  <link href="http://s.gr-assets.com/assets/common_images-f3d5973863608a51d0a0cdb6ac9ab82e.css" media="screen" rel="stylesheet" type="text/css" />
+  <!--<![endif]-->
+
+  <script>
+  //<![CDATA[
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") +
+      "//www.googletagservices.com/tag/js/gpt.js";
+      var node = document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+    // page settings
+    googletag.cmd.push(function() {
+      googletag.pubads().setTargeting("sid", "2e3a50ec77ae39b08df12b576081a9d6");
+    googletag.pubads().setTargeting("shelf", ["2014favourites","atthelibrary","femmes","toread2015","2015booksread","toreadchildrens","jan2015","action","theperksofbeingabookaddict","51books","before2013","teenclassics"]);
+    googletag.pubads().setTargeting("gtargeting", "1");
+    googletag.pubads().setTargeting("resource", "Author_5350");
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  //]]>
+</script>
+
+
+
+    <style type="text/css" media="screen">
+    .fan {
+      width: 114px;
+      overflow: hidden;
+    }
+
+    .authorBlogPost {
+      margin: 0;
+    }
+
+    .authorBlogPost .title {
+      font-size: 12pt;
+    }
+
+    .authorBlogPost .body {
+      font-size: 10pt;
+    }
+
+    div.userReview {
+      float: none;
+    }
+
+
+    #blogBox .newFollowing,
+    #blogBox .following {
+      float: right;
+      width: 110px;
+    }
+
+    #blogBox .following {
+      padding: 0.5em;
+      width: 200px;
+    }
+
+    #blogBox .moreLink {
+      clear: right;
+    }
+
+    #new_author_blog_form {
+      margin: 1em 0;
+    }
+
+    #new_author_blog_form input,
+    #new_author_blog_form label,
+    #new_author_blog_form .button {
+      float: left;
+      margin-right: 10px;
+      vertical-align: middle;
+    }
+
+    #new_author_blog_form label {
+      font-weight: bold;
+    }
+
+
+    #relationships ul li {
+      margin: 0 0 0 2em;
+      line-height: 16px;
+    }
+    #relationships,
+    #topListSection {
+      margin-bottom: 1em;
+    }
+    .actionLinks {
+      list-style: none;
+    }
+
+    .actionLinks li {
+      margin: 3px 0;
+    }
+
+    .newFanship,
+    .newFollowing {
+      display: inline;
+    }
+
+    .fanship,
+    .following,
+    .friendship {
+      margin: 0.5em 0;
+      line-height: 1.2;
+    }
+  </style>
+<style type="text/css" media="screen">
+  .dataTitle {
+    color: #382110;
+    font-weight: bold;
+    width: 25%;
+    float: left;
+    margin: 1px 0px;
+  }
+  .dataItem {
+    float: left;
+    width: 75%;
+    margin: 1px 0px;
+  }
+
+  .bigGreyBox {
+    width: 100%;
+  }
+</style>
+
+    <script type="text/javascript" charset="utf-8">
+    Event.observe(window, 'load', function() {
+      $$('.authorBlogPost .body img').each(function(img) {
+        img.scaleToMaxWidth(385);
+      });
+    });
+  </script>
+<script>
+  //<![CDATA[
+    $grfb.init.done(function() {
+      if (this.auth.status === "not_authorized") {
+        // logged into Facebook user but not a GR app user; show FB button
+        $j("#generalRegPrompt").hide();
+      } else {
+        $j("#facebookRegPrompt").hide();
+      }
+      $j("#connectPrompt").show();
+    });
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      adUnit = googletag
+        .defineSlot(
+          "/4215/goodr.auth.show.top.300x250",
+          [300,250],
+          "div-gpt-ad-85bb63c385")
+        .addService(googletag.pubads())
+        .setCollapseEmptyDiv(true);
+      
+    });
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      adUnit = googletag
+        .defineSlot(
+          "/4215/goodr.cb.author.300x140",
+          [300,140],
+          "div-gpt-ad-d8e66c7ba6")
+        .addService(googletag.pubads())
+        .setCollapseEmptyDiv(true);
+      
+    });
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      adUnit = googletag
+        .defineSlot(
+          "/4215/goodr.auth.show.bottom.300x250",
+          [300,250],
+          "div-gpt-ad-a3ed7abdfc")
+        .addService(googletag.pubads())
+        .setCollapseEmptyDiv(true);
+      
+    });
+  //]]>
+</script>
+
+
+  
+  
+  
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Goodreads">
+
+
+  <script>
+  //<![CDATA[
+    var GoodreadsAnalytics = GoodreadsAnalytics || {};
+    var _gaq = _gaq || [];
+    var isDebug = false;
+    
+    $j(function () {
+      if (isDebug) {
+        $j("#google-analytics-debug").show();
+      }
+    });
+    
+    GoodreadsAnalytics.push = function () {
+      _gaq.push.apply(_gaq, arguments);
+    
+      if (isDebug) {
+        var args = arguments[0];
+        $j(function () {
+          var li = $j("<li/>").text(JSON.stringify(args));
+          $j("#google-analytics-debug ol").append(li);
+        });
+      }
+    }
+    
+    GoodreadsAnalytics.push(['_setAccount', 'UA-968618-1']);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      1,                        // Slot 1
+      'User Status',            // Custom variable name
+      'signed_out',  // Custom variable value: signed_out, signed_in,
+                                //   signed_in_facebook_connected, or
+                                //   goodreads_member_previously_signed_in
+      2                         // Visit-level scope, which means slot 1 will be
+                                //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      2,                        // Slot 2
+      'Device Type',            // Custom variable name
+      'desktop',         // Custom variable value: desktop, mobile, or
+                                //   tablet
+      2                         // Visit-level scope, which means slot 2 will be
+                                //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      3,                           // Slot 3
+      'Interstitial Ad Presence',  // Custom variable name
+      'false',  // Custom variable value: true or false
+      2                            // Visit-level scope, which means slot 3 will be
+                                   //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_trackPageview']);
+    
+    (function () {
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
+    })();
+  //]]>
+</script>
+
+
+
+  <script type="text/javascript">
+      var _qevents = _qevents || [];
+
+      (function() {
+          var elem = document.createElement('script');
+
+          elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+          elem.async = true;
+          elem.type = "text/javascript";
+          var scpt = document.getElementsByTagName('script')[0];
+          scpt.parentNode.insertBefore(elem, scpt);
+      })();
+  </script>
+
+</head>
+
+
+<body class="">
+<div class="content">
+  
+
+    <div class='uitext' id='siteheader'>
+<div class='mainContent'>
+<ul class='nav' id='usernav'>
+<li>
+<strong>
+<a href="/user/new" class="navlink" rel="nofollow">register</a>
+</strong>
+</li>
+<li>
+<a href="/about/how_it_works" class="navlink" rel="nofollow">Ã¼ber uns</a>
+</li>
+<li>
+<a href="/user/sign_in?returnurl=%2Fauthor%2Fshow%2F5350.L_M_Montgomery" class="navlink" rel="nofollow">log in</a>
+</li>
+</ul>
+<div id='logo'>
+<a href='/'>
+<img alt="Goodreads: Book reviews, recommendations, and discussion" border="0" src="http://s.gr-assets.com/assets/layout/goodreads_logo_324-a908b923dc3ed9b7a13f3da4d1ffb2df.png" width="140" />
+</a>
+</div>
+<div id='sitesearch'>
+<form accept-charset="UTF-8" action="/search" id="headerSearchForm" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div><div class='auto_complete_field_wrapper'>
+<input id="sitesearch_field" name="query" placeholder="finden Sie BÃ¼cher nach Titel oder Autor oder isbn" type="text" />
+<div id='sitesearch_autocomplete'></div>
+<img alt="Loading-trans" class="loading" id="sitesearch_field_loading" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" style="display: none" />
+</div>
+<a class="submitLink" href="#" onclick="$j('#headerSearchForm').submit(); return false;"><img alt="search" src="http://s.gr-assets.com/assets/layout/magnifying_glass-a2d7514d50bcee1a0061f1ece7821750.png" title="finden Sie BÃ¼cher nach Titel oder Autor oder isbn" width="16" /></a>
+</form>
+
+</div>
+
+<ul class='nav' id='sitenav'>
+<li>
+<a href="/" class="navlink">home</a>
+</li>
+<li>
+<a href="/review/list" class="navlink" rel="nofollow">meine bÃ¼cher</a>
+</li>
+<li>
+<a href="/friend" class="navlink" rel="nofollow">freunde</a>
+</li>
+<li>
+<a href="/recommendations" class="navlink" rel="nofollow">Recommendations</a>
+</li>
+<li>
+<a href="/book" class="navlink" rel="nofollow">Explore</a>
+</li>
+<li class='notificationIcon withsubnav exploreMenu'>
+<div class='dropDownContainer'>
+<div class='dropDown'>
+<div class='caretArrow'></div>
+<div class='dropDownMenu'>
+<div class='exploreMenuContent'>
+<ul class='content'>
+<li>
+<a href="/genres">Genres</a>
+</li>
+<li>
+<a href="/list" title="Popular lists of books">Listopia</a>
+</li>
+<li>
+<a href="/giveaway" title="Free book giveaways">Giveaways</a>
+</li>
+<li>
+<a href="/choiceawards/best-books-2014" title="2014 Goodreads Choice Awards">Choice Awards</a>
+</li>
+<li>
+<a href="/book/popular_by_date/2015/2" title="Popular New Releases">Popular</a>
+</li>
+<li>
+<a href="/voice">Goodreads Voice</a>
+</li>
+<li>
+<a href="/ebooks">Ebooks</a>
+</li>
+</ul>
+<ul class='content'>
+<li class='title'>
+<b>
+Fun
+</b>
+</li>
+<li>
+<a href="/trivia">Trivia</a>
+</li>
+<li>
+<a href="/quizzes">Quizzes</a>
+</li>
+<li>
+<a href="/quotes">Zitate</a>
+</li>
+</ul>
+<ul class='content'>
+<li class='title'>
+<b>
+Community
+</b>
+</li>
+<li>
+<a href="/group">Groups</a>
+</li>
+<li>
+<a href="/story">Schreiben</a>
+</li>
+<li>
+<a href="/user/online_now" rel="nofollow">Leute</a>
+</li>
+<li>
+<a href="/event">Events</a>
+</li>
+</ul>
+</div>
+
+</div>
+</div>
+<a href="/book" class="dropDownOpener subnavlink"></a>
+</div>
+
+</li>
+</ul>
+</div>
+</div>
+
+
+  
+
+  <div class="mainContentContainer ">
+    
+    <div class="mainContent">
+      
+      <div class="mainContentFloat">
+        <div id="flashContainer">
+
+
+</div>
+
+        
+
+
+<div id='connectPrompt' style='display:none;'>
+<div class='connectPromptHolder'>
+<div class='vcenteredLineOfBlocks' style='margin:15px auto 0;'>
+<div class='regPromptText'>
+<div class='title'>
+Discover new books on Goodreads
+</div>
+<div class='subtext'>
+See if your friends have read any of L.M. Montgomery's books:
+</div>
+</div>
+<div id='facebookRegPrompt'>
+<a class='fbjsLogin fbButton connectPromptButton' data-tracking-id='fb_connect_prompt_quote_reg_prompt' href='/user/new'>
+<img alt="Facebook" src="http://s.gr-assets.com/assets/facebook/fb-icon-8d74377d3ff4a368f05860c35d8025b2.png" />
+Sign in with Facebook
+</a>
+<div class='connectPromptAlternates'>
+<a href="/user/sign_up?connect_prompt=true">Sign in <br/> options</a>
+</div>
+</div>
+<div id='generalRegPrompt'>
+<div class='connectPromptButton'>
+<a href="/user/sign_up?connect_prompt=true" class="button orange">Join Goodreads</a>
+</div>
+</div>
+</div>
+<div class='clear'></div>
+</div>
+</div>
+
+
+
+<div class="reverseColumnSizes" itemscope itemtype="http://schema.org/Person">
+  <div class="leftContainer">
+      <a href="/photo/author/5350.L_M_Montgomery" rel="nofollow" title="L.M. Montgomery"><img alt="L.M. Montgomery" src="http://d.gr-assets.com/authors/1188896723p5/5350.jpg" /></a>
+
+    <br class="clear"/>
+      <br />
+
+
+
+
+
+    <div id="topListSection">
+      
+    </div>
+
+    <div id='div-gpt-ad-85bb63c385' style='width: 300px; height: 250px'>
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      googletag.display("div-gpt-ad-85bb63c385");
+    });
+  //]]>
+</script>
+
+</div>
+
+    <br />
+
+    <div id='cobrandSlot'>
+<div id='div-gpt-ad-d8e66c7ba6' style='width: 300px; height: 140px'>
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      googletag.display("div-gpt-ad-d8e66c7ba6");
+    });
+  //]]>
+</script>
+
+</div>
+
+</div>
+
+
+    <div>
+      <g:plusone></g:plusone>
+      <div class="fb-like" data-href="http://www.goodreads.com/author/show/5350.L_M_Montgomery" data-send="false" data-width="280" data-show-faces="true"></div>
+    </div>
+    <br/>
+
+
+
+    <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/author/fans/5350.L_M_Montgomery" rel="nofollow">L.M.'s Fans (4791)</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+  <div>
+    <a href="http://www.goodreads.com/user/show/4102264-danie" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Danie"><img alt="Danie" src="http://d.gr-assets.com/users/1342359468p1/4102264.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/19759762-bec-wolfe-thomas" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Bec Wolfe-thomas"><img alt="Bec Wol..." src="http://d.gr-assets.com/users/1366880799p1/19759762.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/19827724-cecilia-fiorda" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Cecilia Fiorda"><img alt="Cecilia..." src="http://d.gr-assets.com/users/1394718983p1/19827724.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/37855859-m-lissa-lafortune" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="MÃ©lissa Lafortune"><img alt="MÃ©lissa..." src="http://d.gr-assets.com/users/1420507909p1/37855859.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/28315345-eden-church" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Eden Church"><img alt="Eden Ch..." src="http://d.gr-assets.com/users/1404678868p1/28315345.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/24527514-danielle" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Danielle"><img alt="Danielle" src="http://d.gr-assets.com/users/1424082914p1/24527514.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/38543618-barbara-ayelen" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Barbara Ayelen"><img alt="Barbara..." src="http://d.gr-assets.com/users/1420021250p1/38543618.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/19153923-alexandra-fil" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Alexandra Fil"><img alt="Alexand..." src="http://d.gr-assets.com/users/1365267501p1/19153923.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/10812262-chantelle" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Chantelle"><img alt="Chantelle" src="http://d.gr-assets.com/users/1341856838p1/10812262.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/7767923-carla-munro" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Carla Munro"><img alt="Carla M..." src="http://d.gr-assets.com/users/1329337314p1/7767923.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/5745648-mandi" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Mandi"><img alt="Mandi" src="http://s.gr-assets.com/assets/nophoto/user/f_25x33-d79c46f9428d2aea1444d67c091766a6.png" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/15800897-karen" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Karen"><img alt="Karen" src="http://s.gr-assets.com/assets/nophoto/user/f_25x33-d79c46f9428d2aea1444d67c091766a6.png" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/22587291-adrienne" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Adrienne"><img alt="Adrienne" src="http://s.gr-assets.com/assets/nophoto/user/u_25x33-ccd24e68f4773d33a41ce08c3a34892e.png" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/25898891-r" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="R"><img alt="R" src="http://s.gr-assets.com/assets/nophoto/user/u_25x33-ccd24e68f4773d33a41ce08c3a34892e.png" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/39238137-katie-solt" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Katie Solt"><img alt="Katie Solt" src="http://d.gr-assets.com/users/1421431705p1/39238137.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/39947953-gazoe-hodei" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Gazoe Hodei"><img alt="Gazoe H..." src="http://d.gr-assets.com/users/1424183778p1/39947953.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/4901901-the-night-hawk-erin" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="The Night Hawk (Erin)"><img alt="The Nig..." src="http://d.gr-assets.com/users/1385781406p1/4901901.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/16640404-lori" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Lori"><img alt="Lori" src="http://d.gr-assets.com/users/1367096251p1/16640404.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/5000289-charlie-mcleod" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Charlie Mcleod"><img alt="Charlie..." src="http://d.gr-assets.com/users/1406826097p1/5000289.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/32437889-jennifer-elrod" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Jennifer Elrod"><img alt="Jennife..." src="http://d.gr-assets.com/users/1403311589p1/32437889.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/6992546-sarah-anderson" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Sarah Anderson"><img alt="Sarah A..." src="http://d.gr-assets.com/users/1371621701p1/6992546.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/21399701-harris" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Harris"><img alt="Harris" src="http://s.gr-assets.com/assets/nophoto/user/u_25x33-ccd24e68f4773d33a41ce08c3a34892e.png" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/40111091-caitlyn-mcmanus" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Caitlyn McManus"><img alt="Caitlyn..." src="http://s.gr-assets.com/assets/nophoto/user/f_25x33-d79c46f9428d2aea1444d67c091766a6.png" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/8834812-pinay" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Pinay"><img alt="Pinay" src="http://d.gr-assets.com/users/1363405368p1/8834812.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/40086477-eileen-morgan" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Eileen Morgan"><img alt="Eileen ..." src="http://d.gr-assets.com/users/1423456243p1/40086477.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/40099740-barbora-schreiberov" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Barbora SchreiberovÃÂ¡"><img alt="Barbora..." src="http://s.gr-assets.com/assets/nophoto/user/f_25x33-d79c46f9428d2aea1444d67c091766a6.png" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/40096835-naomi-bennet" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Naomi Bennet"><img alt="Naomi B..." src="http://d.gr-assets.com/users/1423489112p1/40096835.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/39248795-sara" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Sara"><img alt="Sara" src="http://s.gr-assets.com/assets/nophoto/user/f_25x33-d79c46f9428d2aea1444d67c091766a6.png" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/39792936-sierra" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Sierra"><img alt="Sierra" src="http://d.gr-assets.com/users/1423860237p1/39792936.jpg" /></a>
+  </div>
+  <div>
+    <a href="http://www.goodreads.com/user/show/17501940-betul-aisha" class="leftAlignedImage" style="margin-bottom: 5px; margin-right: 5px;" title="Betul Aisha"><img alt="Betul A..." src="http://d.gr-assets.com/users/1421786610p1/17501940.jpg" /></a>
+  </div>
+
+	<a href="/author/fans/5350" class="actionLinkLite" rel="nofollow" style="float: right">More fans&hellip;</a>
+	<br class="clear"/>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+
+    
+    <br/><br/>
+
+    
+
+    
+    <div id='div-gpt-ad-a3ed7abdfc' style='width: 300px; height: 250px'>
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      googletag.display("div-gpt-ad-a3ed7abdfc");
+    });
+  //]]>
+</script>
+
+</div>
+
+  </div>
+  <div class="rightContainer">
+    
+<div class="bigGreyBox"><div class="bigGreyBoxBody"><div class="bigGreyBoxContent">
+  <div>
+    <h1 class="authorName">
+    	<span itemprop="name">L.M. Montgomery</span>
+    </h1>
+
+    <h3 class="right greyText" style="text-align: right">
+      Author profile
+    </h3>
+  </div>
+  <br class="clear"/>
+
+
+    <div class="dataTitle">born</div>
+    in Clifton (New London), Prince Edward Island, Canada
+      <div class="dataItem" itemprop='birthDate'>
+          November 30, 1874
+      </div>
+    <br class="clear"/>
+
+    <div class="dataTitle">died</div>
+    <div class="dataItem" itemprop='deathDate'>April 24, 1942</div>
+    <br class="clear"/>
+
+    <div class="dataTitle">gender</div>
+    <div class="dataItem" itemprop='gender'>female</div>
+    <br class="clear"/>
+
+
+
+    <div class="dataTitle">genre</div>
+    <div class="dataItem">
+  		<a href="/genres/children-s-books">Children's Books</a>, <a href="/genres/literature-fiction">Literature &amp; Fiction</a>
+  	</div>
+    <br class="clear"/>
+
+
+
+  <div>
+  	<br/>
+  	<div class="columnHeader" style="float: left;">About this author</div>
+  	<div style="float: right;">
+    	<a href="/author/edit/5350.L_M_Montgomery" class="smallText greyText" rel="nofollow">edit data</a>
+    </div>
+  	<br class="clear"/>
+  	
+<span id="freeTextContainerauthor5350"><strong>Lucy Maud Montgomery</strong> was a Canadian author, best known for a series of novels beginning with Anne of Green Gables, published in 1908.<br><br>The author of the famous Canadian novel Anne of Green Gables, Lucy Maud Montgomery, was born at Clifton, Prince Edward Island, Nov. 30, 1874. She came to live at Leaskdale, north of Uxbridge Ontario, in 1911 after her wedding with Rev. Ewen Macdonald on July 11, 1911 in Prince Edward Island. Her three children were born at Leaskdale, and she wrote close to a dozen books while she was living in the Leaskdale Manse before the Macdonald family moved to Norval, Ontario in 1926. <br><br>Maud died in Toronto April 24, 1942 and was buried at Cavendish, Prince Edward Island.<br><br>For more information, please see <a href="http://en.wikipedia.org/wiki/Lucy_Maud_Montgomery" target="_blank" rel="nofollow">http://en.wikipedia</a></span>
+  <span id="freeTextauthor5350" style="display:none"><strong>Lucy Maud Montgomery</strong> was a Canadian author, best known for a series of novels beginning with Anne of Green Gables, published in 1908.<br><br>The author of the famous Canadian novel Anne of Green Gables, Lucy Maud Montgomery, was born at Clifton, Prince Edward Island, Nov. 30, 1874. She came to live at Leaskdale, north of Uxbridge Ontario, in 1911 after her wedding with Rev. Ewen Macdonald on July 11, 1911 in Prince Edward Island. Her three children were born at Leaskdale, and she wrote close to a dozen books while she was living in the Leaskdale Manse before the Macdonald family moved to Norval, Ontario in 1926. <br><br>Maud died in Toronto April 24, 1942 and was buried at Cavendish, Prince Edward Island.<br><br>For more information, please see <a href="http://en.wikipedia.org/wiki/Lucy_Maud_Montgomery" target="_blank" rel="nofollow">http://en.wikipedia.org/wiki/Lucy_Mau...</a></span>
+  <a data-text-id="author5350" href="#" onclick="swapContent($(this));; return false;">...more</a>
+  </div>
+</div></div><div class="bigGreyBoxBottom"></div></div><br class="clear" />
+
+    <br/>
+
+      
+
+      
+<div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><div class="extraHeader"><a href="/book/combine/5350.L_M_Montgomery" rel="nofollow">combine editions</a></div><a href="/author/list/5350.L_M_Montgomery">L.M. Montgomery's Books</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+  <div class="hreview-aggregate" style="padding-bottom: 5px"   itemprop="aggregateRating"
+        itemscope itemprop="http://schema.org/AggregateRating">
+    <span class="item" style="display:none"><span class="fn">L.M. Montgomery</span></span>
+    <span class="rating">
+      Average rating:
+      <span class="average" itemprop='ratingValue'>4.17</span>
+    </span>
+    <div class="floatingBox" style="display:none; width: 400px;" id="ratingDistribution5350">
+      <img alt="Loading" src="http://s.gr-assets.com/assets/loading-45f04d682f1e9151cf1e6fb18a1bde21.gif" />
+    </div>
+    &middot; <span class="votes"><span class="value-title" title="937139">937,139</span></span> ratings
+    &middot; <span class="count"><span class="value-title" title="23412" itemprop='reviewsCount'>23,412</span></span> reviews
+    &middot; <a href="/author/list/5350.L_M_Montgomery">268 distinct works</a>
+    &middot; <a href="/author/similar/5350.L_M_Montgomery">Similar authors</a>
+  </div>
+
+    <table cellspacing="0" cellpadding="0" border="0" width="100%" class="stacked tableList">
+        
+<script type="text/javascript" charset="utf-8">
+  document.onclick = checkOpenSelects;
+
+  function submitShelfLink(unique_id, book_id, shelf_id, shelf_name, submit_form, exclusive) {
+    var checkbox_id = 'shelf_name_' + unique_id + '_' + shelf_id;
+    var element = document.getElementById(checkbox_id)
+
+    var checked = element.checked
+    if (checked && exclusive) {
+      // can't uncheck a radio by clicking it!
+      return
+    }
+    if(document.getElementById("savingMessage")){
+      Element.show('savingMessage')
+    }
+    var element_id = 'shelfInDropdownName_' + unique_id + '_' + shelf_id;
+    Element.update(element_id, "saving...");
+    if (submit_form) {
+      Element.hide('shelfDropdown_' + unique_id)
+      var form = document.getElementById('addBookForm' + book_id)
+      if (form) {
+        form.shelf.value = shelf_name
+        form.onsubmit()
+      }
+    }
+    else {
+      var action = checked ? 'remove' : ''
+      element.checked = !element.checked
+      new Ajax.Request('/shelf/add_to_shelf', {asynchronous:true, evalScripts:true, onSuccess:function(request){shelfSubmitted(request, book_id, checkbox_id, element_id, unique_id, shelf_name)}, parameters:'book_id=' + book_id + '&name=' + shelf_name + '&a=' + action + '&authenticity_token=' + encodeURIComponent('24TseOw0wLMQz5yMV0JP3IuBNTjadlDZtDSu94f+0kluDZTL152xzSx6CVvUzo9taBO8smS9XuL9fjdtBKTCHw==')})
+    }
+  }
+
+  function shelfSubmitted(request, book_id, checkbox_id, element_id, unique_id, shelf_name) {
+    Element.update('shelfListfalse_' + book_id, request.responseText)
+    afterShelfSave(checkbox_id, element_id, unique_id, shelf_name.escapeHTML())
+  }
+
+  function refreshGroupBox(group_id, book_id) {
+    new Ajax.Updater('addGroupBooks' + book_id + '', '/group/add_book_box', {asynchronous:true, evalScripts:true, onSuccess:function(request){refreshGroupBoxComplete(request, book_id);}, parameters:'id=' + group_id + '&book_id=' + book_id + '&refresh=true' + '&authenticity_token=' + encodeURIComponent('EZ0krfMje+3AnOfADCpr6SZ5XRdAac+LVclT3Ads8dGkFFweyIoKk/wpchePpqtYxevUnf6iwbAcg8pGhDbhhw==')})
+  }
+</script>
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <a name="8127"></a>
+        <a href="/book/show/8127.Anne_of_Green_Gables" title="Anne of Green Gables">
+          <img alt="Anne of Green Gables (Anne ..." class="bookSmallImg" src="http://d.gr-assets.com/books/1390789015s/8127.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a href="/book/show/8127.Anne_of_Green_Gables" class="bookTitle" itemprop="url">
+        <span itemprop='name'>Anne of Green Gables (Anne of Green Gables, #1)</span>
+</a>      <br/>
+        <span class="greyText smallText uitext">
+          <span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.2 of 5 stars">4.2 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.2 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.2 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.2 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.2 of 5 stars"></a></span> 4.20 avg rating &mdash; 421,123 ratings</span>
+            &mdash;
+              published
+             1908
+            &mdash;
+            <a href="/work/editions/3464264-anne-of-green-gables" class="greyText" rel="nofollow">773 editions</a>
+        </span>
+        
+
+
+    </td>
+
+      <td width="130px" >
+        <div class='wtrButtonContainer wtrSignedOut' id='1_book_8127'>
+<div class='wtrUp wtrLeft'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="0Y4FAFxdjKfunz96lKp/9FuUCcec5mB63MZqv7Y9+nlkB32zZ/T92dIqqq0XJr9FuAaATSItbkGVjPMlNWfqLw==" /></div>
+<input id="book_id" name="book_id" type="hidden" value="8127" />
+<input id="name" name="name" type="hidden" value="to-read" />
+<input id="unique_id" name="unique_id" type="hidden" value="1_book_8127" />
+<input id="wtr_new" name="wtr_new" type="hidden" value="true" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_search" name="from_search" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value="" />
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>savingâ¦</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="8W+yc8wZk08+jLBxK5pO6XO1COCj1plu00WYNeQfOtVE5srA97DiMQI5JaaoFo5YkCeBah0dl1WaDwGvZ0Uqgw==" /></div>
+<input id="unique_id" name="unique_id" type="hidden" value="1_book_8127" />
+<input id="book_id" name="book_id" type="hidden" value="8127" />
+<input id="a" name="a" type="hidden" />
+<input id="name" name="name" type="hidden" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+</form>
+
+<button class='wtrShelfButton'></button>
+<div class='wtrShelfMenu'>
+<ul class='wtrExclusiveShelves'>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='to-read'>
+<span class='progressTrigger'>Want to Read</span>
+<img alt="savingâ¦" class="progressIndicator" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='currently-reading'>
+<span class='progressTrigger'>Currently Reading</span>
+<img alt="savingâ¦" class="progressIndicator" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='read'>
+<span class='progressTrigger'>Read</span>
+<img alt="savingâ¦" class="progressIndicator" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+</ul>
+</div>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="8127" data-submit-url="/review/rate/8127?stars_click=true&wtr_button_id=1_book_8127" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+      </td>
+
+  </tr>
+
+
+        
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <a name="3579"></a>
+        <a href="/book/show/3579.The_Complete_Anne_of_Green_Gables_Boxed_Set" title="The Complete Anne of Green Gables Boxed Set">
+          <img alt="The Complete Anne of Green ..." class="bookSmallImg" src="http://d.gr-assets.com/books/1267721500s/3579.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a href="/book/show/3579.The_Complete_Anne_of_Green_Gables_Boxed_Set" class="bookTitle" itemprop="url">
+        <span itemprop='name'>The Complete Anne of Green Gables Boxed Set (Anne of Green Gables, #1-8)</span>
+</a>      <br/>
+        <span class="greyText smallText uitext">
+          <span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.42 of 5 stars">4.42 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.42 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.42 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.42 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.42 of 5 stars"></a></span> 4.42 avg rating &mdash; 85,349 ratings</span>
+            &mdash;
+              published
+             1908
+            &mdash;
+            <a href="/work/editions/7365-the-complete-anne-of-green-gables-boxed-set" class="greyText" rel="nofollow">28 editions</a>
+        </span>
+        
+
+
+    </td>
+
+      <td width="130px" >
+        <div class='wtrButtonContainer wtrSignedOut' id='2_book_3579'>
+<div class='wtrUp wtrLeft'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="FdHtaVklKst3eKACy+ztB5I04XN2r1TJZ9BQcW3HO5agWJXaYoxbtUvNNdVIYC22caZo+chkWvIumsnr7p0rwA==" /></div>
+<input id="book_id" name="book_id" type="hidden" value="3579" />
+<input id="name" name="name" type="hidden" value="to-read" />
+<input id="unique_id" name="unique_id" type="hidden" value="2_book_3579" />
+<input id="wtr_new" name="wtr_new" type="hidden" value="true" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_search" name="from_search" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value="" />
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>savingâ¦</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="gYiLVU2ZMzDRy4FZ86jaaKDuSKVSci6Ntt+kLy8Q8fc0AfPmdjBCTu1+FI5wJBrZQ3zBL+y5ILb/lT21rErhoQ==" /></div>
+<input id="unique_id" name="unique_id" type="hidden" value="2_book_3579" />
+<input id="book_id" name="book_id" type="hidden" value="3579" />
+<input id="a" name="a" type="hidden" />
+<input id="name" name="name" type="hidden" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="3579" data-submit-url="/review/rate/3579?stars_click=true&wtr_button_id=2_book_3579" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+      </td>
+
+  </tr>
+
+
+        
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <a name="77392"></a>
+        <a href="/book/show/77392.Anne_of_the_Island" title="Anne of the Island">
+          <img alt="Anne of the Island (Anne of..." class="bookSmallImg" src="http://d.gr-assets.com/books/1390094674s/77392.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a href="/book/show/77392.Anne_of_the_Island" class="bookTitle" itemprop="url">
+        <span itemprop='name'>Anne of the Island (Anne of Green Gables, #3)</span>
+</a>      <br/>
+        <span class="greyText smallText uitext">
+          <span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.19 of 5 stars">4.19 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.19 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.19 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.19 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.19 of 5 stars"></a></span> 4.19 avg rating &mdash; 76,790 ratings</span>
+            &mdash;
+              published
+             1915
+            &mdash;
+            <a href="/work/editions/535245-anne-of-the-island" class="greyText" rel="nofollow">274 editions</a>
+        </span>
+        
+
+
+    </td>
+
+      <td width="130px" >
+        <div class='wtrButtonContainer wtrSignedOut' id='3_book_77392'>
+<div class='wtrUp wtrLeft'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="gojfC8XI8dmzitWiQmmw3uCFlhFb+qn81Od8hvc3XPs3Aae4/mGAp48/QHXB5XBvAxcfm+Uxp8edreUcdG1MrQ==" /></div>
+<input id="book_id" name="book_id" type="hidden" value="77392" />
+<input id="name" name="name" type="hidden" value="to-read" />
+<input id="unique_id" name="unique_id" type="hidden" value="3_book_77392" />
+<input id="wtr_new" name="wtr_new" type="hidden" value="true" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_search" name="from_search" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value="" />
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>savingâ¦</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="D6URZc2IMXHquhwVPdFf4hWvmg/mJQDoxNt0d4kgaRa6LGnW9iFAD9YPicK+XZ9T9j0ThVjuDtONke3tCnp5QA==" /></div>
+<input id="unique_id" name="unique_id" type="hidden" value="3_book_77392" />
+<input id="book_id" name="book_id" type="hidden" value="77392" />
+<input id="a" name="a" type="hidden" />
+<input id="name" name="name" type="hidden" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="77392" data-submit-url="/review/rate/77392?stars_click=true&wtr_button_id=3_book_77392" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+      </td>
+
+  </tr>
+
+
+        
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <a name="77390"></a>
+        <a href="/book/show/77390.Anne_of_Avonlea" title="Anne of Avonlea">
+          <img alt="Anne of Avonlea (Anne of Gr..." class="bookSmallImg" src="http://d.gr-assets.com/books/1305545757s/77390.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a href="/book/show/77390.Anne_of_Avonlea" class="bookTitle" itemprop="url">
+        <span itemprop='name'>Anne of Avonlea (Anne of Green Gables, #2)</span>
+</a>      <br/>
+        <span class="greyText smallText uitext">
+          <span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.18 of 5 stars">4.18 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.18 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.18 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.18 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.18 of 5 stars"></a></span> 4.18 avg rating &mdash; 74,847 ratings</span>
+            &mdash;
+              published
+             1909
+            &mdash;
+            <a href="/work/editions/63845-anne-of-avonlea" class="greyText" rel="nofollow">328 editions</a>
+        </span>
+        
+
+
+    </td>
+
+      <td width="130px" >
+        <div class='wtrButtonContainer wtrSignedOut' id='4_book_77390'>
+<div class='wtrUp wtrLeft'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Nq98EBfJilXvsVRfm8MP183WMrP7bVNfDawWkLv5UHCDJgSjLGD7K9MEwYgYT89mLkS7OUWmXWRE5o8KOKNAJg==" /></div>
+<input id="book_id" name="book_id" type="hidden" value="77390" />
+<input id="name" name="name" type="hidden" value="to-read" />
+<input id="unique_id" name="unique_id" type="hidden" value="4_book_77390" />
+<input id="wtr_new" name="wtr_new" type="hidden" value="true" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_search" name="from_search" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value="" />
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>savingâ¦</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="x1Zae5DjkQOc3IqL2eCXtJULBZvKIiO5AKuO3y09Wvhy3yLIq0rgfaBpH1xabFcFdpmMEXTpLYJJ4RdFrmdKrg==" /></div>
+<input id="unique_id" name="unique_id" type="hidden" value="4_book_77390" />
+<input id="book_id" name="book_id" type="hidden" value="77390" />
+<input id="a" name="a" type="hidden" />
+<input id="name" name="name" type="hidden" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="77390" data-submit-url="/review/rate/77390?stars_click=true&wtr_button_id=4_book_77390" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+      </td>
+
+  </tr>
+
+
+        
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <a name="77394"></a>
+        <a href="/book/show/77394.Anne_s_House_of_Dreams" title="Anne's House of Dreams">
+          <img alt="Anne's House of Dreams (Ann..." class="bookSmallImg" src="http://d.gr-assets.com/books/1388438504s/77394.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a href="/book/show/77394.Anne_s_House_of_Dreams" class="bookTitle" itemprop="url">
+        <span itemprop='name'>Anne's House of Dreams (Anne of Green Gables, #5)</span>
+</a>      <br/>
+        <span class="greyText smallText uitext">
+          <span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.1 of 5 stars">4.1 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.1 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.1 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.1 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.1 of 5 stars"></a></span> 4.10 avg rating &mdash; 35,542 ratings</span>
+            &mdash;
+              published
+             1917
+            &mdash;
+            <a href="/work/editions/1133797-anne-s-house-of-dreams" class="greyText" rel="nofollow">221 editions</a>
+        </span>
+        
+
+
+    </td>
+
+      <td width="130px" >
+        <div class='wtrButtonContainer wtrSignedOut' id='5_book_77394'>
+<div class='wtrUp wtrLeft'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1KPTe2WpfCObDodRtS3dFG8IEzj8pOu6T8MOqQHRUnFhKqvIXgANXae7EoY2oR2ljJqaskJv5YEGiZczgotCJw==" /></div>
+<input id="book_id" name="book_id" type="hidden" value="77394" />
+<input id="name" name="name" type="hidden" value="to-read" />
+<input id="unique_id" name="unique_id" type="hidden" value="5_book_77394" />
+<input id="wtr_new" name="wtr_new" type="hidden" value="true" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_search" name="from_search" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value="" />
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>savingâ¦</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="37tQDpDF8f0UIXfMQnRgwtEZwq9bgJqSWJsUYgUZu0FqMii9q2yAgyiU4hvB+KBzMotLJeVLlKkR0Y34hkOrFw==" /></div>
+<input id="unique_id" name="unique_id" type="hidden" value="5_book_77394" />
+<input id="book_id" name="book_id" type="hidden" value="77394" />
+<input id="a" name="a" type="hidden" />
+<input id="name" name="name" type="hidden" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="77394" data-submit-url="/review/rate/77394?stars_click=true&wtr_button_id=5_book_77394" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+      </td>
+
+  </tr>
+
+
+        
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <a name="65840"></a>
+        <a href="/book/show/65840.Anne_of_Windy_Poplars" title="Anne of Windy Poplars">
+          <img alt="Anne of Windy Poplars (Anne..." class="bookSmallImg" src="http://d.gr-assets.com/books/1348613064s/65840.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a href="/book/show/65840.Anne_of_Windy_Poplars" class="bookTitle" itemprop="url">
+        <span itemprop='name'>Anne of Windy Poplars (Anne of Green Gables, #4)</span>
+</a>      <br/>
+        <span class="greyText smallText uitext">
+          <span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.98 of 5 stars">3.98 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.98 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.98 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.98 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.98 of 5 stars"></a></span> 3.98 avg rating &mdash; 35,200 ratings</span>
+            &mdash;
+              published
+             1936
+            &mdash;
+            <a href="/work/editions/2946564-anne-of-windy-poplars" class="greyText" rel="nofollow">106 editions</a>
+        </span>
+        
+
+
+    </td>
+
+      <td width="130px" >
+        <div class='wtrButtonContainer wtrSignedOut' id='6_book_65840'>
+<div class='wtrUp wtrLeft'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ONtmlZPuEEriBmMWFJWDOJnYoSEn47NZFFczuPCqqtuNUh4mqEdhNN6z9sGXGUOJekooq5kovWJdHaoic/C6jQ==" /></div>
+<input id="book_id" name="book_id" type="hidden" value="65840" />
+<input id="name" name="name" type="hidden" value="to-read" />
+<input id="unique_id" name="unique_id" type="hidden" value="6_book_65840" />
+<input id="wtr_new" name="wtr_new" type="hidden" value="true" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_search" name="from_search" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value="" />
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>savingâ¦</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="x2XgXPVukKCzQ+/Zkf5MstnGUHMXsqQ25Ce0JH6w6pZy7Jjvzsfh3o/2eg4ScowDOlTZ+al5qg2tbS2+/er6wA==" /></div>
+<input id="unique_id" name="unique_id" type="hidden" value="6_book_65840" />
+<input id="book_id" name="book_id" type="hidden" value="65840" />
+<input id="a" name="a" type="hidden" />
+<input id="name" name="name" type="hidden" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="65840" data-submit-url="/review/rate/65840?stars_click=true&wtr_button_id=6_book_65840" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+      </td>
+
+  </tr>
+
+
+        
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <a name="77391"></a>
+        <a href="/book/show/77391.Anne_of_Ingleside" title="Anne of Ingleside">
+          <img alt="Anne of Ingleside (Anne of ..." class="bookSmallImg" src="http://d.gr-assets.com/books/1285712495s/77391.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a href="/book/show/77391.Anne_of_Ingleside" class="bookTitle" itemprop="url">
+        <span itemprop='name'>Anne of Ingleside (Anne of Green Gables, #6)</span>
+</a>      <br/>
+        <span class="greyText smallText uitext">
+          <span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.02 of 5 stars">4.02 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.02 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.02 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.02 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.02 of 5 stars"></a></span> 4.02 avg rating &mdash; 28,194 ratings</span>
+            &mdash;
+              published
+             1939
+            &mdash;
+            <a href="/work/editions/1404690-anne-of-ingleside" class="greyText" rel="nofollow">88 editions</a>
+        </span>
+        
+
+
+    </td>
+
+      <td width="130px" >
+        <div class='wtrButtonContainer wtrSignedOut' id='7_book_77391'>
+<div class='wtrUp wtrLeft'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="mTx7UidF6aMAn1s1vJ6SheJ/tVyQwrVh2oK0PWUKJZ8stQPhHOyY3TwqzuI/ElI0Ae081i4Ju1qTyC2n5lA1yQ==" /></div>
+<input id="book_id" name="book_id" type="hidden" value="77391" />
+<input id="name" name="name" type="hidden" value="to-read" />
+<input id="unique_id" name="unique_id" type="hidden" value="7_book_77391" />
+<input id="wtr_new" name="wtr_new" type="hidden" value="true" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_search" name="from_search" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value="" />
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>savingâ¦</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="JJyldHAKglIhLUcvldhVDTJmYkhSNB0+vLtIOW3XPUmRFd3HS6PzLB2Y0vgWVJW80fTrwuz/EwX18dGj7o0tHw==" /></div>
+<input id="unique_id" name="unique_id" type="hidden" value="7_book_77391" />
+<input id="book_id" name="book_id" type="hidden" value="77391" />
+<input id="a" name="a" type="hidden" />
+<input id="name" name="name" type="hidden" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="77391" data-submit-url="/review/rate/77391?stars_click=true&wtr_button_id=7_book_77391" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+      </td>
+
+  </tr>
+
+
+        
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <a name="3562"></a>
+        <a href="/book/show/3562.Emily_of_New_Moon" title="Emily of New Moon">
+          <img alt="Emily of New Moon (Emily of..." class="bookSmallImg" src="http://d.gr-assets.com/books/1327883976s/3562.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a href="/book/show/3562.Emily_of_New_Moon" class="bookTitle" itemprop="url">
+        <span itemprop='name'>Emily of New Moon (Emily of New Moon, #1)</span>
+</a>      <br/>
+        <span class="greyText smallText uitext">
+          <span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.08 of 5 stars">4.08 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.08 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.08 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.08 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.08 of 5 stars"></a></span> 4.08 avg rating &mdash; 26,623 ratings</span>
+            &mdash;
+              published
+             1923
+            &mdash;
+            <a href="/work/editions/1223124-emily-of-new-moon-emily-of-new-moon-1" class="greyText" rel="nofollow">83 editions</a>
+        </span>
+        
+
+
+    </td>
+
+      <td width="130px" >
+        <div class='wtrButtonContainer wtrSignedOut' id='8_book_3562'>
+<div class='wtrUp wtrLeft'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="OpBY5ETdRZMy+TdQV4Li5BClTg/7jXvlI1Ai7CoRHFuPGSBXf3Q07Q5MoofUDiJV8zfHhUVGdd5qGrt2qUsMDQ==" /></div>
+<input id="book_id" name="book_id" type="hidden" value="3562" />
+<input id="name" name="name" type="hidden" value="to-read" />
+<input id="unique_id" name="unique_id" type="hidden" value="8_book_3562" />
+<input id="wtr_new" name="wtr_new" type="hidden" value="true" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_search" name="from_search" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value="" />
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>savingâ¦</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="KAQJGRXMVv5hZnWtKtIMmaBQX32fYnds6eJqZgRLk9GdjXGqLmUngF3T4HqpXswoQ8LW9yGpeVegqPP8hxGDhw==" /></div>
+<input id="unique_id" name="unique_id" type="hidden" value="8_book_3562" />
+<input id="book_id" name="book_id" type="hidden" value="3562" />
+<input id="a" name="a" type="hidden" />
+<input id="name" name="name" type="hidden" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="3562" data-submit-url="/review/rate/3562?stars_click=true&wtr_button_id=8_book_3562" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+      </td>
+
+  </tr>
+
+
+        
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <a name="433533"></a>
+        <a href="/book/show/433533.Rilla_of_Ingleside" title="Rilla of Ingleside">
+          <img alt="Rilla of Ingleside (Anne of..." class="bookSmallImg" src="http://d.gr-assets.com/books/1285712722s/433533.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a href="/book/show/433533.Rilla_of_Ingleside" class="bookTitle" itemprop="url">
+        <span itemprop='name'>Rilla of Ingleside (Anne of Green Gables, #8)</span>
+</a>      <br/>
+        <span class="greyText smallText uitext">
+          <span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.13 of 5 stars">4.13 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.13 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.13 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.13 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.13 of 5 stars"></a></span> 4.13 avg rating &mdash; 23,580 ratings</span>
+            &mdash;
+              published
+             1921
+            &mdash;
+            <a href="/work/editions/1791604-rilla-of-ingleside" class="greyText" rel="nofollow">158 editions</a>
+        </span>
+        
+
+
+    </td>
+
+      <td width="130px" >
+        <div class='wtrButtonContainer wtrSignedOut' id='9_book_433533'>
+<div class='wtrUp wtrLeft'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="N0duk/wLXOFPxxN1YNrLFGvE9H0LkITit0DtO7+NvRKCzhYgx6Itn3NyhqLjVguliFZ997Vbitn+CnShPNetRA==" /></div>
+<input id="book_id" name="book_id" type="hidden" value="433533" />
+<input id="name" name="name" type="hidden" value="to-read" />
+<input id="unique_id" name="unique_id" type="hidden" value="9_book_433533" />
+<input id="wtr_new" name="wtr_new" type="hidden" value="true" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_search" name="from_search" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value="" />
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>savingâ¦</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="l+fe08oLehlSkWi6qxkrNKtIekqq5Xk9LgLjGxtFvBAibqZg8aILZ24k/W0oleuFSNrzwBQudwZnSHqBmB+sRg==" /></div>
+<input id="unique_id" name="unique_id" type="hidden" value="9_book_433533" />
+<input id="book_id" name="book_id" type="hidden" value="433533" />
+<input id="a" name="a" type="hidden" />
+<input id="name" name="name" type="hidden" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="433533" data-submit-url="/review/rate/433533?stars_click=true&wtr_button_id=9_book_433533" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+      </td>
+
+  </tr>
+
+
+        
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <a name="77395"></a>
+        <a href="/book/show/77395.Rainbow_Valley" title="Rainbow Valley">
+          <img alt="Rainbow Valley (Anne of Gre..." class="bookSmallImg" src="http://d.gr-assets.com/books/1403192556s/77395.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a href="/book/show/77395.Rainbow_Valley" class="bookTitle" itemprop="url">
+        <span itemprop='name'>Rainbow Valley (Anne of Green Gables, #7)</span>
+</a>      <br/>
+        <span class="greyText smallText uitext">
+          <span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.97 of 5 stars">3.97 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.97 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.97 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.97 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.97 of 5 stars"></a></span> 3.97 avg rating &mdash; 21,681 ratings</span>
+            &mdash;
+              published
+             1919
+            &mdash;
+            <a href="/work/editions/7071165-rainbow-valley" class="greyText" rel="nofollow">165 editions</a>
+        </span>
+        
+
+
+    </td>
+
+      <td width="130px" >
+        <div class='wtrButtonContainer wtrSignedOut' id='10_book_77395'>
+<div class='wtrUp wtrLeft'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="uy8gT3UWRBGQEV+BTUiQV60ePl9wSAuDjKtNEbECZ68Oplj8Tr81b6ykylbOxFDmToy31c6DBbjF4dSLMlh3+Q==" /></div>
+<input id="book_id" name="book_id" type="hidden" value="77395" />
+<input id="name" name="name" type="hidden" value="to-read" />
+<input id="unique_id" name="unique_id" type="hidden" value="10_book_77395" />
+<input id="wtr_new" name="wtr_new" type="hidden" value="true" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_search" name="from_search" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value="" />
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>savingâ¦</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="OvQBapMTGb3FuB9UCuV2WFcmZtX8C4ItxMPPDKPn87mPfXnZqLpow/kNioOJabbptLTvX0LAjBaNiVaWIL3j7w==" /></div>
+<input id="unique_id" name="unique_id" type="hidden" value="10_book_77395" />
+<input id="book_id" name="book_id" type="hidden" value="77395" />
+<input id="a" name="a" type="hidden" />
+<input id="name" name="name" type="hidden" />
+<input id="from_choice" name="from_choice" type="hidden" value="false" />
+<input id="from_home_module" name="from_home_module" type="hidden" value="false" />
+<input id="page_url" name="page_url" type="hidden" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="77395" data-submit-url="/review/rate/77395?stars_click=true&wtr_button_id=10_book_77395" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+      </td>
+
+  </tr>
+
+
+    </table>
+
+    <a href="/author/list/5350.L_M_Montgomery" class="actionLink" style="float: right">More books by L.M. Montgomery&hellip;</a>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+      <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/series/list?id=5350.L_M_Montgomery">Series by L.M. Montgomery</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+            <div class="bookRow seriesBookRow clearfix">
+
+      <div class="seriesCovers">
+  	          <a href="/series/40890-anne-of-green-gables" title="Anne of Green Gables"><img alt="Anne of Green Gables" src="http://d.gr-assets.com/books/1390789015s/8127.jpg" /></a>
+  	          <a href="/series/40890-anne-of-green-gables" title="Anne of Avonlea"><img alt="Anne of Avonlea" src="http://d.gr-assets.com/books/1305545757s/77390.jpg" /></a>
+  	          <a href="/series/40890-anne-of-green-gables" title="Anne of the Island"><img alt="Anne of the Island" src="http://d.gr-assets.com/books/1390094674s/77392.jpg" /></a>
+  	          <a href="/series/40890-anne-of-green-gables" title="Anne of Windy Poplars"><img alt="Anne of Windy Poplars" src="http://d.gr-assets.com/books/1348613064s/65840.jpg" /></a>
+  	          <a href="/series/40890-anne-of-green-gables" title="Anne's House of Dreams"><img alt="Anne's House of Dreams" src="http://d.gr-assets.com/books/1388438504s/77394.jpg" /></a>
+  	          <a href="/series/40890-anne-of-green-gables" title="Anne of Ingleside"><img alt="Anne of Ingleside" src="http://d.gr-assets.com/books/1285712495s/77391.jpg" /></a>
+  	          <a href="/series/40890-anne-of-green-gables" title="Rainbow Valley"><img alt="Rainbow Valley" src="http://d.gr-assets.com/books/1403192556s/77395.jpg" /></a>
+      </div>
+
+      <div class="seriesDesc" style="max-width: 193px">
+        <a href="/series/40890-anne-of-green-gables" class="bookTitle">Anne of Green Gables</a>
+        <span class="bookMeta">
+          (9 books)
+        </span>
+        <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a href="http://www.goodreads.com/author/show/5350.L_M_Montgomery" class="authorName" itemprop="url"><span itemprop="name">L.M. Montgomery</span></a>
+</span>
+
+          <br/>
+          <span class="greyText smallText uitext">
+            <span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.189560966729318 of 5 stars">4.189560966729318 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.189560966729318 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.189560966729318 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.189560966729318 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.189560966729318 of 5 stars"></a></span> 4.19 avg rating &mdash; 812,968 ratings</span>
+          </span>
+      </div>
+
+    </div>
+    <br class="clear" />
+    <div class="bookRow seriesBookRow clearfix">
+
+      <div class="seriesCovers">
+  	          <a href="/series/49418-emily-of-new-moon" title="Emily of New Moon"><img alt="Emily of New Moon" src="http://d.gr-assets.com/books/1327883976s/3562.jpg" /></a>
+  	          <a href="/series/49418-emily-of-new-moon" title="Emily Climbs"><img alt="Emily Climbs" src="http://d.gr-assets.com/books/1403189071s/773514.jpg" /></a>
+  	          <a href="/series/49418-emily-of-new-moon" title="Emily's Quest"><img alt="Emily's Quest" src="http://d.gr-assets.com/books/1388191272s/773507.jpg" /></a>
+      </div>
+
+      <div class="seriesDesc" style="max-width: 437px">
+        <a href="/series/49418-emily-of-new-moon" class="bookTitle">Emily of New Moon</a>
+        <span class="bookMeta">
+          (3 books)
+        </span>
+        <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a href="http://www.goodreads.com/author/show/5350.L_M_Montgomery" class="authorName" itemprop="url"><span itemprop="name">L.M. Montgomery</span></a>
+</span>
+
+          <br/>
+          <span class="greyText smallText uitext">
+            <span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.095616717635067 of 5 stars">4.095616717635067 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.095616717635067 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.095616717635067 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.095616717635067 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.095616717635067 of 5 stars"></a></span> 4.10 avg rating &mdash; 49,050 ratings</span>
+          </span>
+      </div>
+
+    </div>
+    <br class="clear" />
+    <div class="bookRow seriesBookRow clearfix">
+
+      <div class="seriesCovers">
+  	          <a href="/series/97003-the-story-girl" title="The Story Girl"><img alt="The Story Girl" src="http://d.gr-assets.com/books/1349056039s/821099.jpg" /></a>
+  	          <a href="/series/97003-the-story-girl" title="The Golden Road"><img alt="The Golden Road" src="http://d.gr-assets.com/books/1215010403s/198451.jpg" /></a>
+      </div>
+
+      <div class="seriesDesc" style="max-width: 498px">
+        <a href="/series/97003-the-story-girl" class="bookTitle">The Story Girl</a>
+        <span class="bookMeta">
+          (2 books)
+        </span>
+        <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a href="http://www.goodreads.com/author/show/5350.L_M_Montgomery" class="authorName" itemprop="url"><span itemprop="name">L.M. Montgomery</span></a>
+</span>
+
+          <br/>
+          <span class="greyText smallText uitext">
+            <span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.023711635911655 of 5 stars">4.023711635911655 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.023711635911655 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.023711635911655 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.023711635911655 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.023711635911655 of 5 stars"></a></span> 4.02 avg rating &mdash; 10,459 ratings</span>
+          </span>
+      </div>
+
+    </div>
+    <br class="clear" />
+    <div class="bookRow seriesBookRow clearfix">
+
+      <div class="seriesCovers">
+  	          <a href="/series/140970-chronicles-of-avonlea" title="Chronicles of Avonlea"><img alt="Chronicles of Avonlea" src="http://d.gr-assets.com/books/1320474234s/95694.jpg" /></a>
+  	          <a href="/series/140970-chronicles-of-avonlea" title="Further Chronicles of Avonlea"><img alt="Further Chronicles of Avonlea" src="http://d.gr-assets.com/books/1320394929s/518445.jpg" /></a>
+      </div>
+
+      <div class="seriesDesc" style="max-width: 498px">
+        <a href="/series/140970-chronicles-of-avonlea" class="bookTitle">Chronicles of Avonlea</a>
+        <span class="bookMeta">
+          (2 books)
+        </span>
+        <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a href="http://www.goodreads.com/author/show/5350.L_M_Montgomery" class="authorName" itemprop="url"><span itemprop="name">L.M. Montgomery</span></a>
+</span>
+
+          <br/>
+          <span class="greyText smallText uitext">
+            <span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.851918522027475 of 5 stars">3.851918522027475 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.851918522027475 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.851918522027475 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.851918522027475 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.851918522027475 of 5 stars"></a></span> 3.85 avg rating &mdash; 10,555 ratings</span>
+          </span>
+      </div>
+
+    </div>
+    <br class="clear" />
+    <div class="bookRow seriesBookRow clearfix">
+
+      <div class="seriesCovers">
+  	          <a href="/series/49662-pat-of-silver-bush" title="Pat of Silver Bush"><img alt="Pat of Silver Bush" src="http://d.gr-assets.com/books/1320477996s/3580.jpg" /></a>
+  	          <a href="/series/49662-pat-of-silver-bush" title="Mistress Pat"><img alt="Mistress Pat" src="http://d.gr-assets.com/books/1388264347s/101267.jpg" /></a>
+      </div>
+
+      <div class="seriesDesc" style="max-width: 498px">
+        <a href="/series/49662-pat-of-silver-bush" class="bookTitle">Pat of Silver Bush</a>
+        <span class="bookMeta">
+          (2 books)
+        </span>
+        <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a href="http://www.goodreads.com/author/show/5350.L_M_Montgomery" class="authorName" itemprop="url"><span itemprop="name">L.M. Montgomery</span></a>
+</span>
+
+          <br/>
+          <span class="greyText smallText uitext">
+            <span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.8305527346583492 of 5 stars">3.8305527346583492 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.8305527346583492 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.8305527346583492 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.8305527346583492 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.8305527346583492 of 5 stars"></a></span> 3.83 avg rating &mdash; 6,893 ratings</span>
+          </span>
+      </div>
+
+    </div>
+    <br class="clear" />
+
+          <a href="/series/list?id=5350.L_M_Montgomery" class="actionLink" style="float: right">More series by L.M. Montgomery&hellip;</a>
+
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+
+
+
+    
+
+    
+
+
+    <a name="quotes"></a>
+
+    <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/author/quotes/5350.L_M_Montgomery">Quotes by L.M. Montgomery</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+      			<div class="quote mediumText ">
+  <div class="quoteDetails ">
+    
+
+<div class="quoteText">
+      &ldquo;Isn't it nice to think that tomorrow is a new day with no mistakes in it yet?&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/5350.L_M_Montgomery">L.M. Montgomery</a>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/beginnings">beginnings</a>,
+       <a href="/quotes/tag/fresh-start">fresh-start</a>,
+       <a href="/quotes/tag/inspirational">inspirational</a>,
+       <a href="/quotes/tag/mistake">mistake</a>,
+       <a href="/quotes/tag/mistakes">mistakes</a>,
+       <a href="/quotes/tag/new-day">new-day</a>,
+       <a href="/quotes/tag/start-over">start-over</a>,
+       <a href="/quotes/tag/tomorrow">tomorrow</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/45451-isn-t-it-nice-to-think-that-tomorrow-is-a-new" class="smallText" title="View this quote">6766 likes</a>
+   </div>
+</div>
+
+
+  </div>
+    <div class="action">
+        <a href="/user/new" class="button" rel="nofollow">like</a>
+    </div>
+  <br class="clear"/>
+</div>
+
+	<div class="quote mediumText ">
+  <div class="quoteDetails ">
+    
+
+<div class="quoteText">
+      &ldquo;It's been my experience that you can nearly always enjoy things if you make up your mind firmly that you will.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/5350.L_M_Montgomery">L.M. Montgomery</a>,
+    <i>
+      <a href="/work/quotes/3464264">Anne of Green Gables</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/happiness">happiness</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/110985-it-s-been-my-experience-that-you-can-nearly-always-enjoy" class="smallText" title="View this quote">2435 likes</a>
+   </div>
+</div>
+
+
+  </div>
+    <div class="action">
+        <a href="/user/new" class="button" rel="nofollow">like</a>
+    </div>
+  <br class="clear"/>
+</div>
+
+	<div class="quote mediumText last">
+  <div class="quoteDetails ">
+    
+
+<div class="quoteText">
+      &ldquo;Kindred spirits are not so scarce as I used to think.  It's splendid to find out there are so many of them in the world.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/5350.L_M_Montgomery">L.M. Montgomery</a>,
+    <i>
+      <a href="/work/quotes/3464264">Anne of Green Gables</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/251283-kindred-spirits-are-not-so-scarce-as-i-used-to" class="smallText" title="View this quote">2183 likes</a>
+   </div>
+</div>
+
+
+  </div>
+    <div class="action">
+        <a href="/user/new" class="button" rel="nofollow">like</a>
+    </div>
+  <br class="clear"/>
+</div>
+
+
+        		<div style="text-align: right;">
+        			<a href="/author/quotes/5350.L_M_Montgomery" class="actionLink">See all L.M. Montgomery's quotes &raquo;</a>
+        		</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>      <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Polls</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+        
+<div id="poll_63256">
+    <a href="/poll/show/63256-classics-won-as-the-genre-for-april-vote-in-the-poll-to-help-choose-whi" class="leftAlignedImage"><img alt="63256" src="http://d.gr-assets.com/polls/1332094644p3/63256.jpg" /></a>
+  <div class="mediumText">Classics won as the genre for April. Vote in the poll to help choose which book we read for our discussion beginning April 3. Last day to vote will be March 23. </div>
+  <br />
+  <div class="clear"></div>
+        <div id="answer_363871" class="answerLabelHolder" class="poll_answer">
+          <div class="answerLabel" style="float:right;text-align:right;">
+          <a href="http://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye" title="The Catcher in the Rye by J.D. Salinger">
+  <img src="http://s3.amazonaws.com/photo.goodreads.com/books/1329189899s/5107.jpg" alt="The Catcher in the Rye by J.D. Salinger" class="escapedImg"></a> <a href="http://www.goodreads.com/author/show/819789.J_D__Salinger" title="J.D. Salinger">J.D. Salinger</a>
+          </div>
+        </div>
+        <div style="float:left;margin-left:10px;width:190px">
+          <div style="float:left;width:31px;background:#B3EDD7">&nbsp;</div>
+          &nbsp;
+          <span class="smallText">
+              <a href="/poll/answer/63256-classics-won-as-the-genre-for-april-vote-in-the-poll-to-help-choose-whi?answer=363871">4 votes</a>,
+            30.8%
+          </span>
+        </div>
+        <br class="clear"/>
+        <div style="height:10px"></div>
+        <div id="answer_363870" class="answerLabelHolder" class="poll_answer">
+          <div class="answerLabel" style="float:right;text-align:right;">
+          <a href="http://www.goodreads.com/book/show/686123.Anne_of_Green_Gables__Children_s_Classics_" title="Anne of Green Gables (Children's Classics) by L.M. Montgomery">
+  <img src="http://s3.amazonaws.com/photo.goodreads.com/books/1177189086s/686123.jpg" alt="Anne of Green Gables (Children's Classics) by L.M. Montgomery" class="escapedImg"></a> <a href="http://www.goodreads.com/author/show/5350.L_M__Montgomery" title="L.M. Montgomery">L.M. Montgomery</a>
+          </div>
+        </div>
+        <div style="float:left;margin-left:10px;width:190px">
+          <div style="float:left;width:24px;background:#7BE4DB">&nbsp;</div>
+          &nbsp;
+          <span class="smallText">
+              <a href="/poll/answer/63256-classics-won-as-the-genre-for-april-vote-in-the-poll-to-help-choose-whi?answer=363870">3 votes</a>,
+            23.1%
+          </span>
+        </div>
+        <br class="clear"/>
+        <div style="height:10px"></div>
+        <div id="answer_363875" class="answerLabelHolder" class="poll_answer">
+          <div class="answerLabel" style="float:right;text-align:right;">
+          <a href="http://www.goodreads.com/book/show/7144468.The_Tenant_of_Wildfell_Hall__Barnes___Noble_Library_of_Essential_Reading_" title="The Tenant of Wildfell Hall (Barnes &amp; Noble Library of Essential Reading) by Anne BrontÃ«">
+  <img src="http://s3.amazonaws.com/photo.goodreads.com/books/1267276795s/7144468.jpg" alt="The Tenant of Wildfell Hall (Barnes &amp; Noble Library of Essential Reading) by Anne BrontÃ«" class="escapedImg"></a> <a href="http://www.goodreads.com/author/show/8249.Anne_Bront_" title="Anne BrontÃ«">Anne BrontÃ«</a>
+          </div>
+        </div>
+        <div style="float:left;margin-left:10px;width:190px">
+          <div style="float:left;width:24px;background:#E4B57B">&nbsp;</div>
+          &nbsp;
+          <span class="smallText">
+              <a href="/poll/answer/63256-classics-won-as-the-genre-for-april-vote-in-the-poll-to-help-choose-whi?answer=363875">3 votes</a>,
+            23.1%
+          </span>
+        </div>
+        <br class="clear"/>
+        <div style="height:10px"></div>
+        <div id="answer_363873" class="answerLabelHolder" class="poll_answer">
+          <div class="answerLabel" style="float:right;text-align:right;">
+          <a href="http://www.goodreads.com/book/show/93134.The_Mysteries_of_Udolpho" title="The Mysteries of Udolpho by Ann Radcliffe">
+  <img src="http://s3.amazonaws.com/photo.goodreads.com/books/1309376731s/93134.jpg" alt="The Mysteries of Udolpho by Ann Radcliffe" class="escapedImg"></a> <a href="http://www.goodreads.com/author/show/43220.Ann_Radcliffe" title="Ann Radcliffe">Ann Radcliffe</a>
+          </div>
+        </div>
+        <div style="float:left;margin-left:10px;width:190px">
+          <div style="float:left;width:16px;background:#9B8365">&nbsp;</div>
+          &nbsp;
+          <span class="smallText">
+              <a href="/poll/answer/63256-classics-won-as-the-genre-for-april-vote-in-the-poll-to-help-choose-whi?answer=363873">2 votes</a>,
+            15.4%
+          </span>
+        </div>
+        <br class="clear"/>
+        <div style="height:10px"></div>
+        <div id="answer_363872" class="answerLabelHolder" class="poll_answer">
+          <div class="answerLabel" style="float:right;text-align:right;">
+          <a href="http://www.goodreads.com/book/show/130440.Doctor_Zhivago" title="Doctor Zhivago by Boris Pasternak">
+  <img src="http://s3.amazonaws.com/photo.goodreads.com/books/1266478738s/130440.jpg" alt="Doctor Zhivago by Boris Pasternak" class="escapedImg"></a> <a href="http://www.goodreads.com/author/show/7902.Boris_Pasternak" title="Boris Pasternak">Boris Pasternak</a>
+          </div>
+        </div>
+        <div style="float:left;margin-left:10px;width:190px">
+          <div style="float:left;width:8px;background:#CD8249">&nbsp;</div>
+          &nbsp;
+          <span class="smallText">
+              <a href="/poll/answer/63256-classics-won-as-the-genre-for-april-vote-in-the-poll-to-help-choose-whi?answer=363872">1 vote</a>,
+            7.7%
+          </span>
+        </div>
+        <br class="clear"/>
+        <div style="height:10px"></div>
+        <div id="answer_363874" class="answerLabelHolder" class="poll_answer">
+          <div class="answerLabel" style="float:right;text-align:right;">
+          <a href="http://www.goodreads.com/book/show/54539.Silas_Marner" title="Silas Marner by George Eliot">
+  <img src="http://s3.amazonaws.com/photo.goodreads.com/books/1170439888s/54539.jpg" alt="Silas Marner by George Eliot" class="escapedImg"></a> <a href="http://www.goodreads.com/author/show/173.George_Eliot" title="George Eliot">George Eliot</a>
+          </div>
+        </div>
+        <div style="float:left;margin-left:10px;width:190px">
+          <div style="float:left;width:1px;background:#DEBF47">&nbsp;</div>
+          &nbsp;
+          <span class="smallText">
+              <a href="/poll/answer/63256-classics-won-as-the-genre-for-april-vote-in-the-poll-to-help-choose-whi?answer=363874">0 votes</a>,
+            0.0%
+          </span>
+        </div>
+        <br class="clear"/>
+        <div style="height:10px"></div>
+
+      <div class="pollResultsTotalVotes smallText" style="margin-left:420px">
+          <a href="/poll/voters/63256-classics-won-as-the-genre-for-april-vote-in-the-poll-to-help-choose-whi">13 total votes</a>
+      </div>
+        <a href="/poll/show/63256-classics-won-as-the-genre-for-april-vote-in-the-poll-to-help-choose-whi" class="actionLinkLite" style="float:right">2 comments</a>
+
+    <div style="text-align:center">
+        <a href="http://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fauthor%2Fshow%2F5350.L_M_Montgomery" class="actionLink" rel="nofollow">Sign in to vote &raquo;</a>
+    </div>
+
+</div>
+
+<script type="text/javascript" charset="utf-8">
+  window.onload = function() {
+    var max_width = $$('#poll_63256 .answerLabel').max(function(item){return item.offsetWidth})
+    if (max_width < 300) {
+      $$('#poll_63256 .answerLabelHolder').each(function(container){
+        container.style.width = max_width
+      })
+    }
+  }
+
+  $j(document).ready(function() {
+      $j('#write_in_form_poll_63256')
+              .bind('ajax:beforeSend', function() {
+                  $j('#write_in_loading_poll_63256').show();
+                  $j('#write_in_submit_poll_63256').hide();
+              })
+              .bind('ajax:error', function(request) {
+                  alert(request.responseText);
+              })
+              .bind('ajax:success', function() {
+                  $j('#write_in_loading_poll_63256').hide();
+                  $j('#write_in_submit_poll_63256').show();
+              });
+  });
+</script>
+
+
+        <a href="/poll/that_mention/5350.L_M_Montgomery?type=author" class="actionLink" style="float:right">More...</a>
+        <br class="clear"/>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+      <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Topics Mentioning This Author</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+
+      		<table class="tableList" cellspacing="0" width="100%">
+      			<tr class="brownBx" style="border-bottom: none;">
+      				<th>topics</th>
+      				<th>posts</th>
+      				<th>views</th>
+      				<th>last activity</th>
+      				<th>&nbsp;</th>
+      			</tr>
+      			
+	<tr>
+		<td>
+		    <strong><a href="http://www.goodreads.com/topic/show/60795-your-favorite-book-ever" class="" title="KCPL">KCPL:</a></strong>
+      
+			<a href="/topic/show/60795-your-favorite-book-ever" class="">Your Favorite Book Ever!!!</a>
+		</td>
+		<td class="nobreak">
+		  14
+		  
+		</td>
+		<td>267</td>
+		<td>22. Januar, 04:49 Uhr</td>
+		<td>
+				&nbsp;
+		</td>
+	</tr>
+	<tr>
+		<td>
+		    <strong><a href="http://www.goodreads.com/topic/show/88477-female-author-recommendations" class="" title="The Next Best Book Club">The Next Best Boo...:</a></strong>
+      
+			<a href="/topic/show/88477-female-author-recommendations" class="">Female author recommendations?</a>
+		</td>
+		<td class="nobreak">
+		  73
+		  
+		</td>
+		<td>857</td>
+		<td>20. Februar, 11:57 Uhr</td>
+		<td>
+				&nbsp;
+		</td>
+	</tr>
+	<tr>
+		<td>
+		    <strong><a href="http://www.goodreads.com/topic/show/109385-official-spring-challenge---2009" class="" title="The Next Best Book Club">The Next Best Boo...:</a></strong>
+      
+			<a href="/topic/show/109385-official-spring-challenge---2009" class="">OFFICIAL SPRING CHALLENGE - 2009</a>
+		</td>
+		<td class="nobreak">
+		  6460
+		  
+		</td>
+		<td>8374</td>
+		<td>14. Juni, 14:57 Uhr</td>
+		<td>
+				&nbsp;
+		</td>
+	</tr>
+	<tr>
+		<td>
+		    <strong><a href="http://www.goodreads.com/topic/show/14867-biography-memior-recommendations" class="" title="Great Female Protagonists">Great Female Prot...:</a></strong>
+      
+			<a href="/topic/show/14867-biography-memior-recommendations" class="">Biography/Memior Recommendations</a>
+		</td>
+		<td class="nobreak">
+		  17
+		  
+		</td>
+		<td>199</td>
+		<td>06. September, 05:53 Uhr</td>
+		<td>
+				&nbsp;
+		</td>
+	</tr>
+	<tr>
+		<td>
+		    <strong><a href="http://www.goodreads.com/topic/show/174964-grab-the-book-nearest-to-you-and-turn-to-page-28-lines-3-4-5" class="" title="Who's Your Author?">Who's Your Author?:</a></strong>
+      
+			<a href="/topic/show/174964-grab-the-book-nearest-to-you-and-turn-to-page-28-lines-3-4-5" class="">Grab the book nearest to you and turn to page 28, lines 3, 4, &amp; 5</a>
+		</td>
+		<td class="nobreak">
+		  33
+		  
+		</td>
+		<td>150</td>
+		<td>11. September, 13:07 Uhr</td>
+		<td>
+				&nbsp;
+		</td>
+	</tr>
+
+      		</table>
+
+        <div style="text-align: right">
+      		  <a href="/author/topics/5350.L_M_Montgomery" class="actionLink">More&hellip;</a>
+      		  <br/>
+        </div>
+
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+    
+
+    
+
+
+    
+
+
+    <br/><br/><br/><br/><br/>
+    
+  </div>
+</div>
+
+<!-- Plus One JS include -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+
+  <div class="clear"></div>
+  <div class="footerContainer">
+      <div class="footer">
+        <div class="copyright">
+          &copy; 2015 Goodreads Inc
+        </div>
+        <div class="adminLinksContainer">
+          <ul class="adminLinks">
+            <li>
+              <a href="/about/us" class="first" rel="nofollow">about us</a>
+            </li>
+            <li>
+              <a href="/advertisers" rel="nofollow">advertise</a>
+            </li>
+            <li>
+              <a href="/author/program" rel="nofollow">author program</a>
+            </li>
+            <li>
+              <a href="/jobs" rel="nofollow">jobs</a>
+            </li>
+            <li>
+              <a href="/api" rel="nofollow">api</a>
+            </li>
+            <li>
+              <a href="/blog/index">our blog</a>
+            </li>
+            <li>
+              <a href="/about/terms" rel="nofollow">terms</a>
+            </li>
+            <li>
+              <a href="/about/privacy" rel="nofollow">privacy</a>
+            </li>
+            <li>
+              <a href="/help" class="last" rel="nofollow">help</a>
+            </li>
+            <li class="mobileToggleLink">
+              <span class="label">switch to:</span>
+              <a href="/toggle_mobile?switch_to=mobile" rel="nofollow">mobile version</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+  </div>
+</div>
+
+<div id="overlay" style="display:none" onclick="Lightbox.hideBox('dropout')"></div>
+<div id="box" style="display:none">
+	<div id="close" class="xBackground js-closeModalIcon" onclick="Lightbox.hideBox('dropout')" title="Close this window"></div>
+	<div id="boxContents"></div>
+	<div id="boxContentsLeftovers" style="display:none"></div>
+	<div class="clear"></div>
+</div>
+
+<div id="fbSigninNotification" style="display:none;">
+  <p>Welcome back. Just a moment while we sign you in to your Goodreads account.</p>
+  <img alt="Login_animation" src="http://s.gr-assets.com/assets/facebook/login_animation-085464711e6c1ed5ba287a2f40ba3343.gif" />
+</div>
+
+
+<div id="fb-root"></div>
+<script type="text/javascript">
+  $grfb.initialize({
+    appId: "2415071772",
+    grSession: false,
+    serverFBUser: null,
+    serverPublishEnabled: null,
+    suppressAutoLogin: false,
+    brokenFbConnectionTracked: false,
+    publishPermissionVerified: false
+  });
+</script>
+
+<script type="text/javascript">
+  var _kiq = _kiq || [];
+  (function(){
+    setTimeout(function(){
+    var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript';
+    s.async = true; s.src = '//s3.amazonaws.com/ki.js/52346/bde.js'; f.parentNode.insertBefore(s, f);
+    }, 1);
+  })();
+</script>
+
+
+<script>
+  //<![CDATA[
+    _qevents.push( { qacct:"p-0dUe_kJAjvkoY"} );
+    
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "6035830", c3: "", c4: "", c5: "", c6: "", c15: ""});
+    (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+    })();
+  //]]>
+</script>
+<noscript>
+<div style='display: none'>
+<img alt="" border="0" height="1" src="http://pixel.quantserve.com/pixel/p-0dUe_kJAjvkoY.gif" style="display: none;" width="1" />
+</div>
+<img alt="" height="0" src="http://b.scorecardresearch.com/p?c1=2&amp;amp;c2=6035830&amp;amp;c3=&amp;amp;c4=&amp;amp;c5=&amp;amp;c6=&amp;amp;c15=&amp;amp;cv=2.0&amp;amp;cj=1" style="display: none" width="0" />
+</noscript>
+
+
+</body>
+</html>

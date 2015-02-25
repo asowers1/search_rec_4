@@ -1,0 +1,13 @@
+Date: Fri, 20 Feb 2015 20:01:35 GMT
+Server: Apache/2.2.14 (Ubuntu)
+X-Powered-By: PHP/5.2.10-2ubuntu6
+Set-Cookie: SESSa4cff130a3ba4001cecae64203716037=6bc2a6f572fff45340d10fbc424153d2; expires=Sun, 15-Mar-2015 23:34:55 GMT; path=/; domain=.kclibrary.org
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Fri, 20 Feb 2015 20:01:35 GMT
+Cache-Control: store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+

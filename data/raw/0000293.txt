@@ -1,0 +1,942 @@
+
+<!doctype HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="en" class="no-js">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# etonline: http://ogp.me/ns/fb/etonline#">
+	<meta charset="UTF-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var o=e[t]={exports:{}};n[t][0].call(o.exports,function(e){var o=n[t][1][e];return r(o?o:e)},o,o.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(n,e){function t(n){function e(e,t,a){n&&n(e,t,a),a||(a={});for(var u=c(e),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(n,e){f[n]=c(n).concat(e)}function c(n){return f[n]||[]}function u(){return t(e)}var f={};return{on:a,emit:e,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");e.exports=t()},{gos:"7eSDFh"}],ee:[function(n,e){e.exports=n("QJf3ax")},{}],3:[function(n,e){function t(n){return function(){r(n,[(new Date).getTime()].concat(i(arguments)))}}var r=n("handle"),o=n(1),i=n(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","trackUserAction","finished","traceEvent","inlineHit","noticeError"];o(a,function(n,e){window.NREUM[e]=t("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(n,e){e.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,e){function t(n,e,t){if(r.call(n,e))return n[e];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],D5DuLP:[function(n,e){function t(n,e,t){return r.listeners(n).length?r.emit(n,e,t):(o[n]||(o[n]=[]),void o[n].push(e))}var r=n("ee").create(),o={};e.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,e){e.exports=n("D5DuLP")},{}],XL7HBI:[function(n,e){function t(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");e.exports=t},{gos:"7eSDFh"}],id:[function(n,e){e.exports=n("XL7HBI")},{}],G9z0Bl:[function(n,e){function t(){var n=v.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(d,function(e,t){e in n||(n[e]=t)}),v.proto="https"===l.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=v.proto+n.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=(n(2),window),f=u.document,s="addEventListener",p="attachEvent",l=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-536.min.js"},v=e.exports={offset:i(),origin:l,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",t,!1)):(f[p]("onreadystatechange",r),u[p]("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(n,e){e.exports=n("G9z0Bl")},{}],12:[function(n,e){function t(n,e){var t=[],o="",i=0;for(o in n)r.call(n,o)&&(t[i]=e(o,n[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],13:[function(n,e){function t(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,o=t-e||0,i=Array(0>o?0:o);++r<o;)i[r]=n[e+r];return i}e.exports=t},{}]},{},["G9z0Bl"]);</script>
+	<title>Surprise! Madonna Releases 6 New Songs</title>
+	<meta name="description" content="Madonna is gifting us with some new music." />
+	<meta name="keywords" content="leaked songs, madonna, music, news, rebel heart" />
+	<meta name="robots" content="all" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta property="twitter:account_id" content="23603092" />
+	<meta name="twitter:site" content="@etnow" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:url" content="http://www.etonline.com/music/155506_madonna_releases_6_new_songs/" />
+	<meta name="twitter:title" content="Surprise! Madonna Releases 6 New Songs" />
+	<meta name="twitter:description" content="Madonna is gifting us with some new music." />
+	<meta name="twitter:image" content="http://www.etonline.com/photo/2014/12/24121608/640_madonna_rebel_heart.jpg" />
+	<meta property="og:title" content="Surprise! Madonna Releases 6 New Songs" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="http://www.etonline.com/music/155506_madonna_releases_6_new_songs/" />
+	<meta property="og:image" content="http://www.etonline.com/photo/2014/12/24121608/640_madonna_rebel_heart.jpg" />
+	<meta property="og:description" content="Madonna is gifting us with some new music." />
+	<meta property="og:site_name" content="Entertainment Tonight" />
+	<meta property="og:image:width" content="640" />
+	<meta property="og:image:height" content="360" />
+	<meta property="fb:admins" content="3111204" />
+	<meta property="fb:app_id" content="145337045558621" />	<link href="https://www.google.com/+entertainmenttonight" rel="publisher" />
+	<link rel="shortcut icon" href="http://www.etonline.com/favicon.ico" />
+	<link rel="image_src" content="http://www.etonline.com/photo/2014/12/24121608/640_madonna_rebel_heart.jpg" /> 
+	<link rel="canonical" href="http://www.etonline.com/music/155506_madonna_releases_6_new_songs/" /> 
+	<link rel="stylesheet" href="/stylesheet/genericons.css"  type="text/css" >
+	<link rel='stylesheet' href='/stylesheet/bootstrap.css'  type='text/css' >
+	<link rel='stylesheet' href='/stylesheet/bootstrap-theme-alt.css'  type='text/css' >
+	<link rel='stylesheet' href='/stylesheet/custom.css'  type='text/css' >
+	<!-- COMSCORE -->
+	<script>var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"8628780",c3:"",c4:"http://www.etonline.com/music/155506_madonna_releases_6_new_songs/"});(function(){var s=document.createElement("script"),el=document.getElementsByTagName("script")[0];s.async=true;s.src=(document.location.protocol=="https:"?"https://sb":"http://b")+".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s,el)})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=8628780&c4=http://www.etonline.com/music/155506_madonna_releases_6_new_songs/&cv=2.0&cj=1"/></noscript>
+	<script type="text/javascript">var switchTo5x=true;</script>
+	<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+	<script type="text/javascript">stLight.options({publisher: "ab4e7516-48e4-4103-93e0-88d13f006887", popup:true, servicePopup: true, doNotHash: true, doNotCopy: false, shorten:false,  hashAddressBar: false});</script>
+</head>
+<body id="top" class="layout_article">
+
+	<script type='text/javascript'>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+	var gads = document.createElement('script');
+	gads.async = true;
+	gads.type = 'text/javascript';
+	var useSSL = 'https:' == document.location.protocol;
+	gads.src = (useSSL ? 'https:' : 'http:') + 
+	'//www.googletagservices.com/tag/js/gpt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(gads, node);
+	})();
+	</script>
+
+	<script type='text/javascript'>
+	googletag.cmd.push(function() {
+	googletag.defineSlot('/4840/etonline.com/music/article', [1, 1], 'div-gpt-ad-etonline-music/article-0').addService(googletag.pubads()).setTargeting("pos",["skin"]);
+	googletag.defineSlot('/4840/etonline.com/music/article', [[970, 90], [728, 90],[970, 250]], 'div-gpt-ad-etonline-music/article-1').addService(googletag.pubads()).setTargeting("pos",["atf", "header"]);
+	googletag.defineSlot('/4840/etonline.com/music/article', [[300, 1050], [300, 600], [300, 250]], 'div-gpt-ad-etonline-music/article-2').addService(googletag.pubads()).setTargeting("pos",["atf", "a"]);
+	googletag.defineSlot('/4840/etonline.com/music/article', [300, 250], 'div-gpt-ad-etonline-music/article-3').addService(googletag.pubads()).setTargeting("pos",["btf", "e"]);
+	googletag.defineSlot('/4840/etonline.com/music/article', [728, 90], 'div-gpt-ad-etonline-music/article-4').addService(googletag.pubads()).setTargeting("pos",["btf", "anchor"]); 
+	googletag.defineSlot('/4840/etonline.com/music/article', [[640, 300], [640, 250], [600, 250]], 'div-gpt-ad-etonline-music/article-5').addService(googletag.pubads()).setTargeting("pos",["incontent", "native"]); 
+googletag.defineOutOfPageSlot('/4840/etonline.com/music/article', 'div-gpt-ad-etonline-music/article-7-oop').addService(googletag.pubads());
+	googletag.pubads().set("page_url", "http://www.etonline.com/music/155506_madonna_releases_6_new_songs/index.html"); //Replace URL with current page URL
+	googletag.pubads().setTargeting("node","155506");
+	googletag.pubads().collapseEmptyDivs(); 
+	googletag.pubads().setTargeting("kw",["leaked songs","madonna","music","news","rebel heart"]);
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+	});
+	</script>
+
+	<div class='ad-block-wrapper text-center'><div class='ad-unit billboard center-block'><div id='div-gpt-ad-etonline-music/article-1'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-etonline-music/article-1'); });</script></div></div></div><!-- /BLOCKS/HEADER.PHP ALTERED:08072014 -->
+ 
+<header class='masthead full-width subpage' data-spy='affix' data-offset-top='124'><nav class='primary-nav thin navbar navbar-default container' role='navigation'><!-- /BLOCKS/BRANDING.PHP ALTERED:08072014 -->
+
+<h1 class="branding pull-left">
+	<a href="/" class=" brand-et">
+		<img src="/media/img/et-logo_08132014.png" alt="Entertainment Tonight" class="logo">
+	</a>
+</h1><div class='main-nav navbar pull-left'><!-- /BLOCKS/MAIN_NAV.PHP ALTERED:08072014 -->
+
+
+<ul class="nav navbar-nav interstatebold">
+	<li class="menu-item">
+		<a href="#" class="sections" data-toggle="modal" data-target="#mega_nav" onclick="sizeContent();">
+			<span class="icon genericon genericon-menu"></span>
+			Sections
+		</a>
+	</li>
+	<li class="menu-item">
+		<a href="/news/" class="">
+			News
+		</a>
+	</li>
+<!--
+	<li class="menu-item">
+		<a href="/tv/">
+			TV
+		</a>
+	</li>
+-->
+	<li class="menu-item">
+		<a href="/video/index.html" class="">
+			Video
+		</a>
+	</li>
+	<li class="menu-item">
+		<a href="/awards/" class=''>
+			Awards
+		</a>
+	</li>
+</ul><div class='pull-right'><!-- /BLOCKS/PRIMARY-SOCIAL.PHP ALTERED:08072014 -->
+
+<ul class="social-nav nav navbar-nav navbar-right">
+	<li class="menu-item">
+		<a href="http://www.facebook.com/EntertainmentTonight" target="_blank" class="icon genericon genericon-facebook-alt text-hidden">
+			<!-- Facebook -->
+		</a>
+	</li>
+	<li class="menu-item">
+		<a href="http://instagram.com/entertainmenttonight" target="_blank" class="icon genericon genericon-instagram">
+			<!-- Instagram -->
+		</a>
+	</li>
+	<li class="menu-item">
+		<a href="https://twitter.com/etnow" target="_blank" class="icon genericon genericon-twitter">
+			<!-- Twitter -->
+		</a>
+	</li>
+	<li class="menu-item">
+		<a rel="publisher" href="https://www.google.com/+entertainmenttonight" target="_blank" class="icon genericon genericon-googleplus">
+			<!-- Google+ -->
+		</a>
+	</li>
+</ul><ul class='social-nav nav navbar-nav navbar-right'><li class='menu-item'><a href='http://www.etonline.com/showfinder/'><span class='ETsprite watchTVicon'></span><span class='interstateboldcond watchTVtext'>WATCH ET</span></a></li></ul><!-- /BLOCKS/SEARCH.PHP ALTERED:08072014 -->
+
+<form id="cse-search-box" class="navbar-form navbar-right" role="search">
+	<input type="text" id="search_input" name="q" value="Search" onclick="if(this.value == 'Search'){this.value = '';}; this.form.action='/search?q=' + this.value; this.forms.submit()" class="form-control" style=""/>
+	<input name="sa" type="image" value="sa" id="search_btn" class="ETsprite" src="http://www.etonline.com/media/img/trans_px.png" />
+</form>
+</div></div><!-- /SLOTTED/WHATSHOT/FILE.MC altered: 07262014 -->
+
+
+<div class="whats-hot clearfix pull-left anchor-list interstatecond">
+	<span class="label label-default label-whatshot mint-bg interstateboldconditalic">
+		TRENDING
+	</span>
+	<a href='/news/160021_kanye_west_slams_ex_amber_rose/index.html'>Kanye Disses Amber</a><a href='/awards/oscars/index.html'>The Oscars</a><a href='/tv/160016_two_and_a_half_men_boss_explains_charlie_sheen_series_finale_twist/index.html'>'Two and a Half Men' Finale</a><a href='/news/160018_salma_hayek_says_her_overly_wavy_body_prevents_her_from_getting_roles/index.html'>Salma Complains about Body</a><a href='/tv/160024_kelly_ripa_busts_a_move_on_80s_dance_show/index.html'>'80s Kelly Ripa</a></div></nav></header>
+	<div id="page-wrapper" class="wrapper clearfix" style="display:block;">
+
+	<!-- ARTICLE.MC ALTERED:07142014 -->
+
+
+<section class="col_full grey_border_bottom">
+	<a href="/music/"><h3 class="titleheading interstatebold">MUSIC</h3></a>
+	<h2 class="titleheading interstateboldcond">Surprise! Madonna Releases 6 New Songs</h2>
+	<p class='byline interstatelight'>by&nbsp;<b>Rosalyn Oshmyansky</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8:51 AM PST, December 20, 2014<!-- /BLOCKS/SOCIALBAR.PHP ALTERED:07142014a -->
+
+<section id='socialFloatHorz' class='hideme'><span class='st_facebook_large' displayText='Facebook'></span><span class='st_twitter_large' st_url='http://et.tv/1w98LUQ' st_via='etnow' displayText='Twitter'></span><span class='st_pinterest_large' displayText='Pintrest'></span><span class='st_tumblr_large' displayText='Tumblr'></span><span class='st_googleplus_large' displayText='Google+'></span><span class='st_email_large' displayText='Email'></span></section></p></section>
+<section class="col_ab">
+	<article>
+			<!-- /BLOCKS/SOCIALBAR.PHP ALTERED:07142014 -->
+
+<section id='socialFloatVert'><span class='st_facebook_large' displayText='Facebook'></span><span class='st_twitter_large' st_url='http://et.tv/1w98LUQ' st_via='etnow' displayText='Twitter'></span><span class='st_pinterest_large' displayText='Pintrest'></span><span class='st_tumblr_large' displayText='Tumblr'></span><span class='st_googleplus_large' displayText='Google+'></span><span class='st_email_large' displayText='Email'></span></section>			
+			<div id='article_img_wrap'><img src='/photo/2014/12/24121608/640_madonna_rebel_heart.jpg' alt='' border='0'/><div id='photo_copyright' class='interstatelight'>    </div></div><div id='article_text'><p>The &quot;Material Girl&quot; is bringing us new music just in time for the holidays.</p><p>After Madonna's in-progress demos leaked last week, <a href="%20http://www.etonline.com/music/155322_madonna_compares_album_leak_to_rape_and_terrorism/" target="_blank">she compared the leak to &quot;rape&quot; and &quot;terrorism,&quot; </a> but now she's releasing six new songs and considering it a present.</p><p>As of Saturday, song titles that are available from Rebel Heart include &quot;Living For Love&quot;, &quot;Devil Pray&quot;, &quot;Ghosttown&quot;, &quot;Unapologetic B**ch&quot;, &quot;Illuminati&quot;and  &quot;B**ch Iâm Madonna,&quot; which was recorded with Nicki Minaj.</p><p><strong><a href="http://www.etonline.com/news/149952_madonna_is_56_and_not_showing_it/" target="_blank">
+PHOTOS: Madonna Is 56 and Not Showing It
+</a></strong></p><p>Initially Madonna had planned to release her new single, &quot;Living For Love&quot; on Valentine's Day.</p><div class='social-embed'><iframe width="560" height="315" src="//www.youtube.com/embed/zbeTpLVlyZQ" frameborder="0" allowfullscreen></iframe></div><p><strong><a href="%20http://www.etonline.com/music/155322_madonna_compares_album_leak_to_rape_and_terrorism/" target="_blank">
+NEWS: Madonna's New Album Leak
+</a></strong></p><iframe src='http://instagram.com/p/w0h2QaGEdG//embed/captioned/?v=3' width='640' height='750' frameborder='0' scrolling='no' class='instagram-embed'></iframe><p>Madonna explained her decision to release the songs earlier, &quot;I would prefer my fans to hear completed versions of some of the songs instead of the  incomplete tracks that are circulating.   Please consider these six songs as an early Christmas gift.&quot;</p><p>The full album is scheduled to be released during the first week of March in 2015.</p><div class='bc_video secondary'><object id="myExperience1" class="BrightcoveExperience"><param name="bgcolor" value="#FFFFFF" /><param name="width" value="" /><param name="height" value="" /><param name="playerID" value="1866663937001" /><param name="playerKey" value="AQ~~,AAABIWNF7qE~,EJbsvFObVfKdSBX38G2Cxqi3Xa40uGGB" /><param name="isVid" value="true" /><param name="isUI" value="true" /><param name="autoStart" value="false" /><param name="dynamicStreaming" value="true" /><param name="@videoPlayer"  value="title_143463" /><param name="linkBaseURL" value="http://www.etonline.com/media/video/madonna_etc_intvw_02_12_2014-143463/index.html" /><param name="includeAPI" value="true" /><param name="templateLoadHandler" value="myPlayerLoaded" /><param name="wmode" value="transparent" /></object></div><div class='item twocol'><section class='related_galleries'><a href='/news/149952_madonna_is_56_and_not_showing_it/index.html'><h6 class='interstateregular'>11 Times Madonna Looked Half Her Age</h6></a><div class='slideContainer'>
+								
+								<a href='/news/149952_madonna_is_56_and_not_showing_it/index.html?page=MTA=' target='_blank'><img src='/photo/2014/08/24097509/200_cover_madonna_bday.jpg' alt=''></a>
+								
+								<a href='/news/149952_madonna_is_56_and_not_showing_it/index.html?page=OQ==' target='_blank'><img src='/photo/2014/08/24097514/200_madonna_bday_1.jpg' alt=''></a>
+								
+								<a href='/news/149952_madonna_is_56_and_not_showing_it/index.html?page=OA==' target='_blank'><img src='/photo/2014/08/24097516/200_madonna_bday_2.jpg' alt=''></a>
+								
+								<a href='/news/149952_madonna_is_56_and_not_showing_it/index.html?page=Nw==' target='_blank'><img src='/photo/2014/06/24089336/200_madonna_sexyselfie.jpg' alt=''></a>
+								
+								<a href='/news/149952_madonna_is_56_and_not_showing_it/index.html?page=Ng==' target='_blank'><img src='/photo/2014/08/24097523/200_madonna_bday_4.jpg' alt=''></a></div></section></div><p><em>Follow Rosalyn on Twitter: <a href="twitter.com/RosalynOsh" target="_blank">@RosalynOsh</a></em></p>	
+
+			<section id="socialFloatVertHorz">
+				<span class='st_facebook_large' displayText='Facebook'></span><span class='st_twitter_large' st_url='http://et.tv/1w98LUQ' st_via='etnow'></span>			</section>
+
+			<div class='item twocol noBtmMargin'><section class='tagblock wrapper grey_border_bottom'><p><a href='http://www.etonline.com/tag/celeb/index.html?tag=madonna' class='arttags interstatecond'> Madonna</a></p></div>			
+			<!--  SLOTTED MORE FROM --><div class="OUTBRAIN" data-src="http://www.etonline.com/music/155506_madonna_releases_6_new_songs/index.html" data-widget-id="AR_1" data-ob-template="etonline" ></div>
+<div class="OUTBRAIN" data-src="http://www.etonline.com/music/155506_madonna_releases_6_new_songs/index.html" data-widget-id="AR_16" data-ob-template="etonline" ></div>
+<!-- /BLOCKS/COMMENTING.PHP ALTERED:07142014 -->
+
+<div class="item twocol">
+	<section class="livefyreblock wrapper">
+		<div id="livefyre"></div>			
+	</section>
+	<div id="powered_by_livefyre_new"><a href="http://livefyre.com" target="_blank">Powered by Livefyre</a></div>
+</div>			
+			<div class="item twocol">
+				<section class="youmaylike wrapper">
+					<h2 class="uppercase interstateboldcond">You might also like</h2>
+					<span class="goldunderline"></span>
+					<div id='div-gpt-ad-etonline-music/article-5'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-etonline-music/article-5'); });</script></div>				</section>
+			</div>
+	</article>
+</section>
+
+<section class='col_c'><div class='item'><div class='ad-block-wrapper text-center'><div class='ad-unit medium-rectangle center-block'><div id='div-gpt-ad-etonline-music/article-2'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-etonline-music/article-2'); });</script></div></div></div></div><div class='item'><!-- /SLOTTED/LATESTVIDEO/FILE.MC ALTERED: 07262014 -->
+
+
+<section class="top-videos dot-matrix gold-bg" id="top-videos">
+	<div class="group-wrapper">
+		<div class="anchor-block group-header">
+			<h3 class="interstateboldconditalic">
+				<span class="white-text">Top</span>
+				<span class="">Videos</span>
+			</h3>
+		</div>
+		<a href='/tv/160002_two_and_a_half_men_stars_and_creator_talk_undignified_goodbye/index.html' class='anchor-block square'><article><h2 class='title'>'Two and a Half Men' Stars and Creator Talk 'Undignified' Goodbye<span class='indicator'></span></h2><time datetime='' class='gold-bg dot-matrix'><span class='genericon genericon-video'></span></time><img src="/media/video/2015/02/24133003/300_et_a42men_021915.jpg" alt="&#39;Two and a Half Men&#39; Stars and Creator Talk &#39;Undignified&#39; Goodbye" class="imgFade imgShift" height="288" width="288"><span class='overlayImg'></span></article></a><a href='/news/159995_selena_gomez_kim_kardashian_and_4_other_celebs_whose_throwback_photos_already_made_our_year/index.html' class='anchor-block landscape'><article><h4 class='title'>Best Celeb Throwback Pics<span class='indicator'></span></h4><time datetime='' class='gold-bg dot-matrix'><span class='genericon genericon-video'></span></time><img src="/media/video/2015/02/24132986/et_celebthrowback_021915_rev2_640rev.jpg" alt="Best Celeb Throwback Pics" class="imgFade imgShift" height="162" width="288"><span class='overlayImg'></span></article></a><a href='/tv/159941_empire_stars_on_the_show_s_music_it_s_the_air_we_breathe/index.html' class='anchor-block landscape'><article><h4 class='title'>'Empire' Stars Dish on the Show's Original Music<span class='indicator'></span></h4><time datetime='' class='gold-bg dot-matrix'><span class='genericon genericon-video'></span></time><img src="/media/video/2015/02/24132733/640_et_b2empiremusic_021715.jpg" alt="&#39;Empire&#39; Stars Dish on the Show&#39;s Original Music" class="imgFade imgShift" height="162" width="288"><span class='overlayImg'></span></article></a>	</div>  
+</section>
+
+</div><div class='item'><!-- /BLOCKS/NEWSLETTER1.PHP ALTERED: 07262014 -->
+
+<script>
+function GetXmlHttpObject1()
+	{
+		if (window.XMLHttpRequest)
+		  {
+			  // code for IE7+, Firefox, Chrome, Opera, Safari
+			  return new XMLHttpRequest();
+		  }
+		if (window.ActiveXObject)
+		  {
+			  // code for IE6, IE5
+			  return new ActiveXObject("Microsoft.XMLHTTP");
+		  }
+		return null;
+	}
+
+function processEmailOptin1()
+{
+
+        var xmlhttp = GetXmlHttpObject1();
+        var lfckv = document.getElementById("agreement-check1").checked
+
+        //alert(xmlhttp);
+        
+	if(lfckv)
+	{
+
+		var url;
+		var email = document.getElementById("email_input1").value;
+
+		if( email == "")
+		{
+			document.getElementById("email_results1").innerHTML = "Please enter your email address.";
+			document.getElementById("email_results1").style.display="block";
+		}
+		else
+		{
+			url = "/inc/process_email_optin.php?email="+ email +"&ip=10.180.30.34";
+
+			//alert(url);
+			document.getElementById('signup_form1').innerHTML = "<img src='http://www.etonline.com/inc/2010/08/23823617/ajax-loader.gif' />";
+
+			xmlhttp.onreadystatechange=function()
+				{
+					if(xmlhttp.readyState==4)
+					  {
+						if(xmlhttp.status == 200)
+						{
+							var res = xmlhttp.responseText;
+							//alert("here"+res);
+//MWH FOR TESTING IN DEV ONLY
+//res = "Success";
+							if(res.indexOf("Success") > -1)                                               
+							{
+     						           document.getElementById('df_thanks1').style.display = "block";							   
+							   document.getElementById('email_results1').innerHTML = "";
+							   document.getElementById("email_results1").style.display="none";
+              				}
+							else
+							{
+							   document.getElementById('df_error1').style.display = "block";
+							}
+						}
+					}
+				}
+				xmlhttp.open("GET",url,true);
+				xmlhttp.send();
+		
+			
+
+
+		}
+	
+
+	}
+	else
+	{
+		document.getElementById('email_results1').innerHTML = "Please Accept The Terms and Conditions before submitting the request";
+		document.getElementById("email_results1").style.display="block";
+	}
+}
+</script>
+
+
+
+<aside class="daily-first pink-bg diamond-lattice">
+	<div class="wrapper">
+		<h4>
+			<div for="email_input" class="interstateboldconditalic">
+				GET THE <span class="white-text">DAILY FIRST</span> NEWS
+			</div>
+		</h4>
+		<!-- <form action="post" role="form" class="inline-form footer-newsletter-form"> -->
+			<div class="input-group" style="margin-bottom: 10px;">
+				<input id="email_input1" name="email_input1" type="text" class="form-control email-input" placeholder="Your E-Mail Address">
+				<button type="submit" class="signup-btn" onclick="processEmailOptin1()">Sign Up</button>
+			</div>
+			<div class="input-group">
+				<p class="inputButton">
+					<input type="checkbox" name="agreement-check1" id="agreement-check1" >
+					<p for="agreement-check" style="font-size: 11px;">
+						By checking this box you acknowledge our <a href="https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy-Highlights?template=template_privacygl&referer=privacygl.com" target="_blank">Privacy Policy</a> and agree to the <a href="https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSInteractive-Terms-of-Use?template=template_touzd&referer=touzd.com&data=&cfs=default" target="_blank">Terms of Use</a>.
+					</p>
+				</p>
+			</div><!-- /input-group -->
+
+                <div id="signup_form1" style="display: none;"></div>
+		<!-- </form> -->
+	</div>
+<div id="df_thanks1" style="display:none;" class="nlwarning">
+		<p>THANK YOU</p>
+		</div>
+                <div id="df_error1" style="display:none;" class="nlwarning"></div>
+		<div id="email_results1" style="display:none;" class="nlwarning"></div>
+</aside></div><div class='item'>
+<section class="new-photos group-wrapper">
+	<div class="anchor-block photos-header">
+		<h3 class="interstateboldconditalic">
+			<span class="hot-pink">New</span>
+			<span class="">Photos</span>
+		</h3>
+	</div>
+	<a href='/news/159064_star_sightings_february_2015/index.html' class='anchor-block portrait'><article class=''><h2 class='title'>Star Sightings<span class='indicator'></span></h2><img src="/media/photo/2015/02/24133146/425_kendra_wilkinson_pcn_022015.jpg" alt="Star Sightings" class="imgFade imgShift" width="288"><span class='overlayImg'></span></article></a><a href='/news/151502_jill_duggar_dillard_pregnancy_album/index.html' class='anchor-block landscape'><article class=''><h4 class='title'>Jill (Duggar) Dillard is VERY Pregnant<span class='indicator'></span></h4><img src="/tv/2015/02/24133075/640_jill_duggar_facebook_20150219.jpg" alt="Jill (Duggar) Dillard is VERY Pregnant" class="imgFade imgShift" width="288"><span class='overlayImg'></span></article></a><a href='/awards/130882_The_Best_Oscar_Dresses_of_All_Time/index.html' class='anchor-block landscape'><article class=''><h4 class='title'>15 Best Oscar Dresses of All Time<span class='indicator'></span></h4><img src="/media/photo/2013/02/23995049/michelle_williams_angelina_jolie_130221_416.jpg" alt="15 Best Oscar Dresses of All Time" class="imgFade imgShift" width="288"><span class='overlayImg'></span></article></a></section>
+</div><div class='item'><!-- /BLOCKS/WEREREADING.PHP ALTERED: 07262014 -->
+<section class="latest-news group-wrapper" id="latest-news">
+	<div class="anchor-block diamond-lattice heading-bg">
+		<h3 class="interstateboldconditalic group-header upperCaseTitle">
+			<span class="flat-gold">We're</span>
+			<span class="cool-mint">Reading</span>
+		</h3>
+	</div>
+<div class="OUTBRAIN" data-src="http://www.etonline.com/music/155506_madonna_releases_6_new_songs/index.html" data-widget-id="SB_4" data-ob-template="etonline" ></div>
+</section>
+</div><div class='item'><div style="width:298px; height:55px; background-image: -webkit-linear-gradient(left, rgba(174,140,76,1) 0%,rgba(213, 181, 111, 1) 100%);  margin: 0 auto;">
+<div style="font-family:Interstate Cond Bold Italic; text-transform:uppercase; font-size:20px; text-align:left; padding-top:16px; padding-bottom:16px; padding-left:16px; line-height:22px;">Around The Web</div>
+</div> 
+<div id="zergnet-widget-27013"></div>
+</div><div class='item'><!-- Cached for 5 minutes --> 
+<div class="mostpopular partner-block">
+	<div target="_blank" class="diamond-lattice mint-bg anchor-block">
+		<h3 class="branding group-header interstateboldconditalic mint-trans-ltr-grad">
+		<span class="white-text">MOST</span>
+		<span class="">POPULAR</span>
+		</h3>
+
+</div>
+	<div class="group-wrapper">
+<p><a href='http://www.etonline.com/news/160004_elisabeth_hasselbeck_totally_shuts_down_potential_return_to_the_view/' target='_blank' class='anchor-block' >Elisabeth Hasselbeck Totally Shuts Down a Potential Return to 'The View'</a></p><p><a href='http://www.etonline.com/news/160021_kanye_west_slams_ex_amber_rose/' target='_blank' class='anchor-block' >Kanye West Slams Ex Amber Rose: 'I Had to Take 30 Showers Before I Got with Kim'</a></p><p><a href='http://www.etonline.com/' target='_blank' class='anchor-block' >Entertainment News | Celebrity News | Entertainment Tonight</a></p><p><a href='http://www.etonline.com/tv/160016_two_and_a_half_men_boss_explains_charlie_sheen_series_finale_twist/' target='_blank' class='anchor-block' >'Two and a Half Men' Boss Explains the Surprising Series Finale Twist</a></p><p><a href='http://www.etonline.com/fashion/155730_salma_hayek_shows_off_insane_bikini_bod_at_48/' target='_blank' class='anchor-block' >Salma Hayek Shows Off Insane Bikini Bod at 48</a></p><p><a href='http://www.etonline.com/news/160036_amy_poehler_emotional_tribute_to_parks_and_recreation_producer_harris_wittels_i_lost_a_friend/' target='_blank' class='anchor-block' >Amy Poehler's Emotional Tribute to 'Parks and Recreation' Producer Harris Wittels: 'I Lost a Friend'</a></p></div>
+</div><div class='item'><div class='ad-block-wrapper text-center'><div class='ad-unit medium-rectangle center-block'><div id='div-gpt-ad-etonline-music/article-3'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-etonline-music/article-3'); });</script></div></div></div></div></section><div class='ad-block-wrapper footerblock text-center'><div class='ad-unit leaderboard center-block'><div id='div-gpt-ad-etonline-music/article-4'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-etonline-music/article-4'); });</script></div></div></div>
+
+	</div><!-- end page wrapper -->
+
+<div id='div-gpt-ad-etonline-music/article-0' style='border: 0pt none; padding:0px; margin:0px; height:0px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-etonline-music/article-0'); });</script></div><!-- /BLOCKS/FOOTER.PHP ALTERED:08072014 -->
+
+<footer class="primary-footer">
+	<section class="asides-group dot-matrix black-bg">
+		<div class="container">
+
+		<!-- /BLOCKS/FOOTER-BLOCKS.PHP ALTERED:07262014 -->
+
+<div class="footer-block browse-et">
+	<h4>Browse ET</h4>
+	<nav>
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/news">News</a></li>
+			<li><a href="/tv">Television</a></li>
+			<li><a href="/movies">Movies</a></li>
+			<li><a href="/awards">Awards</a></li>
+			<li><a href="/fashion">Fashion</a></li>
+			<li><a href="/music">Music</a></li>
+			<li><a href="/gallery">Photos</a></li>
+			<li><a href="/video/index.html">Video</a></li>
+			<li><a href="/giveaways">Giveaways</a></li>
+		</ul>
+	</nav>
+</div>
+
+<div class="footer-block connect-et">
+	<h4>Connect With ET</h4>
+	<ul>
+		<li><a href="http://www.facebook.com/EntertainmentTonight" target="_blank">Facebook</a></li>
+		<li><a href="https://twitter.com/#!/etnow" target="_blank">Twitter</a></li>
+		<li><a href="http://instagram.com/entertainmenttonight" target="_blank">Instagram</a></li>
+                <li><a href="http://entertainmenttonight.tumblr.com" target="_blank">Tumblr</a></li>
+		<li><a href="https://plus.google.com/+ET" target="_blank">Google+</a></li>
+		<li><a href="http://www.youtube.com/entertainmenttonight" target="_blank">YouTube</a></li>
+		<li><a href="http://www.etonline.com/rss/rss.php">RSS</a></li>
+		<li><a href="http://www.etonline.com/etmobile">Mobile</a></li>
+		<li><a href="http://www.etonline.com/showfinder/">ET on TV</a></li>
+		<li><a href="http://www.cbsbrandstudio.com/advertising/" target="_blank">Advertise with Us</a></li>
+	</ul>
+</div>
+
+<div class="footer-block sites-we-love">
+	<h4>Sites We Love</h4>
+	<ul>
+		<li><a href="http://www.cbsnews.com/" target="_blank">CBS News</a></li>
+		<li><a href="http://www.tvguide.com/" target="_blank">TV Guide</a></li>
+		<li><a href="http://www.rachaelrayshow.com/" target="_blank">Rachael Ray Show</a></li>
+		<li><a href="http://www.insideedition.com/" target="_blank">Inside Edition</a></li>
+		<li><a href="http://www.chow.com/" target="_blank">Chow</a></li>
+		<li><a href="http://www.last.fm/" target="_blank">last.fm</a></li>
+		<li><a href="http://www.metacritic.com/" target="_blank">Metacritic</a></li>
+		<li><a href="http://www.metrolyrics.com/" target="_blank">metrolyrics</a></li>
+		<li><a href="http://www.tv.com/" target="_blank">TV.com</a></li>
+		<li><a href="http://www.startswithyou.com/" target="_blank">Starts With You</a></li>
+	</ul>
+</div>
+
+<!-- CHECK FOR FOOTER --><!-- /BLOCKS/NEWSLETTER2.PHP ALTERED: 07262014 -->
+
+<script>
+function GetXmlHttpObject2()
+	{
+		if (window.XMLHttpRequest)
+		  {
+			  // code for IE7+, Firefox, Chrome, Opera, Safari
+			  return new XMLHttpRequest();
+		  }
+		if (window.ActiveXObject)
+		  {
+			  // code for IE6, IE5
+			  return new ActiveXObject("Microsoft.XMLHTTP");
+		  }
+		return null;
+	}
+
+function processEmailOptin2()
+{
+
+        var xmlhttp = GetXmlHttpObject2();
+        var lfckv = document.getElementById("agreement-check2").checked
+
+        //alert(xmlhttp);
+        
+	if(lfckv)
+	{
+
+
+		var url;
+		var email = document.getElementById("email_input2").value;
+
+		if( email == "")
+		{
+			document.getElementById("email_results2").innerHTML = "PLEASE ENTER YOUR EMAIL ADDRESS.";
+		}
+		else
+		{
+			url = "/inc/process_email_optin.php?email="+ email +"&ip=10.180.30.34";
+			//alert(url);
+			document.getElementById('signup_form2').innerHTML = "<img src='http://www.etonline.com/inc/2010/08/23823617/ajax-loader.gif' />";
+
+			xmlhttp.onreadystatechange=function()
+				{
+					if(xmlhttp.readyState==4)
+					  {
+						if(xmlhttp.status == 200)
+						{
+							var res = xmlhttp.responseText;
+							//alert("here"+res);
+//MWH FOR TESTING IN DEV ONLY
+//res = "Success";
+							if(res.indexOf("Success") > -1)                                               
+							{
+     						           document.getElementById('df_thanks2').style.display = "block";							   
+							   document.getElementById('email_results2').innerHTML = "";
+              				}
+							else
+							{
+							   document.getElementById('df_error2').style.display = "block";
+							}
+						}
+					}
+				}
+				xmlhttp.open("GET",url,true);
+				xmlhttp.send();
+		
+			
+
+
+		}
+	
+
+	}
+	else
+	{
+		document.getElementById('email_results2').innerHTML = "Please Accept The Terms and Conditions before submitting the request";
+	}
+}
+</script>
+
+<!-- /BLOCKS/NEWSLETTER2.PHP ALTERED:07262014 -->
+
+<aside class="footer-block">
+	<h4>
+		<label for="email_input2" class="cool-mint">
+			Newsletter
+		</label>
+	</h4>
+	<!-- <form action="post" role="form" class="inline-form footer-newsletter-form" _lpchecked="1"> -->
+		<div class="input-group" style="margin-bottom: 10px;">
+			<input id="email_input2" name="email_input2" type="text" class="form-control email-input" placeholder="Your E-Mail Address">
+			<button type="submit" class="signup-btn" onclick="processEmailOptin2()">Sign Up</button>
+		</div>
+		<div class="input-group">
+			<p class="inputButton">
+				<input type="checkbox" name="agreement-check2" id="agreement-check2">
+				<p for="agreement-check2" style="font-size: 11px;">
+					By checking this box you acknowledge our <a href="https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy-Highlights?template=template_privacygl&referer=privacygl.com" target="_blank">Privacy Policy</a> and agree to the <a href="https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSInteractive-Terms-of-Use?template=template_touzd&referer=touzd.com&data=&cfs=default" target="_blank">Terms of Use.</a>
+				</p>
+			</p>
+		</div>
+                <div id="signup_form2" style="display: none;"></div>
+		<div id="df_thanks2" style="display:none;"  class="nlwarning1">
+		<p>THANK YOU</p>
+		</div>
+                <div id="df_error2" style="display:none;"  class="nlwarning1"></div>
+		<div id="email_results2" class="nlwarning1"></div>
+	 <!-- </form> -->
+</aside>
+
+
+		</div>
+	</section>
+	<section class="center-block text-center legal">
+
+		<!-- /BLOCKS/ICON-BAR.PHP ALTERED:07262014 -->
+
+<section class="icon-bar">
+	<a href="http://www.facebook.com/EntertainmentTonight" target="_blank" class="genericon genericon-facebook-alt">
+		<!-- Facebook -->
+	</a>
+	<a href="http://instagram.com/etonline" target="_blank" class="genericon genericon-instagram">
+		<!-- Instagram -->
+	</a>
+	<a href="https://twitter.com/etnow" target="_blank" class="genericon genericon-twitter">
+		<!-- Twitter -->
+	</a>
+	<a href="https://plus.google.com/+et" target="_blank" class="genericon genericon-googleplus-alt">
+		<!-- Google + -->
+	</a>
+	<a href="http://www.youtube.com/entertainmenttonight" target="_blank" class="genericon genericon-youtube">
+		<!-- YouTube -->
+	</a>
+	<a href="http://www.pinterest.com/etonline" target="_blank" class="genericon genericon-pinterest">
+		<!-- Pinterest -->
+	</a>
+	<a href="http://www.etonline.com/rss/rss.php" target="_blank" class="genericon genericon-feed">
+		<!-- RSS -->
+	</a>
+	<a href="http://www.stumbleupon.com/channel/ETonline" target="_blank" class="genericon genericon-stumbleupon">
+		<!-- StumbleUpon -->
+	</a>
+	<a href="http://m.etonline.com/index.html" target="_blank" class="genericon genericon-tablet">
+		<!-- Kargo -->
+	</a>
+</section>
+<!-- /BLOCKS/LEGALESE.PHP ALTERED:07262014 -->
+
+	
+
+<h5 class="copyright">
+	CBS Television Distribution Â© 2015 CBS Studios Inc. All Rights Reserved <!-- it's ok to use unicode charaters in UTF-8 encoded documents, but the encoding must be set! -->
+</h5>
+<h6 class="anchor-strip">
+	<a href="https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSInteractive-Terms-of-Use?template=template_touzd&referer=touzd.com&data=&cfs=default" target="_blank">Terms of Use</a>&nbsp;|&nbsp;
+	<a href="https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy-Highlights?template=template_privacygl&referer=privacygl.com" target="_blank">Privacy Policy</a>&nbsp;|&nbsp;
+	<a href="http://www.etonline.com/newsdesk/tips2013.php" target="_blank">Submit a Tip</a>
+</h6>
+
+
+	</section>
+</footer><!-- /BLOCKS/MODAL.PHP ALTERED:07262014 -->
+
+<div class="modal fade" id="mega_nav" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<a href="#" class="anchor-block dismiss" data-dismiss="modal">
+					<span aria-hidden="true" class="genericon genericon-close"></span>
+				</a>
+			</div>
+			<div class="modal-body clearfix">
+				<!-- /slotted/meganav/file.mc altered: 07262014 -->
+
+<nav class='interstatebold mega-nav pull-left'>
+<ul>
+<li class='menu-item'>
+<a href='/news' class='anchor-block'>NEWS</a>
+<div id='NEWS' class='fly-out hidden-xs hidden-sm'>
+<a href='/news' class='anchor-block'>
+<h3 class='interstateboldconditalic'>
+LATEST IN NEWS</h3></a>
+<a href='/news/160044_lee_daniels_says_monique_pissed_people_off/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/02/24133224/300_et_moniqueintv_022015.jpg' alt='Lee Daniels & Mo'Nique's Candid Comments on 'Blackballed' Accusations'>
+<h4 class='media-heading'>Lee Daniels & Mo'Nique's Candid Comments on 'Blackballed' Accusations<span class='indicator'></span></h4>
+</a>
+<a href='/news/160046_amber_rose_responds_to_kanye_west_30_showers_diss_by_slamming_kim_kardashian/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2014/08/24098833/300_amber_rose_454094782.jpg' alt='Amber Rose Responds to Kanye West's '30 Showers' Diss by Slamming Kim Kardashian'>
+<h4 class='media-heading'>Amber Rose Responds to Kanye West's '30 Showers' Diss by Slamming Kim Kardashian<span class='indicator'></span></h4>
+</a>
+<a href='/news/160036_amy_poehler_emotional_tribute_to_parks_and_recreation_producer_harris_wittels_i_lost_a_friend/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/02/24133191/et_amypoehler_u4h_300_022015.jpg' alt='Amy Poehler's Emotional Tribute to 'Parks and Recreation' Producer Harris Wittels: 'I Lost a Friend''>
+<h4 class='media-heading'>Amy Poehler's Emotional Tribute to 'Parks and Recreation' Producer Harris Wittels: 'I Lost a Friend'<span class='indicator'></span></h4>
+</a>
+<a href='/news/160021_kanye_west_slams_ex_amber_rose/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/02/24133172/300_trending_kanye_amber_022015.jpg' alt='Kanye West Slams Ex Amber Rose: 'I Had to Take 30 Showers Before I Got with Kim''>
+<h4 class='media-heading'>Kanye West Slams Ex Amber Rose: 'I Had to Take 30 Showers Before I Got with Kim'<span class='indicator'></span></h4>
+</a>
+</div>
+</li>
+<li class='menu-item'>
+<a href='/tv' class='anchor-block'>TV</a>
+<div id='TV' class='fly-out hidden-xs hidden-sm'>
+<a href='/tv' class='anchor-block'>
+<h3 class='interstateboldconditalic'>
+LATEST IN TV</h3></a>
+<a href='/tv/160038_lena_dunham_will_guest_star_on_scandal_but_is_she_going_to_play_a_villain/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/tv/2015/02/24133182/set_lena_dunham_kerry_washington_300.jpg' alt='Lena Dunham Will Guest Star on 'Scandal'! But Is She Going to Play a Villain?!'>
+<h4 class='media-heading'>Lena Dunham Will Guest Star on 'Scandal'! But Is She Going to Play a Villain?!<span class='indicator'></span></h4>
+</a>
+<a href='/tv/160024_kelly_ripa_busts_a_move_on_80s_dance_show/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2015/02/24133126/kelly_ripa_300.jpg' alt='Watch Kelly Ripa Bust a Move on '80s Dance Show!'>
+<h4 class='media-heading'>Watch Kelly Ripa Bust a Move on '80s Dance Show!<span class='indicator'></span></h4>
+</a>
+<a href='/tv/160022_john_legend_common_lip_sync_battle/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2015/02/24133119/john_legend_300.jpg' alt='John Legend Channels M.C. Hammer In Epic Lip Sync Battle with Common'>
+<h4 class='media-heading'>John Legend Channels M.C. Hammer In Epic Lip Sync Battle with Common<span class='indicator'></span></h4>
+</a>
+<a href='/tv/160017_omg_tgit_this_week_jaw_dropping_moments_from_grey_s_anatomy_scandal_and_htgawm/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/tv/2015/02/24133061/300_htgawm_group_dance.jpg' alt='OMG T.G.I.T.! This Week's Jaw-Dropping Moments From 'Greyâs Anatomy,' 'Scandal' and 'HTGAWM''>
+<h4 class='media-heading'>OMG T.G.I.T.! This Week's Jaw-Dropping Moments From 'Greyâs Anatomy,' 'Scandal' and 'HTGAWM'<span class='indicator'></span></h4>
+</a>
+</div>
+</li>
+<li class='menu-item'>
+<a href='/movies' class='anchor-block'>MOVIES</a>
+<div id='MOVIES' class='fly-out hidden-xs hidden-sm'>
+<a href='/movies' class='anchor-block'>
+<h3 class='interstateboldconditalic'>
+LATEST IN MOVIES</h3></a>
+<a href='/news/160044_lee_daniels_says_monique_pissed_people_off/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/02/24133224/300_et_moniqueintv_022015.jpg' alt='Lee Daniels & Mo'Nique's Candid Comments on 'Blackballed' Accusations'>
+<h4 class='media-heading'>Lee Daniels & Mo'Nique's Candid Comments on 'Blackballed' Accusations<span class='indicator'></span></h4>
+</a>
+<a href='/movies/160050_hot_tub_time_machine_2_cast_on_craig_robinson_crazy_parties/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/02/24133184/300_et_hot_tub_time_machine2_022015.jpg' alt=''Hot Tub Time Machine 2' Cast On Craig Robinson's Crazy Parties  '>
+<h4 class='media-heading'>'Hot Tub Time Machine 2' Cast On Craig Robinson's Crazy Parties  <span class='indicator'></span></h4>
+</a>
+<a href='/movies/160030_exclusive_horrible_bosses_2_blooper/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/02/24133155/clip_exclusive_horrible_bosses_2REV300.jpg' alt='EXCLUSIVE: The 'Horrible Bosses 2' Cast Can't Keep it Together in This Behind-the-Scenes Blooper'>
+<h4 class='media-heading'>EXCLUSIVE: The 'Horrible Bosses 2' Cast Can't Keep it Together in This Behind-the-Scenes Blooper<span class='indicator'></span></h4>
+</a>
+<a href='/movies/159973_mo_nique_says_she_was_blackballed_after_winning_oscar/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/02/24133045/300_et_trending_aol_monique_021915.jpg' alt='Mo'Nique Says She Was 'Blackballed' After Winning 'Precious' Oscar, Lee Daniels Responds'>
+<h4 class='media-heading'>Mo'Nique Says She Was 'Blackballed' After Winning 'Precious' Oscar, Lee Daniels Responds<span class='indicator'></span></h4>
+</a>
+</div>
+</li>
+<li class='menu-item'>
+<a href='/awards' class='anchor-block'>AWARDS</a>
+<div id='AWARDS' class='fly-out hidden-xs hidden-sm'>
+<a href='/awards' class='anchor-block'>
+<h3 class='interstateboldconditalic'>
+LATEST IN AWARDS</h3></a>
+<a href='/fashion/160047_reese_witherspoon_julianne_moore_and_emma_stone_2015_awards_season_style/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/02/24133159/et_fashion_evolution_022015300.jpg' alt='Who Has the Best Style of Awards Season 2015: Reese, Julianne, Emma, Keira or Rosamund?'>
+<h4 class='media-heading'>Who Has the Best Style of Awards Season 2015: Reese, Julianne, Emma, Keira or Rosamund?<span class='indicator'></span></h4>
+</a>
+<a href='/awards/159369_grammy_awards_2015_star_shots/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2015/02/24130918/beyonce_jay_z_300.jpg' alt='GRAMMY Awards 2015 Star Shots!'>
+<h4 class='media-heading'>GRAMMY Awards 2015 Star Shots!<span class='indicator'></span></h4>
+</a>
+<a href='/awards/159370_bafta_winners_2015/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2015/02/24130371/462998076_BAFTAs_300.jpg' alt='2015 BAFTAs Winners List: J.K. Simmons, 'Boyhood' Take Home Statues'>
+<h4 class='media-heading'>2015 BAFTAs Winners List: J.K. Simmons, 'Boyhood' Take Home Statues<span class='indicator'></span></h4>
+</a>
+<a href='/awards/159368_fans_claim_ledisi_snubbed_by_beyonce_at_grammy_awards/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2015/02/24130339/beyonce_Ledisi_300.jpg' alt='Fans In Uproar that Beyonce Is Singing Ledisi's 'Selma' Song at GRAMMYs'>
+<h4 class='media-heading'>Fans In Uproar that Beyonce Is Singing Ledisi's 'Selma' Song at GRAMMYs<span class='indicator'></span></h4>
+</a>
+</div>
+</li>
+<li class='menu-item'>
+<a href='/fashion' class='anchor-block'>FASHION</a>
+<div id='FASHION' class='fly-out hidden-xs hidden-sm'>
+<a href='/fashion' class='anchor-block'>
+<h3 class='interstateboldconditalic'>
+LATEST IN FASHION</h3></a>
+<a href='/fashion/160043_tips_for_achieving_oscars_worthy_beauty/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/02/24133243/et_EWC_oscar_beauty_022015300..jpg' alt='Tips for Achieving Oscars-Worthy Beauty'>
+<h4 class='media-heading'>Tips for Achieving Oscars-Worthy Beauty<span class='indicator'></span></h4>
+</a>
+<a href='/fashion/160055_5_spring_styles_you_ll_love_from_rihanna_zendaya_more/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/02/24133188/et_fashion_wrap_022015_300.jpg' alt='5 Spring Styles You'll Love From Rihanna, Zendaya & More!'>
+<h4 class='media-heading'>5 Spring Styles You'll Love From Rihanna, Zendaya & More!<span class='indicator'></span></h4>
+</a>
+<a href='/fashion/160047_reese_witherspoon_julianne_moore_and_emma_stone_2015_awards_season_style/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/02/24133159/et_fashion_evolution_022015300.jpg' alt='Who Has the Best Style of Awards Season 2015: Reese, Julianne, Emma, Keira or Rosamund?'>
+<h4 class='media-heading'>Who Has the Best Style of Awards Season 2015: Reese, Julianne, Emma, Keira or Rosamund?<span class='indicator'></span></h4>
+</a>
+<a href='/fashion/159963_lady_gaga_gushes_about_her_estimated_half_a_million_engagement_ring/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/music/2015/02/24132255/300_lady_gaga_taylor_kinney_454749938.jpg' alt='Lady Gaga Gushes About Her Estimated Half-Million Dollar Engagement Ring'>
+<h4 class='media-heading'>Lady Gaga Gushes About Her Estimated Half-Million Dollar Engagement Ring<span class='indicator'></span></h4>
+</a>
+</div>
+</li>
+<li class='menu-item'>
+<a href='/music' class='anchor-block'>MUSIC</a>
+<div id='MUSIC' class='fly-out hidden-xs hidden-sm'>
+<a href='/music' class='anchor-block'>
+<h3 class='interstateboldconditalic'>
+LATEST IN MUSIC</h3></a>
+<a href='/music/160023_john_mayer_praises_real_artist_lady_gaga/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/02/24133151/et_trending_GagaMayer_300_022015.jpg' alt='John Mayer is a Little Monster! Praises 'REAL Artist' Lady Gaga'>
+<h4 class='media-heading'>John Mayer is a Little Monster! Praises 'REAL Artist' Lady Gaga<span class='indicator'></span></h4>
+</a>
+<a href='/music/160033_kanye_west_finally_listens_to_beck/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/photo/2015/02/24133169/300_kanye_west_breakfastclu.jpg' alt='Kanye West Finally Listens to Beck: 'Man, This Is Kinda Good!''>
+<h4 class='media-heading'>Kanye West Finally Listens to Beck: 'Man, This Is Kinda Good!'<span class='indicator'></span></h4>
+</a>
+<a href='/music/160026_zayn_malik_falls_ill_leaves_one_direction_show_early/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2015/02/24133143/459486272_zayn_300.jpg' alt='Zayn Malik Leaves 1D Stage Early After Falling Ill'>
+<h4 class='media-heading'>Zayn Malik Leaves 1D Stage Early After Falling Ill<span class='indicator'></span></h4>
+</a>
+<a href='/music/159999_this_courageous_man_is_listening_to_nickelback_non_stop_for_a_great_cause/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/02/24132972/300_nickelback_challenge_021915.jpg' alt='This Courageous Man Is Listening to Nickelback Non-Stop for a Great Cause'>
+<h4 class='media-heading'>This Courageous Man Is Listening to Nickelback Non-Stop for a Great Cause<span class='indicator'></span></h4>
+</a>
+</div>
+</li>
+<li class='menu-item'>
+<a href='/gallery' class='anchor-block'>PHOTOS</a>
+<div id='PHOTOS' class='fly-out hidden-xs hidden-sm'>
+<a href='/gallery' class='anchor-block'>
+<h3 class='interstateboldconditalic'>
+LATEST IN PHOTOS</h3></a>
+<a href='/news/159064_star_sightings_february_2015/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/photo/2015/02/24133145/300_kendra_wilkinson_pcn_022015.jpg' alt='Kendra Shows Off Her Slim Figure'>
+<h4 class='media-heading'>Kendra Shows Off Her Slim Figure<span class='indicator'></span></h4>
+</a>
+<a href='/news/151502_jill_duggar_dillard_pregnancy_album/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/tv/2015/02/24133073/300_jill_duggar_facebook_20150219.jpg' alt='Jill (Duggar) Dillard's Baby is Almost Here!'>
+<h4 class='media-heading'>Jill (Duggar) Dillard's Baby is Almost Here!<span class='indicator'></span></h4>
+</a>
+<a href='/gallery/144748_Stars_Share_Pics_of_Their_Cute_Kids/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2015/02/24132364/franny_fallon_300.jpg' alt='Jimmy Fallon's Franny Is Having a 'Happy Tuesday''>
+<h4 class='media-heading'>Jimmy Fallon's Franny Is Having a 'Happy Tuesday'<span class='indicator'></span></h4>
+</a>
+<a href='/gallery/144527_Hollywood_Sexiest_Shirtless_Men_March_2014/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/photo/2015/02/24132346/calvin_harris_shirtless_300.jpg' alt='Take-It-Off Tuesday! Norman Reedus and Calvin Harris Are Both Shirtless!'>
+<h4 class='media-heading'>Take-It-Off Tuesday! Norman Reedus and Calvin Harris Are Both Shirtless!<span class='indicator'></span></h4>
+</a>
+</div>
+</li>
+<li class='menu-item'>
+<a href='/video/index.html' class='anchor-block'>VIDEO</a>
+<div id='VIDEO' class='fly-out hidden-xs hidden-sm'>
+<a href='/video/index.html' class='anchor-block'>
+<h3 class='interstateboldconditalic'>
+LATEST IN VIDEO</h3></a>
+<a href='/media/video/tips_for_achieving_oscars_worthy_beauty-160057/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/02/24133243/et_EWC_oscar_beauty_022015300..jpg' alt='Tips for Achieving Oscars-Worthy Beauty'>
+<h4 class='media-heading'>Tips for Achieving Oscars-Worthy Beauty<span class='indicator'></span></h4>
+</a>
+<a href='/media/video/kristen_bell_explains_why_she_is_pro_vaccination-160056/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/02/24133232/300_et_kristenbell_022015.jpg' alt='Kristen Bell Explains Why She Is Pro-Vaccination'>
+<h4 class='media-heading'>Kristen Bell Explains Why She Is Pro-Vaccination<span class='indicator'></span></h4>
+</a>
+<a href='/media/video/reba_mcentire_defends_daughter_in_law_kelly_clarkson-160052/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/02/24133215/et_kelly_clarkson_riba_022015300.jpg' alt='Reba McEntire Defends Daughter-in-Law Kelly Clarkson'>
+<h4 class='media-heading'>Reba McEntire Defends Daughter-in-Law Kelly Clarkson<span class='indicator'></span></h4>
+</a>
+<a href='/media/video/sex_box_inside_tv_most_controversial_new_show-160051/index.html' class='media anchor-block'>
+<img class='media-object pull-left' src='/media/video/2015/02/24133212/300_et_c5sexbox_022015.jpg' alt=''Sex Box': Inside TV's Most Controversial New Show'>
+<h4 class='media-heading'>'Sex Box': Inside TV's Most Controversial New Show<span class='indicator'></span></h4>
+</a>
+</div>
+</li>
+<li class='menu-item' class='anchor-block'><a href='/tag/celebs/' class='media anchor-block'>CELEBS</a><div id='celebs' class='fly-out'></div></li>
+</ul>
+</nav>
+			</div>
+		</div>
+		<div class="modal-footer clearfix">
+			<!-- /BLOCKS/MEGA-NAV/MODAL-BRANDING.PHP ALTERED:07262014 -->
+
+<span class="modalBranding">
+	<a href="/" class="modal-brand anchor-block noBackground">
+		<img src="/media/img/et-logo_08132014.png" alt="Entertainment Tonight" class="logo">
+	</a>
+</span>		</div>
+	</div>
+</div>
+<!-- /BLOCKS/FOOTER-SCRIPTS.PHP ALTERED:07262014 -->
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '145337045558621',
+      xfbml      : true,
+      version    : 'v2.1'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="http://isotope.metafizzy.co/isotope.pkgd.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script async defer language='JavaScript' type='text/javascript' src='https://sadmin.brightcove.com/js/BrightcoveExperiences.js'></script>
+<script async defer type="text/javascript" src="http://admin.brightcove.com/js/APIModules_all.js"></script>
+<script async defer type="text/javascript"src="/js/brightcove.js"></script>
+<script async defer type="text/javascript">window._taboola = window._taboola || [];_taboola.push({flush:true});</script>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+<script type="text/JavaScript" src="http://etonline.ep.livefyre.com/media/ZXRvbmxpbmUuZXAubGl2ZWZ5cmUuY29t/javascripts/customprofiles.js"></script>
+<script type="text/JavaScript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
+		<script type="text/javascript">
+		//alert('here');
+		var lf_config = [{
+			"collectionMeta": "eyJ0eXAiOiJqd3QiLCJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IlN1cnByaXNlISBNYWRvbm5hIFJlbGVhc2VzIDYgTmV3IFNvbmdzIiwidXJsIjoiaHR0cDpcL1wvd3d3LmV0b25saW5lLmNvbVwvbXVzaWNcLzE1NTUwNl9tYWRvbm5hX3JlbGVhc2VzXzZfbmV3X3NvbmdzXC8iLCJjaGVja3N1bSI6ImYwNTBlYmNmZTg2MTlkMDhiZjc5YzVlZDc3YzA5ZDIwIiwiYXJ0aWNsZUlkIjoiMTU1NTA2In0.5NDsIMOiezUt6GsxFA9vus4qR5PwqPhwdNo2rBbLhUQ",
+			"checksum": "f050ebcfe8619d08bf79c5ed77c09d20",
+			"siteId": "314418",
+			"el": "livefyre",
+			"articleId": "155506",
+			"maxVisible": "10"
+		}];
+		var authDelegate = new fyre.conv.SPAuthDelegate({engage: {app:'cbstv.auth.fyre.co'}});
+		var conv = fyre.conv.load({"network": "cbstvdistribution.fyre.co","authDelegate": authDelegate}, lf_config);
+		processing=true;
+		</script>
+
+		<script type="text/javascript">
+		// <![CDATA[
+		var _mb_site_guid =
+		"2213dc46bada533d9c512c1b942f5eed71a1f37bd87456f4b55908d30fa6278c";
+		(function(d, t){
+		var mb = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		mb.async = mb.src = '//cdn.linksmart.com/linksmart.js';
+		s.parentNode.insertBefore(mb, s);
+		}(document, 'script'));
+		// ]]>
+		</script>
+		<script src="/js/custom.js"></script>
+</script>
+
+	<script language="javascript" type="text/javascript">
+	(function() {
+	var zergnet = document.createElement('script');
+	zergnet.type = 'text/javascript'; zergnet.async = true;
+	zergnet.src = 'http://www.zergnet.com/zerg.js?id=27013';
+	var znscr = document.getElementsByTagName('script')[0];
+	znscr.parentNode.insertBefore(zergnet, znscr);
+	})();
+	</script>
+
+
+<!-- OMNITURE TAG -->
+<script id='myscript' type='text/javascript' src='/includes/s_code.js'></script>
+<script language="JavaScript" type="text/javascript">
+    	s.campaign=""; //variable for campaign
+	s.channel="music:article";
+	s.pageName="Surprise! Madonna Releases 6 New Songs";
+	s.server="www.etonline.com";
+	s.referrer=document.referer;
+	s.prop1="Music";
+	s.pageURL="http://www.etonline.com/music/155506_madonna_releases_6_new_songs/";
+	var s_code=s.t();if(s_code)document.write(s_code);
+</script>
+<script language="JavaScript" type="text/javascript"> if(navigator.appVersion.indexOf('MSIE')>=0) document.write(unescape('%3C')+'\!-'+'-'); </script>
+<noscript><img src="http://cbs.112.2o7.net/b/ss/cbset/1/H.25.5--NS/0" height="1" width="1" border="0" alt="" /></noscript>
+
+<!-- CHARTBEAT TAG -->
+<script type="text/javascript">
+var _sf_async_config={};
+/** CONFIGURATION **/
+_sf_async_config.uid = 20200;
+_sf_async_config.domain = "etonline.com";
+_sf_async_config.sections = "Music";
+_sf_async_config.authors = "Rosalyn Oshmyansky";
+_sf_async_config.useCanonical = true;
+(function(){
+	function loadChartbeat()
+	{
+		window._sf_endpt=(new Date()).getTime();
+		var e=document.createElement('script');
+		e.setAttribute('language','javascript');
+		e.setAttribute('type','text/javascript');
+		e.setAttribute('src',(("https:"==document.location.protocol)?"https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/":"http://static.chartbeat.com/")+"js/chartbeat.js");
+		document.body.appendChild(e)
+	}
+	var oldonload=window.onload;
+	window.onload=(typeof window.onload!='function')?loadChartbeat:function(){oldonload();loadChartbeat()}
+})();
+</script>
+
+<!--BEGIN GOOGLE ANALYTICS TAG -->
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-1072526-1','etonline.com');ga('require','displayfeatures');ga('send','pageview');</script>
+
+<!-- QUANTCAST TAG-->
+<script type="text/javascript">_qoptions={qacct:"p-8aDQIJR0hCO6U"};</script><script type="text/javascript"src="http://edge.quantserve.com/quant.js"></script><noscript><img src="http://pixel.quantserve.com/pixel/p-8aDQIJR0hCO6U.gif"style="display: none;"border="0"height="1"width="1"alt="Quantcast"/></noscript>
+
+<!--  BUZZFEED TAG -->
+<div id="BF_WIDGET_1"></div><script type="text/javascript">(function(){BF_WIDGET_JS=document.createElement('script');BF_WIDGET_JS.type="text/javascript";BF_WIDGET_SRC="http://ct.buzzfeed.com/wd/UserWidget?u=etonline.com&amp;to=1&amp;or=vb&amp;wid=1&amp;cb="+(new Date()).getTime();setTimeout(function(){document.getElementById('BF_WIDGET_1').appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1)})();</script>
+
+<!-- NIELSEN ONLINE SITECENSUS V6.0 TAG -->
+<script type="text/javascript"src="//secure-au.imrworldwide.com/v60.js"></script><script type="text/javascript">var pvar={cid:"inceptiondigital",content:"0",server:"secure-au"};var trac=nol_t(pvar);trac.record().post();</script><noscript><div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=inceptiondigital&amp;cg=0&amp;cc=1&amp;ts=noscript"width="1"height="1"alt=""/></div></noscript>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"7925dc8d76","applicationID":"4375141","transactionName":"bwMAYhdUXUJSVUxZV1ZJN0QMGl5EQF9bHwkMX1QPVGpCRFZFTFxXTgM9RABYVlxRU0pDZ1APEWkRQlxuXl9WRUxdFT1BDEFbbkFZWllWZxELWglcUlxAGVFeXF0eTF4RWF8=","queueTime":0,"applicationTime":236,"ttGuid":"","agentToken":"","atts":"Q0QDFF9OTkw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"7925dc8d76","applicationID":"4375141","transactionName":"bwMAYhdUXUJSVUxZV1ZJN0QMGl5EQF9bHwkNU1cGU2peUFdZVl5ZZxQHWgBUQFRAaQ5vVl0RPUUKW1RCHF9WVF1ASApCCFk=","queueTime":0,"applicationTime":178,"ttGuid":"","agentToken":"","atts":"Q0QDFF9OTkw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-536.min.js"}</script></body>  
+</html>

@@ -1,0 +1,278 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+	<title>Literature.org - The Online Literature Library</title>
+	<style type="text/css" media="screen"> 
+	<!--
+		@import "/css/literature2.css"; 
+	-->
+	</style>
+
+<script type="text/javascript" language="JavaScript">
+    var agt      = navigator.userAgent.toLowerCase();
+    var is_major = parseInt(navigator.appVersion);
+    var is_minor = parseFloat(navigator.appVersion);
+    var is_ie    = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+    var is_ie3   = (is_ie && (is_major < 4));
+    var is_ie4   = (is_ie && (is_major == 4) && (agt.indexOf("msie 4")!=-1) );
+    var is_ie4up = (is_ie && (is_major >= 4));
+    var is_ie5   = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) );
+    var is_ie5_5 = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.5") !=-1));
+    var is_ie5up = (is_ie && !is_ie3 && !is_ie4);
+    var is_ie5_5up =(is_ie && !is_ie3 && !is_ie4 && !is_ie5);
+
+    if (is_ie5up) {
+	document.write ('<link rel="STYLESHEET" type="text/css" href="/css/ie.css">');
+    }
+</script>
+</head>
+
+<body>
+<!-- Main Header -->
+<div id="header">
+
+<table cellpadding="4" cellspacing="0" width="100%" border="0">
+<tr>
+	<td width="245">
+	<a href="/"><img src="/images/literature2.gif" width="245" height="56" alt="Literature.org" border="0"></a>
+	</td>
+	<td align="right" valign="bottom">
+
+<form action="http://www.google.com" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-2413103213535806:8478711176" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="31" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+	</td>
+</tr>
+</table>
+</div>
+<!-- End Header -->
+
+<!-- Left Hand Margin -->
+<div id="leftmargin">
+<!-- navigation -->
+<div id="nav">
+<strong>By This Author</strong>:<br>
+<a href="/authors/dickens-charles/christmas-carol/" title="A Christmas Carol">A Christmas ...</a><br>
+<a href="/authors/dickens-charles/great-expectations/" title="Great Expectations">Great Expect...</a><br>
+<a href="/authors/dickens-charles/two-cities/" title="Tale of Two Cities">Tale of Two ...</a><br>
+<a title="The Chimes" href="/authors/dickens-charles/chimes/">The Chimes</a><br>
+<a href="/authors/dickens-charles/cricket/" title="The Cricket on the Hearth">The Cricket ...</a><br>
+
+<p>
+<strong>Literature.org</strong>:<br>
+<a href="/faq.html">Contact</a>
+<br>
+
+</div>
+<br />
+<hr>
+<p>
+<p>
+<p>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Orig literature.org LHS -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:120px;height:240px"
+     data-ad-client="ca-pub-2413103213535806"
+     data-ad-slot="2571778376"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+<!-- End Left Hand Margin -->
+<!-- main body -->
+	
+<div id="content">
+<table cellpadding="5" border="0" width="100%">
+<tr>
+<td valign="top">
+
+<div id="pagetext" align="left">
+<!-- Page text -->
+
+<h1><a href="index.html">Tale of Two Cities</a></h1><h2><a href="../">Charles Dickens</a></h2><hr/>
+<p>
+
+Thanks to Max Lin for spotting the two missing Chapter 9's in Books 2 and 3.
+<P>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-01/">Book The First - Recalled To Life</A>
+<BLOCKQUOTE>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-01/chapter-01.html">Chapter 1 - The Period</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-01/chapter-02.html">Chapter 2 - The Mail</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-01/chapter-03.html">Chapter 3 - The Night Shadows</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-01/chapter-04.html">Chapter 4 - The Preparation</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-01/chapter-05.html">Chapter 5 - The Wine-Shop</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-01/chapter-06.html">Chapter 6 - The Shoemaker</A> <BR>
+</BLOCKQUOTE>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/">Book The Second - The Golden Thread</A> <BR>
+<BLOCKQUOTE>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-01.html">Chapter 1 - Five Years Later</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-02.html">Chapter 2 - A Sight</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-03.html">Chapter 3 - A Disappointment</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-04.html">Chapter 4 - Congratulatory</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-05.html">Chapter 5 - The Jackal</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-06.html">Chapter 6 - Hundreds of People</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-07.html">Chapter 7 - Monseigneur in Town</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-08.html">Chapter 8 - Monseigneur in the Country</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-09.html">Chapter 9 - The Gorgon's Head</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-10.html">Chapter 10 - Two Promises</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-11.html">Chapter 11 - A Companion Picture</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-12.html">Chapter 12 - The Fellow of Delicacy</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-13.html">Chapter 13 - The Fellow of No Delicacy</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-14.html">Chapter 14 - The Honest Tradesman</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-15.html">Chapter 15 - Knitting</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-16.html">Chapter 16 - Still Knitting</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-17.html">Chapter 17 - One Night</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-18.html">Chapter 18 - Nine Days</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-19.html">Chapter 19 - An Opinion</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-20.html">Chapter 20 - A Plea</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-21.html">Chapter 21 - Echoing Footsteps</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-22.html">Chapter 22 - The Sea Still Rises</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-23.html">Chapter 23 - Fire Rises</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-02/chapter-24.html">Chapter 24 - Drawn to the Loadstone Rock</A> <BR>
+</BLOCKQUOTE>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-03/">Book The Third - The Track of a Storm</A> <BR>
+<BLOCKQUOTE>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-03/chapter-01.html">Chapter 1 - In Secret</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-03/chapter-02.html">Chapter 2 - The Grindstone</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-03/chapter-03.html">Chapter 3 - The Shadow</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-03/chapter-04.html">Chapter 4 - Calm In Storm</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-03/chapter-05.html">Chapter 5 - The Wood-Sawyer</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-03/chapter-06.html">Chapter 6 - Triumph</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-03/chapter-07.html">Chapter 7 - A Knock at the Door</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-03/chapter-08.html">Chapter 8 - A Hand at Cards</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-03/chapter-09.html">Chapter 9 - The Game Made</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-03/chapter-10.html">Chapter 10 - The Substance of the Shadow</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-03/chapter-11.html">Chapter 11 - Dusk</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-03/chapter-12.html">Chapter 12 - Darkness</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-03/chapter-13.html">Chapter 13 - Fifty-Two</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-03/chapter-14.html">Chapter 14 - The Knitting Done</A> <BR>
+<IMG  WIDTH=14 HEIGHT=14 SRC="/effects/greenball.gif" ALIGN=TOP ALT="* ">
+
+<A HREF="book-03/chapter-15.html">Chapter 15 - The Footsteps Die Out Forever</A> <BR>
+</BLOCKQUOTE>
+</div>
+</td>
+<td valign="top" width="120"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Orig literature.org RHS -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:120px;height:600px"
+     data-ad-client="ca-pub-2413103213535806"
+     data-ad-slot="4048511577"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</td></tr>
+</table>
+<div id="footer">
+The Online Literature Library is sponsored by <A HREF="http://www.knowledge-matters.co.uk/">Knowledge Matters Ltd.</A><BR>Last updated 
+</div>
+</div>
+
+</body>
+</html>
+

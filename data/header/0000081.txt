@@ -1,0 +1,17 @@
+Server: Apache
+X-Powered-By: PHP/5.5.21
+Vary: Accept-Encoding,Cookie
+Cache-Control: max-age=3, must-revalidate
+WP-Super-Cache: Served supercache file from PHP
+Last-Modified: Fri, 20 Feb 2015 00:04:33 GMT
+Content-Type: text/html; charset=UTF-8
+X-Cacheable: NO:Not-Cacheable
+Content-Length: 29838
+Date: Fri, 20 Feb 2015 19:38:08 GMT
+X-Varnish: 971655099
+Age: 0
+Via: 1.1 varnish
+Connection: close
+X-Served-By: web1.beingwicked.com
+X-Cache: MISS
+

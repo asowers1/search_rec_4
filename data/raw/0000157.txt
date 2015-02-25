@@ -1,0 +1,1791 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.23" />
+<meta name="keywords" content="PotC Wiki,pirates,Pirates of the Caribbean: Dead Man&#039;s Chest,Pirates of the Caribbean: The Curse of the Black Pearl,Pirates of the Caribbean: Dead Man&#039;s Chest (disambiguation),Gore Verbinski,Jerry Bruckheimer,Mike Stenson,Chad Oman,Bruce Hendricks,Ted Elliott,Terry Rossio,Walt Disney" />
+<meta name="description" content="Pirates of the Caribbean: Dead Man&#039;s Chest is the second installment in the Pirates of the..." />
+<meta name="google-site-verification" content="XT9-qRVKHlr0mpbpLiZ-k2KZwlhnv9Q2stl_9bFBToo" />
+<link rel="canonical" href="http://pirates.wikia.com/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb62/pirates/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/pirates/images/6/64/Favicon.ico/revision/latest?cb=20140305234534" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="PotC Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://pirates.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="PotC Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Pirates of the Caribbean: Dead Man's Chest - Pirates of the Caribbean Wiki - The Unofficial Pirates of the Caribbean Encyclopedia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images2.wikia.nocookie.net/__am/1424388494/sasses/background-dynamic%3Dfalse%26background-image%3Dhttp%253A%252F%252Fstatic3.wikia.nocookie.net%252Fpirates%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D524%26background-image-width%3D262%26color-body%3D%2523000%26color-body-middle%3D%2523000%26color-buttons%3D%2523721410%26color-header%3D%2523850713%26color-links%3D%2523006cb0%26color-page%3D%2523aaaaaa%26page-opacity%3D100%26widthType%3D2/skins/oasis/css/oasis.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationHubsMenu.scss,extensions/wikia/UserLogin/css/UserLoginDropdown.globalNavigation.scss,extensions/wikia/WallNotifications/styles/WallNotifications.globalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationOasis.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearchOasis.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://pirates.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: pirates:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="movies",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":true,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"pageArticleId":62,"pageIsArticle":true,"pageName":"Pirates_of_the_Caribbean:_Dead_Man\'s_Chest","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"age=teen;egnre=action;egnre=adventure;egnre=family;egnre=fantasy;esrb=teen;gnre=adventure;gnre=rpg;media=movie;pform=pc;egnre=pirates","wikiDbName":"pirates","wikiDirectedAtChildren":true,"wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"Entertainment"},"providers":[],"slots":{"bottomLeaderboardImpressionCapping":[2,4,6]},"forceProviders":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[5,8,13,14,15,18,20,22,25,129,142,100056,100057,100058,100059,100078,100428],
+wgWikiFactoryTagNames=["movie","action/adventure","teens_(14-17)","kids_(13)","male","family","adults_(18-35)","female","drama","entertainment","dvd/blu-ray","wow","t9","skyscraper","skyscrapperwow","blizzardholidaysiteentry","apertureenabled"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1424388494",
+wgDBname="pirates",
+wgCityId="1668",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=62,
+wgCategories=["Pirates of the Caribbean","Real-world films"],
+wgPageName="Pirates_of_the_Caribbean:_Dead_Man\'s_Chest",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="movie",
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1424388494",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s18","wiki":"pirates","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>
+function syslogReport(priority,message,context){context=context||null;var url='//jserrorslog.wikia.com/',i=new Image(),data={'@message':message,'syslog_pri':priority};if(context){data['@context']=context;}
+try{data['@fields']={server:document.cookie.match(/server.([A-Z]*).cache/)[1]};}catch(e){}
+try{i.src=url+'l?'+JSON.stringify(data);}catch(e){i.src=url+'e?'+e;}}</script><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1424388494&amp;c=1668&amp;lc=en&amp;lid=75&amp;x=pirates&amp;y=c1&amp;u=0&amp;a=62&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1424388494&amp;c=1668&amp;lc=en&amp;lid=75&amp;x=pirates&amp;y=c1&amp;u=0&amp;a=62&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://pirates.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1424388494/groups/-/abtesting,oasis_blocking,analytics_gas_js,adengine2_tracking_js,adengine2_rubicon_rtp_js,adengine2_amazon_match_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="PotC Wiki" />
+	<meta property="og:title" content="Pirates of the Caribbean: Dead Man&#039;s Chest" />
+	<meta property="og:description" content="Pirates of the Caribbean: Dead Man&#039;s Chest is the second installment in the Pirates of the Caribbean film series, released on July 7, 2006 as a follow-up to the first film, The Curse of the Black Pearl. The film stars Johnny Depp (Captain Jack Sparrow), Orlando Bloom (Will Turner), Keira Knightley (Elizabeth Swann). It was directed by Gore Verbinski, produced by Jerry Bruckheimer, and written by Ted Elliott and Terry Rossio. Dead Man&#039;s Chest would be followed in 2007 by At World&#039;s End..." />
+	<meta property="og:url" content="http://pirates.wikia.com/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest" />
+	<meta property="og:image" content="http://vignette4.wikia.nocookie.net/pirates/images/a/a0/PotC_DMC_poster_b.jpg/revision/latest?cb=20060706112954" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Pirates_of_the_Caribbean_Dead_Man_s_Chest  TOC_hide wikinav2 skin-oasis background-fixed">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fpirates.wikia.com%2Fwiki%2FPirates_of_the_Caribbean%3A_Dead_Man%27s_Chest%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require(["ext.wikia.adEngine.amazonMatchOld", "wikia.geo", "wikia.instantGlobals"], function (amazon, geo, globals) {
+		var ac = globals["wgAmazonMatchOldCountries"];
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+	require(["ext.wikia.adEngine.amazonMatch", "wikia.geo", "wikia.instantGlobals"], function (amazon, geo, globals) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+</script>
+<!-- Unsupported language for AnalyticsProviderIVW2 -->
+<!-- Start for RubiconRTP, page_view -->
+<script>
+	require(['wikia.geo', 'wikia.instantGlobals', 'ext.wikia.adEngine.rubiconRtp'], function (geo, instantGlobals, rtp) {
+		var rtpCountries = ["US","GB","BR"], country = geo.getCountryCode();
+
+		if (rtpCountries.indexOf(country) !== -1 && !instantGlobals.wgSitewideDisableRubiconRTP) {
+			rtp.call({"disabled":false,"oz_site":"7450\/11979","oz_zone":"145168","oz_ad_slot_size":"728x90","skin":["oasis"],"oz_cached_only":false,"slotname":["BOTTOM_LEADERBOARD","CORP_TOP_LEADERBOARD","HOME_TOP_LEADERBOARD","HUB_TOP_LEADERBOARD","TOP_LEADERBOARD"]});
+		}
+	});
+</script><div class="WikiaSiteWrapper">
+	<h1>Wikia</h1>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+	<nav class="global-navigation" id="globalNavigation">
+	<div class="page-width">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com"
+				class="wikia-logo"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+			</a>
+		</div>
+		<div class="hubs-container table-cell" id="hubsEntryPoint">
+			<a class="hubs-entry-point"></a>
+<nav id="hubs" class="hubs-menu">
+	<ul class="hub-list">
+					<li>
+								<a data-vertical="comics" href="http://comicshub.wikia.com/wiki/Comics_Hub" class="comics hub-link ">
+					<span class="icon"></span>
+					<span class="label">Comics</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="tv" href="http://tvhub.wikia.com/wiki/TV_Hub" class="tv hub-link ">
+					<span class="icon"></span>
+					<span class="label">TV</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="movies" href="http://movieshub.wikia.com/wiki/Movies_Hub" class="movies hub-link  active">
+					<span class="icon"></span>
+					<span class="label">Movies</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="music" href="http://musichub.wikia.com/wiki/Music_Hub" class="music hub-link ">
+					<span class="icon"></span>
+					<span class="label">Music</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="books" href="http://bookshub.wikia.com/wiki/Books_Hub" class="books hub-link ">
+					<span class="icon"></span>
+					<span class="label">Books</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="games" href="http://gameshub.wikia.com/wiki/Games_Hub" class="games hub-link ">
+					<span class="icon"></span>
+					<span class="label">Games</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="lifestyle" href="http://lifestylehub.wikia.com/wiki/Lifestyle_Hub" class="lifestyle hub-link ">
+					<span class="icon"></span>
+					<span class="label">Lifestyle</span>
+				</a>
+							</li>
+			</ul>
+	<div class="hub-links">
+		<div class="hub-menu-section movies-links active">
+			<ul>
+			<strong>NOW PLAYING</strong>
+							<li>
+					<a href="http://ow.ly/J5T6z">Kingsman: The Secret Service</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5T89">50 Shades of Grey</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5T9O">The SpongeBob Movie: Sponge Out of Water</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>FAN RADAR</strong>
+							<li>
+					<a href="http://ow.ly/J5Tbw">Pitch Perfect 2</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Tde">Furious 7</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5TeS">Avengers: Age of Ultron</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>IN THE NEWS</strong>
+							<li>
+					<a href="http://ow.ly/J5TjA">Spidey Joins MCU</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Tmv">Who is Miles Morales?</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Tof">Oscar Buzz</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>TOP VIDEOS</strong>
+							<li>
+					<a href="http://ow.ly/J5TtH">Straight Outta Compton</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5TvS">The Man From U.N.C.L.E.</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5TxJ">Fantastic Four Easter Eggs</a>
+				</li>
+					</ul>
+		<a class="more" href="http://movieshub.wikia.com/wiki/Movies_Hub">More Movies</a>
+</div>
+	</div>
+</nav>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://pirates.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search within PotC Wiki..." data-search-url="http://pirates.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search within PotC Wiki..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell">
+	<li class="account-navigation-first-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Pirates_of_the_Caribbean:_Dead_Man%27s_Chest" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">				<div class="avatar-container anon-avatar-placeholder">
+									</div>
+			</a>
+							<span class="sign-in-label">Sign in</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+		</div>
+		<div id="UserLoginDropdown" class="UserLoginDropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Sign up</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Pirates_of_the_Caribbean:_Dead_Man&#039;s_Chest">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_LEADERBOARD"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_BUTTON_WIDE"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_SKIN"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h1 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/Main_Page">
+					<img src="http://img3.wikia.nocookie.net/__cb62/pirates/images/8/89/Wiki-wordmark.png" alt="PotC Wiki"  width="250" height="65" >
+			</a>
+</h1>
+        <nav class="WikiNav">
+    	        <h1>PotC Wiki Navigation</h1>
+        		<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Maps" data-canonical="maps">Maps</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Category:Pirates_of_the_Caribbean">Franchise</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Disney_attractions">Disney Attractions<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pirates_of_the_Caribbean_(ride)">Pirates of the Caribbean</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Legend_of_Captain_Jack_Sparrow">The Legend of Captain Jack Sparrow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/A_Pirate%27s_Adventure:_Treasures_of_the_Seven_Seas">A Pirate's Adventure: Treasures of the Seven Seas</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Disney_attractions">more...</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Pirates_of_the_Caribbean_(film_series)">Movies<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl">The Curse of the Black Pearl</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest">Dead Man's Chest</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pirates_of_the_Caribbean:_At_World%27s_End">At World's End</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides">On Stranger Tides</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Real-world_books">Books<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pirates_of_the_Caribbean:_Jack_Sparrow">Jack Sparrow series</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pirates_of_the_Caribbean:_Legends_of_the_Brethren_Court">Legends of the Brethren Court</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Price_of_Freedom">The Price of Freedom</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Timeline_of_books">Timeline of Books</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Real-world_videogames">Games<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pirates_of_the_Caribbean_(game)">Pirates of the Caribbean</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl_(video_game)">The Curse of the Black Pearl</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pirates_of_the_Caribbean:_The_Legend_of_Jack_Sparrow">The Legend of Jack Sparrow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest_(video_game)">Dead Man's Chest</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pirates_of_the_Caribbean:_At_World%27s_End_(video_game)">At World's End</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pirates_of_the_Caribbean_Online">Pirates Online</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/LEGO_Pirates_of_the_Caribbean:_The_Video_Game">LEGO Pirates of the Caribbean</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Pirates_of_the_Caribbean">Other media<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tales_of_the_Code:_Wedlocked">Tales of the Code: Wedlocked</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pirates_of_the_Caribbean:_Armada_of_the_Damned">Armada of the Damned</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pirates_of_the_Caribbean:_Six_Sea_Shanties">Six Sea Shanties</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Disney_Adventures">Disney Adventures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Timeline_of_Pirates_of_the_Caribbean_series">Timeline of Pirates of the Caribbean</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Pirates_of_the_Caribbean">Universe</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Individuals">Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jack_Sparrow">Jack Sparrow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hector_Barbossa">Hector Barbossa</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/William_Turner_Jr.">Will Turner</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Elizabeth_Swann">Elizabeth Swann</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Joshamee_Gibbs">Joshamee Gibbs</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Angelica">Angelica</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Blackbeard">Blackbeard</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Individuals">more...</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Ships">Ships<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Black_Pearl">Black Pearl</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/HMS_Interceptor">HMS Interceptor</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/HMS_Dauntless">HMS Dauntless</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Flying_Dutchman">Flying Dutchman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/HMS_Endeavour">HMS Endeavour</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/HMS_Providence">HMS Providence</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Queen_Anne%27s_Revenge">Queen Anne's Revenge</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Ships">more...</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Locations">Locations<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Caribbean">Caribbean</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Singapore">Singapore</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Farthest_Gate">Farthest Gate</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Davy_Jones%27_Locker">Davy Jones' Locker</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Spain">Spain</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/London">London</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Locations">more...</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Organizations">Organizations<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Individuals_by_crew">Crews</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Brethren_Court">Brethren Court</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/British_Royal_Navy">British Empire</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Spanish_Royal_Navy">Spanish Empire</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/East_India_Trading_Company">East India Trading Company</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Organizations">more...</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Creatures">Creatures<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Prison_Dog">Prison Dog</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jack_(monkey)">Jack the Monkey</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Cotton%27s_Parrot">Cotton's Parrot</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kraken">Kraken</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mermaid">Mermaid</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Zombie">Zombie</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Creatures">more...</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Real-world_film_crew">Cast and Crew</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Pirates_of_the_Caribbean_cast_members">Cast<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Johnny_Depp">Johnny Depp</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Geoffrey_Rush">Geoffrey Rush</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Orlando_Bloom">Orlando Bloom</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Keira_Knightley">Keira Knightley</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kevin_McNally">Kevin R. McNally</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pen%C3%A9lope_Cruz">PenÃ©lope Cruz</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ian_McShane">Ian McShane</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Real-world_actors">more...</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Pirates_of_the_Caribbean_crew_members">Crew<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gore_Verbinski">Gore Verbinski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rob_Marshall">Rob Marshall</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jerry_Bruckheimer">Jerry Bruckheimer</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ted_Elliott">Ted Elliott</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Terry_Rossio">Terry Rossio</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hans_Zimmer">Hans Zimmer</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Real-world_film_crew">more...</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Real-world_ships">Ships<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lady_Washington">Lady Washington</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sunset_(ship)">Sunset</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/HMS_Bounty">HMS Bounty</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Providence_(ship)">Providence</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/HMS_Surprise">HMS Surprise</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/PotC_Wiki:Tortuga_Port">The Brethren</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/PotC_Wiki:Administrators">Administrators<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/User:J_Fan">J Fan</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/User:Uskok">Uskok</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/User:Captain_Teague">Captain Teague</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/PotC_Wiki:Tortuga_Port">Tortuga Port<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/PotC_Wiki:Welcome_to_the_Caribbean">Welcome to the Caribbean</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/PotC_Wiki:FAQ">FAQ and Help</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/PotC_Wiki:Manual_of_Style">Manual of Style</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Forum:Index">Forums index<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:The_Faithful_Bride">Community Forum</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:Brethren_Forum">Brethren Forum</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:The_Mystic%27s_Shack">The Mystic's Shack</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/PotC_Wiki:Community">Community<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/PotC_Wiki:Affiliates">Affiliates</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="http://pirates.disney.com/">Pirates of the Caribbean Official Website</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="http://www.facebook.com/PiratesoftheCaribbean">Official Pirates of the Caribbean Facebook</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="http://twitter.com/DisneyPirates">Official Disney Pirates Twitter</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="http://www.youtube.com/user/disneypirates">Official Disney Pirates Youtube</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="http://community.wikia.com/wiki/c:piratesonline:Main_Page">Pirates of the Caribbean Online Wiki</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="http://community.wikia.com/wiki/c:legopiratesthevideogame:Main_Page">LEGO Pirates of the Caribbean: The Video Game Wiki</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Template:Recentnews">Current events</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/PotC_Wiki:Brethren_Court_room">Chat</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>    </nav>
+	    <div class="buttons">
+		<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:Maps"  data-id="maps"   class="wikia-maps-create-map">Create a Map</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+					<a href="#" class="wikia-button share-button secondary"  data-id="shareButton"> Share<span class="share-dot"></span><span class="share-pixel"></span></a>
+    </div>
+	    <div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Ship's log</a>    </div>
+</header>
+
+				
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+				<header id="WikiaPageHeader" class="WikiaPageHeader">
+    <h1>Pirates of the Caribbean: Dead Man's Chest</h1>
+
+	<nav class="wikia-menu-button loginToEditProtectedPage" >
+	<a accesskey="e"  href="/wiki/Special:SignUp?returnto=Pirates_of_the_Caribbean:_Dead_Man%27s_Chest&amp;returntoquery=action%3Dedit&amp;type=login" data-id="edit" id="ca-viewsource">
+		<img alt="" class="sprite edit-pencil" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Edit	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Talk:Pirates_of_the_Caribbean:_Dead_Man%27s_Chest" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Talk<span class="commentsbubble">0</span></a>
+        <div class="tally">
+			<em>2,642</em><span>pages on<br /> this wiki</span>        </div>
+		</header>
+<script>
+    
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write(
+        '<div id="monetization-adunit-below_title" class="monetization-module adunit hide-for-edit below-title" ' +
+        'data-mon-type="adunit" data-mon-slot="below_title"><div class="ad-header">Advertisement</div><div>' +
+        '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">' +
+        '</scr' + 'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" ' +
+        'data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_af_bt_fsm_ffa mon_hub_movies mon_sl_bt" ' +
+        'data-ad-type="text" ' + 'data-font-size="medium" ' +'data-font-face="arial" ' +
+        ' data-color-bg="#aaaaaa" data-color-border="#aaaaaa" data-color-link="#006cb0" data-color-url="#006cb0" data-color-text="#3a3a3a" ></ins>' +
+        '<script>(adsbygoogle = window.adsbygoogle || []).push({});</scr' + 'ipt></div></div>'
+    );
+}
+</script>
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+
+					
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div id="title-meta" style="display: none"><i>Pirates of the Caribbean: Dead Man's Chest</i></div><div id="title-align" style="display: none">left</div>
+<table style="margin: auto; text-align: center; background-color: #fff; border: 1px solid #999; font-size:smaller">
+
+<tr>
+<td> For other uses, see <b><a href="/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest_(disambiguation)" title="Pirates of the Caribbean: Dead Man&#39;s Chest (disambiguation)">Pirates of the Caribbean: Dead Man's Chest (disambiguation)</a></b>
+</td></tr></table>
+<table border="0" cellspacing="0" cellpadding="4" style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:1px solid #999; font-size:smaller; line-height:1.5;">
+<tr style="text-align:center; background:#f0f0f0;">
+<td colspan="2" style="padding:0; background:#337147; color:#fff;"><a href="http://vignette4.wikia.nocookie.net/pirates/images/a/a0/PotC_DMC_poster_b.jpg/revision/latest?cb=20060706112954" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="PotC DMC poster b"  	class="lzy lzyPlcHld " 	 	data-image-key="PotC_DMC_poster_b.jpg" 	data-image-name="PotC DMC poster b.jpg" 	 data-src="http://vignette4.wikia.nocookie.net/pirates/images/a/a0/PotC_DMC_poster_b.jpg/revision/latest/scale-to-width/302?cb=20060706112954"  	 width="302"  	 height="447"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/pirates/images/a/a0/PotC_DMC_poster_b.jpg/revision/latest/scale-to-width/302?cb=20060706112954" 	 alt="PotC DMC poster b"  	class="" 	 	data-image-key="PotC_DMC_poster_b.jpg" 	data-image-name="PotC DMC poster b.jpg" 	 	 width="302"  	 height="447"  	 	 	 	></noscript></a></td>
+</tr><tr style="color:#fff; background:#337147; font-size:larger;">
+<th colspan="2"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Dmcsig"  	class="lzy lzyPlcHld " 	 	data-image-key="Dmcsig.png" 	data-image-name="Dmcsig.png" 	 data-src="http://vignette1.wikia.nocookie.net/pirates/images/9/97/Dmcsig.png/revision/latest/scale-to-width/225?cb=20111017215232"  	 width="225"  	 height="20"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/pirates/images/9/97/Dmcsig.png/revision/latest/scale-to-width/225?cb=20111017215232" 	 alt="Dmcsig"  	class="" 	 	data-image-key="Dmcsig.png" 	data-image-name="Dmcsig.png" 	 	 width="225"  	 height="20"  	 	 	 	></noscript></th>
+</tr> <tr><th colspan="2" style="text-align:left; font-weight:normal; background:#5AB577;"><b>Production credits</b></th></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #f0f0f0"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Director</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><a href="/wiki/Gore_Verbinski" title="Gore Verbinski">Gore Verbinski</a>
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #f0f0f0"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Producer</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><a href="/wiki/Jerry_Bruckheimer" title="Jerry Bruckheimer">Jerry Bruckheimer</a>
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #f0f0f0"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Executive Producer</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><a href="/wiki/Mike_Stenson" title="Mike Stenson">Mike Stenson</a><br /><a href="/wiki/Chad_Oman" title="Chad Oman">Chad Oman</a><br /><a href="/wiki/Bruce_Hendricks" title="Bruce Hendricks">Bruce Hendricks</a><br /><a href="/wiki/Eric_McLeod" title="Eric McLeod">Eric McLeod</a>
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #f0f0f0"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Writer</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><a href="/wiki/Ted_Elliott" title="Ted Elliott">Ted Elliott</a><br /><a href="/wiki/Terry_Rossio" title="Terry Rossio">Terry Rossio</a>
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #f0f0f0"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Based on</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><a href="/wiki/Walt_Disney" title="Walt Disney">Walt Disney</a>'s <a href="/wiki/Pirates_of_the_Caribbean_(ride)" title="Pirates of the Caribbean (ride)">Pirates of the Caribbean</a><br />Characters by:<br /><a href="/wiki/Ted_Elliott" title="Ted Elliott">Ted Elliott</a><br /><a href="/wiki/Terry_Rossio" title="Terry Rossio">Terry Rossio</a><br /><a href="/wiki/Stuart_Beattie" title="Stuart Beattie">Stuart Beattie</a><br /><a href="/wiki/Jay_Wolpert" title="Jay Wolpert">Jay Wolpert</a>
+</p>
+</td></tr>  <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #f0f0f0"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Cinematographer</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><a href="http://en.wikipedia.org/wiki/Dariusz_Wolski" class="extiw exitstitial" title="wikipedia:Dariusz Wolski">Dariusz Wolski</a>
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #f0f0f0"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Editor</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><a href="http://en.wikipedia.org/wiki/Craig_Wood_(film_editor)" class="extiw exitstitial" title="wikipedia:Craig Wood (film editor)">Craig Wood</a><br /><a href="http://en.wikipedia.org/wiki/Stephen_E._Rivkin" class="extiw exitstitial" title="wikipedia:Stephen E. Rivkin">Stephen Rivkin</a>
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #f0f0f0"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Music</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><a href="/wiki/Hans_Zimmer" title="Hans Zimmer">Hans Zimmer</a>
+</p>
+</td></tr> <tr><th colspan="2" style="text-align:left; font-weight:normal; background:#5AB577;"><b>Acting credits</b></th></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #f0f0f0"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Starring</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><a href="/wiki/Johnny_Depp" title="Johnny Depp">Johnny Depp</a><br /><a href="/wiki/Orlando_Bloom" title="Orlando Bloom">Orlando Bloom</a><br /><a href="/wiki/Keira_Knightley" title="Keira Knightley">Keira Knightley</a><br /><a href="/wiki/Stellan_Skarsg%C3%A5rd" title="Stellan SkarsgÃ¥rd">Stellan SkarsgÃ¥rd</a><br /><a href="/wiki/Bill_Nighy" title="Bill Nighy">Bill Nighy</a><br /><a href="/wiki/Jack_Davenport" title="Jack Davenport">Jack Davenport</a><br /><a href="/wiki/Kevin_McNally" title="Kevin McNally">Kevin R. McNally</a><br />and<br /><a href="/wiki/Jonathan_Pryce" title="Jonathan Pryce">Jonathan Pryce</a><br /><a href="/wiki/Lee_Arenberg" title="Lee Arenberg">Lee Arenberg</a><br /><a href="/wiki/Mackenzie_Crook" title="Mackenzie Crook">Mackenzie Crook</a><br /><a href="/wiki/Tom_Hollander" title="Tom Hollander">Tom Hollander</a><br /><a href="/wiki/Naomie_Harris" title="Naomie Harris">Naomie Harris</a><br /><a href="/wiki/Alex_Norton" title="Alex Norton">Alex Norton</a><br /><a href="/wiki/David_Bailie" title="David Bailie">David Bailie</a><br /><a href="/wiki/Martin_Klebba" title="Martin Klebba">Martin Klebba</a>
+</p>
+</td></tr> <tr><th colspan="2" style="text-align:left; font-weight:normal; background:#5AB577;"><b>Distribution</b></th></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #f0f0f0"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Distributor</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><a href="/wiki/Walt_Disney_Pictures" title="Walt Disney Pictures">Walt Disney Pictures</a><br /><a href="/wiki/Jerry_Bruckheimer_Films" title="Jerry Bruckheimer Films">Jerry Bruckheimer Films</a><br /><a href="/wiki/Buena_Vista_Pictures_Distribution" title="Buena Vista Pictures Distribution" class="mw-redirect">Buena Vista Pictures Distribution</a>
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #f0f0f0"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Release date</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><a href="/wiki/July_6" title="July 6" class="mw-redirect">July 6</a>, <a href="/wiki/2006" title="2006">2006</a> (UK and Australia)<br /><a href="/wiki/July_7" title="July 7" class="mw-redirect">July 7</a>, <a href="/wiki/2006" title="2006">2006</a> (US)
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #f0f0f0"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Running time</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p>150 min. (2 h. 30 min.)
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #f0f0f0"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Rating</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p>PG-13
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #f0f0f0"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Budget</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p>$223 million
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #f0f0f0"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Gross Revenue</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p>$1,066,179,725
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #f0f0f0"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Preceeded by</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><i><a href="/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl" title="Pirates of the Caribbean: The Curse of the Black Pearl">The Curse of the Black Pearl</a></i>
+</p>
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: #f0f0f0"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;"><b>Followed by</b></td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+<p><i><a href="/wiki/Pirates_of_the_Caribbean:_At_World%27s_End" title="Pirates of the Caribbean: At World&#39;s End">At World's End</a></i>
+</p>
+</td></tr></table>
+<div class="quote">
+<dl><dd><span title="Source:Â Pirates of the Caribbean: Dead Man&#39;s Chest">"<i>Captain Jack is back.</i>"</span>
+</dd><dd>&#8213;Tagline<span class="noprint"><sup><strong class="selflink">[src]</strong></sup></span></div>
+</dd></dl>
+<p><i><b>Pirates of the Caribbean: Dead Man's Chest</b></i> is the second installment in the <i><a href="/wiki/Pirates_of_the_Caribbean" title="Pirates of the Caribbean">Pirates of the Caribbean</a></i> <a href="/wiki/Pirates_of_the_Caribbean_(film_series)" title="Pirates of the Caribbean (film series)">film series</a>, released on <a href="/wiki/July_7" title="July 7" class="mw-redirect">July 7</a>, <a href="/wiki/2006" title="2006">2006</a> as a follow-up to the first film, <i><a href="/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl" title="Pirates of the Caribbean: The Curse of the Black Pearl">The Curse of the Black Pearl</a></i>. The film stars <a href="/wiki/Johnny_Depp" title="Johnny Depp">Johnny Depp</a> (<a href="/wiki/Jack_Sparrow" title="Jack Sparrow">Captain Jack Sparrow</a>), <a href="/wiki/Orlando_Bloom" title="Orlando Bloom">Orlando Bloom</a> (<a href="/wiki/William_Turner_Jr." title="William Turner Jr.">Will Turner</a>), <a href="/wiki/Keira_Knightley" title="Keira Knightley">Keira Knightley</a> (<a href="/wiki/Elizabeth_Swann" title="Elizabeth Swann">Elizabeth Swann</a>). It was directed by <a href="/wiki/Gore_Verbinski" title="Gore Verbinski">Gore Verbinski</a>, produced by <a href="/wiki/Jerry_Bruckheimer" title="Jerry Bruckheimer">Jerry Bruckheimer</a>, and written by <a href="/wiki/Ted_Elliott" title="Ted Elliott">Ted Elliott</a> and <a href="/wiki/Terry_Rossio" title="Terry Rossio">Terry Rossio</a>. <i>Dead Man's Chest</i> would be followed in <a href="/wiki/2007" title="2007">2007</a> by <i><a href="/wiki/Pirates_of_the_Caribbean:_At_World%27s_End" title="Pirates of the Caribbean: At World&#39;s End">At World's End</a></i>.
+</p>
+<nav id="toc" class="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a href="#" class="internal" id="togglelink" data-show="show" data-hide="hide">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Synopsis">Synopsis</span></h2>
+<p>Charming rogue pirate <a href="/wiki/Captain" title="Captain">Captain</a> <a href="/wiki/Jack_Sparrow" title="Jack Sparrow">Jack Sparrow</a> (<a href="/wiki/Johnny_Depp" title="Johnny Depp">Johnny Depp</a>) is back for a grand, swashbuckling, nonstop joyride filled with devilish pirate humor, monstrous sea creatures, and breathtaking <a href="/wiki/Magic" title="Magic">black magic</a>. Now Jack's got a blood debt to pay&#8212;he owes his soul to the legendary <a href="/wiki/Davy_Jones" title="Davy Jones">Davy Jones</a> (<a href="/wiki/Bill_Nighy" title="Bill Nighy">Bill Nighy</a>), ghostly Ruler of the Ocean Depths&#8212; but the ever so crafty Jack isn't about to go down without a fight. Along the way, dashing <a href="/wiki/William_Turner_Jr." title="William Turner Jr.">Will Turner</a> (<a href="/wiki/Orlando_Bloom" title="Orlando Bloom">Orlando Bloom</a>) and the beautiful <a href="/wiki/Elizabeth_Swann" title="Elizabeth Swann">Elizabeth Swann</a> (<a href="/wiki/Keira_Knightley" title="Keira Knightley">Keira Knightley</a>) get up in the thrilling whirlpool of misadventures stirred up in Jack's quest to avoid eternal damnation by seizing the fabled <a href="/wiki/Dead_Man%27s_Chest" title="Dead Man&#39;s Chest">Dead Man's Chest</a>!
+</p>
+<h2><span class="mw-headline" id="Plot">Plot</span></h2>
+<h3><span class="mw-headline" id="Fate_Intervenes">Fate Intervenes</span></h3>
+<div class="quote">
+<dl><dd><span title="Source:Â Pirates of the Caribbean: Dead Man&#39;s Chest">"<i>You look beautiful."<br />"I think it's bad luck for the groom to see the bride before the wedding.</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/William_Turner_Jr." title="William Turner Jr.">Will Turner</a> and <a href="/wiki/Elizabeth_Swann" title="Elizabeth Swann">Elizabeth Swann</a><span class="noprint"><sup><strong class="selflink">[src]</strong></sup></span></div>
+</dd></dl>
+<figure class="article-thumb tleft show-info-icon" style="width: 350px"> 	<a href="http://vignette2.wikia.nocookie.net/pirates/images/8/83/Will_and_Elizabeth_arrested.png/revision/latest?cb=20120302105234" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Will and Elizabeth arrested"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Will_and_Elizabeth_arrested.png" 	data-image-name="Will and Elizabeth arrested.png" 	 data-src="http://vignette2.wikia.nocookie.net/pirates/images/8/83/Will_and_Elizabeth_arrested.png/revision/latest/scale-to-width/350?cb=20120302105234"  	 width="350"  	 height="146"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/pirates/images/8/83/Will_and_Elizabeth_arrested.png/revision/latest/scale-to-width/350?cb=20120302105234" 	 alt="Will and Elizabeth arrested"  	class="thumbimage " 	 	data-image-key="Will_and_Elizabeth_arrested.png" 	data-image-name="Will and Elizabeth arrested.png" 	 	 width="350"  	 height="146"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Will_and_Elizabeth_arrested.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Will and Elizabeth arrested by <a href="/wiki/Cutler_Beckett" title="Cutler Beckett">Cutler Beckett</a>.</p> 		 	</figcaption> </figure>
+<p>It is the wedding day of <a href="/wiki/William_Turner_Jr." title="William Turner Jr.">Will Turner</a> (<a href="/wiki/Orlando_Bloom" title="Orlando Bloom">Orlando Bloom</a>) and <a href="/wiki/Elizabeth_Swann" title="Elizabeth Swann">Elizabeth Swann</a> (<a href="/wiki/Keira_Knightley" title="Keira Knightley">Keira Knightley</a>). However, the arrival of <a href="/wiki/Lord" title="Lord">Lord</a> <a href="/wiki/Cutler_Beckett" title="Cutler Beckett">Cutler Beckett</a> (<a href="/wiki/Tom_Hollander" title="Tom Hollander">Tom Hollander</a>) in <a href="/wiki/Port_Royal" title="Port Royal">Port Royal</a> disrupts proceedings, as both Will and Elizabeth are arrested on the charge of setting free an enemy of the crown: <a href="/wiki/Captain" title="Captain">Captain</a> <a href="/wiki/Jack_Sparrow" title="Jack Sparrow">Jack Sparrow</a> (<a href="/wiki/Johnny_Depp" title="Johnny Depp">Johnny Depp</a>), whom Beckett also wishes to track down.
+</p><p>Jack has his own set of troubles to worry about, however. A debt he made with <a href="/wiki/Davy_Jones" title="Davy Jones">Davy Jones</a> (<a href="/wiki/Bill_Nighy" title="Bill Nighy">Bill Nighy</a>) to raise the <i><a href="/wiki/Black_Pearl" title="Black Pearl">Black Pearl</a></i> from the depths of the ocean thirteen years ago is set to be paid, and Jack does not wish to bind himself to a lifetime of servitude as part of Jones' crew. Instead, he sets out to locate the <a href="/wiki/Dead_Man%27s_Chest" title="Dead Man&#39;s Chest">Dead Man's Chest</a> and the <a href="/wiki/Key_to_the_Dead_Man%27s_Chest" title="Key to the Dead Man&#39;s Chest">key</a> that opens it, in order to gain control over Jones himself. Jack escapes from a <a href="/wiki/Turkish_prison" title="Turkish prison" class="mw-redirect">Turkish prison</a> with a drawing of the key, and sets off to track it down. Meanwhile, Cutler Beckett strikes a deal with Will Turner, wishing for him to obtain <a href="/wiki/Jack_Sparrow%27s_compass" title="Jack Sparrow&#39;s compass">Jack Sparrow's compass</a> in exchange for a full pardon. Will remains dubious, but is left with no other choice.
+</p>
+<h3><span class="mw-headline" id="The_Search_for_Jack_Sparrow">The Search for Jack Sparrow</span></h3>
+<figure class="article-thumb tleft show-info-icon" style="width: 350px"> 	<a href="http://vignette2.wikia.nocookie.net/pirates/images/9/9c/Bill_marks_Jack.png/revision/latest?cb=20100604135118" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Bill marks Jack"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Bill_marks_Jack.png" 	data-image-name="Bill marks Jack.png" 	 data-src="http://vignette2.wikia.nocookie.net/pirates/images/9/9c/Bill_marks_Jack.png/revision/latest/scale-to-width/350?cb=20100604135118"  	 width="350"  	 height="146"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/pirates/images/9/9c/Bill_marks_Jack.png/revision/latest/scale-to-width/350?cb=20100604135118" 	 alt="Bill marks Jack"  	class="thumbimage " 	 	data-image-key="Bill_marks_Jack.png" 	data-image-name="Bill marks Jack.png" 	 	 width="350"  	 height="146"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Bill_marks_Jack.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption"><a href="/wiki/William_Turner_Sr." title="William Turner Sr.">William "Bootstrap Bill" Turner</a> marks <a href="/wiki/Jack_Sparrow" title="Jack Sparrow">Jack Sparrow</a> with the <a href="/wiki/Black_spot" title="Black spot" class="mw-redirect">Black spot</a>.</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source:Â Pirates of the Caribbean: Dead Man&#39;s Chest">"<i>Time's run out, Jack.</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/William_Turner_Sr." title="William Turner Sr.">William "Bootstrap Bill" Turner</a> to <a href="/wiki/Jack_Sparrow" title="Jack Sparrow">Jack Sparrow</a><span class="noprint"><sup><strong class="selflink">[src]</strong></sup></span></div>
+</dd></dl>
+<p>By this point, Jack has begun his voyage, though is unable to discern any resolute course from his compass. He descends to the lower deck to search for more rum, where he encounters <a href="/wiki/William_Turner_Sr." title="William Turner Sr.">William "Bootstrap Bill" Turner</a> (<a href="/wiki/Stellan_Skarsg%C3%A5rd" title="Stellan SkarsgÃ¥rd">Stellan SkarsgÃ¥rd</a>). Turner had chosen to serve Davy Jones after being sent to the bottom of the ocean by <a href="/wiki/Hector_Barbossa" title="Hector Barbossa">Hector Barbossa</a>&#8212;as a cursed man, unable to die. He warns Jack that his time is up, and that Jones has released the <a href="/wiki/Kraken" title="Kraken">Kraken</a> to bring Jack in. Before departing, Bootstrap marks Jack with the <a href="/wiki/Black_Spot" title="Black Spot">Black Spot</a>, a sign that the Kraken is coming for him. Terrified, Jack orders <a href="/wiki/Joshamee_Gibbs" title="Joshamee Gibbs">Joshamee Gibbs</a> (<a href="/wiki/Kevin_R._McNally" title="Kevin R. McNally" class="mw-redirect">Kevin R. McNally</a>) to head for land&#8212;any land&#8212;to avoid this terrible beast. In the confusion, <a href="/wiki/Jack_(monkey)" title="Jack (monkey)">Jack the monkey</a> knocks Sparrow's hat into the sea, where it is carried far from its owner. It ends up in the hands of two fishermen, whose ship is suddenly dragged under the water by an unseen creature.
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 304px"> 	<a href="http://vignette2.wikia.nocookie.net/pirates/images/2/25/IMG_0460.png/revision/latest?cb=20120629144812" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="IMG 0460"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="IMG_0460.png" 	data-image-name="IMG 0460.png" 	 data-src="http://vignette2.wikia.nocookie.net/pirates/images/2/25/IMG_0460.png/revision/latest/scale-to-width/304?cb=20120629144812"  	 width="304"  	 height="203"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/pirates/images/2/25/IMG_0460.png/revision/latest/scale-to-width/304?cb=20120629144812" 	 alt="IMG 0460"  	class="thumbimage " 	 	data-image-key="IMG_0460.png" 	data-image-name="IMG 0460.png" 	 	 width="304"  	 height="203"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:IMG_0460.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Will Turner talking to Elizabeth Swann in the brig.</p> 		 	</figcaption> </figure>
+<p>In the prisons at <a href="/wiki/Fort_Charles" title="Fort Charles">Fort Charles</a>, Will informs Elizabeth of his plan to track down Jack, but <a href="/wiki/Governor" title="Governor">Governor</a> <a href="/wiki/Weatherby_Swann" title="Weatherby Swann">Weatherby Swann</a> (<a href="/wiki/Jonathan_Pryce" title="Jonathan Pryce">Jonathan Pryce</a>) does not trust Will to free both himself and Elizabeth. As Will begins his search in <a href="/wiki/Tortuga" title="Tortuga">Tortuga</a>, Weatherby procures passage back to <a href="/wiki/England" title="England">England</a> for himself and his daughter. Will's search ends on <a href="/wiki/Isla_de_Pelegostos" title="Isla de Pelegostos">Isla de Pelegostos</a>, where the <i>Black Pearl</i> has been beached. As he explores the nearby tropical forest, Will is captured by the native <a href="/wiki/Pelegostos" title="Pelegostos" class="mw-redirect">Pelegostos</a>, and taken to a mountaintop village. There, he finds Jack acting as chief of the tribe, and though Sparrow does nothing to help Will in his predicament, he does whisper, "Save me!" before Will is taken away. Back in Port Royal, Governor Swann releases Elizabeth and makes for a rendezvous with Captain <a href="/wiki/Hawkins" title="Hawkins">Hawkins</a>, only to find Beckett's henchman, <a href="/wiki/Ian_Mercer" title="Ian Mercer">Mercer</a> (<a href="/wiki/David_Schofield" title="David Schofield">David Schofield</a>), waiting for him. Elizabeth, however, uses Mercer's appearance as a diversion, escaping back to Fort Charles, where she confronts Lord Beckett at the end of a pistol. Beckett makes a deal with her, giving her the <a href="/wiki/Letters_of_Marque" title="Letters of Marque">Letters of Marque</a> in exchange for Jack's compass. She leaves, and stows away, disguised as a sailor boy, aboard the <i><a href="/wiki/Edinburgh_Trader" title="Edinburgh Trader">Edinburgh Trader</a></i>.
+</p>
+<h3><span class="mw-headline" id="Cannibal_Island">Cannibal Island</span></h3>
+<div class="quote">
+<dl><dd><span title="Source:Â Pirates of the Caribbean: Dead Man&#39;s Chest">"<i>Don't eat me!</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Cotton%27s_Parrot" title="Cotton&#39;s Parrot">Cotton's Parrot</a><span class="noprint"><sup><strong class="selflink">[src]</strong></sup></span></div>
+</dd></dl>
+<p>Meanwhile, another prison break has occured, and now <a href="/wiki/Pintel" title="Pintel">Pintel</a> (<a href="/wiki/Lee_Arenberg" title="Lee Arenberg">Lee Arenberg</a>) and <a href="/wiki/Ragetti" title="Ragetti">Ragetti</a> (<a href="/wiki/Mackenzie_Crook" title="Mackenzie Crook">Mackenzie Crook</a>) are making their way to Pelegosto Island along with the <a href="/wiki/Prison_Dog" title="Prison Dog">Prison Dog</a>. They reach land, and set about preparing to take the <i>Pearl</i> as their own. Elsewhere on the island, Will Turner is being held inside one of two bone cages suspended over a ravine, along with the surviving crew of the <i>Pearl</i>. Gibbs informs him that the Pelegostos believe Jack is a god in human form, and intend to free his divine spirit by roasting and eating his "fleshy prison". The crew attempts to swing their cages across the chasm to climb up the other side. However, <a href="/wiki/Leech" title="Leech">Leech</a> spurs his crewers on to compete with Will and the others, and in their haste, tumble from the side of the cliff and plummet into the ravine. This draws the attention of a sentry, who runs to warn the villagers.
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 350px"> 	<a href="http://vignette3.wikia.nocookie.net/pirates/images/b/b9/Jack_escaping_Pall.png/revision/latest?cb=20100601145726" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Jack escaping Pall"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Jack_escaping_Pall.png" 	data-image-name="Jack escaping Pall.png" 	 data-src="http://vignette3.wikia.nocookie.net/pirates/images/b/b9/Jack_escaping_Pall.png/revision/latest/scale-to-width/350?cb=20100601145726"  	 width="350"  	 height="146"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/pirates/images/b/b9/Jack_escaping_Pall.png/revision/latest/scale-to-width/350?cb=20100601145726" 	 alt="Jack escaping Pall"  	class="thumbimage " 	 	data-image-key="Jack_escaping_Pall.png" 	data-image-name="Jack escaping Pall.png" 	 	 width="350"  	 height="146"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Jack_escaping_Pall.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption"><a href="/wiki/Jack_Sparrow" title="Jack Sparrow">Jack</a> chased by the <a href="/wiki/Pelegostos" title="Pelegostos" class="mw-redirect">Pelegostos</a>.</p> 		 	</figcaption> </figure>
+<p>The sentry inadvertantly buys Jack some time, as his arrival coincides with the Pelegostos' attempt to roast Jack alive. He escapes while the villagers race to kill their prisoners, but meets further resistance as he makes his way through the village. As Will and the crew roll through the jungle, still trapped inside their cage, Jack falls into a ravine, though his fall is broken by the pole he is tied to, and a series of wooden bridges.
+</p><p>The crew makes it back to the <i>Pearl</i> just as <a href="/wiki/Pintel" title="Pintel">Pintel</a> and <a href="/wiki/Ragetti" title="Ragetti">Ragetti</a>, recently escaped from jail with help from the <a href="/wiki/Prison_Dog" title="Prison Dog">Prison Dog</a>, are attempting to commandeer the ship. Jack himself arrives, pursued by the entire Pelegostos tribe, though manages to board the ship before they can catch him. Instead, their attention is drawn by the dog, who runs off into the jungle, chased by the natives.
+</p>
+<h3><span class="mw-headline" id="A_Touch_of_Destiny">A Touch of Destiny</span></h3>
+<figure class="article-thumb tleft show-info-icon" style="width: 350px"> 	<a href="http://vignette2.wikia.nocookie.net/pirates/images/e/e1/Tia_Dalma_meeting.png/revision/latest?cb=20100604140505" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Tia Dalma meeting"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Tia_Dalma_meeting.png" 	data-image-name="Tia Dalma meeting.png" 	 data-src="http://vignette2.wikia.nocookie.net/pirates/images/e/e1/Tia_Dalma_meeting.png/revision/latest/scale-to-width/350?cb=20100604140505"  	 width="350"  	 height="144"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/pirates/images/e/e1/Tia_Dalma_meeting.png/revision/latest/scale-to-width/350?cb=20100604140505" 	 alt="Tia Dalma meeting"  	class="thumbimage " 	 	data-image-key="Tia_Dalma_meeting.png" 	data-image-name="Tia Dalma meeting.png" 	 	 width="350"  	 height="144"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Tia_Dalma_meeting.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">The crew during their meeting with <a href="/wiki/Tia_Dalma" title="Tia Dalma">Tia Dalma</a>.</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source:Â Pirates of the Caribbean: Dead Man&#39;s Chest">"<i>You want me to find this?"<br />"No. You want you to find this, because the finding of this finds you incapaciatorially finding and/or locating in your discovery a detecting of a way to save your dolly belle, ol' what's-her-face. Savvy?</i><b>"</span></b>
+</dd><dd>&#8213;<a href="/wiki/William_Turner_Jr." title="William Turner Jr.">Will Turner</a> to <a href="/wiki/Jack_Sparrow" title="Jack Sparrow">Jack Sparrow</a><span class="noprint"><sup><strong class="selflink">[src]</strong></sup></span></div>
+</dd></dl>
+<p>Once back on the water, Will reveals he requires Jack's compass, though Jack brushes him off, instead ordering Gibbs to head upriver. He then proceeds to explain, using Will's naivety concerning Davy Jones, that the key Jack is looking for will enable Will to rescue Elizabeth. Elizabeth herself has departed Port Royal onboard the <i>Edinburgh Trader</i>, and begins to arouse the crew's superstitions when they come to believe her dress belongs to the spirit of a vengeful woman. By now, the <i>Pearl's</i> crew has taken to the <a href="/wiki/Longboat" title="Longboat">longboats</a> and heads up the <a href="/wiki/Pantano_River" title="Pantano River">Pantano River</a> into <a href="/wiki/Cypress_Forest" title="Cypress Forest" class="mw-redirect">Cypress Forest</a>, for a meeting with the <a href="/wiki/Voodoo" title="Voodoo">voodoo</a> priestess, <a href="/wiki/Tia_Dalma" title="Tia Dalma">Tia Dalma</a>. There, Dalma senses a "touch of destiny" about Will, and tells the tale of Davy Jones to her audience. She reveals that Jones, once in love, tried to spare himself the heartbreak of losing his love by cutting out his own heart, and locking it away in a chest. She also informs Jack that Jones keeps the key about his person at all times, and offers him a <a href="/wiki/Jar_of_dirt" title="Jar of dirt">jar of dirt</a>, explaining that, as Jones is unable to set foot on land for another decade, Jack should keep land about him for protection. Dalma then divines the location of the <i>Flying Dutchman</i>, for which the <i>Pearl</i> sets sail.
+</p>
+<h3><span class="mw-headline" id="Bargain_with_Jones">Bargain with Jones</span></h3>
+<figure class="article-thumb tright show-info-icon" style="width: 350px"> 	<a href="http://vignette2.wikia.nocookie.net/pirates/images/b/bf/Jack_barging_with_Jones.png/revision/latest?cb=20120705030025" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Jack barging with Jones"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Jack_barging_with_Jones.png" 	data-image-name="Jack barging with Jones.png" 	 data-src="http://vignette2.wikia.nocookie.net/pirates/images/b/bf/Jack_barging_with_Jones.png/revision/latest/scale-to-width/350?cb=20120705030025"  	 width="350"  	 height="146"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/pirates/images/b/bf/Jack_barging_with_Jones.png/revision/latest/scale-to-width/350?cb=20120705030025" 	 alt="Jack barging with Jones"  	class="thumbimage " 	 	data-image-key="Jack_barging_with_Jones.png" 	data-image-name="Jack barging with Jones.png" 	 	 width="350"  	 height="146"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Jack_barging_with_Jones.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Jack bargains with <a href="/wiki/Davy_Jones" title="Davy Jones">Davy Jones</a>.</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source:Â Pirates of the Caribbean: Dead Man&#39;s Chest">"<i>One soul is not equal to another!"<br />"Aha, so we've established my proposal as sound in principle. Now we're just haggling over price."<br />"Price?</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Davy_Jones" title="Davy Jones">Davy Jones</a> and <a href="/wiki/Jack_Sparrow" title="Jack Sparrow">Jack Sparrow</a><span class="noprint"><sup><strong class="selflink">[src]</strong></sup></span></div>
+</dd></dl>
+<p>Will Turner volunteers to head over to what he believes is the <i>Dutchman</i> and negotiate for Jack's soul. However, he is unaware that the wrecked ship he boards is not Jones' ship, which bursts out of the water in front of him as Will explores the vessel. He is surrounded by Jones' crewmen, who have served for so long on the <i>Dutchman</i> that various sea creatures have been assimilated into their bodies. Will is knocked out and lined up with the survivors of the wreck. Davy Jones reveals himself, proposing a deal with any who would rather serve aboard his ship than face their final judgement in death. One man refuses, and is killed, while others are forced to agree. Jones realizes Will is neither dead nor dying, and demands to know his purpose. Will reveals that Jack Sparrow sent him to settle his debt, and Jones uses his supernatural power to bring himself, along with his crew, aboard the <i>Black Pearl</i> to confront Sparrow himself. Jack tries to tell Jones that he (Jack) was only Captain for 2 years until <a href="/wiki/Barbossa" title="Barbossa" class="mw-redirect">Barbossa</a>'s <a href="/wiki/Mutiny_on_the_Black_Pearl" title="Mutiny on the Black Pearl">mutiny</a>, but Jones refuses to accept that and reminds him he has introduced himself as <i>Captain</i> Jack Sparrow for all these years. Jack negotiates with Davy Jones, and is given three days to find one hundred souls to serve Jones&#8212;the first being Will himself, still aboard the <i>Dutchman</i>. Jones removes the Black Spot, and Jack immediately heads for Tortuga to harvest the souls.
+</p>
+<h3><span class="mw-headline" id="Tortuga">Tortuga</span></h3>
+<figure class="article-thumb tleft show-info-icon" style="width: 350px"> 	<a href="http://vignette3.wikia.nocookie.net/pirates/images/3/36/Norrington_introduced.png/revision/latest?cb=20100604140950" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Norrington introduced"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Norrington_introduced.png" 	data-image-name="Norrington introduced.png" 	 data-src="http://vignette3.wikia.nocookie.net/pirates/images/3/36/Norrington_introduced.png/revision/latest/scale-to-width/350?cb=20100604140950"  	 width="350"  	 height="147"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/pirates/images/3/36/Norrington_introduced.png/revision/latest/scale-to-width/350?cb=20100604140950" 	 alt="Norrington introduced"  	class="thumbimage " 	 	data-image-key="Norrington_introduced.png" 	data-image-name="Norrington introduced.png" 	 	 width="350"  	 height="147"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Norrington_introduced.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption"><a href="/wiki/James_Norrington" title="James Norrington">James Norrington</a> joining the crew of the <i><a href="/wiki/Black_Pearl" title="Black Pearl">Black Pearl</a></i>.</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source:Â Pirates of the Caribbean: Dead Man&#39;s Chest">"<i>How are we going?"<br />"Including those four, that gives us...four.</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Jack_Sparrow" title="Jack Sparrow">Jack Sparrow</a> and <a href="/wiki/Joshamee_Gibbs" title="Joshamee Gibbs">Joshamee Gibbs</a><span class="noprint"><sup><strong class="selflink">[src]</strong></sup></span></div>
+</dd></dl>
+<p>Elizabeth is also on her way to Tortuga, after again using the <i>Edinburgh</i> crew's superstitions against them. She makes them believe the spirit is asking them to go to Tortuga, and writes the name in oil on the ship's deck, setting it on fire to get their attention. As a pirate band played in the <a href="/wiki/Twelve_Daggers" title="Twelve Daggers">cantina</a>, Gibbs recruited sailors to sail aboard the <i>Pearl</i>&#8212;and ultimately to be handed over to Jones&#8212;though manages only to recruit four. The fifth reveals himself as now-former <a href="/wiki/Commodore" title="Commodore">commodore</a>, <a href="/wiki/James_Norrington" title="James Norrington">James Norrington</a>, having been disgraced after piloting his ship into a hurricane while pursuing Jack and the <i>Black Pearl</i>. He starts a bar brawl after attempting to shoot Jack, which is joined by Elizabeth as Jack and his crew sneak out. Elizabeth knocks Norrington unconscious before he can do any more damage, and he is thrown into the pigsty. <a href="/wiki/Ian_Mercer" title="Ian Mercer">Mercer</a> watches these proceedings, and later offers Norrington a deal on behalf of Lord Beckett.
+</p>
+<h3><span class="mw-headline" id="Night_on_the_Dutchman">Night on the <i>Dutchman</i></span></h3>
+<figure class="article-thumb tright show-info-icon" style="width: 350px"> 	<a href="http://vignette2.wikia.nocookie.net/pirates/images/a/ae/Will_steals_the_key.png/revision/latest?cb=20100603171844" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Will steals the key"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Will_steals_the_key.png" 	data-image-name="Will steals the key.png" 	 data-src="http://vignette2.wikia.nocookie.net/pirates/images/a/ae/Will_steals_the_key.png/revision/latest/scale-to-width/350?cb=20100603171844"  	 width="350"  	 height="146"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/pirates/images/a/ae/Will_steals_the_key.png/revision/latest/scale-to-width/350?cb=20100603171844" 	 alt="Will steals the key"  	class="thumbimage " 	 	data-image-key="Will_steals_the_key.png" 	data-image-name="Will steals the key.png" 	 	 width="350"  	 height="146"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Will_steals_the_key.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Will stealing the <a href="/wiki/Key_to_the_Dead_Man%27s_Chest" title="Key to the Dead Man&#39;s Chest">Key to the Dead Man's Chest</a>.</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source:Â Pirates of the Caribbean: Dead Man&#39;s Chest">"<i>I want this."<br />"How do you know of the key?"<br />"That's not part of the game, is it?</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/William_Turner_Jr." title="William Turner Jr.">William Turner</a> and <a href="/wiki/Davy_Jones" title="Davy Jones">Davy Jones</a><span class="noprint"><sup><strong class="selflink">[src]</strong></sup></span></div>
+</dd></dl>
+<p>Meanwhile, aboard the <i>Flying Dutchman</i>, Bootstrap Bill is reunited with his long-lost son after <a href="/wiki/Jimmy_Legs" title="Jimmy Legs">Jimmy Legs</a> orders "Mr. Turner" to secure the mast tackle. Both Turners attempt the procedure, and when Bill encounters his son, lets go of the line, causing Will to drop a hoisted cannon into the deck. For his apparent mistake, Jimmy Legs prepares to whip Will, but Bootstrap intervenes, revealing to Davy Jones that he is the boy's father. Cruelly, Jones forces Bootstrap to whip his own son, though Bootstrap insists it was an act of compassion compared to the severe lashing Jimmy Legs would have inflicted.
+</p>
+<figure class="article-thumb tleft show-info-icon" style="width: 350px"> 	<a href="http://vignette2.wikia.nocookie.net/pirates/images/6/60/2kraken.jpg/revision/latest?cb=20110326151503" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="2kraken"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="2kraken.jpg" 	data-image-name="2kraken.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/pirates/images/6/60/2kraken.jpg/revision/latest/scale-to-width/350?cb=20110326151503"  	 width="350"  	 height="146"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/pirates/images/6/60/2kraken.jpg/revision/latest/scale-to-width/350?cb=20110326151503" 	 alt="2kraken"  	class="thumbimage " 	 	data-image-key="2kraken.jpg" 	data-image-name="2kraken.jpg" 	 	 width="350"  	 height="146"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:2kraken.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">The <a href="/wiki/Kraken" title="Kraken">Kraken</a> destroys the <i><a href="/wiki/Edinburgh_Trader" title="Edinburgh Trader">Edinburgh Trader</a></i>.</p> 		 	</figcaption> </figure>
+<p>Back in Port Royal, Beckett meets with a manacled Governor Swann and informs him that Elizabeth has been sighted by Mercer in the company of Sparrow and "other fugitives from justice". He convinces an extremely reluctant Swann to relinquish his authority to him, in order to assure Elizabeth's safety.
+</p><p>On the <i>Flying Dutchman</i>, Will meets his father, and they both play Davy Jones at <a href="/wiki/Liar%27s_Dice" title="Liar&#39;s Dice">Liar's Dice</a> in an attempt to win the key. They lose, but Will later steals it and rows to a ship (the <i>Edinburgh Trader</i>). Davy Jones realizes this means that Jack is after his heart. He catches the <i>Edinburgh Trader</i> and summons the Kraken which destroys the ship and kills all aboard (except for Will, who escapes), while Davy Jones sets sail for the island the heart is buried on.
+</p>
+<h3><span class="mw-headline" id="Isla_Cruces">Isla Cruces</span></h3>
+<figure class="article-thumb tright show-info-icon" style="width: 350px"> 	<a href="http://vignette4.wikia.nocookie.net/pirates/images/d/d3/Jack_with_the_heart.png/revision/latest?cb=20100601153151" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Jack with the heart"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Jack_with_the_heart.png" 	data-image-name="Jack with the heart.png" 	 data-src="http://vignette4.wikia.nocookie.net/pirates/images/d/d3/Jack_with_the_heart.png/revision/latest/scale-to-width/350?cb=20100601153151"  	 width="350"  	 height="146"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/pirates/images/d/d3/Jack_with_the_heart.png/revision/latest/scale-to-width/350?cb=20100601153151" 	 alt="Jack with the heart"  	class="thumbimage " 	 	data-image-key="Jack_with_the_heart.png" 	data-image-name="Jack with the heart.png" 	 	 width="350"  	 height="146"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Jack_with_the_heart.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Jack opens the chest.</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source:Â Pirates of the Caribbean: Dead Man&#39;s Chest">"<i>The chest is no longer safe. Chart a course to Isla Cruces!</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Davy_Jones" title="Davy Jones">Davy Jones</a> to <a href="/wiki/Koleniko" title="Koleniko">Koleniko</a><span class="noprint"><sup><strong class="selflink">[src]</strong></sup></span></div>
+</dd></dl>
+<p>Both crews arrive at the island at much the same time, although Davy Jones sends his sailors to retrieve the chest as he cannot set foot on land for another decade. Jack, Norrington and Elizabeth use the compass to find the chest. Will appears and is reunited with Elizabeth. They embrace and Will kisses her. The chest precipitates a three-way duel between Jack, Will and Norrington for possession of it. As they are occupied, Davy Jones's crew arrives and attack Ragetti and Pintel who have taken the chest while Jack, Will, and Norrington fight each other.
+</p>
+<figure class="article-thumb tleft show-info-icon" style="width: 350px"> 	<a href="http://vignette4.wikia.nocookie.net/pirates/images/a/a9/Pearl_attacked_by_the_Dutchman.png/revision/latest?cb=20100604141837" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Pearl attacked by the Dutchman"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Pearl_attacked_by_the_Dutchman.png" 	data-image-name="Pearl attacked by the Dutchman.png" 	 data-src="http://vignette4.wikia.nocookie.net/pirates/images/a/a9/Pearl_attacked_by_the_Dutchman.png/revision/latest/scale-to-width/350?cb=20100604141837"  	 width="350"  	 height="143"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/pirates/images/a/a9/Pearl_attacked_by_the_Dutchman.png/revision/latest/scale-to-width/350?cb=20100604141837" 	 alt="Pearl attacked by the Dutchman"  	class="thumbimage " 	 	data-image-key="Pearl_attacked_by_the_Dutchman.png" 	data-image-name="Pearl attacked by the Dutchman.png" 	 	 width="350"  	 height="143"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Pearl_attacked_by_the_Dutchman.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption"><i><a href="/wiki/The_Black_Pearl" title="The Black Pearl" class="mw-redirect">The Black Pearl</a></i> flees from the <i><a href="/wiki/Flying_Dutchman" title="Flying Dutchman">Flying Dutchman</a></i>.</p> 		 	</figcaption> </figure>
+<p>Elizabeth chases both Ragetti and Pintel, eventually fleeing and fighting with them as Davy Jones' crew catches up with the chest they were carrying. They manage to fight them as Jack manages to get away from Will and Norrington. He opens the dropped chest, taking Davy Jones' heart and closing it again. He puts it in the jar of dirt he brought with him when he runs and makes it back to the longboat. Eventually, while Jack is distracted, Norrington sees both the chest and the jar of dirt in the longboat. He makes a "brave" gesture of taking the chest and running with it to draw Davy Jones' crew away from the others to help them make their escape not telling them that he has already taken the heart from the jar. Jack, still thinking that he has the heart, agrees and the others flee. Norrington is cornered by Davy Jones' crew, but plays the coward and drops the chest to run away while they laugh.
+</p>
+<h3><span class="mw-headline" id="The_Kraken">The Kraken</span></h3>
+<figure class="article-thumb tright show-info-icon" style="width: 350px"> 	<a href="http://vignette1.wikia.nocookie.net/pirates/images/e/e5/Sea_Fight_Isla_Cruces_22.png/revision/latest?cb=20100604141652" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Sea Fight Isla Cruces 22"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Sea_Fight_Isla_Cruces_22.png" 	data-image-name="Sea Fight Isla Cruces 22.png" 	 data-src="http://vignette1.wikia.nocookie.net/pirates/images/e/e5/Sea_Fight_Isla_Cruces_22.png/revision/latest/scale-to-width/350?cb=20100604141652"  	 width="350"  	 height="147"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/pirates/images/e/e5/Sea_Fight_Isla_Cruces_22.png/revision/latest/scale-to-width/350?cb=20100604141652" 	 alt="Sea Fight Isla Cruces 22"  	class="thumbimage " 	 	data-image-key="Sea_Fight_Isla_Cruces_22.png" 	data-image-name="Sea Fight Isla Cruces 22.png" 	 	 width="350"  	 height="147"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Sea_Fight_Isla_Cruces_22.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">The <a href="/wiki/Kraken" title="Kraken">Kraken</a> attack the <i><a href="/wiki/Black_Pearl" title="Black Pearl">Black Pearl</a></i>.</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source:Â Pirates of the Caribbean: Dead Man&#39;s Chest">"<i>Get away from the rail!"<br />"What is it?"<br />"The <a href="/wiki/Kraken" title="Kraken">Kraken</a>!</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/William_Turner_Jr." title="William Turner Jr.">William Turner</a> and <a href="/wiki/Elizabeth_Swann" title="Elizabeth Swann">Elizabeth Swann</a><span class="noprint"><sup><strong class="selflink">[src]</strong></sup></span></div>
+</dd></dl>
+<p>Escaping the island, the Pearl is finally caught by the Kraken. After a vicious struggle, the jar holding the dirt is broken and emptied revealing that the heart is no longer in it. Jack frantically searches what is left (frantically exclaiming, "Where's the thump-thump?!") as the crew prepares to defend the ship from the Kraken. During the battle, Elizabeth catches sight of Jack rowing away from the boat, calling him a coward. Later on, as Jack is rowing away from the embattled ship, he is shown looking at his compass before deciding whether or not to go back and help. Will and the rest of the crew have managed to put together a trap to help defend the ship and it is during that final battle against the Kraken that Elizabeth runs into Jack who has returned. He fires a shot into the trap of gunpowder that drives the Kraken away for the moment, but it is enough to buy the crew time to escape. He gives the painful order to <a href="/wiki/Abandon_ship" title="Abandon ship">abandon ship</a>.
+</p>
+<h3><span class="mw-headline" id="The_Captain_goes_down_with_his_ship">The Captain goes down with his ship</span></h3>
+<div class="quote">
+<dl><dd><span title="Source:Â Pirates of the Caribbean: Dead Man&#39;s Chest">"<i>Jack Sparrow...our debt is settled.</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Davy_Jones" title="Davy Jones">Davy Jones</a><span class="noprint"><sup><strong class="selflink">[src]</strong></sup></span></div>
+</dd></dl>
+<figure class="article-thumb tleft show-info-icon" style="width: 350px"> 	<a href="http://vignette2.wikia.nocookie.net/pirates/images/2/24/Kraken_destroys_the_pearl.png/revision/latest?cb=20120418002741" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Kraken destroys the pearl"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Kraken_destroys_the_pearl.png" 	data-image-name="Kraken destroys the pearl.png" 	 data-src="http://vignette2.wikia.nocookie.net/pirates/images/2/24/Kraken_destroys_the_pearl.png/revision/latest/scale-to-width/350?cb=20120418002741"  	 width="350"  	 height="146"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/pirates/images/2/24/Kraken_destroys_the_pearl.png/revision/latest/scale-to-width/350?cb=20120418002741" 	 alt="Kraken destroys the pearl"  	class="thumbimage " 	 	data-image-key="Kraken_destroys_the_pearl.png" 	data-image-name="Kraken destroys the pearl.png" 	 	 width="350"  	 height="146"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Kraken_destroys_the_pearl.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption"><a href="/wiki/Jack_Sparrow" title="Jack Sparrow">Jack Sparrow</a> goes down with the <i><a href="/wiki/Black_Pearl" title="Black Pearl">Pearl</a></i></p> 		 	</figcaption> </figure>
+<p>However, Elizabeth realizes the Kraken is specifically after Jack. She kisses him passionately, and as she does, Will (who is climbing down the ship to the wooden "lifeboat") witnesses the kiss but says nothing, although he is clearly hurt. Elizabeth uses the opportunity to chain Jack to the mast as the rest of the crew escape from the ship. Jack has seemingly decided to show his good side by returning to help at the risk of his own life, while Elizabeth for once throws her own sense of honor and decency to the wind, both by kissing Jack, and by chaining him to the mast to save herself. She tells everybody in the lifeboat they escape in that Jack has "elected" to remain aboard and go down with his ship and they sail away from the Black Pearl. Jack manages to slip out of his shackles just as the Kraken appears on all sides of the ship, trapping him. Jack grabs a sword and the last we see of him he is smiling and saying, "Hello, beastie," and attacking the Kraken as the monster destroys the Black Pearl and drags her underwater to her grave. Davy Jones sees this and proclaims Jack's debt fulfilled. However, he then realizes that something is not right and asks to see the "chest". After realizing his heart has been stolen and believing Jack had it when the Kraken killed him, he looks up into the sky and shouts, "Damn you, Jack Sparrow!"     
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 350px"> 	<a href="http://vignette4.wikia.nocookie.net/pirates/images/9/9a/Beckett_and_Heart_of_Davy_Jones_DMC.jpg/revision/latest?cb=20100928004130" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Beckett and Heart of Davy Jones DMC"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Beckett_and_Heart_of_Davy_Jones_DMC.jpg" 	data-image-name="Beckett and Heart of Davy Jones DMC.jpg" 	 data-src="http://vignette4.wikia.nocookie.net/pirates/images/9/9a/Beckett_and_Heart_of_Davy_Jones_DMC.jpg/revision/latest/scale-to-width/350?cb=20100928004130"  	 width="350"  	 height="149"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/pirates/images/9/9a/Beckett_and_Heart_of_Davy_Jones_DMC.jpg/revision/latest/scale-to-width/350?cb=20100928004130" 	 alt="Beckett and Heart of Davy Jones DMC"  	class="thumbimage " 	 	data-image-key="Beckett_and_Heart_of_Davy_Jones_DMC.jpg" 	data-image-name="Beckett and Heart of Davy Jones DMC.jpg" 	 	 width="350"  	 height="149"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Beckett_and_Heart_of_Davy_Jones_DMC.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption"><a href="/wiki/Cutler_Beckett" title="Cutler Beckett">Cutler Beckett</a> being given the <a href="/wiki/Heart_of_Davy_Jones" title="Heart of Davy Jones">Heart of Davy Jones</a>.</p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="The_Heart_and_a_new_Captain">The Heart and a new Captain </span></h3>
+<div class="quote">
+<dl><dd><span title="Source:Â Pirates of the Caribbean: Dead Man&#39;s Chest">"<i>If you intend to claim these, then you must have something to trade; do you have the compass?"<br />"Better...the heart of Davy Jones.</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Cutler_Beckett" title="Cutler Beckett">Cutler Beckett</a> and <a href="/wiki/James_Norrington" title="James Norrington">James Norrington</a><span class="noprint"><sup><strong class="selflink">[src]</strong></sup></span></div>
+</dd></dl>
+<p>Norrington is found by ships from the East India Trading Company and is taken to Port Royal. There, he reappears and reports to Beckett with the Letters of Marque. To Beckett's surprise, Norrington does not deliver Sparrow's magical compass as Beckett hoped, but another, more powerful item, the <a href="/wiki/Heart_of_Davy_Jones" title="Heart of Davy Jones">heart of Davy Jones</a>.
+</p>
+<div class="quote">
+<dl><dd><span title="Source:Â Pirates of the Caribbean: Dead Man&#39;s Chest">"<i>All right. But if you go and brave the weird and haunted shores at <a href="/wiki/World%27s_End" title="World&#39;s End" class="mw-redirect">World's End</a>, then you'll need <a href="/wiki/Hector_Barbossa" title="Hector Barbossa">a captain</a> who knows those waters.</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Tia_Dalma" title="Tia Dalma">Tia Dalma</a> to the survivors of the Kraken attack<span class="noprint"><sup><strong class="selflink">[src]</strong></sup></span></div>
+</dd></dl>
+<figure class="article-thumb tleft show-info-icon" style="width: 350px"> 	<a href="http://vignette2.wikia.nocookie.net/pirates/images/b/b9/Barbossa_introduced.png/revision/latest?cb=20110522213931" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Barbossa introduced"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Barbossa_introduced.png" 	data-image-name="Barbossa introduced.png" 	 data-src="http://vignette2.wikia.nocookie.net/pirates/images/b/b9/Barbossa_introduced.png/revision/latest/scale-to-width/350?cb=20110522213931"  	 width="350"  	 height="149"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/pirates/images/b/b9/Barbossa_introduced.png/revision/latest/scale-to-width/350?cb=20110522213931" 	 alt="Barbossa introduced"  	class="thumbimage " 	 	data-image-key="Barbossa_introduced.png" 	data-image-name="Barbossa introduced.png" 	 	 width="350"  	 height="149"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Barbossa_introduced.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption"><a href="/wiki/Hector_Barbossa" title="Hector Barbossa">Hector Barbossa</a> introduced.</p> 		 	</figcaption> </figure>
+The <i>Pearl'</i>s survivors revisit Tia Dalma where they drink a toast to Jack, during which time Will is still distrustful of Elizabeth following the kiss he witnessed. Will tries to comfort her, mistaking her guilt for sadness, by promising that if anything could be done to save Jack that he would do it. Tia interrupts Will before he can finish and questions how far he or the rest of the crew would truly be willing to go to save Captain Jack, Will, Elizabeth, and the crew unanimously agree to travel to the <a href="/wiki/Farthest_Gate" title="Farthest Gate">World's End</a> to save him. A now cheerful Tia explains that they will need a captain who knows those waters. Just as she finishes these words, footsteps are heard coming down the stairs.<figure class="article-thumb tright show-info-icon" style="width: 200px"> 	<a href="http://vignette4.wikia.nocookie.net/pirates/images/0/0c/Poochie.JPG/revision/latest?cb=20070106005132" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Poochie"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Poochie.JPG" 	data-image-name="Poochie.JPG" 	 data-src="http://vignette4.wikia.nocookie.net/pirates/images/0/0c/Poochie.JPG/revision/latest/scale-to-width/200?cb=20070106005132"  	 width="200"  	 height="187"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/pirates/images/0/0c/Poochie.JPG/revision/latest/scale-to-width/200?cb=20070106005132" 	 alt="Poochie"  	class="thumbimage " 	 	data-image-key="Poochie.JPG" 	data-image-name="Poochie.JPG" 	 	 width="200"  	 height="187"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Poochie.JPG" class="sprite info-icon"></a> 		 		 		 			<p class="caption">The <a href="/wiki/Prison_Dog" title="Prison Dog">Prison Dog</a> as chief of the <a href="/wiki/Pelegostos" title="Pelegostos" class="mw-redirect">Pelegostos</a>.</p> 		 	</figcaption> </figure> Everyone gathers around to see discover, to their surprise, that it is none other than the formerly dead Captain <a href="/wiki/Hector_Barbossa" title="Hector Barbossa">Hector Barbossa</a> who exclaims, "So tell me, what's become of my ship?" before biting into a green apple, free of the curse that had plagued him once before.
+<h3><span class="mw-headline" id="Epilogue">Epilogue</span></h3>
+<p>Back at <a href="/wiki/Pelegosto" title="Pelegosto" class="mw-redirect">Pelegosto</a>, the Pelegostos tribe is worshiping their new chief: the <a href="/wiki/Prison_Dog" title="Prison Dog">Prison Dog</a>.
+</p>
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<div style="float:left; width:48%;">
+<ul><li><a href="/wiki/Johnny_Depp" title="Johnny Depp">Johnny Depp</a> ... <a href="/wiki/Jack_Sparrow" title="Jack Sparrow">Jack Sparrow</a>
+</li><li><a href="/wiki/Orlando_Bloom" title="Orlando Bloom">Orlando Bloom</a> ... <a href="/wiki/William_Turner_Jr." title="William Turner Jr.">Will Turner</a>
+</li><li><a href="/wiki/Keira_Knightley" title="Keira Knightley">Keira Knightley</a> ... <a href="/wiki/Elizabeth_Swann" title="Elizabeth Swann">Elizabeth Swann</a>
+</li><li><a href="/wiki/Jack_Davenport" title="Jack Davenport">Jack Davenport</a> ... <a href="/wiki/James_Norrington" title="James Norrington">Norrington</a>
+</li><li><a href="/wiki/Bill_Nighy" title="Bill Nighy">Bill Nighy</a> ... <a href="/wiki/Davy_Jones" title="Davy Jones">Davy Jones</a>
+</li><li><a href="/wiki/Jonathan_Pryce" title="Jonathan Pryce">Jonathan Pryce</a> ... <a href="/wiki/Weatherby_Swann" title="Weatherby Swann">Governor Weatherby Swann</a>
+</li><li><a href="/wiki/Lee_Arenberg" title="Lee Arenberg">Lee Arenberg</a> ... <a href="/wiki/Pintel" title="Pintel">Pintel</a>
+</li><li><a href="/wiki/Mackenzie_Crook" title="Mackenzie Crook">Mackenzie Crook</a> ... <a href="/wiki/Ragetti" title="Ragetti">Ragetti</a>
+</li><li><a href="/wiki/Kevin_McNally" title="Kevin McNally">Kevin R. McNally</a> ... <a href="/wiki/Joshamee_Gibbs" title="Joshamee Gibbs">Gibbs</a>
+</li><li><a href="/wiki/David_Bailie" title="David Bailie">David Bailie</a> ... <a href="/wiki/Cotton" title="Cotton">Cotton</a>
+</li><li><a href="/wiki/Stellan_Skarsg%C3%A5rd" title="Stellan SkarsgÃ¥rd">Stellan SkarsgÃ¥rd</a> ... <a href="/wiki/William_Turner_Sr." title="William Turner Sr.">Bootstrap Bill</a>
+</li><li><a href="/wiki/Tom_Hollander" title="Tom Hollander">Tom Hollander</a> ... <a href="/wiki/Cutler_Beckett" title="Cutler Beckett">Cutler Beckett</a>
+</li><li><a href="/wiki/Naomie_Harris" title="Naomie Harris">Naomie Harris</a> ... <a href="/wiki/Tia_Dalma" title="Tia Dalma">Tia Dalma</a>
+</li><li><a href="/wiki/Martin_Klebba" title="Martin Klebba">Martin Klebba</a> ... <a href="/wiki/Marty" title="Marty">Marty</a>
+</li><li><a href="/wiki/David_Schofield" title="David Schofield">David Schofield</a> ... <a href="/wiki/Ian_Mercer" title="Ian Mercer">Mercer</a>
+</li><li><a href="/wiki/Alex_Norton" title="Alex Norton">Alex Norton</a> ... <a href="/wiki/Bellamy" title="Bellamy">Captain Bellamy</a>
+</li><li><a href="/wiki/Lauren_Maher" title="Lauren Maher">Lauren Maher</a> ... <a href="/wiki/Scarlett" title="Scarlett">Scarlett</a>
+</li><li><a href="/wiki/Nej_Adamson" title="Nej Adamson">Nej Adamson</a> ... <a href="/wiki/Short_Turkish_Sailor" title="Short Turkish Sailor">Short Sailor</a>
+</li><li><a href="/wiki/Jimmy_Roussounis" title="Jimmy Roussounis">Jimmy Roussounis</a> ... <a href="/wiki/Large_Turkish_Sailor" title="Large Turkish Sailor">Large Sailor</a>
+</li><li><a href="/wiki/Moray_Treadwell" title="Moray Treadwell">Moray Treadwell</a> ... <a href="/wiki/Sunburned_sailor" title="Sunburned sailor">Sunburned Sailor</a>
+</li><li><a href="/wiki/San_Shella" title="San Shella">San Shella</a> ... <a href="/wiki/Leech" title="Leech">Leech</a>
+</li><li><a href="/wiki/Jim_Cody_Williams" title="Jim Cody Williams">Jim Cody Williams</a> ... <a href="/wiki/Half-blind_fisherman" title="Half-blind fisherman">Fisherman (Montage)</a>
+</li><li><a href="/wiki/Michael_Miranda" title="Michael Miranda">Michael Miranda</a> ... <a href="/wiki/Cannibal_warrior" title="Cannibal warrior">Cannibal Warrior</a>
+</li><li><a href="/wiki/Luke_de_Woolfson" title="Luke de Woolfson">Luke de Woolfson</a> ... <a href="/wiki/Frightened_sailor" title="Frightened sailor">Frightened Sailor</a>
+</li><li><a href="/wiki/Derrick_O%27Connor" title="Derrick O&#39;Connor">Derrick O'Connor</a> ... <a href="/wiki/Very_old_man" title="Very old man">Very Old Man</a>
+</li><li><a href="/wiki/Georges_Trillat" title="Georges Trillat">Georges Trillat</a> ... <a href="/wiki/Skinny_man" title="Skinny man">Skinny Man</a>
+</li><li><a href="/wiki/Israel_Aduramo" title="Israel Aduramo">Israel Aduramo</a> ... <a href="/wiki/Crippled_man" title="Crippled man">Crippled Man</a>
+</li><li><a href="/wiki/Gerry_O%27Brien" title="Gerry O&#39;Brien">Gerry O'Brien</a> ... <a href="/wiki/Irish_man" title="Irish man">Irish Man</a>
+</li><li><a href="/wiki/Dermot_Keaney" title="Dermot Keaney">Dermot Keaney</a> ... <a href="/wiki/Maccus" title="Maccus">Maccus/Dutchman</a>
+</li><li><a href="/wiki/Clive_Ashborn" title="Clive Ashborn">Clive Ashborn</a> ... <a href="/wiki/Koleniko" title="Koleniko">Koleniko/Dutchman</a>
+</li><li><a href="/wiki/Robbie_Gee" title="Robbie Gee">Robbie Gee</a> ... <a href="/wiki/Shrimper" title="Shrimper">Shrimper (Montage)</a>
+</li><li><a href="/wiki/Neil_Panlasigui" title="Neil Panlasigui">Neil Panlasigui</a> ... <a href="/wiki/Cannibal_boy" title="Cannibal boy">Cannibal Boy</a>
+</li><li><a href="/wiki/Matthew_Bowyer" title="Matthew Bowyer">Matthew Bowyer</a> ... <a href="/wiki/Sailor_(Edinburgh_Trader)" title="Sailor (Edinburgh Trader)">Sailor/Edinburgh</a>
+</li><li><a href="/wiki/Max_Baker" title="Max Baker">Max Baker</a> ... <a href="/wiki/Bursar_(Edinburgh_Trader)" title="Bursar (Edinburgh Trader)">Bursar/Edinburgh</a>
+</li><li><a href="/wiki/Steven_Spiers" title="Steven Spiers">Steven Spiers</a> ... <a href="/wiki/Quartermaster_(Edinburgh_Trader)" title="Quartermaster (Edinburgh Trader)">Quartermaster/Edinburgh</a>
+</li><li><a href="/wiki/John_Boswall" title="John Boswall">John Boswall</a> ... <a href="/wiki/Wyvern" title="Wyvern">Wyvern</a>
+</li><li><a href="/wiki/Winston_Ellis" title="Winston Ellis">Winston Ellis</a> ... <a href="/wiki/Palifico" title="Palifico">Palifico/Dutchman</a>
+</li><li><a href="/wiki/Christopher_Adamson" title="Christopher Adamson">Christopher Adamson</a> ... <a href="/wiki/Jimmy_Legs" title="Jimmy Legs">Jimmylegs/Dutchman</a>
+</li><li><a href="/wiki/Andy_Beckwith" title="Andy Beckwith">Andy Beckwith</a> ... <a href="/wiki/Clanker" title="Clanker">Clanker/Dutchman</a>
+</li><li><a href="/wiki/Jonathan_Linsley" title="Jonathan Linsley">Jonathan Linsley</a> ... <a href="/wiki/Ogilvey" title="Ogilvey">Olgivey/Dutchman</a>
+</li><li>Sylver ... <a href="/wiki/Shrimper%27s_brother" title="Shrimper&#39;s brother">Shrimper's Brother</a>
+</li><li><a href="/wiki/Simon_Meacock" title="Simon Meacock">Simon Meacock</a> ... <a href="/wiki/Chaplain" title="Chaplain" class="mw-redirect">Chaplain</a>
+</li><li>Natsuko Ohama ...
+</li><li><a href="/wiki/Josie_Dapar" title="Josie Dapar">Josie Dapar</a> .... Cannibal Women
+</li><li><a href="/wiki/Vanessa_Branch" title="Vanessa Branch">Vanessa Branch</a> .... <a href="/wiki/Giselle" title="Giselle">Giselle</a>
+</li><li><a href="/wiki/David_Sterne" title="David Sterne">David Sterne</a> .... <a href="/wiki/Cook_(Edinburgh_Trader)" title="Cook (Edinburgh Trader)">Edinburgh Cook</a>
+</li><li><a href="/wiki/David_Keyes" title="David Keyes">David Keyes</a> .... <a href="/wiki/Helmsman_(scuttled_ship)" title="Helmsman (scuttled ship)">Scuttled Ship Helmsman</a>
+</li><li><a href="/wiki/Anthony_Patricio" title="Anthony Patricio">Anthony Patricio</a> .... <a href="/wiki/Cannibal" title="Cannibal">Cannibal</a>
+</li><li><a href="/wiki/Barry_McEvoy" title="Barry McEvoy">Barry McEvoy</a> .... <a href="/wiki/Carruthers" title="Carruthers">Carruthers Guard</a>
+</li><li><a href="/wiki/Michael_Enright" title="Michael Enright">Michael Enright</a> .... <a href="/wiki/Deckhand_(Edinburgh_Trader)" title="Deckhand (Edinburgh Trader)">Deckhand/Edinburgh</a>
+</li><li><a href="/wiki/Hernando_Molina" title="Hernando Molina">Hernando "Sweepy" Molina</a> .... <a href="/wiki/Sweepy" title="Sweepy">Sweepy</a>
+</li><li><a href="/wiki/John_Mackey" title="John Mackey">John Mackey</a>
+</li><li>Spider Madison
+</li><li>Bud Mathis .... <a href="/wiki/Turkish_prison_inmate" title="Turkish prison inmate" class="mw-redirect">Turkish Prisoner</a>
+</li><li><a href="/wiki/Marco_Kahn" title="Marco Kahn" class="mw-redirect">Marco Kahn</a>
+</li><li><a href="/wiki/David_Zahedian" title="David Zahedian">David Zahedian</a>
+</li><li><a href="/wiki/Faouzi_Brahimi" title="Faouzi Brahimi">Faouzi Brahimi</a> .... <a href="/wiki/Turkish_prison_guard" title="Turkish prison guard" class="mw-redirect">Turkish Guard</a>
+</li><li><a href="/wiki/Jonathan_Limbo" title="Jonathan Limbo">Jonathan Limbo</a> .... <a href="/wiki/Torch_native" title="Torch native">Torch Native</a>
+</li><li><a href="/wiki/Alex_Cong" title="Alex Cong">Alex Cong</a> .... <a href="/wiki/Bridge_native" title="Bridge native">Native Bridge Guard</a>
+</li><li><a href="/wiki/Ho-Kwan_Tse" title="Ho-Kwan Tse">Ho-Kwan Tse</a> .... <a href="/wiki/Ho-Kwan" title="Ho-Kwan">Ho-Kwan</a>
+</li><li><a href="/wiki/Reggie_Lee" title="Reggie Lee">Reggie Lee</a> .... <a href="/wiki/Hadras" title="Hadras">Headless</a>
+</li><li><a href="/wiki/Lejon_O._Stewart" title="Lejon O. Stewart">Lejon O. Stewart</a> .... <a href="/wiki/Lejon" title="Lejon">Lejon</a>
+</li><li><a href="/wiki/Christopher_S._Capp" title="Christopher S. Capp">Christopher S. Capp</a> .... <a href="/wiki/Cotton%27s_Parrot" title="Cotton&#39;s Parrot">Parrot Voice</a>
+</li></ul>
+</div>
+<div style="float:right; width:48%;">
+<h3><span class="mw-headline" id="Jack.27s_crew">Jack's crew</span></h3>
+<ul><li><a href="/wiki/Felix_Castro" title="Felix Castro" class="mw-redirect">Felix Castro</a> .... <a href="/wiki/Moises" title="Moises">Moises</a>
+</li><li><a href="/wiki/Mike_Haberecht" title="Mike Haberecht">Mike Haberecht</a> .... <a href="/wiki/Kursar" title="Kursar">Kursar</a>
+</li><li><a href="/wiki/Gerard_Reyes" title="Gerard Reyes" class="mw-redirect">Gerard Reyes</a> .... <a href="/wiki/Tearlach" title="Tearlach">Tearlach</a>
+</li><li><a href="/wiki/M._Scott_Shields" title="M. Scott Shields">M. Scott Shields</a> .... <a href="/wiki/Duncan" title="Duncan">Duncan</a>
+</li><li><a href="/wiki/Chris_%22Sully%22_Sullivan" title="Chris &quot;Sully&quot; Sullivan">Chris "Sully" Sullivan</a> .... <a href="/wiki/Ladbroc" title="Ladbroc">Ladbroc</a>
+</li><li><a href="/wiki/Fred_Toft" title="Fred Toft">Fred Toft</a> .... <a href="/wiki/Quartetto" title="Quartetto">Quartetto</a>
+</li></ul>
+<h3><span class="mw-headline" id="Uncredited">Uncredited</span></h3>
+<ul><li><a href="/wiki/Geoffrey_Rush" title="Geoffrey Rush">Geoffrey Rush</a> .... <a href="/wiki/Hector_Barbossa" title="Hector Barbossa">Barbossa</a>
+</li></ul>
+</div>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="Appearances">Appearances</span></h2>
+<div style="float:left; width:48%;">
+<h3><span class="mw-headline" id="Individuals">Individuals</span></h3>
+<ul><li><a href="/wiki/Jack_Sparrow" title="Jack Sparrow">Jack Sparrow</a>
+</li><li><a href="/wiki/William_Turner_Jr." title="William Turner Jr.">Will Turner</a>
+</li><li><a href="/wiki/Elizabeth_Swann" title="Elizabeth Swann">Elizabeth Swann</a>
+</li><li><a href="/wiki/James_Norrington" title="James Norrington">James Norrington</a>
+</li><li><a href="/wiki/Davy_Jones" title="Davy Jones">Davy Jones</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Weatherby_Swann" title="Weatherby Swann">Weatherby Swann</a>
+</li><li><a href="/wiki/Pintel" title="Pintel">Pintel</a>
+</li><li><a href="/wiki/Ragetti" title="Ragetti">Ragetti</a>
+</li><li><a href="/wiki/Joshamee_Gibbs" title="Joshamee Gibbs">Joshamee Gibbs</a>
+</li><li><a href="/wiki/Cotton" title="Cotton">Cotton</a>
+</li><li><a href="/wiki/William_Turner_Sr." title="William Turner Sr.">Bootstrap Bill Turner</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Cutler_Beckett" title="Cutler Beckett">Cutler Beckett</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Tia_Dalma" title="Tia Dalma">Tia Dalma</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Marty" title="Marty">Marty</a>
+</li><li><a href="/wiki/Ian_Mercer" title="Ian Mercer">Ian Mercer</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Bellamy" title="Bellamy">Bellamy</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Scarlett" title="Scarlett">Scarlett</a>
+</li><li><a href="/wiki/Leech" title="Leech">Leech</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Maccus" title="Maccus">Maccus</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Koleniko" title="Koleniko">Koleniko</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Sailor_(Edinburgh_Trader)" title="Sailor (Edinburgh Trader)">Sailor</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Bursar_(Edinburgh_Trader)" title="Bursar (Edinburgh Trader)">Bursar</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Quartermaster_(Edinburgh_Trader)" title="Quartermaster (Edinburgh Trader)">Quartermaster</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Wyvern" title="Wyvern">Wyvern</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Palifico" title="Palifico">Palifico</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Jimmy_Legs" title="Jimmy Legs">Jimmy Legs</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Clanker" title="Clanker">Clanker</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Olgivey" title="Olgivey" class="mw-redirect">Olgivey</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Giselle" title="Giselle">Giselle</a>
+</li><li><a href="/wiki/Cook_(Edinburgh_Trader)" title="Cook (Edinburgh Trader)">Cook</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Carruthers" title="Carruthers">Carruthers</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Deckhand_(Edinburgh_Trader)" title="Deckhand (Edinburgh Trader)">Deckhand</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Sweepy" title="Sweepy">Sweepy</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Hadras" title="Hadras">Hadras</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/LeJon" title="LeJon" class="mw-redirect">LeJon</a>
+</li><li><a href="/wiki/Moises" title="Moises">Moises</a>
+</li><li><a href="/wiki/Kursar" title="Kursar">Kursar</a>
+</li><li><a href="/wiki/Tearlach" title="Tearlach">Tearlach</a>
+</li><li><a href="/wiki/Duncan" title="Duncan">Duncan</a>
+</li><li><a href="/wiki/Ladbroc" title="Ladbroc">Ladbroc</a>
+</li><li><a href="/wiki/Quartetto" title="Quartetto">Quartetto</a>
+</li><li><a href="/wiki/Hector_Barbossa" title="Hector Barbossa">Hector Barbossa</a>
+</li><li><a href="/wiki/Angler" title="Angler">Angler</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Cartographer" title="Cartographer">Cartographer</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Crash" title="Crash">Crash</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Crimp" title="Crimp">Crimp</a>
+</li><li><a href="/wiki/Old_Haddy" title="Old Haddy">Old Haddy</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Penrod" title="Penrod">Penrod</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Quittance" title="Quittance">Quittance</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Ratlin" title="Ratlin">Ratlin</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Two_Head" title="Two Head">Two Head</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Wheelback" title="Wheelback">Wheelback</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Calypso" title="Calypso">Calypso</a> <small>(Indirect mention only)</small>
+</li></ul>
+<h3><span class="mw-headline" id="Creatures">Creatures</span></h3>
+<ul><li><a href="/wiki/Cotton%27s_Parrot" title="Cotton&#39;s Parrot">Cotton's Parrot</a>
+</li><li><a href="/wiki/Jack_(monkey)" title="Jack (monkey)">Jack the Monkey</a>
+</li><li><a href="/wiki/Kraken" title="Kraken">Kraken</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Goat" title="Goat">Goat</a>
+</li></ul>
+</div>
+<div style="float:right; width:48%;">
+<h3><span class="mw-headline" id="Objects">Objects</span></h3>
+<ul><li><a href="/wiki/Dead_Man%27s_Chest" title="Dead Man&#39;s Chest">Dead Man's Chest</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Key_to_the_Dead_Man%27s_Chest" title="Key to the Dead Man&#39;s Chest">Key to the Dead Man's Chest</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Jack_Sparrow%27s_compass" title="Jack Sparrow&#39;s compass">Jack Sparrow's compass</a>
+</li><li><a href="/wiki/Letters_of_Marque" title="Letters of Marque">Letters of Marque</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Locket" title="Locket">Musical Locket</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Flintlock" title="Flintlock">Flintlock pistol</a>
+<ul><li><a href="/wiki/Jack_Sparrow%27s_pistol" title="Jack Sparrow&#39;s pistol">Jack Sparrow's pistol</a>
+</li></ul>
+</li><li><a href="/wiki/Sword" title="Sword">Sword</a>
+<ul><li><a href="/wiki/Jack_Sparrow%27s_sword" title="Jack Sparrow&#39;s sword">Jack Sparrow's sword</a>
+</li><li><a href="/wiki/James_Norrington%27s_sword" title="James Norrington&#39;s sword" class="mw-redirect">James Norrington's sword</a>
+</li><li><a href="/wiki/Sword_of_Davy_Jones" title="Sword of Davy Jones" class="mw-redirect">Sword of Davy Jones</a> <small>(First appearance)</small>
+</li></ul>
+</li><li><a href="/wiki/World_map" title="World map">World map</a> <small>(First appearance)</small>
+</li></ul>
+<h3><span class="mw-headline" id="Locations">Locations</span></h3>
+<ul><li><a href="/wiki/Port_Royal" title="Port Royal">Port Royal</a>
+<ul><li><a href="/wiki/Cutler_Beckett%27s_office" title="Cutler Beckett&#39;s office">Cutler Beckett's office</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Fort_Charles" title="Fort Charles">Fort Charles</a>
+</li><li><a href="/wiki/John_Brown%27s_smithy" title="John Brown&#39;s smithy" class="mw-redirect">John Brown's smithy</a>
+</li><li><a href="/wiki/Port_Royal_Prison" title="Port Royal Prison" class="mw-redirect">Port Royal Prison</a>
+</li></ul>
+</li><li><a href="/wiki/Tortuga" title="Tortuga">Tortuga</a>
+<ul><li><i><a href="/wiki/Twelve_Daggers" title="Twelve Daggers">Twelve Daggers</a></i>
+</li></ul>
+</li><li><a href="/wiki/Isla_de_Pelegostos" title="Isla de Pelegostos">Cannibal Island</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Pantano_River" title="Pantano River">Pantano River</a>
+<ul><li><a href="/wiki/Tia_Dalma%27s_shack" title="Tia Dalma&#39;s shack">Tia Dalma's shack</a>
+</li></ul>
+</li><li><a href="/wiki/Isla_Cruces" title="Isla Cruces">Isla Cruces</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Farthest_Gate" title="Farthest Gate">World's End</a> <small>(First mentioned)</small>
+</li></ul>
+<h3><span class="mw-headline" id="Organizations">Organizations</span></h3>
+<ul><li><a href="/wiki/East_India_Trading_Company" title="East India Trading Company">East India Trading Company</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/British_Royal_Navy" title="British Royal Navy">British Royal Navy</a>
+</li><li><a href="/wiki/Crew_of_the_Black_Pearl" title="Crew of the Black Pearl">Crew of the Black Pearl</a>
+<ul><li><a href="/wiki/Motley_crew" title="Motley crew">Motley crew</a>
+</li></ul>
+</li><li><a href="/wiki/Crew_of_the_Flying_Dutchman" title="Crew of the Flying Dutchman">Crew of the Flying Dutchman</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Pelegostos" title="Pelegostos" class="mw-redirect">Pelegostos</a>
+</li></ul>
+<h3><span class="mw-headline" id="Ships">Ships</span></h3>
+<ul><li><i><a href="/wiki/Black_Pearl" title="Black Pearl">Black Pearl</a></i>
+</li><li><i><a href="/wiki/Edinburgh_Trader" title="Edinburgh Trader">Edinburgh Trader</a></i> <small>(First appearance)</small>
+</li><li><i><a href="/wiki/Flying_Dutchman" title="Flying Dutchman">Flying Dutchman</a></i> <small>(First appearance)</small>
+</li><li><a href="/wiki/HMS_Endeavour" title="HMS Endeavour">HMS <i>Endeavour</i></a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Scuttled_ship" title="Scuttled ship">Scuttled ship</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Shrimper%27s_boat?action=edit&amp;redlink=1" class="new" title="Shrimper&#39;s boat (page does not exist)">Shrimper's boat</a> <small>(First appearance)</small>
+</li><li><a href="/wiki/Turkish_fishing_boat" title="Turkish fishing boat">Turkish fishing boat</a> <small>(First appearance)</small>
+</li></ul>
+</div>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="Promotional">Promotional</span></h2>
+<p>For more promotional images and videos, check out the <a href="/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest/Gallery" title="Pirates of the Caribbean: Dead Man&#39;s Chest/Gallery">Pirates of the Caribbean: Dead Man's Chest/Gallery</a>
+</p>
+<div id="gallery-0" hash="e4d0cceefa10dc110366b6c3fade10e7" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-center wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium"><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="Video-Pirates_of_the_Caribbean_Dead_Man-27s_Chest_-282006-29_-_CT_1-2C_Post" style="position: relative; height:200px; width:200px;"><a class="image-no-lightbox" href="/wiki/Special:Upload?wpDestFile=Video%3APirates+of+the+Caribbean+Dead+Man%27s+Chest+%282006%29+-+CT+1%2C+Post" title="Video:Pirates of the Caribbean Dead Man&#39;s Chest (2006) - CT 1, Post" style="height:200px; width:200px;">Video:Pirates of the Caribbean Dead Man's Chest (2006) - CT 1, Post</a></div></div><div class="lightbox-caption" style="width:200px;">Trailer</div></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="Video-Pirates_of_the_Caribbean_Dead_Man-27s_Chest_-282006-29_-_DO_NOT_USE-2C_-22Liars_Dice_Promo-22" style="position: relative; height:200px; width:200px;"><a class="image-no-lightbox" href="/wiki/Special:Upload?wpDestFile=Video%3APirates+of+the+Caribbean+Dead+Man%27s+Chest+%282006%29+-+DO+NOT+USE%2C+%22Liars+Dice+Promo%22" title="Video:Pirates of the Caribbean Dead Man&#39;s Chest (2006) - DO NOT USE, &quot;Liars Dice Promo&quot;" style="height:200px; width:200px;">Video:Pirates of the Caribbean Dead Man's Chest (2006) - DO NOT USE, "Liars Dice Promo"</a></div></div><div class="lightbox-caption" style="width:200px;">"Liars Dice"</div></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="Video-Pirates_of_the_Caribbean_Dead_Man-27s_Chest_-282006-29_-_Clip_Blade_on_Fire_-_33" style="position: relative; height:200px; width:200px;"><a class="image-no-lightbox" href="/wiki/Special:Upload?wpDestFile=Video%3APirates+of+the+Caribbean+Dead+Man%27s+Chest+%282006%29+-+Clip+Blade+on+Fire+-+33" title="Video:Pirates of the Caribbean Dead Man&#39;s Chest (2006) - Clip Blade on Fire - 33" style="height:200px; width:200px;">Video:Pirates of the Caribbean Dead Man's Chest (2006) - Clip Blade on Fire - 33</a></div></div><div class="lightbox-caption" style="width:200px;">"Blade on Fire"</div></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="Video-Pirates_of_the_Caribbean_Dead_Man-27s_Chest_-282006-29_-_Clip_In_the_Bone_Cage_-_38" style="position: relative; height:200px; width:200px;"><a class="image-no-lightbox" href="/wiki/Special:Upload?wpDestFile=Video%3APirates+of+the+Caribbean+Dead+Man%27s+Chest+%282006%29+-+Clip+In+the+Bone+Cage+-+38" title="Video:Pirates of the Caribbean Dead Man&#39;s Chest (2006) - Clip In the Bone Cage - 38" style="height:200px; width:200px;">Video:Pirates of the Caribbean Dead Man's Chest (2006) - Clip In the Bone Cage - 38</a></div></div><div class="lightbox-caption" style="width:200px;">"In the Bone Cage"</div></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="Video-Pirates_of_the_Caribbean_Dead_Man-27s_Chest_-282006-29_-_Clip_CGI_Character_-_39" style="position: relative; height:200px; width:200px;"><a class="image-no-lightbox" href="/wiki/Special:Upload?wpDestFile=Video%3APirates+of+the+Caribbean+Dead+Man%27s+Chest+%282006%29+-+Clip+CGI+Character+-+39" title="Video:Pirates of the Caribbean Dead Man&#39;s Chest (2006) - Clip CGI Character - 39" style="height:200px; width:200px;">Video:Pirates of the Caribbean Dead Man's Chest (2006) - Clip CGI Character - 39</a></div></div><div class="lightbox-caption" style="width:200px;">Character CGI</div></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="Video-Pirates_of_the_Caribbean_Dead_Man-27s_Chest_-282006-29_-_Clip_Side_By_Side_-_38" style="position: relative; height:200px; width:200px;"><a class="image-no-lightbox" href="/wiki/Special:Upload?wpDestFile=Video%3APirates+of+the+Caribbean+Dead+Man%27s+Chest+%282006%29+-+Clip+Side+By+Side+-+38" title="Video:Pirates of the Caribbean Dead Man&#39;s Chest (2006) - Clip Side By Side - 38" style="height:200px; width:200px;">Video:Pirates of the Caribbean Dead Man's Chest (2006) - Clip Side By Side - 38</a></div></div><div class="lightbox-caption" style="width:200px;">"Side by Side"</div></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="Video-Pirates_of_the_Caribbean_Dead_Man-27s_Chest_-282006-29_-_Clip_Sword_Exchange_-_35_-22PR_EXCLUSIVE-2C_DONT_USE-22" style="position: relative; height:200px; width:200px;"><a class="image-no-lightbox" href="/wiki/Special:Upload?wpDestFile=Video%3APirates+of+the+Caribbean+Dead+Man%27s+Chest+%282006%29+-+Clip+Sword+Exchange+-+35+%22PR+EXCLUSIVE%2C+DONT+USE%22" title="Video:Pirates of the Caribbean Dead Man&#39;s Chest (2006) - Clip Sword Exchange - 35 &quot;PR EXCLUSIVE, DONT USE&quot;" style="height:200px; width:200px;">Video:Pirates of the Caribbean Dead Man's Chest (2006) - Clip Sword Exchange - 35 "PR EXCLUSIVE, DONT USE"</a></div></div><div class="lightbox-caption" style="width:200px;">"Sword Exchange"</div></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="Video-Pirates_of_the_Caribbean_Dead_Man-27s_Chest_-282006-29_-_Clip_The_Kraken_-_34_-22PR_EXCLUSIVE-2C_DONT_USE-22" style="position: relative; height:200px; width:200px;"><a class="image-no-lightbox" href="/wiki/Special:Upload?wpDestFile=Video%3APirates+of+the+Caribbean+Dead+Man%27s+Chest+%282006%29+-+Clip+The+Kraken+-+34+%22PR+EXCLUSIVE%2C+DONT+USE%22" title="Video:Pirates of the Caribbean Dead Man&#39;s Chest (2006) - Clip The Kraken - 34 &quot;PR EXCLUSIVE, DONT USE&quot;" style="height:200px; width:200px;">Video:Pirates of the Caribbean Dead Man's Chest (2006) - Clip The Kraken - 34 "PR EXCLUSIVE, DONT USE"</a></div></div><div class="lightbox-caption" style="width:200px;">"The Kraken"</div></div></div><script>JSSnippetsStack.push({dependencies:[{"url":"http://slot1.images3.wikia.nocookie.net/__am/1424372360/group/-/wikia_photo_gallery_js","type":"js"},{"url":"http://slot1.images1.wikia.nocookie.net/__am/1424372360/sass/background-dynamic%3Dfalse%26background-image%3Dhttp%253A%252F%252Fstatic3.wikia.nocookie.net%252Fpirates%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D524%26background-image-width%3D262%26color-body%3D%2523000%26color-body-middle%3D%2523000%26color-buttons%3D%2523721410%26color-header%3D%2523850713%26color-links%3D%2523006cb0%26color-page%3D%2523aaaaaa%26page-opacity%3D100%26widthType%3D2/extensions/wikia/WikiaPhotoGallery/css/gallery.scss","type":"css"}],callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})</script>
+<h2><span class="mw-headline" id="Behind_the_Scenes">Behind the Scenes</span></h2>
+<h3><span class="mw-headline" id="Music">Music</span></h3>
+<dl><dd><div class="noprint"><i>Main article&#58; <a href="/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest_(soundtrack)" title="Pirates of the Caribbean: Dead Man&#39;s Chest (soundtrack)">Pirates of the Caribbean: Dead Man's Chest (soundtrack)</a></i></div>
+</dd></dl>
+<p>The film's score was composed by <a href="/wiki/Hans_Zimmer" title="Hans Zimmer">Hans Zimmer</a>, and built on established cues while introducing several new ones.
+</p>
+<h3><span class="mw-headline" id="Release">Release</span></h3>
+<figure class="article-thumb tright show-info-icon" style="width: 200px"> 	<a href="http://vignette1.wikia.nocookie.net/pirates/images/e/ef/Pirates_of_the_Caribbean-_Dead_Man%27s_Chest_Teaser_Poster.JPG/revision/latest?cb=20070108032701" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Pirates of the Caribbean- Dead Man&#39;s Chest Teaser Poster"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Pirates_of_the_Caribbean-_Dead_Man%27s_Chest_Teaser_Poster.JPG" 	data-image-name="Pirates of the Caribbean- Dead Man&#39;s Chest Teaser Poster.JPG" 	 data-src="http://vignette1.wikia.nocookie.net/pirates/images/e/ef/Pirates_of_the_Caribbean-_Dead_Man%27s_Chest_Teaser_Poster.JPG/revision/latest/scale-to-width/200?cb=20070108032701"  	 width="200"  	 height="296"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/pirates/images/e/ef/Pirates_of_the_Caribbean-_Dead_Man%27s_Chest_Teaser_Poster.JPG/revision/latest/scale-to-width/200?cb=20070108032701" 	 alt="Pirates of the Caribbean- Dead Man&#39;s Chest Teaser Poster"  	class="thumbimage " 	 	data-image-key="Pirates_of_the_Caribbean-_Dead_Man%27s_Chest_Teaser_Poster.JPG" 	data-image-name="Pirates of the Caribbean- Dead Man&#39;s Chest Teaser Poster.JPG" 	 	 width="200"  	 height="296"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Pirates_of_the_Caribbean-_Dead_Man%27s_Chest_Teaser_Poster.JPG" class="sprite info-icon"></a> 		 		 		 			<p class="caption"><i>Dead Man's Chest</i> teaser poster.</p> 		 	</figcaption> </figure>
+<h4><span class="mw-headline" id="Worldwide_release">Worldwide release</span></h4>
+<p>The film was released on <a href="/wiki/July_6" title="July 6" class="mw-redirect">July 6</a>, <a href="/wiki/2006" title="2006">2006</a> in the United Kingdom and Australia, and on <a href="/wiki/July_7" title="July 7" class="mw-redirect">July 7</a>, 2006 in the United States of America. In the US it was rated PG-13 for "Intense Sequences Of Adventure Violence, Including Frightening Images", and was rated 12A in the UK, as it "Contains moderate horror and action-adventure violence".
+</p>
+<h4><span class="mw-headline" id="Home_release">Home release</span></h4>
+<p>The film was released on DVD in the United States on <a href="/wiki/December_5" title="December 5" class="mw-redirect">December 5</a>, <a href="/wiki/2006" title="2006">2006</a>, with a European release later in the same month. A "Collector's Edition" with extra features was also released. The features of the DVD are as follows:
+</p><p><b>Disc 1:</b>
+</p>
+<ul><li><i>Pirates of the Caribbean: Dead Man's Chest</i>
+</li><li>Bonus Features
+<ul><li>Writers' Commentary by <a href="/wiki/Ted_Elliott" title="Ted Elliott">Ted Elliott</a> &amp; <a href="/wiki/Terry_Rossio" title="Terry Rossio">Terry Rossio</a>
+</li><li>Bloopers of the Caribbean
+</li></ul>
+</li></ul>
+<p><b>Disc 2:</b>
+</p>
+<ul><li>Charting the Return
+</li><li>According to Plan
+</li><li>Captain Jack: From Head to Toe
+</li><li>Mastering the Blade
+<ul><li>Orlando Bloom
+</li><li>Keira Knightley
+</li><li>Jack Davenport
+</li></ul>
+</li><li>Meet Davy Jones
+</li><li>Creating the Kraken
+</li><li>Dead Men Tell New Tales
+</li><li>Fly on the Set: The Bone Cage
+</li><li>Jerry Bruckheimer: A Producer's Photo Diary
+</li><li>Pirates on Main Street
+</li><li>Easter Eggs
+</li></ul>
+<h4><span class="mw-headline" id="Broadcasting_Rights">Broadcasting Rights</span></h4>
+<p>On <a href="/wiki/February_14" title="February 14" class="mw-redirect">February 14</a>, <a href="/wiki/2008" title="2008">2008</a>, USA Network bought the rights to broadcast the movies on television. <a rel="nofollow" class="external autonumber exitstitial" href="http://www.movieweb.com/tv/news/23/26623.php">[1]</a>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<ul><li>It appears that the last scene in the film, where Barbossa appears once again, it was explained in the DVD commentary that his appearance was kept secret from even the cast, as they were told that a old character from the previous film would appear instead of him. It was said that this was done to help with the speechless appearance of the cast, as even his lines werent told. Tia Dalma's last line was also never told to the cast, instead kept secret, to confuse the cast.
+</li><li>This film takes place a year after <i><a href="/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl" title="Pirates of the Caribbean: The Curse of the Black Pearl">The Curse of the Black Pearl</a></i>.<sup id="cite_ref-0" class="reference"><a href="#cite_note-0">[1]</a></sup>
+</li><li>According to some rumors, the first proposed title for the second movie was <i>Pirates of the Caribbean: Treasures of the Lost Abyss</i>. The supposed story revolved around Jack Sparrow's search for the treasure hidden on the <i>Abyss</i>, the first pirate ship in the Caribbean.
+</li><li>Three famous paintings were used as the basis for the <i>Dead Man's Chest</i> poster; "<i>Capture of Kent by Surcouf</i>" by <a href="http://en.wikipedia.org/wiki/Ambroise_Louis_Garneray" class="extiw exitstitial" title="wikipedia:Ambroise Louis Garneray">Ambroise Louis Garneray</a>, "<i>De Windstoot</i>" by <a href="http://en.wikipedia.org/wiki/Willem_van_de_Velde_the_Younger" class="extiw exitstitial" title="wikipedia:Willem van de Velde the Younger">Willem van de Velde the Younger</a>, and "<i>De Hollanders steken Engelse schepen in brand tijdens de tocht naar Chatham, 20 juni 1667</i>" by Jan van Leyden.
+</li><li>The scene where Elizabeth kisses Jack and then handcuffs him to the mast may have been inspired by the film <i>Hannibal</i>, in which Clarice Starling and Hannibal Lecter kiss, and Starling handcuffs Lecter's wrist to hers while he is distracted.
+</li><li>The DVD cover of <i>Dead Man's Chest</i> is currently the only cover to have the least amount of characters featured on it: <a href="/wiki/Johnny_Depp" title="Johnny Depp">Johnny Depp</a> (as Jack Sparrow), <a href="/wiki/Orlando_Bloom" title="Orlando Bloom">Orlando Bloom</a> (as Will Turner), and <a href="/wiki/Keira_Knightley" title="Keira Knightley">Keira Knightley</a> (as Elizabeth Swann). The other movies all have at least four characters included on the DVD cover.
+</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul><li><a rel="nofollow" class="external text exitstitial" href="http://disney.go.com/pirates/past-voyages/index.html#/movies_chest">Official Site</a>
+</li><li><a href="http://vignette1.wikia.nocookie.net/pirates/images/7/7c/WP_favicon.PNG/revision/latest?cb=20071007223241" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="WP favicon"  	class="lzy lzyPlcHld " 	 	data-image-key="WP_favicon.PNG" 	data-image-name="WP favicon.PNG" 	 data-src="http://vignette1.wikia.nocookie.net/pirates/images/7/7c/WP_favicon.PNG/revision/latest?cb=20071007223241"  	 width="18"  	 height="14"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/pirates/images/7/7c/WP_favicon.PNG/revision/latest?cb=20071007223241" 	 alt="WP favicon"  	class="" 	 	data-image-key="WP_favicon.PNG" 	data-image-name="WP favicon.PNG" 	 	 width="18"  	 height="14"  	 	 	 	></noscript></a> <a href="http://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest" class="extiw exitstitial" title="wikipedia:Pirates of the Caribbean: Dead Man&#39;s Chest"><i>Pirates of the Caribbean: Dead Man's Chest</i></a> on <a href="http://en.wikipedia.org/wiki/Main_Page" class="extiw exitstitial" title="wikipedia:Main Page">Wikipedia</a>
+</li><li><a href="http://vignette3.wikia.nocookie.net/pirates/images/e/ef/IMDb_favicon.png/revision/latest?cb=20071007222315" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="IMDb favicon"  	class="lzy lzyPlcHld " 	 	data-image-key="IMDb_favicon.png" 	data-image-name="IMDb favicon.png" 	 data-src="http://vignette3.wikia.nocookie.net/pirates/images/e/ef/IMDb_favicon.png/revision/latest?cb=20071007222315"  	 width="16"  	 height="16"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/pirates/images/e/ef/IMDb_favicon.png/revision/latest?cb=20071007222315" 	 alt="IMDb favicon"  	class="" 	 	data-image-key="IMDb_favicon.png" 	data-image-name="IMDb favicon.png" 	 	 width="16"  	 height="16"  	 	 	 	></noscript></a> <span class="plainlinks"><a rel="nofollow" class="external text exitstitial" href="http://www.imdb.com/title/tt0383574"><i>Pirates of the Caribbean: Dead Man's Chest</i></a> at the <a href="http://en.wikipedia.org/wiki/Internet_Movie_Database" class="extiw exitstitial" title="wikipedia:Internet Movie Database">Internet Movie Database</a></span>
+</li><li><a rel="nofollow" class="external text exitstitial" href="http://www.myspace.com/deadmanschest"><i>Pirates of the Caribbean: Dead Man's Chest</i></a> at <a href="http://en.wikipedia.org/wiki/MySpace" class="extiw exitstitial" title="wikipedia:MySpace">MySpace</a> (official)
+</li><li><a rel="nofollow" class="external text exitstitial" href="http://movies.yahoo.com/movie/1808556813/info">Pirates of the Caribbean: Dead Man's Chest</a> at <a rel="nofollow" class="external text exitstitial" href="http://movies.yahoo.com/">Yahoo! Movies</a>
+</li><li><a rel="nofollow" class="external text exitstitial" href="http://www.rottentomatoes.com/m/pirates_of_the_caribbean_dead_mans_chest/">Pirates of the Caribbean: Dead Man's Chest</a> at <a href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" class="extiw exitstitial" title="wikipedia:Rotten Tomatoes">Rotten Tomatoes</a>
+</li><li><a rel="nofollow" class="external text exitstitial" href="http://madeinatlantis.com/pirates/production/"><i>Pirates of the Caribbean: Dead Man's Chest</i> Full Production Notes</a>
+</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest_(comic)" title="Pirates of the Caribbean: Dead Man&#39;s Chest (comic)">Pirates of the Caribbean: Dead Man's Chest (comic)</a>
+</li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span></h2>
+<small><div class="references-small" style="-moz-column-count:1; column-count:1};">
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0">â</a> <span class="reference-text"><i><strong class="selflink">Dead Man's Chest</strong></i> takes place a year after <i><a href="/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl" title="Pirates of the Caribbean: The Curse of the Black Pearl">The Curse of the Black Pearl</a></i> as evidenced by Jack Sparrow's line about being captain of the Black Pearl for only "two years" before the mutiny, which was ten years before CotBP. Davy Jones confirms their deal occured thirteen years prior to DMC, leaving another year to account for the time between films.</span>
+</li></ol></div></small>
+<table class="toccolours noprint navbox hidable" cellpadding="0" cellspacing="0" style="clear:both; padding:0; margin:0 auto; width:auto; text-align:center; font-size:90%; line-height:1.5; background:transparent; border:0; margin-top:-4px;">
+<tr><td><table cellpadding="0" cellspacing="4" style="position:relative; top:+4px; background:transparent; padding:0; width:100%;">
+<tr><th><i><b><a href="/wiki/Pirates_of_the_Caribbean_(film_series)" title="Pirates of the Caribbean (film series)">Pirates of the Caribbean films</a></b></i></th></tr>
+</table></td></tr>
+<tr><td>
+<table class="hidable-content" cellpadding="4" cellspacing="4" style="background:transparent; padding:0; width:100%;">
+<tr>
+<td style="border:1px solid #CCCCFF; width:auto;"><div style="position:relative; width:50px; height:80px; overflow:hidden;"><div style="position:absolute; font-size:80px; overflow:hidden; line-height:80px; letter-spacing:50px;"><a href="/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl" title="Pirates of the Caribbean: The Curse of the Black Pearl"><span title="Pirates of the Caribbean: The Curse of the Black Pearl" style="text-decoration:none;">&#160; &#160;</span></a></div><a href="http://vignette1.wikia.nocookie.net/pirates/images/d/dd/Pirates_of_the_Caribbean-_The_Curse_of_the_Black_Pearl_Theatrical_Poster.JPG/revision/latest?cb=20110718064049" 	class="image image-thumbnail" 	 title="Pirates of the Caribbean: The Curse of the Black Pearl"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Pirates of the Caribbean- The Curse of the Black Pearl Theatrical Poster"  	class="lzy lzyPlcHld " 	 	data-image-key="Pirates_of_the_Caribbean-_The_Curse_of_the_Black_Pearl_Theatrical_Poster.JPG" 	data-image-name="Pirates of the Caribbean- The Curse of the Black Pearl Theatrical Poster.JPG" 	 data-src="http://vignette1.wikia.nocookie.net/pirates/images/d/dd/Pirates_of_the_Caribbean-_The_Curse_of_the_Black_Pearl_Theatrical_Poster.JPG/revision/latest/scale-to-width/50?cb=20110718064049"  	 width="50"  	 height="74"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/pirates/images/d/dd/Pirates_of_the_Caribbean-_The_Curse_of_the_Black_Pearl_Theatrical_Poster.JPG/revision/latest/scale-to-width/50?cb=20110718064049" 	 alt="Pirates of the Caribbean- The Curse of the Black Pearl Theatrical Poster"  	class="" 	 	data-image-key="Pirates_of_the_Caribbean-_The_Curse_of_the_Black_Pearl_Theatrical_Poster.JPG" 	data-image-name="Pirates of the Caribbean- The Curse of the Black Pearl Theatrical Poster.JPG" 	 	 width="50"  	 height="74"  	 	 	 	></noscript></a></div><div style="clear:both"></div><i><b><a href="/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl" title="Pirates of the Caribbean: The Curse of the Black Pearl">The Curse of the<br />Black Pearl</a></b></i></td>
+<td style="border:1px solid #CCCCFF; width:auto;"><div style="position:relative; width:50px; height:80px; overflow:hidden;"><div style="position:absolute; font-size:80px; overflow:hidden; line-height:80px; letter-spacing:50px;"><strong class="selflink"><span title="Pirates of the Caribbean: Dead Man&#39;s Chest" style="text-decoration:none;">&#160; &#160;</span></strong></div><a href="http://vignette4.wikia.nocookie.net/pirates/images/a/a0/PotC_DMC_poster_b.jpg/revision/latest?cb=20060706112954" 	class="image image-thumbnail" 	 title="Pirates of the Caribbean: Dead Man&amp;#039;s Chest"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="PotC DMC poster b"  	class="lzy lzyPlcHld " 	 	data-image-key="PotC_DMC_poster_b.jpg" 	data-image-name="PotC DMC poster b.jpg" 	 data-src="http://vignette4.wikia.nocookie.net/pirates/images/a/a0/PotC_DMC_poster_b.jpg/revision/latest/scale-to-width/50?cb=20060706112954"  	 width="50"  	 height="74"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/pirates/images/a/a0/PotC_DMC_poster_b.jpg/revision/latest/scale-to-width/50?cb=20060706112954" 	 alt="PotC DMC poster b"  	class="" 	 	data-image-key="PotC_DMC_poster_b.jpg" 	data-image-name="PotC DMC poster b.jpg" 	 	 width="50"  	 height="74"  	 	 	 	></noscript></a></div><div style="clear:both"></div><i><b><strong class="selflink">Dead Man's Chest</strong></b></i></td>
+<td style="border:1px solid #CCCCFF; width:auto;"><div style="position:relative; width:50px; height:80px; overflow:hidden;"><div style="position:absolute; font-size:80px; overflow:hidden; line-height:80px; letter-spacing:50px;"><a href="/wiki/Pirates_of_the_Caribbean:_At_World%27s_End" title="Pirates of the Caribbean: At World&#39;s End"><span title="Pirates of the Caribbean: At World&#39;s End" style="text-decoration:none;">&#160; &#160;</span></a></div><a href="http://vignette2.wikia.nocookie.net/pirates/images/9/9e/AWEIP.jpg/revision/latest?cb=20071021215419" 	class="image image-thumbnail" 	 title="Pirates of the Caribbean: At World&amp;#039;s End"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="AWEIP"  	class="lzy lzyPlcHld " 	 	data-image-key="AWEIP.jpg" 	data-image-name="AWEIP.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/pirates/images/9/9e/AWEIP.jpg/revision/latest/scale-to-width/50?cb=20071021215419"  	 width="50"  	 height="70"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/pirates/images/9/9e/AWEIP.jpg/revision/latest/scale-to-width/50?cb=20071021215419" 	 alt="AWEIP"  	class="" 	 	data-image-key="AWEIP.jpg" 	data-image-name="AWEIP.jpg" 	 	 width="50"  	 height="70"  	 	 	 	></noscript></a></div><div style="clear:both"></div><i><b><a href="/wiki/Pirates_of_the_Caribbean:_At_World%27s_End" title="Pirates of the Caribbean: At World&#39;s End">At World's End</a></b></i></td>
+<td style="border:1px solid #CCCCFF; width:auto;"><div style="position:relative; width:50px; height:80px; overflow:hidden;"><div style="position:absolute; font-size:80px; overflow:hidden; line-height:80px; letter-spacing:50px;"><a href="/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides" title="Pirates of the Caribbean: On Stranger Tides"><span title="Pirates of the Caribbean: On Stranger Tides" style="text-decoration:none;">&#160; &#160;</span></a></div><a href="http://vignette4.wikia.nocookie.net/pirates/images/a/a4/OST_PosterDVDCover.jpg/revision/latest?cb=20140110043320" 	class="image image-thumbnail" 	 title="Pirates of the Caribbean: On Stranger Tides"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="OST PosterDVDCover"  	class="lzy lzyPlcHld " 	 	data-image-key="OST_PosterDVDCover.jpg" 	data-image-name="OST PosterDVDCover.jpg" 	 data-src="http://vignette4.wikia.nocookie.net/pirates/images/a/a4/OST_PosterDVDCover.jpg/revision/latest/scale-to-width/50?cb=20140110043320"  	 width="50"  	 height="75"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/pirates/images/a/a4/OST_PosterDVDCover.jpg/revision/latest/scale-to-width/50?cb=20140110043320" 	 alt="OST PosterDVDCover"  	class="" 	 	data-image-key="OST_PosterDVDCover.jpg" 	data-image-name="OST PosterDVDCover.jpg" 	 	 width="50"  	 height="75"  	 	 	 	></noscript></a></div><div style="clear:both"></div><i><b><a href="/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides" title="Pirates of the Caribbean: On Stranger Tides">On Stranger Tides</a></b></i></td>
+</tr>
+</table></td></tr><tr><td><span class="hidable-button"></span></td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1279/300000
+Postâexpand include size: 28402/2097152 bytes
+Template argument size: 13920/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key pirates:pcache:idhash:62-0!*!0!!en!2!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://pirates.wikia.com/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest?oldid=139853">http://pirates.wikia.com/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest?oldid=139853</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Pirates of the Caribbean" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Pirates_of_the_Caribbean" title="Category:Pirates of the Caribbean">Pirates of the Caribbean</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Real-world films" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Real-world_films" title="Category:Real-world films">Real-world films</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				<nav class="WikiaArticleInterlang">
+	<h3>Languages: </h3>
+	<ul>
+			<li><a href="http://ru.pirates.wikia.com/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D1%82%D1%8B_%D0%9A%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%80%D1%8F:_%D0%A1%D1%83%D0%BD%D0%B4%D1%83%D0%BA_%D0%BC%D0%B5%D1%80%D1%82%D0%B2%D0%B5%D1%86%D0%B0">Ð ÑÑÑÐºÐ¸Ð¹</a></li>
+		</ul>
+</nav>
+
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+						<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+				
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write(
+            '<aside id="monetization-amazon_video-above_footer" class="monetization-module amazon-video hide-for-edit above-footer amazon-video-full"' +
+            'data-mon-type="amazon_video" data-mon-slot="above_footer">' +
+            '<div class="affiliate" data-mon-pid="B003V5JZC0" data-mon-ptag="pirates-pirates_of_the_-1668-62-B003V5JZC0-piv-fl-npr-af-f" ' +
+            'data-mon-pname="Pirates of the Caribbean: Curse of the Black Pearl"><div class="affiliate-header">' +
+            '<a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B003V5JZC0/ref=atv_feed_catalog?tag=wikia-monsvc-af-20&ascsubtag=pirates-pirates_of_the_-1668-62-B003V5JZC0-piv-fl-npr-af-f">' +
+            '<img  src="http://ecx.images-amazon.com/images/I/51lLTY6qovL._SX320_SY240_.jpg"></a></div>' +
+            '<a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B003V5JZC0/ref=atv_feed_catalog?tag=wikia-monsvc-af-20&ascsubtag=pirates-pirates_of_the_-1668-62-B003V5JZC0-piv-fl-npr-af-f">' +
+            '<div class="product-title">Pirates of the Caribbean: Curse of the Black Pearl</div>' +
+            '<div class="product-detail"></div>' +
+            '<div class="rating-bar"><div class="rating" style="width: 90.0%"></div></div></a>' +
+            '<div class="product-button non-prime">' +
+            '<a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B003V5JZC0/ref=atv_feed_catalog?tag=wikia-monsvc-af-20&ascsubtag=pirates-pirates_of_the_-1668-62-B003V5JZC0-piv-fl-npr-af-f"></a>' +
+            '<a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B003V5JZC0/ref=atv_feed_catalog?tag=wikia-monsvc-af-20&ascsubtag=pirates-pirates_of_the_-1668-62-B003V5JZC0-piv-fl-npr-af-f"></a>' +
+            '</div></div></aside>'
+        );
+    } else 
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write(
+        '<div id="monetization-adunit-above_footer" class="monetization-module adunit hide-for-edit above-footer" ' +
+        'data-mon-type="adunit" data-mon-slot="above_footer"><div class="ad-header">Advertisement</div><div>' +
+        '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">' +
+        '</scr' + 'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" ' +
+        'data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_af_bt_fsm_ffa mon_hub_movies mon_sl_af" ' +
+        'data-ad-type="text" ' + 'data-font-size="medium" ' +'data-font-face="arial" ' +
+        ' data-color-bg="#aaaaaa" data-color-border="#aaaaaa" data-color-link="#006cb0" data-color-url="#006cb0" data-color-text="#3a3a3a" ></ins>' +
+        '<script>(adsbygoogle = window.adsbygoogle || []).push({});</scr' + 'ipt></div></div>'
+    );
+}
+</script>				<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+					<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+					<div id="WikiaRail" class="WikiaRail">
+
+	<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+			<div class="loading"></div>
+	
+</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<!-- BEGIN SLOTNAME: LEFT_SKYSCRAPER_3 -->
+<div id="LEFT_SKYSCRAPER_3" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["LEFT_SKYSCRAPER_3"]);
+</script>
+</div>
+<!-- END SLOTNAME: LEFT_SKYSCRAPER_3 -->
+	
+			<section>
+	<div class="header-container">
+		<h1>Around Wikia's network</h1>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/1668" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer row">
+	<nav>
+		<div class="branding vertical-movies black">
+			<a class="wikia-logo" href="http://movieshub.wikia.com/wiki/Movies_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>Movies</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["GPT_FLUSH"]);
+</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: INVISIBLE_1 -->
+<div id="INVISIBLE_1" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_1"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_1 -->
+<!-- BEGIN SLOTNAME: INVISIBLE_2 -->
+<div id="INVISIBLE_2" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_2"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_2 -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"pirates","kv_article_id":62,"kv_wpage":"Pirates_of_the_Caribbean:_Dead_Man%27s_Chest","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"age=teen;egnre=action;egnre=adventure;egnre=family;egnre=fantasy;esrb=teen;gnre=adventure;gnre=rpg;media=movie;pform=pc;egnre=pirates","kv_domain":"pirates.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://pirates.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis%26ve%3D1/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pirates_of_the_Caribbean:_Dead_Man\'s_Chest","wgTitle":"Pirates of the Caribbean: Dead Man\'s Chest","wgCurRevisionId":139853,"wgArticleId":62,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pirates of the Caribbean","Real-world films"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Pirates_of_the_Caribbean:_Dead_Man\'s_Chest","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"false","background-image":"http://static3.wikia.nocookie.net/pirates/images/5/50/Wiki-background","background-image-height":"524","background-image-width":"262","color-body":"#000","color-body-middle":"#000","color-buttons":"#721410","color-header":"#850713","color-links":"#006cb0","color-page":"#aaaaaa","page-opacity":"100","widthType":2},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Main Page","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1424388494/common","wgSitename":"PotC Wiki","wgMWrevId":false,"wgRevisionId":139853,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Pirates_of_the_Caribbean:_Dead_Man%27s_Chest","fbReturnToTitle":"Pirates_of_the_Caribbean:_Dead_Man\'s_Chest","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"http://slot1.images.wikia.nocookie.net/__cb1424388494/common/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":true,"interactiveMapsApiURL":"http://maps.wikia-services.com:80/api/v1","VignettePathPrefix":null,"reCaptchaPublicKey":"6LdWvwETAAAAACS_0luypJPV7aiQkpLzoZN26YAf","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":true,"verticalName":"Entertainment","WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Pirates of the Caribbean: Dead Man\'s Chest"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"enablerichtext":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"founderemails-joins-1668":0,"founderemails-edits-1668":0,"founderemails-views-digest-1668":0,"founderemails-complete-digest-1668":0,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,
+"searchNs500":false,"searchNs501":false,"searchNs502":false,"searchNs503":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: pirates:resourceloader:filter:minify-js:7:224e6cf2a47c800b6268be83a6456fd1 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikiaViewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.wikiaInYourLang"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1424388494/groups/-/oasis_shared_core_js,adengine2_js,adengine2_late_js,oasis_shared_js,oasis_anon_with_new_global_nav_js,liftium_ads_js,liftium_ads_extra_js,adengine2_oasis_ads_js,adengine2_interactive_maps_js,toc_js,qualaroo_js,wikia_maps_contribution_button_create_map_js,global_footer_js,spotlights_js,relatedpages_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CImagePlaceholder%2COasis-generic&amp;uselang=en&amp;cb=1424388494.0.76268"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1424388494/group/-/monetization_module_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1424388494/group/-/global_navigation_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://pirates.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://pirates.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/site"></script>
+<script type='text/javascript'>
+var agllGroup = "Entertainment";
+!function(){
+var a=document.createElement("script");a.type="text/javascript";a.async=!0;var b=["http://a98dc034c7781a941eba-bac02262202668bbe918ea9fb5289cd2.r58.cf2.rackcdn.com","https://52e473ee9859b886964f-bac02262202668bbe918ea9fb5289cd2.ssl.cf2.rackcdn.com"];a.src=("https:"==document.location.protocol?b[1]:b[0])+"/c59hk50tip94.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(a,c)
+}();</script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationHubsMenu.scss","extensions\/wikia\/UserLogin\/css\/UserLoginDropdown.globalNavigation.scss","extensions\/wikia\/WallNotifications\/styles\/WallNotifications.globalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationOasis.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearchOasis.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

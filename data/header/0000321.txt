@@ -1,0 +1,13 @@
+Cache-Control: public, max-age=86400
+Last-Modified: Fri, 20 Feb 2015 13:55:33 +0000
+Expires: Sun, 11 Mar 1984 12:00:00 GMT
+Vary: Cookie,Accept-Encoding
+ETag: "1424440533"
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Date: Sat, 21 Feb 2015 00:41:31 GMT
+Connection: close
+X-Age: 38749
+X-Cache: HIT
+X-Cache-Hits: 89
+

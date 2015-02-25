@@ -1,0 +1,12 @@
+Server: Apache/2.2
+Vary: Accept-Encoding,Cookie
+Cache-Control: max-age=3, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 20 Feb 2015 19:22:18 GMT
+Expires: Fri, 20 Feb 2015 19:22:21 GMT
+Accept-Ranges: bytes
+Connection: close
+Set-Cookie: X-Mapping-dennbkok=587DA9E183450B576936018D360319B9; path=/
+Last-Modified: Thu, 19 Feb 2015 15:19:34 GMT
+Content-Length: 20387
+

@@ -1,0 +1,17 @@
+Vary: Accept-Encoding, Accept-Encoding, Cookie
+Server: LiteSpeed
+ETag: "9ace-54e7c314-0"
+Last-Modified: Fri, 20 Feb 2015 23:28:20 GMT
+Content-Type: text/html; charset=UTF-8
+X-Pingback: http://screenrant.com/xmlrpc.php
+Pragma: public
+Cache-Control: public, public, max-age=300
+Expires: Sat, 21 Feb 2015 00:08:09 GMT
+Transfer-Encoding: chunked
+Date: Sat, 21 Feb 2015 00:08:04 GMT
+X-Varnish: 838173371 838117921
+Age: 295
+Via: 1.1 varnish
+Connection: close
+X-Cache: HIT
+

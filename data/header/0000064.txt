@@ -1,0 +1,14 @@
+Server: nginx/0.8.46
+Content-Type: attach
+Connection: close
+X-Powered-By: PHP/5.2.14
+Set-Cookie: 8aWX_183e_saltkey=m1zyeUNB; expires=Sun, 22-Mar-2015 19:28:16 GMT; path=/; domain=.sciencenet.cn; httponly
+Set-Cookie: 8aWX_183e_lastvisit=1424456896; expires=Sun, 22-Mar-2015 19:28:16 GMT; path=/; domain=.sciencenet.cn
+Set-Cookie: 8aWX_183e_sid=KWMWKU; expires=Sat, 21-Feb-2015 19:28:16 GMT; path=/; domain=.sciencenet.cn
+Set-Cookie: 8aWX_183e_lastact=1424460496%09home.php%09attachment; expires=Sat, 21-Feb-2015 19:28:16 GMT; path=/; domain=.sciencenet.cn
+Date: Tue, 07 Oct 2014 06:36:37 GMT
+Last-Modified: Tue, 07 Oct 2014 06:36:37 GMT
+Content-Encoding: none
+Content-Disposition: attachment; filename="CatcherInTheRye.pdf"
+Content-Length: 555295
+

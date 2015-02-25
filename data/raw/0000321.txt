@@ -1,0 +1,2027 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var o=e[t]={exports:{}};n[t][0].call(o.exports,function(e){var o=n[t][1][e];return r(o?o:e)},o,o.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(n,e){function t(n){function e(e,t,a){n&&n(e,t,a),a||(a={});for(var u=c(e),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(n,e){f[n]=c(n).concat(e)}function c(n){return f[n]||[]}function u(){return t(e)}var f={};return{on:a,emit:e,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");e.exports=t()},{gos:"7eSDFh"}],ee:[function(n,e){e.exports=n("QJf3ax")},{}],3:[function(n,e){function t(n){return function(){r(n,[(new Date).getTime()].concat(i(arguments)))}}var r=n("handle"),o=n(1),i=n(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","trackUserAction","finished","traceEvent","inlineHit","noticeError"];o(a,function(n,e){window.NREUM[e]=t("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(n,e){e.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,e){function t(n,e,t){if(r.call(n,e))return n[e];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],D5DuLP:[function(n,e){function t(n,e,t){return r.listeners(n).length?r.emit(n,e,t):(o[n]||(o[n]=[]),void o[n].push(e))}var r=n("ee").create(),o={};e.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,e){e.exports=n("D5DuLP")},{}],XL7HBI:[function(n,e){function t(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");e.exports=t},{gos:"7eSDFh"}],id:[function(n,e){e.exports=n("XL7HBI")},{}],G9z0Bl:[function(n,e){function t(){var n=v.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(d,function(e,t){e in n||(n[e]=t)}),v.proto="https"===l.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=v.proto+n.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=(n(2),window),f=u.document,s="addEventListener",p="attachEvent",l=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-536.min.js"},v=e.exports={offset:i(),origin:l,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",t,!1)):(f[p]("onreadystatechange",r),u[p]("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(n,e){e.exports=n("G9z0Bl")},{}],12:[function(n,e){function t(n,e){var t=[],o="",i=0;for(o in n)r.call(n,o)&&(t[i]=e(o,n[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],13:[function(n,e){function t(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,o=t-e||0,i=Array(0>o?0:o);++r<o;)i[r]=n[e+r];return i}e.exports=t},{}]},{},["G9z0Bl"]);</script>  
+  
+
+  
+<title>The 50 Greatest Led Zeppelin Songs | Guitar World</title>
+  
+
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="artist news, lessons, gear reviews, album news, videos, photo galleries, solo transcriptions" />
+<meta name="description" content="From âDazed and Confusedâ to âYou Shook Meâ â¦ from âTangerineâ to âThe Lemon Songâ â¦ from âTrampled Under Footâ to âStairway to Heavenâ â¦ Guitar ..." />
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<link rel="shortcut icon" href="/sites/guitarworld.com/themes/omega_guitarworld/img/gw_favicon.png" type="image/x-icon" />
+  <meta name="robots" content="noodp"> 
+  <meta name="google-site-verification" content="xA5ctWWnEJR0MisYsNs38nsyNk4ajdr2J4krmtZ8CLc" />
+  
+<link type="text/css" rel="stylesheet" media="all" href="/files/css/css_287665b2b2b945908215b46fc68e4c78.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/files/css/css_299d59efee8f3eb19dd3a15a314eb64d.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/files/css/css_310ed93c21bca9ea4299c626133503c0.css" />
+<!--[if IE 7.0]>
+<link href="/sites/guitarworld.com/themes/omega_guitarworld/css/style.ie7.css"
+  media="Screen,print" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 8.0]>
+<link href="/sites/guitarworld.com/themes/omega_guitarworld/css/style.ie8.css"
+  media="Screen,print" rel="stylesheet" type="text/css" />
+<![endif]-->
+  <script type="text/javascript" src="/sites/all/modules/jquery_update/replace/jquery.min.js?w"></script>
+<script type="text/javascript" src="/misc/drupal.js?w"></script>
+<script type="text/javascript" src="/sites/all/modules/fbconnect/fbconnect.js?w"></script>
+<script type="text/javascript" src="/sites/all/modules/future_interstitial/future_interstitial.js?w"></script>
+<script type="text/javascript" src="/sites/all/libraries/jquery.cookie/jquery.cookie.js?w"></script>
+<script type="text/javascript" src="/sites/all/modules/mollom/mollom.js?w"></script>
+<script type="text/javascript" src="/sites/all/modules/thickbox/thickbox_login.js?w"></script>
+<script type="text/javascript" src="/sites/all/modules/thickbox/thickbox.js?w"></script>
+<script type="text/javascript" src="/misc/collapse.js?w"></script>
+<script type="text/javascript" src="/video/js/combined.js?w"></script>
+<script type="text/javascript" src="/sites/all/modules/views/js/base.js?w"></script>
+<script type="text/javascript" src="/sites/all/modules/views/js/ajax_view.js?w"></script>
+<script type="text/javascript" src="/sites/all/modules/future_navigation/jquery.columnizelist.js?w"></script>
+<script type="text/javascript" src="/sites/all/modules/dart/dart.js?w"></script>
+<script type="text/javascript" src="/sites/guitarworld.com/themes/omega_guitarworld/js/omega.js?w"></script>
+<script type="text/javascript" src="/sites/guitarworld.com/themes/omega_guitarworld/js/menu-pulldown.js?w"></script>
+<script type="text/javascript" src="/sites/guitarworld.com/themes/omega_guitarworld/js/omega_thickbox_login.js?w"></script>
+<script type="text/javascript" src="/sites/guitarworld.com/themes/omega_guitarworld/js/gw_featured_content.js?w"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","fbconnect":{"user_pictures":"allow","language_code":"","app_id":"188272271194505","debug":0,"connect_js":"document.location.protocol + '\/\/connect.facebook.net\/\/all.js'","loginout_mode":"manual","invite_name":"Guitar World","fast_reg_mode":0,"fast_reg_autoname":1,"fbuid":null,"user":{"uid":0,"fbuid":null}},"future":{"googleanalytics_account":"UA-6661635-1","future_interstitial_config":{"future_interstitial_cap":"2","future_interstitial_offset":"0","future_interstitial_frequency":"3"}},"thickbox":{"close":"Close","next":"Next \u003e","prev":"\u003c Prev","esc_key":"or Esc Key","next_close":"Next \/ Close on last","image_count":"Image !current of !total"},"sidebar_connect_image_facebook":{"src_def":"\/sites\/guitarworld.com\/themes\/omega_guitarworld\/img\/connect_facebook.png","src_over":"\/sites\/guitarworld.com\/themes\/omega_guitarworld\/img\/connect_facebook_over.png","conn":"facebook"},"sidebar_connect_image_twitter":{"src_def":"\/sites\/guitarworld.com\/themes\/omega_guitarworld\/img\/connect_twitter.png","src_over":"\/sites\/guitarworld.com\/themes\/omega_guitarworld\/img\/connect_twitter_over.png","conn":"twitter"},"sidebar_connect_image_podcast":{"src_def":"\/sites\/guitarworld.com\/themes\/omega_guitarworld\/img\/connect_podcast.png","src_over":"\/sites\/guitarworld.com\/themes\/omega_guitarworld\/img\/connect_podcast_over.png","conn":"podcast"},"sidebar_connect_image_rss":{"src_def":"\/sites\/guitarworld.com\/themes\/omega_guitarworld\/img\/connect_rss.png","src_over":"\/sites\/guitarworld.com\/themes\/omega_guitarworld\/img\/connect_rss_over.png","conn":"rss"},"sidebar_connect_image_iphone":{"src_def":"\/sites\/guitarworld.com\/themes\/omega_guitarworld\/img\/connect_iphone.png","src_over":"\/sites\/guitarworld.com\/themes\/omega_guitarworld\/img\/connect_iphone_over.png","conn":"iphone"},"sidebar_connect_image_email":{"src_def":"\/sites\/guitarworld.com\/themes\/omega_guitarworld\/img\/connect_email.png","src_over":"\/sites\/guitarworld.com\/themes\/omega_guitarworld\/img\/connect_email_over.png","conn":"email"},"sidebar_connect_image_googleplus":{"src_def":"\/sites\/guitarworld.com\/themes\/omega_guitarworld\/img\/connect_googleplus.png","src_over":"\/sites\/guitarworld.com\/themes\/omega_guitarworld\/img\/connect_googleplus_over.png","conn":"googleplus"},"gallerytitle-field_gallery_images-17825":{"gallery_title":""},"views":{"ajax_path":"\/views\/ajax","ajaxViews":[{"view_name":"tweets","view_display_id":"block","view_args":"","view_path":"node\/17825","view_base_path":"tweets","view_dom_id":2,"pager_element":1}]},"pulldownimage":{"nid-17397":{"title":"In Deep: Breaking Down the Signature Elements of Gary Moore\u0026#039;s Immediately Identifiable Guitar Style","alt":"In Deep: Breaking Down the Signature Elements of Gary Moore\u0026#039;s Immediately Identifiable Guitar Style","src":"\/files\/imagecache\/featured_content\/Screen Shot 2014-02-06 at 10.39.07 AM.png","link":"\/deep-gary-moore"},"nid-16556":{"title":"In Deep with Early Blues Masters John Lee Hooker and Lightnin\u0026#039; Hopkins \u2014 Video","alt":"In Deep with Early Blues Masters John Lee Hooker and Lightnin\u0026#039; Hopkins \u2014 Video","src":"\/files\/imagecache\/featured_content\/Screen Shot 2015-02-04 at 11.19.35 AM.png","link":"\/deep-john-lee-hooker-and-lightnin-hopkins"},"nid-16961":{"title":"The Guitarist\u0026#039;s Guide to Playing Bass: 20 Guidelines to Help You Think and Play Like a Real Bass Guitarist","alt":"The Guitarist\u0026#039;s Guide to Playing Bass: 20 Guidelines to Help You Think and Play Like a Real Bass Guitarist","src":"\/files\/imagecache\/featured_content\/guidetobass.jpg","link":"\/guitarists-guide-playing-bass"},"nid-23314":{"title":"Guitar World at the 2015 Winter NAMM Show: It\u0026#039;s That Time of Gear","alt":"Guitar World at the 2015 Winter NAMM Show: It\u0026#039;s That Time of Gear","src":"\/files\/imagecache\/featured_content\/NAMM Convention Center 2014_1.JPG","link":"\/guitar-world-2015-winter-namm-show-0"},"nid-23173":{"title":"Guitar World Staff Picks: Paul Riario\u0026#039;s 2014 Holiday Gear Wish List","alt":"Guitar World Staff Picks: Paul Riario\u0026#039;s 2014 Holiday Gear Wish List","src":"\/files\/imagecache\/featured_content\/Screen Shot 2014-12-23 at 11.23.18 AM_0.png","link":"\/guitar-world-staff-picks-paul-riarios-2014-holiday-gear-wish-list"},"nid-21835":{"title":"Practice Made Perfect: Guitar World Rounds Up 17 Amazing Practice Amps","alt":"Practice Made Perfect: Guitar World Rounds Up 17 Amazing Practice Amps","src":"\/files\/imagecache\/featured_content\/Screen Shot 2014-10-07 at 12.06.59 PM.png","link":"\/practice-makes-perfect-five-amazing-practice-amps"}},"pageinfo":"destination=node%2F17825"});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+  stLight.options({
+    publisher: "31293ca8-58ad-4af3-86da-140e4599194f",
+    onhover: false,
+  });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+Drupal.DART.dart_url = "http:\/\/ad.doubleclick.net";
+Drupal.DART.tile = "0";
+Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
+//--><!]]>
+</script>
+
+
+<!--ContentUnlock Tag // Environment - Prod // Website: guitarworld -->
+<script type="text/javascript" src="http://cu.genesismedia.com/pub/guitarworld/config/cuconfig.js"></script>
+<!-- End of ContentUnlock Tags --> 
+
+
+
+<!-- Start removing hash Segment /Prashant Mishra -->
+<script> stLight.options({publisher: '31293ca8-58ad-4af3-86da-140e4599194f', doNotHash: true});</script>
+<!-- End removing hash Segment -->
+
+
+<!-- GA music group tag Andy 3/12/2013 -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1208129-62']);
+  _gaq.push(['_setDomainName', 'guitarworld.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- GA music group tag end -->
+<script type="text/javascript">
+jQuery(document).ready(function(){
+ jQuery('.menu-1123 a.pulldown-main').mouseenter(function(){
+jQuery('.menu-1123 .menu-pulldown .views-row-1 a img').attr('src', 'http://www.guitarworld.com/sites/guitarworld.com/themes/omega_guitarworld/img/AN_Featured-Image.jpg');
+jQuery('.menu-1123 .menu-pulldown .views-row-1 a').attr('href', '/acoustic-nation');
+jQuery('.menu-1123 .menu-pulldown .views-row-1 a img').attr('title', 'Acoustic Nation');
+
+});
+
+ jQuery('.menu-1118 a.pulldown-main').mouseenter(function(){
+jQuery('.menu-1118 .menu-pulldown .views-row-1 a img').attr('src', 'http://www.guitarworld.com/sites/guitarworld.com/themes/omega_guitarworld/img/AN_Featured-Image.jpg');
+jQuery('.menu-1118 .menu-pulldown .views-row-1 a').attr('href', '/acoustic-nation');
+jQuery('.menu-1118 .menu-pulldown .views-row-1 a img').attr('title', 'Acoustic Nation');
+});
+});
+</script>
+
+
+
+  <script type="text/javascript" src="http://cdn.onswipe.com/synapse/on.js?usr=guitarworld" id="onswipe_synapse"></script>
+  <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> 
+
+
+
+
+<div class="block block-future_dart" style="margin-bottom: 10px;">
+<style type="text/css">
+img[src*="empty.gif"] {
+    height:0px !important;
+}
+</style>
+<!------ OAS SETUP begin ------>
+<script language="JavaScript">
+<!--
+//configuration
+OAS_url = 'http://oasc08011.247realmedia.com/RealMedia/ads/';
+OAS_sitepage = 'www.guitarworld.com';
+OAS_listpos="Top,Bottom,Position2,Position3,Position1,x96,x93,x07";
+//Position1 = top right
+//Position2 = lower right
+var url = window.location.href;
+//var str="Visit W3Schools!";
+var n=url.search("acoustic-nation-");
+//document.write(n);
+ 
+var n1 = url.search("martinan");
+var n2 = url.search("acoustic-nation");
+
+ var y=url.split("/");
+ var str  =  y[3]+"/"+y[4];
+ var val =  y[3].split("-");
+
+ var value =  val[0]+"-"+val[1];
+//document.write(value);
+ 
+//var string   =  url.split("?");
+//document.write(string[1]);
+//var  string11111 = string[1].split("=");
+ var st =  url.search("page");
+ //document.write(n);
+
+if(url == "http://www.guitarworld.com/acoustic-nation"){
+  OAS_query="acoustic-homepage";
+  //document.write(OAS_query);
+}
+
+else if(url.indexOf("guitarworld.com/gear") != -1){
+  OAS_query="gear";
+}
+
+else if(url== "http://www.guitarworld.com/acoustic-nation/sponsor"){
+	
+   OAS_query="sponsored";
+}
+
+else if(url == "http://www.guitarworld.com/"){
+//  document.write("tt");
+  OAS_query = "homepage";
+ }
+ 
+else if(url == "http://www.guitarworld.com/acoustic-nation"){
+//  document.write("tt");
+  OAS_query = "acoustic-homepage";
+ }
+
+else if(url.indexOf("greatest-rock-singers-all-time-readers-poll-round-1-ronnie-james-dio-dio-rainbow-black-sabbath-vs-jim-morrison-doors") != -1){
+	
+   OAS_query="black-sabbath-vs-jim-morrison-doors";
+}
+
+else if(url.indexOf("guitarworld.com/acoustic-nation/gear") != -1){
+	
+   OAS_query="acoustic-nation";
+}
+
+else if(url.indexOf("greatest-rock-singers-all-time-readers-poll-round-1-ozzy-osbourne-black-sabbath-vs-kurt-cobain-nirvana") != -1){
+	
+   OAS_query="black-sabbath-vs-kurt-cobain-nirvana";
+}
+
+else if(url.indexOf("greatest-rock-singers-all-time-readers-poll-round-1-mick-jagger-rolling-stones-vs-axl-rose-guns-n-roses") != -1){
+	
+   OAS_query="mick-jagger-rolling-stones-vs-axl-rose-guns-n-roses";
+}
+
+else if(url.indexOf("greatest-rock-singers-all-time-readers-poll-round-1-james-hetfield-metallica-vs-maynard-james-keenan-tool") != -1){
+	
+   OAS_query="ames-hetfield-metallica-vs-maynard-james-keenan-tool";
+}
+
+else if(url.indexOf("greatest-rock-singers-all-time-readers-poll-round-1-phil-anselmo-pantera-down-vs-freddie-mercury-queen") != -1){
+	
+   OAS_query="phil-anselmo-pantera-down-vs-freddie-mercury-queen";
+}
+
+else if(url.indexOf("greatest-rock-singers-all-time-readers-poll-round-1-chris-cornell-soundgarden-vs-randy-blythe-lamb-god") != -1){
+	
+   OAS_query="chris-cornell-soundgarden-vs-randy-blythe-lamb-god";
+}
+
+else if(url.indexOf("30-most-badass-guitarists-all-time") != -1){
+	
+   OAS_query="most-badass";
+}
+
+else if(url.indexOf("greatest-rock-singers-all-time-readers-poll-elite-eight-james-hetfield-metallica-vs-robert-plant-led-zeppelin") != -1){
+	
+   OAS_query="james-hetfield-metallica-vs-robert-plant-led-zeppelin";
+}
+
+else if(url.indexOf("greatest-rock-singers-all-time-readers-poll-elite-eight-mick-jagger-rolling-stones-vs-bruce-dickinson-iron-maiden") != -1){
+	
+   OAS_query="mick-jagger-rolling-stones-vs-bruce-dickinson-iron-maiden";
+}
+
+else if(url.indexOf("listen-music-top-five-doobie-brothers-guitar-parts") != -1){
+	
+   OAS_query="listen-music-top-five-doobie-brothers-guitar-parts";
+}
+
+else if(url.indexOf("greatest-rock-singers-all-time-readers-poll-elite-eight-freddie-mercury-queen-vs-ronnie-james-dio-dio-rainbow-black-sabbath") != -1){
+	
+   OAS_query="freddie-mercury-queen-vs-ronnie-james-dio";
+}
+
+else if(url.indexOf("greatest-rock-singers-all-time-readers-poll-elite-eight-ozzy-osbourne-black-sabbath-vs-chris-cornell-soundgarden") != -1){
+	
+   OAS_query="soundgarden";
+}
+
+else if(url.indexOf("greatest-rock-singers-all-time-readers-poll-final-four-robert-plant-led-zeppelin-vs-bruce-dickinson-iron-maiden") != -1){
+	
+   OAS_query="bruce-dickinson-iron-maiden";
+}
+
+else if(url.indexOf("greatest-rock-singers-all-time-readers-poll-final-four-freddie-mercury-queen-vs-chris-cornell-soundgarden") != -1){
+	
+   OAS_query="freddie-mercury-vs-chris-cornell";
+}
+
+else if(url.indexOf("greatest-rock-singers-all-time-readers-poll-ultimate-showdown-robert-plant-led-zeppelin-vs-chris-cornell-soundgarden") != -1){
+	
+   OAS_query="final-singer-poll";
+}
+
+else if(url.indexOf("guitar-world-readers-vote-soundgardens-chris-cornell-greatest-rock-singer-all-time") != -1){
+	
+   OAS_query="chris-cornell-winner";
+}
+
+else if(url.indexOf("essential-listening-10-best-guitar-tones-of-all-time") != -1){
+	
+   OAS_query="tones-all-2014";
+}
+
+else if(url.indexOf("top-10-guitar-playing-frontmen") != -1){
+	
+   OAS_query="frontmen";
+}
+
+else if(url.indexOf("top-10-guitar-songs-played-capo") != -1){
+	
+   OAS_query="played-capo";
+}
+
+else if(url.indexOf("10-things-you-didnt-know-about-black-sabbath") != -1){
+	
+   OAS_query="10blacksabbath";
+}
+
+else if(url.indexOf("roast-day") != -1){
+	
+   OAS_query="roast";
+}
+
+else if(url.indexOf("top-10-guitar-songs-played-capo") != -1){
+	
+   OAS_query="songs-played-capo";
+}
+
+else if(url.indexOf("black-sabbath-fan-filmed-footage-hyde-park-show-video") != -1){
+	
+   OAS_query="park-show-video";
+}
+
+else if(url.indexOf("practice-makes-perfect-five-amazing-practice-amps") != -1){
+	
+   OAS_query="practice-amps";
+}
+
+else if(url.indexOf("how-change-speaker-guitar-amp-video") != -1){
+	
+   OAS_query="amp-video";
+}
+
+else if(url.indexOf("jethro-tulls-10-greatest-guitar-moments") != -1){
+	
+   OAS_query="jethro-tulls";
+}
+
+else if(url.indexOf("top-10-albums-headphone-listening") != -1){
+	
+   OAS_query="headphone";
+}
+
+else if(url.indexOf("greatest-live-band-all-time-readers-poll-round-1-matchup-1-vs") != -1){
+	
+   OAS_query="matchup-1";
+}
+
+else if(url.indexOf("greatest-live-band-all-time-readers-poll-round-1-matchup-2-vs") != -1){
+	
+   OAS_query="matchup-2";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-1-van-halen-vs-nine-inch-nails") != -1){
+	
+   OAS_query="nine-inch";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-1-slipknot-vs-kiss") != -1){
+	
+   OAS_query="slipknot-vs-kiss";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-1-rush-vs-korn") != -1){
+	
+   OAS_query="rush-vs-korn";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-1-iron-maiden-vs-aerosmith") != -1){
+	
+   OAS_query="maiden-vs-aerosmith";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-1-paul-mccartney-vs-eagles") != -1){
+	
+   OAS_query="mccartney-vs-eagles";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-1-soundgarden-vs-zz-top") != -1){
+	
+   OAS_query="soundgarden-vs-top";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-1-foo-fighters-vs-allman-brothers-band") != -1){
+	
+   OAS_query="brothers-band";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-1-guns-n-roses-vs-pearl-jam") != -1){
+	
+   OAS_query="pearl-jam";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-1-tool-vs-phish") != -1){
+	
+   OAS_query="tool-vs-phish";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-1-u2-vs-black-sabbath") != -1){
+	
+   OAS_query="u2-vs-black-sabbath";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-1-dillinger-escape-plan-vs-alice-cooper") != -1){
+	
+   OAS_query="dillinger-escape-plan-vs-alice-cooper";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-1-rammstein-vs-radiohead") != -1){
+	
+   OAS_query="rammstein-vs-radiohead";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-1-queen-vs-red-hot-chili-peppers") != -1){
+	
+   OAS_query="queen-vs-red-hot-chili-peppers";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-1-muse-vs-jack-white-0") != -1){
+	
+   OAS_query="muse-vs-jack-white-0";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-2-metallica-vs-allman-brothers-band") != -1){
+	
+   OAS_query="metallica-vs-allman";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-2-black-sabbath-vs-paul-mccartney") != -1){
+	
+   OAS_query="black-sabbath-vs-paul-mccartney";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-2-slipknot-vs-rammstein") != -1){
+	
+   OAS_query="slipknot-vs-rammstein";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-2-phish-vs-van-halen") != -1){
+	
+   OAS_query="phish-vs-van-halen";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-2-alice-cooper-vs-acdc") != -1){
+	
+   OAS_query="alice-cooper-vs-acdc";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-2-guns-n-roses-vs-iron-maiden") != -1){
+	
+   OAS_query="guns-n-roses-vs-iron-maiden";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-2-rush-vs-muse") != -1){
+	
+   OAS_query="rush-vs-muse";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-2-zz-top-vs-queen") != -1){
+	
+   OAS_query="top-vs-queen";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-2-black-sabbath-vs-rush") != -1){
+	
+   OAS_query="black-sabbath-vs-rush";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-2-allman-brothers-band-vs-rammstein") != -1){
+	
+   OAS_query="allman-brothers-band-vs-rammstein";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-2-acdc-vs-iron-maiden") != -1){
+	
+   OAS_query="acdc-vs-iron-maiden";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-3-van-halen-vs-queen") != -1){
+	
+   OAS_query="halen-vs-queen";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-4-allman-brothers-band-vs-acdc-or-iron-maiden") != -1){
+	
+   OAS_query="acdc-or-iron-maiden";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-round-4-rush-vs-queen-or-van-halen") != -1){
+	
+   OAS_query="queen-or-van-halen";
+}
+
+else if(url.indexOf("guitar-worlds-battle-greatest-live-bands-final-showdown-allman-brothers-band-or-acdc-vs-queen") != -1){
+	
+   OAS_query="acdc-vs-queen";
+}
+
+else if(url.indexOf("acoustic-nation-and-players-pick-goes") != -1){
+	
+   OAS_query="players-pick-goes";
+}
+
+else if(url.indexOf("how-adjust-your-guitars-truss-rod-video") != -1){
+	
+   OAS_query="truss-rod-video";
+}
+ 
+else if(url.indexOf("gear-review-power-pins-bridge-pins-acoustic-guitars") != -1){
+	
+   OAS_query="pins-acoustic-guitars";
+}
+
+else if(url.indexOf("rocksmith-2014-edition-now-available-xbox-and-playstation-4-now-jimi-hendrix-songs-video") != -1){
+	
+   OAS_query="playstation";
+}
+
+else if(url.indexOf("five-musical-moments-made-magnificent-headphones") != -1){
+	
+   OAS_query="five-musical";
+}
+else if(url.indexOf("enter-sweetwater-4400-giveaway-one-two-shure-recording-packages") != -1){
+	
+   OAS_query="recording-packages";
+}
+
+else if(url.indexOf("news") != -1){
+	
+   OAS_query="news";
+}
+
+else if(n!= -1){
+	
+   OAS_query="acoustic-nation";
+  // document.write(OAS_query);
+}
+else if(n1!=-1)
+
+{
+  OAS_query="sponsored";
+ 
+}
+else if(n2!=-1)
+
+{
+  OAS_query="sponsored";
+ 
+}
+
+
+else {
+  OAS_query = "";
+}
+//alert(OAS_query);
+//document.write(OAS_query);
+OAS_target = '_Top';
+ 
+ 
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
+}
+ //-->
+ </script>
+<script language="JavaScript1.1"> 
+<!--
+ OAS_version = 11;
+if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))
+ OAS_version = 10;
+if (OAS_version >= 11)
+document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
+</script><script language="JavaScript">
+<!--
+ document.write('');
+function OAS_AD(pos) {
+if (OAS_version >= 11)
+ OAS_RICH(pos);
+else
+ OAS_NORMAL(pos);
+}  //-->
+ </script>
+<!------ OAS SETUP end ------>
+
+
+<!------ OAS AD 'Top' begin ------>
+<SCRIPT LANGUAGE=JavaScript> 
+<!--
+  OAS_AD('x93');
+//-->
+</SCRIPT>
+
+
+
+<!------ OAS AD 'x96' begin ------>  
+<SCRIPT LANGUAGE=JavaScript>  
+<!--  
+OAS_AD('x96');  
+//-->  
+</SCRIPT>  
+
+</div>
+
+</div>
+
+
+
+<!-- OAS SETUP end --><script type="text/javascript">
+<!--
+OAS_AD('x07');
+//-->
+</script>
+
+
+<script>
+$(document).ready(function() {
+ $("#block-sidebar_blocks-0 .content a").attr({"target" : "_blank"})
+ $("#block-block-101 .content .tweets-pulled-listing ul.tweets-pulled-listing li span.tweet-author a").attr({"target" : "_blank"})
+ $("#block-block-101 .content .tweets-pulled-listing ul.tweets-pulled-listing li span.tweet-text a").attr({"target" : "_blank"})
+})
+</script>
+
+</head>
+
+<body class="not-front not-logged-in node-type-article no-sidebars page-50-greatest-led-zeppelin-songs section-50-greatest-led-zeppelin-songs node-view">
+  <!-- tag for ads -->
+<div class="ads_zero">
+	<script type="text/javascript">
+		if (checkIST()) {	Drupal.DART.tag('interstitial_trigger', '3x3', {"dtid":"7","obj":{"dtid":"7","active":"1","name":"interstitial trigger (3x3)","pos":"interstitial_trigger","sz":"3x3","block":"0","settings":{"options":{"scriptless":0,"keyvals":"","method":"adj","terms":1},"site":"","zone":"","slug":"","rules":{"domains":null,"paths":"all_paths","node_types":{"article":"article","artist":"artist","contest":"contest","lesson":"lesson","review":"review","content_site_page":"content_site_page"},"taxonomy":{"2":"","9":""}}}},"active":"1","name":"interstitial trigger (3x3)","pos":"interstitial_trigger","sz":"3x3","site":"guitarworld","zone":"50greatestledzeppelinsongs","slug":"","options":{"scriptless":0,"keyvals":{"":[{"val":"","eval":false}],"tile":[{"val":"Drupal.DART.tile++","eval":true}],"kw":[{"val":"gw_archive","eval":false},{"val":"january_2013","eval":false},{"val":"jimmy_brown","eval":false},{"val":"jimmy_page","eval":false},{"val":"john_paul_jones","eval":false},{"val":"led_zeppelin","eval":false},{"val":"robert_plant","eval":false},{"val":"guitar_world_lists","eval":false},{"val":"news","eval":false},{"val":"features","eval":false},{"val":"magazine","eval":false}]},"method":"adj","terms":1,"block":"0"},"rules":{"domains":null,"paths":"all_paths","node_types":{"article":"article","artist":"artist","contest":"contest","lesson":"lesson","review":"review","content_site_page":"content_site_page"},"taxonomy":{"2":"","9":""}},"prefix":"fut.us"});	}
+	</script>
+
+
+
+  <script type="text/javascript" src="/sites/guitarworld.com/themes/omega_guitarworld/js/background_fix.js"></script><!-- make masthead 100% width with no 22x22 skin -->
+</div>
+<!-- end ads -->
+  <div id="masthead" class="clearfix">
+    <div id="site-header" class="container-12 clearfix">
+      <div id="branding" class="grid-4">
+                  <a href="/"><img src="/sites/guitarworld.com/themes/omega_guitarworld/img/gw_logo.png" alt="Guitar World" title="Guitar World" width="195" height="73" /></a>              </div><!-- /#branding -->
+
+              <div id="search-box" class="grid-4"><form action="/50-greatest-led-zeppelin-songs"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div id="search">
+   <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" /><input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-e71b24a1c9884460e000bf179cbd83fb" value="form-e71b24a1c9884460e000bf179cbd83fb"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</form>
+</div><!-- /#search-box -->
+      
+              <div id="user-login" class="grid-4">
+<p id="drupal_loginbox">
+<a href="/user/login">Login</a> | <a href="/user/register">Join</a>
+</p>
+
+<div id="facebook_loginbox">
+<fb:login-button  size="medium" onlogin="facebook_onlogin_ready();" background="dark" v="2">Login with Facebook</fb:login-button></div>
+
+
+
+
+
+
+</div><!-- /#user-login -->
+                    <div id="site-menu" class="grid-12">
+                  <ul class="links main-menu"><li class="menu-2587 first pulldown-parent"><a href="http://www.guitarworld.com/news" class=" pulldown-main" title="">News</a></li><li class="menu-1119 pulldown-parent"><a href="/interviews" class=" pulldown-main" title="">Interviews</a><div class='menu-pulldown nosubpage'>
+
+	<div class="menu-featured-content">
+		<p class="menu-featured-header">Interviews Featured Content</p>
+<div class="view view-featured-content view-id-featured_content view-display-id-block_7 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <a href="/kurt-cobain-talks-gear-and-more-his-final-guitar-world-interview-1992" id="pulldown-image-link-147" class="pulldown-image-link"><img src="http://www.guitarworld.com/files/imagecache/featured_content/nirvana%20620.jpg" alt="Kurt Cobain Talks Gear and More in His Final Guitar World Interview from 1992" title="Kurt Cobain Talks Gear and More in His Final Guitar World Interview from 1992"  id="pulldown-highlight-image-147" class="pulldown-highlight-image" /></a><a href="/kurt-cobain-talks-gear-and-more-his-final-guitar-world-interview-1992" id="pulldown-text-link-147" class="pulldown-text-link" onMouseOver="menuchange(12878,this)">Kurt Cobain Talks Gear and More in His Final Guitar World Interview from 1992</a>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <div class="view view-featured-content view-id-featured_content view-display-id-block_6 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <a href="/black-sabbaths-geezer-butler-and-tony-iommi-fighting-skinheads-and-war-pigs-inspiration" id="pulldown-text-link-147" class="pulldown-text-link" onMouseOver="menuchange(23391,this)">Black Sabbath&#039;s Geezer Butler and Tony Iommi on Fighting with Skinheads, &quot;War Pigs&quot; Inspiration and More</a>  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <a href="/eddie-van-halen-plays-guitar-innovation-smithsonian-video" id="pulldown-text-link-147" class="pulldown-text-link" onMouseOver="menuchange(23503,this)">Eddie Van Halen Plays Guitar (and Discusses Innovation) at the Smithsonian â Video</a>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <a href="/adam-jones-adams-jones" id="pulldown-text-link-147" class="pulldown-text-link" onMouseOver="menuchange(2202,this)">Tool&#039;s Adam Jones: My 10 Favorite Guitarists</a>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <p class='menu-pulldown-viewall'><a href="/interviews">All Interviews Articles</a></p>	</div>
+</div></li><li class="menu-1123 pulldown-parent"><a href="/lessons" class=" pulldown-main" title="">Lessons</a><div class='menu-pulldown'>
+	<div class="menu-taglist">
+<ul class="menu"><li class="leaf first"><a href="http://www.guitarworld.com/acoustic-nation/lessons">Guitar Tricks</a></li>
+<li class="leaf"><a href="/lessons/artist-lessons">Artists</a></li>
+<li class="leaf"><a href="/lessons/guitar-101">Guitar 101</a></li>
+<li class="leaf last"><a href="/lessons/guitar-basics">Guitar Basics</a></li>
+</ul>		<hr />
+		<p class="rss-feed"><a href="/taxonomy/term/8/all/feed">Lessons RSS</a></p>
+	</div>
+
+	<div class="menu-featured-content">
+		<p class="menu-featured-header">Lessons Featured Content</p>
+<div class="view view-featured-content view-id-featured_content view-display-id-block_7 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <a href="/cracking-code-troy-grady-yngwie-malmsteens-rotational-picking-mechanic" id="pulldown-image-link-8" class="pulldown-image-link"><img src="http://www.guitarworld.com/files/imagecache/featured_content/Screen%20Shot%202015-02-09%20at%2012.05.11%20PM.png" alt="Cracking the Code with Troy Grady: Yngwie Malmsteen&amp;#039;s Rotational Picking Mechanic" title="Cracking the Code with Troy Grady: Yngwie Malmsteen&amp;#039;s Rotational Picking Mechanic"  id="pulldown-highlight-image-8" class="pulldown-highlight-image" /></a><a href="/cracking-code-troy-grady-yngwie-malmsteens-rotational-picking-mechanic" id="pulldown-text-link-8" class="pulldown-text-link" onMouseOver="menuchange(23461,this)">Cracking the Code with Troy Grady: Yngwie Malmsteen&#039;s Rotational Picking Mechanic</a>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <div class="view view-featured-content view-id-featured_content view-display-id-block_6 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <a href="/deep-gary-moore" id="pulldown-text-link-8" class="pulldown-text-link" onMouseOver="menuchange(17397,this)">In Deep: Breaking Down the Signature Elements of Gary Moore&#039;s Immediately Identifiable Guitar Style</a>  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <a href="/deep-john-lee-hooker-and-lightnin-hopkins" id="pulldown-text-link-8" class="pulldown-text-link" onMouseOver="menuchange(16556,this)">In Deep with Early Blues Masters John Lee Hooker and Lightnin&#039; Hopkins â Video</a>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <a href="/guitarists-guide-playing-bass" id="pulldown-text-link-8" class="pulldown-text-link" onMouseOver="menuchange(16961,this)">The Guitarist&#039;s Guide to Playing Bass: 20 Guidelines to Help You Think and Play Like a Real Bass Guitarist</a>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <p class='menu-pulldown-viewall'><a href="/lessons">All Lessons Articles</a></p>	</div>
+</div></li><li class="menu-1118 pulldown-parent"><a href="/gear" class=" pulldown-main" title="">Gear</a><div class='menu-pulldown'>
+	<div class="menu-taglist">
+<ul class="menu"><li class="leaf first"><a href="http://www.guitarworld.com/acoustic-nation/gear">Acoustic Nation</a></li>
+<li class="leaf"><a href="/gear/acoustic-guitars">Acoustic Guitars</a></li>
+<li class="leaf"><a href="/gear/electric-guitars">Electric Guitars</a></li>
+<li class="leaf"><a href="/gear/bass-guitars">Bass Guitars</a></li>
+<li class="leaf"><a href="/gear/amps">Amps</a></li>
+<li class="leaf"><a href="/gear/effects">Effects</a></li>
+<li class="leaf"><a href="/gear/accessories">Accessories</a></li>
+<li class="leaf last"><a href="/gear/gear-spotlight">Spotlight</a></li>
+</ul>		<hr />
+		<p class="rss-feed"><a href="/taxonomy/term/6/all/feed">Gear RSS</a></p>
+	</div>
+
+	<div class="menu-featured-content">
+		<p class="menu-featured-header">Gear Featured Content</p>
+<div class="view view-featured-content view-id-featured_content view-display-id-block_7 view-dom-id-5">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <a href="/new-pickup-guide-seeking-unforgettable-tone-try-one-these-11-new-guitar-pickups" id="pulldown-image-link-6" class="pulldown-image-link"><img src="http://www.guitarworld.com/files/imagecache/featured_content/1-%20Doyle%20Coils%20TRU-CLONES%20Box%20Set.jpg" alt="New Pickup Guide: Seeking Unforgettable Tone? Try One of These 11 New Guitar Pickups" title="New Pickup Guide: Seeking Unforgettable Tone? Try One of These 11 New Guitar Pickups"  id="pulldown-highlight-image-6" class="pulldown-highlight-image" /></a><a href="/new-pickup-guide-seeking-unforgettable-tone-try-one-these-11-new-guitar-pickups" id="pulldown-text-link-6" class="pulldown-text-link" onMouseOver="menuchange(23439,this)">New Pickup Guide: Seeking Unforgettable Tone? Try One of These 11 New Guitar Pickups</a>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <div class="view view-featured-content view-id-featured_content view-display-id-block_6 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <a href="/guitar-world-2015-winter-namm-show-0" id="pulldown-text-link-6" class="pulldown-text-link" onMouseOver="menuchange(23314,this)">Guitar World at the 2015 Winter NAMM Show: It&#039;s That Time of Gear</a>  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <a href="/guitar-world-staff-picks-paul-riarios-2014-holiday-gear-wish-list" id="pulldown-text-link-6" class="pulldown-text-link" onMouseOver="menuchange(23173,this)">Guitar World Staff Picks: Paul Riario&#039;s 2014 Holiday Gear Wish List</a>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <a href="/practice-makes-perfect-five-amazing-practice-amps" id="pulldown-text-link-6" class="pulldown-text-link" onMouseOver="menuchange(21835,this)">Practice Made Perfect: Guitar World Rounds Up 17 Amazing Practice Amps</a>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <p class='menu-pulldown-viewall'><a href="/gear">All Gear Articles</a></p>	</div>
+</div></li><li class="menu-158 pulldown-parent"><a href="http://www.guitarworld.com/blogs" class=" pulldown-main" title="">Blogs</a></li><li class="menu-1116 pulldown-parent"><a href="/features/girls-guitar-world" class=" pulldown-main">Girls</a><div class='menu-pulldown nosubpage'>
+
+	<div class="menu-featured-content">
+		<p class="menu-featured-header">Girls Featured Content</p>
+<div class="view view-featured-content view-id-featured_content view-display-id-block_7 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <a href="/guitar-world-girls-meet-christine" id="pulldown-image-link-32" class="pulldown-image-link"><img src="http://www.guitarworld.com/files/imagecache/featured_content/christine_scroller.jpg" alt="Guitar World Girls: Meet Christine!" title="Guitar World Girls: Meet Christine!"  id="pulldown-highlight-image-32" class="pulldown-highlight-image" /></a><a href="/guitar-world-girls-meet-christine" id="pulldown-text-link-32" class="pulldown-text-link" onMouseOver="menuchange(22288,this)">Guitar World Girls: Meet Christine!</a>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <div class="view view-featured-content view-id-featured_content view-display-id-block_6 view-dom-id-5">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <a href="/guitar-world-girls-meet-tiffany-bontorno" id="pulldown-text-link-32" class="pulldown-text-link" onMouseOver="menuchange(22175,this)">Guitar World Girls: Meet Tiffany Bontorno!</a>  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <a href="/guitar-world-girls-meet-carli-rotten" id="pulldown-text-link-32" class="pulldown-text-link" onMouseOver="menuchange(21777,this)">Guitar World Girls: Meet Carli Rotten!</a>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <a href="/guitar-world-girls-meet-amy-nicole" id="pulldown-text-link-32" class="pulldown-text-link" onMouseOver="menuchange(20787,this)">Guitar World Girls: Meet Amy Nicole!</a>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <p class='menu-pulldown-viewall'><a href="/features/girls-guitar-world">All Girls Articles</a></p>	</div>
+</div></li><li class="menu-2202 pulldown-parent"><a href="http://store.guitarworld.com/?&amp;utm_source=guitarworld.com&amp;utm_medium=secondarynav&amp;utm_campaign=store" class=" pulldown-main">Store</a></li><li class="menu-3184 pulldown-parent"><a href="/acoustic-nation" class=" pulldown-main">Acoustic Nation</a><div class='menu-pulldown'>
+	<div class="menu-taglist">
+<ul class="menu"><li class="leaf first"><a href="/acoustic-nation/news">News</a></li>
+<li class="leaf"><a href="/acoustic-nation/gear">Gear</a></li>
+<li class="leaf"><a href="/acoustic-nation/lessons">Lessons</a></li>
+<li class="leaf"><a href="/acoustic-nation/interviews">Interviews</a></li>
+<li class="leaf"><a href="/acoustic-nation/blogs">Blogs</a></li>
+<li class="leaf"><a href="/acoustic-nation/photos">Photos</a></li>
+<li class="leaf"><a href="/acoustic-nation/videos">Videos</a></li>
+<li class="leaf"><a href="/acoustic-nation/contests">Contests</a></li>
+<li class="leaf last"><a href="/acoustic-nation/sponsor">Sponsor</a></li>
+</ul>		<hr />
+		<p class="rss-feed"><a href="/taxonomy/term/3656/all/feed">Acoustic Nation RSS</a></p>
+	</div>
+
+	<div class="menu-featured-content">
+		<p class="menu-featured-header">Acoustic Nation Featured Content</p>
+<div class="view view-featured-content view-id-featured_content view-display-id-block_7 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <a href="/acoustic-nation-songtown-beyond-dreams" id="pulldown-image-link-3656" class="pulldown-image-link"><img src="http://www.guitarworld.com/files/imagecache/featured_content/10835260_10153601057542586_1559467779686587270_o.jpg" alt="SongTown: Beyond Dreams" title="SongTown: Beyond Dreams"  id="pulldown-highlight-image-3656" class="pulldown-highlight-image" /></a><a href="/acoustic-nation-songtown-beyond-dreams" id="pulldown-text-link-3656" class="pulldown-text-link" onMouseOver="menuchange(23553,this)">SongTown: Beyond Dreams</a>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <div class="view view-featured-content view-id-featured_content view-display-id-block_6 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <a href="/acoustic-nation-video-finds-tony-iommi-plays-black-sabbath-planet-caravan-solo-on-acoustic" id="pulldown-text-link-3656" class="pulldown-text-link" onMouseOver="menuchange(21355,this)">Tony Iommi Plays Black Sabbath&#039;s âPlanet Caravanâ Solo on Acoustic â Video Finds</a>  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <a href="/acoustic-nation-ryley-walker-s-primrose-green-first-listen" id="pulldown-text-link-3656" class="pulldown-text-link" onMouseOver="menuchange(23542,this)">Ryley Walkerâs &#039;Primrose Green&#039; â First Listen</a>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <a href="/acoustic-nation-breedlove-chats-with-songwriter-and-craig-morgan-guitarist-mike-rogers-interview" id="pulldown-text-link-3656" class="pulldown-text-link" onMouseOver="menuchange(23541,this)">Breedlove Chats with Songwriter and Craig Morgan Guitarist, Mike Rogers âÂ Interview</a>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <p class='menu-pulldown-viewall'><a href="/acoustic-nation">All Acoustic Nation Articles</a></p>	</div>
+</div></li><li class="menu-1117 pulldown-parent"><a href="https://subscribe.pcspublink.com/sub/subscribe.aspx?guid=d2e0acd7-5fc7-4bf2-acfe-7a0f58bb71c9" class=" pulldown-main">Subscribe</a></li><li class="menu-1427 last featured_nav pulldown-parent"><a href="http://www.jamplay.com/?utm_source=guitarworld&amp;utm_campaign=guitarworld&amp;utm_content=top-menu" class="featured_nav pulldown-main">FREE LESSONS</a></li></ul>                                  <ul class="links secondary-menu"><li class="menu-1130 first secondary_highlight"><a href="http://guitarworld.myshopify.com/collections/guitar-world/products/guitar-world-march-15-black-sabbath" class="secondary_highlight">Current Issue</a></li><li class="menu-1127 secondary_highlight"><a href="http://www.guitarworld.com/mar2015" class="secondary_highlight">March 2015 Issue Videos</a></li><li class="menu-1128"><a href="/features" class="" title="">Features</a></li><li class="menu-1125"><a href="/features/videos" class="" title="">Video</a></li><li class="menu-1124"><a href="http://www.guitarworld.com/tags/music-reviews">Reviews</a></li><li class="menu-1425"><a href="/artists">Artists</a></li><li class="menu-1096"><a href="/contests">Contests</a></li><li class="menu-2219"><a href="http://www.guitarworld.com/galleries">Photos</a></li><li class="menu-2216"><a href="http://www.guitarworld.com/tabs">Tabs</a></li><li class="menu-2755 last"><a href="http://www.guitarworld.com/features/videos">Videos</a></li></ul>                </div><!-- /#site-menu -->
+      <div align="center">
+
+</div> 
+
+          </div><!-- /#site-header -->
+
+<div align="center">
+<SCRIPT LANGUAGE=JavaScript> 
+<!--
+  OAS_AD('Top');
+//-->
+</SCRIPT>
+
+</div> 
+
+  </div><!-- /#masthead -->
+  
+  
+  <div id="page" class="clearfix">
+        <div id="preface-wrapper" class="container-12 clearfix">
+            <div id="preface-lower">
+              <div id="preface-middle" class="preface grid-12">
+            <div id="block-future_dart-future-dart-tag-1" class="block block-future_dart">
+
+  <div class="content">
+    
+  <div id="dart-tag-leaderboard">
+        <script type="text/javascript">
+      var id = '#dart-tag-leaderboard';
+      if ( ($('html.gallery').length > 0) && ($(id).parents('div#sidebar-first').length > 0) ) {
+        
+        console.log($(id).parents('div.block'));
+        
+        // if we're on a gallery page and in the sidebar-first
+        // don't print an ad tag and remove the empty block 
+        $(id).parents('div.block').css('display', 'none');
+      } else {
+        // otherwise print the ad tag as normal 
+        Drupal.DART.tag('leaderboard', '728x90', {"dtid":"1","obj":{"dtid":"1","active":"1","name":"leaderboard (728x90)","pos":"leaderboard","sz":"728x90","block":"1","settings":{"options":{"scriptless":0,"keyvals":"","method":"adj","terms":1},"site":"","zone":"","slug":"","rules":{"domains":null,"paths":"all_paths","node_types":{"article":"article","content_article":"content_article","artist":"artist","contest":"contest","image_gallery":"image_gallery","lesson":"lesson","review":"review","content_site_page":"content_site_page"},"taxonomy":{"2":"","9":""}}}},"active":"1","name":"leaderboard (728x90)","pos":"leaderboard","sz":"728x90","site":"guitarworld","zone":"50greatestledzeppelinsongs","slug":"","options":{"scriptless":0,"keyvals":{"":[{"val":"","eval":false}],"tile":[{"val":"Drupal.DART.tile++","eval":true}],"kw":[{"val":"gw_archive","eval":false},{"val":"january_2013","eval":false},{"val":"jimmy_brown","eval":false},{"val":"jimmy_page","eval":false},{"val":"john_paul_jones","eval":false},{"val":"led_zeppelin","eval":false},{"val":"robert_plant","eval":false},{"val":"guitar_world_lists","eval":false},{"val":"news","eval":false},{"val":"features","eval":false},{"val":"magazine","eval":false}]},"method":"adj","terms":1,"block":"1"},"rules":{"domains":null,"paths":"all_paths","node_types":{"article":"article","content_article":"content_article","artist":"artist","contest":"contest","image_gallery":"image_gallery","lesson":"lesson","review":"review","content_site_page":"content_site_page"},"taxonomy":{"2":"","9":""}},"prefix":"fut.us"});
+      }
+    </script>
+  </div>
+
+<noscript><a href="http://ad.doubleclick.net/jump/fut.us.guitarworld/50greatestledzeppelinsongs;pos=leaderboard;sz=728x90;=;kw=gw_archive;kw=january_2013;kw=jimmy_brown;kw=jimmy_page;kw=john_paul_jones;kw=led_zeppelin;kw=robert_plant;kw=guitar_world_lists;kw=news;kw=features;kw=magazine;tile=1;ord=9183502710?"><img src="http://ad.doubleclick.net/ad/fut.us.guitarworld/50greatestledzeppelinsongs;pos=leaderboard;sz=728x90;=;kw=gw_archive;kw=january_2013;kw=jimmy_brown;kw=jimmy_page;kw=john_paul_jones;kw=led_zeppelin;kw=robert_plant;kw=guitar_world_lists;kw=news;kw=features;kw=magazine;tile=1;ord=9183502710?" alt="" /></a></noscript>  </div>
+</div>
+        </div><!-- /#preface-middle -->
+                  </div><!-- /#preface-lower -->
+    </div><!-- /#preface-wrapper -->
+        
+        
+    <div id="main-content-container" class="container-12 clearfix">
+
+<div class="cunlock_main_content">
+      <div id="main-wrapper" class="column grid-8">
+                
+                  <h1 class="title" id="page-title"><a href="/50-greatest-led-zeppelin-songs" class="active">The 50 Greatest Led Zeppelin Songs</a></h1>
+        
+                                            <div id="main-content" class="region clearfix">
+          <div id="node-article-17825" class="node article published promoted not-sticky full-view author-dfanelli odd clear-block"><div class="node_article">
+  <div class="picture">
+    <a href="http://www.guitarworld.com/user/153425" title="Jimmy Brown"><img src="http://www.guitarworld.com/files/imagecache/profile-avatar/pictures/picture-153425-1312209766.jpg" alt="avatar" title=""  class="imagecache imagecache-profile-avatar" width="52" height="52" /></a>  </div>  
+  
+  <div class="info_bar clearfix">	  
+  
+	  		<h1 class="title_smaller">The 50 Greatest Led Zeppelin Songs</h1>
+	  	  
+	  <div class="submitted">
+		  <span class="posted_date">Posted 01/09/2015 at 8:17am </span>
+		  <span class="posted_by">| by <a href="http://www.guitarworld.com/user/153425" title="Jimmy Brown">Jimmy Brown</a></span>
+	  </div>
+	  
+	  	  <div class="social_links_top clear-block">
+		<div class="comments_wordbubble_wrap"><div class="comments_wordbubble">11</div><div class="comments_wordbubble_label"><a href="#comments">Comments</a></div></div>
+		<span class="st_facebook_hcount" displayText="Share" st_url="http://www.guitarworld.com/50-greatest-led-zeppelin-songs" st_title="The 50 Greatest Led Zeppelin Songs"></span><span class="st_twitter_hcount" displayText="Tweet" st_via="GuitarWorld" st_url="http://www.guitarworld.com/50-greatest-led-zeppelin-songs" st_title="The 50 Greatest Led Zeppelin Songs"></span><span class="st_sharethis_button" displayText="Share" st_url="http://www.guitarworld.com/50-greatest-led-zeppelin-songs" st_title="The 50 Greatest Led Zeppelin Songs"></span>	  </div>
+  </div>
+  <div class="blue_line"></div>
+    <div class="featured-node-data">
+        <div class="featured-node-image">
+      <img src="http://www.guitarworld.com/files/imagecache/featured-node/led_0.jpg" alt="The 50 Greatest Led Zeppelin Songs" title=""  class="imagecache imagecache-featured-node" width="300" height="166" />      <!--paging_filter--><p><em>Guitar World</em> presents a critical analysis of Led Zeppelin's 50 best tracks.</p>
+    </div>
+            <div class="featured-node-content">
+      <div class="block-header"><h4>Related Content</h4></div>
+      <div class="view view-related-content view-id-related_content view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/january-2013-guitar-world-available-now-led-zeppelin-rides-again-shinedown-alice-chains-gear-reviews-and-more">January 2013 Guitar World Available Now: Led Zeppelin Rides Again, Shinedown, Alice In Chains, Gear Reviews and More</a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>     </div>
+      </div>
+    <p><strong>From âDazed and Confusedâ to âYou Shook Meâ â¦ from âTangerineâ to âThe Lemon Songâ â¦ from âTrampled Under Footâ to âStairway to Heavenâ â¦ <em>Guitar World</em> presents a critical analysis of the classic-rock groupâs best tracks.</strong></p>
+<p>With the recent release of <em>Celebration Day</em>, the concert film immortalizing Led Zeppelinâs historic and most likely final reunion concert at Londonâs O2 Arena on December 10, 2007, guitarist-producer Jimmy Page reminded the world just how profoundly great and enduring his bandâs music is. </p>
+<p>In homage to what is arguably hard rockâs most innovative group (and certainly its most influential), what follows is a tour of 50 of the most celebrated Led Zeppelin songs, with a focus on the guitar playing, songwriting and arranging genius of the quartetâs visionary founder. </p>
+<p>Compiling such a finite list presents tough choices for anyone, as the bandâs recorded output of great music during its heyday was impressively prolific by any standard and includes well over 50 gems.</p>
+<p><strong>50. âDâyer Makâerâ (<em>Houses of the Holy</em>)</strong></p>
+<p>This lighthearted but heavy-sounding song, the title of which is intended to be pronounced âDâyou Make Her,â was conceived as a playful melding of a Fifties doo-wop-style repeating chord progression and the quirky, syncopated rhythms of Jamaican reggae. </p>
+<p>Page makes good use of sliding sixth intervals on the songâs verse riff, providing a thin-textured but catchy and harmonically effective accompaniment to Plantâs vocals. His guitar solo, like so many of his others, is noteworthy for its tasteful, lyrical phrasing and emotive use of bends and finger vibratos.</p>
+<p><iframe width="620" height="360" src="//www.youtube.com/embed/aoxQBvcKa9Y" frameborder="0" allowfullscreen></iframe></p>
+<div class="links"><div class="item-list"><ul class="pager"><li class="pager-current first">1</li><li class="pager-item"><a href="/50-greatest-led-zeppelin-songs?page=0,1" title="Go to page 2" class="active">2</a></li><li class="pager-item"><a href="/50-greatest-led-zeppelin-songs?page=0,2" title="Go to page 3" class="active">3</a></li><li class="pager-item"><a href="/50-greatest-led-zeppelin-songs?page=0,3" title="Go to page 4" class="active">4</a></li><li class="pager-item"><a href="/50-greatest-led-zeppelin-songs?page=0,4" title="Go to page 5" class="active">5</a></li><li class="pager-item"><a href="/50-greatest-led-zeppelin-songs?page=0,5" title="Go to page 6" class="active">6</a></li><li class="pager-item"><a href="/50-greatest-led-zeppelin-songs?page=0,6" title="Go to page 7" class="active">7</a></li><li class="pager-item"><a href="/50-greatest-led-zeppelin-songs?page=0,7" title="Go to page 8" class="active">8</a></li><li class="pager-item"><a href="/50-greatest-led-zeppelin-songs?page=0,8" title="Go to page 9" class="active">9</a></li><li class="pager-ellipsis">â¦</li><li class="pager-last"><a href="/50-greatest-led-zeppelin-songs?page=0,49" title="Go to page 50" class="active">50</a></li><li class="pager-next last"><a href="/50-greatest-led-zeppelin-songs?page=0,1" class="active">Â» Next</a></li></ul></div></div>  
+  
+    <h2 class="related">Related</h2>
+      <div class="related-artists">
+    <div class="related-artists-tags">
+		  <h4>Artists:</h4>
+		  <a href="/led-zeppelin">Led Zeppelin</a>, <a href="/jimmy-page">Jimmy Page</a>, <a href="/robert-plant">Robert Plant</a>	  </div>
+  </div>
+      <div class="taxonomy">
+    <div class="taxonomy-term-tags">
+      <h4>Topics:</h4>
+      <ul class="links inline"><li class="taxonomy_term_53 first"><a href="/features/gw-archive" rel="tag" title="">GW Archive</a></li><li class="taxonomy_term_3068"><a href="/tags/january-2013" rel="tag" title="">January 2013</a></li><li class="taxonomy_term_1781"><a href="/tags/jimmy-brown" rel="tag" title="">Jimmy Brown</a></li><li class="taxonomy_term_273"><a href="/jimmy-page-0" rel="tag" title="">Jimmy Page</a></li><li class="taxonomy_term_1181"><a href="/tags/john-paul-jones" rel="tag" title="">John Paul Jones</a></li><li class="taxonomy_term_489"><a href="/led-zeppelin-0" rel="tag" title="">Led Zeppelin</a></li><li class="taxonomy_term_503"><a href="/robert-plant-0" rel="tag" title="">Robert Plant</a></li><li class="taxonomy_term_89"><a href="/features/gw-archive/guitar-world-lists" rel="tag" title="">Guitar World Lists</a></li><li class="taxonomy_term_4"><a href="/news" rel="tag" title="">News</a></li><li class="taxonomy_term_5"><a href="/features" rel="tag" title="">Features</a></li><li class="taxonomy_term_149 last"><a href="/magazine" rel="tag" title="">Magazine</a></li></ul>    </div>
+  </div>
+    
+      <div class="related-articles block-apachesolr-mlt-001 block clearfix">
+      <div class="block-header">
+        <h5>You Might Also Like...</h5>
+      </div>
+      <div class="content">
+        <div class="item-list"><ul><li class="first"><div class="related-image"><a href="/top-5-near-led-zeppelin-moments"><img src="http://www.guitarworld.com/files/imagecache/featured_content/led%20620.jpg" alt="" title=""  class="imagecache imagecache-featured_content" width="140" height="105" /></a></div><div class="related-title"><a href="/top-5-near-led-zeppelin-moments">The Top 5 Near-Led Zeppelin Moments</a></div></li><li><div class="related-image"><a href="/led-zeppelins-2007-reunion-concert-raises-millions-oxford-university"><img src="http://www.guitarworld.com/files/imagecache/featured_content/food_5.jpg" alt="" title=""  class="imagecache imagecache-featured_content" width="140" height="105" /></a></div><div class="related-title"><a href="/led-zeppelins-2007-reunion-concert-raises-millions-oxford-university">Led Zeppelin&#039;s 2007 Reunion Concert Raises Millions for Oxford University</a></div></li><li><div class="related-image"><a href="/led-zeppelin-make-appearance-celebration-day-screening-wont-rule-out-future-shows"><img src="http://www.guitarworld.com/files/imagecache/featured_content/zep_0.jpg" alt="" title=""  class="imagecache imagecache-featured_content" width="140" height="105" /></a></div><div class="related-title"><a href="/led-zeppelin-make-appearance-celebration-day-screening-wont-rule-out-future-shows">Led Zeppelin Make Appearance at &#039;Celebration Day&#039; Screening, Won&#039;t Rule Out Future Shows</a></div></li><li class="last"><div class="related-image"><a href="/led-zeppelin-announce-celebration-day-film-chronicling-2007-reunion-show"><img src="http://www.guitarworld.com/files/imagecache/featured_content/ledzeppelin.jpg" alt="" title=""  class="imagecache imagecache-featured_content" width="140" height="105" /></a></div><div class="related-title"><a href="/led-zeppelin-announce-celebration-day-film-chronicling-2007-reunion-show">Led Zeppelin Announce &#039;Celebration Day&#039; Film Chronicling 2007 Reunion Show</a></div></li></ul></div>      </div>
+    </div>
+    
+  <div class='newsletter-block clearfix'><a target="_blank" href="https://nbmedia.wufoo.com/forms/guitar-world-daily-shred-free-newsletter-signup/"><img src="sites/guitarworld.com/themes/omega_guitarworld/img/620x170-BANNERV2_opt.jpg"></a>  </div> <!-- node -->
+  
+</div> <!-- main-content -->
+ 
+  
+
+  <div class="comments_wrapper_header">
+  	<div class="comments_bigbubble">11</div>
+  	<div class="comments_label">
+  		<h3>Comments</h3>
+  	</div>
+  	<a href="/user/login?&commentfragment=comments_top_anchor" class="add_comment_button">+ Add a Comment</a></div>
+  
+
+
+<div id="comments">
+  <a id="comment-43729"></a>
+<div class="comment comment-published clear-block first-comment">
+  <blockquote class="user-post">
+    <div class="post-avatar">
+      <img src="http://www.guitarworld.com/files/imagecache/comment-avatar/pictures/picture-99412-1323886941.jpg" alt="avatar" title=""  class="imagecache imagecache-comment-avatar" width="50" height="50" />    </div>
+    <div class = "comment_right_box">
+		<span class="general-topic">
+		  	
+		  <h3 class="comment_author"><a href="/user/99412" title="View user profile.">slayerswine</a></h3>
+		</span>
+	
+		<p class="post-info">
+		  January 09, 2014 at 10:58am		</p>
+	
+		<div class="content">
+		  <p>Happy Birthday Jimmy Page, 70 years young today !</p>
+		  		</div>
+		
+		<div class="header-inline-text comment_links_bottom">  </div>
+    </div>
+    <div class="clear_both"></div>
+  </blockquote>
+</div>
+
+<a id="comment-43410"></a>
+<div class="comment comment-published clear-block ">
+  <blockquote class="user-post">
+    <div class="post-avatar">
+      <img src="http://www.guitarworld.com/files/imagecache/comment-avatar/sites/guitarworld.com/themes/omega_guitarworld/img/photo_no.jpg" alt="avatar" title=""  class="imagecache imagecache-comment-avatar" width="50" height="50" />    </div>
+    <div class = "comment_right_box">
+		<span class="general-topic">
+		  	
+		  <h3 class="comment_author"><a href="/user/172852" title="View user profile.">ctoomey2013</a></h3>
+		</span>
+	
+		<p class="post-info">
+		  December 08, 2013 at 7:41pm		</p>
+	
+		<div class="content">
+		  <p>NO!!! Are you kidding me? Do you even understand what music is? How is fool in the rain not here, also why is Achillies Last Stand #1, obviously thats stairway to heaven. It just is, no exceptions.</p>
+		  		</div>
+		
+		<div class="header-inline-text comment_links_bottom">  </div>
+    </div>
+    <div class="clear_both"></div>
+  </blockquote>
+</div>
+
+<a id="comment-43127"></a>
+<div class="comment comment-published clear-block ">
+  <blockquote class="user-post">
+    <div class="post-avatar">
+      <img src="http://www.guitarworld.com/files/imagecache/comment-avatar/sites/guitarworld.com/themes/omega_guitarworld/img/photo_no.jpg" alt="avatar" title=""  class="imagecache imagecache-comment-avatar" width="50" height="50" />    </div>
+    <div class = "comment_right_box">
+		<span class="general-topic">
+		  	
+		  <h3 class="comment_author"><a href="/user/53348" title="View user profile.">spolito58</a></h3>
+		</span>
+	
+		<p class="post-info">
+		  November 07, 2013 at 12:58am		</p>
+	
+		<div class="content">
+		  <p>It's pronounced "Jamaica" in a cockney accent from and old joke: Person 1 "I took my wife to the islands on holiday." Person 2 "Jamaica?" Person 1 "No, she went of her own accord."</p>
+		  		</div>
+		
+		<div class="header-inline-text comment_links_bottom">  </div>
+    </div>
+    <div class="clear_both"></div>
+  </blockquote>
+</div>
+
+<a id="comment-43105"></a>
+<div class="comment comment-published clear-block ">
+  <blockquote class="user-post">
+    <div class="post-avatar">
+      <img src="http://www.guitarworld.com/files/imagecache/comment-avatar/sites/guitarworld.com/themes/omega_guitarworld/img/photo_no.jpg" alt="avatar" title=""  class="imagecache imagecache-comment-avatar" width="50" height="50" />    </div>
+    <div class = "comment_right_box">
+		<span class="general-topic">
+		  	
+		  <h3 class="comment_author"><a href="/user/172147" title="View user profile.">Johhny d</a></h3>
+		</span>
+	
+		<p class="post-info">
+		  November 05, 2013 at 4:01pm		</p>
+	
+		<div class="content">
+		  <p>We all love zep. But is 40 + years old. It aint  mozart. Can we move on?</p>
+		  		</div>
+		
+		<div class="header-inline-text comment_links_bottom">  </div>
+    </div>
+    <div class="clear_both"></div>
+  </blockquote>
+</div>
+
+<a id="comment-43089"></a>
+<div class="comment comment-published clear-block ">
+  <blockquote class="user-post">
+    <div class="post-avatar">
+      <img src="http://www.guitarworld.com/files/imagecache/comment-avatar/sites/guitarworld.com/themes/omega_guitarworld/img/photo_no.jpg" alt="avatar" title=""  class="imagecache imagecache-comment-avatar" width="50" height="50" />    </div>
+    <div class = "comment_right_box">
+		<span class="general-topic">
+		  	
+		  <h3 class="comment_author"><a href="/user/156370" title="View user profile.">uncle_remus</a></h3>
+		</span>
+	
+		<p class="post-info">
+		  November 02, 2013 at 9:52pm		</p>
+	
+		<div class="content">
+		  <p>Tangerine is a Yardbirds song most likely written by Keith Relf.</p>
+<p>http://www.youtube.com/watch?v=fPh1r32TCMY</p>
+		  		</div>
+		
+		<div class="header-inline-text comment_links_bottom">  </div>
+    </div>
+    <div class="clear_both"></div>
+  </blockquote>
+</div>
+
+<a id="comment-43086"></a>
+<div class="comment comment-published clear-block ">
+  <blockquote class="user-post">
+    <div class="post-avatar">
+      <img src="http://www.guitarworld.com/files/imagecache/comment-avatar/sites/guitarworld.com/themes/omega_guitarworld/img/photo_no.jpg" alt="avatar" title=""  class="imagecache imagecache-comment-avatar" width="50" height="50" />    </div>
+    <div class = "comment_right_box">
+		<span class="general-topic">
+		  	
+		  <h3 class="comment_author"><a href="/user/172617" title="View user profile.">danshumate</a></h3>
+		</span>
+	
+		<p class="post-info">
+		  November 01, 2013 at 10:11pm		</p>
+	
+		<div class="content">
+		  <p>Wow! Always wondered how they counted this song! COOL!</p>
+		  		</div>
+		
+		<div class="header-inline-text comment_links_bottom">  </div>
+    </div>
+    <div class="clear_both"></div>
+  </blockquote>
+</div>
+
+<a id="comment-43084"></a>
+<div class="comment comment-published clear-block ">
+  <blockquote class="user-post">
+    <div class="post-avatar">
+      <fb:profile-pic width="50px" uid="1718968014" linked="false" size="square" facebook-logo="true"></fb:profile-pic>    </div>
+    <div class = "comment_right_box">
+		<span class="general-topic">
+		  	
+		  <h3 class="comment_author"><a href="/user/141961" title="View user profile.">nursetom61</a></h3>
+		</span>
+	
+		<p class="post-info">
+		  November 01, 2013 at 1:14pm		</p>
+	
+		<div class="content">
+		  <p>No Quarter from TSRTS at #38? Are you kidding me.  The solo from this song is one of may favorite Live Guitar solos. I would have put this song somewhere in the top 10, maybe top 5.</p>
+		  		</div>
+		
+		<div class="header-inline-text comment_links_bottom">  </div>
+    </div>
+    <div class="clear_both"></div>
+  </blockquote>
+</div>
+
+<a id="comment-41854"></a>
+<div class="comment comment-published clear-block ">
+  <blockquote class="user-post">
+    <div class="post-avatar">
+      <img src="http://www.guitarworld.com/files/imagecache/comment-avatar/sites/guitarworld.com/themes/omega_guitarworld/img/photo_no.jpg" alt="avatar" title=""  class="imagecache imagecache-comment-avatar" width="50" height="50" />    </div>
+    <div class = "comment_right_box">
+		<span class="general-topic">
+		  	
+		  <h3 class="comment_author"><a href="/user/171242" title="View user profile.">ledzeppelinoverlook</a></h3>
+		</span>
+	
+		<p class="post-info">
+		  August 24, 2013 at 3:46pm		</p>
+	
+		<div class="content">
+		  <p>You forgot Tea for One. People often forget about that album because it was not a critical success. I would take off D'yer Mak'er and replace it with this. But i would also put this much closer to the top because it is some of the most amazing blues guitar I have ever heard.  It is on Presence. It's great to see In the Light on here though. Most people miss that one too.</p>
+		  		</div>
+		
+		<div class="header-inline-text comment_links_bottom">  </div>
+    </div>
+    <div class="clear_both"></div>
+  </blockquote>
+</div>
+
+<a id="comment-41767"></a>
+<div class="comment comment-published clear-block ">
+  <blockquote class="user-post">
+    <div class="post-avatar">
+      <img src="http://www.guitarworld.com/files/imagecache/comment-avatar/sites/guitarworld.com/themes/omega_guitarworld/img/photo_no.jpg" alt="avatar" title=""  class="imagecache imagecache-comment-avatar" width="50" height="50" />    </div>
+    <div class = "comment_right_box">
+		<span class="general-topic">
+		  	
+		  <h3 class="comment_author"><a href="/user/171190" title="View user profile.">jubrai</a></h3>
+		</span>
+	
+		<p class="post-info">
+		  August 20, 2013 at 12:28pm		</p>
+	
+		<div class="content">
+		  <p>In the Evening, All of my love, Misty Mountain Hop are missing...</p>
+		  		</div>
+		
+		<div class="header-inline-text comment_links_bottom">  </div>
+    </div>
+    <div class="clear_both"></div>
+  </blockquote>
+</div>
+
+<a id="comment-39144"></a>
+<div class="comment comment-published clear-block ">
+  <blockquote class="user-post">
+    <div class="post-avatar">
+      <img src="http://www.guitarworld.com/files/imagecache/comment-avatar/pictures/picture-97719-1367349069.jpg" alt="avatar" title=""  class="imagecache imagecache-comment-avatar" width="50" height="50" />    </div>
+    <div class = "comment_right_box">
+		<span class="general-topic">
+		  	
+		  <h3 class="comment_author"><a href="/user/97719" title="View user profile.">jimmylerxst</a></h3>
+		</span>
+	
+		<p class="post-info">
+		  February 21, 2013 at 3:56pm		</p>
+	
+		<div class="content">
+		  <p>Honorable Mention: Misty Mountain Hop !</p>
+		  		</div>
+		
+		<div class="header-inline-text comment_links_bottom">  </div>
+    </div>
+    <div class="clear_both"></div>
+  </blockquote>
+</div>
+
+<a id="comment-39143"></a>
+<div class="comment comment-published clear-block ">
+  <blockquote class="user-post">
+    <div class="post-avatar">
+      <img src="http://www.guitarworld.com/files/imagecache/comment-avatar/sites/guitarworld.com/themes/omega_guitarworld/img/photo_no.jpg" alt="avatar" title=""  class="imagecache imagecache-comment-avatar" width="50" height="50" />    </div>
+    <div class = "comment_right_box">
+		<span class="general-topic">
+		  	
+		  <h3 class="comment_author"><a href="/user/125493" title="View user profile.">jamescashin</a></h3>
+		</span>
+	
+		<p class="post-info">
+		  February 21, 2013 at 3:22pm		</p>
+	
+		<div class="content">
+		  <p>Every flippin' Zep tune is in my top 50, it just depends on what day you ask me.</p>
+		  		</div>
+		
+		<div class="header-inline-text comment_links_bottom">  </div>
+    </div>
+    <div class="clear_both"></div>
+  </blockquote>
+</div>
+
+  <a id="comments_bottom_anchor"></a>
+</div>
+        </div><!-- /#main-content -->
+                        <div id="content-bottom">
+          <form action="/50-greatest-led-zeppelin-songs?destination=node%2F17825#comments_top_anchor"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div class="omega_thickbox_contents"><h2 class="omega_thickbox_masthead">Log in to Guitar World directly or log in using Facebook</h2><div class="omega_thickbox_form"> <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required form-field" /> <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required form-field" /><input type="submit" name="op" id="edit-submit-1" value="Login"  class="form-submit" />
+<p class="omega_thickbox_forgot">Forgot your username or password?<br /><a href="/user/password">Click here for help.</a></p></div><input type="hidden" name="form_build_id" id="form-aeb4afc6a51371dd527d06b140e29cfa" value="form-aeb4afc6a51371dd527d06b140e29cfa"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+<div class="item-list"><ul><li class="first last"><a href="/twitter/redirect"><img src="/sites/all/modules/twitter/twitter_signin/images/Sign-in-with-Twitter-lighter-small.png" alt="Sign in with Twitter" title="" width="136" height="16" /></a></li></ul></div></div><div class="omega_thickbox_facebook"> <fb:login-button  size="medium" onlogin="facebook_onlogin_ready();" background="dark" v="2" scope="email">Login with Facebook</fb:login-button> <div class="description">Log in using Facebook to share comments and articles easily with your Facebook feed.</div>
+</div><div class="omega_thickbox_footer">Don't have an account?&nbsp;<a href="/user/register">Join Now.</a></div>
+</form>
+        </div><!-- /#content-bottom -->
+              </div><!-- /#main-wrapper -->
+
+ </div> <!-- end cunlock_main_content -->
+  
+
+    
+    
+              <div id="sidebar-first" class="column sidebar region grid-4">
+            <div id="block-views-news-block_1" class="block block-views clearfix">
+  <div class="block-header"><h2>LATEST NEWS</h2></div>
+
+  <div class="content">
+    <div class="view view-news view-id-news view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/archive-definitive-kurt-cobain-gear-guide">From the Archive: The Definitive Kurt Cobain Gear Guide</a></span>
+  </div>
+  
+  <div class="views-field-created">
+                <span class="field-content"><em>38 min 5 sec</em> ago</span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/kurt-cobain-talks-gear-and-more-his-final-guitar-world-interview-1992">Kurt Cobain Talks Gear and More in His Final Guitar World Interview from 1992</a></span>
+  </div>
+  
+  <div class="views-field-created">
+                <span class="field-content"><em>39 min 2 sec</em> ago</span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/guitar-world-launches-guitar-world-lessons-app-and-webstore">Guitar World Launches &#039;Guitar World Lessons&#039; App and Webstore</a></span>
+  </div>
+  
+  <div class="views-field-created">
+                <span class="field-content"><em>40 min 50 sec</em> ago</span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/weird-science-10-strangest-vintage-effects-all-time">Weird Science: The 10 Strangest Vintage Effects of All Time</a></span>
+  </div>
+  
+  <div class="views-field-created">
+                <span class="field-content"><em>43 min 28 sec</em> ago</span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/metallica-rehease-perform-welcome-home-sanitarium-february-9-san-francisco-video">Metallica Rehearse, Perform &quot;Welcome Home (Sanitarium)&quot; February 9 in San Francisco â Video</a></span>
+  </div>
+  
+  <div class="views-field-created">
+                <span class="field-content"><em>15 hours 36 min</em> ago</span>
+  </div>
+</li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/black-sabbaths-geezer-butler-and-tony-iommi-fighting-skinheads-and-war-pigs-inspiration">Black Sabbath&#039;s Geezer Butler and Tony Iommi on Fighting with Skinheads, &quot;War Pigs&quot; Inspiration and More</a></span>
+  </div>
+  
+  <div class="views-field-created">
+                <span class="field-content"><em>16 hours 13 min</em> ago</span>
+  </div>
+</li>
+          <li class="views-row views-row-7 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/eric-clapton-be-inducted-blues-hall-fame">Eric Clapton to Be Inducted Into Blues Hall of Fame</a></span>
+  </div>
+  
+  <div class="views-field-created">
+                <span class="field-content"><em>17 hours 19 min</em> ago</span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+  <div id="block-block-111" class="block block-block clearfix">
+
+  <div class="content">
+    <!--paging_filter--><!-- a{ margin-right:10px; } --><!-- a{ margin-right:10px; } --><!--?php $str =  $_SERVER['REQUEST_URI']; $str1 = strpos($str,"acoustic-nation"); if($str1=="1") { ?--><!--?php $str =  $_SERVER['REQUEST_URI']; $str1 = strpos($str,"acoustic-nation"); if($str1=="1") { ?--><p>
+<!--<a href="/acoustic-nation/sponsor" mce_href="/acoustic-nation/sponsor"><img src="http://www.guitarworld.com/sites/guitarworld.com/themes/omega_guitarworld/img/acoustic_nation_graphic.jpg" mce_src="http://www.guitarworld.com/sites/guitarworld.com/themes/omega_guitarworld/img/acoustic_nation_graphic.jpg" alt="Acoustic Nation" /></a>--><!--<a href="/acoustic-nation/sponsor" mce_href="/acoustic-nation/sponsor"><img src="http://www.guitarworld.com/sites/guitarworld.com/themes/omega_guitarworld/img/acoustic_nation_graphic.jpg" mce_src="http://www.guitarworld.com/sites/guitarworld.com/themes/omega_guitarworld/img/acoustic_nation_graphic.jpg" alt="Acoustic Nation" /></a>--></p>
+<!--?php } else {?--><!--?php } else {?--><p>
+<!--<a href="/acoustic-nation" mce_href="/acoustic-nation"><img src="http://www.guitarworld.com/sites/guitarworld.com/themes/omega_guitarworld/img/acousticnation300x100.jpg" mce_src="http://www.guitarworld.com/sites/guitarworld.com/themes/omega_guitarworld/img/acousticnation300x100.jpg" alt="Acoustic Nation" /></a>--><!--<a href="/acoustic-nation" mce_href="/acoustic-nation"><img src="http://www.guitarworld.com/sites/guitarworld.com/themes/omega_guitarworld/img/acousticnation300x100.jpg" mce_src="http://www.guitarworld.com/sites/guitarworld.com/themes/omega_guitarworld/img/acousticnation300x100.jpg" alt="Acoustic Nation" /></a>--></p>
+<!--?php }?--><!--?php }?--><p><!-- a{ margin-right:10px; } --><!-- a{ margin-right:10px; } --></p>
+<!-- a{ margin-right:10px; } --><!-- a{ margin-right:10px; } --><div id="block-sidebar_blocks-unique" class="block block-sidebar_blocks clearfix">
+<div class="content"><a class="marginspace" onmouseover="sidebar_replace(Drupal.settings.sidebar_connect_image_facebook, true)" onmouseout="sidebar_replace(Drupal.settings.sidebar_connect_image_facebook, false)" href="http://www.facebook.com/GuitarWorld"><img src="/sites/guitarworld.com/themes/omega_guitarworld/img/connect_facebook.png" alt="Friend us on Facebook" title="Friend us on Facebook" width="32" height="32" id="sidebar-image-facebook" /></a><a class="marginspace" onmouseover="sidebar_replace(Drupal.settings.sidebar_connect_image_twitter, true)" onmouseout="sidebar_replace(Drupal.settings.sidebar_connect_image_twitter, false)" href="http://twitter.com/guitarworld"><img src="/sites/guitarworld.com/themes/omega_guitarworld/img/connect_twitter.png" alt="Follow us on Twitter" title="Follow us on Twitter" width="32" height="32" id="sidebar-image-twitter" /></a><a class="marginspace" onmouseover="sidebar_replace(Drupal.settings.sidebar_connect_image_podcast, true)" onmouseout="sidebar_replace(Drupal.settings.sidebar_connect_image_podcast, false)" href="http://www.youtube.com/user/guitarworld "><img src="/sites/guitarworld.com/themes/omega_guitarworld/img/connect_podcast.png" alt="Guitar World on YouTube" title="Guitar World on YouTube" width="32" height="32" id="sidebar-image-podcast" /></a><a class="marginspace" href="http://instagram.com/guitarworldmagazine" target="_blank"><img src="http://www.guitarworld.com/sites/guitarworld.com/themes/omega_guitarworld/img/instagram_32.png" alt="Guitar World on Instagram" title="Guitar World on Instagram" width="32" height="32" /></a><a class="marginspace" href="https://www.b2bmediaportal.com/nbmedia/gwd.aspx?"><img src="/sites/guitarworld.com/themes/omega_guitarworld/img/connect_email.png" alt="Sign up for the Guitar World Newsletter" title="Sign up for the Guitar World Newsletter" width="32" height="32" /></a><a class="marginspace" onmouseover="sidebar_replace(Drupal.settings.sidebar_connect_image_googleplus, true)" onmouseout="sidebar_replace(Drupal.settings.sidebar_connect_image_googleplus, false)" href="https://plus.google.com/114697169477642420269"><img src="/sites/guitarworld.com/themes/omega_guitarworld/img/connect_googleplus.png" alt="Guitar World on Google+" title="Guitar World on Google+" width="32" height="32" id="sidebar-image-googleplus" /></a><a class="marginspace" href="https://www.linkedin.com/company/guitar-world"><img src="/sites/guitarworld.com/themes/omega_guitarworld/img/connect_linkedin_32.png" alt="Guitar World on LinkedIn" title="Guitar World on LinkedIn" width="32" height="32" /></a>
+<!-- .newsletter01 {background:url(/files/daily_shred.jpeg) no-repeat; width:300px; height:250px; position:relative;margin-top:15px;} .input01 {position: absolute; bottom: 35px; left: 15px; width:180px; border:none; background:none;} .button01 {position: absolute; bottom: 31px; left: 215px; cursor:pointer}  .newsletter-icon { margin-top:10px; } #block-sidebar_blocks-0 div.content a {margin-right:18px; !important} --><!-- .newsletter01 {background:url(/files/daily_shred.jpeg) no-repeat; width:300px; height:250px; position:relative;margin-top:15px;} .input01 {position: absolute; bottom: 35px; left: 15px; width:180px; border:none; background:none;} .button01 {position: absolute; bottom: 31px; left: 215px; cursor:pointer}  .newsletter-icon { margin-top:10px; } #block-sidebar_blocks-0 div.content a {margin-right:18px; !important} --><!-- The following code was generated by Exacttarget.com. Please do not edit. //--><!-- The following code was generated by Exacttarget.com. Please do not edit. //--><script type="text/javascript">// <![CDATA[
+ 
+
+function isValidEmail(s) {
+
+    var filter=/^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i
+    if (filter.test(s))
+        return true;
+    else 
+        return false;
+}
+    
+// Check whether string s is empty. 
+function isEmpty(s) {
+    return ((s == null) || (s.length == 0)) 
+}
+
+// Returns true if string s is empty or  
+// whitespace characters only. 
+function isWhitespace(s) {            
+    
+    var i;       
+    
+    // Is s empty?     
+    if (isEmpty(s)) return true;       
+    
+    // Search through string's characters one by one     
+    // until we find a non-whitespace character.     
+    // When we do, return false; if we don't, return true.
+    for (i = 0; i &lt; s.length; i++)     {                   
+        // Check that current character isn't whitespace.                
+        var c = s.charAt(i);
+        if (whitespace.indexOf(c) == -1) 
+            return false;
+    }   
+    
+    // All characters are whitespace.     
+    return true; 
+}
+
+function checkForm() {
+    if (!isValidEmail(document.subscribeForm.elements['Email Address'].value)) {
+        document.subscribeForm.elements['Email Address'].style.backgroundColor='yellow';                
+        alert("Please enter a valid Email Address. (name@host.com)");
+        document.subscribeForm.elements['Email Address'].focus();
+        return false;
+    } 
+}
+// ]]></![cdata[></script></div>
+</div>
+  </div>
+</div>
+  <div id="block-block-96" class="block block-block clearfix">
+
+  <div class="content">
+    <!------ OAS AD 'Top' begin ------>
+<SCRIPT LANGUAGE=JavaScript> 
+<!--
+  OAS_AD('Position1');
+//-->
+</SCRIPT>
+
+
+<!------ OAS AD 'Top' begin ------>
+<SCRIPT LANGUAGE=JavaScript> 
+<!--
+ // OAS_AD('x96');
+//-->
+</SCRIPT>  </div>
+</div>
+  <div id="block-block-112" class="block block-block clearfix">
+
+  <div class="content">
+    <!--paging_filter--><p><a href="https://nbmedia.wufoo.com/forms/guitar-world-daily-shred-free-newsletter-signup/" target="_blank"><img src="/files/imce-images/Email-Campaign-300x250bannerV2_opt.jpg" width="300" height="250" /></a></p>
+  </div>
+</div>
+  <div id="block-views-featured_content-block_5" class="block block-views clearfix">
+  <div class="block-header"><h2>Featured Content</h2></div>
+
+  <div class="content">
+    <div class="view view-featured-content view-id-featured_content view-display-id-block_5 view-dom-id-3">
+    
+  
+      <div class="attachment attachment-before">
+      <div class="view view-featured-content view-id-featured_content view-display-id-attachment_1 view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-field-image-featured-fid">
+                <span class="field-content"><a href="/guitar-world-launches-guitar-world-lessons-app-and-webstore" class="imagecache imagecache-must_read imagecache-linked imagecache-must_read_linked"><img src="http://www.guitarworld.com/files/imagecache/must_read/GWO.Scroller_01.08.2015.jpg" alt="" title=""  class="imagecache imagecache-must_read" width="300" height="168" /></a></span>
+  </div>
+  
+  <div class="views-field-field-title-featured-value">
+                <span class="field-content"></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>     </div>
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-field-image-featured-fid">
+                <span class="field-content"><a href="/weird-science-10-strangest-vintage-effects-all-time" class="imagecache imagecache-featured_content imagecache-linked imagecache-featured_content_linked"><img src="http://www.guitarworld.com/files/imagecache/featured_content/weirdscience.jpg" alt="" title=""  class="imagecache imagecache-featured_content" width="140" height="105" /></a></span>
+  </div>
+  
+  <div class="views-field-field-title-featured-value">
+                <span class="field-content"><a href="/weird-science-10-strangest-vintage-effects-all-time">10 Strangest Vintage Effects of All Time</a></span>
+  </div>
+  
+  <div class="views-field-field-tagline-featured-value">
+                <span class="field-content">Our selections for the strangest, most wonderful guitar effects ever unleashed upon...</span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-field-image-featured-fid">
+                <span class="field-content"><a href="/black-sabbaths-geezer-butler-and-tony-iommi-fighting-skinheads-and-war-pigs-inspiration" class="imagecache imagecache-featured_content imagecache-linked imagecache-featured_content_linked"><img src="http://www.guitarworld.com/files/imagecache/featured_content/Screen%20Shot%202015-01-29%20at%203.02.33%20PM.png" alt="" title=""  class="imagecache imagecache-featured_content" width="140" height="105" /></a></span>
+  </div>
+  
+  <div class="views-field-field-title-featured-value">
+                <span class="field-content"><a href="/black-sabbaths-geezer-butler-and-tony-iommi-fighting-skinheads-and-war-pigs-inspiration">Black Sabbath: War Pigs!</a></span>
+  </div>
+  
+  <div class="views-field-field-tagline-featured-value">
+                <span class="field-content">Tony Iommi and Geezer Butler discuss an early but influential confrontation with...</span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-field-image-featured-fid">
+                <span class="field-content"><a href="/take-advantage-guitar-worlds-february-clearance-sale-40-percent-everything" class="imagecache imagecache-featured_content imagecache-linked imagecache-featured_content_linked"><img src="http://www.guitarworld.com/files/imagecache/featured_content/FebClearanceSale2015_home.jpg" alt="" title=""  class="imagecache imagecache-featured_content" width="140" height="105" /></a></span>
+  </div>
+  
+  <div class="views-field-field-title-featured-value">
+                <span class="field-content"></span>
+  </div>
+  
+  <div class="views-field-field-tagline-featured-value">
+                <span class="field-content"></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <div class="views-field-field-image-featured-fid">
+                <span class="field-content"><a href="/acoustic-nation-25-greatest-acoustic-songs-hard-rock" class="imagecache imagecache-featured_content imagecache-linked imagecache-featured_content_linked"><img src="http://www.guitarworld.com/files/imagecache/featured_content/Led_Zeppelin_0.jpg" alt="" title=""  class="imagecache imagecache-featured_content" width="140" height="105" /></a></span>
+  </div>
+  
+  <div class="views-field-field-title-featured-value">
+                <span class="field-content"><a href="/acoustic-nation-25-greatest-acoustic-songs-hard-rock">25 Greatest Acoustic Songs in Hard Rock</a></span>
+  </div>
+  
+  <div class="views-field-field-tagline-featured-value">
+                <span class="field-content">Guitar World presents a guide to the 25 greatest acoustic songs in hard rock.</span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+  <div id="block-sidebar_blocks-2" class="block block-sidebar_blocks clearfix">
+  <div class="block-header"><h2>In the Magazine</h2></div>
+
+  <div class="content">
+    <!--paging_filter--><div id="monthly-issue" class="module red-module">
+<div class="module-content">
+<div class="module-image">
+<div class="issue-image">
+            <a href="http://store.guitarworld.com/collections/guitar-world/products/guitar-world-march-15-black-sabbath/?&amp;utm_source=homepage&amp;utm_medium=website&amp;utm_campaign=sidebar"> <img src="http://cdn.shopify.com/s/files/1/0101/0572/products/GWO_2015.03_1024x1024.jpg?v=1422298235" alt="Guitar World" width="114" height="148" /></a>
+      </div>
+</div>
+<div class="module-text full">
+      <span class="module-header"><a href="http://store.guitarworld.com/collections/guitar-world/products/guitar-world-march-15-black-sabbath?&amp;utm_source=homepage&amp;utm_medium=website&amp;utm_campaign=sidebar">See what's inside</a></span>Current issue on sale now! <a href="http://www.guitarworld.com/mar2015">Click here</a> to see what's inside the new issue and which songs are transcribed.
+<p>      <span class="module-header"><a href="http://guitarworld.myshopify.com/collections/guitar-world/products/guitar-world-march-15-black-sabbath?&amp;utm_source=homepage&amp;utm_medium=website&amp;utm_campaign=sidebar">Buy it now!</a></span><br />
+<span class="module-header"><a href="https://itunes.apple.com/us/app/guitar-world-magazine/id469908707">Now on the iPad</a></span>
+    </p></div>
+</div>
+</div>
+<div>&nbsp;</div>
+<div id="subscribe-block">
+<div class="subscribe-inner-content">
+<a href="https://subscribe.pcspublink.com/sub/subscribe.aspx?guid=5132959e-3f60-41a4-8511-558985596002" target="_blank"><img src="/sites/guitarworld.com/themes/omega_guitarworld/img/subscribe_header.png" /></a>
+</div>
+</div>
+  </div>
+</div>
+  <div id="block-buysub-0" class="block block-buysub clearfix">
+
+  <div class="content">
+    <form action="Not-Specified"  accept-charset="UTF-8" method="post" id="buysub-form" target="buysub">
+<div class='subscribe'><h5>Buy Subscription</h5><div class='subscribe-form'><fieldset class="subcribe_wrapper_fieldset collapsible collapsed"><legend>Subscribe</legend><input type="hidden" name="form_build_id" id="form-d9e48084a926248cfbef72aca7923701" value="form-d9e48084a926248cfbef72aca7923701"  />
+<input type="hidden" name="collapse_wrapper[form_token]" id="edit-buysub-form-form-token" value="63ed4b0650d79cadde052cf169b5c768"  />
+<input type="hidden" name="collapse_wrapper[form_id]" id="edit-buysub-form" value="buysub_form"  />
+</fieldset>
+<div class='subscribe_disclaimer'>Offer is good in US only.  For Canada, <a href="https://subscribe.pcspublink.com/sub/subscribeformtrial2.aspx?t=JWEBPH&amp;p=GTWD">CLICK HERE -->></a></div></div></div>
+</form>
+  </div>
+</div>
+  <div id="block-block-97" class="block block-block clearfix">
+
+  <div class="content">
+    <SCRIPT LANGUAGE=JavaScript> 
+<!--
+  OAS_AD('Position2');
+//-->
+</SCRIPT>  </div>
+</div>
+  <div id="block-views-most_commented_articles-block_1" class="block block-views clearfix">
+  <div class="block-header"><h2>Most Commented Articles</h2></div>
+
+  <div class="content">
+    <div class="view view-most-commented-articles view-id-most_commented_articles view-display-id-block_1 most-commented view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div class="comment-most">
+<div class="cm-count"><span class="comment-count"><a href="/top-20-hair-metal-albums-eighties#comments">45</a></span>Comments</div>
+<div class="cm-title"><a href="/top-20-hair-metal-albums-eighties">Top 20 Hair Metal Albums of the Eighties</a></div>
+</div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div class="comment-most">
+<div class="cm-count"><span class="comment-count"><a href="/top-ten-slow-guitar-solos#comments">29</a></span>Comments</div>
+<div class="cm-title"><a href="/top-ten-slow-guitar-solos">Slow Burn: The Top 10 Slow Guitar Solos</a></div>
+</div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div class="comment-most">
+<div class="cm-count"><span class="comment-count"><a href="/top-10-songs-thatll-get-you-lucky#comments">25</a></span>Comments</div>
+<div class="cm-title"><a href="/top-10-songs-thatll-get-you-lucky">The Top 10 Songs That&#039;ll Get You Lucky</a></div>
+</div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <div class="comment-most">
+<div class="cm-count"><span class="comment-count"><a href="/acoustic-nation-25-greatest-acoustic-songs-hard-rock#comments">21</a></span>Comments</div>
+<div class="cm-title"><a href="/acoustic-nation-25-greatest-acoustic-songs-hard-rock">The 25 Greatest Acoustic Songs In Hard Rock</a></div>
+</div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+    <div class="comment-most">
+<div class="cm-count"><span class="comment-count"><a href="/staged-fight-slashs-eternal-guitar-solo-upsets-michael-jackson-video#comments">12</a></span>Comments</div>
+<div class="cm-title"><a href="/staged-fight-slashs-eternal-guitar-solo-upsets-michael-jackson-video">Staged Fight: Slash&#039;s Eternal Guitar Solo &quot;...</a></div>
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+  <div id="block-block-98" class="block block-block clearfix">
+
+  <div class="content">
+    <SCRIPT LANGUAGE=JavaScript> 
+<!--
+  OAS_AD('Position3');
+//-->
+</SCRIPT>  </div>
+</div>
+  <div id="block-sidebar_blocks-1" class="block block-sidebar_blocks clearfix">
+  <div class="block-header"><h2>GUITAR WORLD ON FACEBOOK</h2></div>
+
+  <div class="content">
+    
+				<iframe src="http://www.facebook.com/plugins/likebox.php?id=68093208973&amp;width=300&amp;connections=10&amp;stream=false&amp;header=false&amp;height=255" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:230px;" allowTransparency="true"></iframe>
+				
+				<div class="fb_recommendations_header">
+					<div class="fb_recommendations_text">Recommendations</div>
+				</div>
+				
+				<div class="fb_recommendations_container">
+					<iframe src="http://www.facebook.com/plugins/recommendations.php?site=http://www.guitarworld.com&amp;width=298&amp;height=300&amp;header=false&amp;colorscheme=light&amp;font=arial&amp;border_color=%23FFFFFF" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:298px; height:300px;" allowTransparency="true"></iframe>
+				</div>  </div>
+</div>
+  <div id="block-views-tweets-block" class="block block-views clearfix">
+  <div class="block-header"><h2>Guitar World on Twitter</h2></div>
+
+  <div class="content">
+    <div class="view view-tweets view-id-tweets view-display-id-block view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-profile-image-url">
+                <span class="field-content"><img src="http://pbs.twimg.com/profile_images/460880158975471616/15QzGTo__normal.jpeg" alt="" title=""  /></span>
+  </div>
+  
+  <span class="views-field-text">
+                <span class="field-content">RT <a target="_blank" rel="nofollow" href="http://twitter.com/JacksonGuitars">@JacksonGuitars</a>: This <a target="_blank" rel="nofollow" href="http://search.twitter.com/search?q=%23CustomShop">#CustomShop</a> (faux) Leopard <a target="_blank" rel="nofollow" href="http://search.twitter.com/search?q=%23Soloist">#Soloist</a> is a beast! More Instagram pics here: <a target="_blank" rel="nofollow" href="http://t.co/nitH6KMPd3" title="http://t.co/nitH6KMPd3">http://t.co/nitH6KMPd3</a> http://t.co/nB4RRâ¦</span>
+  </span>
+       &#8212;   
+  <span class="views-field-created-time">
+                <span class="field-content"><em>2 hours 58 min</em> ago</span>
+  </span>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-profile-image-url">
+                <span class="field-content"><img src="http://pbs.twimg.com/profile_images/460880158975471616/15QzGTo__normal.jpeg" alt="" title=""  /></span>
+  </div>
+  
+  <span class="views-field-text">
+                <span class="field-content">.@GuitarWorld's 10 Essential Classic Rock Guitar Albums - <a target="_blank" rel="nofollow" href="http://t.co/f3FTgGkWco" title="http://t.co/f3FTgGkWco">http://t.co/f3FTgGkWco</a> <a target="_blank" rel="nofollow" href="http://twitter.com/vanhalen">@vanhalen</a> <a target="_blank" rel="nofollow" href="http://twitter.com/Thebeatles">@Thebeatles</a> <a target="_blank" rel="nofollow" href="http://t.co/gJoAAwtMWb" title="http://t.co/gJoAAwtMWb">http://t.co/gJoAAwtMWb</a></span>
+  </span>
+       &#8212;   
+  <span class="views-field-created-time">
+                <span class="field-content"><em>15 hours 10 min</em> ago</span>
+  </span>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-profile-image-url">
+                <span class="field-content"><img src="http://pbs.twimg.com/profile_images/460880158975471616/15QzGTo__normal.jpeg" alt="" title=""  /></span>
+  </div>
+  
+  <span class="views-field-text">
+                <span class="field-content">NEW FLY-ON-THE-WALL VIDEO: <a target="_blank" rel="nofollow" href="http://twitter.com/Metallica">@Metallica</a> Rehearse and Perform February 9 in <a target="_blank" rel="nofollow" href="http://search.twitter.com/search?q=%23SanFrancisco">#SanFrancisco</a> - <a target="_blank" rel="nofollow" href="http://t.co/wNwSQ2sMr5" title="http://t.co/wNwSQ2sMr5">http://t.co/wNwSQ2sMr5</a> <a target="_blank" rel="nofollow" href="http://t.co/pIswNoRLzr" title="http://t.co/pIswNoRLzr">http://t.co/pIswNoRLzr</a></span>
+  </span>
+       &#8212;   
+  <span class="views-field-created-time">
+                <span class="field-content"><em>15 hours 30 min</em> ago</span>
+  </span>
+</li>
+          <li class="views-row views-row-4 views-row-even views-row-last">  
+  <div class="views-field-profile-image-url">
+                <span class="field-content"><img src="http://pbs.twimg.com/profile_images/460880158975471616/15QzGTo__normal.jpeg" alt="" title=""  /></span>
+  </div>
+  
+  <span class="views-field-text">
+                <span class="field-content">Happy Birthday to <a target="_blank" rel="nofollow" href="http://twitter.com/TonyIommi">@TonyIommi</a> of <a target="_blank" rel="nofollow" href="http://twitter.com/BlackSabbath">@BlackSabbath</a> !!! Born on this frosty date in 1948! <a target="_blank" rel="nofollow" href="http://search.twitter.com/search?q=%23Iommi">#Iommi</a> <a target="_blank" rel="nofollow" href="http://search.twitter.com/search?q=%23sabbath">#sabbath</a> <a target="_blank" rel="nofollow" href="http://t.co/Iac25BlLz9" title="http://t.co/Iac25BlLz9">http://t.co/Iac25BlLz9</a></span>
+  </span>
+       &#8212;   
+  <span class="views-field-created-time">
+                <span class="field-content"><em>16 hours 6 min</em> ago</span>
+  </span>
+</li>
+      </ul>
+</div>    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-previous first">&nbsp;</li><li class="pager-current">1 of 433</li><li class="pager-next last"><a href="/50-greatest-led-zeppelin-songs?page=0%2C1" class="active">âºâº</a></li></ul></div>  
+  
+      
+<div class="more-link">
+  <a href="/tweets">
+    more  </a>
+</div>
+  
+  
+  
+</div>   </div>
+</div>
+        </div><!-- /#sidebar-first -->
+          
+              <div id="sidebar-last" class="column sidebar region ">
+                  </div><!-- /#sidebar-last -->
+          </div><!-- /#main-content-container -->
+    
+        <div id="postscript-wrapper" class="container-12 clearfix">
+                            </div><!-- /#postscript-wrapper -->
+      </div><!-- /#page -->
+    
+   
+ <div align="center">
+
+<!------ OAS SETUP begin ------>
+<!------ OAS SETUP end ------>
+
+<!------ OAS AD 'Top' begin ------>
+<SCRIPT LANGUAGE=JavaScript> 
+<!--
+// 
+OAS_AD('Bottom');
+//-->
+</SCRIPT>
+</div>
+
+
+  <div id="footer" class="clearfix">
+    <div id="footer-wrapper" class="container-12 clearfix">
+              <div id="footer-first" class="grid-12">
+            <div id="block-menu-menu-footer-first" class="block block-menu">
+
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/" class="" title="">Home</a></li>
+<li class="leaf"><a href="/interviews" class="" title="">Interviews</a></li>
+<li class="leaf"><a href="/features" class="" title="">Features</a></li>
+<li class="leaf"><a href="/lessons" class="" title="">Lessons</a></li>
+<li class="leaf"><a href="/gear" class="" title="">Gear</a></li>
+<li class="leaf"><a href="/artists" class="" title="">Artists</a></li>
+<li class="leaf"><a href="/features/girls-guitar-world" class="" title="">Girls</a></li>
+<li class="leaf"><a href="http://store.guitarworld.com/?&amp;utm_source=guitarworld.com&amp;utm_medium=footer&amp;utm_campaign=store" class="" title="">Store</a></li>
+<li class="leaf last"><a href="https://subscribe.pcspublink.com/sub/subscribe.aspx?guid=d2e0acd7-5fc7-4bf2-acfe-7a0f58bb71c9" target="_blank">Subscribe</a></li>
+</ul>  </div>
+</div>
+  <div id="block-menu-menu-footer-second" class="block block-menu">
+
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/news" class="" title="">News</a></li>
+<li class="leaf"><a href="/blogs" class="" title="">Blogs</a></li>
+<li class="leaf"><a href="/contests" class="" title="">Contests</a></li>
+<li class="leaf last"><a href="/galleries" class="" title="">Galleries</a></li>
+</ul>  </div>
+</div>
+  <div id="block-menu-menu-footer-last" class="block block-menu">
+
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="https://subscribe.pcspublink.com/sub/subscribe.aspx?guid=d2e0acd7-5fc7-4bf2-acfe-7a0f58bb71c9" target="_blank">Subscribe</a></li>
+<li class="leaf"><a href="/about_us" title="About Us">About Us</a></li>
+<li class="leaf"><a href="/advertising_contacts" title="Advertising Contacts">Advertising</a></li>
+<li class="leaf"><a href="http://www.newbaymedia.com/privacy-policy/" target="_blank">Privacy Policy</a></li>
+<li class="leaf"><a href="http://www.newbaymedia.com/terms-and-conditions/">Terms &amp; Conditions</a></li>
+<li class="leaf"><a href="/rss.xml" target="_blank">RSS Feeds</a></li>
+<li class="leaf"><a href="http://www.guitarworld.com/sitemap.xml" class="" title="">Site Map</a></li>
+<li class="leaf"><a href="https://subscribe.pcspublink.com/Wbsis/default.aspx?pub=GTWD">Customer Service</a></li>
+<li class="leaf last"><a href="http://www.guitarworld.com/faq" target="_blank">FAQ</a></li>
+</ul>  </div>
+</div>
+        </div><!-- /#footer-first -->
+                  
+      <div id="copy-logos" class="grid-12 clearfix">
+        <div id="copy-notice">
+          <p>Copyright 2015 &copy; NewBay Media, LLC. 28 East 28th Street, 12th floor, New York, NY 10016 T (212) 378-0400 F (917) 281-4704</p>
+        </div>
+        <a href="http://www.nbmedia.com/" rel="nofollow" class="sm-logo" target="_blank"><img src="/sites/guitarworld.com/themes/omega_guitarworld/img/nbmedia.png" alt="" title="" width="161" height="40" /></a>        <a href="http://www.techradar.com/" rel="nofollow" class="sm-logo"></a>    </div
+      
+      
+    </div><!-- /#footer-wrapper -->
+  </div><!-- /#footer -->
+  
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-903660h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-903660h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+    width="1" height="1" alt="" />
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+<!-- Begin comScore Tag -->
+
+<script>
+
+  var _comscore = _comscore || [];
+
+  _comscore.push({ c1: "2", c2: "8430700" });
+
+  (function() {
+
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+
+    el.parentNode.insertBefore(s, el);
+
+  })();
+
+</script>
+
+<noscript>
+
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8430700&cv=2.0&cj=1" />
+
+</noscript>
+
+<!-- End comScore Tag -->
+
+
+
+<script type="text/javascript">
+var _sf_async_config={uid:21390,domain:"guitarworld.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+        <div id="fb-root"></div>
+      <script type="text/javascript">
+        window.fbAsyncInit = function() {
+          FB.init({
+            appId  : '188272271194505',
+            status : true, // check login status
+            cookie : true, // enable cookies to allow the server to access the session
+            xfbml  : true,
+            logging: '0',
+            channelURL: 'http://www.guitarworld.com/sites/all/modules/fbconnect/channel.html',
+            oauth : true
+          });
+
+          jQuery(document).trigger('fb:init');
+        };
+
+        (function() {
+          var e = document.createElement('script');
+          e.src = document.location.protocol + '//connect.facebook.net//all.js';
+          e.async = true;
+          document.getElementById('fb-root').appendChild(e);
+        }());
+      </script>
+<div style="display: none"><form action="/50-greatest-led-zeppelin-songs?destination=node%2F17825"  accept-charset="UTF-8" method="post" id="fbconnect-autoconnect-form">
+<input type="submit" name="op" id="edit-connect" value="Connect"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-91738879c98b250bf7db4aef6514a6ad" value="form-91738879c98b250bf7db4aef6514a6ad"  />
+<input type="hidden" name="form_id" id="edit-fbconnect-autoconnect-form" value="fbconnect_autoconnect_form"  />
+
+</form>
+</div>
+<div id="fb-root"></div><script type="text/javascript">
+     window.fbAsyncInit = function() {
+       FB.init({
+         appId: "188272271194505",
+         status: true, 
+         cookie: true,
+         xfbml: true});
+       
+         jQuery.event.trigger('fb:init');    
+     };
+     (function() {
+       var e = document.createElement('script'); 
+       e.async = true;
+       e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+       document.getElementById('fb-root').appendChild(e);
+     }());
+  </script><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-6661635-1"]);
+	// set custom variables if on node page
+	_gaq.push(['_setCustomVar', 1, 'article_editor', 'Jimmy_Brown', 3]);
+	_gaq.push(['_setCustomVar', 2, 'article_head', 'The_50_Greatest_Led_Zeppelin_Songs', 3]);
+	_gaq.push(['_setCustomVar', 3, 'article_date', '2015-Jan', 3]);
+	_gaq.push(['_setCustomVar', 4, 'article_type', 'GW_Archive%2CGuitar_World_Lists%2CNews%2CFeature', 3]);
+	_gaq.push(['_setCustomVar', 5, 'article_ucid', 'Guitar_World-17825', 3]);
+_gaq.push(["_trackPageview"]);
+	// clear custom variables if on node page
+	_gaq.push(['_deleteCustomVar', 1]);
+	_gaq.push(['_deleteCustomVar', 2]);
+	_gaq.push(['_deleteCustomVar', 3]);
+	_gaq.push(['_deleteCustomVar', 4]);
+	_gaq.push(['_deleteCustomVar', 5]);
+(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-KEKEBNaa-jbF7"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-KEKEBNaa-jbF7.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<iframe style=display:none;" width="0" height="0" src="http://tags.audiencefuel.com/viewtrack.aspx" frameborder="0" />
+<script type="text/javascript">
+// <![CDATA[
+var _ls_pub_id = "985";
+(function(d, t){
+var mb = d.createElement(t), s = d.getElementsByTagName(t)[0];
+mb.async = mb.src = '//cdn.linksmart.com/linksmart.js';
+s.parentNode.insertBefore(mb, s);
+}(document, 'script'))
+// ]]>
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"89c68bc6d2","applicationID":"7005087","transactionName":"ZVQENhRXVktSW0xfW1weJwESX1dWHFZXUlFtQQcFA2lOUVZP","queueTime":0,"applicationTime":7562,"atts":"SRMHQFxNRUU=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-536.min.js"}</script></body>
+</html>
+

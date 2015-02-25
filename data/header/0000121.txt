@@ -1,0 +1,16 @@
+Server: nginx/1.2.3
+Date: Fri, 20 Feb 2015 20:03:29 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Status: 200 OK
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "a8a8661740b248466615846ab9b898aa"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: cart=%7B%7D; domain=simonandschuster.com; path=/; expires=Sat, 21-Feb-2015 20:03:29 GMT
+Set-Cookie: _holos_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTQ4YTI0ZjRiMWEyODEzZTBhYTQxNDliMzQzMGY5MjY0BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUxJM2VtTXRnRlZnc1RmMko0U0xRNDNRRVBTMWlSRlJiWjlqT2syajM1clU9BjsARg%3D%3D--09414a66f92ba12b05ef08211f87b16d2151ab14; path=/; HttpOnly
+Set-Cookie: type_ahead=; domain=simonandschuster.com; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
+X-Request-Id: fc5859a3e7c8d265b5e8c42136c6de5b
+X-Runtime: 0.503434
+X-Rack-Cache: miss
+

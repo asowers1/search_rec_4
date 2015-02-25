@@ -1,0 +1,15 @@
+Server: nginx/1.4.4
+Content-Type: text/html;charset=utf-8
+Status: 200 OK
+X-XSS-Protection: 1; mode=block
+X-UA-Compatible: IE=edge,chrome=1
+X-Varnish: 1045161868
+X-Origin: Matterhorn
+Vary: Accept-Encoding
+Cache-Control: public, max-age=1327
+Date: Fri, 20 Feb 2015 20:53:39 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+X-Origin: Matterhorn
+

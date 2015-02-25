@@ -1,0 +1,13 @@
+Date: Fri, 20 Feb 2015 19:47:29 GMT
+Server: Apache
+expires: Thu, 01 Dec 1994 16:00:00 GMT
+cache-control: no-cache
+pragma: no-cache
+Set-Cookie: RMID=007f010013b254e78f510007; Expires=Sat, 20 Feb 2016 19:47:29 GMT; Path=/; Domain=.nytimes.com;
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+X-API-Version: 4
+Vary: Host
+Content-Length: 13131
+Connection: close
+Content-Type: text/html
+

@@ -1,0 +1,971 @@
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+  <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+  <link rel="icon" type="image/vnd.microsoft.icon" href="/media/static/assets/images/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="57x57" href="/media/static/assets/images/touch-icon-iphone.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="/media/static/assets/images/touch-icon-iphone.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="/media/static/assets/images/touch-icon-iphone-144.png" />
+  <link rel="apple-touch-icon" sizes="144x144" href="/media/static/assets/images/touch-icon-iphone-144.png" />
+
+  <title>Murder in the Monastery? by Richard Ellmann | The New York Review of Books</title>
+
+  
+    <link rel="stylesheet" href="//f.fontdeck.com/s/css/Y5LISEPuN4lJJ61tmeb14UEx/oY/www.nybooks.com/1127.css" type="text/css" />
+
+    <link rel="stylesheet" href="/media/static/assets/_assets/css/bootstrap-optimized.css" type="text/css" />
+
+    <link rel="stylesheet" href="/media/static/assets/_assets/css/overrides.css" type="text/css" />
+
+    
+  <link rel="stylesheet" href="/media/static/assets/_assets/css/print.css" type="text/css" media="print" />
+
+    <!--[if IE]><link rel="stylesheet" href="/media/static/assets/_assets/css/ie.css" type="text/css" media="screen" /><![endif]-->
+  
+  
+  
+  <script type="text/javascript" src="/media/static/assets/_assets/js/lib/jquery.js"></script>
+  
+        <script data-main="/media/static/assets/_assets/js/app-opt.js" src="/media/static/assets/_assets/js/require.js"></script>        
+        <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+        <script src="/media/static/assets/_assets/js/lib/html5shiv.js"></script>
+        <![endif]-->
+    
+
+  
+
+  
+  
+
+  
+
+  <meta property="og:url" content="http://www.nybooks.com/articles/archives/1983/jul/21/murder-in-the-monastery/" />
+  <meta property="og:type" content="article" /> 
+  <meta property="og:title" content="Murder in the Monastery? by Richard Ellmann" />
+  <meta property="og:description" content="Signs on a white field by Umberto Eco, the Italian semiotician and now novelist as well, bring us by a commodius vicus of recirculation back to the year 1327. The preface would have us believe that in 1968 Eco was handed a  translation, made in 1842 by a French abbÃ©, of a fourteenth-century Latin manuscript by a Benedictine monk, one Adso of Melk. Adso has a horrible history to tell ..." />
+  
+    
+  
+  
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:url" content="http://www.nybooks.com/articles/archives/1983/jul/21/murder-in-the-monastery/"/>
+  <meta name="twitter:title" content="Murder in the Monastery?"/>
+  <meta name="twitter:description" content="Signs on a white field by Umberto Eco, the Italian semiotician and now novelist as well, bring us by a commodius vicus of recirculation back to the year 1327. The preface would have us believe that in 1968 Eco was handed a  translation, made in 1842 by a French abbÃ©, of a fourteenth-century Latin manuscript by a Benedictine monk, one Adso of Melk. Adso has a horrible history to tell ..."/>
+  <meta name="twitter:site" content="@nybooks"/>
+  
+  
+  <link rel="canonical" href="http://www.nybooks.com/articles/archives/1983/jul/21/murder-in-the-monastery/"/>
+  
+  
+
+  <script>
+    tdi_templateID = "base"; 
+  </script>
+  <script async>
+    (function() {
+  	  __mtm = [ '52af55a723f1b9ed790002bf', 'd36wtdrdo22bqa.cloudfront.net/mngr', 'tdi.mezzobit.com' ];
+  	  var s = document.createElement('script');
+  	  s.async = 1;
+  	  s.src = '//' + __mtm[1] + '/mtm.js';
+  	  var e = document.getElementsByTagName('script')[0];
+  	  (e.parentNode || document.body).insertBefore(s, e);
+	})();
+  </script>
+</head>
+
+<body class="context_nyrb page_article article-detail article-slug-murder-in-the-monastery page-1">
+ <div id="fb-connect"></div>
+ 
+  <div id="wrapper">
+  <div class="account_toolbar">
+    <div class="container">
+      <div class="row">
+        <div class="span12">
+          <div class="primary">
+            <div class="log_in_register">
+              
+                
+                  <strong>Welcome</strong> (<a href="/account/signin/?next=/articles/archives/1983/jul/21/murder-in-the-monastery/">sign in</a> | <a href="https://subscribe.nybooks.info/ecom/nyb/app/live/web_user_maint?org=NYB&pagemode=a">sign up</a>)
+                
+                            
+            </div>
+          </div><!--.primary--> 
+          <div class="secondary">
+            
+            <div class="social">
+              <ul>
+                <li class="google">
+                  <a href="http://www.google.com/+nybooks">
+                    <i class="icon-google-plus"></i>
+                    <span class="text">Google+</span>
+                  </a>  
+                </li>
+                <li class="facebook">
+                  <a href="http://www.facebook.com/nybooks">
+                    <i class="icon-facebook"></i>
+                    <span class="text">Facebook</span>
+                  </a>  
+                </li>
+                <li class="twitter">
+                  <a href="http://twitter.com/nybooks">
+                    <i class="icon-twitter"></i>
+                    <span class="text">Twitter</span>
+                  </a>  
+                </li>
+                <li class="rss">
+                  <a href="/rss/">
+                    <i class="icon-rss"></i>
+                    <span class="text">RSS</span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            
+            <div class="divider"></div>
+            <div class="cart">
+              <a href="/catalog/cart/">Shopping cart (0 items)</a> 
+            </div>
+          </div><!--.secondary--> 
+        </div><!--.span12-->
+      </div><!--.row-->
+    </div><!--.container-->
+  </div><!--.account_toolbar-->  
+
+  
+  <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+          <div class="container-fluid">
+              <button id="header_menu_btn_search" type="button" class="btn btn-navbar" data-toggle="collapse" data-parent="#header_menus" data-target="#header_main_menu">
+                  <a href="#"><i class="icon-search icon-white"></i></a>
+              </button>
+              <button id="header_menu_btn_main" type="button" class="btn btn-navbar" data-toggle="collapse" data-parent="#header_menus" data-target="#header_search_menu">
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+              </button>
+              <a class="brand" href="/?insrc=log">
+                <!--
+                  12/01/14: Chrome Version 39.0.2171.71 not rendering full icon
+                            comment out span for now, and remove `hidden` class from
+                            image fallback.
+
+                  <span aria-hidden="true" class="icomoon icomoon-icon-NYRB"></span>
+                -->
+                <img class="windows_logo_fallback" src="/media/static/assets/_assets/img/icon/nyrb_inv.png" />
+              </a>
+              <div class="accordion" id="header_menus">
+                  <div class="accordion-group">
+                    <div id="header_main_menu" class="accordion-body collapse" style="height: 0;">
+                      <div class="rule"></div>
+                      <div class="accordion-inner phone_search">
+                        <form method="get" action="/search/">
+                          <div class="input-append">
+                            <input class="span3" id="search appendedInputButton" name="q" type="text" placeholder="Enter search keywords...">
+                            <input type="hidden" name="origin" value="magazine"/>
+                            <input type="submit" class="btn" type="button btn-small" value="Search" />               
+                          </div>
+                          <div class="advanced_search_link">
+                            <a href="/search/">Advanced Search</a>
+                          </div>
+                        </form>                        
+                      </div><!-- .accordion-inner -->
+                    </div><!-- #header_main_menu -->
+                  </div><!-- .accordion-group -->
+                  <div class="accordion-group">
+                    <div id="header_search_menu" class="accordion-body collapse" style="height: 0;">
+                      <div class="rule"></div>
+                      <div class="accordion-inner">
+                          <p class="navbar-text">
+                            
+                              
+                                <strong>Welcome</strong> (<a href="/account/signin/?next=/articles/archives/1983/jul/21/murder-in-the-monastery/">sign in</a> | <a href="https://subscribe.nybooks.info/ecom/nyb/app/live/web_user_maint?org=NYB&pagemode=a">sign up</a>)
+                              
+                                                                 
+                          </p>
+                          <ul class="nav" data-level="1">
+                              <li>
+                              <a href="/catalog/cart/">Shopping cart (0 items)</a>
+                              </li>
+                              
+    
+    
+	<li class="navsubscribe"><a class="navsubscribe_a" href="/subscriptions/order/" title="">Subscribe</a>
+		<ul data-level="2">
+			
+			<li ><a href="/subscriptions/order/" title="Subscribe to The New York Review">Start a Print Subscription</a></li>
+			
+			<li ><a href="/subscriptions/premium/" title="Start a Print Premium Subscription">Print Premium Subscription</a></li>
+			
+			<li ><a href="/subscriptions/gift/" title="Give a Gift">Give a Gift Subscription</a></li>
+			
+			<li ><a href="/renew/" title="Renew your Subscriptions">Renew a Subscription</a></li>
+			
+			<li ><a href="/subscriptions/online/" title="Subscribe to the Online Edition">Online Edition</a></li>
+			
+			<li ><a href="/subscriptions/digital-editions/" title="Subscribe to a Digital Edition">Digital Editions</a></li>
+			
+			<li ><a href="/institution/" title="Academic and Institutional Subscriptions">Academic/Institutional</a></li>
+			
+			<li ><a href="https://subscribe.nybooks.info/ecom/nyb/app/live/subcustserv?org=NYB&publ=NY&php=y" title="Subscriber Customer Service">Customer Service</a></li>
+			
+			<li ><a href="/subscriber-alert/" title="Subscriber Alert!">Subscriber Alert</a></li>
+			
+		</ul>
+	</li>
+	
+	
+    
+	<li class="navcurrent-issue"><a class="navcurrent-issue_a" href="/issues/current-issue/" title="Table of Contents">Current Issue</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navblogs"><a class="navblogs_a" href="/blogs/" title="">Blogs</a>
+		<ul data-level="2">
+			
+			<li ><a href="/blogs/nyrblog/" title="">NYRblog</a></li>
+			
+			<li ><a href="/blogs/gallery/" title="">The Gallery</a></li>
+			
+			<li ><a href="/blogs/50-years/" title="">Rereadings</a></li>
+			
+		</ul>
+	</li>
+	
+	
+    
+	<li class="navevents"><a class="navevents_a" href="/events/" title="Upcoming Events">Events</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navprint-archive"><a class="navprint-archive_a" href="/issues/" title="">Print Archive</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navclassifieds"><a class="navclassifieds_a" href="/classifieds/" title="">Classifieds</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navshop"><a class="navshop_a" href="/shop/" title="Shop">Shop</a>
+		<ul data-level="2">
+			
+			<li ><a href="/galleries/" title="">Illustrations</a></li>
+			
+		</ul>
+	</li>
+	
+	
+    
+	<li class="navnewsletters last"><a class="navnewsletters_a" href="/newsletter/magazine/" title="Sign Up for Our Newsletters">Newsletters</a>
+		
+			
+		
+	</li>
+	
+	
+
+                              
+    
+
+                              <li>
+                                  <a href="/books/">Books</a>
+                              </li>           
+                          </ul>
+                      </div><!-- .accordion-inner -->
+                    </div><!-- #header_search_menu -->
+                  </div><!-- .accordion-group -->
+                </div><!-- #header_menus.accordion -->
+          </div><!-- .navbar-inner -->
+      </div>
+  </div>
+  
+
+  <div class="container">
+    
+    <div class="row">
+      <div class="span12">
+        <header class="site">
+          
+          <h1 class="logo">
+            <a href="/?insrc=log">
+              <!--
+                12/01/14: Chrome Version 39.0.2171.71 not rendering full icon
+                          comment out span for now, and remove `hidden` class from
+                          image fallback.
+
+                <span aria-hidden="true" class="icomoon icomoon-icon-NYRB"></span>
+              -->
+              <img class="windows_logo_fallback" src="/media/static/assets/_assets/img/icon/NYRB.png" />
+            </a>
+          </h2>
+               
+          <div class="header_search">
+            <form method="get" action="/search/">
+              <div class="input-append">
+                <input class="span3" id="search appendedInputButton" name="q" type="text" placeholder="Enter search keywords...">
+                <input type="hidden" name="origin" value="magazine"/>
+                <button type="submit">
+                    <span class="add-on"><i class="icon-search"></i></span>
+                </button>                
+              </div>
+              <div class="advanced_search_link">
+                <a href="/search/">Advanced Search</a>
+              </div>
+            </form>
+          </div>
+          
+          <div class="desktop_nav">
+            <ul data-level="1">
+              
+    
+    
+	<li class="navsubscribe"><a class="navsubscribe_a" href="/subscriptions/order/" title="">Subscribe</a>
+		<ul data-level="2">
+			
+			<li ><a href="/subscriptions/order/" title="Subscribe to The New York Review">Start a Print Subscription</a></li>
+			
+			<li ><a href="/subscriptions/premium/" title="Start a Print Premium Subscription">Print Premium Subscription</a></li>
+			
+			<li ><a href="/subscriptions/gift/" title="Give a Gift">Give a Gift Subscription</a></li>
+			
+			<li ><a href="/renew/" title="Renew your Subscriptions">Renew a Subscription</a></li>
+			
+			<li ><a href="/subscriptions/online/" title="Subscribe to the Online Edition">Online Edition</a></li>
+			
+			<li ><a href="/subscriptions/digital-editions/" title="Subscribe to a Digital Edition">Digital Editions</a></li>
+			
+			<li ><a href="/institution/" title="Academic and Institutional Subscriptions">Academic/Institutional</a></li>
+			
+			<li ><a href="https://subscribe.nybooks.info/ecom/nyb/app/live/subcustserv?org=NYB&publ=NY&php=y" title="Subscriber Customer Service">Customer Service</a></li>
+			
+			<li ><a href="/subscriber-alert/" title="Subscriber Alert!">Subscriber Alert</a></li>
+			
+		</ul>
+	</li>
+	
+	
+    
+	<li class="navcurrent-issue"><a class="navcurrent-issue_a" href="/issues/current-issue/" title="Table of Contents">Current Issue</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navblogs"><a class="navblogs_a" href="/blogs/" title="">Blogs</a>
+		<ul data-level="2">
+			
+			<li ><a href="/blogs/nyrblog/" title="">NYRblog</a></li>
+			
+			<li ><a href="/blogs/gallery/" title="">The Gallery</a></li>
+			
+			<li ><a href="/blogs/50-years/" title="">Rereadings</a></li>
+			
+		</ul>
+	</li>
+	
+	
+    
+	<li class="navevents"><a class="navevents_a" href="/events/" title="Upcoming Events">Events</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navprint-archive"><a class="navprint-archive_a" href="/issues/" title="">Print Archive</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navclassifieds"><a class="navclassifieds_a" href="/classifieds/" title="">Classifieds</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navshop"><a class="navshop_a" href="/shop/" title="Shop">Shop</a>
+		<ul data-level="2">
+			
+			<li ><a href="/galleries/" title="">Illustrations</a></li>
+			
+		</ul>
+	</li>
+	
+	
+    
+	<li class="navnewsletters last"><a class="navnewsletters_a" href="/newsletter/magazine/" title="Sign Up for Our Newsletters">Newsletters</a>
+		
+			
+		
+	</li>
+	
+	
+
+              
+    
+
+              <li class="books"><a class="" title="New York Review Books" href="/books/"><img src="/media/static/assets/_assets/img/common/books.png" /></a></li>
+            </ul>
+          </div>
+            
+        </header>
+      </div>
+    </div>
+    
+    
+          
+  <div class="row">  
+    <header class="span12 default_header">
+      <h2></h2>
+    </header>
+    <hr class="header_rule">
+  </div>
+
+    
+    <div class="row">
+    
+
+<div class="span8 body_column">
+  <article class="article">
+
+  
+  
+    
+      <script>
+        tdi_subTemplateID = "magazineArticleDetail";
+      </script>
+      
+          
+
+<div class="row article_toolbar">
+    <span class="span5">
+        <ul class="tools">
+               
+            
+            
+            <li class="visible-desktop">
+                <a href="?pagination=false&amp;printpage=true" target="_blank">Print</a>
+            </li>
+            
+                        
+        </ul>
+    </span>
+    <span class="span3">
+    	
+        <ul class="social">
+            <li>
+				<a href="https://twitter.com/share" class="twitter-share-button" data-text="Murder in the Monastery? by Richard Ellmann" data-via="nybooks" data-count="none">Tweet</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+            </li>
+            <li class="facebook">
+				<div class="fb-share-button" data-href="http://www.nybooks.com/articles/archives/1983/jul/21/murder-in-the-monastery/" data-type="button"></div>            
+			</li>
+        </ul>
+        
+    </span>
+</div><!-- .article_toolbar -->
+
+      
+
+      
+        
+        
+          <header>
+            <h2>Murder in the Monastery?</h2>
+            <div class="clearfix"></div>
+            <div class="author">
+
+<a href="/contributors/richard-ellmann/">Richard Ellmann</a></div>
+            <div class="details">
+              <time>
+                <a href="/issues/1983/jul/21/">July 21, 1983 Issue</a>
+              </time>
+            </div>            
+          </header>
+        
+        
+
+      <!-- <div class="art-copy "> -->
+      <section class="article_body">   
+
+        <!-- for readability -->
+        
+
+        
+          
+        
+
+        
+          
+            <section class="reviewed_articles">
+              
+                
+                  <article>
+                    <h4>
+    The Name of the Rose
+</h4>
+                    <div class="attribution">by Umberto Eco, translated by William Weaver</div>
+                    <div class="details">
+A Helen and Kurt Wolff Book/Harcourt Brace Jovanovich, 502 pp., $15.95
+  </div>
+                  </article>
+                
+              
+            </section>
+          
+        
+       
+        <p>Signs on a white field by Umberto Eco, the Italian semiotician and now novelist as well, bring us by a commodius vicus of recirculation back to the year 1327. The preface would have us believe that in 1968 Eco was handed a  translation, made in 1842 by a French abbÃ©, of a fourteenth-century Latin manuscript by a Benedictine monk, one Adso of Melk. Adso has a horrible history to tell, of murderous doings ending in &#8220;ecpyrosis&#8221; in a Benedictine monastery near the Apennines. These deeds are elaborately crisscrossed by the factions and schisms of the time. Eco would probably say that the structure is closed rather than open, as befits a medieval situation, and certainly his book hangs tightly and conclusively together. It is not the less strange for that.
+</p><p></p><p class="initial">
+<i>The Name of the Rose</i> succeeds in being amusing and ambitious at the same time. It can be regarded as a philosophical novel masked as a detective story, or as a detective story masked as a historical novel, or even better as a blend of all three. The venture sounds improbable, but Eco carries it out. Though his previous books have often been technical contributions to semiotics, he has written well about such writers as Ian Fleming, EugÃ¨ne Sue, and James Joyce, as well as about such subjects as the Superman comic strip. New to the novelist&#8217;s business, he is thoroughly in control. His title would seem to be explained by the final sentence in which Adso, years after the events described, writes, &#8220;I leave this manuscript, I do not know for whom; I no longer know what it is about: stat rosa pristina nomine, nomina nuda tenemus.&#8221; Un Latined, this seems to mean that he offers the thing itself and not the interpretation. The rose is a rose in all its being and name; as for us, in a fallen and later time, we hear only empty names.</p>
+
+<!-- 300x250-ArticleP1 -->
+<div id="article-p1"></div>
+<p>This is not the only use of Latin in the book; some of its flavor comes from a sporadic interfusion of such phrases, most of them quickly paraphrased though this one is not. <i>The Name of the Rose</i> is delineated in seven days, as if to suggest some medieval version of the unities, based upon the days of creation. These seven days are in their turn divided into sections based upon the canonical hours. Eco offers two diagrams almost as elaborate as those that appear in his works on semiotics. One is of the monastery itself, an imposing edifice; the other is of the library, which is planned as a labyrinth. He also affords us the teasing pleasure of a code based upon the zodiacal figures.
+</p><p>What Adso has to tell is unexpected. He is a bumbling, sobersided, pietistic Dr. Watson, and he accompanies a Franciscan monk from England, William of Baskerville. William&#8217;s mission is to negotiate between the emperor, Louis IV, and that dubious pope John XXII (whose name no other pope would take until the twentieth century &#8230;</p>
+        
+        
+
+        
+      <!-- end for readability -->
+    
+   
+
+  
+    <div class="paywall">
+      <p><strong>This article is available to online subscribers only.</strong><br/>
+      Please choose from one of the options below to access this article:</p>
+      <div style="border-bottom:1px solid #ccc; margin-bottom:20px;"></div>
+      <p><a class="button" href="https://subscribe.nybooks.info/ecom/NYB/app/live/subscriptions?&amp;org=NYB&amp;publ=NY&amp;key_code=EXAXWWW&amp;type=S&amp;gift_key=&amp;token=35c32dc40a87ed9d4bdfa8fa217ca3c0">Print Premium Subscription &#8212; $94.95</a></p>
+	  <p class="small">Purchase a print premium subscription (20 issues per year) and also receive online access to all all content on nybooks.com.</p>
+      <div style="border-bottom:1px solid #ccc; margin-bottom:20px;"></div>
+      <p><a class="button" href="https://subscribe.nybooks.info/ecom/NYB/app/live/subscriptions?&amp;org=NYB&amp;publ=NY&amp;key_code=ELAXWWW&amp;type=S&amp;gift_key=&amp;token=35c32dc40a87ed9d4bdfa8fa217ca3c0">Online Subscription &#8212; $69.00</a></p>
+      <p class="small">Purchase an Online Edition subscription and receive full access to all articles published by the Review since 1963.</p>
+      <div style="border-bottom:1px solid #ccc; margin-bottom:20px;"></div>
+      <p><a class="button" href="https://subscribe.nybooks.info/ecom/NYB/app/live/subscriptions?&amp;org=NYB&amp;publ=NY&amp;key_code=EKAXWWW&amp;type=S&amp;gift_key=&amp;token=35c32dc40a87ed9d4bdfa8fa217ca3c0">One-Week Access &#8212; $4.99</a></p>
+      <p class="small">Purchase a trial Online Edition subscription and receive unlimited access for one week to all the content on nybooks.com.</p>
+      <p style="border-top:1px solid #ccc; padding:5px 0 10px;"><strong>If you already have one of these subscriptions</strong>, please be sure you are <a href="/account/signin/?next=/articles/archives/1983/jul/21/murder-in-the-monastery/">logged in</a> to your nybooks.com account. If you subscribe to the print edition, you may also need to link your web site account to your print subscription. <a href="https://subscribe.nybooks.info/ecom/nyb/app/live/web_user_maint?org=NYB&pagemode=a">Click here</a> to link your account services.</p>
+</div>
+
+  
+
+  
+    
+      
+
+      
+        
+          
+            <div class="article-refers-to quiet small">
+              <h5>Letters</h5>
+              
+                
+                  <p><em><a href="/articles/archives/1983/oct/13/absolution/">Absolution</a></em> October 13, 1983</p>
+                
+              
+            </div>
+          
+        
+      
+
+      
+          <div class="pagination foot">
+            
+
+          </div>
+          
+        </section> <!--end article_body class -->
+          
+
+<div class="row article_toolbar">
+    <span class="span5">
+        <ul class="tools">
+               
+            
+            
+            <li class="visible-desktop">
+                <a href="?pagination=false&amp;printpage=true" target="_blank">Print</a>
+            </li>
+            
+                        
+        </ul>
+    </span>
+    <span class="span3">
+    	
+        <ul class="social">
+            <li>
+				<a href="https://twitter.com/share" class="twitter-share-button" data-text="Murder in the Monastery? by Richard Ellmann" data-via="nybooks" data-count="none">Tweet</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+            </li>
+            <li class="facebook">
+				<div class="fb-share-button" data-href="http://www.nybooks.com/articles/archives/1983/jul/21/murder-in-the-monastery/" data-type="button"></div>            
+			</li>
+        </ul>
+        
+    </span>
+</div><!-- .article_toolbar -->
+
+      
+
+      
+      
+      
+
+    
+   
+  
+  </article>
+</div>
+
+  <div class="span4 sidebar">
+    <aside>
+      <div class="sidebar_ad_1">
+        
+
+<div id="article_sidebar-1-hp"></div>
+      </div> 
+      
+
+    
+    <section class="current_issue">
+      <figure class="cover">        
+        <a href="/issues/1983/jul/21/?insrc=wai"><img src="/media/photo/2010/07/13/01c_nyrb072183.png" alt="July 21, 1983" width="235px"/></a>
+        <h4>Also in This Issue</h4>
+        <time pubdate>&mdash;&mdash; July 21, 1983 &mdash;&mdash;</time>
+      </figure>
+      
+        
+            
+            <article>
+            
+            <h5><a href="/articles/archives/1983/jul/21/proustifications/?insrc=wai">Proustifications</a> <i class="icon-lock"></i></h5>
+            
+            <div class="author">                
+                
+<a href="/contributors/vs-pritchett/">V.S. Pritchett</a>
+            </div>
+            
+            </article>
+            
+        
+            
+            <article>
+            
+            <h5><a href="/articles/archives/1983/jul/21/hitler-without-his-diaries/?insrc=wai">Hitler Without His Diaries</a> <i class="icon-lock"></i></h5>
+            
+            <div class="author">                
+                
+<a href="/contributors/gordon-a-craig/">Gordon A. Craig</a>
+            </div>
+            
+            </article>
+            
+        
+            
+            <article>
+            
+            <h5><a href="/articles/archives/1983/jul/21/a-reply-to-slander/?insrc=wai">A Reply to Slander</a> <i class="icon-lock"></i></h5>
+            
+            <div class="author">                
+                
+<a href="/contributors/andrei-d-sakharov/">Andrei D. Sakharov</a>
+            </div>
+            
+            </article>
+            
+        
+            
+        
+            
+            <article>
+            
+            <h5><a href="/articles/archives/1983/jul/21/calling-dr-thomas/?insrc=wai">Calling Dr. Thomas</a> <i class="icon-lock"></i></h5>
+            
+            <div class="author">                
+                
+<a href="/contributors/stephen-jay-gould/">Stephen Jay Gould</a>
+            </div>
+            
+            </article>
+            
+        
+      
+      <a href="/issues/1983/jul/21/?insrc=wai" class="read pull-right">More <i style="font-size:15px;" class="icon-double-angle-right"></i></a>
+    </section>
+    
+
+<div class="clearfix"></div>
+      <div class="sidebar_ad_2">
+          
+<a href="/subscriptions/order/"><img src="/media/advertising/Subscribe2014-300x250.png" title="Subscribe to the New York Review" alt="Subscribe to the New York Review"/></a>
+      </div>      
+      <div class="sidebar_ad_3">
+        
+
+<div id="article_sidebar-2"></div>
+      </div> 
+      
+
+<section class="features">
+  <h3 class="blog-snippet-head">ââ New Posts ââ</h3>
+  <h4 class="blog-name-snippet"><a href="/blogs/nyrblog/">NYRblog</a></h4>
+  
+  
+    <article>
+    
+      <figure>
+        <a href="/blogs/nyrblog/2015/feb/19/carl-van-vechten-harlem-photographs/?insrc=wbll"><img src="/media/img/blogimages/vechten-waters_jpg_63x63_crop_q85.jpg"></a>
+      </figure>        
+    
+      <h5><a href="/blogs/nyrblog/2015/feb/19/carl-van-vechten-harlem-photographs/?insrc=wbll">Harlem Heroes</a></h5>
+    
+      <div class="author"><a href="/blogs/nyrblog/2015/feb/19/carl-van-vechten-harlem-photographs/?insrc=wbll">
+
+Darryl Pinckney</a></div>
+    
+    </article>
+  
+    <article>
+    
+      <figure>
+        <a href="/blogs/nyrblog/2015/feb/18/iceman-cometh-flophouse-symphony/?insrc=wbll"><img src="/media/img/blogimages/iceman2_jpg_63x63_crop_q85.jpg"></a>
+      </figure>        
+    
+      <h5><a href="/blogs/nyrblog/2015/feb/18/iceman-cometh-flophouse-symphony/?insrc=wbll">A Flophouse Symphony</a></h5>
+    
+      <div class="author"><a href="/blogs/nyrblog/2015/feb/18/iceman-cometh-flophouse-symphony/?insrc=wbll">
+
+Geoffrey O&#8217;Brien</a></div>
+    
+    </article>
+  
+    <article>
+    
+      <figure>
+        <a href="/blogs/nyrblog/2015/feb/17/our-wars-our-victims/?insrc=wbll"><img src="/media/img/blogimages/matteo-di-giovanni_jpg_63x63_crop_q85.jpg"></a>
+      </figure>        
+    
+      <h5><a href="/blogs/nyrblog/2015/feb/17/our-wars-our-victims/?insrc=wbll">Our Wars, Our Victims </a></h5>
+    
+      <div class="author"><a href="/blogs/nyrblog/2015/feb/17/our-wars-our-victims/?insrc=wbll">
+
+Charles Simic</a></div>
+    
+    </article>
+  
+  <h4 class="blog-name-snippet"><a href="/blogs/gallery/">The Gallery</a></h4>
+  
+  
+    <article>
+    
+      <figure>
+        <a href="/blogs/gallery/2015/feb/19/marginalia-insults-epiphanies/?insrc=wbll"><img src="/media/img/blogimages/twain_jpg_63x63_crop_q85.jpg"></a>
+      </figure>        
+    
+      <h5><a href="/blogs/gallery/2015/feb/19/marginalia-insults-epiphanies/?insrc=wbll">Scrawled Insults and Epiphanies</a></h5>
+    
+      <div class="author"><a href="/blogs/gallery/2015/feb/19/marginalia-insults-epiphanies/?insrc=wbll">
+
+Anthony Grafton</a></div>
+    
+    </article>
+  
+  <div class="clearfix"></div>
+</section>
+
+      <div class="clearfix"></div>
+      <div class="newsletter_signup well">  
+        
+        <h3>
+Free Newsletter
+</h3>
+<div class="description">
+<p>News of upcoming issues, contributors, special events, online features, and more.</p>
+</div>
+<div class="input-append">
+  <form method="get" action="/newsletter/magazine/">
+    <fieldset>
+	  <input class="span3" id="appendedInputButton" name="id_email" type="text" placeholder="Enter email address...">
+	  <input type="hidden" name="subscribed" value="True" id="id_subscribed" />                  
+	  <input id="submit" type="submit" value="Sign up">                  
+    </fieldset>
+  </form>                 
+</div>              
+
+      </div>        
+    </aside>
+  </div><!--.span4.sideabar-->
+
+
+    </div> 
+  </div><!--.container-->
+    
+    
+    
+    <footer class="site_footer">
+      <div class="container">
+        <div class="row">
+          <div class="span12">
+            <ul>
+            
+              
+                
+
+    
+    
+	<li class="navhome selected"><a class="navhome_a" href="/" title="">Home</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navcontact-us"><a class="navcontact-us_a" href="/contact/" title="">Contact Us</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navabout"><a class="navabout_a" href="/about/" title="">About</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navsubscribe"><a class="navsubscribe_a" href="/subscriptions/order/" title="">Subscribe</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navadvertise"><a class="navadvertise_a" href="/advertising/" title="">Advertise</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navuniversity-press-listing"><a class="navuniversity-press-listing_a" href="/upress/" title="New Titles from University Presses">University Press Listing</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navindependent-press-listing"><a class="navindependent-press-listing_a" href="/ipl/" title="Independent Press Listing">Independent Press Listing</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navcustomer-service"><a class="navcustomer-service_a" href="/customer-service/" title="Customer Service">Customer Service</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navhelpfaq"><a class="navhelpfaq_a" href="/about/faq/" title="Frequently Asked Questions">Help/FAQ</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navbooks"><a class="navbooks_a" href="/books/" title="">Books</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navterms-of-service"><a class="navterms-of-service_a" href="/about/terms-of-service/" title="">Terms of Service</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navfeeds"><a class="navfeeds_a" href="/rss/" title="">Feeds</a>
+		
+			
+		
+	</li>
+	
+	
+    
+	<li class="navnewsletters last"><a class="navnewsletters_a" href="/newsletter/magazine/" title="">Newsletters</a>
+		
+			
+		
+	</li>
+	
+	
+
+
+              
+            
+            </ul>
+          </div>
+        </div>
+      </div>
+      <p>&copy; 1963-2015 NYREV, Inc. All rights reserved.</p>
+    </footer> 
+    <!-- script src="/media/static/assets/_assets/js/lib/URI.js"></script -->
+    
+
+  
+</div>
+</body>
+
+</html>
+

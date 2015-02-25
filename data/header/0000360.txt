@@ -1,0 +1,10 @@
+Server: Apache/2.2.15 (CentOS)
+X-Pingback: http://www.stereogum.com/wp/xmlrpc.php
+Link: <http://www.stereogum.com/?p=1386501>; rel=shortlink
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Date: Sat, 21 Feb 2015 01:04:00 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+

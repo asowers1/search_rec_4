@@ -1,0 +1,23 @@
+Cache-Control: public, s-maxage=14400, max-age=120
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Date: Sat, 21 Feb 2015 01:16:35 GMT
+Etag: "1424473044-0+ident"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Fri, 20 Feb 2015 22:57:24 +0000
+Link: <http://www.billboard.com/node/1538839>; rel="shortlink",<http://www.billboard.com/articles/list/1538839/top-50-love-songs-of-all-time>; rel="canonical"
+Server: ECS (ewr/15E5)
+Vary: Accept-Encoding
+Via: 1.1 varnish
+X-Cache: HIT
+X-Cache-Hits: HIT (1)
+X-Debug-Cookies: 
+X-Debug-Log: Removed cookies
+X-Drupal-Cache: MISS
+X-Generator: Drupal 7 (http://drupal.org)
+X-NX-Host: www.billboard.com
+X-Trace: 1B12767A80AA85E976234B807C2D46B0102EDFD75445F488E3D73011F3
+X-Varnish: 550043223 550043166
+Content-Length: 81441
+Connection: close
+

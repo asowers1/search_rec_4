@@ -1,0 +1,1415 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.23" />
+<meta name="keywords" content="The One Wiki to Rule Them All,lotr,Category:Books,Tolkien Mythology" />
+<meta name="description" content="This category is for Books related to Tolkien Mythology." />
+<meta name="google-site-verification" content="8Dzg4Ou0Xll46XcC8Q-KjmXduCFdfmabhr5wbyNIwms" />
+<link rel="canonical" href="http://lotr.wikia.com/wiki/Category:Books" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/wiki/Category:Books?action=edit" />
+<link rel="edit" title="Edit" href="/wiki/Category:Books?action=edit" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb19/lotr/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://img1.wikia.nocookie.net/__cb20140411033115/lotr/images/6/64/Favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="The One Wiki to Rule Them All (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://lotr.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="The One Wiki to Rule Them All Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Books - Lord of the Rings Wiki</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images2.wikia.nocookie.net/__am/1424372360/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb19%252Flotr%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D700%26background-image-width%3D1920%26color-body%3D%25238f9189%26color-body-middle%3D%25238f9189%26color-buttons%3D%2523266438%26color-header%3D%2523002c11%26color-links%3D%25232b54b5%26color-page%3D%2523ffffff%26page-opacity%3D100%26widthType%3D2%26wordmark-font%3Dtangerine/skins/oasis/css/oasis.scss,extensions/wikia/CategoryGalleries/css/CategoryGalleries.scss,extensions/wikia/CategoryGalleries/css/CategoryGalleries.IE.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationHubsMenu.scss,extensions/wikia/UserLogin/css/UserLoginDropdown.globalNavigation.scss,extensions/wikia/WallNotifications/styles/WallNotifications.globalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationOasis.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearchOasis.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://lotr.wikia.com/__load/-/cb%3D1424372360%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/ext.categoryTree.css" /><link rel="stylesheet" href="http://lotr.wikia.com/__load/-/cb%3D1424372360%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: lotr:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="books",
+wgWikiCategories=["movies"],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Enter Middle-earth Chatroom","chat-start-a-chat":"Middle-earth Chatroom","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":true,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"pageArticleId":6033,"pageIsArticle":true,"pageName":"Category:Books","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"age=teen;egnre=action;egnre=adventure;egnre=family;egnre=fantasy;esrb=teen;gnre=action;gnre=mmo;gnre=rpg;media=movie;pform=pc;pform=xbox360","wikiDbName":"lotr","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"Entertainment"},"providers":[],"slots":{"bottomLeaderboardImpressionCapping":[2,4,6]},"forceProviders":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[5,10,13,15,18,20,21,22,23,129,142,100024,100030,100040,100042,100043,100044,100051,100056,100057,100058,100059,100078,100100,100428,100455],
+wgWikiFactoryTagNames=["movie","fantasy","teens_(14-17)","male","family","adults_(18-35)","adults_(35+)","female","novel","entertainment","dvd/blu-ray","test","top100","top_100_gaming","top_50_entertainment","top_75_entertainment","top_100_entertainment","kalypso","wow","t9","skyscraper","skyscrapperwow","blizzardholidaysiteentry","sanctum","apertureenabled","krux"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1424372360",
+wgDBname="lotr",
+wgCityId="159",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=6033,
+wgCategories=["Content","Real World"],
+wgPageName="Category:Books",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1424372360",
+wgTransactionContext={"type":"page/category","env":"prod","hostname":"ap-s27","wiki":"lotr","entry_point":"page","namespace":14,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"simple"},
+wgEnableOpenXSPC=true;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>
+function syslogReport(priority,message,context){context=context||null;var url='//jserrorslog.wikia.com/',i=new Image(),data={'@message':message,'syslog_pri':priority};if(context){data['@context']=context;}
+try{data['@fields']={server:document.cookie.match(/server.([A-Z]*).cache/)[1]};}catch(e){}
+try{i.src=url+'l?'+JSON.stringify(data);}catch(e){i.src=url+'e?'+e;}}</script><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1424372360&amp;c=159&amp;lc=en&amp;lid=75&amp;x=lotr&amp;y=c1&amp;u=0&amp;a=6033&amp;s=oasis&amp;n=14&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1424372360&amp;c=159&amp;lc=en&amp;lid=75&amp;x=lotr&amp;y=c1&amp;u=0&amp;a=6033&amp;s=oasis&amp;n=14" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://lotr.wikia.com/__load/-/cb%3D1424372360%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1424372360%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1424372360/groups/-/abtesting,oasis_blocking,analytics_gas_js,adengine2_tracking_js,adengine2_rubicon_rtp_js,adengine2_amazon_match_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="The One Wiki to Rule Them All" />
+	<meta property="og:title" content="Books" />
+	<meta property="og:description" content="This category is for Books related to Tolkien Mythology." />
+	<meta property="og:url" content="http://lotr.wikia.com/wiki/Category:Books" />
+	<meta property="og:image" content="http://img4.wikia.nocookie.net/__cb20060310223445/lotr/images/thumb/c/c9/Trip_taken_fellowship_of_the_ring_middle_earth.PNG/500px-Trip_taken_fellowship_of_the_ring_middle_earth.PNG" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-14 ns-subject page-Category_Books  TOC_hide wikinav2 skin-oasis background-not-tiled background-dynamic">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Flotr.wikia.com%2Fwiki%2FCategory%3ABooks%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require(["ext.wikia.adEngine.amazonMatchOld", "wikia.geo", "wikia.instantGlobals"], function (amazon, geo, globals) {
+		var ac = globals["wgAmazonMatchOldCountries"];
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+	require(["ext.wikia.adEngine.amazonMatch", "wikia.geo", "wikia.instantGlobals"], function (amazon, geo, globals) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+</script>
+<!-- Unsupported language for AnalyticsProviderIVW2 -->
+<!-- Start for RubiconRTP, page_view -->
+<script>
+	require(['wikia.geo', 'wikia.instantGlobals', 'ext.wikia.adEngine.rubiconRtp'], function (geo, instantGlobals, rtp) {
+		var rtpCountries = ["US","GB","BR"], country = geo.getCountryCode();
+
+		if (rtpCountries.indexOf(country) !== -1 && !instantGlobals.wgSitewideDisableRubiconRTP) {
+			rtp.call({"disabled":false,"oz_site":"7450\/11979","oz_zone":"145168","oz_ad_slot_size":"728x90","skin":["oasis"],"oz_cached_only":false,"slotname":["BOTTOM_LEADERBOARD","CORP_TOP_LEADERBOARD","HOME_TOP_LEADERBOARD","HUB_TOP_LEADERBOARD","TOP_LEADERBOARD"]});
+		}
+	});
+</script><div class="WikiaSiteWrapper">
+	<h1>Wikia</h1>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+	<nav class="global-navigation" id="globalNavigation">
+	<div class="page-width">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com"
+				class="wikia-logo"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+			</a>
+		</div>
+		<div class="hubs-container table-cell" id="hubsEntryPoint">
+			<a class="hubs-entry-point"></a>
+<nav id="hubs" class="hubs-menu">
+	<ul class="hub-list">
+					<li>
+								<a data-vertical="comics" href="http://comicshub.wikia.com/wiki/Comics_Hub" class="comics hub-link ">
+					<span class="icon"></span>
+					<span class="label">Comics</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="tv" href="http://tvhub.wikia.com/wiki/TV_Hub" class="tv hub-link ">
+					<span class="icon"></span>
+					<span class="label">TV</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="movies" href="http://movieshub.wikia.com/wiki/Movies_Hub" class="movies hub-link ">
+					<span class="icon"></span>
+					<span class="label">Movies</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="music" href="http://musichub.wikia.com/wiki/Music_Hub" class="music hub-link ">
+					<span class="icon"></span>
+					<span class="label">Music</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="books" href="http://bookshub.wikia.com/wiki/Books_Hub" class="books hub-link  active">
+					<span class="icon"></span>
+					<span class="label">Books</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="games" href="http://gameshub.wikia.com/wiki/Games_Hub" class="games hub-link ">
+					<span class="icon"></span>
+					<span class="label">Games</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="lifestyle" href="http://lifestylehub.wikia.com/wiki/Lifestyle_Hub" class="lifestyle hub-link ">
+					<span class="icon"></span>
+					<span class="label">Lifestyle</span>
+				</a>
+							</li>
+			</ul>
+	<div class="hub-links">
+		<div class="hub-menu-section books-links active">
+			<ul>
+			<strong>THIS MONTH</strong>
+							<li>
+					<a href="http://ow.ly/J5UL7">Read Supernatural Page-Turner The Mime Order with YA Society</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5UMP">Author Sarah J. Maas Tells All In Our Exclusive Interview</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5UOJ">10 Facts about 50 Shades of Grey</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>FROM COMMUNITY</strong>
+							<li>
+					<a href="http://ow.ly/J5UtT">New Stills from the Upcoming Insurgent Movie</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Uvg">Sneak Preview of the Soundtrack to Showtimeâs Outlander</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Ux0">Review of Marisa Meyerâs newest novel Fairest</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>TRENDING BOOK COMMUNITIES</strong>
+							<li>
+					<a href="http://ow.ly/J5Uyw">One Wiki to Rule Them All</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5UzP">Warrior Cats Series</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5UCj">Pooh Adventures</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>NEW RELEASES</strong>
+							<li>
+					<a href="http://ow.ly/J5UFL">Trigger Warning by Neil Gaiman</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5UGG">The Ruby Circle: Bloodlines Series</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5UIq">Fairest: The Lunar Chronicles</a>
+				</li>
+					</ul>
+		<a class="more" href="http://bookshub.wikia.com/wiki/Books_Hub">More Books</a>
+</div>
+	</div>
+</nav>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://lotr.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search within The One Wiki to Rule Them All..." data-search-url="http://lotr.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search within The One Wiki to Rule Them All..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell">
+	<li class="account-navigation-first-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Category:Books" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">				<div class="avatar-container anon-avatar-placeholder">
+									</div>
+			</a>
+							<span class="sign-in-label">Sign in</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+		</div>
+		<div id="UserLoginDropdown" class="UserLoginDropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Sign up</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Category:Books">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_LEADERBOARD"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_BUTTON_WIDE"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_SKIN"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h1 class="wordmark medium graphic font-tangerine">
+	<a accesskey="z" href="/wiki/Main_Page">
+					<img src="http://img4.wikia.nocookie.net/__cb19/lotr/images/8/89/Wiki-wordmark.png" alt="The One Wiki to Rule Them All"  width="250" height="65" >
+			</a>
+</h1>
+        <nav class="WikiNav">
+    	        <h1>The One Wiki to Rule Them All Navigation</h1>
+        		<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Category:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Characters">Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sauron">Sauron</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Aragorn_II_Elessar">Aragorn II Elessar</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Melkor">Melkor</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gandalf">Gandalf</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Legolas">Legolas</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Witch-king_of_Angmar">Witch-king of Angmar</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Balrog">Balrog</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Ring_bearers%E2%80%8E%E2%80%8E">Ring bearersâ<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Frodo_Baggins">Frodo Baggins</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bilbo_Baggins">Bilbo Baggins</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Durin">Durin</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Galadriel">Galadriel</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gandalf">Gandalf</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Ring_bearers">More</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Kings">Kings<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Witch-king_of_Angmar">Witch-king of Angmar</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Smaug">Smaug</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Thranduil">Thranduil</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Manw%C3%AB">ManwÃ«</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kings_of_Gondor">Kings of Gondor</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/King_of_the_Dead">King of the Dead</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/King_of_Rohan">King of Rohan</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Villains">Villains<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sauron">Sauron</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Melkor">Melkor</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Witch-king_of_Angmar">Witch-king of Angmar</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Nazg%C3%BBl">NazgÃ»l</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Orcs">Orcs</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gollum">Gollum</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Saruman">Saruman</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:The_Hobbit_Characters">The Hobbit<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gandalf">Gandalf</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gollum">Gollum</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Elrond">Elrond</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Smaug">Smaug</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Radagast">Radagast</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bilbo_Baggins">Bilbo Baggins</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Thorin_II_Oakenshield">Thorin II Oakenshield</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:The_Lord_of_the_Rings_Characters%E2%80%8E%E2%80%8E">LOTR<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Legolas">Legolas</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gandalf">Gandalf</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Faramir">Faramir</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Aragorn">Aragorn</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Frodo">Frodo</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gollum">Gollum</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ugluk">Ugluk</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:The_Lord_of_the_Rings_Characters">More</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:The_Silmarillion_Characters%E2%80%8E">Silmarillion<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Morgoth">Morgoth</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Melian">Melian</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Celebrimbor">Celebrimbor</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Finarfin">Finarfin</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dior">Dior</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Turin_Turambar">Turin Turambar</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Manw%C3%AB">ManwÃ«</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Turgon">Turgon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Glaurung">Glaurung</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:The_Silmarillion_Characters">More</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Books">Books</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:In-universe_books">In-universe books<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Red_Book_of_Westmarch">Red Book of Westmarch</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Book_of_Mazarbul">Book of Mazarbul</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Old_Words_and_Names_in_the_Shire">Old Words and Names in the Shire</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Yearbook_of_Tuckborough">Yearbook of Tuckborough</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Novels">Novels<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Hobbit">The Hobbit</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Fellowship_of_the_Ring_(novel)">The Fellowship of the Ring (novel)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Children_of_H%C3%BArin">The Children of HÃºrin</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Return_of_the_King_(novel)">The Return of the King (novel)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Two_Towers_(novel)">The Two Towers (novel)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:The_Lord_of_the_Rings">The Lord of the Rings</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Reference_works%E2%80%8E">Reference worksâ<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Atlas_of_Middle-earth">The Atlas of Middle-earth</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_History_of_The_Lord_of_the_Rings">The History of The Lord of the Rings</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Complete_Guide_to_Middle-earth">The Complete Guide to Middle-earth</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion">The Lord of the Rings: A Reader's Companion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Reference_works">More</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:The_History_of_Middle-earth%E2%80%8E%E2%80%8E">The History of Middle-earthâ<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Lost_Road_and_Other_Writings">The Lost Road and Other Writings</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Return_of_the_Shadow">The Return of the Shadow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Book_of_Lost_Tales">The Book of Lost Tales</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Lays_of_Beleriand">The Lays of Beleriand</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:The_History_of_Middle-earth">More</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Movies">Movies</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/The_Hobbit_(films)">The Hobbit<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Hobbit:_An_Unexpected_Journey">The Hobbit: An Unexpected Journey</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Hobbit:_The_Desolation_of_Smaug">The Hobbit: The Desolation of Smaug</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies">The Hobbit: The Battle of the Five Armies</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Lord_of_the_Rings">Lord of the Rings<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Fellowship_of_the_Ring_(film)">The Fellowship of the Ring</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Two_Towers_(film)">The Two Towers</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Return_of_the_King_(film)">The Return of the King</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Film_Locations">Film Locations<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Paradise,_New_Zealand">Paradise, New Zealand</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mount_Sunday">Mount Sunday</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/New_Zealand">New Zealand</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Matamata">Matamata</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Harcourt_Park,_New_Zealand">Harcourt Park, New Zealand</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mavora_Lakes">Mavora Lakes</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lake_Wakatipu">Lake Wakatipu</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Filmmakers">Filmmakers<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Peter_Jackson">Peter Jackson</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ralph_Bakshi">Ralph Bakshi</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Fran_Walsh">Fran Walsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Guillermo_del_Toro">Guillermo del Toro</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kate_Madison">Kate Madison</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Philippa_Boyens">Philippa Boyens</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Barry_M._Osborne">Barry M. Osborne</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Tolkien_vs._Jackson:_Differences_Between_Story_and_Screenplay">Book to Movie Differences</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/LOTR:Community_Portal">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/LOTR:Current_policies">Policies</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="http://lotr.wikia.com/wiki/Special:ListUsers/sysop">Administrators</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Forum:Index">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blog</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>    </nav>
+	    <div class="buttons">
+		<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Category:Books?action=edit"  data-id="edit"  >Edit this Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+					<a href="#" class="wikia-button share-button secondary"  data-id="shareButton"> Share<span class="share-dot"></span><span class="share-pixel"></span></a>
+    </div>
+	    <div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>    </div>
+</header>
+
+				
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+				<header id="WikiaPageHeader" class="WikiaPageHeader">
+    <h1>Books</h1>
+
+	<nav class="wikia-menu-button" >
+	<a accesskey="e"  href="/wiki/Category:Books?veaction=edit" data-id="ve-edit" id="ca-ve-edit">
+		<img alt="" class="sprite edit-pencil" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Edit	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Category:Books?action=edit"  accesskey="s" data-id="edit"   id="ca-edit">Classic editor</a>
+		</li>
+		<li>
+			<a href="/wiki/Category:Books?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Category_talk:Books" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Talk<span class="commentsbubble">0</span></a>
+        <div class="tally">
+			<em>5,634</em><span>pages on<br /> this wiki</span>        </div>
+		        <h2>Category page</h2>
+		</header>
+
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+
+					
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><p>This category is for <b>Books</b> related to <a href="/wiki/Tolkien_Mythology" title="Tolkien Mythology">Tolkien Mythology</a>.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 1/300000
+Postâexpand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key lotr:pcache:idhash:6033-0!*!0!*!*!*!* -->
+<div class="category-gallery">
+<div class="category-gallery-item category-gallery-item-image">
+<a href="/wiki/The_Silmarillion" title="The Silmarillion">
+<img src="http://img1.wikia.nocookie.net/__cb20070706183337/lotr/images/thumb/d/d2/Silmarillion-cover.jpg/130px-0%2C500%2C10%2C452-Silmarillion-cover.jpg" alt="The Silmarillion" width="130" height="115" />
+<span class="details">The Silmarillion</span>
+</a>
+</div>
+<div class="category-gallery-item category-gallery-item-image">
+<a href="/wiki/The_Hobbit" title="The Hobbit">
+<img src="http://img4.wikia.nocookie.net/__cb20130412192904/lotr/images/thumb/6/67/9780547928227_p0_v1_s260x420.jpg/130px-0%2C260%2C5%2C235-9780547928227_p0_v1_s260x420.jpg" alt="The Hobbit" width="130" height="115" />
+<span class="details">The Hobbit</span>
+</a>
+</div>
+<div class="category-gallery-item category-gallery-item-image">
+<a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">
+<img src="http://img4.wikia.nocookie.net/__cb20130619012726/lotr/images/thumb/1/11/The_Lord_of_the_Rings_First_Copies.jpg/130px-85%2C754%2C0%2C591-The_Lord_of_the_Rings_First_Copies.jpg" alt="The Lord of the Rings" width="130" height="115" />
+<span class="details">The Lord of the Rings</span>
+</a>
+</div>
+<div class="category-gallery-item category-gallery-item-image">
+<a href="/wiki/The_Fellowship_of_the_Ring_(novel)" title="The Fellowship of the Ring (novel)">
+<img src="http://img1.wikia.nocookie.net/__cb20070314111843/lotr/images/thumb/d/d3/Fell5.gif/130px-0%2C300%2C6%2C271-Fell5.gif" alt="The Fellowship of the Ring (novel)" width="130" height="115" />
+<span class="details">The Fellowship of the Ring (novel)</span>
+</a>
+</div>
+<!--<br />-->
+<div class="category-gallery-item category-gallery-item-image">
+<a href="/wiki/The_History_of_Middle-earth" title="The History of Middle-earth">
+<img src="http://img1.wikia.nocookie.net/__cb20100316161200/lotr/images/thumb/7/74/MAP-OF-MIDDLE-EARTH-VERSION-7.jpg/130px-0%2C2438%2C32%2C2189-MAP-OF-MIDDLE-EARTH-VERSION-7.jpg" alt="The History of Middle-earth" width="130" height="115" />
+<span class="details">The History of Middle-earth</span>
+</a>
+</div>
+<div class="category-gallery-item category-gallery-item-text">
+<a href="/wiki/The_New_Shadow" title="The New Shadow">
+<div class="snippet"><span class="quote">&#x201C;</span><span class="text">The New Shadow was an incomplete sequel (approximately 13 pages) to The Lord of the Rings that...</span></div>
+<span class="details">The New Shadow</span>
+</a>
+</div>
+<div class="category-gallery-item category-gallery-item-image">
+<a href="/wiki/The_Children_of_H%C3%BArin" title="The Children of HÃºrin">
+<img src="http://img2.wikia.nocookie.net/__cb20070706183609/lotr/images/thumb/f/fd/Cover_Children_of_H%C3%BAirn.jpg/130px-0%2C338%2C7%2C306-Cover_Children_of_H%C3%BAirn.jpg" alt="The Children of HÃºrin" width="130" height="115" />
+<span class="details">The Children of HÃºrin</span>
+</a>
+</div>
+<div class="category-gallery-item category-gallery-item-image">
+<a href="/wiki/Unfinished_Tales" title="Unfinished Tales">
+<img src="http://img2.wikia.nocookie.net/__cb20071017003306/lotr/images/thumb/d/dc/Ut_ballantine_big.jpg/130px-0%2C285%2C6%2C258-Ut_ballantine_big.jpg" alt="Unfinished Tales" width="130" height="115" />
+<span class="details">Unfinished Tales</span>
+</a>
+</div>
+<!--<br />-->
+</div><div lang="en" dir="ltr"><div id="mw-subcategories">
+<h2><span style="font-size: 80%;">Subcategories</span></h2>
+<p>This category has the following 8 subcategories, out of 8 total.
+</p><div lang="en" dir="ltr" class="mw-content-ltr"><table width="100%"><tr valign="top"><td width="33.3%"><h3>B</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>Ã</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Book_Publishers">Book Publishers</a>â <span title="Contains 0 subcategories, 1 page, and 0 files" dir="ltr">(1 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>C</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" style="display: none;" data-ct-title="Chapters" title="expand" data-ct-state="collapsed">[<b>+</b>]</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Chapters">Chapters</a>â <span title="Contains 7 subcategories, 32 pages, and 0 files" dir="ltr">(7 C, 32 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>I</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>Ã</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:In-universe_books">In-universe books</a>â <span title="Contains 0 subcategories, 4 pages, and 0 files" dir="ltr">(4 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul></td>
+<td width="33.3%"><h3>L</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" style="display: none;" data-ct-title="Lord_of_the_Rings" title="expand" data-ct-state="collapsed">[<b>+</b>]</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Lord_of_the_Rings">Lord of the Rings</a>â <span title="Contains 1 subcategory, 3 pages, and 0 files" dir="ltr">(1 C, 3 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>N</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" style="display: none;" data-ct-title="Novels" title="expand" data-ct-state="collapsed">[<b>+</b>]</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Novels">Novels</a>â <span title="Contains 1 subcategory, 5 pages, and 0 files" dir="ltr">(1 C, 5 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>R</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>Ã</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Reference_works">Reference works</a>â <span title="Contains 0 subcategories, 9 pages, and 0 files" dir="ltr">(9 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul></td>
+<td width="33.3%"><h3>T</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" style="display: none;" data-ct-title="The_Adventures_of_Tom_Bombadil" title="expand" data-ct-state="collapsed">[<b>+</b>]</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:The_Adventures_of_Tom_Bombadil">The Adventures of Tom Bombadil</a>â <span title="Contains 1 subcategory, 1 page, and 0 files" dir="ltr">(1 C, 1 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>Ã</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:The_History_of_Middle-earth">The History of Middle-earth</a>â <span title="Contains 0 subcategories, 14 pages, and 0 files" dir="ltr">(14 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul></td>
+</tr></table></div>
+</div><div id="mw-pages">
+<h2><span style="font-size: 80%;">Pages in category "Books"</span></h2>
+<p>The following 57 pages are in this category, out of 57 total.
+</p><div lang="en" dir="ltr" class="mw-content-ltr"><table width="100%"><tr valign="top"><td width="33.3%"><h3> </h3>
+<ul><li><a href="/wiki/List_of_writings" title="List of writings">List of writings</a></li></ul><h3>A</h3>
+<ul><li><a href="/wiki/The_Adventures_of_Tom_Bombadil" title="The Adventures of Tom Bombadil">The Adventures of Tom Bombadil</a></li>
+<li><a href="/wiki/Ambarkanta" title="Ambarkanta">Ambarkanta</a></li>
+<li><a href="/wiki/The_Annotated_Hobbit" title="The Annotated Hobbit">The Annotated Hobbit</a></li></ul><h3>B</h3>
+<ul><li><a href="/wiki/Annals_of_Beleriand" title="Annals of Beleriand">Annals of Beleriand</a></li>
+<li><a href="/wiki/Bilbo%27s_Last_Song" title="Bilbo&#039;s Last Song">Bilbo's Last Song</a></li>
+<li><a href="/wiki/The_Book_of_Lost_Tales" title="The Book of Lost Tales">The Book of Lost Tales</a></li>
+<li><a href="/wiki/The_Book_of_Lost_Tales_2" title="The Book of Lost Tales 2">The Book of Lost Tales 2</a></li></ul><h3>C</h3>
+<ul><li><a href="/wiki/The_Children_of_H%C3%BArin" title="The Children of HÃºrin">The Children of HÃºrin</a></li>
+<li><a href="/wiki/The_Complete_Tolkien_Companion" title="The Complete Tolkien Companion">The Complete Tolkien Companion</a></li></ul><h3>F</h3>
+<ul><li><a href="/wiki/The_Fellowship_of_the_Ring_(novel)" title="The Fellowship of the Ring (novel)">The Fellowship of the Ring (novel)</a></li>
+<li><a href="/wiki/Finn_and_Hengest" title="Finn and Hengest">Finn and Hengest</a></li></ul><h3>H</h3>
+<ul><li><a href="/wiki/The_History_of_Middle-earth" title="The History of Middle-earth">The History of Middle-earth</a></li>
+<li><a href="/wiki/The_History_of_The_Hobbit" title="The History of The Hobbit">The History of The Hobbit</a></li>
+<li><a href="/wiki/The_History_of_The_Lord_of_the_Rings" title="The History of The Lord of the Rings">The History of The Lord of the Rings</a></li>
+<li><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></li>
+<li><a href="/wiki/Hobbitus_Ille" title="Hobbitus Ille">Hobbitus Ille</a></li></ul><h3>J</h3>
+<ul><li><a href="/wiki/J._R._R._Tolkien:_A_Descriptive_Bibliography" title="J. R. R. Tolkien: A Descriptive Bibliography">J. R. R. Tolkien: A Descriptive Bibliography</a></li>
+<li><a href="/wiki/J._R._R._Tolkien:_Artist_and_Illustrator" title="J. R. R. Tolkien: Artist and Illustrator">J. R. R. Tolkien: Artist and Illustrator</a></li></ul></td>
+<td width="33.3%"><h3>J cont.</h3>
+<ul><li><a href="/wiki/J.R.R_Tolkien:_The_True_Lord_of_the_Rings" title="J.R.R Tolkien: The True Lord of the Rings">J.R.R Tolkien: The True Lord of the Rings</a></li>
+<li><a href="/wiki/Journeys_of_Frodo" title="Journeys of Frodo">Journeys of Frodo</a></li></ul><h3>L</h3>
+<ul><li><a href="/wiki/The_Lays_of_Beleriand" title="The Lays of Beleriand">The Lays of Beleriand</a></li>
+<li><a href="/wiki/Leaf_by_Niggle" title="Leaf by Niggle">Leaf by Niggle</a></li>
+<li><a href="/wiki/The_Letters_of_J._R._R._Tolkien" title="The Letters of J. R. R. Tolkien">The Letters of J. R. R. Tolkien</a></li>
+<li><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></li>
+<li><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></li></ul><h3>M</h3>
+<ul><li><a href="/wiki/Morgoth%27s_Ring" title="Morgoth&#039;s Ring">Morgoth's Ring</a></li>
+<li><a href="/wiki/Mr._Bliss" title="Mr. Bliss">Mr. Bliss</a></li></ul><h3>N</h3>
+<ul><li><a href="/wiki/The_New_Shadow" title="The New Shadow">The New Shadow</a></li></ul><h3>O</h3>
+<ul><li><a href="/wiki/On_Fairy-Stories" title="On Fairy-Stories">On Fairy-Stories</a></li>
+<li><a href="/wiki/The_Origins_of_Tolkien%27s_Middle-earth_for_Dummies" title="The Origins of Tolkien&#039;s Middle-earth for Dummies">The Origins of Tolkien's Middle-earth for Dummies</a></li></ul><h3>P</h3>
+<ul><li><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></li></ul><h3>R</h3>
+<ul><li><a href="/wiki/The_Return_of_the_King_(novel)" title="The Return of the King (novel)">The Return of the King (novel)</a></li>
+<li><a href="/wiki/The_Return_of_the_Shadow" title="The Return of the Shadow">The Return of the Shadow</a></li>
+<li><a href="/wiki/The_Road_Goes_Ever_On" title="The Road Goes Ever On">The Road Goes Ever On</a></li>
+<li><a href="/wiki/Roverandom" title="Roverandom">Roverandom</a></li></ul><h3>S</h3>
+<ul><li><a href="/wiki/Sauron_Defeated" title="Sauron Defeated">Sauron Defeated</a></li>
+<li><a href="/wiki/Sequel" title="Sequel">Sequel</a></li></ul></td>
+<td width="33.3%"><h3>S cont.</h3>
+<ul><li><a href="/wiki/The_Shaping_of_Middle-earth" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></li>
+<li><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></li>
+<li><a href="/wiki/Sir_Gawain_and_the_Green_Knight" title="Sir Gawain and the Green Knight">Sir Gawain and the Green Knight</a></li>
+<li><a href="/wiki/Smith_of_Wootton_Major" title="Smith of Wootton Major">Smith of Wootton Major</a></li></ul><h3>T</h3>
+<ul><li><a href="/wiki/Tales_from_the_Perilous_Realm" title="Tales from the Perilous Realm">Tales from the Perilous Realm</a></li>
+<li><a href="/wiki/The_Books" title="The Books">The Books</a></li>
+<li><a href="/wiki/The_Father_Christmas_Letters" title="The Father Christmas Letters">The Father Christmas Letters</a></li>
+<li><a href="/wiki/The_Lord_of_the_Rings_trilogy" title="The Lord of the Rings trilogy">The Lord of the Rings trilogy</a></li>
+<li><a href="/wiki/The_Lost_Road" title="The Lost Road">The Lost Road</a></li>
+<li><a href="/wiki/The_Tolkien_Reader" title="The Tolkien Reader">The Tolkien Reader</a></li>
+<li><a href="/wiki/Tolkien%27s_translation_of_Beowulf" title="Tolkien&#039;s translation of Beowulf">Tolkien's translation of Beowulf</a></li>
+<li><a href="/wiki/Tolkien:_The_Illustrated_Encyclopedia" title="Tolkien: The Illustrated Encyclopedia">Tolkien: The Illustrated Encyclopedia</a></li>
+<li><a href="/wiki/The_Treason_of_Isengard" title="The Treason of Isengard">The Treason of Isengard</a></li>
+<li><a href="/wiki/Tree_and_Leaf" title="Tree and Leaf">Tree and Leaf</a></li>
+<li><a href="/wiki/The_Two_Towers_(novel)" title="The Two Towers (novel)">The Two Towers (novel)</a></li></ul><h3>U</h3>
+<ul><li><a href="/wiki/Umbar:_Haven_of_the_Corsairs" title="Umbar: Haven of the Corsairs">Umbar: Haven of the Corsairs</a></li>
+<li><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></li></ul><h3>W</h3>
+<ul><li><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></li>
+<li><a href="/wiki/The_War_of_the_Ring_(book)" title="The War of the Ring (book)">The War of the Ring (book)</a></li></ul></td>
+</tr></table></div>
+</div></div><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1424372360/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1424372360/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://lotr.wikia.com/wiki/Category:Books?oldid=152292">http://lotr.wikia.com/wiki/Category:Books?oldid=152292</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage userCanEdit" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Content" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Content" title="Category:Content">Content</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Real World" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Real_World" title="Category:Real World">Real World</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+							<li class="last">
+					<button class="wikia-button secondary add" id="CategorySelectAdd" type="button">Add category</button>
+					<input autocomplete="off" class="input" id="CategorySelectInput" name="CategorySelectInput" placeholder="Add category..." type="text">				</li>
+					</ul>
+	</div>
+			<div class="toolbar">
+			<button class="wikia-button secondary cancel" id="CategorySelectCancel" type="button">Cancel</button>
+			<button class="wikia-button save" id="CategorySelectSave" type="button" disabled="disabled">Save</button>
+		</div>
+	</nav>									
+				<nav class="WikiaArticleInterlang">
+	<h3>Languages: </h3>
+	<ul>
+			<li><a href="http://de.lotr.wikia.com/wiki/Kategorie:B%C3%BCcher">Deutsch</a></li>
+			<li><a href="http://esdla.wikia.com/wiki/Categor%C3%ADa:Libros_de_Tolkien">EspaÃ±ol</a></li>
+			<li><a href="http://ru.lotr.wikia.com/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8">Ð ÑÑÑÐºÐ¸Ð¹</a></li>
+			<li><a href="http://pl.lotr.wikia.com/wiki/Kategoria:Ksi%C4%85%C5%BCki">Polski</a></li>
+			<li><a href="http://it.lotr.wikia.com/wiki/Categoria:Libri">Italiano</a></li>
+		</ul>
+</nav>
+
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+						<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+					<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+					<div id="WikiaRail" class="WikiaRail">
+
+	<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+			<div class="loading"></div>
+	
+</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<!-- BEGIN SLOTNAME: LEFT_SKYSCRAPER_3 -->
+<div id="LEFT_SKYSCRAPER_3" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["LEFT_SKYSCRAPER_3"]);
+</script>
+</div>
+<!-- END SLOTNAME: LEFT_SKYSCRAPER_3 -->
+	
+			<section>
+	<div class="header-container">
+		<h1>Around Wikia's network</h1>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/159" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer row">
+	<nav>
+		<div class="branding vertical-books black">
+			<a class="wikia-logo" href="http://bookshub.wikia.com/wiki/Books_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>Books</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424372360/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424372360/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424372360/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["GPT_FLUSH"]);
+</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: INVISIBLE_1 -->
+<div id="INVISIBLE_1" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_1"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_1 -->
+<!-- BEGIN SLOTNAME: INVISIBLE_2 -->
+<div id="INVISIBLE_2" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_2"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_2 -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1424372360/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1424372360/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"lotr","kv_article_id":6033,"kv_wpage":"Books","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"age=teen;egnre=action;egnre=adventure;egnre=family;egnre=fantasy;esrb=teen;gnre=action;gnre=mmo;gnre=rpg;media=movie;pform=pc;pform=xbox360","kv_domain":"lotr.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://lotr.wikia.com/__load/-/cb%3D1424372360%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis%26ve%3D1/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":14,"wgPageName":"Category:Books","wgTitle":"Books","wgCurRevisionId":152292,"wgArticleId":6033,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Content","Real World"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Category:Books","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"true","background-image":"http://img4.wikia.nocookie.net/__cb19/lotr/images/5/50/Wiki-background","background-image-height":"700","background-image-width":"1920","color-body":"#8f9189","color-body-middle":"#8f9189","color-buttons":"#266438","color-header":"#002c11","color-links":"#2b54b5","color-page":"#ffffff","page-opacity":"100","widthType":2,"wordmark-font":"tangerine"},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Main Page","wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1424372360/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1424372360/common","wgSitename":"The One Wiki to Rule Them All","wgMWrevId":false,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Category:Books","fbReturnToTitle":"Category:Books","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"http://slot1.images.wikia.nocookie.net/__cb1424372360/common/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdWvwETAAAAACS_0luypJPV7aiQkpLzoZN26YAf","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":true,"verticalName":"Entertainment","WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Books"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"enablerichtext":1,"editor":2,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"founderemails-joins-159":0,"founderemails-edits-159":0,"founderemails-views-digest-159":0,"founderemails-complete-digest-159":0,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501":false,"searchNs502":false,"searchNs503":
+false,"searchNs828":false,"searchNs829":false,"searchNs1000":false,"searchNs1010":false,"searchNs1020":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: lotr:resourceloader:filter:minify-js:7:2fe80031d5d29f423d4de9526eee076c */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikiaViewPageTarget.init","ext.categoryTree","mediawiki.user","mediawiki.page.ready","ext.wikiaInYourLang"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1424372360/groups/-/oasis_shared_core_js,adengine2_js,adengine2_late_js,oasis_shared_js,oasis_anon_with_new_global_nav_js,liftium_ads_js,liftium_ads_extra_js,adengine2_oasis_ads_js,adengine2_interactive_maps_js,toc_js,qualaroo_js,global_footer_js,spotlights_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CImagePlaceholder%2COasis-generic&amp;uselang=en&amp;cb=1424372360.0.76267"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1424372360/group/-/global_navigation_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://lotr.wikia.com/__load/-/cb%3D1424372360%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://lotr.wikia.com/__load/-/cb%3D1424372360%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/site"></script>
+<script type='text/javascript'>
+var agllGroup = "Entertainment";
+!function(){
+var a=document.createElement("script");a.type="text/javascript";a.async=!0;var b=["http://a98dc034c7781a941eba-bac02262202668bbe918ea9fb5289cd2.r58.cf2.rackcdn.com","https://52e473ee9859b886964f-bac02262202668bbe918ea9fb5289cd2.ssl.cf2.rackcdn.com"];a.src=("https:"==document.location.protocol?b[1]:b[0])+"/c59hk50tip94.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(a,c)
+}();</script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/CategoryGalleries\/css\/CategoryGalleries.scss","extensions\/wikia\/CategoryGalleries\/css\/CategoryGalleries.IE.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationHubsMenu.scss","extensions\/wikia\/UserLogin\/css\/UserLoginDropdown.globalNavigation.scss","extensions\/wikia\/WallNotifications\/styles\/WallNotifications.globalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationOasis.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearchOasis.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

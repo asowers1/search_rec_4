@@ -1,0 +1,1403 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.23" />
+<meta name="keywords" content="Marvel Movies,marvelmovies,The Avengers (film),Joss Whedon,The Avengers (film) Home Video,Marvel Cinematic Universe,The Avengers (team),Marvel Studios,Iron Man (film),The Incredible Hulk (film),Iron Man 2,Thor (film),Captain America: The First Avenger" />
+<meta name="description" content="The Avengers (also known as Avengers Assemble in the UK and Ireland) is a 2012 superhero film..." />
+<meta name="google-site-verification" content="mee0ZWi4ltBfBd35n4sR0ZXrgHEQ52XaT9-jEoav-b4" />
+<link rel="canonical" href="http://marvel-movies.wikia.com/wiki/The_Avengers_(film)" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb58/marvelmovies/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/marvelmovies/images/6/64/Favicon.ico/revision/latest?cb=20100303030246" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Marvel Movies (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://marvel-movies.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="Marvel Movies Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>The Avengers (film) - Marvel Movies Wiki - Wolverine, Iron Man 2, Thor</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images2.wikia.nocookie.net/__am/1424388494/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg2.wikia.nocookie.net%252F__cb20141117093833%252Fmarvelmovies%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D994%26background-image-width%3D1708%26color-body%3D%2523000000%26color-body-middle%3D%2523000000%26color-buttons%3Dblack%26color-header%3D%2523808080%26color-links%3D%25236c93b1%26color-page%3D%2523ffffff%26page-opacity%3D100%26widthType%3D2%26wordmark-font%3Dfontin/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationHubsMenu.scss,extensions/wikia/UserLogin/css/UserLoginDropdown.globalNavigation.scss,extensions/wikia/WallNotifications/styles/WallNotifications.globalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationOasis.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearchOasis.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://marvel-movies.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: marvelmovies:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="movies",
+wgWikiCategories=["comics"],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":true,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"pageArticleId":2720,"pageIsArticle":true,"pageName":"The_Avengers_(film)","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=18-24;age=25-34;age=18-34;age=kids;age=teen;gnre=action;gnre=adventure;gnre=comics;gnre=fantasy;media=movies;media=comics;theme=superheroes;theme=heroes","wikiDbName":"marvelmovies","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"Entertainment"},"providers":[],"slots":{"bottomLeaderboardImpressionCapping":[2,4,6]},"forceProviders":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[5,7,8,13,14,15,18,20,21,22,129,142,100056,100057,100058,100059,100408,100428],
+wgWikiFactoryTagNames=["movie","comics/manga","action/adventure","teens_(14-17)","kids_(13)","male","family","adults_(18-35)","adults_(35+)","female","entertainment","dvd/blu-ray","wow","t9","skyscraper","skyscrapperwow","addriverstoragepilot","apertureenabled"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1424388494",
+wgDBname="marvelmovies",
+wgCityId="6294",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=2720,
+wgCategories=["The Avengers","Marvel Cinematic Universe","Marvel Cinematic Universe: Phase 1"],
+wgPageName="The_Avengers_(film)",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="movie",
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1424388494",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/average","env":"prod","hostname":"ap-s41","wiki":"marvelmovies","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"average"},
+wgEnableOpenXSPC=true;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>
+function syslogReport(priority,message,context){context=context||null;var url='//jserrorslog.wikia.com/',i=new Image(),data={'@message':message,'syslog_pri':priority};if(context){data['@context']=context;}
+try{data['@fields']={server:document.cookie.match(/server.([A-Z]*).cache/)[1]};}catch(e){}
+try{i.src=url+'l?'+JSON.stringify(data);}catch(e){i.src=url+'e?'+e;}}</script><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1424388494&amp;c=6294&amp;lc=en&amp;lid=75&amp;x=marvelmovies&amp;y=c1&amp;u=0&amp;a=2720&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1424388494&amp;c=6294&amp;lc=en&amp;lid=75&amp;x=marvelmovies&amp;y=c1&amp;u=0&amp;a=2720&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://marvel-movies.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1424388494/groups/-/abtesting,oasis_blocking,analytics_gas_js,adengine2_tracking_js,adengine2_rubicon_rtp_js,adengine2_amazon_match_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Marvel Movies" />
+	<meta property="og:title" content="The Avengers (film)" />
+	<meta property="og:description" content="The Avengers (also known as Avengers Assemble in the UK and Ireland) is a 2012 superhero film and the sixth film in the Marvel Cinematic Universe, based on the superhero team the Avengers created by Stan Lee and Jack Kirby. The film is a crossover of all the films independently produced by Marvel Studios set within the Marvel Cinematic Universe, namely Iron Man (2008), The Incredible Hulk (2008), Iron Man 2 (2010), Thor (2011) and Captain America: The First Avenger (2011). In the film..." />
+	<meta property="og:url" content="http://marvel-movies.wikia.com/wiki/The_Avengers_(film)" />
+	<meta property="og:image" content="http://img1.wikia.nocookie.net/__cb20140224212535/marvelmovies/images/thumb/8/8f/2012_Avengers_Poster.jpg/500px-2012_Avengers_Poster.jpg" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-The_Avengers_film  TOC_hide MiniEditor wikinav2 skin-oasis background-not-tiled background-dynamic">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fmarvel-movies.wikia.com%2Fwiki%2FThe_Avengers_%28film%29%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require(["ext.wikia.adEngine.amazonMatchOld", "wikia.geo", "wikia.instantGlobals"], function (amazon, geo, globals) {
+		var ac = globals["wgAmazonMatchOldCountries"];
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+	require(["ext.wikia.adEngine.amazonMatch", "wikia.geo", "wikia.instantGlobals"], function (amazon, geo, globals) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+</script>
+<!-- Unsupported language for AnalyticsProviderIVW2 -->
+<!-- Start for RubiconRTP, page_view -->
+<script>
+	require(['wikia.geo', 'wikia.instantGlobals', 'ext.wikia.adEngine.rubiconRtp'], function (geo, instantGlobals, rtp) {
+		var rtpCountries = ["US","GB","BR"], country = geo.getCountryCode();
+
+		if (rtpCountries.indexOf(country) !== -1 && !instantGlobals.wgSitewideDisableRubiconRTP) {
+			rtp.call({"disabled":false,"oz_site":"7450\/11979","oz_zone":"145168","oz_ad_slot_size":"728x90","skin":["oasis"],"oz_cached_only":false,"slotname":["BOTTOM_LEADERBOARD","CORP_TOP_LEADERBOARD","HOME_TOP_LEADERBOARD","HUB_TOP_LEADERBOARD","TOP_LEADERBOARD"]});
+		}
+	});
+</script><div class="WikiaSiteWrapper">
+	<h1>Wikia</h1>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+	<nav class="global-navigation" id="globalNavigation">
+	<div class="page-width">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com"
+				class="wikia-logo"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+			</a>
+		</div>
+		<div class="hubs-container table-cell" id="hubsEntryPoint">
+			<a class="hubs-entry-point"></a>
+<nav id="hubs" class="hubs-menu">
+	<ul class="hub-list">
+					<li>
+								<a data-vertical="comics" href="http://comicshub.wikia.com/wiki/Comics_Hub" class="comics hub-link ">
+					<span class="icon"></span>
+					<span class="label">Comics</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="tv" href="http://tvhub.wikia.com/wiki/TV_Hub" class="tv hub-link ">
+					<span class="icon"></span>
+					<span class="label">TV</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="movies" href="http://movieshub.wikia.com/wiki/Movies_Hub" class="movies hub-link  active">
+					<span class="icon"></span>
+					<span class="label">Movies</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="music" href="http://musichub.wikia.com/wiki/Music_Hub" class="music hub-link ">
+					<span class="icon"></span>
+					<span class="label">Music</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="books" href="http://bookshub.wikia.com/wiki/Books_Hub" class="books hub-link ">
+					<span class="icon"></span>
+					<span class="label">Books</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="games" href="http://gameshub.wikia.com/wiki/Games_Hub" class="games hub-link ">
+					<span class="icon"></span>
+					<span class="label">Games</span>
+				</a>
+							</li>
+					<li>
+								<a data-vertical="lifestyle" href="http://lifestylehub.wikia.com/wiki/Lifestyle_Hub" class="lifestyle hub-link ">
+					<span class="icon"></span>
+					<span class="label">Lifestyle</span>
+				</a>
+							</li>
+			</ul>
+	<div class="hub-links">
+		<div class="hub-menu-section movies-links active">
+			<ul>
+			<strong>NOW PLAYING</strong>
+							<li>
+					<a href="http://ow.ly/J5T6z">Kingsman: The Secret Service</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5T89">50 Shades of Grey</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5T9O">The SpongeBob Movie: Sponge Out of Water</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>FAN RADAR</strong>
+							<li>
+					<a href="http://ow.ly/J5Tbw">Pitch Perfect 2</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Tde">Furious 7</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5TeS">Avengers: Age of Ultron</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>IN THE NEWS</strong>
+							<li>
+					<a href="http://ow.ly/J5TjA">Spidey Joins MCU</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Tmv">Who is Miles Morales?</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5Tof">Oscar Buzz</a>
+				</li>
+					</ul>
+			<ul>
+			<strong>TOP VIDEOS</strong>
+							<li>
+					<a href="http://ow.ly/J5TtH">Straight Outta Compton</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5TvS">The Man From U.N.C.L.E.</a>
+				</li>
+							<li>
+					<a href="http://ow.ly/J5TxJ">Fantastic Four Easter Eggs</a>
+				</li>
+					</ul>
+		<a class="more" href="http://movieshub.wikia.com/wiki/Movies_Hub">More Movies</a>
+</div>
+	</div>
+</nav>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://marvel-movies.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search within Marvel Movies..." data-search-url="http://marvel-movies.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search within Marvel Movies..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell">
+	<li class="account-navigation-first-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=The_Avengers_(film)" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">				<div class="avatar-container anon-avatar-placeholder">
+									</div>
+			</a>
+							<span class="sign-in-label">Sign in</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+		</div>
+		<div id="UserLoginDropdown" class="UserLoginDropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Sign up</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="The_Avengers_(film)">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_LEADERBOARD"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_BUTTON_WIDE"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_SKIN"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h1 class="wordmark medium graphic font-fontin">
+	<a accesskey="z" href="/wiki/Marvel_Movies">
+					<img src="http://img2.wikia.nocookie.net/__cb58/marvelmovies/images/8/89/Wiki-wordmark.png" alt="Marvel Movies"  width="250" height="65" >
+			</a>
+</h1>
+        <nav class="WikiNav">
+    	        <h1>Marvel Movies Navigation</h1>
+        		<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/X-Men:_Days_of_Future_Past">Days of Future Past</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Wolverine">Wolverine</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Sentinels">Sentinels</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Bolivar_Trask">Bolivar Trask</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Charles_Xavier">Charles Xavier</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Magneto">Magneto</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Mystique">Mystique</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Beast">Beast</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Guardians_of_the_Galaxy_(film)">GotG</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Peter_Quill">Peter Quill</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Drax_the_Destroyer">Drax the Destroyer</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Gamora">Gamora</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Rocket_Raccoon">Rocket Raccoon</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Groot">Groot</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Portal:Movies_in_production">Upcoming</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Avengers:_Age_of_Ultron">Avengers: Age of Ultron<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Avengers_(team)">The Avengers</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ultron">Ultron</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/HYDRA">HYDRA</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Fantastic_Four_(2015)">Fantastic 4<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Reed_Richards">Mr. Fantastic</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Susan_Storm">Invisible Woman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jonathan_Storm">Human Torch</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Benjamin_Grimm">The Thing</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Ant-Man_(film)">Ant-Man<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Scott_Lang">Scott Lang</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hank_Pym">Hank Pym</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hope_van_Dyne">Hope van Dyne</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Darren_Cross">Yellowjacket</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Captain_America_3">Captain America 3<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Steven_Rogers">Captain America</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Portal:Movies">Movies</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/The_Amazing_Spider-Man_2">TASM2<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Peter_Parker">Spider-Man</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gwen_Stacy">Gwen Stacy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Harry_Osborn">Harry Osborn</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Maxwell_Dillon">Electro</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Aleksei_Sytsevich">Rhino</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Norman_Osborn">Norman Osborn</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Captain_America:_The_Winter_Soldier">Cap 2<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Steve_Rogers">Captain America</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bucky_Barnes">Winter Soldier</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Natasha_Romanoff">Black Widow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sam_Wilson">Falcon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Nicholas_Fury">Nick Fury</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Alexander_Pierce">Alexander Pierce</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Brock_Rumlow">Brock Rumlow</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Thor_2">Thor 2<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Thor_Odinson">Thor Odinson</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Loki_Laufeyson">Loki Laufeyson</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jane_Foster">Jane Foster</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Malekith">Malekith</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Algrim">Algrim</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/The_Wolverine">The Wolverine<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/James_Howlett">Wolverine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ichir%C5%8D_Yashida">Silver Samurai</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Viper">Viper</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mariko_Yashida">Mariko Yashida</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Yukio">Yukio</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenuichio_Harada">Kenuichio Harada</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Iron_Man_3">Iron Man 3<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tony_Stark">Tony Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/James_Rhodes">James Rhodes</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pepper_Potts">Pepper Potts</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Trevor_Slattery">Mandarin</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Aldrich_Killian">Aldrich Killian</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/The_Amazing_Spider-Man_(2012)">TASM<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Peter_Parker">Peter Parker</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Curt_Connors">Curt Connors</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gwen_Stacy">Gwen Stacy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/George_Stacy">George Stacy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ben_Parker">Ben Parker</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/May_Parker">May Parker</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>    </nav>
+	    <div class="buttons">
+		<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+					<a href="#" class="wikia-button share-button secondary"  data-id="shareButton"> Share<span class="share-dot"></span><span class="share-pixel"></span></a>
+    </div>
+	    <div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>    </div>
+</header>
+
+				
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+				<header id="WikiaPageHeader" class="WikiaPageHeader">
+    <h1>The Avengers (film)</h1>
+
+	<nav class="wikia-menu-button loginToEditProtectedPage" >
+	<a accesskey="e"  href="/wiki/Special:SignUp?returnto=The_Avengers_(film)&amp;returntoquery=action%3Dedit&amp;type=login" data-id="edit" id="ca-viewsource">
+		<img alt="" class="sprite edit-pencil" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Edit	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/The_Avengers_(film)?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+        <div class="tally">
+			<em>3,630</em><span>pages on<br /> this wiki</span>        </div>
+		</header>
+
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+
+					
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><table style="clear: right; border: solid #aaa 1px; margin: 0 0 1em 1em; font-size: 95%; background: #f9f9f9; color:black; width: 300px;moz-border-radius:10px;-moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; padding: 10px; float: right;">
+
+<tr>
+<td colspan="2" style="text-align: center; font-size:125%; color:white;" bgcolor="red"> <i><b>The Avengers</b></i>
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center;"> <div class="center"><div class="floatnone"><a href="http://vignette2.wikia.nocookie.net/marvelmovies/images/8/8f/2012_Avengers_Poster.jpg/revision/latest?cb=20140224212535" 	class="image image-thumbnail" 	 	 	><img src="http://vignette2.wikia.nocookie.net/marvelmovies/images/8/8f/2012_Avengers_Poster.jpg/revision/latest/scale-to-width/280?cb=20140224212535" 	 alt="2012 Avengers Poster"  	class="" 	 	data-image-key="2012_Avengers_Poster.jpg" 	data-image-name="2012 Avengers Poster.jpg" 	 	 width="280"  	 height="415"  	 	 	 	></a></div></div>
+</td></tr>
+<tr style="vertical-align: top;">
+<td style="vertical-align: top;"> <b>Director: </b> </td><td> <a href="/wiki/Joss_Whedon" title="Joss Whedon">Joss Whedon</a>
+</td></tr>
+<tr style="vertical-align: top;">
+<td style="vertical-align: top;"> <b>Writer(s): </b> </td><td> Joss Whedon
+</td></tr>
+<tr style="vertical-align: top;">
+<td style="vertical-align: top;"> <b>Release Date: </b> </td><td> <b>Australia:</b><br />April 25, 2012<br /><b>United Kingdom:</b><br />April 26, 2012<br /><b>Worldwide:</b><br />May 4, 2012
+</td></tr>
+<tr style="vertical-align: top;">
+<td style="vertical-align: top;"> <b>Running Time: </b> </td><td> 143 mins
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size:125%; color:white;" bgcolor="red"> More Information
+</td></tr>
+<tr>
+<td style="text-align: center; vertical-align: top; width: 50%;"> <a href="/wiki/The_Avengers_(film)_Credits" title="The Avengers (film) Credits">Full Credits</a>
+</td><td style="text-align: center; vertical-align: top; width: 50%;"> <a href="/wiki/The_Avengers_(film)_Trivia" title="The Avengers (film) Trivia">Trivia</a>
+</td></tr>
+<tr>
+<td style="text-align: center; vertical-align: top; width: 50%;"> <a href="/wiki/The_Avengers_(film)_Home_Video" title="The Avengers (film) Home Video">Home Video</a>
+</td><td style="text-align: center; vertical-align: top; width: 50%;"> <a href="/wiki/The_Avengers_(film)_Awards?action=edit&amp;redlink=1" class="new" title="The Avengers (film) Awards (page does not exist)">Awards</a>
+</td></tr>
+<tr>
+<td style="text-align: center; vertical-align: top; width: 50%;"> <a href="/wiki/The_Avengers_(film)_Soundtrack" title="The Avengers (film) Soundtrack">Soundtrack</a>
+</td><td style="text-align: center; vertical-align: top; width: 50%;"> <a href="/wiki/The_Avengers_(film)_Reviews" title="The Avengers (film) Reviews">Reviews</a>
+</td></tr>
+<tr>
+<td style="text-align: center; vertical-align: top; width: 50%;"> <a href="/wiki/Category:The_Avengers_merchandise" title="Category:The Avengers merchandise">Merchandise</a>
+</td><td style="text-align: center; vertical-align: top; width: 50%;"> <a href="/wiki/Category:The_Avengers_characters" title="Category:The Avengers characters">Characters</a>
+</td></tr></table>
+<p><i><b>The Avengers</b></i> (also known as <i><b>Avengers Assemble</b></i> in the UK and Ireland) is a 2012 superhero film and the sixth film in the <a href="/wiki/Marvel_Cinematic_Universe" title="Marvel Cinematic Universe">Marvel Cinematic Universe</a>, based on the superhero team the <a href="/wiki/The_Avengers_(team)" title="The Avengers (team)">Avengers</a> created by Stan Lee and Jack Kirby. The film is a crossover of all the films independently produced by <a href="/wiki/Marvel_Studios" title="Marvel Studios">Marvel Studios</a> set within the Marvel Cinematic Universe, namely <i><a href="/wiki/Iron_Man_(film)" title="Iron Man (film)">Iron Man</a></i> (2008), <i><a href="/wiki/The_Incredible_Hulk_(film)" title="The Incredible Hulk (film)">The Incredible Hulk</a></i> (2008), <i><a href="/wiki/Iron_Man_2" title="Iron Man 2">Iron Man 2</a></i> (2010), <i><a href="/wiki/Thor_(film)" title="Thor (film)">Thor</a></i> (2011) and <i><a href="/wiki/Captain_America:_The_First_Avenger" title="Captain America: The First Avenger">Captain America: The First Avenger</a></i> (2011). In the film, <a href="/wiki/S.H.I.E.L.D." title="S.H.I.E.L.D.">S.H.I.E.L.D.</a> director <a href="/wiki/Nick_Fury_(Marvel_Cinematic_Universe)" title="Nick Fury (Marvel Cinematic Universe)" class="mw-redirect">Nick Fury</a> assembles <a href="/wiki/Anthony_Stark" title="Anthony Stark">Iron Man</a>, <a href="/wiki/Steve_Rogers" title="Steve Rogers" class="mw-redirect">Captain America</a>, the <a href="/wiki/Hulk_(Marvel_Cinematic_Universe)" title="Hulk (Marvel Cinematic Universe)" class="mw-redirect">Hulk</a>, <a href="/wiki/Thor_Odinson" title="Thor Odinson">Thor</a>, <a href="/wiki/Natasha_Romanoff" title="Natasha Romanoff" class="mw-redirect">Black Widow</a> and <a href="/wiki/Clint_Barton" title="Clint Barton">Hawkeye</a> to battle Thor's adoptive brother <a href="/wiki/Loki_Laufeyson" title="Loki Laufeyson">Loki</a>, who attempts to subjugate humanity by leading an invasion by the extraterrestrial race known as the <a href="/wiki/Chitauri" title="Chitauri">Chitauri</a>.
+</p><p><i>The Avengers</i> is the first major crossover in the Marvel Cinematic Universe and the first to be released by <a href="/wiki/Walt_Disney_Pictures" title="Walt Disney Pictures">Walt Disney Pictures</a>; the previous films were released by <a href="/wiki/Paramount_Pictures" title="Paramount Pictures">Paramount Pictures</a> (apart from <i>The Incredible Hulk</i> which was distributed by Universal Studios) and as part of the deal of transfering the distribution rights from Paramount to Disney, the Paramount logo appears on the film, its promotion and its merchandise, as well as Paramount earning 8% of the films income. The Walt Disney Company is credited at the end of the film, however.
+</p><p><i>The Avengers</i> was directed by <a href="/wiki/Joss_Whedon" title="Joss Whedon">Joss Whedon</a> and stars <a href="/wiki/Robert_Downey,_Jr." title="Robert Downey, Jr." class="mw-redirect">Robert Downey, Jr.</a>, <a href="/wiki/Chris_Evans" title="Chris Evans">Chris Evans</a>, <a href="/wiki/Mark_Ruffalo" title="Mark Ruffalo">Mark Ruffalo</a>, <a href="/wiki/Chris_Hemsworth" title="Chris Hemsworth">Chris Hemsworth</a>, <a href="/wiki/Scarlett_Johansson" title="Scarlett Johansson">Scarlett Johansson</a>, <a href="/wiki/Jeremy_Renner" title="Jeremy Renner">Jeremy Renner</a>, <a href="/wiki/Tom_Hiddleston" title="Tom Hiddleston">Tom Hiddleston</a> and <a href="/wiki/Samuel_L._Jackson" title="Samuel L. Jackson">Samuel L. Jackson</a>. The film was successful financially and critically and broke box-office records as the biggest weekend opening for a film and the fastest film to gross $1 billion worldwide. The film is statistically the most successful film released by Walt Disney to date and it regarded by many as one of the greatest superhero films of all time. The film has been nominated for the Academy Award for Best Visual Effects.
+</p>
+<nav id="toc" class="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a href="#" class="internal" id="togglelink" data-show="show" data-hide="hide">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Plot">Plot</span></h2>
+<p><a href="/wiki/Nick_Fury" title="Nick Fury" class="mw-redirect">Nick Fury</a>, the director of the espionage agency known as <a href="/wiki/S.H.I.E.L.D." title="S.H.I.E.L.D.">S.H.I.E.L.D.</a> arrives at <a href="/wiki/Project_P.E.G.A.S.U.S." title="Project P.E.G.A.S.U.S.">Project P.E.G.A.S.U.S.</a>, a remote research facility, during an evacuation. His second-in-command, <a href="/wiki/Maria_Hill" title="Maria Hill">Maria Hill</a>, explains that the <a href="/wiki/Cosmic_Cube" title="Cosmic Cube" class="mw-redirect">Tesseract</a>, an self-sustaining energy source of unknown potential, has activated and opened a portal through space, from which the exiled Asgardian prince <a href="/wiki/Loki" title="Loki" class="mw-redirect">Loki</a>, steps through. Loki takes the Tesseract, and uses a sceptre to control the minds of several S.H.I.E.L.D. personnel including Agent <a href="/wiki/Clint_Barton" title="Clint Barton">Clint Barton</a>, and physicist consultant <a href="/wiki/Erik_Selvig" title="Erik Selvig">Dr. Erik Selvig</a> in order to aid in his getaway.
+</p><p>In response, Fury reactivates the <a href="/wiki/Avengers_Initiative" title="Avengers Initiative">Avengers Initiative</a>. Agent <a href="/wiki/Natasha_Romanoff" title="Natasha Romanoff" class="mw-redirect">Natasha Romanoff</a> recruits Dr. <a href="/wiki/Bruce_Banner" title="Bruce Banner">Bruce Banner</a> in India, while Agent <a href="/wiki/Phil_Coulson" title="Phil Coulson" class="mw-redirect">Phil Coulson</a> visits <a href="/wiki/Anthony_Stark" title="Anthony Stark">Tony Stark</a> and requests that he reviews Selvig's research. Fury himself approaches <a href="/wiki/Steve_Rogers" title="Steve Rogers" class="mw-redirect">Steve Rogers</a> with an assignment to retrieve the Tesseract from Loki; Rogers is familiar with the Tesseract as it played a vital role in his <a href="/wiki/Captain_America:The_First_Avenger" title="Captain America:The First Avenger" class="mw-redirect">World War II exploits</a>.
+</p><p>Romanoff, Coulson, Rogers, and Banner meet on the <a href="/wiki/S.H.I.E.L.D._Helicarrier" title="S.H.I.E.L.D. Helicarrier">S.H.I.E.L.D. Helicarrier</a> before it goes airborne. Dr. Banner is escorted to his lab after a brief meeting with Fury; Banner has been consulted to trace the gamma signature that the Tesseract radiates. After spending some time tracking the whereabouts of the Tesseract on the Helicarrier, a man of Loki's description is located in Europe.
+</p><p>Iron Man, Captain America, and Romanoff travel to Stuttgart, Germany to apprehend Loki, who, with the aid of a mind-controlled Barton, is stealing iridium needed to stabilize the Tesseract and demanding worship. After a battle with the heroes, Loki surrenders and is being returned to the Helicarrier in the Quinjet. <a href="/wiki/Thor_Odinson" title="Thor Odinson">Thor</a>, Loki's adoptive brother and the Asgardian god of thunder, attempts to free Loki and reason with him. After a confrontation with Iron Man and Captain America, Thor accompanies them to imprison Loki on the Helicarrier.
+</p><p>After Loki is put into the cell originally intended for the <a href="/wiki/Bruce_Banner" title="Bruce Banner">Hulk</a>, Thor reveals to the team that Loki is allied with the <a href="/wiki/Chitauri" title="Chitauri">Chitauri</a>, a powerful and technologically-advanced extraterrestrial race unknown to both Earth and Asgard. In return for winning him the Earth, Loki has pomised them the Tesseract. Stark has <a href="/wiki/J.A.R.V.I.S." title="J.A.R.V.I.S.">J.A.R.V.I.S.</a>Â hack into the S.H.I.E.L.D. database while he works with Dr. Banner. Rogers is less than thrilled at Stark's behavior and tells the two scientists to resume their work and investigates Phase Two, S.H.I.E.L.D.'s top secret weapons program. Romanoff speaks one-on-one with Loki, and eventually discovers that he plans on using the Hulk as a means of dismembering the team.
+</p><p>After all these things come to light, the Avengers are divided over how to deal with Loki and the revelation that S.H.I.E.L.D. plans to harness the Tesseractâs power to develop weapons. Fury admits that the events in <a href="/wiki/New_Mexico" title="New Mexico">New Mexico</a> a year prior made S.H.I.E.L.D. aware of other extraterrestrial races that may threaten Earth. Weapons developed from the Tesseract would form a means of deterrence. As the group argues, Barton and Lokiâs possessed agents attack the Helicarrier, disabling its engines. As Iron Man and Captain America attempt to restart the damaged engines, Banner transforms into the Hulk, despite Romanoff's efforts to calm him, and runs amok inside the ship, soon battling Thor. 
+</p><p>During a fight with Barton, Romanoff discovers that knocking him unconscious breaks Loki's mind control. Loki escapes his cell with the help of a possessed agent and traps Thor in the cell. Coulson confronts Loki in an attempt to rescue Thor, and Loki then stabs Coulson through his back with his staff before ejecting Thor from the ship.Â Fury confronts the expiring Coulson, who hopes his death can be used to motivate the Avengers into working as a team.
+</p><p>Stark and Rogers work out that Loki will orchestrate the alien invasion at Stark's New York-based home, <a href="/wiki/Stark_Tower" title="Stark Tower" class="mw-redirect">Stark Tower</a>, and that defeating them will not be enough for Loki; he needs to overpower them in a public way so as to validate himself as ruler of Earth. Using a Tesseract-powered interdimensional generator Selvig has built, Loki opens a portal to the Chitauri fleet over Manhattan, summoning an invasion. The Avengers rally in defense of New York, but quickly conclude they will be overwhelmed as wave after wave of Chitauri and <a href="/wiki/Leviathan" title="Leviathan">Leviathans</a> descend. The Avengers keep their ground to hold off the invasion and evacuate civilians while the Hulk beats Loki into submission. Romanoff makes her way to Selvig's device, where Selvig, freed of Loki's control, reveals that Loki's staff can be used to close the portal.
+</p><p>Meanwhile, Fury's superiors attempt to end the invasion by launching a nuclear missile at Manhattan. Despite Agent Hill and Fury's orders to not fire, a rogue jet launches the missile at Manhattan. Iron Man intercepts it and takes it through the portal toward the Chitauri fleet before running out of power and plummeting back to Earth. The Hulk catches him as he falls. The Avengers then apprehend Loki, who is still weak from his encounter with the Hulk. News channels confirm the legitimacy of the extraterrestrial attack and some Americans regard the Avengers with praise and thanks while others call for their arrests. Thor escorts Loki and the Tesseract back to Asgard to take responsibility for his crimes. Fury notes that the Avengers will go their separate ways until such time as a new world-threatening menace emerges.
+</p><p>In the first post-credits scene, <a href="/wiki/The_Other" title="The Other">The Other</a> tells his master that humans are not the "cowering wretches" they were promised and that attacking Earth again "would be to court Death". His master, <a href="/wiki/Thanos" title="Thanos">Thanos</a> turns and smiles.
+</p><p>In a second post-credits scene, the Avengers â gathered at a shawarma restaurant and looking a bit worse for the wear â eat in silence.
+</p>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write(
+            '<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full"' +
+            'data-mon-type="amazon_video" data-mon-slot="in_content">' +
+            '<div class="affiliate" data-mon-pid="B00QROH0QK" data-mon-ptag="marvel-the_avengers_(f-6294-2720-B00QROH0QK-piv-fl-npr-ic-f" ' +
+            'data-mon-pname="Guardians of the Galaxy (Theatrical)"><div class="affiliate-header">' +
+            '<a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00QROH0QK/ref=atv_feed_catalog?tag=wikia-monsvc-ic-20&ascsubtag=marvel-the_avengers_(f-6294-2720-B00QROH0QK-piv-fl-npr-ic-f">' +
+            '<img  src="http://ecx.images-amazon.com/images/I/51ySf939tsL._SX320_SY240_.jpg"></a></div>' +
+            '<a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00QROH0QK/ref=atv_feed_catalog?tag=wikia-monsvc-ic-20&ascsubtag=marvel-the_avengers_(f-6294-2720-B00QROH0QK-piv-fl-npr-ic-f">' +
+            '<div class="product-title">Guardians of the Galaxy (Theatrical)</div>' +
+            '<div class="product-detail"></div>' +
+            '<div class="rating-bar"><div class="rating" style="width: 90.0%"></div></div></a>' +
+            '<div class="product-button non-prime">' +
+            '<a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00QROH0QK/ref=atv_feed_catalog?tag=wikia-monsvc-ic-20&ascsubtag=marvel-the_avengers_(f-6294-2720-B00QROH0QK-piv-fl-npr-ic-f"></a>' +
+            '<a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00QROH0QK/ref=atv_feed_catalog?tag=wikia-monsvc-ic-20&ascsubtag=marvel-the_avengers_(f-6294-2720-B00QROH0QK-piv-fl-npr-ic-f"></a>' +
+            '</div></div></aside>'
+        );
+    } else 
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write(
+        '<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" ' +
+        'data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div>' +
+        '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">' +
+        '</scr' + 'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" ' +
+        'data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fss_fft mon_hub_movies mon_sl_ic" ' +
+        'data-ad-type="text" ' + 'data-font-size="small" ' +'data-font-face="times" ' +
+        ' data-color-bg="#ffffff" data-color-border="#ffffff" data-color-link="#6c93b1" data-color-url="#6c93b1" data-color-text="#3a3a3a" ></ins>' +
+        '<script>(adsbygoogle = window.adsbygoogle || []).push({});</scr' + 'ipt></div></div>'
+    );
+}
+</script><h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li><a href="/wiki/Robert_Downey_Jr." title="Robert Downey Jr.">Robert Downey Jr.</a> as <a href="/wiki/Anthony_Stark" title="Anthony Stark">Tony Stark</a>/<a href="/wiki/Iron_Man_(armor)" title="Iron Man (armor)">Iron Man</a>
+</li><li><a href="/wiki/Chris_Evans" title="Chris Evans">Chris Evans</a> as <a href="/wiki/Steve_Rogers" title="Steve Rogers" class="mw-redirect">Steve Rogers/Captain America</a>
+</li><li><a href="/wiki/Chris_Hemsworth" title="Chris Hemsworth">Chris Hemsworth</a> as <a href="/wiki/Thor_Odinson" title="Thor Odinson">Thor</a>
+</li><li><a href="/wiki/Mark_Ruffalo" title="Mark Ruffalo">Mark Ruffalo</a> as <a href="/wiki/Bruce_Banner" title="Bruce Banner">Bruce Banner</a>/<a href="/wiki/Hulk" title="Hulk">The Hulk</a>
+<ul><li><a href="/wiki/Lou_Ferrigno" title="Lou Ferrigno">Lou Ferrigno</a> as the voice of The Hulk
+</li></ul>
+</li><li><a href="/wiki/Jeremy_Renner" title="Jeremy Renner">Jeremy Renner</a> as <a href="/wiki/Clint_Barton" title="Clint Barton">Clint Barton/Hawkeye</a>
+</li><li><a href="/wiki/Scarlett_Johansson" title="Scarlett Johansson">Scarlett Johansson</a> as <a href="/wiki/Natasha_Romanoff" title="Natasha Romanoff" class="mw-redirect">Natasha Romanoff/Black Widow</a>
+</li><li><a href="/wiki/Tom_Hiddleston" title="Tom Hiddleston">Tom Hiddleston</a> as <a href="/wiki/Loki_Laufeyson" title="Loki Laufeyson">Loki</a>
+</li><li><a href="/wiki/Samuel_L._Jackson" title="Samuel L. Jackson">Samuel L. Jackson</a> as <a href="/wiki/Nicholas_Fury" title="Nicholas Fury">Nick Fury</a>
+</li><li><a href="/wiki/Cobie_Smulders" title="Cobie Smulders">Cobie Smulders</a> as <a href="/wiki/Maria_Hill" title="Maria Hill">Maria Hill</a>
+</li><li><a href="/wiki/Clark_Gregg" title="Clark Gregg">Clark Gregg</a> as <a href="/wiki/Phil_Coulson" title="Phil Coulson" class="mw-redirect">Phil Coulson</a>
+</li><li><a href="/wiki/Stellan_Skarsg%C3%A5rd" title="Stellan SkarsgÃ¥rd">Stellan SkarsgÃ¥rd</a> as <a href="/wiki/Erik_Selvig" title="Erik Selvig">Erik Selvig</a>
+</li><li><a href="/wiki/Paul_Bettany" title="Paul Bettany">Paul Bettany</a> as the voice of <a href="/wiki/J.A.R.V.I.S." title="J.A.R.V.I.S.">J.A.R.V.I.S.</a>
+</li><li><a href="/wiki/Gwyneth_Paltrow" title="Gwyneth Paltrow">Gwyneth Paltrow</a> as <a href="/wiki/Pepper_Potts" title="Pepper Potts" class="mw-redirect">Pepper Potts</a>
+</li><li><a href="/wiki/Maximiliano_Hern%C3%A1ndez" title="Maximiliano HernÃ¡ndez">Maximiliano HernÃ¡ndez</a> as <a href="/wiki/Jasper_Sitwell" title="Jasper Sitwell">Jasper Sitwell</a>
+</li><li><a href="/wiki/Alexis_Denisof" title="Alexis Denisof">Alexis Denisof</a> as <a href="/wiki/The_Other" title="The Other">The Other</a>
+</li><li><a href="/wiki/Jenny_Agutter" title="Jenny Agutter">Jenny Agutter</a> as a member of the World Security Council
+</li><li><a href="/wiki/Powers_Boothe" title="Powers Boothe">Powers Boothe</a> as a member of the World Security Council
+</li><li><a href="/wiki/Arthur_Darbinyan" title="Arthur Darbinyan">Arthur Darbinyan</a> as a member of the World Security Council
+</li><li><a href="/wiki/Donald_Li" title="Donald Li">Donald Li</a> as a member of the World Security Council
+</li><li><a href="/wiki/Romy_Rosemont" title="Romy Rosemont">Romy Rosemont</a> as <a href="/wiki/Shawna_Lynde?action=edit&amp;redlink=1" class="new" title="Shawna Lynde (page does not exist)">Shawna Lynde</a>
+</li><li><a href="/wiki/James_Eckhouse" title="James Eckhouse">James Eckhouse</a> as <a href="/wiki/Senator_Boyton?action=edit&amp;redlink=1" class="new" title="Senator Boyton (page does not exist)">Senator Boyton</a>
+</li><li><a href="/wiki/Jerzy_Skolimowski" title="Jerzy Skolimowski">Jerzy Skolimowski</a> as <a href="/wiki/Georgi_Luchkov" title="Georgi Luchkov">Georgi Luchkov</a>
+</li><li><a href="/wiki/Ashley_Johnson" title="Ashley Johnson">Ashley Johnson</a> as <a href="/wiki/Beth?action=edit&amp;redlink=1" class="new" title="Beth (page does not exist)">Beth the waitress</a>
+</li><li><a href="/wiki/Josh_Cowdery" title="Josh Cowdery">Josh Cowdery</a> as <a href="/wiki/Agent_Tyler" title="Agent Tyler" class="mw-redirect">Agent Tyler</a>
+</li><li><a href="/wiki/Stan_Lee" title="Stan Lee">Stan Lee</a> as himself
+</li><li><a href="/wiki/Damion_Poitier" title="Damion Poitier">Damion Poitier</a> as <a href="/wiki/Thanos" title="Thanos">Thanos</a> <small>(No dialogue)</small>
+</li></ul>
+<h2><span class="mw-headline" id="Continuity_and_References_to_the_Marvel_Cinematic_Universe">Continuity and References to the Marvel Cinematic Universe</span></h2>
+<ul><li>Howard Stark found the <a href="/wiki/Tesseract" title="Tesseract">Tesseract</a> at the end of <i><a href="/wiki/Captain_America:_The_First_Avenger" title="Captain America: The First Avenger">Captain America: The First Avenger</a></i>, studied it as seen in his notebook in <i><a href="/wiki/Iron_Man_2" title="Iron Man 2">Iron Man 2</a></i> and it was in S.H.I.E.L.D's custody ever since as seen at the end of <i><a href="/wiki/Thor_(film)" title="Thor (film)">Thor</a></i>.
+</li><li><a href="/wiki/Erik_Selvig" title="Erik Selvig">Erik Selvig</a> is shown to be working on the cosmic cube, trying to find out how to harness its power. This shows that it is a continuation from <i><a href="/wiki/Thor_(film)" title="Thor (film)">Thor</a></i>.
+</li><li>In the beginning of the film, Selvig made mention to Fury that the Tesseract was giving off low levels of gamma radiation, nothing harmful to hurt humans. However, Fury reminds him that even low levels of gamma radiation can be harmful, clearly reminding him of what happened to Bruce Banner and how he became the Hulk.
+</li><li><a href="/wiki/Audrey_Nathan" title="Audrey Nathan">Audrey Nathan, the Cellist</a> is mentioned twice.
+</li><li>When <a href="/wiki/Tony_Stark" title="Tony Stark" class="mw-redirect">Tony</a> and <a href="/wiki/Pepper_Potts" title="Pepper Potts" class="mw-redirect">Pepper</a> are looking at the files on his teammates from the device that <a href="/wiki/Phil_Coulson" title="Phil Coulson" class="mw-redirect">Coulson</a> gave them, the footage is taken directly from <i><a href="/wiki/The_Incredible_Hulk_(film)" title="The Incredible Hulk (film)">The Incredible Hulk</a></i>, <i><a href="/wiki/Thor_(film)" title="Thor (film)">Thor</a></i> and <i><a href="/wiki/Captain_America:_The_First_Avenger" title="Captain America: The First Avenger">Captain America: The First Avenger</a></i>.
+</li><li>Steve Rogers has a number of flashbacks to his time in the war as he punches a boxing bag, many of these are events that occurred in <i><a href="/wiki/Captain_America:_The_First_Avenger" title="Captain America: The First Avenger">Captain America: The First Avenger</a></i>. His montage also includes a glimpse of his half-frozen body and a S.H.I.E.L.D. scientist exclaiming that he's alive, a moment that was not seen in the earlier film. Other scenes are taken directly from <i>Captain America: The First Avenger</i>.
+</li><li>Steve Rogers discovered that S.H.I.E.L.D. phase 2's contingency plan is to use the Cosmic Cube's energy to make weapons using Arnim Zola's Hydra energy weapons as seen in <i>Captain America: The First Avenger</i> as a reference point to create their own arsenal of weaponry.
+</li><li>When Phil Coulson tries to contact Tony Stark in Stark Tower, Stark claims that "This is the Life Model Decoy of Tony Stark." This is a reference to Life Model Decoys (LMDs) that appear in the comics as duplicates for characters.
+</li><li>Tony Stark reminds Phil Coulson that he was "unsuitable" for the Avengers Initiative, as stated in Nick Fury's evaluation file on Tony at the end of <i>Iron Man 2</i>. Instead, he remains a consultant.
+</li><li>The footage that <a href="/wiki/Steve_Rogers" title="Steve Rogers" class="mw-redirect">Steve</a> watches about <a href="/wiki/Bruce_Banner" title="Bruce Banner">Bruce Banner</a> when flying on Quinjet with <a href="/wiki/Phil_Coulson" title="Phil Coulson" class="mw-redirect">Coulson</a> is a scene taken directly from <i><a href="/wiki/The_Incredible_Hulk_(film)" title="The Incredible Hulk (film)">The Incredible Hulk</a></i>.
+</li><li>When Thor returns to Earth, Loki asks him how much dark energy Odin had to use to send him there, confirming that the Bifrost is still destroyed.
+</li><li>Phil Coulson refers to <a href="/wiki/The_Destroyer" title="The Destroyer">The Destroyer</a> 's attack on New Mexico depicted in <i><a href="/wiki/Thor_(film)" title="Thor (film)">Thor</a></i> and reveals that S.H.I.E.L.D. is developing weapons made from parts of it.
+</li><li>Bruce Banner refers to his fight with <a href="/wiki/Abomination" title="Abomination">Abomination</a> in <i><a href="/wiki/The_Incredible_Hulk_(film)" title="The Incredible Hulk (film)">The Incredible Hulk</a></i> when Stark offers a visit to Stark Tower, saying "Thanks, but last time I was in New York, I kind of broke... Harlem."
+</li><li>Bruce Banner is said to have avoided a Hulk incident for over a year, meaning that the events of <i>The Avengers</i> take place over a year after <i>The Incredible Hulk</i>. During this time, he has spent his time travelling Asia to help the sickly.
+</li><li>A mid credits scene reveals that Loki's ally and the Other's master was <a href="/wiki/Thanos" title="Thanos">Thanos</a>, setting him up as the villain in later films.
+</li><li>Agent Coulson tells Thor that his love interest <a href="/wiki/Jane_Foster" title="Jane Foster">Jane Foster</a> has been hidden from Loki by S.H.I.E.L.D. Her photo is also shown.
+</li><li>Nick Fury tells Bruce Banner he has been protecting him from other forces searching for him, meaning <a href="/wiki/Thaddeus_Ross" title="Thaddeus Ross">General Ross</a>.
+</li><li>Pepper Potts' friendship with Phil Coulson echoes (much to Stark's dismay) the extended opening sequence of <i>Iron Man 2</i> as seen on the Blu-ray.
+</li><li>Bruce Banner refers to the alternate opening sequence of <i>The Incredible Hulk</i> where Bruce tried to commit suicide. In the Wishbone lab, Banner tells the rest of the team "I got low. I didn't see an end to it, so I put a bullet in my mouth and the "Other Guy" spat it out."
+</li><li>Captain America references either Adolf Hitler or <a href="/wiki/Johann_Schmidt" title="Johann Schmidt">Johann Schmidt</a> when he comes face to face with Loki in Stuttgart, Germany.
+</li><li>The song Tony Stark plays from the Quinjet when he makes his grand entrance in Captain America and Loki's fight, <a rel="nofollow" class="external text exitstitial" href="http://http://en.wikipedia.org/wiki/Shoot_to_Thrill">Shoot to Thrill</a> by Australian rock band AC/DC,was also played during Tony's arrival at the Stark Expo at the beginning of <i><a href="/wiki/Iron_Man_2" title="Iron Man 2">Iron Man 2</a></i>.
+</li><li>When Rogers talks to Stark about Coulson and why he did what he did, Rogers mentions "sometimes there's no way out." Stark replies he has heard that before, referring back to Yinsen, who saved his life in <i>Iron Man</i>. This makes it the first time in any way that Yinsen is somewhat mentioned since <i>Iron Man</i>.
+</li></ul>
+<h2><span class="mw-headline" id="Title">Title</span></h2>
+<p>The film's official title internationally is <i>Marvel's The Avengers</i>. In the United Kingdom and the Republic of Ireland, Walt Disney Pictures made the decision to reclassify the film as <i>Avengers Assemble</i> to avoid confusion with the popular British 1960s spy television series of the same title. "Avengers Assemble" is a battle cry used in the comic books for decades, first spoken by Thor. The British Board of Film Classification (BBFC) officially classifies the film as <i>Marvel Avengers Assemble </i>while the website and DVD release refer to the film as <i>Marvel's Avengers Assemble</i>.Â Products in the United Kingdom related to the film, such as action figures and comic book tie-ins, remain titled <i>The Avengers</i>. On the British title change, Kevin Feige assured that the decision wasn't made lightly and was done for legal reasons, also joking that the extra word "<i>Assemble</i>" was added as something special for the film's U.K. fans.
+</p>
+<h2><span class="mw-headline" id="Production">Production</span></h2>
+<ul><li>The film was shot in Cleveland, Ohio, Los Angeles, California, Michigan, Long Island, New York and New Mexico.
+</li></ul>
+<h2><span class="mw-headline" id="Reception">Reception</span></h2>
+<p><i>The Avengers</i> set the all-time industry record at the box office, grossing $207.4 million in America and $641.8 million globally, twelve days after its release. It opened internationally on April 25, 2012 and by May 8, 2012, it had already made over $700 million globally. It was also the fastest movie to make $200 million domestically, after only three days. It opened May 3, in Russia, with $17.9 million, made $17.4 million in China, and The Avengers was the Biggest opening weekend of all time in Mexico, Brazil, Argentina, Ecuador, Peru, Central America, Bolivia, Hong Kong, Malaysia, New Zealand, and Philippines. The film took Pirates of the Caribbean: Dead Man's Chest's record as the highest-grossing Disney film of all time. It also beat Spider-Man 3's record as the highest-grossing Marvel film and beat The Dark Knight's record as the highest-grossing superhero film of all time. The film recived high critical acclaim. It scored a 93% approval rating on Rotton Tomatos. The film was well received for its writing, acting, action, visuals, and music. The film is considered one of the best superhero films ever.
+</p>
+<h2><span class="mw-headline" id="Sequel">Sequel</span></h2>
+<dl><dd><i>Main article: <a href="/wiki/Avengers:_Age_of_Ultron" title="Avengers: Age of Ultron">Avengers: Age of Ultron</a></i>
+</dd></dl>
+<h2><span class="mw-headline" id="Gallery">Gallery</span></h2>
+<dl><dd><i>Main article: <a href="/wiki/The_Avengers_(film)/Gallery" title="The Avengers (film)/Gallery">The Avengers (film)/Gallery</a></i>
+</dd></dl>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="External_links"> External links </span></h2>
+<ul><li> <a rel="nofollow" class="external text exitstitial" href="http://marvel.com/avengers_movie">Official site</a>
+</li><li> <a rel="nofollow" class="external text exitstitial" href="http://imdb.com/title/tt0848228/">imdb</a>
+</li><li> <a rel="nofollow" class="external text exitstitial" href="http://www.firstshowing.net/2007/05/19/marvel-avengers-movie-with-iron-man-and-hulk-coming-eventually/">first showing</a>
+</li><li> <a rel="nofollow" class="external text exitstitial" href="http://the-avengers.moviechronicles.com/">The Avengers</a> - unofficial movie news source
+</li><li> <a  class="external text exitstitial" href="http://en.wikipedia.org/wiki/The_Avengers_(2012_film)">Wikipedia</a>
+</li><li> <a  class="text" href="http://disney.wikia.com/wiki/The_Avengers">Disney's Wiki</a>
+</li><li> <a rel="nofollow" class="external text exitstitial" href="http://tvtropes.org/pmwiki/pmwiki.php/Film/TheAvengers">TVTropes</a>
+</li></ul>
+<table class="toccolours" style="margin: 0 auto; margin:1em auto; font-size: 90%; text-align: center; clear: both;">
+
+<tr style="background;">
+<th style="font-size: 110%; background: #FF0000;" colspan="2"> <big><span style="color:white;">Marvel Cinematic Universe</span><big>
+</th></tr>
+<tr>
+<th style="background: #FF0000;"> <span style="color:white;">Phase 1</span>
+</th><td style="text-align: left;"> <i><a href="/wiki/Iron_Man_(film)" title="Iron Man (film)">Iron Man</a></i> | <i><a href="/wiki/The_Incredible_Hulk_(film)" title="The Incredible Hulk (film)">The Incredible Hulk</a></i> | <i><a href="/wiki/Iron_Man_2" title="Iron Man 2">Iron Man 2</a></i> | <i><a href="/wiki/Thor_(film)" title="Thor (film)">Thor</a></i> | <i><a href="/wiki/Captain_America:_The_First_Avenger" title="Captain America: The First Avenger">Captain America: The First Avenger</a></i> | <i><strong class="selflink">The Avengers</strong></i>
+</td></tr>
+<tr>
+<th style="background: #FF0000;"> <span style="color:white;">Phase 2</span>
+</th><td style="text-align: left;"> <i><a href="/wiki/Iron_Man_3" title="Iron Man 3">Iron Man 3</a></i> | <i><a href="/wiki/Thor:_The_Dark_World" title="Thor: The Dark World">Thor: The Dark World</a></i> | <i><a href="/wiki/Captain_America:_The_Winter_Soldier" title="Captain America: The Winter Soldier">Captain America: The Winter Soldier</a></i> | <i><a href="/wiki/Guardians_of_the_Galaxy_(film)" title="Guardians of the Galaxy (film)">Guardians of the Galaxy</a></i><br /><i><a href="/wiki/Avengers:_Age_of_Ultron" title="Avengers: Age of Ultron">Avengers: Age of Ultron</a></i> | <i><a href="/wiki/Ant-Man_(film)" title="Ant-Man (film)">Ant-Man</a></i>
+</td></tr>
+<tr>
+<th style="background: #FF0000;"> <span style="color:white;">Phase 3</span>
+</th><td style="text-align: left;">  <i><a href="/wiki/Captain_America:_Civil_War" title="Captain America: Civil War">Captain America: Civil War</a></i> | <i><a href="/wiki/Doctor_Strange_(film)" title="Doctor Strange (film)">Doctor Strange</a></i> | <i><a href="/wiki/Guardians_of_the_Galaxy_2" title="Guardians of the Galaxy 2">Guardians of the Galaxy 2</a></i> | <i><a href="/wiki/Thor:_Ragnarok" title="Thor: Ragnarok">Thor: Ragnarok</a></i><br /><i><a href="/wiki/Black_Panther_(film)" title="Black Panther (film)">Black Panther</a></i> | <i><a href="/wiki/Avengers:_Infinity_War,_Part_I" title="Avengers: Infinity War, Part I">Infinity War, Part I</a></i> | <i><a href="/wiki/Captain_Marvel_(film)" title="Captain Marvel (film)">Captain Marvel</a></i> | <i><a href="/wiki/Inhumans_(film)" title="Inhumans (film)">Inhumans</a></i> | <i><a href="/wiki/Avengers:_Infinity_War,_Part_II" title="Avengers: Infinity War, Part II">Infinity War, Part II</a></i>
+</td></tr>
+<tr>
+<th style="background: #FF0000;"> <span style="color:white;">One-Shots</span>
+</th><td style="text-align: left;"> <i><a href="/wiki/Marvel_One-Shot:_The_Consultant" title="Marvel One-Shot: The Consultant">The Consultant</a></i> | <i><a href="/wiki/Marvel_One-Shot:_A_Funny_Thing_Happened_on_the_Way_to_Thor%E2%80%99s_Hammer" title="Marvel One-Shot: A Funny Thing Happened on the Way to Thorâs Hammer">A Funny Thing Happened on the Way to Thorâs Hammer</a></i> | <i><a href="/wiki/Marvel_One-Shot:_Item_47" title="Marvel One-Shot: Item 47">Item 47</a></i> | <i><a href="/wiki/Marvel_One-Shot:_Agent_Carter" title="Marvel One-Shot: Agent Carter">Agent Carter</a></i> <br /> <i><a href="/wiki/Marvel_One-Shot:_All_Hail_the_King" title="Marvel One-Shot: All Hail the King">All Hail the King</a></i>
+</td></tr>
+<tr>
+<th style="background: #FF0000;"> <span style="color:white;">TV Shows</span>
+</th><td style="text-align: left;"> <i><a href="/wiki/Agents_of_S.H.I.E.L.D." title="Agents of S.H.I.E.L.D.">Agents of S.H.I.E.L.D.</a></i> | <i><a href="/wiki/Agent_Carter" title="Agent Carter">Agent Carter</a></i>
+</td></tr>
+<tr>
+<th style="background: #FF0000;"> <span style="color:white;">Netflix Series</span>
+</th><td style="text-align: left;"> <i><a href="/wiki/Daredevil_(Netflix_series)" title="Daredevil (Netflix series)">Daredevil</a></i> | <i><a href="/wiki/Luke_Cage_(Netflix_series)" title="Luke Cage (Netflix series)">Luke Cage</a></i> | <i><a href="/wiki/Iron_Fist_(Netflix_series)" title="Iron Fist (Netflix series)">Iron Fist</a></i> | <i><a href="/wiki/Jessica_Jones_(Netflix_series)" title="Jessica Jones (Netflix series)" class="mw-redirect">Jessica Jones</a></i> | <i><a href="/wiki/The_Defenders_(Netflix_series)" title="The Defenders (Netflix series)">The Defenders</a></i>
+</td></tr>
+<tr>
+<th style="background: #FF0000;"> <span style="color:white;">Pre-Production</span>
+</th><td style="text-align: left;"> <i><a href="/wiki/Undeveloped_Marvel_Cinematic_Universe_projects" title="Undeveloped Marvel Cinematic Universe projects">Other</a></i>
+</td></tr></table></big>
+<p></big>
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 122/300000
+Postâexpand include size: 4886/2097152 bytes
+Template argument size: 400/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key marvelmovies:pcache:idhash:2720-0!*!0!!en!2!* -->
+<section id="RelatedForumDiscussion" class="RelatedForumDiscussion">
+	<h2>
+		<a class="button forum-new-post " href="http://marvel-movies.wikia.com/wiki/Topic:The_Avengers_(film)?openEditor=1" title="Start a new discussion about The Avengers (film)">Start a Discussion</a>
+		Discussions about The Avengers (film)	</h2>
+	<div class="forum-content">
+		<ul class="forum-discussions">
+							<li class="forum-thread">
+					<img class="sprite talk-two" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+					<h4>
+						<a href="http://marvel-movies.wikia.com/wiki/Thread:37161" class="forum-thread-title">
+							Bruce Banner/Hulk in other Phase 3 films						</a>
+					</h4>
+											<div class="forum-total-replies">3 messages</div>
+										<ul class="forum-replies">
+						
+													<li class="forum-reply">
+	<img class="forum-user-avatar" src="http://vignette3.wikia.nocookie.net/messaging/images/e/e8/Avatar2.jpg/revision/latest/scale-to-width/50?format=jpg">
+	<div class="forum-user-name">
+		<a href="http://marvel-movies.wikia.com/wiki/User_talk:Limelime">Limelime</a>
+	</div>
+	<div class="forum-message-body">
+		Plz send me some replys ASAP I wold really appreciate it THX		<time class="forum-timestamp timeago" datetime="2014-12-07T23:24:02Z">2014-12-07T23:24:02Z</time>
+	</div>
+</li>
+													<li class="forum-reply">
+	<img class="forum-user-avatar" src="http://vignette2.wikia.nocookie.net/common/avatars/a/a1/10226643.png/revision/latest/scale-to-width/50?cb=1378125898&format=jpg">
+	<div class="forum-user-name">
+		<a href="http://marvel-movies.wikia.com/wiki/User_talk:Chrisflistal">Chrisflistal</a>
+	</div>
+	<div class="forum-message-body">
+		They might surprise us and have him in Captain Marvel...		<time class="forum-timestamp timeago" datetime="2015-01-05T19:17:34Z">2015-01-05T19:17:34Z</time>
+	</div>
+</li>
+											</ul>
+				</li>
+							<li class="forum-thread">
+					<img class="sprite talk-two" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+					<h4>
+						<a href="http://marvel-movies.wikia.com/wiki/Thread:35361" class="forum-thread-title">
+							Do you think that Tom Hiddleston was great at playing Loki?						</a>
+					</h4>
+											<div class="forum-total-replies">2 messages</div>
+										<ul class="forum-replies">
+													<li class="forum-reply">
+	<img class="forum-user-avatar" src="http://vignette4.wikia.nocookie.net/common/avatars/c/c5/12675312.png/revision/latest/scale-to-width/50?cb=1415862563&format=jpg">
+	<div class="forum-user-name">
+		<a href="http://marvel-movies.wikia.com/wiki/User_talk:Nathaniel1996">Nathaniel1996</a>
+	</div>
+	<div class="forum-message-body">
+		Do you think that Tom Hiddleston was great at playing Loki?		<time class="forum-timestamp timeago" datetime="2014-09-02T23:55:54Z">2014-09-02T23:55:54Z</time>
+	</div>
+</li>
+						
+													<li class="forum-reply">
+	<img class="forum-user-avatar" src="http://vignette2.wikia.nocookie.net/common/avatars/2/25/6331988.png/revision/latest/scale-to-width/50?cb=1385076997&format=jpg">
+	<div class="forum-user-name">
+		<a href="http://marvel-movies.wikia.com/wiki/User_talk:Wally_Valdez">Wally Valdez</a>
+	</div>
+	<div class="forum-message-body">
+		Yes.		<time class="forum-timestamp timeago" datetime="2014-09-03T15:32:29Z">2014-09-03T15:32:29Z</time>
+	</div>
+</li>
+											</ul>
+				</li>
+					</ul>
+		<div class="forum-see-more">
+			<a href="http://marvel-movies.wikia.com/wiki/Topic:The_Avengers_(film)">See more discussions &gt;</a>
+		</div>
+	</div>
+</section>
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://marvel-movies.wikia.com/wiki/The_Avengers_(film)?oldid=134792">http://marvel-movies.wikia.com/wiki/The_Avengers_(film)?oldid=134792</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="The Avengers" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:The_Avengers" title="Category:The Avengers">The Avengers</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Marvel Cinematic Universe" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Marvel_Cinematic_Universe" title="Category:Marvel Cinematic Universe">Marvel Cinematic Universe</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Marvel Cinematic Universe: Phase 1" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Marvel_Cinematic_Universe:_Phase_1" title="Category:Marvel Cinematic Universe: Phase 1">Marvel Cinematic Universe: Phase 1</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+					<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+					<div id="WikiaRail" class="WikiaRail">
+
+	<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+			<div class="loading"></div>
+	
+</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<!-- BEGIN SLOTNAME: LEFT_SKYSCRAPER_3 -->
+<div id="LEFT_SKYSCRAPER_3" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["LEFT_SKYSCRAPER_3"]);
+</script>
+</div>
+<!-- END SLOTNAME: LEFT_SKYSCRAPER_3 -->
+	
+			<section>
+	<div class="header-container">
+		<h1>Around Wikia's network</h1>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/6294" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer row">
+	<nav>
+		<div class="branding vertical-movies black">
+			<a class="wikia-logo" href="http://movieshub.wikia.com/wiki/Movies_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>Movies</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;},{&quot;text&quot;:&quot;Call of Duty Choice Awards! VOTE NOW&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/IKYTc&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["GPT_FLUSH"]);
+</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: INVISIBLE_1 -->
+<div id="INVISIBLE_1" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_1"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_1 -->
+<!-- BEGIN SLOTNAME: INVISIBLE_2 -->
+<div id="INVISIBLE_2" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_2"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_2 -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1424388494/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"marvelmovies","kv_article_id":2720,"kv_wpage":"The_Avengers_(film)","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=18-24;age=25-34;age=18-34;age=kids;age=teen;gnre=action;gnre=adventure;gnre=comics;gnre=fantasy;media=movies;media=comics;theme=superheroes;theme=heroes","kv_domain":"marvel-movies.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://marvel-movies.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis%26ve%3D1/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Avengers_(film)","wgTitle":"The Avengers (film)","wgCurRevisionId":134792,"wgArticleId":2720,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["The Avengers","Marvel Cinematic Universe","Marvel Cinematic Universe: Phase 1"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"The_Avengers_(film)","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"true","background-image":"http://img2.wikia.nocookie.net/__cb20141117093833/marvelmovies/images/5/50/Wiki-background","background-image-height":"994","background-image-width":"1708","color-body":"#000000","color-body-middle":"#000000","color-buttons":"black","color-header":"#808080","color-links":"#6c93b1","color-page":"#ffffff","page-opacity":"100","widthType":2,"wordmark-font":"fontin"},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Marvel Movies","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1424388494/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1424388494/common","wgSitename":"Marvel Movies","wgMWrevId":false,"wgRevisionId":134792,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=The_Avengers_(film)","fbReturnToTitle":"The_Avengers_(film)","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"http://slot1.images.wikia.nocookie.net/__cb1424388494/common/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdWvwETAAAAACS_0luypJPV7aiQkpLzoZN26YAf","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":true,"verticalName":"Entertainment","WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"The Avengers (film)"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"enablerichtext":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"founderemails-joins-6294":0,"founderemails-edits-6294":0,"founderemails-views-digest-6294":0,"founderemails-complete-digest-6294":0,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,
+"searchNs500":false,"searchNs501":false,"searchNs502":false,"searchNs503":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: marvelmovies:resourceloader:filter:minify-js:7:17e06684f54b0fe4b2d284aaf3871a78 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikiaViewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.wikiaInYourLang"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1424388494/groups/-/oasis_shared_core_js,adengine2_js,adengine2_late_js,oasis_shared_js,oasis_anon_with_new_global_nav_js,liftium_ads_js,liftium_ads_extra_js,adengine2_oasis_ads_js,adengine2_interactive_maps_js,toc_js,qualaroo_js,global_footer_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1424388494/group/-/videos_module_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1424388494.0.76268"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1424388494/group/-/monetization_module_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1424388494/group/-/global_navigation_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://marvel-movies.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://marvel-movies.wikia.com/__load/-/cb%3D1424388494%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/site"></script>
+<script type='text/javascript'>
+var agllGroup = "Entertainment";
+!function(){
+var a=document.createElement("script");a.type="text/javascript";a.async=!0;var b=["http://a98dc034c7781a941eba-bac02262202668bbe918ea9fb5289cd2.r58.cf2.rackcdn.com","https://52e473ee9859b886964f-bac02262202668bbe918ea9fb5289cd2.ssl.cf2.rackcdn.com"];a.src=("https:"==document.location.protocol?b[1]:b[0])+"/c59hk50tip94.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(a,c)
+}();</script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationHubsMenu.scss","extensions\/wikia\/UserLogin\/css\/UserLoginDropdown.globalNavigation.scss","extensions\/wikia\/WallNotifications\/styles\/WallNotifications.globalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationOasis.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearchOasis.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

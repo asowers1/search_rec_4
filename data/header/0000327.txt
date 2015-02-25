@@ -1,0 +1,22 @@
+Last-Modified: Sat, 21 Feb 2015 00:45:01 GMT
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=31536000
+x-apple-translated-wo-url: /WebObjects/MZStore.woa/wa/viewArtist?id=994656&cc=us&urlDesc=/led-zeppelin
+x-apple-orig-url: https://itunes.apple.com/us/artist/led-zeppelin/id994656
+x-apple-application-site: NWK
+apple-timing-app: 392 ms
+x-apple-aka-ttl: Generated Fri Feb 20 16:45:01 PST 2015, Expires Fri Feb 20 16:46:01 PST 2015, TTL 60s
+x-apple-application-instance: 1002100
+Content-Type: text/html; charset=UTF-8
+x-webobjects-loadaverage: 0
+x-apple-jingle-correlation-key: EMISAUSIC5H4IV2V6L5JHVIJ2U
+Server: ATS/4.1.0
+X-Apple-ATS-Cache-Key: /17.154.42.215/80/us/artist/led-zeppelin/id994656/iDevice/https
+Vary: Accept-Encoding
+Cache-Control: no-transform, max-age=58
+Date: Sat, 21 Feb 2015 00:45:01 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+X-Apple-Partner: origin.0
+

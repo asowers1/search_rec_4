@@ -1,0 +1,478 @@
+ <!DOCTYPE html xmlns:fb="http://www.facebook.com/2008/fbml">
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"><!--<![endif]-->
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="http://d817ypd61vbww.cloudfront.net/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//d817ypd61vbww.cloudfront.net" />
+  <title>Songs | The Beatles</title>
+  <meta name="web_author" content="David Whitchurch-Bennett, Drupology">
+      <meta name="viewport" content="width=device-width, target-densityDpi=160dpi, initial-scale=1">
+    <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta http-equiv="cleartype" content="on">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <!--[if IE]>
+    <meta http-equiv="imagetoolbar" content="no">
+    <meta name="MSSmartTagsPreventParsing" content="true">
+  <![endif]--> 
+  <!-- iOS width fixed?.... <meta name="viewport" content="user-scalable=no, width=device-width"> -->
+  <link type="text/css" rel="stylesheet" href="http://www.thebeatles.com/sites/default/files/cdn/css/http/css_iVlFOKS5zJmbG2huJI1iSUYVrQLKhSmPt_4fwkhblD8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.thebeatles.com/sites/default/files/cdn/css/http/css_dSW0g3rlY2780EHh0iDci_7W44uDeDTpSLzB_hOzzjY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.thebeatles.com/sites/default/files/cdn/css/http/css_yiMwuPwa59fsIil5x_7O_lvQwykzrRi05vk1uek5ylg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.thebeatles.com/sites/default/files/cdn/css/http/css_-M028CTM0wvdEY4dsclakvruh--hbeC--_ggjTNuY1k.css" media="all" />
+  <script type="text/javascript" src="//use.typekit.net/wdd0gjj.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  <script src="http://www.thebeatles.com/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.1"></script>
+<script src="http://d817ypd61vbww.cloudfront.net/misc/jquery.once.js?v=1.2"></script>
+<script src="http://d817ypd61vbww.cloudfront.net/misc/drupal.js?nfc2ak"></script>
+<script src="http://www.thebeatles.com/sites/all/libraries/fitvids/jquery.fitvids.js?nfc2ak"></script>
+<script src="http://www.thebeatles.com/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script src="http://www.thebeatles.com/sites/all/modules/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script src="http://d817ypd61vbww.cloudfront.net/misc/ajax.js?v=7.34"></script>
+<script src="http://www.thebeatles.com/sites/all/modules/fb/fb.js?nfc2ak"></script>
+<script src="http://www.thebeatles.com/sites/all/modules/cookiecontrol/js/cookieControl-5.1.min.js?nfc2ak"></script>
+<script src="http://www.thebeatles.com/sites/all/modules/fb/fb_connect.js?nfc2ak"></script>
+<script src="http://www.thebeatles.com/sites/all/modules/fb/fb_stream.js?nfc2ak"></script>
+<script src="http://www.thebeatles.com/sites/all/modules/lightbox2/js/lightbox.js?nfc2ak"></script>
+<script src="http://www.thebeatles.com/sites/all/modules/views_slideshow/js/views_slideshow.js?nfc2ak"></script>
+<script src="http://www.thebeatles.com/sites/all/modules/extlink/extlink.js?nfc2ak"></script>
+<script src="http://www.thebeatles.com/sites/all/modules/views/js/base.js?nfc2ak"></script>
+<script src="http://d817ypd61vbww.cloudfront.net/misc/progress.js?v=7.34"></script>
+<script src="http://www.thebeatles.com/sites/all/modules/views/js/ajax_view.js?nfc2ak"></script>
+<script src="http://www.thebeatles.com/sites/all/modules/ctools/js/auto-submit.js?nfc2ak"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script src="http://www.thebeatles.com/sites/all/modules/custom/topspin_signup/js/topspin_signup.js?nfc2ak"></script>
+<script src="http://www.thebeatles.com/sites/all/modules/google_analytics/googleanalytics.js?nfc2ak"></script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-3819040-9"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script src="http://www.thebeatles.com/sites/all/modules/ctools/js/jump-menu.js?nfc2ak"></script>
+<script src="http://www.thebeatles.com/sites/all/themes/beatles/js/jquery.ba-resize.min.js?nfc2ak"></script>
+<script src="http://www.thebeatles.com/sites/all/themes/beatles/js/jquery.masonry.min.js?nfc2ak"></script>
+<script src="http://www.thebeatles.com/sites/all/themes/beatles/js/modernizr-transition.js?nfc2ak"></script>
+<script src="http://www.thebeatles.com/sites/all/themes/beatles/js/augment.js?nfc2ak"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"beatles","theme_token":"M4k2187aqouYzT7Dj8ONd88BNpZ523e1uWg_B1lV2v0","js":{"0":1,"1":1,"2":1,"3":1,"4":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/fb\/fb.js":1,"sites\/all\/modules\/cookiecontrol\/js\/cookieControl-5.1.min.js":1,"sites\/all\/modules\/fb\/fb_connect.js":1,"sites\/all\/modules\/fb\/fb_stream.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/ctools\/js\/auto-submit.js":1,"http:\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.8\/jquery-ui.min.js":1,"sites\/all\/modules\/custom\/topspin_signup\/js\/topspin_signup.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"5":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/themes\/beatles\/js\/jquery.ba-resize.min.js":1,"sites\/all\/themes\/beatles\/js\/jquery.masonry.min.js":1,"sites\/all\/themes\/beatles\/js\/modernizr-transition.js":1,"sites\/all\/themes\/beatles\/js\/augment.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/themes\/beatles\/css\/reset.css":1,"sites\/all\/themes\/beatles\/css\/typography.css":1,"sites\/all\/themes\/beatles\/css\/layout.css":1,"sites\/all\/themes\/beatles\/css\/responsive.css":1,"sites\/all\/themes\/beatles\/typography\/fontawesome\/font-awesome.css":1,"sites\/all\/themes\/beatles\/css\/beatles.css":1,"sites\/all\/themes\/beatles\/css\/wikipedia.css":1}},"fb_connect":{"front_url":"\/","fbu":0,"uid":0},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":7500,"slideshow_automatic_start":1,"slideshow_automatic_exit":1,"show_play_pause":1,"pause_on_next_click":0,"pause_on_previous_click":1,"loop_slides":0,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"extlink":{"extTarget":"_blank","extClass":0,"extSubdomains":0,"extExclude":"","extInclude":"(tile\/promo\/.)|legal","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:fc050a85b2a9db15cb05645d77d47b7a":{"view_name":"songs","view_display_id":"page","view_args":"a","view_path":"explore-songs","view_base_path":"explore-songs","view_dom_id":"fc050a85b2a9db15cb05645d77d47b7a","pager_element":0}}},"topspin_signup":{"topspin_api_url":"http:\/\/app.topspin.net\/api\/v1\/fan\/create_fan","topspin_source_campaign":"https:\/\/app.topspin.net\/api\/v1\/artist\/3328\/campaign\/10088577","topspin_confirmation_target":"http:\/\/www.thebeatles.com\/","topspin_artist_id":"3328"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/beatles/js/html5-respond.js"></script>
+    <![endif]-->
+    <!--[if IE 8]>
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/beatles/css/browser/ie8.css" />
+  <![endif]-->
+  <!--[if IE 7]>
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/beatles/css/browser/ie7.css" />
+  <![endif]-->
+</head>
+<!-- Drupal website development by David Whitchurch-Bennett, Drupology.co.uk -->
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-explore-songs section-explore-songs page-views" >
+    
+<div id="page">
+  <header id="header" class="container" role="banner">
+  <div class="row">
+                <nav id="main-menu" role="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul class="links inline clearfix"><li class="menu-198 first"><a href="/" class="home">Home</a></li>
+<li class="menu-1879"><a href="/explore?type=story_album">Explore</a></li>
+<li class="menu-1881"><a href="/explore?type=story_album">Albums</a></li>
+<li class="menu-2105"><a href="/explore?type=story_song">Songs</a></li>
+<li class="menu-1993"><a href="/news">News</a></li>
+<li class="menu-2106"><a href="/store">Store</a></li>
+<li class="menu-2112 last"><a href="/user">Login/Register</a></li>
+</ul>        <form action="/explore-songs" method="post" id="ctools-jump-menu" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
+ <select class="ctools-jump-menu-select ctools-jump-menu-change form-select" id="edit-jump" name="jump"><option value="" selected="selected">Select a destination</option><option value="/" class="d-1">Home</option><option value="/explore" class="d-1">Explore</option><option value="/explore" class="d-1">Albums</option><option value="/explore" class="d-1">Songs</option><option value="/news" class="d-1">News</option><option value="/store" class="d-1">Store</option><option value="/user" class="d-1">Login/Register</option></select>
+</div>
+<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-rbNTU1iQtBMLRoNaBhH_ZGdXoRNHjr6iJMRM8UmJk2E" />
+<input type="hidden" name="form_id" value="ctools_jump_menu" />
+</div></form>      </nav>
+        <nav class="secondary">
+      <ul>
+        <li class="music"><a href="http://beatles.com/audio-selector" target="_blank"><i class="icon-play"></i> Play Music</a></li>
+      </ul>
+    </nav>
+          <div class="region region-search">
+    <div id="block-views-exp-search-page-1" class="block block-views first last odd">
+
+      
+  <form action="/search" method="get" id="views-exposed-form-search-page-1" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-title-wrapper" class="views-exposed-widget views-widget-filter-title">
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-title">
+ <input type="text" id="edit-title" name="title" value="" size="30" maxlength="128" class="form-text" />
+</div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search" name="" value="Search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+  </div>
+</header>  <div id="main" class="container explore">
+    <div class="row clearfix" role="main">
+            <!-- Header block of an article, with options to Facebook "like" and favourite -->
+      <header> 
+        <hgroup>
+                                <h1 class="title" id="page-title">Songs</h1>
+                            </hgroup>
+      </header>
+
+      <!-- The main content -->
+      <a id="main-content"></a>
+
+                              
+<div id="block-views-exp-explore-page-1" class="block block-views first odd">
+
+      
+  <form class="ctools-auto-submit-full-form" action="/explore" method="get" id="views-exposed-form-explore-page-1" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-type-wrapper" class="views-exposed-widget views-widget-filter-type">
+                  <label for="edit-type">
+            Type          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-type">
+ <div class="bef-select-as-links"><div class="form-item">
+ <div id="edit-type-story-album" class="form-item form-type-bef-link form-item-edit-type-story-album">
+ <a href="http://www.thebeatles.com/explore?type=story_album">Albums</a>
+</div>
+<div id="edit-type-story-song" class="form-item form-type-bef-link form-item-edit-type-story-song">
+ <a href="http://www.thebeatles.com/explore?type=story_song">Songs</a>
+</div>
+<div id="edit-type-all" class="form-item selected form-type-bef-link form-item selected-edit-type-all">
+ <a href="http://www.thebeatles.com/explore">All</a>
+</div>
+<div id="edit-type-story-feature" class="form-item form-type-bef-link form-item-edit-type-story-feature">
+ <a href="http://www.thebeatles.com/explore?type=story_feature">Editor&#039;s Picks</a>
+</div>
+<div id="edit-type-story-film" class="form-item form-type-bef-link form-item-edit-type-story-film">
+ <a href="http://www.thebeatles.com/explore?type=story_film">Films</a>
+</div>
+<div id="edit-type-story-photo-album" class="form-item form-type-bef-link form-item-edit-type-story-photo-album">
+ <a href="http://www.thebeatles.com/explore?type=story_photo_album">Photos</a>
+</div>
+<div id="edit-type-story-video-set" class="form-item form-type-bef-link form-item-edit-type-story-video-set">
+ <a href="http://www.thebeatles.com/explore?type=story_video_set">Video</a>
+</div>
+
+</div>
+<input type="hidden" name="type" value="All" /></div>
+</div>
+        </div>
+              </div>
+              <div class="views-exposed-widget views-widget-sort-by">
+        <div class="form-item form-type-select form-item-sort-by">
+  <label for="edit-sort-by">Sort by </label>
+ <div class="bef-select-as-links"><div class="form-item">
+ <div id="edit-sort-by-field-chronological-date-value" class="form-item selected form-type-bef-link form-item selected-edit-sort-by-field-chronological-date-value">
+ <a href="http://www.thebeatles.com/explore">Date Added</a>
+</div>
+<div id="edit-sort-by-title" class="form-item form-type-bef-link form-item-edit-sort-by-title">
+ <a href="http://www.thebeatles.com/explore?sort_by=title">A-Z</a>
+</div>
+<div id="edit-sort-by-count" class="form-item form-type-bef-link form-item-edit-sort-by-count">
+ <a href="http://www.thebeatles.com/explore?sort_by=count">Popularity</a>
+</div>
+
+</div>
+<input type="hidden" name="sort_by" value="field_chronological_date_value" /></div>
+</div>
+      </div>
+      <div class="views-exposed-widget views-widget-sort-order">
+        <div class="form-item form-type-select form-item-sort-order">
+  <label for="edit-sort-order">Order </label>
+ <div class="bef-select-as-links"><div class="form-item">
+ <div id="edit-sort-order-asc" class="form-item selected form-type-bef-link form-item selected-edit-sort-order-asc">
+ <a href="http://www.thebeatles.com/explore">Asc</a>
+</div>
+<div id="edit-sort-order-desc" class="form-item form-type-bef-link form-item-edit-sort-order-desc">
+ <a href="http://www.thebeatles.com/explore?sort_order=DESC">Desc</a>
+</div>
+
+</div>
+<input type="hidden" name="sort_order" value="ASC" /></div>
+</div>
+      </div>
+                <div class="views-exposed-widget views-submit-button">
+      <input class="ctools-use-ajax ctools-auto-submit-click js-hide form-submit" type="submit" id="edit-submit-explore" name="" value="Apply" />    </div>
+      </div>
+</div>
+</div></form>
+</div><!-- /.block -->
+
+
+<div class="view view-songs view-id-songs view-display-id-page view-dom-id-fc050a85b2a9db15cb05645d77d47b7a">
+        
+  
+      <div class="attachment attachment-before">
+      <div class="view view-songs view-id-songs view-display-id-attachment">
+        
+  
+  
+      <div class="view-content">
+        <span class="views-summary views-summary-unformatted">        <a href="/explore-songs/1">1</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/a">A</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/b">B</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/c">C</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/d">D</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/e">E</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/f">F</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/g">G</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/h">H</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/i">I</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/j">J</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/k">K</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/l">L</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/m">M</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/n">N</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/o">O</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/p">P</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/r">R</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/s">S</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/t">T</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/w">W</a>
+      </span>  <span class="views-summary views-summary-unformatted">     |     <a href="/explore-songs/y">Y</a>
+      </span>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+      <div class="view-content">
+      <table class="views-table cols-2" >
+         <thead>
+      <tr>
+                  <th class="views-field views-field-title active" >
+            <a href="/explore-songs?order=title&amp;sort=desc" title="sort by Title" class="active">Title<img src="http://d817ypd61vbww.cloudfront.net/misc/arrow-desc.png" width="13" height="13" alt="sort descending" title="sort descending" /></a>          </th>
+                  <th class="views-field views-field-field-chronological-date" >
+            <a href="/explore-songs?order=field_chronological_date&amp;sort=asc" title="sort by Release Date" class="active">Release Date</a>          </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/beginning">A Beginning</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Monday, 28 October, 1996</span>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/day-life">A Day In The Life</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Thursday, 1 June, 1967</span>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/hard-days-night">A Hard Day&#039;s Night</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Friday, 10 July, 1964</span>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/little-rhyme">A Little Rhyme</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Wednesday, 30 November, 1994</span>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/shot-rhythm-and-blues">A Shot Of Rhythm And Blues</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Wednesday, 30 November, 1994</span>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/taste-honey">A Taste Of Honey</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Friday, 22 March, 1963</span>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/across-universe">Across The Universe</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Friday, 12 December, 1969</span>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/act-naturally">Act Naturally</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Friday, 6 August, 1965</span>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/aint-she-sweet">Ain&#039;t She Sweet</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Monday, 20 November, 1995</span>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/all-ive-got-do">All I&#039;ve Got To Do</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Friday, 22 November, 1963</span>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/all-my-loving">All My Loving</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Friday, 22 November, 1963</span>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/all-things-must-pass">All Things Must Pass</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Monday, 28 October, 1996</span>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/all-together-now">All Together Now</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Monday, 13 January, 1969</span>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/all-you-need-love">All You Need Is Love</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Friday, 7 July, 1967</span>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/and-i-love-her">And I Love Her</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Friday, 10 July, 1964</span>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/and-your-bird-can-sing">And Your Bird Can Sing</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Friday, 5 August, 1966</span>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/anna-go-him">Anna (Go To Him)</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Friday, 22 March, 1963</span>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/another-girl">Another Girl</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Friday, 6 August, 1965</span>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/any-time-all">Any Time At All</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Wednesday, 10 June, 1964</span>          </td>
+              </tr>
+          <tr class="even views-row-last">
+                  <td class="views-field views-field-title active" >
+            <a href="/song/ask-me-why">Ask Me Why</a>          </td>
+                  <td class="views-field views-field-field-chronological-date" >
+            <span class="date-display-single">Friday, 11 January, 1963</span>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><!-- block__no_wrapper -->
+<!-- region__no_wrapper -->
+          </div><!-- /#content -->
+  </div><!-- /#main -->
+
+  <footer class="container">
+  <div class="row">
+  	<p class="copy">Â© <span>Apple Corps</span> 2015</p>
+    <nav unselectable="on">
+    	<ul class="menu"><li class="first leaf"><a href="/privacy-policy">Privacy</a></li>
+<li class="leaf"><a href="/legal">Terms</a></li>
+<li class="last leaf"><a href="/credits">Credits</a></li>
+</ul>    </nav>
+  </div>
+  <div style="position:absolute; bottom:0; height:1em; overflow:hidden; margin-top:-1em; padding-top:2em;"><a href="http://www.drupology.co.uk">Drupal Web Development</a> by Drupology.</div>
+</footer>
+</div><!-- /#page -->
+
+    <div class="region region-page-bottom">
+    <div id="fb-root"></div>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  jQuery.extend(Drupal.settings, {"fb":{"base_url":"http:\/\/www.thebeatles.com","ajax_event_url":"http:\/\/www.thebeatles.com\/fb\/ajax","is_anonymous":true,"label":"beatles_website","namespace":"official_beatles","perms":"publish_stream,email","get_login_status_test":true,"reload_url":"http:\/\/www.thebeatles.com\/explore-songs","fb_init_settings":{"xfbml":false,"status":false,"oauth":true,"cookie":true,"appId":"384418158306463","channelUrl":"http:\/\/www.thebeatles.com\/fb\/channel"},"test_login_status":false,"get_login_status":1,"controls":"","js_sdk_url":"http:\/\/connect.facebook.net\/en_GB\/all.js"}});
+
+if (typeof(FB) == 'undefined') {
+  var e = document.createElement('script');
+  e.async = true;
+  e.src = Drupal.settings.fb.js_sdk_url;
+  document.getElementById('fb-root').appendChild(e);
+}
+
+
+//--><!]]>
+
+</script>
+  </div><!-- /.region -->
+<script>
+    jQuery(document).ready(function($) {
+    cookieControl({
+        introText: '<p>This site uses cookies to store information on your computer.</p>',
+        fullText: '<p>Some cookies on this site are essential, and the site won\'t work as expected without them. These cookies are set when you submit a form, login or interact with the site by doing something that goes beyond clicking on simple links.</p><p>We also use some non-essential cookies to anonymously track visitors or enhance your experience of the site.</p><p>By using our site you accept the terms of our <a href="/privacy-policy">Privacy Policy</a>.',
+        theme: 'dark',
+        html: '<div id="cccwr"><div id="ccc-state" class="ccc-pause"><div id="ccc-icon"><button><span>Cookie Control</span></button></div><div class="ccc-widget"><div class="ccc-outer"><div class="ccc-inner"><h2>Cookie Control</h2><div class="ccc-content"><p class="ccc-intro"></p><div class="ccc-expanded"></div><button class="ccc-close">Close</button></div></div></div><button class="ccc-expand">read more</button></div></div></div>',
+        position: 'left',
+        shape: 'triangle',
+        startOpen: true,
+        autoHide: 60000,
+        onAccept: function(cc){cookiecontrol_accepted(cc)},
+        onReady: function(){},
+        onCookiesAllowed: function(cc){cookiecontrol_cookiesallowed(cc)},
+        onCookiesNotAllowed: function(cc){cookiecontrol_cookiesnotallowed(cc)},
+        countries: '',
+        subdomains: true,
+        cookieName: 'the-beatles_cookiecontrol',
+        iconStatusCookieName: 'ccShowCookieIcon',
+        consentModel: 'information_only',
+        });
+      });
+    </script>
+<script>function cookiecontrol_accepted(cc) {
+
+}</script>
+<script>function cookiecontrol_cookiesallowed(cc) {
+
+}</script>
+<script>function cookiecontrol_cookiesnotallowed(cc) {
+
+}</script>
+<script>/* Output by FitVids module */
+(function ($) {
+    Drupal.behaviors.fitvids = {
+      attach: function (context, settings) {
+if ($(".media-youtube-outer-wrapper").length) {
+ $(".media-youtube-outer-wrapper").removeAttr("style");
+ $(".media-youtube-preview-wrapper").removeAttr("style");
+ $(".media-youtube-outer-wrapper").removeClass("media-youtube-outer-wrapper");
+ $(".media-youtube-preview-wrapper").removeClass("media-youtube-preview-wrapper");
+}
+if ($(".media-vimeo-outer-wrapper").length) {
+ $(".media-vimeo-outer-wrapper").removeAttr("style");
+ $(".media-vimeo-preview-wrapper").removeAttr("style");
+ $(".media-vimeo-outer-wrapper").removeClass("media-vimeo-outer-wrapper");
+ $(".media-vimeo-preview-wrapper").removeClass("media-vimeo-preview-wrapper");
+}
+$(".nodes", context).fitVids();
+}
+      };
+    }(jQuery));</script>
+</body>
+</html>

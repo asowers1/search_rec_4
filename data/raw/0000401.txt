@@ -1,0 +1,1831 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="no-js"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="description" content="View Bee Gees song lyrics by popularity along with songs featured in, albums, videos and song meanings. We have 17 albums and 600 song lyrics in our database."/>
+<link rel="next" content="http://www.metrolyrics.com/bee-gees-alpage-1.html"/>
+<meta name="viewport" content="width=device-width, maximum-scale=1.0"/>
+<title>Bee Gees Song Lyrics | MetroLyrics</title>
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="search" type="application/opensearchdescription+xml" title="metrolyrics" href="/tools/ff_search_bar.xml">
+<link rel="canonical" href="http://www.metrolyrics.com/bee-gees-lyrics.html"/>
+<link pagespeed_no_defer="" rel="stylesheet" href="http://www.metrolyrics.com/css/desktop/artist-lyrics-v5.2.9.2.css">
+<script pagespeed_no_defer="" src="http://www.metrolyrics.com/js/vendor/uuid.min-v5.2.9.2.js"></script>
+<script src="http://www.metrolyrics.com/js/vendor/modernizr-2.6.2.min.js.pagespeed.jm.HFGCZXAk6a.js" type="text/psajs" orig_index="0"></script>
+<script pagespeed_no_defer="">var ml=ml||{"v":"5.2.9.2","eC":"Artist Lyrics","theme":"desktop","isDev":false,"USOnly":"Yes","api":"http:\/\/api.metrolyrics.com\/v1\/\/lyrics\/artist\/X-API-KEY\/196f657a46afb63ce3fd2015b9ed781280337ea7\/format\/jsonp\/artistid\/1164","lyricCount":600,"pageLimit":75,"offsetStart":75,"pushStateUrl":"bee-gees-alpage-","pushStatePage":1,"offset":0},vguid=uuid.v1(),googletag=googletag||{};googletag.cmd=googletag.cmd||[];ml.adData={isSkin:false,isBlank:true,skinType:"null"};ml.ev=function(eA,eL,eV){var keys=['eA','eL','eV'],data={'event':'ge','eC':ml.eC};for(var i=0;i<arguments.length;i++){data[keys[i]]=arguments[i];};if(typeof om!='undefined'&&typeof om.trackClick==='function'){om.trackClick({'item':eA+'|'+eL});}
+return dataLayer.push(data);};window.ev=ml.ev;document.cookie="s_tagEnv=live; path=/";</script>
+<script pagespeed_no_defer="">var dataLayer=dataLayer||[];(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-6QP2');</script>
+<script src='http://c.amazon-adsystem.com/aax2/amzn_ads.js' type="text/psajs" orig_index="1"></script>
+<script type="text/psajs" orig_index="2">try{amznads.getAds('3037');}catch(e){}</script>
+<script type="text/psajs" orig_index="3">(function(){var gads=document.createElement('script');gads.async=true;gads.type='text/javascript';var useSSL='https:'==document.location.protocol;gads.src=(useSSL?'https:':'http:')+'//www.googletagservices.com/tag/js/gpt.js';var node=document.getElementsByTagName('script')[0];node.parentNode.insertBefore(gads,node);})();googletag.cmd.push(function(){googletag.defineOutOfPageSlot("/8264/aw-metrolyrics/artist/lyrics","interstitial").addService(googletag.pubads());googletag.defineSlot('/8264/aw-metrolyrics/artist/lyrics',[[1600,1000]],'div-gpt-ad-skin').addService(googletag.pubads()).setTargeting("pos","top");if(ml.eC!=="Homepage"){window.lb_slot=googletag.defineSlot('/8264/aw-metrolyrics/artist/lyrics',[[728,90],[970,66],[970,250]],'div-gpt-ad-leaderboard').addService(googletag.pubads()).setTargeting("pos","top");}googletag.defineSlot('/8264/aw-metrolyrics/artist/lyrics',[[300,250],[300,500],[300,600]],'div-gpt-ad-mpu').addService(googletag.pubads()).setTargeting("pos","top");googletag.defineSlot('/8264/aw-metrolyrics/artist/lyrics',[[300,250]],'div-gpt-ad-mpu_middle').addService(googletag.pubads()).setTargeting("pos","middle");googletag.defineSlot('/8264/aw-metrolyrics/artist/lyrics',[[728,90],[970,66]],'div-gpt-ad-leaderboard_bottom').addService(googletag.pubads()).setTargeting("pos","bottom");googletag.pubads().setTargeting('vguid',vguid).setTargeting("ptype","lyrics_list").setTargeting("inskin","yes").setTargeting("ar",["beegees","abba","eltonjohn","michaeljackson","queen","elvispresley","philcollins","beatles","beachboys","eagles","rodstewart"]).setTargeting("tag","Pop").setTargeting("cid","1164").setTargeting("artist","beegees");var ftag=false,ftagHash=false,ftagSession=localStorage.getItem('ftagSession')||false;if(window.location.hash.indexOf('ftag=')!=-1){ftagHash=window.location.hash.substring(window.location.hash.indexOf('ftag=')+5);}
+if(ftag!=false){localStorage.setItem('ftagSession',ftag)
+googletag.pubads().setTargeting('ftag',ftag);}else if(ftagHash!=false){localStorage.setItem('ftagSession',ftagHash)
+googletag.pubads().setTargeting('ftag',ftagHash);}else if(ftagSession!=false){googletag.pubads().setTargeting('ftag',ftagSession);}
+var key='amznslots';var values=amznads.getTokens();try{amznads.setTargetingForGPTAsync('amznslots');}catch(e){}
+googletag.pubads().enableAsyncRendering();googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();googletag.enableServices();});function renderAdCallback(adData){ml.adData=adData;var sticker=document.getElementsByClassName('sticker')[0];if(sticker){sticker.style.display='none';}
+if(ml.eC==="Homepage"&&adData.isSkin&&!adData.isBlank){var lbh=document.getElementById('div-gpt-ad-leaderboard_homepage');document.getElementById('div-gpt-ad-leaderboard').innerHTML=lbh.innerHTML;lbh.parentNode.removeChild(lbh);document.getElementsByClassName('top-sponsor')[0].style.display='block';}}</script>
+<link rel=dns-prefetch href="//cn.cbsimg.net">
+<link rel=dns-prefetch href="//c.compete.com">
+<link rel=dns-prefetch href="//metrolyrics.disqus.com">
+<link rel=dns-prefetch href="//edge.quantserve.com">
+<link rel=dns-prefetch href="//tcr.tynt.com">
+<link rel=dns-prefetch href="//c9.static.nrcdn.com">
+</head>
+<body itemscope itemtype="http://schema.org/WebPage"><noscript><meta HTTP-EQUIV="refresh" content="0;url='http://www.metrolyrics.com/bee-gees-lyrics.html?ModPagespeed=noscript'" /><style><!--table,div,span,font,p{display:none} --></style><div style="display:block">Please click <a href="http://www.metrolyrics.com/bee-gees-lyrics.html?ModPagespeed=noscript">here</a> if you are not redirected within a few seconds.</div></noscript>
+<script pagespeed_no_defer="">var utag_data={"siteSection":"artist","pageType":"lyrics_list","musicArtistName":"Bee Gees","musicArtistId":"ml-artist-1164","siteHier":["Artist Page"],"siteType":"desktop web","deviceType":"desktop","bkPath":"\/8264\/aw-metrolyrics\/artist\/lyrics","bkAr":"beegees,abba,eltonjohn,michaeljackson,queen,elvispresley,philcollins,beatles,beachboys,eagles,rodstewart","bkTag":"Pop"}||{},findingMethod='External';if(document.referrer&&document.referrer.indexOf(window.location.host)!=-1){if(document.cookie.match('mlFindingMethod=(.+?);')){findingMethod=document.cookie.match('mlFindingMethod=(.+?);')[1];findingMethod=decodeURIComponent(findingMethod.replace(/\+/g,' '));}}
+utag_data.pageFindingMethod=findingMethod;if(typeof(vguid)!=="undefined"){utag_data.pageViewGuid=vguid;}
+(function(a,b,c,d){a='//tags.tiqcdn.com/utag/cbsi/metrolyricssite/prod/utag.js';b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);})();</script>	<div class="page" id="page">
+<div class="overlay" id="overlay"></div>
+<div class="mobile-view">
+<div class="label subtle">You are now on the desktop site.</div>
+<div class="label highlight">
+Return to mobile?
+<span class="yes">Yes</span>
+<span class="no">No</span>
+</div>
+</div>
+<header class="page-header" ng-controller="headerCtrl">
+<div class="header-top" id="header-top">
+<div class="row">
+<div class="logo grid_3">
+<a href="http://www.metrolyrics.com/" onmousedown="ev('Header','Logo');" title="Metrolyrics Homepage">Lyrics</a>
+</div>
+<nav class="nav-main grid_6">
+<ul class="clearfix">
+<li><a href="http://www.metrolyrics.com/top100.html" onmousedown="ev('Header','Lyrics');">Top 100</a></li>
+<li><a href="http://www.metrolyrics.com/videos.html" onmousedown="ev('Header','Videos');">Videos</a></li>
+<li><a href="http://www.metrolyrics.com/news.html" onmousedown="ev('Header','News');">Features</a></li>
+<li class="active"><a href="http://www.metrolyrics.com/top-artists.html" onmousedown="ev('Header','Artists');">Artists</a></li>
+</ul>
+</nav>
+<div class="hdr-search grid_3" id="search-container">
+<form class="search-form" action="/search">
+<input type="text" class="search-ip" id="search-ip" name="search" ng-click="$root.header.search.open();" placeholder="Search for lyrics" onmousedown="ev('Search','Header');"/>
+<input type="submit" value="Search" class="search-btn" onmousedown="ev('Search','Header Button');"/>
+</form>
+</div>
+</div>
+</div>
+</header>
+<div id="mantle_skin">
+<div style="display:none" id='div-gpt-ad-skin'></div>
+<div class="top-sponsor">
+<div id='div-gpt-ad-leaderboard'></div>	</div>
+<div id="skin-wrap">
+<div id="bg-top" class="bg-top">
+<div><img src="http://netstorage.metrolyrics.com/artists/hero/default/8.jpg" alt="Bee Gees lyrics"/></div>
+</div>
+<div class="main clearfix" role="main">
+<div id="artist-lyrics">
+<div class="artist-header content-header row">
+<div class="grid_6 suffix_6">
+<h1>Bee Gees</h1>
+<p>
+<a href="http://www.metrolyrics.com/bee-gees-overview.html" onmousedown="ev('Artist Menu','Overview');">Overview</a> /
+<a href="http://www.metrolyrics.com/bee-gees-lyrics.html" class="active" onmousedown="ev('Artist Menu','Lyrics');">Lyrics
+</a> /
+<a href="http://www.metrolyrics.com/bee-gees-pictures.html" onmousedown="ev('Artist Menu','Photos');">Photos</a> /
+<a href="http://www.metrolyrics.com/bee-gees-videos.html" onmousedown="ev('Artist Menu','Videos');">Videos
+</a> /
+<a href="http://www.metrolyrics.com/bee-gees-news.html" onmousedown="ev('Artist Menu','News');">News</a>
+</p>
+</div>
+</div>
+<div class="row">
+<div class="page-content alt clearfix">
+<div class="grid_12">
+<div class="top-songs module dark-bg">
+<header>
+<h3><span>Top</span> Songs</h3>
+</header>
+<ul class="tmb-small content clearfix">
+<li class="grid_3 alpha">
+<div>
+<a href="http://www.metrolyrics.com/how-deep-is-your-love-lyrics-bee-gees.html" onmousedown="ev('Featured Songs','searcht:how-deep-is-your-love-lyrics-bee-gees');" alt="Bee Gees - How Deep Is Your Love Lyrics" title="Bee Gees - How Deep Is Your Love Lyrics">
+<span class="tmb tmb-xs"><img alt="Bee Gees - How Deep Is Your Love Lyrics" title="Bee Gees - How Deep Is Your Love Lyrics" src="http://userserve-ak.last.fm/serve/126/415726/Bee+Gees.jpg"/></span>
+How Deep Is Your Love Lyrics
+</a>
+</div>
+</li>
+<li class="grid_3 alpha">
+<div>
+<a href="http://www.metrolyrics.com/stayin-alive-lyrics-bee-gees.html" onmousedown="ev('Featured Songs','searcht:stayin-alive-lyrics-bee-gees');" alt="Bee Gees - Stayin&#039; Alive Lyrics" title="Bee Gees - Stayin&#039; Alive Lyrics">
+<span class="tmb tmb-xs"><img alt="Bee Gees - Stayin&#039; Alive Lyrics" title="Bee Gees - Stayin&#039; Alive Lyrics" src="http://userserve-ak.last.fm/serve/126/193258/Bee+Gees.jpg"/></span>
+Stayin&#039; Alive Lyrics
+</a>
+</div>
+</li>
+<li class="grid_3 alpha">
+<div>
+<a href="http://www.metrolyrics.com/i-started-a-joke-lyrics-bee-gees.html" onmousedown="ev('Featured Songs','searcht:i-started-a-joke-lyrics-bee-gees');" alt="Bee Gees - I Started A Joke Lyrics" title="Bee Gees - I Started A Joke Lyrics">
+<span class="tmb tmb-xs"><img alt="Bee Gees - I Started A Joke Lyrics" title="Bee Gees - I Started A Joke Lyrics" src="http://userserve-ak.last.fm/serve/126/24054303/Bee+Gees+beegees4.jpg"/></span>
+I Started A Joke Lyrics
+</a>
+</div>
+</li>
+<li class="grid_3 alpha">
+<div>
+<a href="http://www.metrolyrics.com/too-much-heaven-lyrics-bee-gees.html" onmousedown="ev('Featured Songs','searcht:too-much-heaven-lyrics-bee-gees');" alt="Bee Gees - Too Much Heaven Lyrics" title="Bee Gees - Too Much Heaven Lyrics">
+<span class="tmb tmb-xs"><img alt="Bee Gees - Too Much Heaven Lyrics" title="Bee Gees - Too Much Heaven Lyrics" src="http://userserve-ak.last.fm/serve/126/29200239/Bee+Gees+bgsbounce.jpg"/></span>
+Too Much Heaven Lyrics
+</a>
+</div>
+</li>
+</ul>
+</div><!-- END: Top Songs -->
+</div>
+</div>
+</div>
+<div class="row">
+<div class="page-content tabs-wrapper clearfix" id="main-content">
+<div class="grid_8">
+<div class="module no-margin clearfix">
+<div class="grid_5 alpha">
+<ul class="tabs clearfix">
+<li><a href="http://www.metrolyrics.com/bee-gees-albums-list.html" onmousedown="ev('Section Nav','By Albums');" data-ref="albums">By Albums</a></li>
+<li class='active'><a href="http://www.metrolyrics.com/bee-gees-lyrics.html" onmousedown="ev('Section Nav','By Lyrics');" data-ref="lyrics">By Lyrics</a></li>
+<li><a href="http://www.metrolyrics.com/bee-gees-featured.html" onmousedown="ev('Section Nav','Featured');">Featured</a></li>
+</ul>
+</div>
+<div class="grid_3 omega">
+<form class="search-form" action="/search.html">
+<input type="text" name='search' placeholder="Search for lyrics" class="search-ip" id="search-ip"/>
+<input type="submit" value="Search" class="search-btn"/>
+<input type="hidden" name="category" value="lyrics"/>
+</form>
+</div>
+</div>
+<div class="switchable lyrics clearfix">
+<div class="module" id="popular">
+<header>
+<p class="more-link">
+<a href="http://www.metrolyrics.com/add.html?artistid=1164" title="Submit New Song" rel="nofollow" onmousedown="ev('Submit New Song');">+ Submit New Song</a>
+</p>
+<h3><span>Popular</span> Songs</h3>
+</header>
+<div class="content">
+<table class="songs-table compact">
+<thead>
+<tr>
+<th class="video">&nbsp;</th>
+<th class="name" onmousedown="ev('Name Sort');" onClick='window.location="http://www.metrolyrics.com/bee-gees-alpage-1.html"'>Name</th>
+<th class="year">Year </th>
+<th class="popularity active" onmousedown="ev('Popularity Sort');" onClick='window.location="http://www.metrolyrics.com/bee-gees-lyrics.html"'>Popularity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/how-deep-is-your-love-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:how-deep-is-your-love-lyrics-bee-gees');" class="title " title="Bee Gees How Deep Is Your Love lyrics" alt="Bee Gees How Deep Is Your Love lyrics">
+How Deep Is Your Love Lyrics
+</a>
+</td>
+<td content="1977">1977</td>
+<td>
+<span class="bar popular10">
+<span style="width:100%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/stayin-alive-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:stayin-alive-lyrics-bee-gees');" class="title " title="Bee Gees Stayin&#039; Alive lyrics" alt="Bee Gees Stayin&#039; Alive lyrics">
+Stayin&#039; Alive Lyrics
+</a>
+</td>
+<td content="1977">1977</td>
+<td>
+<span class="bar popular8">
+<span style="width:88.161800833744%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/i-started-a-joke-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:i-started-a-joke-lyrics-bee-gees');" class="title " title="Bee Gees I Started A Joke lyrics" alt="Bee Gees I Started A Joke lyrics">
+I Started A Joke Lyrics
+</a>
+</td>
+<td content="2004">2004</td>
+<td>
+<span class="bar popular8">
+<span style="width:82.375714681688%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/too-much-heaven-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:too-much-heaven-lyrics-bee-gees');" class="title " title="Bee Gees Too Much Heaven lyrics" alt="Bee Gees Too Much Heaven lyrics">
+Too Much Heaven Lyrics
+</a>
+</td>
+<td content="2004">2004</td>
+<td>
+<span class="bar popular8">
+<span style="width:81.320996398224%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/rest-your-love-on-me-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:rest-your-love-on-me-lyrics-bee-gees');" class="title " title="Bee Gees Rest Your Love On Me lyrics" alt="Bee Gees Rest Your Love On Me lyrics">
+Rest Your Love On Me Lyrics
+</a>
+</td>
+<td content="2007">2007</td>
+<td>
+<span class="bar popular7">
+<span style="width:79.165605654997%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/how-can-you-mend-a-broken-heart-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:how-can-you-mend-a-broken-heart-lyrics-bee-gees');" class="title " title="Bee Gees How Can You Mend A Broken Heart lyrics" alt="Bee Gees How Can You Mend A Broken Heart lyrics">
+How Can You Mend A Broken Heart Lyrics
+</a>
+</td>
+<td content="1971">1971</td>
+<td>
+<span class="bar popular7">
+<span style="width:77.670190550815%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/to-love-somebody-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:to-love-somebody-lyrics-bee-gees');" class="title " title="Bee Gees To Love Somebody lyrics" alt="Bee Gees To Love Somebody lyrics">
+To Love Somebody Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular7">
+<span style="width:77.098219888849%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/words-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:words-lyrics-bee-gees');" class="title " title="Bee Gees Words lyrics" alt="Bee Gees Words lyrics">
+Words Lyrics
+</a>
+</td>
+<td content="2004">2004</td>
+<td>
+<span class="bar popular7">
+<span style="width:76.938040976323%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/you-should-be-dancing-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:you-should-be-dancing-lyrics-bee-gees');" class="title hasvidtable" title="Bee Gees You Should Be Dancing lyrics" alt="Bee Gees You Should Be Dancing lyrics">
+You Should Be Dancing Lyrics
+</a>
+</td>
+<td content="1977">1977</td>
+<td>
+<span class="bar popular7">
+<span style="width:73.953306738238%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/massachusetts-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:massachusetts-lyrics-bee-gees');" class="title " title="Bee Gees Massachusetts lyrics" alt="Bee Gees Massachusetts lyrics">
+Massachusetts Lyrics
+</a>
+</td>
+<td content="2004">2004</td>
+<td>
+<span class="bar popular7">
+<span style="width:73.340440764359%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/run-to-me-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:run-to-me-lyrics-bee-gees');" class="title " title="Bee Gees Run To Me lyrics" alt="Bee Gees Run To Me lyrics">
+Run To Me Lyrics
+</a>
+</td>
+<td content="1972">1972</td>
+<td>
+<span class="bar popular7">
+<span style="width:73.20048683078%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/alone-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:alone-lyrics-bee-gees');" class="title " title="Bee Gees Alone lyrics" alt="Bee Gees Alone lyrics">
+Alone Lyrics
+</a>
+</td>
+<td content="1997">1997</td>
+<td>
+<span class="bar popular7">
+<span style="width:72.987869027538%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/night-fever-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:night-fever-lyrics-bee-gees');" class="title " title="Bee Gees Night Fever lyrics" alt="Bee Gees Night Fever lyrics">
+Night Fever Lyrics
+</a>
+</td>
+<td content="1977">1977</td>
+<td>
+<span class="bar popular7">
+<span style="width:72.179106107893%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/more-than-a-woman-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:more-than-a-woman-lyrics-bee-gees');" class="title " title="Bee Gees More Than A Woman lyrics" alt="Bee Gees More Than A Woman lyrics">
+More Than A Woman Lyrics
+</a>
+</td>
+<td content="1977">1977</td>
+<td>
+<span class="bar popular7">
+<span style="width:71.872898692348%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/first-of-may-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:first-of-may-lyrics-bee-gees');" class="title " title="Bee Gees First Of May lyrics" alt="Bee Gees First Of May lyrics">
+First Of May Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular7">
+<span style="width:71.55977075264%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/all-my-sorrow-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:all-my-sorrow-lyrics-bee-gees');" class="title " title="Bee Gees All My Sorrow lyrics" alt="Bee Gees All My Sorrow lyrics">
+All My Sorrow Lyrics
+</a>
+</td>
+<td content="2010">2010</td>
+<td>
+<span class="bar popular6">
+<span style="width:68.066413436112%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/islands-in-the-stream-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:islands-in-the-stream-lyrics-bee-gees');" class="title " title="Bee Gees Islands In The Stream lyrics" alt="Bee Gees Islands In The Stream lyrics">
+Islands In The Stream Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular6">
+<span style="width:67.117770056702%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/tragedy-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:tragedy-lyrics-bee-gees');" class="title " title="Bee Gees Tragedy lyrics" alt="Bee Gees Tragedy lyrics">
+Tragedy Lyrics
+</a>
+</td>
+<td content="2004">2004</td>
+<td>
+<span class="bar popular6">
+<span style="width:66.447220417901%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/for-whom-the-bell-tolls-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:for-whom-the-bell-tolls-lyrics-bee-gees');" class="title hasvidtable" title="Bee Gees For Whom The Bell Tolls lyrics" alt="Bee Gees For Whom The Bell Tolls lyrics">
+For Whom The Bell Tolls Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular6">
+<span style="width:64.872434005674%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/there-is-someone-walking-behind-you-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:there-is-someone-walking-behind-you-lyrics-bee-gees');" class="title " title="Bee Gees There Is Someone Walking Behind You lyrics" alt="Bee Gees There Is Someone Walking Behind You lyrics">
+There Is Someone Walking Behind You Lyrics
+</a>
+</td>
+<td content="2012">2012</td>
+<td>
+<span class="bar popular6">
+<span style="width:64.61344849108%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/dont-forget-to-remember-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:dont-forget-to-remember-lyrics-bee-gees');" class="title " title="Bee Gees Don&#039;t Forget to Remember lyrics" alt="Bee Gees Don&#039;t Forget to Remember lyrics">
+Don&#039;t Forget to Remember Lyrics
+</a>
+</td>
+<td content="2004">2004</td>
+<td>
+<span class="bar popular6">
+<span style="width:64.349529623534%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/i-just-want-to-be-your-everything-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:i-just-want-to-be-your-everything-lyrics-bee-gees');" class="title " title="Bee Gees I Just Want to Be Your Everything lyrics" alt="Bee Gees I Just Want to Be Your Everything lyrics">
+I Just Want to Be Your Everything Lyrics
+</a>
+</td>
+<td content="2010">2010</td>
+<td>
+<span class="bar popular6">
+<span style="width:63.943979062908%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/you-win-again-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:you-win-again-lyrics-bee-gees');" class="title " title="Bee Gees You Win Again lyrics" alt="Bee Gees You Win Again lyrics">
+You Win Again Lyrics
+</a>
+</td>
+<td content="2004">2004</td>
+<td>
+<span class="bar popular6">
+<span style="width:63.80611402874%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/guilty-barbra-streisand-with-barry-gibb-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:guilty-barbra-streisand-with-barry-gibb-lyrics-bee-gees');" class="title " title="Bee Gees Guilty lyrics" alt="Bee Gees Guilty lyrics">
+Guilty Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular6">
+<span style="width:63.666863393129%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/emotions-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:emotions-lyrics-bee-gees');" class="title " title="Bee Gees Emotions lyrics" alt="Bee Gees Emotions lyrics">
+Emotions Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular6">
+<span style="width:63.526199021318%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/nights-on-broadway-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:nights-on-broadway-lyrics-bee-gees');" class="title " title="Bee Gees Nights On Broadway lyrics" alt="Bee Gees Nights On Broadway lyrics">
+Nights On Broadway Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular6">
+<span style="width:63.240512165607%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/love-me-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:love-me-lyrics-bee-gees');" class="title " title="Bee Gees Love Me lyrics" alt="Bee Gees Love Me lyrics">
+Love Me Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular6">
+<span style="width:63.095428938195%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/ive-got-to-get-a-message-to-you-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:ive-got-to-get-a-message-to-you-lyrics-bee-gees');" class="title " title="Bee Gees I&#039;ve Got to Get a Message to You lyrics" alt="Bee Gees I&#039;ve Got to Get a Message to You lyrics">
+I&#039;ve Got to Get a Message to You Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular6">
+<span style="width:61.056512447489%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/lonely-days-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:lonely-days-lyrics-bee-gees');" class="title " title="Bee Gees Lonely Days lyrics" alt="Bee Gees Lonely Days lyrics">
+Lonely Days Lyrics
+</a>
+</td>
+<td content="1971">1971</td>
+<td>
+<span class="bar popular6">
+<span style="width:60.003703267936%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/morning-of-my-life-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:morning-of-my-life-lyrics-bee-gees');" class="title " title="Bee Gees Morning of My Life lyrics" alt="Bee Gees Morning of My Life lyrics">
+Morning of My Life Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular6">
+<span style="width:60.003703267936%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/i-love-you-too-much-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:i-love-you-too-much-lyrics-bee-gees');" class="title " title="Bee Gees I Love You Too Much lyrics" alt="Bee Gees I Love You Too Much lyrics">
+I Love You Too Much Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular5">
+<span style="width:59.820186391422%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/new-york-mining-disaster-1941-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:new-york-mining-disaster-1941-lyrics-bee-gees');" class="title " title="Bee Gees New York Mining Disaster 1941 lyrics" alt="Bee Gees New York Mining Disaster 1941 lyrics">
+New York Mining Disaster 1941 Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular5">
+<span style="width:59.820186391422%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/fanny-be-tender-with-my-love-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:fanny-be-tender-with-my-love-lyrics-bee-gees');" class="title " title="Bee Gees Fanny (be Tender With My Love) lyrics" alt="Bee Gees Fanny (be Tender With My Love) lyrics">
+Fanny (be Tender With My Love) Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular5">
+<span style="width:59.820186391422%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/one-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:one-lyrics-bee-gees');" class="title " title="Bee Gees One lyrics" alt="Bee Gees One lyrics">
+One Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular5">
+<span style="width:57.404464137485%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/world-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:world-lyrics-bee-gees');" class="title " title="Bee Gees World lyrics" alt="Bee Gees World lyrics">
+World Lyrics
+</a>
+</td>
+<td content="2004">2004</td>
+<td>
+<span class="bar popular5">
+<span style="width:57.404464137485%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/love-you-inside-out-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:love-you-inside-out-lyrics-bee-gees');" class="title " title="Bee Gees Love You Inside Out lyrics" alt="Bee Gees Love You Inside Out lyrics">
+Love You Inside Out Lyrics
+</a>
+</td>
+<td content="2004">2004</td>
+<td>
+<span class="bar popular5">
+<span style="width:56.957479515804%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/jive-talkin-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:jive-talkin-lyrics-bee-gees');" class="title " title="Bee Gees Jive Talkin&#039; lyrics" alt="Bee Gees Jive Talkin&#039; lyrics">
+Jive Talkin&#039; Lyrics
+</a>
+</td>
+<td content="1977">1977</td>
+<td>
+<span class="bar popular5">
+<span style="width:56.957479515804%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/sad-eyes-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:sad-eyes-lyrics-bee-gees');" class="title " title="Bee Gees Sad Eyes lyrics" alt="Bee Gees Sad Eyes lyrics">
+Sad Eyes Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular5">
+<span style="width:56.495592691431%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/if-i-cant-have-you-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:if-i-cant-have-you-lyrics-bee-gees');" class="title " title="Bee Gees If I Can&#039;t Have You lyrics" alt="Bee Gees If I Can&#039;t Have You lyrics">
+If I Can&#039;t Have You Lyrics
+</a>
+</td>
+<td content="1977">1977</td>
+<td>
+<span class="bar popular5">
+<span style="width:55.522890108617%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/spirits-having-flown-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:spirits-having-flown-lyrics-bee-gees');" class="title " title="Bee Gees Spirits Having Flown lyrics" alt="Bee Gees Spirits Having Flown lyrics">
+Spirits Having Flown Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular5">
+<span style="width:55.268656890971%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/our-love-dont-throw-it-all-away-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:our-love-dont-throw-it-all-away-lyrics-bee-gees');" class="title " title="Bee Gees (Our Love) Don&#039;t Throw It All Away lyrics" alt="Bee Gees (Our Love) Don&#039;t Throw It All Away lyrics">
+(Our Love) Don&#039;t Throw It All Away Lyrics
+</a>
+</td>
+<td content="2007">2007</td>
+<td>
+<span class="bar popular5">
+<span style="width:53.047057905227%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/holiday-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:holiday-lyrics-bee-gees');" class="title " title="Bee Gees Holiday lyrics" alt="Bee Gees Holiday lyrics">
+Holiday Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular5">
+<span style="width:53.047057905227%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/love-so-right-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:love-so-right-lyrics-bee-gees');" class="title " title="Bee Gees Love So Right lyrics" alt="Bee Gees Love So Right lyrics">
+Love So Right Lyrics
+</a>
+</td>
+<td content="2004">2004</td>
+<td>
+<span class="bar popular5">
+<span style="width:52.11263726953%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/ive-gotta-get-a-message-to-you-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:ive-gotta-get-a-message-to-you-lyrics-bee-gees');" class="title " title="Bee Gees I&#039;ve Gotta Get A Message To You lyrics" alt="Bee Gees I&#039;ve Gotta Get A Message To You lyrics">
+I&#039;ve Gotta Get A Message To You Lyrics
+</a>
+</td>
+<td content="2004">2004</td>
+<td>
+<span class="bar popular5">
+<span style="width:52.11263726953%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/spicks-and-specks-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:spicks-and-specks-lyrics-bee-gees');" class="title " title="Bee Gees Spicks And Specks lyrics" alt="Bee Gees Spicks And Specks lyrics">
+Spicks And Specks Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular5">
+<span style="width:51.7866146601%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/ellan-vannin-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:ellan-vannin-lyrics-bee-gees');" class="title " title="Bee Gees Ellan Vannin lyrics" alt="Bee Gees Ellan Vannin lyrics">
+Ellan Vannin Lyrics
+</a>
+</td>
+<td content="2007">2007</td>
+<td>
+<span class="bar popular5">
+<span style="width:50.759824871513%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/grease-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:grease-lyrics-bee-gees');" class="title " title="Bee Gees Grease lyrics" alt="Bee Gees Grease lyrics">
+Grease Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular5">
+<span style="width:50.399926153233%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/love-is-thicker-than-water-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:love-is-thicker-than-water-lyrics-bee-gees');" class="title " title="Bee Gees (Love Is) Thicker Than Water lyrics" alt="Bee Gees (Love Is) Thicker Than Water lyrics">
+(Love Is) Thicker Than Water Lyrics
+</a>
+</td>
+<td content="2010">2010</td>
+<td>
+<span class="bar popular4">
+<span style="width:49.650807413585%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/secret-love-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:secret-love-lyrics-bee-gees');" class="title " title="Bee Gees Secret Love lyrics" alt="Bee Gees Secret Love lyrics">
+Secret Love Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:48.018885573518%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/smile-for-me-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:smile-for-me-lyrics-bee-gees');" class="title " title="Bee Gees Smile for Me lyrics" alt="Bee Gees Smile for Me lyrics">
+Smile for Me Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:47.578997147442%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/my-eternal-love-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:my-eternal-love-lyrics-bee-gees');" class="title " title="Bee Gees My Eternal Love lyrics" alt="Bee Gees My Eternal Love lyrics">
+My Eternal Love Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:47.124683606459%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/closer-than-close-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:closer-than-close-lyrics-bee-gees');" class="title " title="Bee Gees Closer Than Close lyrics" alt="Bee Gees Closer Than Close lyrics">
+Closer Than Close Lyrics
+</a>
+</td>
+<td content="1997">1997</td>
+<td>
+<span class="bar popular4">
+<span style="width:46.654966704671%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/jive-talking-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:jive-talking-lyrics-bee-gees');" class="title " title="Bee Gees Jive Talking lyrics" alt="Bee Gees Jive Talking lyrics">
+Jive Talking Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:45.664879776267%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/wedding-day-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:wedding-day-lyrics-bee-gees');" class="title " title="Bee Gees Wedding Day lyrics" alt="Bee Gees Wedding Day lyrics">
+Wedding Day Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:45.141975394127%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/an-everlasting-love-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:an-everlasting-love-lyrics-bee-gees');" class="title " title="Bee Gees An Everlasting Love lyrics" alt="Bee Gees An Everlasting Love lyrics">
+An Everlasting Love Lyrics
+</a>
+</td>
+<td content="2010">2010</td>
+<td>
+<span class="bar popular4">
+<span style="width:44.598559799333%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/the-only-love-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:the-only-love-lyrics-bee-gees');" class="title " title="Bee Gees The Only Love lyrics" alt="Bee Gees The Only Love lyrics">
+The Only Love Lyrics
+</a>
+</td>
+<td content="2014">2014</td>
+<td>
+<span class="bar popular4">
+<span style="width:44.598559799333%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/tomorrow-tomorrow-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:tomorrow-tomorrow-lyrics-bee-gees');" class="title " title="Bee Gees Tomorrow, Tomorrow lyrics" alt="Bee Gees Tomorrow, Tomorrow lyrics">
+Tomorrow, Tomorrow Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:44.0329579362%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/my-world-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:my-world-lyrics-bee-gees');" class="title " title="Bee Gees My World lyrics" alt="Bee Gees My World lyrics">
+My World Lyrics
+</a>
+</td>
+<td content="2010">2010</td>
+<td>
+<span class="bar popular4">
+<span style="width:43.443280790524%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/heartbreaker-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:heartbreaker-lyrics-bee-gees');" class="title " title="Bee Gees Heartbreaker lyrics" alt="Bee Gees Heartbreaker lyrics">
+Heartbreaker Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:43.443280790524%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/aint-nothing-gonna-keep-me-from-you-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:aint-nothing-gonna-keep-me-from-you-lyrics-bee-gees');" class="title " title="Bee Gees Ain&#039;t Nothing Gonna Keep Me from You lyrics" alt="Bee Gees Ain&#039;t Nothing Gonna Keep Me from You lyrics">
+Ain&#039;t Nothing Gonna Keep Me from You Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:43.443280790524%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/melody-fair-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:melody-fair-lyrics-bee-gees');" class="title " title="Bee Gees Melody Fair lyrics" alt="Bee Gees Melody Fair lyrics">
+Melody Fair Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:43.443280790524%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/my-lovers-prayer-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:my-lovers-prayer-lyrics-bee-gees');" class="title " title="Bee Gees My Lover&#039;s Prayer lyrics" alt="Bee Gees My Lover&#039;s Prayer lyrics">
+My Lover&#039;s Prayer Lyrics
+</a>
+</td>
+<td content="1997">1997</td>
+<td>
+<span class="bar popular4">
+<span style="width:42.827387323654%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/cherry-red-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:cherry-red-lyrics-bee-gees');" class="title " title="Bee Gees Cherry Red lyrics" alt="Bee Gees Cherry Red lyrics">
+Cherry Red Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:42.182837545396%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/night-fever-dvd-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:night-fever-dvd-lyrics-bee-gees');" class="title hasvidtable" title="Bee Gees Night Fever (DVD) lyrics" alt="Bee Gees Night Fever (DVD) lyrics">
+Night Fever (DVD) Lyrics
+</a>
+</td>
+<td content="2009">2009</td>
+<td>
+<span class="bar popular4">
+<span style="width:42.182837545396%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/ill-kiss-your-memory-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:ill-kiss-your-memory-lyrics-bee-gees');" class="title " title="Bee Gees I&#039;ll Kiss Your Memory lyrics" alt="Bee Gees I&#039;ll Kiss Your Memory lyrics">
+I&#039;ll Kiss Your Memory Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:41.506834129074%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/saved-by-the-bell-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:saved-by-the-bell-lyrics-bee-gees');" class="title " title="Bee Gees Saved By the Bell lyrics" alt="Bee Gees Saved By the Bell lyrics">
+Saved By the Bell Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular4">
+<span style="width:40.047030298882%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/turn-around-look-at-me-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:turn-around-look-at-me-lyrics-bee-gees');" class="title " title="Bee Gees Turn Around, Look at Me lyrics" alt="Bee Gees Turn Around, Look at Me lyrics">
+Turn Around, Look at Me Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular3">
+<span style="width:39.255082092001%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/i-will-always-love-you-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:i-will-always-love-you-lyrics-bee-gees');" class="title " title="Bee Gees I Will Always Love You lyrics" alt="Bee Gees I Will Always Love You lyrics">
+I Will Always Love You Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular3">
+<span style="width:39.255082092001%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/i-cant-see-nobody-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:i-cant-see-nobody-lyrics-bee-gees');" class="title " title="Bee Gees I Can&#039;t See Nobody lyrics" alt="Bee Gees I Can&#039;t See Nobody lyrics">
+I Can&#039;t See Nobody Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular3">
+<span style="width:39.255082092001%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/the-singer-sang-his-song-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:the-singer-sang-his-song-lyrics-bee-gees');" class="title " title="Bee Gees The Singer Sang His Song lyrics" alt="Bee Gees The Singer Sang His Song lyrics">
+The Singer Sang His Song Lyrics
+</a>
+</td>
+<td content="2010">2010</td>
+<td>
+<span class="bar popular3">
+<span style="width:39.255082092001%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/arrow-through-the-heart-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:arrow-through-the-heart-lyrics-bee-gees');" class="title " title="Bee Gees Arrow Through The Heart lyrics" alt="Bee Gees Arrow Through The Heart lyrics">
+Arrow Through The Heart Lyrics
+</a>
+</td>
+<td content="2010">2010</td>
+<td>
+<span class="bar popular3">
+<span style="width:39.255082092001%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/heart-like-mine-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:heart-like-mine-lyrics-bee-gees');" class="title " title="Bee Gees Heart Like Mine lyrics" alt="Bee Gees Heart Like Mine lyrics">
+Heart Like Mine Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular3">
+<span style="width:38.415108458814%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/rings-around-the-moon-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:rings-around-the-moon-lyrics-bee-gees');" class="title " title="Bee Gees Rings Around The Moon lyrics" alt="Bee Gees Rings Around The Moon lyrics">
+Rings Around The Moon Lyrics
+</a>
+</td>
+<td content="2010">2010</td>
+<td>
+<span class="bar popular3">
+<span style="width:38.415108458814%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/immortality-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:immortality-lyrics-bee-gees');" class="title " title="Bee Gees Immortality lyrics" alt="Bee Gees Immortality lyrics">
+Immortality Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular3">
+<span style="width:37.520906491756%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video">
+</td>
+<td>
+<a href="http://www.metrolyrics.com/every-day-i-have-to-cry-some-lyrics-bee-gees.html" onmousedown="ev('Popular Songs','searcht:every-day-i-have-to-cry-some-lyrics-bee-gees');" class="title " title="Bee Gees Every Day I Have to Cry Some lyrics" alt="Bee Gees Every Day I Have to Cry Some lyrics">
+Every Day I Have to Cry Some Lyrics
+</a>
+</td>
+<td content="2006">2006</td>
+<td>
+<span class="bar popular3">
+<span style="width:34.429180821496%;"></span>
+</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="pagination">
+<a href="javascript:void(0)" class="button prev disabled" onmousedown="ev('Previous Page');">
+<span aria-hidden="true" class="arrow">&lt;</span> Prev</a>
+<span class="pages">
+<a href="http://www.metrolyrics.com/bee-gees-alpage-1.html" onmousedown="ev('Page','1');">
+1	</a>
+<a href="http://www.metrolyrics.com/bee-gees-alpage-2.html" onmousedown="ev('Page','2');">
+2	</a>
+<a href="http://www.metrolyrics.com/bee-gees-alpage-3.html" onmousedown="ev('Page','3');">
+3	</a>
+<a href="http://www.metrolyrics.com/bee-gees-alpage-4.html" onmousedown="ev('Page','4');">
+4	</a>
+<a href="http://www.metrolyrics.com/bee-gees-alpage-5.html" onmousedown="ev('Page','... ');">
+... </a>
+</span>
+<a href="http://www.metrolyrics.com/bee-gees-alpage-1.html" class="button next" onmousedown="ev('Next Page');">
+Next <span aria-hidden="true" class="arrow">&gt;</span>
+</a>
+</p>
+</div><!-- END: lyrics -->
+<div class="module" id="featured">
+<header>
+<p class="more-link">
+<a href="http://www.metrolyrics.com/bee-gees-featured.html" onmousedown="ev('Featured View All','View All');" title="View All">View All</a>
+</p>
+<h3>
+<span>
+Songs
+</span>
+Featured In
+</h3>
+</header>
+<div class="content">
+<table class="songs-table compact">
+<thead>
+<tr>
+<th class="video">&nbsp;</th>
+<th class="name">Name </th>
+<th class="artist">Artist </span></th>
+<th class="popularity active">Popularity </span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/immortality-lyrics-celine-dion.html" class="title hasvidtable" onmousedown="ev('Featured','searcht:immortality-lyrics-celine-dion');" title="Celine Dion Immortality lyrics" alt="Celine Dion Immortality lyrics">
+Immortality Lyrics
+</a>
+</td>
+<td>Celine Dion</td>
+<td>
+<span class="bar popular10">
+<span style="width:100%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/ups-downs-lyrics-snoop-dogg.html" class="title hasvidtable" onmousedown="ev('Featured','searcht:ups-downs-lyrics-snoop-dogg');" title="Snoop Dogg Ups &amp; Downs lyrics" alt="Snoop Dogg Ups &amp; Downs lyrics">
+Ups &amp; Downs Lyrics
+</a>
+</td>
+<td>Snoop Dogg</td>
+<td>
+<span class="bar popular4">
+<span style="width:46.8320359074%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/how-deep-is-your-love-lyrics-glee.html" class="title " onmousedown="ev('Featured','searcht:how-deep-is-your-love-lyrics-glee');" title="Glee How Deep Is Your Love lyrics" alt="Glee How Deep Is Your Love lyrics">
+How Deep Is Your Love Lyrics
+</a>
+</td>
+<td>Glee</td>
+<td>
+<span class="bar popular4">
+<span style="width:41.074646811737%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/if-i-cant-have-you-lyrics-glee.html" class="title " onmousedown="ev('Featured','searcht:if-i-cant-have-you-lyrics-glee');" title="Glee If I Can&#039;t Have You lyrics" alt="Glee If I Can&#039;t Have You lyrics">
+If I Can&#039;t Have You Lyrics
+</a>
+</td>
+<td>Glee</td>
+<td>
+<span class="bar popular2">
+<span style="width:22.914965946491%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/you-should-be-dancing-lyrics-dancing-with-the-stars.html" class="title " onmousedown="ev('Featured','searcht:you-should-be-dancing-lyrics-dancing-with-the-stars');" title="Dancing with the Stars You Should Be Dancing lyrics" alt="Dancing with the Stars You Should Be Dancing lyrics">
+You Should Be Dancing Lyrics
+</a>
+</td>
+<td>Dancing with the Stars</td>
+<td>
+<span class="bar popular1">
+<span style="width:18.159680865245%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/how-deep-is-your-love-lyrics-american-idol.html" class="title " onmousedown="ev('Featured','searcht:how-deep-is-your-love-lyrics-american-idol');" title="American Idol How Deep Is Your Love lyrics" alt="American Idol How Deep Is Your Love lyrics">
+How Deep Is Your Love Lyrics
+</a>
+</td>
+<td>American Idol</td>
+<td>
+<span class="bar popular1">
+<span style="width:11.457482973246%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/more-than-a-woman-lyrics-glee.html" class="title " onmousedown="ev('Featured','searcht:more-than-a-woman-lyrics-glee');" title="Glee More Than a Woman lyrics" alt="Glee More Than a Woman lyrics">
+More Than a Woman Lyrics
+</a>
+</td>
+<td>Glee</td>
+<td>
+<span class="bar popular1">
+<span style="width:11.457482973246%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/night-fever-lyrics-glee.html" class="title " onmousedown="ev('Featured','searcht:night-fever-lyrics-glee');" title="Glee Night Fever lyrics" alt="Glee Night Fever lyrics">
+Night Fever Lyrics
+</a>
+</td>
+<td>Glee</td>
+<td>
+<span class="bar popular1">
+<span style="width:11.457482973246%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/words-lyrics-american-idol.html" class="title " onmousedown="ev('Featured','searcht:words-lyrics-american-idol');" title="American Idol Words lyrics" alt="American Idol Words lyrics">
+Words Lyrics
+</a>
+</td>
+<td>American Idol</td>
+<td>
+<span class="bar popular0">
+<span style="width:6%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/stayin-alive-lyrics-glee.html" class="title " onmousedown="ev('Featured','searcht:stayin-alive-lyrics-glee');" title="Glee Stayin&#039; Alive lyrics" alt="Glee Stayin&#039; Alive lyrics">
+Stayin&#039; Alive Lyrics
+</a>
+</td>
+<td>Glee</td>
+<td>
+<span class="bar popular0">
+<span style="width:6%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/how-can-you-mend-a-broken-heart-lyrics-american-idol.html" class="title " onmousedown="ev('Featured','searcht:how-can-you-mend-a-broken-heart-lyrics-american-idol');" title="American Idol How Can You Mend a Broken Heart lyrics" alt="American Idol How Can You Mend a Broken Heart lyrics">
+How Can You Mend a Broken Heart Lyrics
+</a>
+</td>
+<td>American Idol</td>
+<td>
+<span class="bar popular0">
+<span style="width:6%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/to-love-somebody-lyrics-american-idol.html" class="title " onmousedown="ev('Featured','searcht:to-love-somebody-lyrics-american-idol');" title="American Idol To Love Somebody lyrics" alt="American Idol To Love Somebody lyrics">
+To Love Somebody Lyrics
+</a>
+</td>
+<td>American Idol</td>
+<td>
+<span class="bar popular0">
+<span style="width:6%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/how-can-you-mend-a-broken-heart-lyrics-various.html" class="title " onmousedown="ev('Featured','searcht:how-can-you-mend-a-broken-heart-lyrics-various');" title="Various How Can You Mend A Broken Heart lyrics" alt="Various How Can You Mend A Broken Heart lyrics">
+How Can You Mend A Broken Heart Lyrics
+</a>
+</td>
+<td>Various</td>
+<td>
+<span class="bar popular0">
+<span style="width:6%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/you-should-be-dancing-lyrics-glee.html" class="title hasvidtable" onmousedown="ev('Featured','searcht:you-should-be-dancing-lyrics-glee');" title="Glee You Should Be Dancing lyrics" alt="Glee You Should Be Dancing lyrics">
+You Should Be Dancing Lyrics
+</a>
+</td>
+<td>Glee</td>
+<td>
+<span class="bar popular0">
+<span style="width:6%;"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="video"></td>
+<td>
+<a href="http://www.metrolyrics.com/stayin-alive-lyrics-x-factor-uk.html" class="title " onmousedown="ev('Featured','searcht:stayin-alive-lyrics-x-factor-uk');" title="X Factor (UK) Stayin&#039; Alive lyrics" alt="X Factor (UK) Stayin&#039; Alive lyrics">
+Stayin&#039; Alive Lyrics
+</a>
+</td>
+<td>X Factor (UK)</td>
+<td>
+<span class="bar popular0">
+<span style="width:6%;"></span>
+</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="grid_4">
+<div class="expanding-ad ad-box"><div id='div-gpt-ad-mpu'></div></div>
+<div class="module">
+<a id="driver" class="content-driver small" href="http://www.metrolyrics.com/news-story-imagine-dragons-smoke-and-mirrors-lyric-reveal.html" onmousedown="ev('Driver Module','http://www.metrolyrics.com/news-story-imagine-dragons-smoke-and-mirrors-lyric-reveal.html');" title="Read Every Lyric On Imagine Dragons&#039; Upcoming Album">
+<div class="image-container">
+<img src="http://netstorage.metrolyrics.com/drivers/f66a1/imaginedragons-list2-54e3812d-image.jpg"/>
+<div class="caption">Read Every Lyric On Imagine Dragons&#039; Upcoming Album</div>
+</div>
+</a>
+<div class="module with-overlay videos no-grid" id="videoGallery">
+<header>
+<p class='more-link'>
+<a class="link" title="Bee Gees videos" href="http://www.metrolyrics.com/bee-gees-videos.html" onmousedown="ev('Artist Video Module View All','View All');">View All</a>	</p>
+<h3>
+<span>Bee Gees</span> Videos	</h3>
+</header>
+<ul class="content clearfix">
+<li class="full">
+<a href="http://www.metrolyrics.com/for-whom-the-bell-tolls-bee-gees-ml-video-qwp.html" title="For Whom The Bell Tolls - Lyrics" onmousedown="ev('Artist Video Module','searchv:for-whom-the-bell-tolls-bee-gees-ml-video-qwp');">
+<span class="tmb tmb-altmod-full">
+<img pagespeed_no_defer="" src='http://i.ytimg.com/vi/l_b8hoJP22Q/1.jpg' alt="Bee Gees Videos" title="Bee Gees Videos"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">For Whom The Bell Tolls - Lyrics<br/>Video</span>
+</a>
+</li>
+<li class="">
+<a href="http://www.metrolyrics.com/you-should-be-dancing-bee-gees-bee-gees-ml-video-1qs.html" title="You Should be Dancing Lyrics - Bee Gees" onmousedown="ev('Artist Video Module','searchv:you-should-be-dancing-bee-gees-bee-gees-ml-video-1qs');">
+<span class="tmb tmb-altmod">
+<img pagespeed_no_defer="" src='http://i.ytimg.com/vi/mbJ-COsZhQ8/1.jpg' alt="Bee Gees Videos" title="Bee Gees Videos"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">You Should be Dancing Lyrics - Bee Gees<br/>Video</span>
+</a>
+</li>
+<li class="">
+<a href="http://www.metrolyrics.com/bee-gees-night-fever-bee-gees-ml-video-jvx.html" title="Bee Gees Night Fever lyrics" onmousedown="ev('Artist Video Module','searchv:bee-gees-night-fever-bee-gees-ml-video-jvx');">
+<span class="tmb tmb-altmod">
+<img pagespeed_no_defer="" src='http://i.ytimg.com/vi/0ILBGuaapxc/1.jpg' alt="Bee Gees Videos" title="Bee Gees Videos"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">Bee Gees Night Fever lyrics<br/>Video</span>
+</a>
+</li>
+<li class="">
+<a href="http://www.metrolyrics.com/a-thousand-years-christina-perri-ml-video-kq4.html" title="A Thousand Years (Peter &amp; Evynne Hollens Cover)" onmousedown="ev('Artist Video Module','searchv:a-thousand-years-christina-perri-ml-video-kq4');">
+<span class="tmb tmb-altmod">
+<img pagespeed_no_defer="" src='http://thumbnails.cbsig.net/CBS_Production_CBS_Music_VMS/489/355/2014/05/29/268947523653/PeterHollens-CristinaPerri-AThousandYears-Cover-VideoThumb_thumb_640x360.jpg' alt="Christina Perri Videos" title="Christina Perri Videos"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">A Thousand Years (Peter & Evynne Hollens Cover)<br/>Video</span>
+</a>
+</li>
+<li class="">
+<a href="http://www.metrolyrics.com/all-of-me-john-legend-ml-video-3zo.html" title="10 Fun Facts About &#039;All of Me&#039;" onmousedown="ev('Artist Video Module','searchv:all-of-me-john-legend-ml-video-3zo');">
+<span class="tmb tmb-altmod">
+<img pagespeed_no_defer="" src='http://thumbnails.cbsig.net/CBS_Production_CBS_Music_VMS/2014/08/27/322505795794/johnlegenddykvideothumb_269855_640x360.jpg' alt="John Legend Videos" title="John Legend Videos"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">10 Fun Facts About 'All of Me'<br/>Video</span>
+</a>
+</li>
+<li class="">
+<a href="http://www.metrolyrics.com/you-should-be-dancing-glee-bee-gees-ml-video-yem.html" title="You Should Be Dancing Glee Lyrics" onmousedown="ev('Artist Video Module','searchv:you-should-be-dancing-glee-bee-gees-ml-video-yem');">
+<span class="tmb tmb-altmod">
+<img pagespeed_no_defer="" src='http://i.ytimg.com/vi/ezPha1F8Ums/1.jpg' alt="Bee Gees Videos" title="Bee Gees Videos"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">You Should Be Dancing Glee Lyrics<br/>Video</span>
+</a>
+</li>
+<li class="">
+<a href="http://www.metrolyrics.com/taylor-swift-last-kiss-lyric-video-ml-video-6zf.html" title="Taylor Swift - Last Kiss (Lyric Video)" onmousedown="ev('Artist Video Module','searchv:taylor-swift-last-kiss-lyric-video-ml-video-6zf');">
+<span class="tmb tmb-altmod">
+<img pagespeed_no_defer="" src='http://thumbnails.cbsig.net/CBS_Production_CBS_Music_VMS/168/395/2014/05/15/256799811664/Taylor_Swift_Last_Kiss_thumb_640x360.jpg' alt="Taylor Swift Videos" title="Taylor Swift Videos"/>
+</span>
+<span aria-hidden="true" class="icon icon-play small"></span>
+<span class="over">Taylor Swift - Last Kiss (Lyric Video)<br/>Video</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="module" id="music-news">
+<header>
+<p class='more-link'>
+<a href='http://www.metrolyrics.com/news.html' title='View All' onmousedown="ev('News Module View All','View All');">View All</a>
+</p>
+<h3>
+<span>Music</span> News	</h3>
+</header>
+<ul class="content tmb-small img-stacked">
+<li itemscope itemtype="http://schema.org/Article">
+<a href="http://www.metrolyrics.com/news-story-video-beyonce-ed-sheeran-gary-clark-jr-stevie-wonder-tribute.html" title="Obviously Beyonce's Tribute To Stevie Wonder Was 'Flawless'" onmousedown="ev('X-Small News Module','searche:video-beyonce-ed-sheeran-gary-clark-jr-stevie-wonder-tribute:url:news-story-video-beyonce-ed-sheeran-gary-clark-jr-stevie-wonder-tribute');">
+<span class="tmb tmb-xs not-playable">
+<img pagespeed_no_defer="" src="http://netstorage.metrolyrics.com/editorials/video-beyonce-ed-sheeran-gary-clark-jr-stevie-wonder-tribute/xxsmall-image.jpg" alt="Obviously Beyonce's Tribute To Stevie Wonder Was 'Flawless'" title="Obviously Beyonce's Tribute To Stevie Wonder Was 'Flawless'"/>
+</span>
+Obviously Beyonce&#039;s Tribute To Stevie Wonder Was &quot;Flawless&quot;	</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a href="http://www.metrolyrics.com/news-story-10-iconic-stevie-wonder-lyrics-songs-in-the-key-of-life.html" title="The 10 Most Iconic Stevie Wonder Lyrics" onmousedown="ev('X-Small News Module','searche:10-iconic-stevie-wonder-lyrics-songs-in-the-key-of-life:url:news-story-10-iconic-stevie-wonder-lyrics-songs-in-the-key-of-life');">
+<span class="tmb tmb-xs not-playable">
+<img pagespeed_no_defer="" src="http://netstorage.metrolyrics.com/editorials/10-iconic-stevie-wonder-lyrics-songs-in-the-key-of-life/xxsmall-image.jpg" alt="The 10 Most Iconic Stevie Wonder Lyrics" title="The 10 Most Iconic Stevie Wonder Lyrics"/>
+</span>
+The 10 Most Iconic Stevie Wonder Lyrics	</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a href="http://www.metrolyrics.com/news-story-grammys-unforgettable-moments.html" title="13 Unforgettable Moments from the 57th GRAMMY Awards" onmousedown="ev('X-Small News Module','searche:grammys-unforgettable-moments:url:news-story-grammys-unforgettable-moments');">
+<span class="tmb tmb-xs not-playable">
+<img pagespeed_no_defer="" src="http://netstorage.metrolyrics.com/editorials/grammys-unforgettable-moments/xxsmall-image.jpg" alt="13 Unforgettable Moments from the 57th GRAMMY Awards" title="13 Unforgettable Moments from the 57th GRAMMY Awards"/>
+</span>
+13 Unforgettable Moments from the 57th GRAMMY Awards	</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a href="http://www.metrolyrics.com/news-story-grammy-pairings-list-performers-2015.html" title="It Takes Two! These Duos Will Blow You Away At The GRAMMYs" onmousedown="ev('X-Small News Module','searche:grammy-pairings-list-performers-2015:url:news-story-grammy-pairings-list-performers-2015');">
+<span class="tmb tmb-xs not-playable">
+<img pagespeed_no_defer="" src="http://netstorage.metrolyrics.com/editorials/grammy-pairings-list-performers-2015/xxsmall-image.jpg" alt="It Takes Two! These Duos Will Blow You Away At The GRAMMYs" title="It Takes Two! These Duos Will Blow You Away At The GRAMMYs"/>
+</span>
+It Takes Two! These Duos Will Blow You Away At The GRAMMYs	</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a href="http://www.metrolyrics.com/news-story-jimmy-fallon-we-are-the-champions-roots-music-superstars.html" title="Watch Sam Smith, Ariana Grande and More Sing 'We Are The Champions' With Jimmy Fallon" onmousedown="ev('X-Small News Module','searche:jimmy-fallon-we-are-the-champions-roots-music-superstars:url:news-story-jimmy-fallon-we-are-the-champions-roots-music-superstars');">
+<span class="tmb tmb-xs not-playable">
+<img pagespeed_no_defer="" src="http://netstorage.metrolyrics.com/editorials/jimmy-fallon-we-are-the-champions-roots-music-superstars/xxsmall-image.jpg" alt="Watch Sam Smith, Ariana Grande and More Sing 'We Are The Champions' With Jimmy Fallon" title="Watch Sam Smith, Ariana Grande and More Sing 'We Are The Champions' With Jimmy Fallon"/>
+</span>
+Watch Sam Smith, Ariana Grande and More Sing &quot;We Are The Champions&quot; With Jimmy Fallon	</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="expanding-ad ad-box"><div id='div-gpt-ad-mpu_middle'></div></div>
+<div class="module">
+<div class="YAD-33d5ae30-b856-37ea-bf02-743567f6ce89"></div>
+<script pagespeed_no_defer="">(function(a,b,c,d,e,f){a[d]||(a[d]=function(){(a[d].q=a[d].q||[]).push([arguments,+new Date])});e=b.createElement(c);f=b.getElementsByTagName(c)[0];e.src='https://s.yimg.com/uq/syndication/yad.js';e.async=true;f.parentNode.insertBefore(e,f)}(window,document,'script','yad'));yad('33d5ae30-b856-37ea-bf02-743567f6ce89',{element:document.querySelector('.YAD-33d5ae30-b856-37ea-bf02-743567f6ce89')});</script>
+</div>
+<div class="module">
+<div class="add-lyric">
+<div class="header">
+<em>Add</em> Lyrics
+</div>
+<div class="driver-content">
+Know the lyrics to any of these songs?<br/>
+<div class="lyric">
+<a class="title" href="http://www.metrolyrics.com/kjee-lyrics-bee-gees.html#/correction" target="_blank" onmousedown="ev('Add Missing Lyrics','Suggestion: kjee-lyrics-bee-gees')">K-Jee</a>
+Lyrics by
+<span class="artist">Bee Gees</span>
+</div>
+<div class="lyric">
+<a class="title" href="http://www.metrolyrics.com/night-on-disco-mountain-lyrics-bee-gees.html#/correction" target="_blank" onmousedown="ev('Add Missing Lyrics','Suggestion: night-on-disco-mountain-lyrics-bee-gees')">Night on Disco Mountain</a>
+Lyrics by
+<span class="artist">Bee Gees</span>
+</div>
+<div class="lyric">
+<a class="title" href="http://www.metrolyrics.com/open-sesame-lyrics-bee-gees.html#/correction" target="_blank" onmousedown="ev('Add Missing Lyrics','Suggestion: open-sesame-lyrics-bee-gees')">Open Sesame</a>
+Lyrics by
+<span class="artist">Bee Gees</span>
+</div>
+If so - or if you notice any other song that's missing - be the first to submit them!<br/>
+</div>
+<div class="driver-footer">
+<a class="btn" href="http://www.metrolyrics.com/add.html?artistid=1164" onmousedown="ev('Add Missing Lyrics','Suggestion: New lyrics')">Add New Lyrics</a>
+</div>
+</div>	</div>
+</div>
+</div><!-- END: page-content -->
+</div>
+</div>
+<div class="bottom-ad">
+<div id='div-gpt-ad-leaderboard_bottom'></div>	</div>
+</div>
+</div>
+</div>
+<footer class="page-footer" id="page-footer">
+<div class="row">
+<div class="hot-songs module">
+<header>
+<p class='discover-more-link'>
+Discover the top 100 songs in:
+<a onmousedown="ev('Footer','LATM')" href='http://www.metrolyrics.com/es/latm/top100.html '>Latin America</a> |
+<a onmousedown="ev('Footer','France')" href='http://www.metrolyrics.com/fr/eu/top100.html '>France</a> |
+<a onmousedown="ev('Footer','Asia')" href='http://www.metrolyrics.com/en/sea/top100.html '>Asia</a>
+</p>
+<h3><span>Songs So Hot</span> They're Sizzling</h3>
+</header>
+<ul class="clearfix">	<li class="grid_3 alpha">
+<a href="http://www.metrolyrics.com/i-bet-my-life-lyrics-imagine-dragons.html" title="I Bet My Life Lyrics" onmousedown="ev('Footer','Hot Songs Item');">I Bet My Life Lyrics</a>
+<a href="http://www.metrolyrics.com/imagine-dragons-lyrics.html" title="Imagine Dragons" onmousedown="ev('Footer','Hot Songs Artist: Imagine Dragons');">Imagine Dragons</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/payback-lyrics-juicy-j.html" title="Payback Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Payback Lyrics</a>
+<a href="http://www.metrolyrics.com/juicy-j-lyrics.html" title="Juicy J" onmousedown="ev('Footer','Hot Songs Artist: Juicy J');">Juicy J</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/remember-me-lyrics-chris-brown.html" title="Remember Me Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Remember Me Lyrics</a>
+<a href="http://www.metrolyrics.com/chris-brown-lyrics.html" title="Chris Brown" onmousedown="ev('Footer','Hot Songs Artist: Chris Brown');">Chris Brown</a>
+</li>	<li class="grid_3 omega">
+<a href="http://www.metrolyrics.com/mother-lyrics-florence-and-the-machine.html" title="Mother Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Mother Lyrics</a>
+<a href="http://www.metrolyrics.com/florence-and-the-machine-lyrics.html" title="Florence and the Machine" onmousedown="ev('Footer','Hot Songs Artist: Florence and the Machine');">Florence and the Machine</a>
+</li>	</ul>
+<ul class="clearfix">	<li class="grid_3 alpha">
+<a href="http://www.metrolyrics.com/energy-lyrics-drake.html" title="Energy Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Energy Lyrics</a>
+<a href="http://www.metrolyrics.com/drake-lyrics.html" title="Drake" onmousedown="ev('Footer','Hot Songs Artist: Drake');">Drake</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/star67-lyrics-drake.html" title="Star67 Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Star67 Lyrics</a>
+<a href="http://www.metrolyrics.com/drake-lyrics.html" title="Drake" onmousedown="ev('Footer','Hot Songs Artist: Drake');">Drake</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/ride-out-lyrics-kid-ink.html" title="Ride Out Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Ride Out Lyrics</a>
+<a href="http://www.metrolyrics.com/kid-ink-lyrics.html" title="Kid Ink" onmousedown="ev('Footer','Hot Songs Artist: Kid Ink');">Kid Ink</a>
+</li>	<li class="grid_3 omega">
+<a href="http://www.metrolyrics.com/i-know-lyrics-big-sean.html" title="I Know Lyrics" onmousedown="ev('Footer','Hot Songs Item');">I Know Lyrics</a>
+<a href="http://www.metrolyrics.com/big-sean-lyrics.html" title="Big Sean" onmousedown="ev('Footer','Hot Songs Artist: Big Sean');">Big Sean</a>
+</li>	</ul>
+<ul class="clearfix">	<li class="grid_3 alpha">
+<a href="http://www.metrolyrics.com/together-in-electric-dreams-lyrics-britney-spears.html" title="Together In Electric Dreams Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Together In Electric Dreams Lyrics</a>
+<a href="http://www.metrolyrics.com/britney-spears-lyrics.html" title="Britney Spears" onmousedown="ev('Footer','Hot Songs Artist: Britney Spears');">Britney Spears</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/hold-tight-lyrics-madonna.html" title="Hold Tight Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Hold Tight Lyrics</a>
+<a href="http://www.metrolyrics.com/madonna-lyrics.html" title="Madonna" onmousedown="ev('Footer','Hot Songs Artist: Madonna');">Madonna</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/joan-of-arc-lyrics-madonna.html" title="Joan Of Arc Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Joan Of Arc Lyrics</a>
+<a href="http://www.metrolyrics.com/madonna-lyrics.html" title="Madonna" onmousedown="ev('Footer','Hot Songs Artist: Madonna');">Madonna</a>
+</li>	<li class="grid_3 omega">
+<a href="http://www.metrolyrics.com/drinks-on-us-lyrics-the-weeknd.html" title="Drinks On Us Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Drinks On Us Lyrics</a>
+<a href="http://www.metrolyrics.com/the-weeknd-lyrics.html" title="The Weeknd" onmousedown="ev('Footer','Hot Songs Artist: The Weeknd');">The Weeknd</a>
+</li>	</ul>
+<ul class="clearfix">	<li class="grid_3 alpha">
+<a href="http://www.metrolyrics.com/deserve-lyrics-big-sean.html" title="Deserve Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Deserve Lyrics</a>
+<a href="http://www.metrolyrics.com/big-sean-lyrics.html" title="Big Sean" onmousedown="ev('Footer','Hot Songs Artist: Big Sean');">Big Sean</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/earned-it-lyrics-the-weeknd.html" title="Earned It Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Earned It Lyrics</a>
+<a href="http://www.metrolyrics.com/the-weeknd-lyrics.html" title="The Weeknd" onmousedown="ev('Footer','Hot Songs Artist: The Weeknd');">The Weeknd</a>
+</li>	<li class="grid_3">
+<a href="http://www.metrolyrics.com/blank-space-lyrics-taylor-swift.html" title="Blank Space Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Blank Space Lyrics</a>
+<a href="http://www.metrolyrics.com/taylor-swift-lyrics.html" title="Taylor Swift" onmousedown="ev('Footer','Hot Songs Artist: Taylor Swift');">Taylor Swift</a>
+</li>	<li class="grid_3 omega">
+<a href="http://www.metrolyrics.com/style-lyrics-taylor-swift.html" title="Style Lyrics" onmousedown="ev('Footer','Hot Songs Item');">Style Lyrics</a>
+<a href="http://www.metrolyrics.com/taylor-swift-lyrics.html" title="Taylor Swift" onmousedown="ev('Footer','Hot Songs Artist: Taylor Swift');">Taylor Swift</a>
+</li>	</ul>
+<ul class="clearfix">	</ul>
+</div>
+<div class="hr"></div>
+<div class="footer-iframe-wrapper">
+<script type="text/psajs" orig_index="4">//<![CDATA[
+(function(){var b="pagespeed_iframe",c="iframe";window.pagespeed=window.pagespeed||{};var g=window.pagespeed,h=function(){};h.prototype.a=function(){var a=document.getElementsByTagName(b);if(0<a.length){for(var a=a[0],f=document.createElement(c),d=0,e=a.attributes,k=e.length;d<k;++d)f.setAttribute(e[d].name,e[d].value);a.parentNode.replaceChild(f,a)}};h.prototype.convertToIframe=h.prototype.a;g.b=function(){g.deferIframe=new h};g.deferIframeInit=g.b;})();
+pagespeed.deferIframeInit();
+//]]></script><pagespeed_iframe frameborder="0" id="footer-iframe" src="http://www.metrolyrics.com/en/iframes/footer.html" allowtransparency="yes" scrolling="no"><script pagespeed_orig_type="text/javascript" type="text/psajs" orig_index="5">
+pagespeed.deferIframe.convertToIframe();</script></pagespeed_iframe>
+</div>
+</div>
+</footer>
+</div>
+<div id="fpo" class="ng-hide" ng-controller="fpOverlayCtrl" ng-show="$root.fpo.visible" ng-click="$root.fpo.close()">
+<div stop-event="click mouseup mousedown">
+<ng-include src="$root.fpo.templateUrl"></ng-include>
+</div>
+</div>
+</div>
+<div id="interstitial" style="display:none"></div>
+<script pagespeed_no_defer="" id='req-config'>var requirejs={paths:{baseUrl:'/js/desktop',lib:'/js/lib',vendor:'/js/vendor',jquery:'//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min',facebook:'//connect.facebook.net/en_US/all',youtube:'https://www.youtube.com/iframe_api?noext'},shim:{'facebook':{exports:'FB'},'youtube':{exports:'YT'},'domReady':{exports:'domReady'},'angular':{deps:['jquery'],exports:'angular'},'vendor/jquery.slimscroll':{deps:['jquery'],exports:'jQuery.fn.slimScroll'}},waitSeconds:10};requirejs.paths.angular='//ajax.googleapis.com/ajax/libs/angularjs/1.2.18/angular.min';</script>
+<script pagespeed_no_defer="" src="http://www.metrolyrics.com/js/vendor/require-v5.2.9.2.min.js"></script>
+<script src="http://www.metrolyrics.com/js/desktop/artistlyrics-v5.2.9.2.min.js" type="text/psajs" orig_index="6"></script>
+<script type="text/psajs" orig_index="7">googletag.cmd.push(function(){googletag.display('div-gpt-ad-skin');googletag.display('div-gpt-ad-leaderboard');googletag.display('div-gpt-ad-mpu');googletag.display('div-gpt-ad-mpu_middle');googletag.display('div-gpt-ad-leaderboard_bottom');googletag.display('interstitial');});</script>
+<script type="text/psajs" orig_index="8">var b=document.createElement("script");b.type="text/javascript";b.async=!0;var c=["http://988e3b255aa765925d6b-662669ee3e2497ef5de1fff529ecac92.r54.cf2.rackcdn.com","https://1a1d70f8e97771f9fab1-662669ee3e2497ef5de1fff529ecac92.ssl.cf2.rackcdn.com"];b.src=("https:"==document.location.protocol?c[1]:c[0])+"/ba3zi27t2tcg.js";var d=document.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d);</script>	<script type='text/x-gubedml' id='gubedml'>eyJTZXJ2ZXIiOiJ3d3cubWV0cm9seXJpY3MuY29tIiwiSG9zdG5hbWUiOiJ3czgxLnBoeDEuY2JzaWcubmV0IiwiR2VuZXJhdGlvbiBEYXRlIjoiVGh1LCAxOSBGZWIgMjAxNSAxOTo0NzoxMSAtMDgwMCIsIlN0YXJ0IFRpbWUiOjE0MjQ0MDQwMzEsIkVuZCBUaW1lIjoxNDI0NDA0MDMxLCJSZW5kZXIgU2Vjb25kcyI6MCwiU3RhcnQgbWljcm9zZWNvbmRzIjoxNDI0NDA0MDMxLjYxNTEsIkVuZCBtaWNyb3NlY29uZHMiOjE0MjQ0MDQwMzEuNjU1OCwiUmVuZGVyIG1pY3Jvc2Vjb25kcyI6MC4wNDA2NzQ5MjQ4NTA0NjQsIldpZ2V0IENvbmZpZyI6eyJ5YWhvb1JlY29tbWVuZCA6IFlhaG9vIjp7ImhvbWVwYWdlIjp0cnVlLCJsYXlvdXQiOiJSZWNvbW1lbmQiLCJkaXZJRCI6IjMzZDVhZTMwLWI4NTYtMzdlYS1iZjAyLTc0MzU2N2Y2Y2U4OSIsInJlZmluZWRMaW5rcyI6ZmFsc2V9LCJ2aWRlb0dhbGxlcnkgOiBWaWRlb0dhbGxlcnkiOnsiYXJ0aXN0aWQiOjExNjQsImRpc2FibGVMYXp5TG9hZCI6dHJ1ZX0sIm11c2ljTmV3cyA6IE11c2ljTmV3cyI6eyJsYXlvdXQiOiJ4LXNtYWxsIiwibGltaXQiOjUsInRhZyI6MTE2NCwiZ2VucmVpZCI6IjMiLCJibGVuZGVkIjp0cnVlLCJ0eXBlIjoiYXJ0aXN0IiwiZGlzYWJsZUxhenlMb2FkIjp0cnVlfSwiYXJ0aXN0SGVhZGVyIDogQXJ0aXN0SGVhZGVyIjp7ImFjdGl2ZSI6Imx5cmljcyIsImFydGlzdGlkIjoxMTY0fSwiaGVyb0ltYWdlQmFja2dyb3VuZCA6IEhlcm9JbWFnZUJhY2tncm91bmQiOnsiYXJ0aXN0aWQiOjExNjR9LCJwYWdpbmF0aW9uIDogUGFnaW5hdGlvbiI6eyJ1cmwiOiJiZWUtZ2Vlcy1seXJpY3MiLCJpdGVtQ291bnQiOjYwMCwibGltaXQiOjc1LCJwYWdlTnVtIjpudWxsLCJub1BhZ2VVcmwiOiJiZWUtZ2Vlcy1hbHBhZ2UtIiwibWluUGFnZU51bSI6MCwicGFnaW5nTGltaXQiOjEwfSwiYXJ0aXN0Q29udGVudERyaXZlciA6IENvbnRlbnREcml2ZXIiOnsiYXJ0aXN0aWQiOjExNjQsImdlbnJlaWQiOiIzIiwibGF5b3V0IjoiU21hbGwifSwiYWRkTHlyaWNzIDogTHlyaWNEcml2ZXIiOnsiYXJ0aXN0aWQiOjExNjQsImdlbnJlaWQiOiIzIiwibGF5b3V0IjoiQWRkTHlyaWNzIn0sImZvb3RlckxpbmtzIjoiRm9vdGVyTGlua3MifX0=</script>
+</body>
+</html>
+<script type="text/javascript" src="/mod_pagespeed_static/js_defer.IRaJtkfeqL.js"></script>

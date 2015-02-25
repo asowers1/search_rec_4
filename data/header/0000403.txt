@@ -1,0 +1,9 @@
+Content-Type: text/html; charset=utf-8
+Content-Language: en-us
+Server: Microsoft-IIS/7.5
+Set-Cookie: IDENTITY=false; HttpOnly;domain=.oldies.com;expires=Fri, 22-May-2015 01:28:00 GMT;path=/
+Set-Cookie: CHIPS=guest;domain=.oldies.com;expires=Fri, 22-May-2015 01:28:00 GMT;path=/
+Date: Sat, 21 Feb 2015 01:28:00 GMT
+Connection: close
+Content-Length: 226216
+

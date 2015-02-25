@@ -1,0 +1,1275 @@
+	<!DOCTYPE html><!--[if lt IE 8]>	 <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]--><!--[if IE 8]>	  <html class="no-js lt-ie9" lang="en-US"> <![endif]--><!--[if IE 9]>	<html class="no-js ie-9" lang="en-US"> <![endif]--><!--[if gt IE 9]><!--> <html class="no-js" lang="en-US"> <!--<![endif]--><!-- THIS IS OVERLORD --><head><meta http-equiv="X-UA-Compatible" content="IE=11; IE=10; IE=9; IE=8; IE=EDGE" /><script async type="text/javascript" src="http://kinja.com/api/profile/assets/javascripts/sso.js"></script>
+	<script type="text/javascript">
+		var _sf_startpt=(new Date()).getTime();
+		if (typeof(performance) !== 'undefined' && typeof performance.now === 'function') {
+			var _kinjaperf_start = performance.now();
+		}
+	</script>
+		
+	<script type="text/javascript">
+		(function () {
+		  var w = typeof window != 'undefined' ? window : exports,
+			  marks = [];
+		  w.performance || (w.performance = {});
+		  w.performance.now || (
+			w.performance.now = performance.now || performance.webkitNow ||
+									 performance.msNow || performance.mozNow);
+		  if (!w.performance.now){
+			var s = Date.now ? Date.now() : +(new Date());
+			if (performance.timing && performance.timing)
+			  s = performance.timing.navigationStart
+			w.performance.now = (function(){
+			  var n = Date.now ? Date.now() : +(new Date());
+			  return n-s;
+			});
+		  }
+		  w.performance.mark || (
+		  w.performance.mark =
+			w.performance.webkitMark ? w.performance.webkitMark :
+			(function (l) {
+			  marks.push({'name': l, 'entryType': 'mark', 'startTime': w.performance.now(), 'duration':0 });
+			}));
+		  w.performance.getEntriesByType || (
+		  w.performance.getEntriesByType =
+			w.performance.webkitGetEntriesByType ? w.performance.webkitGetEntriesByType :
+			(function (t) {
+			  return t == 'mark' ? marks : [];
+			}));
+		  w.performance.clearMarks || (
+			w.performance.clearMarks = w.performance.webkitClearMarks ? w.performance.webkitClearMarks :
+			(function () {
+			  marks = [];
+			}));
+		  w.markUserTime = function(l) {
+			setTimeout(function() {
+				if (typeof w.performance.mark === 'function') {
+					w.performance.mark(l);
+				}
+				if (w.console && w.console.timeStamp) {
+					w.console.timeStamp(l);
+				}
+			}, 0);
+		  };
+
+		}());
+	</script>
+		<script>
+	window.Krux || ((Krux = function () {
+		Krux.q.push(arguments);
+	}).q = []);
+	(function () {
+		function retrieve(n) {
+			var m, k = 'kx' + n;
+			if (window.localStorage) {
+				return window.localStorage[k] || "";
+			} else if (navigator.cookieEnabled) {
+				m = document.cookie.match(k + '=([^;]*)');
+				return (m && unescape(m[1])) || "";
+			} else {
+				return '';
+			}
+		}
+		Krux.user = retrieve('user');
+		Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+	})();
+	</script><!-- Included CSS Files --><!--[if IE 9]><link rel="stylesheet" href="http://c.kinja-static.com/assets/stylesheets/tiger-split-99873fee71b79bc3cf7843ac42f816e7.css"><![endif]--><!--[if !IE]>--><link rel="stylesheet" href="http://c.kinja-static.com/assets/stylesheets/tiger-45c2074d358bc4a7d09fe70c84e586d6.css"><!--<![endif]--><meta name="dynamic-stylesheet" id="editor-css-url" content="http://c.kinja-static.com/assets/stylesheets/editor-3ab5e6525080c481c52ef6885e1b7c4c.css"><!-- Site specific colors -->	<style type="text/css"></style><meta name="google-site-verification" content="null" /><!-- IE Fix for HTML5 Tags --><!--[if lte IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--><meta charset="utf-8" /><!-- Set the viewport width to device width for mobile --><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0,maximum-scale=10.0" /><!-- robots are not welcome now --><meta name="ROBOTS" content="INDEX, FOLLOW" /><title>The Top 26 Greatest Pink Floyd Songs, ranked</title><!-- favicon and touch icons --><link rel="shortcut icon" href="http://i.kinja-img.com/gawker-media/image/upload/s--SgpvPq2A--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/193eup91tpj7vjpg.jpg" /><link rel="apple-touch-icon" href="http://i.kinja-img.com/gawker-media/image/upload/s--JmnaUd6z--/c_fill,fl_progressive,g_center,h_200,q_80,w_200/193eup91tpj7vjpg.jpg" /><meta name="msapplication-square70x70logo" content="http://i.kinja-img.com/gawker-media/image/upload/s--SgpvPq2A--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/193eup91tpj7vjpg.jpg" /><meta name="msapplication-square150x150logo" content="http://i.kinja-img.com/gawker-media/image/upload/s--JmnaUd6z--/c_fill,fl_progressive,g_center,h_200,q_80,w_200/193eup91tpj7vjpg.jpg" /><!-- rss --><link rel="alternate" type="application/rss+xml" title="Sidespin - All stories" href="http://sidespin.kinja.com/rss" /><!-- Open Graph/Facebook headers --><meta name="keywords" content="Sidespin" /><meta name="news_keywords" content="Sidespin" /><link rel="canonical" href="http://sidespin.kinja.com/the-top-26-greatest-pink-floyd-songs-ranked-1457763082" /><meta name="twitter:url" content="http://sidespin.kinja.com/the-top-26-greatest-pink-floyd-songs-ranked-1457763082" /><meta property="og:title" content="The Top 26 Greatest Pink Floyd Songs, ranked" /><meta property="og:type" content="article" /><meta name="twitter:image" content="http://i.kinja-img.com/gawker-media/image/upload/s--P5tjD7Yd--/zbvepzvfcq3gytzkjiqh.jpg" /><meta property="og:image" content="http://i.kinja-img.com/gawker-media/image/upload/s--P5tjD7Yd--/zbvepzvfcq3gytzkjiqh.jpg" /><meta name="author" content="FreemanMcNeil" /><meta property="og:url" content="http://sidespin.kinja.com/the-top-26-greatest-pink-floyd-songs-ranked-1457763082" /> <!-- permalink --><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@kinja"><meta name="twitter:title" content="The Top 26 Greatest Pink Floyd Songs, ranked"><meta name="twitter:description" content="If I were to pick one band to consider my favorite, Iâd have to go with Pink Floyd. I have always loved their music and particularly their lyrics. I was fortunate enough to see them play live in the 1990s and I saw Roger Waters perform The Wall live, and that ranks as the greatest concert Iâve ever seen. Inspired by Iron Mike Gallego, and his incredibly spot-on and outstanding piece on ranking Beastie Boys songs, I present to you the 26 greatest Pink Floyd songs. I really really recommend giving these a listen."><meta name="twitter:creator"><meta property="og:description" content="If I were to pick one band to consider my favorite, Iâd have to go with Pink Floyd. I have always loved their music and particularly their lyrics. I was fortunate enough to see them play live in the 1990s and I saw Roger Waters perform The Wall live, and that ranks as the greatest concert Iâve ever seen. Inspired by Iron Mike Gallego, and his incredibly spot-on and outstanding piece on ranking Beastie Boys songs, I present to you the 26 greatest Pink Floyd songs. I really really recommend giving these a listen." /><meta name="description" content="If I were to pick one band to consider my favorite, Iâd have to go with Pink Floyd. I have always loved their music and particularly their lyrics. I was fortunate enough to see them play live in the 1990s and I saw Roger Waters perform The Wall live, and that ranks as the greatest concert Iâve ever seen. Inspired by Iron Mike Gallego, and his incredibly spot-on and outstanding piece on ranking Beastie Boys songs, I present to you the 26 greatest Pink Floyd songs. I really really recommend giving these a listen." /><meta property="og:locale" content="en_US" /><meta property="og:site_name" content="Sidespin" /><meta property="fb:app_id" content="36368793975"/><meta name="kinja:mode" content="live" /><meta name="kinja:page-type" content="permalink" /></head><body class="sidespin permalink en-US no-ads f_ads_controller_on f_amazon_matchbuy_on f_amazon_selective_clientside_render_on f_analyticstracking_on f_annotationsapiclient_on f_biztools_blogname_on f_black_search_icon_on f_cda_on_hash_on f_cedexis_on f_coredecorators_on f_coreinsets_on f_corereplies_on f_crossdomainanalytics_on f_direct_core_recommend_on f_disable_ads_portrait_on f_dynamic_ad_slots_on f_editor_timezone_fix_on f_extendedflag_on f_foobar_foo f_footer_new_chartbeat_on f_gnc_on f_gns_on f_gnx_on f_grecaptcha_on f_groupchats_rendering_performance_on f_hide_pending_replies_on f_iframe_defer_on f_iframe_resize_on f_json_post_sync_on f_large_post_performance_on f_leftrail_contained_on f_limit_draft_controls_on f_moatads_headertag_on f_moatads_promoted_on f_mobile_ad_prototypes_on f_mobile_ad_prototypes_permalink_on f_multioauth_on f_new_editor_css_on f_new_editor_message_on f_newbuttons_on f_newfollowlists_on f_no_more_privateview_index_on f_no_more_privateview_index_again_on f_notificationapiclient_on f_pinterest_on f_postflagging_on f_promoted_touch_on f_purge_permalink_on_update_on f_raven_on f_read_only_js_post_on f_recommended_footer_on f_redactor_on f_remove_spinner_on f_scan_for_companies_on f_sha_amazon_links_subtags_on f_sidebar_top_uses_subdomain_on f_simplereach_expanded_on f_throttle_on f_throttle_measuring_off f_throttle_test_foo_lorem f_twitter_embed_fix_on f_uidimages_on f_unify_amazon_insets_permalink_on f_universalanalytics_on f_userstats_on f_viewstats_via_service_on k_liveblog_appRevision_1 k_liveblog_pollIntervalMillis_10000 k_maintenance_off" data-timezone-offset="-18000000"><div class="success-messages" id="js_success-box-container"></div>	
+	<script type="text/javascript">
+		var readOnlyRequest;
+		var cn = "read-only";
+		var cacheBusterParam = "?cb=" + Math.floor(Date.now() / 60000); // update every minute
+		var setReadOnly = function () {
+			document.body.className = (document.body.className === '') ? cn : document.body.className + ' ' + cn;
+		};
+		if (window.XMLHttpRequest) {
+			readOnlyRequest = new XMLHttpRequest();
+		} else if (window.ActiveXObject) {
+			readOnlyRequest = new ActiveXObject("Microsoft.XMLHTTP");
+		}
+		readOnlyRequest.onreadystatechange = function() {
+			if (readOnlyRequest.readyState == 4 && readOnlyRequest.status >= 500 && readOnlyRequest.status < 600) {
+				setReadOnly();
+			}
+		};
+    	readOnlyRequest.open('GET', "/ajax/readOnlyMode" + cacheBusterParam);
+    	readOnlyRequest.send();
+	</script>
+	<div id="js_off-canvas-wrap" class="off-canvas-wrap" data-offcanvas><div class="inner-wrap"><aside class="left-off-canvas-menu show-for-medium-down proxima nav-dropdown main-menu">	<div id="js_blogmenu--offcanvas"><div class="search show-for-medium-down">	<form method="GET" class="search search-simple" action="/search" onsubmit="window.ga('send', 'event', 'Search', 'Submit', 'permalink');"><div class="input-with-icon"><span class="icon icon-search"></span><input type="text" placeholder="Search" name="q" class="mbn" data-focus-on-display/></div></form></div><div class="divider show-for-medium-down"></div><div class="js_login-links show-for-medium-down"></div><ul class="about-kinja"><li class="nohighlight"><span class="">Powered by</span><a href="http://kinja.com" class="logo-kinja" data-ga="[Kinja Menu, Kinja.com Click, js_pageType]"><h1 class="kinja-title proxima">Kinja</h1></a></li></ul><div class="divider"></div>	<ul class="show-for-medium-down"><li class="add js_follow-controls js_follow-blog-controls js_follow-buttons follow-controls--blog-menu" data-blogid="452781546"><a href="#" class="js_followblogforuser proxima"><span class="icon icon-plus"></span> <span>Follow Sidespin</span></a><a href="#" class="js_unfollowblogforuser proxima hide"><span class="icon icon-checkmark"></span> <span>Followed</span></a></li><li></li></ul><ul><li class="title">Blogs you may like</li>	<li><a href="http://deadspin.com" data-ga="[Kinja Menu, Blogs You May Like Click, Deadspin]"><span class="icon icon-prepend icon-sprite site-icon site-icon-deadspin"></span>Deadspin</a></li><li><a href="http://gawker.com" data-ga="[Kinja Menu, Blogs You May Like Click, Gawker]"><span class="icon icon-prepend icon-sprite site-icon site-icon-gawker"></span>Gawker</a></li><li><a href="http://gizmodo.com" data-ga="[Kinja Menu, Blogs You May Like Click, Gizmodo]"><span class="icon icon-prepend icon-sprite site-icon site-icon-gizmodo"></span>Gizmodo</a></li><li><a href="http://io9.com" data-ga="[Kinja Menu, Blogs You May Like Click, io9]"><span class="icon icon-prepend icon-sprite site-icon site-icon-io9"></span>io9</a></li><li><a href="http://jalopnik.com" data-ga="[Kinja Menu, Blogs You May Like Click, Jalopnik]"><span class="icon icon-prepend icon-sprite site-icon site-icon-jalopnik"></span>Jalopnik</a></li><li><a href="http://jezebel.com" data-ga="[Kinja Menu, Blogs You May Like Click, Jezebel]"><span class="icon icon-prepend icon-sprite site-icon site-icon-jezebel"></span>Jezebel</a></li><li><a href="http://kotaku.com" data-ga="[Kinja Menu, Blogs You May Like Click, Kotaku]"><span class="icon icon-prepend icon-sprite site-icon site-icon-kotaku"></span>Kotaku</a></li><li><a href="http://lifehacker.com" data-ga="[Kinja Menu, Blogs You May Like Click, Lifehacker]"><span class="icon icon-prepend icon-sprite site-icon site-icon-lifehacker"></span>Lifehacker</a></li><li><a href="http://sploid.gizmodo.com/" data-ga="[Kinja Menu, Blogs You May Like Click, Sploid]"><span class="icon icon-prepend icon-sprite site-icon site-icon-sploid"></span>Sploid</a></li></ul></div><div class="divider"></div></aside><aside class="right-off-canvas-menu show-for-medium-down proxima nav-dropdown">	<dl class="tabs row" data-tab><dd class="js_username-tab tab-title active small-6 columns"><a href="#js_usermenu--offcanvas" class="js_username">Username</a></dd><dd class="js_notif-tab tab-title small-6 columns"><a href="#js_notifications--offcanvas">Notifications</a></dd></dl><div class="tabs-content"><div class="content active" id="js_usermenu--offcanvas"><div class="divider"></div></div><div class="content notif-menu js_notif-panel" id="js_notifications--offcanvas"><div class="divider"></div></div></div></aside><a class="exit-off-canvas"></a>	<!--  md5!  --><div class="js_top-nav-wrap top-nav fixed shadow-bottom"><nav class="js_top-nav row proxima"><div class="header flex-container horizontal-nowrap"><div class="flex-item off-canvas-toggle__wrapper show-for-medium-down"><a class="left-off-canvas-toggle menu-square" data-ga="[Kinja Menu, Menu Click, js_pageType]"><span class="icon-hamburger"><span></span><span></span><span></span></span></a></div><div class="flex-item kinja-title__wrapper hide-for-medium-down"><a data-dropdown="global-blog" class="js_menu-button"><span class="menu-square menu-square--desktop" data-ga="[Kinja Menu, Menu Click, js_pageType]"><span class="icon-hamburger--black icon-hamburger"><span></span><span></span><span></span></span></span><span class="menu-label js_globalnav-menu-label" data-ga="[Kinja Menu, Menu Click, js_pageType]">Discover more</span></a></div><div class="blog-title-region js_blog-title-region flex-item flex-grow" data-logo-src="" data-image-asset-path="http://c.kinja-static.com/assets/images/"></div><div class="flex-item header-right"><div class="right user-bar js_right-user-bar"></div></div></div><div class="proxima f-dropdown content nav-dropdown main-menu hide-for-medium-down" id="global-blog" data-dropdown-content><div id="js_blogmenu--dropdown"><div class="search show-for-medium-down">	<form method="GET" class="search search-simple" action="/search" onsubmit="window.ga('send', 'event', 'Search', 'Submit', 'permalink');"><div class="input-with-icon"><span class="icon icon-search"></span><input type="text" placeholder="Search" name="q" class="mbn" data-focus-on-display/></div></form></div><div class="divider show-for-medium-down"></div><div class="js_login-links show-for-medium-down"></div><ul class="about-kinja"><li class="nohighlight"><span class="">Powered by</span><a href="http://kinja.com" class="logo-kinja" data-ga="[Kinja Menu, Kinja.com Click, js_pageType]"><h1 class="kinja-title proxima">Kinja</h1></a></li></ul><div class="divider"></div>	<ul class="show-for-medium-down"><li class="add js_follow-controls js_follow-blog-controls js_follow-buttons follow-controls--blog-menu" data-blogid="452781546"><a href="#" class="js_followblogforuser proxima"><span class="icon icon-plus"></span> <span>Follow Sidespin</span></a><a href="#" class="js_unfollowblogforuser proxima hide"><span class="icon icon-checkmark"></span> <span>Followed</span></a></li><li></li></ul><ul><li class="title">Blogs you may like</li>	<li><a href="http://deadspin.com" data-ga="[Kinja Menu, Blogs You May Like Click, Deadspin]"><span class="icon icon-prepend icon-sprite site-icon site-icon-deadspin"></span>Deadspin</a></li><li><a href="http://gawker.com" data-ga="[Kinja Menu, Blogs You May Like Click, Gawker]"><span class="icon icon-prepend icon-sprite site-icon site-icon-gawker"></span>Gawker</a></li><li><a href="http://gizmodo.com" data-ga="[Kinja Menu, Blogs You May Like Click, Gizmodo]"><span class="icon icon-prepend icon-sprite site-icon site-icon-gizmodo"></span>Gizmodo</a></li><li><a href="http://io9.com" data-ga="[Kinja Menu, Blogs You May Like Click, io9]"><span class="icon icon-prepend icon-sprite site-icon site-icon-io9"></span>io9</a></li><li><a href="http://jalopnik.com" data-ga="[Kinja Menu, Blogs You May Like Click, Jalopnik]"><span class="icon icon-prepend icon-sprite site-icon site-icon-jalopnik"></span>Jalopnik</a></li><li><a href="http://jezebel.com" data-ga="[Kinja Menu, Blogs You May Like Click, Jezebel]"><span class="icon icon-prepend icon-sprite site-icon site-icon-jezebel"></span>Jezebel</a></li><li><a href="http://kotaku.com" data-ga="[Kinja Menu, Blogs You May Like Click, Kotaku]"><span class="icon icon-prepend icon-sprite site-icon site-icon-kotaku"></span>Kotaku</a></li><li><a href="http://lifehacker.com" data-ga="[Kinja Menu, Blogs You May Like Click, Lifehacker]"><span class="icon icon-prepend icon-sprite site-icon site-icon-lifehacker"></span>Lifehacker</a></li><li><a href="http://sploid.gizmodo.com/" data-ga="[Kinja Menu, Blogs You May Like Click, Sploid]"><span class="icon icon-prepend icon-sprite site-icon site-icon-sploid"></span>Sploid</a></li></ul></div></div><div class="proxima f-dropdown nav-dropdown content notif-menu" id="js_notifications--dropdown" data-dropdown-content></div><div class="js_global-user scrollable-container noskimlinks noskimwords"><div class="proxima f-dropdown nav-dropdown content user-menu user-menu--mobile" id="js_usermenu--dropdown" data-dropdown-content></div></div></nav></div><div class="row page js_page"><div class="large-4 columns sidebar hide-for-medium-down"><div class="sidebar-container js_sidebar-actual-container">		<div class="sidebar-content js_sidebar-container js_sidebar"><section id="js_leftrailmodule--popular" class="leftrailmodule js_leftrailmodule leftrailmodule--popular">	<div class="strapline proxima text-upper text-micro strapline--leftrail"><span class="strapline-bg">Written by <a href="//freemanmcneil.kinja.com/">FreemanMcNeil</a></span></div><div class="js_related-module "><ol class="leftrail-list leftrail-list--popular js_leftrail-list">	<li class="row leftrail-item leftrail-item--popular js_leftrail-item recommended"><div class="row"><div class="large-12 columns leftrail-image-wrap"><a href="http://sidespin.kinja.com/the-band-artist-i-grew-up-with-beastie-boys-1686768329" data-ga="[Popular stories click, position 1, js_pageType]"><img class="leftrail-image" src="http://i.kinja-img.com/gawker-media/image/upload/s--HPwcKuhI--/c_fill,fl_progressive,g_center,h_180,q_80,w_320/y17vlzrbrtnm6z70vd5b.jpg" alt="The Band/Artist I Grew Up With: Beastie Boys" /></a></div></div><div class="row"><div class="large-12 columns"><h6 class="headline"><a href="http://sidespin.kinja.com/the-band-artist-i-grew-up-with-beastie-boys-1686768329" data-ga="[Popular stories click, position 1, js_pageType]">The Band/Artist I Grew Up With: Beastie Boys</a></h6></div></div><div class="row"><div class="large-12 columns"><div class="leftrail-separator"></div></div></div></li>	<li class="row leftrail-item leftrail-item--popular js_leftrail-item recommended"><div class="row"><div class="large-12 columns leftrail-image-wrap"><a href="http://sidespin.kinja.com/william-carlos-williams-imagist-1685485241" data-ga="[Popular stories click, position 2, js_pageType]"><img class="leftrail-image" src="http://i.kinja-img.com/gawker-media/image/upload/s--2FP3ncMQ--/c_fill,fl_progressive,g_center,h_180,q_80,w_320/reywsresjbcsa2fsfric.jpg" alt="William Carlos Williams - Imagist" /></a></div></div><div class="row"><div class="large-12 columns"><h6 class="headline"><a href="http://sidespin.kinja.com/william-carlos-williams-imagist-1685485241" data-ga="[Popular stories click, position 2, js_pageType]">William Carlos Williams - Imagist</a></h6></div></div><div class="row"><div class="large-12 columns"><div class="leftrail-separator"></div></div></div></li>	<li class="row leftrail-item leftrail-item--popular js_leftrail-item recommended"><div class="row"><div class="large-12 columns leftrail-image-wrap"><a href="http://sidespin.kinja.com/the-case-for-motley-crue-1678702215" data-ga="[Popular stories click, position 3, js_pageType]"><img class="leftrail-image" src="http://i.kinja-img.com/gawker-media/image/upload/s--tCPPisLM--/c_fill,fl_progressive,g_center,h_180,q_80,w_320/ziqbc2o7jgqqujvnmfcm.jpg" alt="The Case for MÃ¶tleyÂ CrÃ¼e" /></a></div></div><div class="row"><div class="large-12 columns"><h6 class="headline"><a href="http://sidespin.kinja.com/the-case-for-motley-crue-1678702215" data-ga="[Popular stories click, position 3, js_pageType]">The Case for MÃ¶tleyÂ CrÃ¼e</a></h6></div></div><div class="row"><div class="large-12 columns"><div class="leftrail-separator"></div></div></div></li></ol></div></section>	<section id="js_leftrailmodule--preloadedad" class="js_contained-ad-container contained-ad-container leftrailmodule js_leftrailmodule invisible"><div class="contained-ad-wrapper js_contained-ad-wrapper">		<div class="ad-unit ad-300x600 default desktop js_ad-unit" data-cb-ad-id="ad_300x600_default"><div class="ad-container js_ad-container"style="display: none;"id="ad-container-92145185" data-size="300x600" data-random="92145185" data-slot="default" data-zone-class="Zone_300x" data-dfp-sz="300x250,300x600"></div></div></div></section></div></div></div><script>markUserTime('Content - Before main column');</script><div class="large-8 columns main-column">	<div id="fb-root"></div><div class="row content-header"><div class="js_site-header site-header medium-7 hide-for-medium-down columns"><a href="/" class="site-logo mln" title="Sidespin"><div class="header-title proxima">Sidespin</div></a></div><div class="hide-for-medium-down medium-4 small-2 columns pln"><div class="add js_follow-controls js_follow-blog-controls js_follow-buttons follow-controls right header-action" data-blogid="452781546"><a href="#" class="js_followblogforuser follow-controls__link proxima" title="Follow Sidespin"><span class="icon icon-plus"></span> <span class="hide-for-medium-down">Follow</span></a><a href="#" class="js_unfollowblogforuser proxima follow-controls__link hide" title="Unfollow Sidespin"><span class="icon icon-checkmark"></span> <span class="hide-for-medium-down">Followed</span></a></div></div></div>		<section class="branch-wrapper ">		<div class="js_ie-message hide"></div><div id="editorplaceholder" class="editorplaceholder"></div><div class="post-wrapper js_post-wrapper "  >	<article class="post hentry js_post_item status-published post-item-permalink commented js_amazon_module" data-id="1457763082" id="post_1457763082" data-model="%7B%22id%22%3A1457763082%2C%22permalink%22%3A%22http%3A%2F%2Fsidespin.kinja.com%2Fthe-top-26-greatest-pink-floyd-songs-ranked-1457763082%22%2C%22permalinkPath%22%3A%22%2Fthe-top-26-greatest-pink-floyd-songs-ranked-1457763082%22%2C%22isBlip%22%3Afalse%2C%22isRecommended%22%3Afalse%2C%22publishTimeMillis%22%3A1383517260132%2C%22publishTime%22%3A%7B%22timestamp%22%3A1383517260132%2C%22timezone%22%3A%22America%2FNew_York%22%2C%22MdyHm%22%3A%2211%2F03%2F2013%2017%3A21%22%2C%22MdyatHm%22%3A%2211%2F03%2F2013%20at%2017%3A21%22%2C%22rfc822%22%3A%22Sun%2C%203%20Nov%202013%2022%3A21%3A00%20GMT%22%2C%22yMdHmsZ%22%3A%222013-11-03T17%3A21%3A00-05%3A00%22%2C%22hmma%22%3A%225%3A21pm%22%2C%22day%22%3A%22Sunday%22%2C%22Mddyyhmma%22%3A%2211%2F03%2F13%205%3A21pm%22%2C%22fullDate%22%3A%22November%203%2C%202013%22%2C%22relative%22%3A%7B%22amount%22%3Anull%2C%22type%22%3A%22greaterthanweek%22%7D%7D%2C%22status%22%3A%22PUBLISHED%22%2C%22author%22%3A%7B%22id%22%3A%225837445542701485674%22%2C%22screenName%22%3A%22FreemanMcNeil%22%2C%22displayName%22%3A%22FreemanMcNeil%22%2C%22defaultBlogId%22%3A118335501%2C%22defaultBlog%22%3Anull%2C%22avatar%22%3A%7B%22id%22%3A%2218ihx1eglwl8fjpg%22%2C%22format%22%3A%22jpg%22%7D%7D%2C%22authorId%22%3A%225837445542701485674%22%2C%22byline%22%3A%22%22%2C%22isStarter%22%3Atrue%2C%22blogId%22%3A%5B118335501%2C452781546%5D%2C%22defaultBlogId%22%3A452781546%2C%22authorBlogId%22%3A118335501%2C%22authorBlogName%22%3A%22freemanmcneil%22%2C%22allowReplies%22%3Atrue%2C%22isBillboardPost%22%3Afalse%2C%22liveBlog%22%3Afalse%2C%22headline%22%3A%22The%20Top%2026%20Greatest%20Pink%20Floyd%20Songs%2C%20ranked%22%2C%22adZone%22%3A%22%22%2C%22tagUrlNames%22%3A%22%22%2C%22replyCount%22%3A48%2C%22sharedPostId%22%3Anull%2C%22images%22%3A%5B%7B%22src%22%3A%22http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--BV2yGR_8--%2Fc_fit%2Cfl_progressive%2Cq_80%2Cw_470%2Fzbvepzvfcq3gytzkjiqh.jpg%22%2C%22uri%22%3A%22http%3A%2F%2Fimg.gawkerassets.com%2Fimg%2F1958s9wb3qjvfjpg%2Foriginal.jpg%22%2C%22id%22%3A%22zbvepzvfcq3gytzkjiqh%22%2C%22width%22%3A470%2C%22height%22%3A311%2C%22format%22%3A%22jpg%22%2C%22recommended%22%3Afalse%7D%5D%2C%22videos%22%3A%5B%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2FnxdQF4VUGng%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FnxdQF4VUGng%2F2.jpg%22%2C%22id%22%3A%22hfcuwvhjfkgm3u2mcwtp%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FnxdQF4VUGng%2F1.jpg%22%2C%22id%22%3A%22ex3sghimynkgpqrfoxiv%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FnxdQF4VUGng%2Fhqdefault.jpg%22%2C%22id%22%3A%22usr9xah27ha385ojea1i%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FnxdQF4VUGng%2Fmqdefault.jpg%22%2C%22id%22%3A%22my5zr6qggtyxnw71t8uy%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FnxdQF4VUGng%2Fdefault.jpg%22%2C%22id%22%3A%22amfq7i0o5ij0pwminxqy%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FnxdQF4VUGng%2F3.jpg%22%2C%22id%22%3A%22xbuaujpgcs4lvr5g1gs7%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2FklKCeFDnDiI%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2F8RbXIMZmVv8%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F8RbXIMZmVv8%2F2.jpg%22%2C%22id%22%3A%22etrwzpktsqgx7rcsyobr%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F8RbXIMZmVv8%2Fdefault.jpg%22%2C%22id%22%3A%22ev6v0h7mtbswzhs9hbmv%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F8RbXIMZmVv8%2Fmqdefault.jpg%22%2C%22id%22%3A%22bag756z6r9nfonxqkhhi%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F8RbXIMZmVv8%2F3.jpg%22%2C%22id%22%3A%22jqkl2wgms4yw9siiegkm%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F8RbXIMZmVv8%2Fhqdefault.jpg%22%2C%22id%22%3A%22ucuqfhhmbkvzsj70vjja%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F8RbXIMZmVv8%2F1.jpg%22%2C%22id%22%3A%22cgw65x7xefzbzdp3ax66%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2Fy7EpSirtf_E%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2Fy7EpSirtf_E%2F2.jpg%22%2C%22id%22%3A%22gz7tfkytuerj9zp3olet%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2Fy7EpSirtf_E%2Fdefault.jpg%22%2C%22id%22%3A%22yxwq9ayu5iujqnkbptt9%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2Fy7EpSirtf_E%2F1.jpg%22%2C%22id%22%3A%22wx7fwb5fbjnnci605yv1%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2Fy7EpSirtf_E%2Fmqdefault.jpg%22%2C%22id%22%3A%22jkyiopn2qlhas6cr6gxn%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2Fy7EpSirtf_E%2F3.jpg%22%2C%22id%22%3A%22jngxlm3hnql13k7gj7ds%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2Fy7EpSirtf_E%2Fsddefault.jpg%22%2C%22id%22%3A%22wcsjihys4f9gcyah7xtf%22%2C%22width%22%3A640%2C%22height%22%3A480%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2Fy7EpSirtf_E%2Fhqdefault.jpg%22%2C%22id%22%3A%22np9tnoeedpqcretqwbqm%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2FPGwPSPIhohk%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FPGwPSPIhohk%2Fdefault.jpg%22%2C%22id%22%3A%22qzytwrdquptbjskmxcvr%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FPGwPSPIhohk%2F2.jpg%22%2C%22id%22%3A%22an23m10f7a6jyjyphhtx%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FPGwPSPIhohk%2Fsddefault.jpg%22%2C%22id%22%3A%22q3eqqmf2olqgldf0ixno%22%2C%22width%22%3A640%2C%22height%22%3A480%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FPGwPSPIhohk%2Fhqdefault.jpg%22%2C%22id%22%3A%22wln6tr6nbbpjkvjvfog6%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FPGwPSPIhohk%2F3.jpg%22%2C%22id%22%3A%22fr7kjkapkaybevqie5my%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FPGwPSPIhohk%2Fmqdefault.jpg%22%2C%22id%22%3A%22vymp8qc2gv8lwljsb8m0%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FPGwPSPIhohk%2F1.jpg%22%2C%22id%22%3A%22dymjxiqxv12t9hbqlffz%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2FnDbeqj-1XOo%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FnDbeqj-1XOo%2F1.jpg%22%2C%22id%22%3A%22bwuhhkykq02vsvyfkofc%22%2C%22width%22%3A128%2C%22height%22%3A96%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FnDbeqj-1XOo%2F2.jpg%22%2C%22id%22%3A%22cy1tzftipvgwqniazflw%22%2C%22width%22%3A128%2C%22height%22%3A96%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FnDbeqj-1XOo%2Fhqdefault.jpg%22%2C%22id%22%3A%22ychf1y3ul1llsodhvwf7%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FnDbeqj-1XOo%2Fdefault.jpg%22%2C%22id%22%3A%22vzdbmo2qofz0dth83x9c%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FnDbeqj-1XOo%2Fmqdefault.jpg%22%2C%22id%22%3A%22w5cnt7mqbs9liwusvrdz%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FnDbeqj-1XOo%2F3.jpg%22%2C%22id%22%3A%22hs8p2txyiybqttkxqwhz%22%2C%22width%22%3A128%2C%22height%22%3A96%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2FA3r7hIAKitY%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FA3r7hIAKitY%2F2.jpg%22%2C%22id%22%3A%22qptzghqfki0gsdgttgql%22%2C%22width%22%3A128%2C%22height%22%3A96%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FA3r7hIAKitY%2F3.jpg%22%2C%22id%22%3A%22zxu1xnrc2ve26c25lguh%22%2C%22width%22%3A128%2C%22height%22%3A96%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FA3r7hIAKitY%2Fhqdefault.jpg%22%2C%22id%22%3A%22vkz8hbpyetqyuncga1z7%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FA3r7hIAKitY%2Fmqdefault.jpg%22%2C%22id%22%3A%22wge5zcjsnmf4kw0j4fiy%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FA3r7hIAKitY%2F1.jpg%22%2C%22id%22%3A%22nk1etyyjjqzcb0igbp2s%22%2C%22width%22%3A128%2C%22height%22%3A96%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FA3r7hIAKitY%2Fdefault.jpg%22%2C%22id%22%3A%22ygnyp9d0osgftdmctt8a%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2FRIl_Lp-H2mI%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2FUdvIUHw31js%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FUdvIUHw31js%2Fdefault.jpg%22%2C%22id%22%3A%22pjnvduagm95owlqstivl%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FUdvIUHw31js%2Fhqdefault.jpg%22%2C%22id%22%3A%22sbfeh1oljbzk2da9nyrd%22%2C%22width%22%3A130%2C%22height%22%3A97%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FUdvIUHw31js%2F1.jpg%22%2C%22id%22%3A%22vmonowrznlufmmrrmp38%22%2C%22width%22%3A130%2C%22height%22%3A97%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FUdvIUHw31js%2F3.jpg%22%2C%22id%22%3A%22nwchq0nkxyrgygm9ih0w%22%2C%22width%22%3A130%2C%22height%22%3A97%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FUdvIUHw31js%2F2.jpg%22%2C%22id%22%3A%22yv2j9ya4ng30ren5mqyp%22%2C%22width%22%3A130%2C%22height%22%3A97%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FUdvIUHw31js%2Fmqdefault.jpg%22%2C%22id%22%3A%22lthacdyacnbey4z4gbcf%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2F225aCEYrqyE%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F225aCEYrqyE%2Fhqdefault.jpg%22%2C%22id%22%3A%22xq4ykdv8cqsntj4pyxtj%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F225aCEYrqyE%2Fsddefault.jpg%22%2C%22id%22%3A%22rd5nlpuqq0gmwct0t6bm%22%2C%22width%22%3A640%2C%22height%22%3A480%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F225aCEYrqyE%2F1.jpg%22%2C%22id%22%3A%22x0s2u7xmecwc6dzdiyrx%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F225aCEYrqyE%2F2.jpg%22%2C%22id%22%3A%22nks9seaykuads3nzg1oq%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F225aCEYrqyE%2Fdefault.jpg%22%2C%22id%22%3A%22k6gzdh8lz9mfzads9itv%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F225aCEYrqyE%2F3.jpg%22%2C%22id%22%3A%22arlpznoxg1mmpwstixdu%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F225aCEYrqyE%2Fmqdefault.jpg%22%2C%22id%22%3A%22mbzykjpdahsxprkk3cmz%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2FHZL0sNxP_28%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FHZL0sNxP_28%2Fhqdefault.jpg%22%2C%22id%22%3A%22bbqsefd6gl92aygnehct%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FHZL0sNxP_28%2Fmqdefault.jpg%22%2C%22id%22%3A%22rfixkgnw8nufmwu2dwaw%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FHZL0sNxP_28%2F1.jpg%22%2C%22id%22%3A%22zxaupz3k4oclekhwdg22%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FHZL0sNxP_28%2Fdefault.jpg%22%2C%22id%22%3A%22vasojyrjcmd4ugkxbcpf%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FHZL0sNxP_28%2F2.jpg%22%2C%22id%22%3A%22izu50hfw7gii4itelpvz%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FHZL0sNxP_28%2F3.jpg%22%2C%22id%22%3A%22ptm7k2xhdc3qbv7fz4po%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FHZL0sNxP_28%2Fsddefault.jpg%22%2C%22id%22%3A%22z0b9x9tjh0xtgffvtimf%22%2C%22width%22%3A640%2C%22height%22%3A480%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2F1EoflU9Lo3I%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F1EoflU9Lo3I%2F2.jpg%22%2C%22id%22%3A%22ydo2zxueni5ehxac0id3%22%2C%22width%22%3A128%2C%22height%22%3A96%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F1EoflU9Lo3I%2F3.jpg%22%2C%22id%22%3A%22jtl6zbdgfsxibp2xgdxy%22%2C%22width%22%3A128%2C%22height%22%3A96%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F1EoflU9Lo3I%2Fdefault.jpg%22%2C%22id%22%3A%22ouvkgh90jnpqf7lbewai%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F1EoflU9Lo3I%2F1.jpg%22%2C%22id%22%3A%22xoowxceuzz74yp5rltoy%22%2C%22width%22%3A128%2C%22height%22%3A96%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F1EoflU9Lo3I%2Fhqdefault.jpg%22%2C%22id%22%3A%22b2xebkjpiziegteskanc%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F1EoflU9Lo3I%2Fmqdefault.jpg%22%2C%22id%22%3A%22do7mro0r5a5ktr3skwww%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2F6blOUl5WWVI%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F6blOUl5WWVI%2Fhqdefault.jpg%22%2C%22id%22%3A%22lo4xlewfrna0wa3qaqwj%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F6blOUl5WWVI%2F1.jpg%22%2C%22id%22%3A%22djeihudoendvr6zkcttq%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F6blOUl5WWVI%2Fmqdefault.jpg%22%2C%22id%22%3A%22ekmm2x0l7ko0rag1ozgl%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F6blOUl5WWVI%2F2.jpg%22%2C%22id%22%3A%22hnd5xy7gqvcpfefsbpwc%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F6blOUl5WWVI%2F3.jpg%22%2C%22id%22%3A%22exotrasoahqm2noksatj%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F6blOUl5WWVI%2Fdefault.jpg%22%2C%22id%22%3A%22wfif9ulnmdno1ddidset%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2FYgvAwBDbuIo%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2FUqlsVZ1zxMk%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FUqlsVZ1zxMk%2F1.jpg%22%2C%22id%22%3A%22r8wriicb6wj0acrkbguv%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FUqlsVZ1zxMk%2Fsddefault.jpg%22%2C%22id%22%3A%22elvwyvaew03jzjn2n279%22%2C%22width%22%3A640%2C%22height%22%3A480%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FUqlsVZ1zxMk%2Fmqdefault.jpg%22%2C%22id%22%3A%22i6its5kq4plqibqrhaxz%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FUqlsVZ1zxMk%2F2.jpg%22%2C%22id%22%3A%22lkbxxr78yij9g37tq7vq%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FUqlsVZ1zxMk%2F3.jpg%22%2C%22id%22%3A%22tdtcjpgrdtzjkog1ucgp%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FUqlsVZ1zxMk%2Fdefault.jpg%22%2C%22id%22%3A%22lwqwben7hguu5wczojnm%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FUqlsVZ1zxMk%2Fhqdefault.jpg%22%2C%22id%22%3A%22qj72kqviui1vekdxykat%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2FeCB_INs2E24%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FeCB_INs2E24%2F3.jpg%22%2C%22id%22%3A%22qlfrqndrw6uix33avelg%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FeCB_INs2E24%2Fsddefault.jpg%22%2C%22id%22%3A%22u369mtv2ajqaj5zavnnd%22%2C%22width%22%3A640%2C%22height%22%3A480%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FeCB_INs2E24%2Fhqdefault.jpg%22%2C%22id%22%3A%22ilcxfvbzrszrlmhjjil5%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FeCB_INs2E24%2F2.jpg%22%2C%22id%22%3A%22x6sfwpkjav5wokx5qi8v%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FeCB_INs2E24%2F1.jpg%22%2C%22id%22%3A%22it9excoixkupxcoxxpkr%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FeCB_INs2E24%2Fdefault.jpg%22%2C%22id%22%3A%22w66olvmgy2poqvek8ffd%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FeCB_INs2E24%2Fmqdefault.jpg%22%2C%22id%22%3A%22ekzt8bno3je1gjhujupy%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2FiSmvq1ckioI%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FiSmvq1ckioI%2Fhqdefault.jpg%22%2C%22id%22%3A%22l3z7ka5rxghe9usomw3j%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FiSmvq1ckioI%2F2.jpg%22%2C%22id%22%3A%22trmfevjhictc01dt1rsy%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FiSmvq1ckioI%2Fmqdefault.jpg%22%2C%22id%22%3A%22f3rz9jbr5qxkhwfuvmud%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FiSmvq1ckioI%2Fdefault.jpg%22%2C%22id%22%3A%22ulogftsj25uhw59wjwmo%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FiSmvq1ckioI%2F1.jpg%22%2C%22id%22%3A%22ebr5trlcvvwxbuzv7y2r%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FiSmvq1ckioI%2Fsddefault.jpg%22%2C%22id%22%3A%22fxgsfkcaukmiydguc35p%22%2C%22width%22%3A640%2C%22height%22%3A480%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FiSmvq1ckioI%2F3.jpg%22%2C%22id%22%3A%22hnehvfiavoebluwawkvh%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2FXAgGBWWC7xs%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FXAgGBWWC7xs%2Fdefault.jpg%22%2C%22id%22%3A%22nvacrcfwxbjh06dxf2pl%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FXAgGBWWC7xs%2Fsddefault.jpg%22%2C%22id%22%3A%22smbt24uvmrszlvydudlw%22%2C%22width%22%3A640%2C%22height%22%3A480%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FXAgGBWWC7xs%2Fhqdefault.jpg%22%2C%22id%22%3A%22hh2jh4malxxqnlq8gdhu%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FXAgGBWWC7xs%2F1.jpg%22%2C%22id%22%3A%22ffmm8ztv8cjpfk1wpmgw%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FXAgGBWWC7xs%2Fmqdefault.jpg%22%2C%22id%22%3A%22ybcoluhwajwj5hxwxugc%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FXAgGBWWC7xs%2F3.jpg%22%2C%22id%22%3A%22speazgetrbp3oreg538r%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FXAgGBWWC7xs%2F2.jpg%22%2C%22id%22%3A%22mtidbdvkllufmwkvu80h%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2F217JOBWTolg%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F217JOBWTolg%2Fdefault.jpg%22%2C%22id%22%3A%22sqlveydsytgbpami5kf3%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F217JOBWTolg%2F1.jpg%22%2C%22id%22%3A%22ny9sb9tmjofc1g2lrujh%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F217JOBWTolg%2F3.jpg%22%2C%22id%22%3A%22golqnixltp6xcapvrewy%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F217JOBWTolg%2Fmqdefault.jpg%22%2C%22id%22%3A%22vfv8ulx2gbmz8r5fflzx%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F217JOBWTolg%2Fhqdefault.jpg%22%2C%22id%22%3A%22ug7iod8no2280ihzra82%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F217JOBWTolg%2Fsddefault.jpg%22%2C%22id%22%3A%22qarm5lktl5ezzvza5fuf%22%2C%22width%22%3A640%2C%22height%22%3A480%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2F217JOBWTolg%2F2.jpg%22%2C%22id%22%3A%22bxzbqnyfajz5espfofzn%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2FcpbbuaIA3Ds%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FcpbbuaIA3Ds%2Fmqdefault.jpg%22%2C%22id%22%3A%22ma8cexnvcoa50wypla3a%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FcpbbuaIA3Ds%2Fsddefault.jpg%22%2C%22id%22%3A%22ppoqrpyciv81kyjv5dii%22%2C%22width%22%3A640%2C%22height%22%3A480%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FcpbbuaIA3Ds%2F2.jpg%22%2C%22id%22%3A%22ffn6b0u9z1gqypeyvrob%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FcpbbuaIA3Ds%2Fhqdefault.jpg%22%2C%22id%22%3A%22o7ncr2nz65ioujdoikkq%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FcpbbuaIA3Ds%2F3.jpg%22%2C%22id%22%3A%22suyro0fv4up5fe8vzisl%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FcpbbuaIA3Ds%2Fdefault.jpg%22%2C%22id%22%3A%22spbchh0fwrp5tjehixry%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FcpbbuaIA3Ds%2F1.jpg%22%2C%22id%22%3A%22kkgcljrw2znxpccrl0oc%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2FLWTLUmUjo8A%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FLWTLUmUjo8A%2Fdefault.jpg%22%2C%22id%22%3A%22otyape9b7btbroaueu8v%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FLWTLUmUjo8A%2F2.jpg%22%2C%22id%22%3A%22q6q6hfluwjghtqxsc7dt%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FLWTLUmUjo8A%2F1.jpg%22%2C%22id%22%3A%22ty3dwrqeppc8bcdttxqv%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FLWTLUmUjo8A%2Fhqdefault.jpg%22%2C%22id%22%3A%22tcc2aqruyynwmiqbl83p%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FLWTLUmUjo8A%2F3.jpg%22%2C%22id%22%3A%22klr6otxi3qxcc9loi1re%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FLWTLUmUjo8A%2Fsddefault.jpg%22%2C%22id%22%3A%22oc7g8qpuc1cg6bviqksy%22%2C%22width%22%3A640%2C%22height%22%3A480%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FLWTLUmUjo8A%2Fmqdefault.jpg%22%2C%22id%22%3A%22terg2rsfz6g6cjov44uq%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2FzvARL0Hzcoo%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FzvARL0Hzcoo%2F2.jpg%22%2C%22id%22%3A%22kbdsrjsuvo1tpd1jo0j6%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FzvARL0Hzcoo%2Fhqdefault.jpg%22%2C%22id%22%3A%22t1lpbgl0mlq1u22vnsz9%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FzvARL0Hzcoo%2Fsddefault.jpg%22%2C%22id%22%3A%22iwybuetcol8pn9ae42z1%22%2C%22width%22%3A640%2C%22height%22%3A480%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FzvARL0Hzcoo%2Fdefault.jpg%22%2C%22id%22%3A%22sii8zzuzrcybkmksosif%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FzvARL0Hzcoo%2F3.jpg%22%2C%22id%22%3A%22nwmswpg16waks3wh1ml9%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FzvARL0Hzcoo%2F1.jpg%22%2C%22id%22%3A%22ycu6lgy1gfxndhwiysjo%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FzvARL0Hzcoo%2Fmqdefault.jpg%22%2C%22id%22%3A%22uhw1acyqkmdbfl6ervn1%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%2C%7B%22id%22%3Anull%2C%22type%22%3A%22youtube%22%2C%22src%22%3A%22youtube%3A%2F%2FXtrVrY1_Qq8%22%2C%22embedCode%22%3Anull%2C%22height%22%3Anull%2C%22width%22%3Anull%2C%22thumbnails%22%3A%5B%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FXtrVrY1_Qq8%2Fhqdefault.jpg%22%2C%22id%22%3A%22mv7m9fbdkrundtm4uofi%22%2C%22width%22%3A480%2C%22height%22%3A360%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FXtrVrY1_Qq8%2Fdefault.jpg%22%2C%22id%22%3A%22jkrhjodjcstfqxolghr4%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FXtrVrY1_Qq8%2F1.jpg%22%2C%22id%22%3A%22xwyvtt2rnasibdgoqmaw%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FXtrVrY1_Qq8%2Fmqdefault.jpg%22%2C%22id%22%3A%22sp8umyrgawhz20pbnzrg%22%2C%22width%22%3A320%2C%22height%22%3A180%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FXtrVrY1_Qq8%2F3.jpg%22%2C%22id%22%3A%22pmi9ne3pg2dwcvbeodmz%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FXtrVrY1_Qq8%2F2.jpg%22%2C%22id%22%3A%22p5mz8zx9ln8hwwsswwdk%22%2C%22width%22%3A120%2C%22height%22%3A90%2C%22format%22%3A%22jpg%22%7D%2C%7B%22uri%22%3A%22http%3A%2F%2Fi1.ytimg.com%2Fvi%2FXtrVrY1_Qq8%2Fsddefault.jpg%22%2C%22id%22%3A%22hvtea0dr5r1gcasm6vcs%22%2C%22width%22%3A640%2C%22height%22%3A480%2C%22format%22%3A%22jpg%22%7D%5D%2C%22recommended%22%3Afalse%7D%5D%2C%22parentId%22%3Anull%2C%22parentAuthorId%22%3Anull%2C%22starterId%22%3A1457763082%7D">	<div class="row content-wrapper"><div class="column"><div class="row js_kinja-share-wrapper hide"><div class="column post-tools-above"><a href="#" class="js_kinja-share replywithshare inline-block"><span class="icon icon-reload"></span></a></div></div><header class=""><h1 class="headline hover-highlight entry-title"><a href="http://sidespin.kinja.com/the-top-26-greatest-pink-floyd-songs-ranked-1457763082" data-id="">The Top 26 Greatest Pink Floyd Songs, ranked</a></h1></header>	<div class="meta-container without-dropdown">	<div class="meta-avatar js_author" data-authorid="5837445542701485674" data-blogid="118335501">	<span class="meta-tools"><div class="view-count-container"></div><a href="#" class="js_like button-recommend-post hover-icon" title="Recommend"><span class="js_like_count">13</span><span class="icon icon-star icon-append js_like_icon"></span></a><div class="js_like-list-container"></div></span><div class="floated-container img-30" data-dropdownhover-container>	<div id="1457763082-hovercard" class="f-dropdown author-hovercard content small whitelisted-links js_avatar-popover" data-dropdownhover-content><span class="floated-container img-60 avatar-container js_avatar-container"><span class="avatar"><span class="icon icon-checkmark icon-followed"></span><img data-src="http://i.kinja-img.com/gawker-media/image/upload/s--uGkhX19A--/c_fill,fl_progressive,g_center,h_120,q_80,w_120/18ihx1eglwl8fjpg.jpg" alt="FreemanMcNeil" /></span><div class="js_follow-controls js_author-follow-controls" data-authorid="5837445542701485674" data-blogid="118335501"><h4>FreemanMcNeil</h4><a href="http://freemanmcneil.kinja.com" class="button tiny secondary mrs" target="_blank" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Hover card - profile button click');">Profile</a><a href="#" class="button tiny secondary js_followforuser mrs" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Hover card - follow button click');">Follow</a><a href="#" class="button tiny secondary js_unfollowforuser mrs hide">Unfollow</a></div></div>	<div class="avatar avatar-container js_avatar-container" data-dropdownhover="1457763082-hovercard"><span class="icon icon-checkmark icon-followed"></span><a href="http://freemanmcneil.kinja.com"><span class="img-border"><img src="http://i.kinja-img.com/gawker-media/image/upload/s--ZSSFYlsZ--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/18ihx1eglwl8fjpg.jpg" /></span></a></div><div class="txt">	<span class="display-name author vcard"><a href="http://freemanmcneil.kinja.com" target="_self"   data-dropdownhover-anchor="1457763082-hovercard" class="fn url" onclick="window.ga('send', 'event', 'byline', 'click', 'permalink');" >FreemanMcNeil</a></span><div class="second-line">	<span class="publish-time js_publish_time" data-publishtime="1383517260132"><a class="hover-switch" href="http://sidespin.kinja.com/the-top-26-greatest-pink-floyd-songs-ranked-1457763082" target="_self" >		<span class="show-on-hover published updated">11/03/13 5:21pm</span><span class="hide-on-hover">	11/03/13 5:21pm</span></a></span></div></div></div></div><div class="post-dropdown-ct js_post-dropdown-ct js_post-dropdown-ct-sticky">	<ul id="dropdown-1457763082" class="f-dropdown proxima js_post-dropdown js_follow-controls js_author-follow-controls whitelisted-links" data-postid="1457763082" data-starterid="1457763082" data-authorid="5837445542701485674" data-blogid="118335501" data-sourceblogid="452781546" data-dropdown-content><li class="js_edit-post hover-icon hide readonly-hide"><a href="#" rel="nofollow"><i class="icon icon-pencil-alt icon-prepend"></i>Edit</a></li><li class="js_delete-post hover-icon hide readonly-hide"><a href="#" rel="nofollow"><i class="icon icon-x-circle icon-prepend"></i>Delete</a></li>	<li class="js_invite-to-post hover-icon hide" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Drop down - invite click');"><a href="#" rel="nofollow"><i class="icon icon-twitter icon-prepend"></i>Invite</a></li><li class="js_invite-to-post-manually hover-icon hide"><a href="#" rel="nofollow"><i class="icon icon-mail icon-prepend"></i>Invite manually</a></li><li class="js_promote hover-icon hide readonly-hide"><a href="#" rel="nofollow"><i class="icon icon-star-circle icon-prepend"></i>Promote</a></li><li class="js_dismiss hover-icon hide readonly-hide"><a href="#" class="dismiss" rel="nofollow" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Dismiss click');"><i class="icon icon-prepend notranslate">X</i>Dismiss</a><a href="#" class="undismiss" rel="nofollow" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Undismiss click');"><i class="icon icon-prepend notranslate">X</i>Undismiss</a></li><li class="js_block hover-icon hide disabled readonly-hide" data-blogid="452781546" data-targetblogid="118335501" data-targetblogname="Sidespin"><a href="#" rel="nofollow"><i class="icon icon-not-circle icon-prepend"></i><span>Block for Sidespin</span></a></li><li class="js_hide-post hover-icon hide readonly-hide"><a href="#" rel="nofollow"><i class="icon icon-prepend icon-not-circle"></i>Hide</a></li><li class="js_kinja-share-block readonly-hide"><a class="js_kinja-share hover-icon" href="#" rel="nofollow"><i class="icon icon-share icon-prepend"></i>Share to Kinja</a></li><li class="js_external-share"><a class="js_share-post-item facebook hover-icon" rel="nofollow" href="http://facebook.com/sharer.php?u=http%3A%2F%2Fsidespin.kinja.com%2Fthe-top-26-greatest-pink-floyd-songs-ranked-1457763082" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Drop down - Share to Facebook click');"><i class="icon icon-facebook icon-prepend"></i>Share to Facebook</a></li><li class="js_external-share"><a class="js_share-post-item pinterest hover-icon" rel="nofollow" href="http://www.pinterest.com/pin/create/api_other/?url=http%3A%2F%2Fsidespin.kinja.com%2Fthe-top-26-greatest-pink-floyd-songs-ranked-1457763082&media=http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--P5tjD7Yd--%2Fzbvepzvfcq3gytzkjiqh.jpg&description=If%20I%20were%20to%20pick%20one%20band%20to%20consider%20my%20favorite%2C%20I%E2%80%99d%20have%20to%20go%20with%20Pink%20Floyd.%20I%20have%20always%20loved%20their%20music%20and%20particularly%20their%20lyrics.%20I%20was%20fortunate%20enough%20to%20see%20them%20play%20live%20in%20the%201990s%20and%20I%20saw%20Roger%20Waters%20perform%20The%20Wall%20live%2C%20and%20that%20ranks%20as%20the%20greatest%20concert%20I%E2%80%99ve%20ever%20seen.%20Inspired%20by%20Iron%20Mike%20Gallego%2C%20and%20his%20incredibly%20spot-on%20and%20outstanding%20piece%20on%20ranking%20Beastie%20Boys%20songs%2C%20I%20present%20to%20you%20the%2026%20greatest%20Pink%20Floyd%20songs.%20I%20really%20really%20recommend%20giving%20these%20a%20listen." onclick="window.ga('send', 'event', 'Share to Pinterest', 'click', 'Drop down');"><i class="icon icon-pinterest icon-prepend"></i>Share to Pinterest</a></li><li class="js_external-share"><a class="js_share-post-item twitter hover-icon" rel="nofollow" href="http://twitter.com/share?url=http%3A%2F%2Fsidespin.kinja.com%2Fthe-top-26-greatest-pink-floyd-songs-ranked-1457763082&amp;text=POST_TITLE" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Drop down - Share to Twitter click');"><i class="icon icon-twitter icon-prepend"></i>Share to Twitter</a></li><li class="js_go-to-permalink"><a class="hover-icon" href="http://sidespin.kinja.com/the-top-26-greatest-pink-floyd-songs-ranked-1457763082" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Drop down - Go to permalink click');"><i class="icon icon-link-alt icon-prepend"></i>Go to permalink</a></li><li class="repostblock js_repostblock hide"></li></ul><a href="#" target="_self" class="button dropdown secondary transparent toggle-30 js_post-menu-toggler post-dropdown-trigger" data-dropdown="dropdown-1457763082" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Drop down click');"></a></div></div><div class="post-content entry-content "><p class="has-media media-470" data-textannotation-id="aa38bc4944cecaac2ac85a9810478389"><span class="lightBoxWrapper"><span class="img-border"><img src="http://i.kinja-img.com/gawker-media/image/upload/s--htqDXTyG--/c_fit,fl_progressive,q_80,w_320/zbvepzvfcq3gytzkjiqh.jpg" width="320" height="212" alt="The Top 26 Greatest Pink Floyd Songs, ranked" data-chomp-id="zbvepzvfcq3gytzkjiqh" data-asset-url="http://i.kinja-img.com/gawker-media/image/upload/s--htqDXTyG--/c_fit,fl_progressive,q_80,w_320/zbvepzvfcq3gytzkjiqh.jpg" data-format="jpg" /></span><span class="magnifier lightBox hide"><span class="icon icon-white icon-search-plus"></span></span></span></p>
+
+
+
+
+
+
+
+
+
+
+<p class="first-text" data-textannotation-id="4184389eeccf747b287027a547f2d00a">    If I were to pick one band to consider my favorite, Iâd have to go with Pink Floyd.  I have always loved their music and particularly their lyrics.  I was fortunate enough to see them play live in the 1990s and I saw Roger Waters perform The Wall live, and that ranks as the greatest concert Iâve ever seen.  Inspired by Iron Mike Gallego, and his incredibly spot-on and outstanding piece on ranking Beastie Boys songs, I present to you the 26 greatest Pink Floyd songs.  I really really recommend giving these a listen.</p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="56a252a110da5bebb5aa823013e84fe0">    I originally liked Floyd for the music, but as I grew older I began to appreciate the intricacies of the lyrics.  When the music and the lyrics were on the money, it couldnât be beat.  There are certain stereotypes when someone identifies himself as a Floyd fan, two of which are stoner and Prog-rock fan.  I am neither.  I am a fan of writing and music, a fan of intelligence (which is odd, since I am also a fan of dick and fart jokes), and Iâm a fan of concepts.  </p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="52b9600a476e874e69ab68d142fadacd">    So I give you the top 26 Pink Floyd songs as ranked by me, a lifelong Pink Floyd fan.</p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="530c7de5ead775b08558e953f81baeac">26. <strong>Set the Controls for the Heart of the Sun</strong> - <em>Saucerful of Secrets</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="1e332c027f7aec42227519e28a2bc617">    This Roger Waters piece was a staple of Pink Floyd concerts from the late 60s into around 1973.  As a very curious bit of trivia, itâs the only song in their catalog which features both Dave Gilmour and Syd Barrett on guitar.  However, itâs a mainly rhythm-section and keyboard dominated song so you canât really discern the guitar parts all that well.  Waters continues to perform this song at certain live events.</p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="bf39a35fc0c9b30579a5b2a8a679ccda"><span class="clear-both flex-video widescreen"><iframe id="youtube-8RbXIMZmVv8" src="http://www.youtube.com/embed/8RbXIMZmVv8?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="8RbXIMZmVv8" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="264b1522126f6b19c65d61adfb3e27a5">25. <strong>Jugband Blues</strong> - <em>Saucerful of Secrets</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="a0a540be21fdb65d189fbff4d3f09c65">    I included this Syd Barrett song because it is a musical manifestation of mental psychosis.  Some say Barrett suffered from schizophrenia, and if so then this song is a fairly accurate representation.  Itâs disjointed and sad, yet harrowing.  Itâs the musical equivalent of a cautionary tale.</p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="1cb45840f87c2ed5e61b7e20da036a23"><span class="clear-both flex-video widescreen"><iframe id="youtube-1EoflU9Lo3I" src="http://www.youtube.com/embed/1EoflU9Lo3I?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="1EoflU9Lo3I" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="54bc66caa896a62cd9bb51563b5f1660">24. <strong>Atom Heart Mother</strong> - <em>Atom Heart Mother</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="24de54fafae66603cce69273120c84f5">    This is the first real effort by Pink Floyd to shake the astral boundaries theyâd set (or had others set) for themselves and move towards cohesive and uniform pieces of music.  Itâs almost purely instrumental, save for the lyric, <em>âSilence in the studio!â</em>  At almost 24 minutes long, itâs a lot to listen to.  I also chose this song because I have two specific personal anecdotes.  First, I used to have a radio program in college, the much coveted 1:00am - 4:00am Sunday night slot.  I used to put this song on so I could go out, grab a smoke, eat a quick bite, grab another smoke, and come back in with time to spare.  A second anecdote I have is that my old roommate used to thank me for this, as each time Iâd get high and play it in our apartment, heâd bang his girlfriend.  Turns out it was their sex soundtrack.  *shudder*</p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="98947ccc12864526e5d4524932fbe23e"><span class="clear-both flex-video widescreen"><iframe id="youtube-RIl_Lp-H2mI" src="http://www.youtube.com/embed/RIl_Lp-H2mI?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="RIl_Lp-H2mI" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="26a2ec0afd5674b9385ad4f01dd3e92f">23. <strong>The Gunnerâs Dream</strong> - <em>The Final Cut</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="91de288a4fc0038e4a60b9c7279e2e11">    A strong song off of what is generally considered a Roger Waters solo album.  The entire album is, in my estimation, greatly underrated.  While itâs dominated by Waters, the painful honesty of the lyrics is what sets this album, and song, apart.  This song, and others from this album on this list, is like a raw exposed nerve.  </p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="794f3b0bbc3a2907243336d6cd336d35">(No video available.  Stupid copyrights.)</p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="5a5f717631fd036d888da59f5826016b">22. <strong>Learning to Fly</strong> - <em>A Momentary Lapse of Reason</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="768f5a7875935a7b771a515442a26c56">    I included this song simply because it reaffirmed that the Floyd was still a relevant band even without Roger Waters.  Released in 1987, this single launched Pink Floyd v.3.  The song, like the album, focused more on music and melody and less on lyrical and thematic content.  Itâs a great stand-alone song and was a concert staple for many years following its release.</p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="9201debd0f0a607db921059349ac4bb9"><span class="clear-both flex-video widescreen"><iframe id="youtube-eCB_INs2E24" src="http://www.youtube.com/embed/eCB_INs2E24?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="eCB_INs2E24" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="50633dcb2982731ca8ec9aba2947ebd3">21. <strong>Interstellar Overdrive</strong>- <em>The Piper at the Gates of Dawn</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="0db4754fe9a2673d511abaca2c8feadf">    Most people would pick <em>Astronomy Domine</em> as a classic early Floyd song, but I think <em>Interstellar Overdrive</em> is more representative of what they were all about.  This is a guitar-heavy track which still calls to the cosmos, which is what Floyd was going for in those days.  It demonstrates the musical ear of Syd Barrett quite nicely and has a fantastic driving rhythm.  </p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="eee592756f4924d711f568c9117a47e6"><span class="clear-both flex-video widescreen"><iframe id="youtube-XtrVrY1_Qq8" src="http://www.youtube.com/embed/XtrVrY1_Qq8?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="XtrVrY1_Qq8" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="4448b7ae1eb28fb6302fa8569b0dc11e">20. <strong>One of these Days</strong> - <em>Meddle</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="57e58a7b5ef395701c450ff3bd86e1a2">    The only lyric is, <em>âOne of these days Iâm going to cut you into little pieces.â</em>  Thatâs why it makes the list.</p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="d5a626355cd04f6cce13ace08c603801"><span class="clear-both flex-video widescreen"><iframe id="youtube-YgvAwBDbuIo" src="http://www.youtube.com/embed/YgvAwBDbuIo?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="YgvAwBDbuIo" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="8b73d930be2e8dd8b4d18ef7a65d0f5c">19. <strong>Nobody Home</strong> - <em>The Wall</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="73a3375a33b4eb3c993670dd0f948c5e">    This is the first of six songs Iâve included from <em>The Wall</em>.  I chose this because to me it represents the loneliness and solitude we all feel sometime after our late 30s.  I understood <em>Dark Side of the Moon</em> when I was 25.  I understood <em>The Wall</em> only after I hit my 30s.  Regardless of how social we may be in our younger years, we tend to regress as we age.  This song is about wanting to reach out, even a little, knowing that while we may have what we think we want in a materialistic fashion, weâre essentially alone.  Itâs fine to remove yourself from society, but donât do it so much that when you want to re-enter youâve got nobody there to help.</p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="adb2644bacc95820d49b595782cfc0ee"><span class="clear-both flex-video widescreen"><iframe id="youtube-225aCEYrqyE" src="http://www.youtube.com/embed/225aCEYrqyE?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="225aCEYrqyE" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="68c3cc0495545ea6de829e645cc03f23">18. <strong>Lucifer Sam</strong> - <em>The Piper at the Gates of Dawn</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="91a1a8e81dd1a6e643d77af5a55e9c29">    I think that had Syd Barrett not gone insane, this is the direction Pink Floyd wouldâve taken.  They would be more along the lines of the Beatles or the Stones insofar as they wouldâve represented a certain era of sound.  This is pure power pop.</p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="4ed178a5e7887a869b4f0483983c5c4f"><span class="clear-both flex-video widescreen"><iframe id="youtube-XAgGBWWC7xs" src="http://www.youtube.com/embed/XAgGBWWC7xs?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="XAgGBWWC7xs" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="f63d73c23313f67e1995f7ce43336a91">17. <strong>If</strong> - <em>Atom Heart Mother</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="fabe1546a3072ec9ab97fd2803127a44">    The first soul-bearing song by Roger Waters.  There are times when I think that this song says more by way of its honest simplicity than all his other shout-from-the-rooftops rhetorics could ever achieve.  Itâs a wonderful song bemoaning the growing distance between people.  </p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="1def3cb9d3dc1cefe0e8e7c466fad557"><span class="clear-both flex-video widescreen"><iframe id="youtube-A3r7hIAKitY" src="http://www.youtube.com/embed/A3r7hIAKitY?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="A3r7hIAKitY" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="61ab1fe40a571de14769b0b96e4d96ec">16.<strong>Sheep</strong> - <em>Animals</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="70a7e4c92bbf3411de8f09b40d185a77">    One of only five songs from the album, this song bemoans the lives of people who blindly follow others or allow themselves to be led around by the nose.  The album was released when Punk was in vogue, but it wasnât an intentional representation of the musical climate.  Any Floyd fan knows they didnât even really know what the musical landscape was anytime after <em>Dark Side</em>.  Itâs a hard charging album and this song deserves a spot on the list if only for the really really cool effect of vocals seamlessly changing into notes from a keyboard.</p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="9aa261cfec10e856c8c679aeb1f8de34"><span class="clear-both flex-video widescreen"><iframe id="youtube-UqlsVZ1zxMk" src="http://www.youtube.com/embed/UqlsVZ1zxMk?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="UqlsVZ1zxMk" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="e8c3b86dd45c1ec3bc9aaf90584fcd51">15. <strong>What shall we do Now?</strong> - <em>The Wall</em> (film version)</p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="6c0381815baa32fa69d7b6aba039b348">    This song takes the place of <em>Empty Spaces</em> from the original album.  I chose this cinematic replacement because I think it segues better into <em>Young Lust</em>.  Lyrically it just uses short, choppy lines of verse but it moves quickly and purposefully and reinforces the mood of that particular place in the film and on the album.  While not available on The Wall, it can be found in the film accompanied by Gerald Scarfeâs outstanding animation.</p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="ae08ef6ea51dd6b81f7ba5478914e229"><span class="clear-both flex-video widescreen"><iframe id="youtube-iSmvq1ckioI" src="http://www.youtube.com/embed/iSmvq1ckioI?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="iSmvq1ckioI" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="85b853538319ff2e5342cf44bca1a43f">14. <strong>The Fletcher Memorial Home</strong> - <em>The Final Cut</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="4d882fe890fd10af72fd950fa6be641f">    Another song from <em>The Final Cut</em>, this one name-drops Rogerâs father, Eric Fletcher Waters.  I included it because of the political name dropping (Ronald Reagan, Margaret Thatcher, Leonid Brezhnev, Menachem Begin) involved, as well as the deeply political nature of the song.  It equates to Waters stating that all world leaders should be put into playpens and forced to get along nicely.  If they couldnât, he suggested a âfinal solution.â</p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="e6172bed53e29359186b606fbfffa815">(No video.  Stupid, stupid copyright laws.)</p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="cd603ed52ec532bf42e246029c6bc1b3">13. <strong>Dogs</strong> - <em>Animals</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="eea7c5bdcad66e4363ead819fb6d6b0c">    This 17 minute epic is included simply because it has the second-best Gilmour guitar solo(s) in the entire Pink Floyd catalogue.  Its closing also echoes the poem âHowlâ by Allen Ginsberg, with the almost rhetorical repetition of âwho.â  Both Gilmour and Waters share the vocals, with the former singing the first &frac34; of the song, and the latter finishing.  <em>Animals</em> also signals when the Floyd became less about the music and more about the lyrics.</p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="c5d251708d33766de1615527a6f88b01">(No good video available.)</p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="bd90f396f9308b66d46313656b3c7f1e">12. <strong>Shine On You Crazy Diamond (Parts I-V)</strong> - <em>Wish You Were Here</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="2fdbb0f1702f2f01954ecfe540d8dbcd">    This song set the stage for the cold, calculating, distant album that was <em>Wish You Were Here</em>.  Many people feel that this is the quintessential Pink Floyd album.  I disagree, but I do think itâs their most complete album.  This song engages the listener in a very personal way, bringing them into the fold and allowing them to share the feelings of loss and regret that the members feel towards Syd Barrett.  There is also a feeling of guilt to the song, caused the way the band decided to kick Syd out.  On the way to a gig, the band just one day opted not to pick Barrett up.  His increasing instability, his manic ranting and raving, and his lost grip on sanity all led to the band not being able to work with him anymore.  This song is an olive branch.  Musically, as well, Rick Wrightâs keyboards dominate the album, and that is evident from this song forward.  The overwhelming presence of clinical, almost sterile, keyboards help to set the mood of the entire disc.</p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="de04ef8951a9db8813318f2df090a5a8"><span class="clear-both flex-video widescreen"><iframe id="youtube-klKCeFDnDiI" src="http://www.youtube.com/embed/klKCeFDnDiI?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="klKCeFDnDiI" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="918b3f4de4a8cc22f3f400abcb33e63e">11. <strong>One of my Turns</strong> - <em>The Wall</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="f4e5f14c4c11160931c854fbc9ed14d3">    Where to begin with this one?  Itâs a song that represents the tipping point of madness, where everything finally bubbles to a head.  Lyrically, this song is the last straw for a very unstable persona.  When the narrator finally has it with his unfaithful wife, when heâs had it with his own infidelity, when heâs had it with the pressures of his own life, created by him, he explodes with a fury and lays waste to a hotel room.  The last line represents his fragile state of mind best when he asks, <em>âWhy are you running away?â</em> after doing everything he can to drive a wedge between himself and society at large.  </p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="340b35f840c899b76fed8da92cd0aa5d"><span class="clear-both flex-video widescreen"><iframe id="youtube-6blOUl5WWVI" src="http://www.youtube.com/embed/6blOUl5WWVI?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="6blOUl5WWVI" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="115c5238bb6e768f336cfa40ada90ca1">10. <strong>Us and Them</strong> - <em>Dark Side of the Moon</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="e800b57158d3b2d8e4f7866719184ae2">    My impression of this song is that nobody is really in control of what goes on, except for the political powers that be.  Itâs a direct condemnation of a global war machine, constantly sending individuals to die in wars while they sit back and simply plan out maneuvers.  The album as a whole concentrates on the pressures of young adulthood and the feelings of helplessness that people have before realizing they will never be in control of their own destiny.  </p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="260b2f5070792479d4b469fc8f0101c2"><span class="clear-both flex-video widescreen"><iframe id="youtube-nDbeqj-1XOo" src="http://www.youtube.com/embed/nDbeqj-1XOo?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="nDbeqj-1XOo" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="28a659cd40038b1f0daa49addfbf27c7">9. <strong>The Final Cut</strong> - <em>The Final Cut</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="236f3b37fe6b53375f9603d4f7f301f0">    This is almost a sequel to <em>Nobody Home</em>.  While itâs from a different album, it continues the self examination of the persona.  This time itâs not âPink,â but instead Roger Waters taking inventory of where he is in life and what heâs lost over the years.  Another in the album-long paean to his lost father, <em>The Final Cut</em> not only laments his losses, but also the feeling of distance that years of touring and studio time that Waters feels has eroded his family connections.  Regardless of how any Floyd fan feels, this is a great song on a great album.  </p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="94c4545f341799f648386085636c2cc4"><span class="clear-both flex-video widescreen"><iframe id="youtube-zvARL0Hzcoo" src="http://www.youtube.com/embed/zvARL0Hzcoo?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="zvARL0Hzcoo" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="dda971c01de845d453a2011986216f19">8. <strong>Money</strong> - <em>Dark Side of the Moon</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="a7369bc4ae81beb3af9793ecbed1ac6c">    <em>Money</em> is exactly what the title implies: Money.  Itâs about what you can finally get when you have the monetary resources.  It both celebrates and bemoans the idea of wealth and everything it brings.  The best part about this song, however, is that itâs played in â time.  If you donât know musical rhythms, this is a very tricky and uncommon beat.  Floyd pulls it off well.  <em>Money</em> is the only real âsingleâ off this album.  </p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="d03b634d6088c626858c1c7d6776fff9"><span class="clear-both flex-video widescreen"><iframe id="youtube-cpbbuaIA3Ds" src="http://www.youtube.com/embed/cpbbuaIA3Ds?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="cpbbuaIA3Ds" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="9ebd3286dddecf2ad80486f50a12429c">7. <strong>Wish You Were Here</strong> - <em>Wish You Were Here</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="349156a2813bbcb0c809c7b9e1e4cde0">    Some consider this to be the signature song of the band.  While I disagree, I believe this song sums up loss and the distance between people who were once close.  It could imply a death, physical distance, or more precisely emotional distance.  As we age, we grow out of relationships.  Itâs the very nature of relationships to be quite frank.  <em>Wish You Were Here</em> sums up the emotions that everyone feels when they realize part of their life has passed and how things, for good or for bad, will never be the same.  A classic.  </p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="64b667f212c86d32b33619e289e7ea38"><span class="clear-both flex-video widescreen"><iframe id="youtube-217JOBWTolg" src="http://www.youtube.com/embed/217JOBWTolg?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="217JOBWTolg" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="d2f519362d5c67d3f7b11a898e536e85">6. <strong>Brain Damage/Eclipse</strong> - <em>Dark Side of the Moon</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="8e3198477cae32f83e2686a9390b6536">    Where to start with this?  This is the coda to what is generally considered the Floydâs greatest masterpiece.  It examines the lengths of madness that the pressures of life can bring.  The song is a manifestation of the voices that we all hear, questioning our motives and decisions.  The final couplet sums it up best - <em>âAnd if the band youâre in starts playing different tunes/Iâll see you on the dark side of the moon.â</em>  Fun fact: <em>Dark Side of the Moon</em> stayed on the Billboard Top 200 charts for 741 weeks - from 1973 to 1988.  Let that sink in.  It stayed on the charts for 15 fucking years.  Thatâs an accomplishment that can never be denied or duplicated.</p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="d1023263873004ef18b62b1d2318224e"><span class="clear-both flex-video widescreen"><iframe id="youtube-HZL0sNxP_28" src="http://www.youtube.com/embed/HZL0sNxP_28?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="HZL0sNxP_28" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="450c73fae005be3812a0308bbf435b37">5. <strong>Echoes</strong> - <em>Meddle</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="489ff7c0e95930c3633fd52d97c36519">    This was the first indication of what the Floyd would eventually become.  They finally shed their 1960s psychedelic beginnings and became the band they were always meant to be.  Coming in at a lengthy 24 minutes, this song combined lyrical flights of fancy with unparalleled musical talent.  This is the centerpiece of the film <em>âPink Floyd: Live at Pompeiiâ</em> which served as both a concert film and a prelude of what was to come on<em> Dark Side of the Moon</em>.  Fun fact: the Beastie Boys loved this song and film so much that they incorporated the visual of the amps stamped with âPink Floyd. Londonâ in their video for Gratitude.  Dave Gilmour and Rick Wright completely carry this song.  Itâs a must-listen.</p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="550374166e3c23032e2edf3cedf6f1de"><span class="clear-both flex-video widescreen"><iframe id="youtube-PGwPSPIhohk" src="http://www.youtube.com/embed/PGwPSPIhohk?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="PGwPSPIhohk" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="1e1697ce6a083b6a868b2a9b38afb018">4. <strong>Mother</strong> - <em>The Wall</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="1f57a2cd7c6405894897b13b2ef4fc3b">    This is the ultimate âAm I doing it right?  Am I doing OK?â song.  This song expresses the desire one has to break out on his own, but still wanting to please a parental figure.  It doesnât matter that the figure is smothering or overwhelming, there is always that warm nested feeling that one gets from parental approval.  We all long for the approval of our parents, we all want to do right by them and in their eyes, no matter how old we get.  This song is about seeking the blessing from those whom we value most and shape us the most permanently.  </p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="8ef567f641b030347bd51bda9e78fc3f"><span class="clear-both flex-video widescreen"><iframe id="youtube-UdvIUHw31js" src="http://www.youtube.com/embed/UdvIUHw31js?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="UdvIUHw31js" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="559b7d0aadec343f537d7c00fab3e1e1">3. <strong>When the Tigers Broke Free</strong> - <em>The Final Cut</em> (originally heard in the film version of <em>The Wall</em>)</p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="aa13b551d8f3b9c67358ec5339a0609b">    A stark, harrowing song first heard in the film <em>The Wall</em>.  This is a raw, open examination of why Roger Waters and so many others lost their fathers in World War Two, and the cold âthanksâ from the government for their service.  Its subtle vitriol is represented in the lyrics:</p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="e9c14531dd70f3ec17fe44f83984c128"><em>And kind old King George sent Mother a note when he heard that father was gone.</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="3b497fa5b08b25b818b9642b8f92a0f6"><em>It was, I recall, in the form of a scroll, with gold leaf and all.</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="b190c719b905afdadf3dad4570af4a42"><em>And I found it one day</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="ad938d790869504533a9db0e8487a8de"><em>In a drawer of old photographs, hidden away.</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="5f1b3b8f56783bd62387e97f35357e07"><em>And my eyes still grow damp to remember</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="9b12d34c4121f8c27a2c39f4f209b0be"><em>His Majesty signed with his own rubber stamp.</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="7c7b769c75ee32c187780f98306391d9">The song was re-released on a version of <em>The Final Cut</em> in 2004 and it fits much better with that album than in the aforementioned film.  While the film version does it justice, it just dovetails nicely in album form.  </p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="6b94f3ee371e53975c950515aac1eff9"><span class="clear-both flex-video widescreen"><iframe id="youtube-nxdQF4VUGng" src="http://www.youtube.com/embed/nxdQF4VUGng?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="nxdQF4VUGng" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="367f55235304b72a2a670ac291d5198a">2. <strong>Time</strong> - <em>Dark Side of the Moon</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="ad8b6f85418c1aeef2eb9d1c71e4f0d1">    This song is the manifestation of when you realize youâre not going to stay young forever.  Itâs the stark realization that life has already taken hold, that one day you wake up and realize that, for better or worse, youâre an adult.  And thereâs nothing you can do about it.  The clock ticks for all of us, and <em>Time</em> makes that point perfectly.  The last two verses sum it up best:</p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="85b4692303ba058d17d5c025244aac4a"><em>So you run and you run to catch up with the sun but it's sinking</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="2897a7310797aa4980680cae1093657e"><em>Racing around to come up behind you again.</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="f189274117bf8f049ca7e6063179425f"><em>The sun is the same in a relative way but you're older,</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="54a02dedde0767470875087d4dfe05e7"><em>Shorter of breath and one day closer to death.</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="0d3baa2ef7b78254157aff50049d9966"><em>Every year is getting shorter never seem to find the time.</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="c72cffd94ab2a5a34cc9ea4981b9ad2c"><em>Plans that either come to naught or half a page of scribbled lines</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="8be128a350fd6462769ceed88a6a576d"><em>Hanging on in quiet desperation is the English way</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="941d4414f6afa869b5bac2d7c682f3de"><em>The time is gone, the song is over,</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="90de01edd8fd3951afe730d5f603962e"><em>Thought I'd something more to say.</em></p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="29da391c9f6d0ea6c32d91100dff61bb"><span class="clear-both flex-video widescreen"><iframe id="youtube-LWTLUmUjo8A" src="http://www.youtube.com/embed/LWTLUmUjo8A?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="LWTLUmUjo8A" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="303e7a11c3fb57fe612c1d931b607e4e">1. <strong>Comfortably Numb</strong> - <em>The Wall</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="5cb3dae320ccc5ed0f118b07f2cf0a49">    It had to be number one.  Itâs the most complete Pink Floyd song in their catalog.  The music, written by David Gilmour, blends perfectly with the lyrics written by Roger Waters.  The song is based in reality, as Waters needed a doctorâs shot in order to get him through a show in Philadelphia in 1977.  With Waters handling the verses and Gilmour handling the chorus, this song finds the perfect medium.  While it may seem like a cop-out to consider this number one, I dare anyone to find a more fitting and representative song that captures the essence of the band.  Add to that not one but two blistering guitar solos by Gilmour and youâve got a recipe for success.  This is the song that most casual, even indifferent, Floyd fans know, yet it means just as much to those who revere the entire catalog of music.  <em>Comfortably Numb</em> holds a place in the pantheon of great rock and roll songs since the creation of the genre.  Itâs everything a song should be.  My belief is that the greatness of the song, for people in their 30s or older, can be found in this excerpt:</p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="0c7ffb32e581f39801575afd8fd6dc38"><em>When I was a child</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="0bf8789839d5d7ceb0df50f9187fe086"><em>I caught a fleeting glimpse</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="225a2937fd31c3ba789d639b92b4752f"><em>Out of the corner of my eye.</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="0322ef0b2c8dd7d5f2b72a30a03f3ea8"><em>I turned to look but it was gone</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="5cb831044ddc4837c1ed207aed8cdc4a"><em>I cannot put my finger on it now</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="e6bc236f67dc27ada0c6a6a0e342e039"><em>The child is grown,</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="a6ac430e99fe08ac281aa9ace2c658fc"><em>The dream is gone.</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="51f30f203e2cf926414c1ae58fa1ae56"><em>I have become comfortably numb</em></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="2e1e92c51197d79ca257ff636b4f4142">If you havenât listened to it in a while, turn it on, mute out every other ambient noise, and just absorb it sonically.  It works on so many levels.</p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="f690b9f41a3f8163ebe944697bd025cd"><span class="clear-both flex-video widescreen"><iframe id="youtube-y7EpSirtf_E" src="http://www.youtube.com/embed/y7EpSirtf_E?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" data-chomp-id="y7EpSirtf_E" width="640" height="360" class="youtube" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen"></iframe></span></p><!-- core-decorated --></div><div class="row"><div class="post-bottom column"><a name="replies"></a><div class="post-tools-wrapper right" data-forpost="1457763082">	<a href="#" class="js_like button-recommend-post text-small proxima hover-icon" title="Recommend"><span class="js_like_count">13</span><span class="icon icon-star oversized icon-append js_like_icon"></span></a>	<span id="js_reply-count" class="proxima text-small mlm mrn" style="display: none">48<span class="icon icon-bubble-round oversized"></span></span><script>document.getElementById('js_reply-count').style.display = 'inline';</script><a id="js_reply-to-post" href="#" class="reply-to-post reply-count hover-icon proxima js_reply-to-post text-small readonly-hide" rel="nofollow" disabled>Reply</a><noscript>	<span id="js_reply-count" class="proxima text-small mlm mrn">48<span class="icon icon-bubble-round oversized"></span></span><script>document.getElementById('js_reply-count').style.display = 'inline';</script><a href="#" class="reply-to-post reply-count hover-icon proxima text-small" rel="nofollow">Discuss<span class="icon icon-bubble-round oversized"></span></a></noscript><div class="js_like-list-bottom-container"></div></div>	<div class="fb-like" data-href="http://sidespin.kinja.com/the-top-26-greatest-pink-floyd-songs-ranked-1457763082" data-layout="button_count" data-width="100" data-show-faces="false"></div></div></div></div></div></article></div></section><section class="js_replies " data-authorblogname=freemanmcneil data-replycount=48>	<div class="replies-wrapper fade"><div class="js_replycol js_ad300-companion">	<dl class="reply-filters-tabbed sub-nav-tabbed js_reply-filters"><dd class="js_reload-groupchats reload-groupchats"><a href="http://sidespin.kinja.com/the-top-26-greatest-pink-floyd-songs-ranked-1457763082" class="tab-author" onclick="window.ga(&#39;send&#39;, &#39;event&#39;, &#39;Group Chats&#39;, &#39;click&#39;, &#39;Author Chat click&#39; );"><span class="js_author-name">FreemanMcNeil</span>âs Discussions</a></dd><dd  class="js_allview allview"><a href="http://sidespin.kinja.com/the-top-26-greatest-pink-floyd-songs-ranked-1457763082/all" data-currentview="" onclick="window.ga(&#39;send&#39;, &#39;event&#39;, &#39;Group Chats&#39;, &#39;click&#39;, &#39;All Replies click&#39;);" title="View all 48 replies">All replies</a></dd></dl><div class="js_permalink-place permalink-place row" style="display: none;"><div class="row"><div class="twelve columns center"><a class="button secondary js_collapse-branch">Show all threads</a></div></div></div><div class="js_reply-form-container row"></div><div data-view="permalink" class="js_branch-permalink permalink-branch-list branch-list"></div><div data-view="author" class="js_branch-authorchat js_branch-list branch-list branch-authorchat"></div><div data-view="follower" class="js_branch-followchat branch-list"></div><div data-view="popular" class="js_branch-scorechat branch-list"></div><div data-view="user" class="js_branch-userchat branch-list"></div><div class="js_branch-grid other-threads"><h6 class="section-header js_header hide">Hosts of other popular chats</h6><div class="row js_grid"></div></div><div class="js_replymessage hide createnewreply"></div><div class="js_reply-loading-progress reply-spinner hide">	<span class="spinner bounce"><span class="one"></span><span class="two"></span><span class="three"></span></span></div><div class="js_discussionlinks discussionlinks row hide"></div><div class="js_load-more"></div>	<div class="text-right reply-views js_reply-views"><a class="js_reload-groupchats hide" href="http://sidespin.kinja.com/the-top-26-greatest-pink-floyd-songs-ranked-1457763082" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Popular Chat click' );">View FreemanMcNeil's discussions</a><a class="js_allview hide" href="http://sidespin.kinja.com/the-top-26-greatest-pink-floyd-songs-ranked-1457763082/all" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'All Replies click' );">View all 48 replies</a></div></div></div><div class="js_loading-layer row hide"><div class="column"><div class="row"><div class="loading-layer"><div class="large-8 large-offset-4 columns"><div class="loading-layer-main-column">	<span class="spinner bounce"><span class="one"></span><span class="two"></span><span class="three"></span></span></div></div></div></div></div></div></section><script type="text/javascript">(function () {window.kinja = window.kinja || {}; window.kinja.postMeta = JSON.parse(decodeURIComponent( '%7B%22post%22%3A%7B%22id%22%3A1457763082%2C%22headline%22%3A%22The%20Top%2026%20Greatest%20Pink%20Floyd%20Songs%2C%20ranked%22%2C%22permalink%22%3A%22http%3A%2F%2Fsidespin.kinja.com%2Fthe-top-26-greatest-pink-floyd-songs-ranked-1457763082%22%2C%22first100Characters%22%3A%22If%20I%20were%20to%20pick%20one%20band%20to%20consider%20my%20favorite%2C%20I%E2%80%99d%20have%20to%20go%20with%20Pink%20Floyd.%20I%20have%20always%20lo%22%2C%22firstSentence%22%3A%22If%20I%20were%20to%20pick%20one%20band%20to%20consider%20my%20favorite%2C%20I%E2%80%99d%20have%20to%20go%20with%20Pink%20Floyd.%20%22%2C%22facebookImage%22%3A%7B%22src%22%3A%22http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--BV2yGR_8--%2Fc_fit%2Cfl_progressive%2Cq_80%2Cw_470%2Fzbvepzvfcq3gytzkjiqh.jpg%22%2C%22uri%22%3A%22http%3A%2F%2Fimg.gawkerassets.com%2Fimg%2F1958s9wb3qjvfjpg%2Foriginal.jpg%22%2C%22id%22%3A%22zbvepzvfcq3gytzkjiqh%22%2C%22width%22%3A470%2C%22height%22%3A311%2C%22format%22%3A%22jpg%22%2C%22recommended%22%3Afalse%7D%2C%22twitterCardType%22%3A%22summary_large_image%22%2C%22plaintext%22%3A%22If%20I%20were%20to%20pick%20one%20band%20to%20consider%20my%20favorite%2C%20I%E2%80%99d%20have%20to%20go%20with%20Pink%20Floyd.%20I%20have%20always%20loved%20their%20music%20and%20particularly%20their%20lyrics.%20I%20was%20fortunate%20enough%20to%20see%20them%20play%20live%20in%20the%201990s%20and%20I%20saw%20Roger%20Waters%20perform%20The%20Wall%20live%2C%20and%20that%20ranks%20as%20the%20greatest%20concert%20I%E2%80%99ve%20ever%20seen.%20Inspired%20by%20Iron%20Mike%20Gallego%2C%20and%20his%20incredibly%20spot-on%20and%20outstanding%20piece%20on%20ranking%20Beastie%20Boys%20songs%2C%20I%20present%20to%20you%20the%2026%20greatest%20Pink%20Floyd%20songs.%20I%20really%20really%20recommend%20giving%20these%20a%20listen.%22%2C%22authorScreenName%22%3A%22FreemanMcNeil%22%2C%22tags%22%3A%5B%5D%2C%22publishTimeMillis%22%3A1383517260132%2C%22adZone%22%3A%22%22%2C%22sponsored%22%3Afalse%2C%22blogs%22%3A%5B%7B%22id%22%3A118335501%2C%22name%22%3A%22freemanmcneil%22%2C%22displayName%22%3A%22FreemanMcNeil%22%2C%22canonicalHost%22%3A%22freemanmcneil.kinja.com%22%2C%22hosts%22%3A%5B%5D%2C%22applicationHost%22%3A%22kinja.com%22%2C%22status%22%3A%22ENABLED%22%2C%22createTimeMillis%22%3Anull%2C%22lastUpdateTimeMillis%22%3Anull%2C%22createdById%22%3Anull%2C%22ownerId%22%3Anull%2C%22description%22%3Anull%2C%22descriptionHtml%22%3Anull%2C%22properties%22%3A%22%22%2C%22adminProperties%22%3A%22%22%2C%22showLikesInLatest%22%3Anull%2C%22showRepliesInLatest%22%3Anull%2C%22timezone%22%3A%22America%2FNew_York%22%2C%22timezoneOffset%22%3A-18000000%2C%22timezoneShortname%22%3A%22EST%22%2C%22avatar%22%3Anull%2C%22logo%22%3Anull%2C%22groupBlog%22%3Anull%2C%22noindex%22%3Afalse%7D%2C%7B%22id%22%3A452781546%2C%22name%22%3A%22sidespin%22%2C%22displayName%22%3A%22Sidespin%22%2C%22canonicalHost%22%3A%22sidespin.kinja.com%22%2C%22hosts%22%3A%5B%5D%2C%22applicationHost%22%3A%22kinja.com%22%2C%22status%22%3A%22ENABLED%22%2C%22createTimeMillis%22%3Anull%2C%22lastUpdateTimeMillis%22%3Anull%2C%22createdById%22%3Anull%2C%22ownerId%22%3Anull%2C%22description%22%3Anull%2C%22descriptionHtml%22%3Anull%2C%22properties%22%3A%22%7B%7D%22%2C%22adminProperties%22%3A%22%7B%7D%22%2C%22showLikesInLatest%22%3Anull%2C%22showRepliesInLatest%22%3Anull%2C%22timezone%22%3A%22America%2FNew_York%22%2C%22timezoneOffset%22%3A-18000000%2C%22timezoneShortname%22%3A%22EST%22%2C%22avatar%22%3Anull%2C%22logo%22%3Anull%2C%22groupBlog%22%3Anull%2C%22noindex%22%3Afalse%7D%5D%2C%22sharedPostId%22%3Anull%2C%22defaultBlogId%22%3A452781546%7D%2C%22starterId%22%3A1457763082%2C%22tags%22%3A%22%22%2C%22postId%22%3A1457763082%2C%22authors%22%3A%22FreemanMcNeil%22%2C%22postAuthorBlogName%22%3A%22freemanmcneil%22%7D' ));}());</script>		<div class="ad-unit ad-300x250 default mobile js_ad-unit hide-contents" data-cb-ad-id="ad_300x250_default"><div class="ad-container js_ad-container"style="display: none;"id="ad-container-15779283" data-size="300x250" data-random="15779283" data-slot="default" data-zone-class="Zone_Mobile" data-dfp-sz="300x250,320x50"></div></div>	<div class="js_stats" style="display: none;" data-trackurl="http://kinja.com/api/analytics/stats/track.gif?&objectType=post&objectId=1457763082&blogId=452781546&authorId=5837445542701485674"></div><div id="analytics-permalink-view" style="display: none;" data-analytics-api-root-url="http://kinja.com/api/analytics/" data-post-id="1457763082" data-blog-id="452781546" data-author-id="5837445542701485674"></div></div><div class="js_recommended-footer recommended-footer column show-for-small-only"></div></div><div id="trackers" style="display: none;"></div><noscript><img src="http://pubads.g.doubleclick.net/activity;dc_iu=/4246/DFP_Audience_Pixel;dc_seg=22540930;blog=sidespin;ord=1?" width="1" height="1" border="0" /></noscript><script type="text/javascript">
+		Date.now = Date.now || function() { return +new Date; };
+		window.statsdTicks = [{
+			ms: Date.now(),
+			message: "JS init reached",
+			reporting: false
+		}];
+		</script><script>markUserTime("JS - Before Require load");</script><script type="text/javascript" src="http://c.kinja-static.com/assets/javascripts//lib/require.js?2"></script><script type="text/javascript">(function () {window.kinja = window.kinja || {}; window.kinja.meta = JSON.parse(decodeURIComponent( '%7B%22cloudinaryRequest%22%3A%7B%22default%22%3A%7B%22eager%22%3A%22c_fill%2Cfl_progressive%2Cg_center%2Ch_180%2Cq_80%2Cw_320%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_600%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_100%2Cq_80%2Cw_100%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_77%2Cq_80%2Cw_137%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_600%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_264%2Cq_80%2Cw_470%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_358%2Cq_80%2Cw_636%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_264%2Cq_80%2Cw_470%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_120%2Cq_80%2Cw_120%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_636%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_358%2Cq_80%2Cw_636%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_470%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_80%2Cq_80%2Cw_80%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_180%2Cq_80%2Cw_320%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_180%2Cq_80%2Cw_320%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_320%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_120%2Cq_80%2Cw_120%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_200%2Cq_80%2Cw_200%7Cc_fill%2Cfl_progressive%2Cg_faces%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_faces%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_80%2Cq_80%2Cw_80%7C%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_358%2Cq_80%2Cw_636%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_470%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_100%2Cq_80%2Cw_100%7Cc_fit%2Cfl_progressive%2Ch_100%2Cq_80%2Cw_75%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_200%2Cq_80%2Cw_200%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_636%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_320%7Cc_fit%2Cfl_progressive%2Ch_100%2Cq_80%2Cw_75%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_358%2Cq_80%2Cw_636%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_180%2Cq_80%2Cw_320%7C%22%2C%22timestamp%22%3A%221424480504%22%2C%22signature%22%3A%22769c5780e7cf1dcf0c50b0aa9b2d7fd60bd89534%22%2C%22api_key%22%3A%22196565315244936%22%2C%22eager_async%22%3A%22true%22%7D%2C%22gif%22%3A%7B%22eager%22%3A%22c_fill%2Cfl_progressive%2Cg_center%2Ch_180%2Cq_80%2Cw_320%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_600%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_100%2Cq_80%2Cw_100%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_77%2Cq_80%2Cw_137%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_600%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_264%2Cq_80%2Cw_470%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_358%2Cq_80%2Cw_636%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_264%2Cq_80%2Cw_470%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_120%2Cq_80%2Cw_120%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_636%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_358%2Cq_80%2Cw_636%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_470%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_80%2Cq_80%2Cw_80%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_180%2Cq_80%2Cw_320%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_180%2Cq_80%2Cw_320%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_320%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_120%2Cq_80%2Cw_120%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_200%2Cq_80%2Cw_200%7Cc_fill%2Cfl_progressive%2Cg_faces%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_faces%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_80%2Cq_80%2Cw_80%7C%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_358%2Cq_80%2Cw_636%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_470%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_100%2Cq_80%2Cw_100%7Cc_fit%2Cfl_progressive%2Ch_100%2Cq_80%2Cw_75%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_200%2Cq_80%2Cw_200%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_636%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_320%7Cc_fit%2Cfl_progressive%2Ch_100%2Cq_80%2Cw_75%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_358%2Cq_80%2Cw_636%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_180%2Cq_80%2Cw_320%7C%22%2C%22timestamp%22%3A%221424480504%22%2C%22tags%22%3A%22gif%22%2C%22signature%22%3A%22edd5cf0056ce721296f0036d531993a83668a878%22%2C%22api_key%22%3A%22196565315244936%22%2C%22eager_async%22%3A%22true%22%7D%7D%2C%22syncFeatures%22%3Anull%2C%22featuresLastUpdate%22%3A1424470505395%2C%22killswitches%22%3A%7B%22liveblog.pollIntervalMillis%22%3A%7B%22name%22%3A%22liveblog.pollIntervalMillis%22%2C%22value%22%3A%2210000%22%2C%22defaultValue%22%3A%2210000%22%2C%22meta%22%3Anull%7D%2C%22liveblog.appRevision%22%3A%7B%22name%22%3A%22liveblog.appRevision%22%2C%22value%22%3A%221%22%2C%22defaultValue%22%3A%221%22%2C%22meta%22%3Anull%7D%2C%22maintenance%22%3A%7B%22name%22%3A%22maintenance%22%2C%22value%22%3A%22off%22%2C%22defaultValue%22%3A%22off%22%2C%22meta%22%3Anull%7D%7D%2C%22mode%22%3A%22live%22%2C%22pageType%22%3A%22permalink%22%2C%22currentUrl%22%3A%22%2Fthe-top-26-greatest-pink-floyd-songs-ranked-1457763082%22%2C%22locale%22%3A%22en-US%22%2C%22localeWithUnderscore%22%3A%22en_US%22%2C%22imageSizes%22%3A%7B%22KinjaCenteredMedium%22%3A%7B%22width%22%3A320%2C%22height%22%3A180%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22blg-logo%22%3A%7B%22width%22%3A600%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22blg-avt-%22%3A%7B%22width%22%3A100%2C%22height%22%3A100%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22kc-small%22%3A%7B%22width%22%3A137%2C%22height%22%3A77%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22BlogLogo%22%3A%7B%22width%22%3A600%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22k-large%22%3A%7B%22width%22%3A470%2C%22height%22%3A264%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22north%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22kc-xlarge%22%3A%7B%22width%22%3A636%2C%22height%22%3A358%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaLarge%22%3A%7B%22width%22%3A470%2C%22height%22%3A264%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22north%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaCenteredSmall%22%3A%7B%22width%22%3A137%2C%22height%22%3A77%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22k-small%22%3A%7B%22width%22%3A137%2C%22height%22%3A77%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22north%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22AvatarMedium%22%3A%7B%22width%22%3A120%2C%22height%22%3A120%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22ku-xlarge%22%3A%7B%22width%22%3A636%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaSmall%22%3A%7B%22width%22%3A137%2C%22height%22%3A77%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22north%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaExtraLarge%22%3A%7B%22width%22%3A636%2C%22height%22%3A358%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22north%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22ku-large%22%3A%7B%22width%22%3A470%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22avt-small%22%3A%7B%22width%22%3A80%2C%22height%22%3A80%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22k-medium%22%3A%7B%22width%22%3A320%2C%22height%22%3A180%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22north%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaMedium%22%3A%7B%22width%22%3A320%2C%22height%22%3A180%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22north%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22ku-medium%22%3A%7B%22width%22%3A320%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22avt-medium%22%3A%7B%22width%22%3A120%2C%22height%22%3A120%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22avt-large%22%3A%7B%22width%22%3A200%2C%22height%22%3A200%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22k-thumb%22%3A%7B%22width%22%3A137%2C%22height%22%3A77%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22faces%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaThumb%22%3A%7B%22width%22%3A137%2C%22height%22%3A77%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22faces%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22AvatarSmall%22%3A%7B%22width%22%3A80%2C%22height%22%3A80%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22original%22%3A%7B%7D%2C%22k-xlarge%22%3A%7B%22width%22%3A636%2C%22height%22%3A358%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22north%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaUncroppedLarge%22%3A%7B%22width%22%3A470%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22BlogAvatar%22%3A%7B%22width%22%3A100%2C%22height%22%3A100%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22ku-inset%22%3A%7B%22width%22%3A75%2C%22height%22%3A100%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22AvatarLarge%22%3A%7B%22width%22%3A200%2C%22height%22%3A200%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaUncroppedExtraLarge%22%3A%7B%22width%22%3A636%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaUncroppedMedium%22%3A%7B%22width%22%3A320%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaUncroppedInset%22%3A%7B%22width%22%3A75%2C%22height%22%3A100%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaCenteredExtraLarge%22%3A%7B%22width%22%3A636%2C%22height%22%3A358%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22kc-medium%22%3A%7B%22width%22%3A320%2C%22height%22%3A180%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22Original%22%3A%7B%7D%7D%2C%22blog%22%3A%7B%22id%22%3A452781546%2C%22name%22%3A%22sidespin%22%2C%22displayName%22%3A%22Sidespin%22%2C%22canonicalHost%22%3A%22sidespin.kinja.com%22%2C%22applicationHost%22%3A%22kinja.com%22%2C%22status%22%3A%22ENABLED%22%2C%22description%22%3A%22A%20Bad%20Place%20Full%20Of%20Bad%20Jerks%22%2C%22descriptionHtml%22%3A%22%22%2C%22showLikesInLatest%22%3Afalse%2C%22showRepliesInLatest%22%3Afalse%2C%22timezone%22%3A%22America%2FNew_York%22%2C%22timezoneOffset%22%3A-18000000%2C%22timezoneShortname%22%3A%22EST%22%2C%22locale%22%3A%22en-US%22%2C%22robotsAllowed%22%3Atrue%2C%22fbAppId%22%3A%2236368793975%22%2C%22googleSiteVerification%22%3Anull%2C%22googleAnalyticsID%22%3Anull%2C%22kruxId%22%3Anull%2C%22template%22%3A%22default%22%2C%22blogGroup%22%3A%22default%22%2C%22isGmgBlog%22%3Afalse%2C%22groupBlog%22%3Atrue%2C%22showInsets%22%3Atrue%2C%22hasTouchIcon%22%3Afalse%2C%22avatar%22%3A%7B%22src%22%3A%22http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--hyVrmsP6--%2Fc_fit%2Cfl_progressive%2Cq_80%2Cw_636%2F193eup91tpj7vjpg.jpg%22%2C%22uri%22%3Anull%2C%22id%22%3A%22193eup91tpj7vjpg%22%2C%22width%22%3A636%2C%22height%22%3Anull%2C%22format%22%3A%22jpg%22%2C%22recommended%22%3Anull%7D%2C%22logo%22%3Anull%2C%22noindex%22%3Afalse%7D%2C%22blogOwner%22%3A%7B%22id%22%3A%225757429808060275853%22%2C%22screenName%22%3A%22AlbertBurneko%22%2C%22displayName%22%3A%22Albert%20Burneko%22%2C%22superUser%22%3Afalse%2C%22defaultBlogId%22%3A140986%2C%22defaultBlog%22%3Anull%2C%22avatar%22%3A%7B%22id%22%3A%22t3ki5dtmm4ryceqtl3bq%22%2C%22format%22%3A%22jpg%22%7D%7D%2C%22blogSales%22%3A%7B%22blogId%22%3A452781546%2C%22amazonInsetsEnabled%22%3Afalse%2C%22adsEnabled%22%3Afalse%2C%22tagsExcludedFromPartnerRss%22%3A%5B%5D%2C%22tagsForceSynced%22%3A%5B%5D%2C%22adSlotsDisabled%22%3A%5B%5D%2C%22stored%22%3Atrue%7D%2C%22imgassets%22%3A%22http%3A%2F%2Fc.kinja-static.com%2Fassets%2Fimages%2F%22%7D' ));}());</script><script type="text/javascript">(function () {/* This AMD configuration is used in these contexts:1) in-browser2) build process3) tests*/(function () {'use strict';/*globals requirejs, document */requirejs.config({bundles: {'lib/scribe/scribe': ['scribe']},paths: (function () {var paths = {'html-janitor': 'lib/html-janitor',jquery: 'lib/jquery',underscore: 'lib/underscore',backbone: 'lib/backbone','backbone.marionette': 'lib/backbone.marionette','backbone.stickit': 'lib/backbone.stickit',moment: 'lib/amd-wrapped/momentjs/moment','moment-timezone': 'lib/amd-wrapped/momentjs/moment-timezone','jquery.tap': 'lib/amd-wrapped/tap.js/jquery.tap',ace: 'lib/ace','scribe-virtualdom': 'lib/scribe-virtualdom','scribe-plugin-heading-command': 'lib/scribe/plugins/scribe-plugin-heading-command','scribe-plugin-smart-lists': 'lib/scribe/plugins/scribe-plugin-smart-lists','scribe-plugin-blockquote-command': 'lib/scribe/plugins/scribe-plugin-blockquote-command','scribe-plugin-intelligent-unlink-command': 'lib/scribe/plugins/scribe-plugin-intelligent-unlink-command','scribe-plugin-formatter-html-ensure-semantic-elements': 'lib/scribe/plugins/scribe-plugin-formatter-html-ensure-semantic-elements','scribe-plugin-inline-styles-to-elements': 'lib/scribe/plugins/scribe-plugin-inline-styles-to-elements','scribe-plugin-keyboard-shortcuts': 'lib/scribe/plugins/scribe-plugin-keyboard-shortcuts','scribe-plugin-sanitizer': 'lib/scribe/plugins/scribe-plugin-sanitizer','scribe-plugin-code-command': 'lib/scribe/plugins/scribe-plugin-code-command','scribe-plugin-curly-quotes': 'lib/scribe/plugins/scribe-plugin-curly-quotes'};if (typeof document !== 'undefined') {paths.templates = 'templates/closure/' + (document.getElementsByTagName('html')[0].getAttribute('lang') || 'en-US');}return paths;}())});}());var modules = {"BaseApp": "-cad246431055dde66d493940dd5830c7","TagPageApp": "-eb74c5e6cd97d1dec31c3b831d25fc4e","FrontPageApp": "-5c24fbb7cf5c7361925f6e5448d73cbc","Main": "-0ec8e52c047fb426d98f4a1732e63ca3","PromotedPostPreview": "-c65728437802ef4d4355af7d69e650b8","RuleSystem": "-161f461cdb9b9c35bc0fbf5da19659b8","ImagePlaceholder": "-a006bdcfa95a783d4eff179caa434feb","ace": "-a486a39565033c80d86a498ff172dad1","AmazonStats": "-729271b44d48768ebb5a3141e694e493","GroupchatsModule": "-54cdbd1da251049ccc3d512dc635f9dc","KindrApp": "-0e1c87cc56972df4edcbd4ea09a75a98","FeaturesPageApp": "-be3ba53b21f6a4f31fcb72f8427e6931","LeaderboardStatsPageApp": "-fa0d3f3d63fcd05612f0d94272eb1f65","ScribeEditor": "-4e4c86581a68a0989b077e4863a9f5c3","PrivatePageApp": "-02f1a2b9eb97dd57eaa8a5df97f23c7f","PostDebugPageApp": "-5ac167cfa07484ba4b12fd40b6ea93cc","PostApp": "-09905b49880636263763f709ba8e8417","StatsPageApp": "-5d3b2012d471b7bb138ed07d19e51366","FlaggedRepliesApp": "-5a1c225d65dd13b837c7cc2a44acd662","MarionetteEditor": "-13374aea4cf46fab021e48bcecda15fd","AccountModalsModule": "-3e8352d2da4e4632c0c96287ee7e8136","BlacklistPageApp": "-003d322e37207691b83fda454b9784e8","JWPlayer": "-bcb2726c49022f1b0a79203da422279b","GmgFeaturesPageApp": "-a5d2398769f93d326136552c1c3312b3","DiscussionModule": "-4841e38624b1ecc1d44a3690df15999a","ErrorPageApp": "-ab69e0518c3e337a21073090c5525fa6","NotificationsPageApp": "-92b9720e0487514d5003e6fffc7fba61","TipsApp": "-da4e5ac46cf9c7cc59e3fa6588009cbc","KinjaAnalytics": "-c5dd2fcc353c6463c8599273373c5df2","KinjaFeedApp": "-b9cc2453e8c0f7189c5bee909f14a743","AmazonInsetsModule": "-dbd8f8ba0d91ca461cfecc13ea115208","SearchPageApp": "-50be95b327967e6ffb218ae18e2698f9","Raven": "-3467f3aed7fecb0be39f14c0d7095e44","BusinessModule": "-47359caffa05f9a949a9e97c917d294d","UIKitApp": "-6c11267b9d10dc294527a611af00ef0a","BlogSettingsModule": "-86de1f464c7b97863c72fdef38fcebcf","StatsPerformanceApp": "-a44d375fafca4525aae2635daa7e56c2"}, paths = {}, baseUrl = "http://c.kinja-static.com/assets/javascripts-min/", modulePath = "layer/"; for (var module in modules) {if (modules.hasOwnProperty(module)) {paths["module/" + module] = "module/" + module + "-en-US" + modules[module]; paths["layer/" + module] = "layer/" + module + "-en-US" + modules[module];}}require.config({waitSeconds: 0, baseUrl: baseUrl, paths: paths, map: {"*": {"config": "config"}}});markUserTime("JS - Before preload"); var mainModules = [modulePath + "Main", modulePath + "PostApp"];require(mainModules, function () {markUserTime("JS - After preload"); require(["module/Main"], function () {markUserTime("JS - After app init");});});}());</script><!--[if gte IE 9]> --><script>require(["module/Raven"]);</script><!-- <![endif]--><div class="reveal-modal-bg"></div><div class="ad-background"></div><div id="modalplaceholder"></div></div><div class="footer-kinja"><div class="footer-kinja__top">	<footer class="row site-footer js_site-footer"><div class="large-8 large-offset-4 columns text-center"><ul class="list list-text text-light proxima"><li><a href="http://help.gawker.com/" target="_blank">Help</a></li><li><a href="http://legal.kinja.com/kinja-terms-of-use-90161644">Terms of Use</a></li><li><a href="http://legal.kinja.com/privacy-policy-90190742">Privacy</a></li><li><a href="http://advertising.gawker.com/">Advertising</a></li><li><a href="http://advertising.gawker.com/about/index.php#contact">Permissions</a></li><li><a href="http://legal.kinja.com/content-guidelines-90185358">Content Guidelines</a></li><li><a href="http://sidespin.kinja.com/rss">RSS</a></li></ul></div></footer>	
+	<!-- Begin comScore Tag -->
+	<noscript>
+		<img src="http://b.scorecardresearch.com/p?c1=2&c2=6770184&cv=2.0&cj=1" />
+	</noscript>
+	<!-- End comScore Tag -->
+	</div><div class="footer-kinja__bottom"><div class="row"><div class="column"><div class="logo-wrapper"><span>Powered by</span><a href="http://kinja.com" data-ga="[Kinja Footer, Kinja.com Click, js_pageType]"><h1 class="kinja-title kinja-title--white">Kinja</h1></a></div></div></div></div></div></div>	<div style="display:none;" id="read-only-warning"><div class="row"><div class="column small-12">Kinja is in read-only mode. We are working to restore service.</div></div></div><div id="matchbuy-placeholder"></div></body></html>

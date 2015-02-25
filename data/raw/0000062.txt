@@ -1,0 +1,1767 @@
+
+
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN' 'http://www.w3.org/TR/html4/loose.dtd'>
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<script type="text/javascript" charset="utf-8">
+        (function (G, o, O, g, L, e) {
+            G[g] = G[g] || function () {
+                (G[g]['q'] = G[g]['q'] || []).push(
+                 arguments)
+            }, G[g]['t'] = 1 * new Date; L = o.createElement(O), e = o.getElementsByTagName(
+            O)[0]; L.async = 1; L.src = '//www.google.com/adsense/search/async-ads.js';
+            e.parentNode.insertBefore(L, e)
+        })(window, document, 'script', '_googCsa');
+</script>
+
+   
+
+    
+    <link href="/spa_assets/R16B051/site/cliffsnotes2/include/style.css" type="text/css"
+        rel="stylesheet">
+    <link href="/assets/3215/01/321501.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="/assets/1807/59/180759.css" media="all" rel="stylesheet" type="text/css" />
+
+    <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/themes/base/jquery-ui.css" rel="stylesheet" type="text/css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+
+    
+    
+    <script type="text/javascript" src="/assets/5002/50/slideshow.js"></script>
+    <script type="text/javascript">
+        jQuery(function ($) {
+            $('.slideshow').show();
+
+            if ($('.slideshow').length) {
+                $('.slideshow').slideshow({
+                    'slidesSelector': '.slide',
+                    'navigation': '.slideshow .slide-nav ul',
+                    'previous': '.slideshow .slide-nav .previous',
+                    'next': '.slideshow .slide-nav .next',
+                    'pause': 6000,
+                    'transition': 1500
+                });
+            }
+        });
+    </script>
+
+    <!-- WP - 253 DTM Implementation for cliffsnotes -->
+  
+
+    <script src='//assets.adobedtm.com/5d599bba477bad3ce4973aeb5c0a8c11709abbb4/satelliteLib-be7c0d7e253ce63fcfdfe0aff228b9a92b99ce20.js'></script>
+ 
+
+
+
+
+
+<script type='text/javascript' src='http://static.bookragscdn.com/js/bookrags/site_base.js?cachex=1383784449'></script>
+<script type='text/javascript' src='http://static.bookragscdn.com/js/bookrags/dart.js?cachex=1383784449'></script>
+
+<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-berY5RRQGbf0c&callback=qc_results"></script>
+<script type="text/javascript">
+    window.bkrAds = [];
+</script>
+
+
+
+<script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+        var gads = document.createElement('script');
+        gads.async = true; gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+
+<script type="text/javascript">
+    googletag.cmd.push(function ()
+    {
+        googletag.pubads()
+		.setTargeting('s1', 'home')
+		.setTargeting('s2', '')
+		.setTargeting('title', '')
+		.setTargeting('prodtype', '')
+		.setTargeting('urldir', '')
+		.setTargeting('qcsegs', ['D', 'T', '18972', '18970', '18969', '18968', '18965', '18962', '18958', '18953', '18950', '18949', '18947', '18946', '18939', '18936', '18934', '18926', '18916', '18914', '18913', '18912', '18909', '18907', '18904', '18901', '18899', '18894', '18884', '18879', '18878', '18872', '18869', '18868', '18860', '18856', '18853', '18837', '18836', '18835', '18833']);
+
+        //googletag.defineSlot('/1010542/BKR_home__Wallpaper', [1, 1], 'wallAd').addService(googletag.pubads());
+               
+        //Adslot 1 declaration
+        googletag.defineSlot('/9291789/cliffsnotes.com/litnotes', [728, 90], 'TopAdSpace').setTargeting('position', ['top']).addService(googletag.pubads());
+
+        //Adslot 2 declaration
+        googletag.defineSlot('/9291789/cliffsnotes.com/litnotes', [160, 600], 'LongBannerAdSpace').addService(googletag.pubads());
+        googletag.defineSlot('/9291789/cliffsnotes.com', [[300, 250]], 'div-gpt-ad-174800030793767608-1').setTargeting('position', ['bottom']).addService(googletag.pubads());
+
+        //Adslot 3 declaration
+        googletag.defineSlot('/9291789/cliffsnotes.com/litnotes', [300, 250], 'SquareAdSpace').addService(googletag.pubads());
+        googletag.defineSlot('/9291789/cliffsnotes.com', [[300, 250]], 'div-gpt-ad-597752609420290736-1').setTargeting('position', ['top']).addService(googletag.pubads());
+
+        //Adslot 3b declaration
+        //googletag.defineSlot('/9291789/cliffsnotes.com/litnotes', [300, 250], 'SquareAdSpaceBottom').addService(googletag.pubads());
+
+       
+        //Adslot 5 declaration        
+        googletag.defineSlot('/9291789/cliffsnotes.com', [728, 90], 'BottomAdSpace').setTargeting('position', ['bottom']).addService(googletag.pubads());
+
+        googletag.defineSlot('/9291789/cliffsnotes.com/siteskin', [[1, 1]], 'div-gpt-ad-773085412981647790-1').addService(googletag.pubads());
+        googletag.defineSlot('/9291789/cliffsnotes.com/siteskin', [970, 66], 'div-gpt-ad-1380638722905-0').addService(googletag.pubads());
+        googletag.defineOutOfPageSlot('/9291789/cliffsnotes.com/siteskin', 'div-gpt-ad-1380638722905-0-oop').addService(googletag.pubads());       
+        
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().enableAsyncRendering();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+</script>
+<script type='text/javascript'>
+    window.cliffsnotesAds = {
+        '1x1_Wallpaper': { 'slot': 'BKR_home__Wallpaper', 'adHeight': 1 },
+        '970x66_ATF': { 'slot': 'BKR_home__970x66_ATF', 'adHeight': 66 }
+    };
+    window.bookragsAds.slotHeightChange = function (slotName, newHeight) {
+        if (this[slotName] && this[slotName].slot) {
+            var adIframe = $('iframe[id*="' + this[slotName].slot + '"][name*="' + this[slotName].slot + '"]');
+            if (adIframe && adIframe.attr('height') && parseInt(adIframe.attr('height')) != parseInt(newHeight)) {
+                adIframe.attr('height', parseInt(newHeight));
+            }
+        }
+    }
+
+</script><meta name="keywords" content="J. D. Salinger, The Catcher in the Rye" />
+<meta name="description" content="Get free homework help on J. D. Salinger&#39;s The Catcher in the Rye: book summary, chapter summary and analysis, quotes, essays, and character analysis courtesy of CliffsNotes. In J.D. Salinger&#39;s &lt;i>The Catcher in the Rye&lt;/i>, Holden Caulfield recounts the days following his expulsion from Pencey Prep, a private school. After a fight with his roommate, Stradlater, Holden leaves school two days early to explore New York before returning home, interacting with teachers, prostitutes, nuns, an old girlfriend, and his sister along the way. J.D. Salinger&#39;s classic &lt;i>The Catcher in the Rye&lt;/i> illustrates a teenager&#39;s dramatic struggle against death and growing up. Read more at CliffsNotes.com" />
+<link href="/~/media/Cliffs Notes/Site Images/favicon.ashx" rel="shortcut icon" type="image/x-icon" /><title>
+	The Catcher in the Rye: The Catcher in the Rye Book Summary & Study Guide | CliffsNotes
+</title></head>
+<body>
+    <!-- Begin ad: 1x1 Dart-SB -->
+    <!-- dart_wallpaper -->
+    <!-- cliffsnotes.com/siteskin out-of-page -->
+    <div id='div-gpt-ad-1380638722905-0-oop' style='width:1px; height: 1px;  position:absolute; background-color:transparent;'>
+    <script type='text/javascript'>
+        
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1380638722905-0-oop'); });
+
+    </script>
+    </div>
+    <!-- END dart_wallpaper -->
+    <!-- End ad -->
+
+    <!-- Utility Navigation -->
+    <div id="headerNavigationContainer">
+        <div id="headerUtilityNavigation">
+            <!-- User SignIn / SignUp -->
+            <div id="signedOut">
+                <div id="signInButton">
+                    <a href="http://www.hmhco.com/account/sign-in?ReturnUrl=%2f" id="signInLink">Sign In</a>
+                </div>
+                <div id="signUpButton">
+                    <a href="https://www.hmhco.com/account/sign-in?inCheckout=false&ReturnUrl=%2f" id="signUpLink">Sign Up</a>
+                </div>
+            </div>
+            
+            <!-- Shopping Cart -->  
+            <div id="cartButton">
+                <a id="cartNav" href="http://www.hmhco.com/hmhstorefront/cart">Cart</a>
+            </div>
+        </div>
+    </div>
+
+    <form method="post" action="/literature/c/the-catcher-in-the-rye/the-catcher-in-the-rye-at-a-glance" id="form1" class="litnotecontent">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTIzNzA4NDQ5NQ9kFgQCBxAWAh4FY2xhc3MFDmxpdG5vdGVjb250ZW50ZBYGAgUPZBYCZg9kFgICAQ8WAh4LXyFJdGVtQ291bnQCAhYEAgEPZBYEZg8VAgZCUk9XU0UGQlJPV1NFZAIBDxYCHwECAhYEAgEPZBYGZg8VAQdwYWRMZWZ0ZAIBDxYCHwECCxYWZg9kFgJmDxUEDm5hdi1saXRlcmF0dXJlCy9saXRlcmF0dXJlAApMaXRlcmF0dXJlZAIBD2QWAmYPFQQNbmF2LXRlc3QtcHJlcAovdGVzdC1wcmVwAAlUZXN0IFByZXBkAgIPZBYCZg8VBBduYXYtc2hha2VzcGVhcmUtY2VudHJhbB4vbGl0ZXJhdHVyZS9zaGFrZXNwZWFyZWNlbnRyYWwAE1NoYWtlc3BlYXJlIENlbnRyYWxkAgMPZBYCZg8VBAxuYXYtc2NpZW5jZXMJL3NjaWVuY2VzAAhTY2llbmNlc2QCBA9kFgJmDxUEC25hdi1jb2xsZWdlDy9maW5kLWEtY29sbGVnZQAHQ29sbGVnZWQCBQ9kFgJmDxUED25hdi1zdHVkeS1icmVhawwvc3R1ZHktYnJlYWsAC1N0dWR5IEJyZWFrZAIGD2QWAmYPFQQIbmF2LW1hdGgFL21hdGgABE1hdGhkAgcPZBYCZg8VBBBuYXYtbmFtZS13cml0aW5nCC93cml0aW5nAAdXcml0aW5nZAIID2QWAmYPFQQRbmF2LW1vcmUtc3ViamVjdHMOL21vcmUtc3ViamVjdHMADU1vcmUgU3ViamVjdHNkAgkPZBYCZg8VBBRuYXYtZm9yZWlnbi1sYW5ndWFnZRIvZm9yZWlnbi1sYW5ndWFnZXMAEUZvcmVpZ24gTGFuZ3VhZ2VzZAIKD2QWAmYPFQQIbmF2LWJsb2cLL2NsaWZmc2Jsb2cABEJMT0dkAgMPFgIfAWZkAgIPZBYGZg8VAQVsaWdodGQCAQ8WAh8BZmQCAw8WAh8BAgIWBGYPZBYEZg8VAQ1Qb3B1bGFyIExpbmtzZAIBDxYCHwECBhYMAgEPZBYCZg8VBBduYXYtcG9wdWxhci1zaGFrZXNwZWFyZR4vbGl0ZXJhdHVyZS9zaGFrZXNwZWFyZWNlbnRyYWwAFjEuIFNoYWtlc3BlYXJlIENlbnRyYWxkAgIPZBYCZg8VBBNuYXYtcG9wdWxhci10ZWFjaGVyFi90ZWFjaGVyLXJlc291cmNlLXBhZ2UAFDIuIFRlYWNoZXIgUmVzb3VyY2VzZAIDD2QWAmYPFQQVbmF2LXNoYWtlc3BlYXJlLW1hbmdhDi9tYW5nYWVkaXRpb25zABQzLiBTaGFrZXNwZWFyZSBNYW5nYWQCBA9kFgJmDxUEFG5hdi10ZXN0LXByZXAtY2VudGVyCi90ZXN0LXByZXAAEzQuIFRlc3QgUHJlcCBDZW50ZXJkAgUPZBYCZg8VBB1uYXYtb25saW5lLXF1aXp6ZXMtYnktc3ViamVjdBkvc2NpZW5jZXMvYmlvbG9neS1xdWl6emVzABI1LiBCaW9sb2d5IFF1aXp6ZXNkAgYPZBYCZg8VBA9uYXYtbW9iaWxlLWFwcHMeL2xpdGVyYXR1cmUvY2xpZmZzbm90ZXMtbW9iaWxlAA42LiBNb2JpbGUgQXBwc2QCAQ9kFgRmDxUBD1RvcCAxMCBMaXROb3Rlc2QCAQ8WAh8BAgoWFAIBD2QWAmYPFQQZbmF2LXRvLWtpbGwtYS1tb2NraW5nYmlyZEUvbGl0ZXJhdHVyZS90L3RvLWtpbGwtYS1tb2NraW5nYmlyZC90by1raWxsLWEtbW9ja2luZ2JpcmQtYXQtYS1nbGFuY2UAGDEuIFRvIEtpbGwgYSBNb2NraW5nYmlyZGQCAg9kFgJmDxUEGG5hdi1hLXRhbGUtb2YtdHdvLWNpdGllc0MvbGl0ZXJhdHVyZS90L2EtdGFsZS1vZi10d28tY2l0aWVzL2EtdGFsZS1vZi10d28tY2l0aWVzLWF0LWEtZ2xhbmNlABcyLiBBIFRhbGUgb2YgVHdvIENpdGllc2QCAw9kFgJmDxUED25hdi1hbmltYWwtZmFybTEvbGl0ZXJhdHVyZS9hL2FuaW1hbC1mYXJtL2FuaW1hbC1mYXJtLWF0LWEtZ2xhbmNlAA4zLiBBbmltYWwgRmFybWQCBA9kFgJmDxUEEW5hdi1jYXRjaGluZy1maXJlSy9saXRlcmF0dXJlL2MvY2F0Y2hpbmctZmlyZS1ib29rLTItb2YtdGhlLWh1bmdlci1nYW1lcy10cmlsb2d5L2Jvb2stc3VtbWFyeQAQNC4gQ2F0Y2hpbmcgRmlyZWQCBQ9kFgJmDxUEE25hdi1vZi1taWNlLWFuZC1tZW45L2xpdGVyYXR1cmUvby9vZi1taWNlLWFuZC1tZW4vb2YtbWljZS1hbmQtbWVuLWF0LWEtZ2xhbmNlABI1LiBPZiBNaWNlIGFuZCBNZW5kAgYPZBYCZg8VBBpuYXYtdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZUcvbGl0ZXJhdHVyZS9jL3RoZS1jYXRjaGVyLWluLXRoZS1yeWUvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS1hdC1hLWdsYW5jZQAZNi4gVGhlIENhdGNoZXIgaW4gdGhlIFJ5ZWQCBw9kFgJmDxUEFG5hdi10aGUtZ3JlYXQtZ2F0c2J5Oy9saXRlcmF0dXJlL2cvdGhlLWdyZWF0LWdhdHNieS90aGUtZ3JlYXQtZ2F0c2J5LWF0LWEtZ2xhbmNlABM3LiBUaGUgR3JlYXQgR2F0c2J5ZAIID2QWAmYPFQQRbmF2LXRoZS1vdXRzaWRlcnMoL2xpdGVyYXR1cmUvby90aGUtb3V0c2lkZXJzL2Jvb2stc3VtbWFyeQAQOC4gVGhlIE91dHNpZGVyc2QCCQ9kFgJmDxUEFG5hdi1yb21lby1hbmQtanVsaWV0Oy9saXRlcmF0dXJlL3Ivcm9tZW8tYW5kLWp1bGlldC9yb21lby1hbmQtanVsaWV0LWF0LWEtZ2xhbmNlABM5LiBSb21lbyBhbmQgSnVsaWV0ZAIKD2QWAmYPFQQVbmF2LWxvcmQtb2YtdGhlLWZsaWVzPS9saXRlcmF0dXJlL2wvbG9yZC1vZi10aGUtZmxpZXMvbG9yZC1vZi10aGUtZmxpZXMtYXQtYS1nbGFuY2UAFTEwLiBMb3JkIG9mIHRoZSBGbGllc2QCAg9kFgRmDxUCBFNIT1AEU0hPUGQCAQ8WAh8BAgMWBgIBD2QWBmYPFQEHcGFkTGVmdGQCAQ8WAh8BAggWEGYPZBYCZg8VBBNuYXYtc2hvcC1saXRlcmF0dXJlkQFodHRwOi8vd3d3LmhtaGNvLmNvbS9zZWFyY2g/aT0xO21tPXRyYWRlO3E9Y2xpZmZzbm90ZXMrbGl0O3ExPUxJVEVSQVJZK0NSSVRJQ0lTTTtyYW5rPVByb2dyYW1fUmV2ZW51ZTtzZWdtZW50PVByb2R1Y3RzO3NvcnQ9d2Vla2x5UmV2ZW51ZTt4MT10LnQyBl9ibGFuawpMaXRlcmF0dXJlZAIBD2QWAmYPFQQNbmF2LXNob3AtbWF0aJ8BaHR0cDovL3d3dy5obWhjby5jb20vc2VhcmNoP2k9MTttbT10cmFkZTtxPWNsaWZmcyttYXRoO3ExPU1BVEhFTUFUSUNTO3EyPUNsaWZmc05vdGVzO3Jhbms9UHJvZ3JhbV9SZXZlbnVlO3NlZ21lbnQ9UHJvZHVjdHM7c29ydD13ZWVrbHlSZXZlbnVlO3gxPXQudDI7eDI9YnJhbmRzBl9ibGFuawRNYXRoZAICD2QWAmYPFQQMbmF2LXNob3Atc2F0VWh0dHA6Ly93d3cuaG1oY28uY29tL3BhcmVudHMtYW5kLWtpZHMvaG9tZXdvcmstaGVscC9jbGlmZnNub3Rlcy10ZXN0LXByZXAvc2F0LWFuZC1hY3QGX2JsYW5rA1NBVGQCAw9kFgJmDxUEC25hdi1zaG9wLWFwUmh0dHA6Ly93d3cuaG1oY28uY29tL3BhcmVudHMtYW5kLWtpZHMvaG9tZXdvcmstaGVscC9jbGlmZnNub3Rlcy10ZXN0LXByZXAvY2xpZmZzYXAGX2JsYW5rAkFQZAIED2QWAmYPFQQTbmF2LXNob3AtYWNjb3VudGluZ2todHRwOi8vd3d3LmhtaGNvLmNvbS9zZWFyY2g/aT0xO21tPXRyYWRlO3E9Y2xpZmZzcXVpY2tyZXZpZXcrYWNjb3VudGluZztzZWdtZW50PVByb2R1Y3RzO3NvcnQ9d2Vla2x5UmV2ZW51ZQZfYmxhbmsKQWNjb3VudGluZ2QCBQ9kFgJmDxUEEm5hdi1zaG9wLWVjb25vbWljc8UBaHR0cDovL3d3dy5obWhjby5jb20vc2VhcmNoP2k9MTttbT10cmFkZTtxPWNsaWZmcytlY29ub21pY3M7cTE9Q2xpZmZzTm90ZXM7cTI9R2VuZXJhbCtJbnRlcmVzdDtxMz1QYXBlcmJhY2s7cmFuaz1Qcm9ncmFtX1JldmVudWU7c2VnbWVudD1Qcm9kdWN0cztzb3J0PXJlbGV2YW5jZTt4MT1icmFuZHM7eDI9dG9wTmF2aWdhdGlvbjt4Mz1mb3JtYXQGX2JsYW5rCUVjb25vbWljc2QCBg9kFgJmDxUEEG5hdi1zaG9wLWhpc3RvcnmsAWh0dHA6Ly93d3cuaG1oY28uY29tL3NlYXJjaD9pPTE7bW09dHJhZGU7cT1jbGlmZnMraGlzdG9yeTtxMT1DbGlmZnNOb3RlcztxMj1HZW5lcmFsK0ludGVyZXN0O3Jhbms9UHJvZ3JhbV9SZXZlbnVlO3NlZ21lbnQ9UHJvZHVjdHM7c29ydD1yZWxldmFuY2U7eDE9YnJhbmRzO3gyPXRvcE5hdmlnYXRpb24GX2JsYW5rB0hpc3RvcnlkAgcPZBYCZg8VBBBuYXYtc2hvcC13cml0aW5nemh0dHA6Ly93d3cuaG1oY28uY29tL3NlYXJjaD9pPTE7bW09dHJhZGU7cT1jbGlmZnMrd3JpdGluZytncmFtbWFyO3ExPVJFRkVSRU5DRTtzZWdtZW50PVByb2R1Y3RzO3NvcnQ9d2Vla2x5UmV2ZW51ZTt4MT10LnQyBl9ibGFuawdXcml0aW5nZAIDDxYCHwFmZAICD2QWBmYPFQEHcGFkTGVmdGQCAQ8WAh8BAgkWEmYPZBYCZg8VBBRuYXYtc2hvcC1zaGFrZXNwZWFyZaYBaHR0cDovL3d3dy5obWhjby5jb20vc2VhcmNoP2k9MTttbT10cmFkZTtxPWNsaWZmcytzaGFrZXNwZWFyZTtxMT1QYXBlcmJhY2s7cTI9Q2xpZmZzTm90ZXM7cmFuaz1Qcm9ncmFtX1JldmVudWU7c2VnbWVudD1Qcm9kdWN0cztzb3J0PXdlZWtseVJldmVudWU7eDE9Zm9ybWF0O3gyPWJyYW5kcwZfYmxhbmsLU2hha2VzcGVhcmVkAgEPZBYCZg8VBBJuYXYtc2hvcC10ZXN0LXByZXC6AWh0dHA6Ly93d3cuaG1oY28uY29tL3NlYXJjaD9pPTE7bW09dHJhZGU7cT1jbGlmZnMrdGVzdCtwcmVwO3ExPVNUVURZK0FJRFM7cTI9Q2xpZmZzTm90ZXM7cTM9UGFwZXJiYWNrO3Jhbms9UHJvZ3JhbV9SZXZlbnVlO3NlZ21lbnQ9UHJvZHVjdHM7c29ydD13ZWVrbHlSZXZlbnVlO3gxPXQudDI7eDI9YnJhbmRzO3gzPWZvcm1hdAZfYmxhbmsJVGVzdCBQcmVwZAICD2QWAmYPFQQMbmF2LXNob3AtYWN0VWh0dHA6Ly93d3cuaG1oY28uY29tL3BhcmVudHMtYW5kLWtpZHMvaG9tZXdvcmstaGVscC9jbGlmZnNub3Rlcy10ZXN0LXByZXAvc2F0LWFuZC1hY3QGX2JsYW5rA0FDVGQCAw9kFgJmDxUEG25hdi1zaG9wLXByb2Zlc3Npb25hbC1leGFtc6wBaHR0cDovL3d3dy5obWhjby5jb20vc2VhcmNoP2k9MTttbT10cmFkZTtxPWNsaWZmcyt0ZXN0K3Byb2Zlc3Npb25hbDtxMT1DbGlmZnNOb3RlcztxMj1QYXBlcmJhY2s7cmFuaz1Qcm9ncmFtX1JldmVudWU7c2VnbWVudD1Qcm9kdWN0cztzb3J0PXdlZWtseVJldmVudWU7eDE9YnJhbmRzO3gyPWZvcm1hdAZfYmxhbmsSUHJvZmVzc2lvbmFsIEV4YW1zZAIED2QWAmYPFQQTbmF2LXNob3AtY3JhbS1wbGFuc6QBaHR0cDovL3d3dy5obWhjby5jb20vc2VhcmNoP2k9MTttbT10cmFkZTtxPWNsaWZmcytjcmFtK3BsYW47cTE9Q2xpZmZzTm90ZXM7cTI9UGFwZXJiYWNrO3Jhbms9UHJvZ3JhbV9SZXZlbnVlO3NlZ21lbnQ9UHJvZHVjdHM7c29ydD13ZWVrbHlSZXZlbnVlO3gxPWJyYW5kczt4Mj1mb3JtYXQGX2JsYW5rCkNyYW0gUGxhbnNkAgUPZBYCZg8VBBJuYXYtc2hvcC1zb2Npb2xvZ3lqaHR0cDovL3d3dy5obWhjby5jb20vc2VhcmNoP2k9MTttbT10cmFkZTtxPWNsaWZmc3F1aWNrcmV2aWV3K3NvY2lvbG9neTtzZWdtZW50PVByb2R1Y3RzO3NvcnQ9d2Vla2x5UmV2ZW51ZQZfYmxhbmsJU29jaW9sb2d5ZAIGD2QWAmYPFQQZbmF2LXNob3AtZm9yZWlnbi1sYW5ndWFnZZQBaHR0cDovL3d3dy5obWhjby5jb20vc2VhcmNoP2k9MTttbT10cmFkZTtxPWNsaWZmcytmb3JlaWduK2xhbmd1YWdlO3ExPUNsaWZmc05vdGVzO3Jhbms9UHJvZ3JhbV9SZXZlbnVlO3NlZ21lbnQ9UHJvZHVjdHM7c29ydD13ZWVrbHlSZXZlbnVlO3gxPWJyYW5kcwZfYmxhbmsQRm9yZWlnbiBMYW5ndWFnZWQCBw9kFgJmDxUEFG5hdi1zaG9wLWZsYXNoLWNhcmRzfmh0dHA6Ly93d3cuaG1oY28uY29tL3NlYXJjaD9pPTE7bW09dHJhZGU7cT1jbGlmZnNub3RlcytmbGFzaGNhcmRzO3ExPUNsaWZmc05vdGVzO3NlZ21lbnQ9UHJvZHVjdHM7c29ydD13ZWVrbHlSZXZlbnVlO3gxPWJyYW5kcwZfYmxhbmsLRmxhc2ggQ2FyZHNkAggPZBYCZg8VBBBuYXYtc2hvcC1zZWUtYWxsfmh0dHA6Ly93d3cuaG1oY28uY29tL3NlYXJjaD9pPTE7bW09dHJhZGU7cT0qO3ExPUNsaWZmc05vdGVzO3Jhbms9UHJvZ3JhbV9SZXZlbnVlO3NlZ21lbnQ9UHJvZHVjdHM7c29ydD13ZWVrbHlSZXZlbnVlO3gxPWJyYW5kcwZfYmxhbmsHU2VlIEFsbGQCAw8WAh8BZmQCAw9kFgZmDxUBBWxpZ2h0ZAIBDxYCHwEC/////w9kAgMPFgIfAQIDFgZmD2QWBGYPFQEOVE9QIDUgTElUTk9URVNkAgEPFgIfAQIFFgoCAQ9kFgJmDxUELm5hdi1DbGlmZnNOb3Rlcy1vbi1MZWUtcy1Uby1LaWxsLWEtTW9ja2luZ2JpcmQzaHR0cDovL2htaGJvb2tzLmNvbS90cmFkZS5odG1sP2lzYm4xMz05NzgwNzY0NTg2MDAyBl9ibGFuax8xLiAgTGVlJ3MgVG8gS2lsbCBhIE1vY2tpbmdiaXJkZAICD2QWAmYPFQQibmF2LUNsaWZmc05vdGVzLW9uLUhvbWVyLXMtT2R5c3NleTNodHRwOi8vaG1oYm9va3MuY29tL3RyYWRlLmh0bWw/aXNibjEzPTk3ODA3NjQ1ODU5OTkGX2JsYW5rEzIuICBIb21lcidzIE9keXNzZXlkAgMPZBYCZg8VBDFuYXYtQ2xpZmZzTm90ZXMtb24tU2hha2VzcGVhcmUtcy1Sb21lby1hbmQtSnVsaWV0M2h0dHA6Ly9obWhib29rcy5jb20vdHJhZGUuaHRtbD9pc2JuMTM9OTc4MDc2NDU4NTkyMAZfYmxhbmsiMy4gIFNoYWtlc3BlYXJlJ3MgUm9tZW8gYW5kIEp1bGlldGQCBA9kFgJmDxUEMG5hdi1DbGlmZnNOb3Rlcy1vbi1GaXR6Z2VyYWxkLXMtVGhlLUdyZWF0LUdhdHNieTNodHRwOi8vaG1oYm9va3MuY29tL3RyYWRlLmh0bWw/aXNibjEzPTk3ODA3NjQ1ODYwMTkGX2JsYW5rITQuICBGaXR6Z2VyYWxkJ3MgVGhlIEdyZWF0IEdhdHNieWQCBQ9kFgJmDxUEKG5hdi1DbGlmZnNOb3Rlcy1vbi1TaGFrZXNwZWFyZS1zLU1hY2JldGgzaHR0cDovL2htaGJvb2tzLmNvbS90cmFkZS5odG1sP2lzYm4xMz05NzgwNzY0NTg2MDI2Bl9ibGFuaxk1LiAgU2hha2VzcGVhcmUncyBNYWNiZXRoZAIBD2QWBGYPFQERVE9QIDUgU0hBS0VTUEVBUkVkAgEPFgIfAQIFFgoCAQ9kFgJmDxUEMW5hdi1DbGlmZnNOb3Rlcy1vbi1TaGFrZXNwZWFyZS1zLVJvbWVvLWFuZC1KdWxpZXQzaHR0cDovL2htaGJvb2tzLmNvbS90cmFkZS5odG1sP2lzYm4xMz05NzgwNzY0NTg1OTIwBl9ibGFuayIxLiAgU2hha2VzcGVhcmUncyBSb21lbyBhbmQgSnVsaWV0ZAICD2QWAmYPFQQobmF2LUNsaWZmc05vdGVzLW9uLVNoYWtlc3BlYXJlLXMtTWFjYmV0aDNodHRwOi8vaG1oYm9va3MuY29tL3RyYWRlLmh0bWw/aXNibjEzPTk3ODA3NjQ1ODYwMjYGX2JsYW5rGTIuICBTaGFrZXNwZWFyZSdzIE1hY2JldGhkAgMPZBYCZg8VBCduYXYtQ2xpZmZzTm90ZXMtb24tU2hha2VzcGVhcmUtcy1IYW1sZXQzaHR0cDovL2htaGJvb2tzLmNvbS90cmFkZS5odG1sP2lzYm4xMz05NzgwNzY0NTg2MDMzBl9ibGFuaxgzLiAgU2hha2VzcGVhcmUncyBIYW1sZXRkAgQPZBYCZg8VBC5uYXYtQ2xpZmZzTm90ZXMtb24tU2hha2VzcGVhcmUtcy1KdWxpdXMtQ2Flc2FyM2h0dHA6Ly9obWhib29rcy5jb20vdHJhZGUuaHRtbD9pc2JuMTM9OTc4MDc2NDU4NTk1MQZfYmxhbmsfNC4gIFNoYWtlc3BlYXJlJ3MgSnVsaXVzIENhZXNhcmQCBQ9kFgJmDxUEN25hdi1DbGlmZnNOb3Rlcy1vbi1TaGFrZXNwZWFyZS1zLU11Y2gtQWRvLUFib3V0LU5vdGhpbmczaHR0cDovL2htaGJvb2tzLmNvbS90cmFkZS5odG1sP2lzYm4xMz05NzgwNzY0NTg1MDUwBl9ibGFuayg1LiAgU2hha2VzcGVhcmUncyBNdWNoIEFkbyBBYm91dCBOb3RoaW5nZAICD2QWBGYPFQEPVE9QIDUgVEVTVCBQUkVQZAIBDxYCHwECBRYKAgEPZBYCZg8VBCpuYXYtQ2xpZmZzTm90ZXMtQVAtQmlvbG9neSwtRm91cnRoLUVkaXRpb24zaHR0cDovL2htaGJvb2tzLmNvbS90cmFkZS5odG1sP2lzYm4xMz05NzgxMTE4MTI3OTk1Bl9ibGFuax4xLiAgQVAgQmlvbG9neSwgRm91cnRoIEVkaXRpb25kAgIPZBYCZg8VBD5uYXYtQ2xpZmZzTm90ZXMtRlRDRS1Qcm9mZXNzaW9uYWwtRWR1Y2F0aW9uLVRlc3QtVGhpcmQtRWRpdGlvbjNodHRwOi8vaG1oYm9va3MuY29tL3RyYWRlLmh0bWw/aXNibjEzPTk3ODA1NDQyMzA1ODMGX2JsYW5rMjIuICBGVENFIFByb2Zlc3Npb25hbCBFZHVjYXRpb24gVGVzdCBUaGlyZCBFZGl0aW9uZAIDD2QWAmYPFQRNbmF2LUNsaWZmc05vdGVzLVByYXhpcy1JSTotUHJpbmNpcGxlcy1vZi1MZWFybmluZy1hbmRUZWFjaGluZywtU2Vjb25kLUVkaXRpb24zaHR0cDovL2htaGJvb2tzLmNvbS90cmFkZS5odG1sP2lzYm4xMz05NzgxMTE4MDkwNDY2Bl9ibGFua0EzLiAgUHJheGlzIElJOiBQcmluY2lwbGVzIG9mIExlYXJuaW5nIGFuZFRlYWNoaW5nLCBTZWNvbmQgRWRpdGlvbmQCBA9kFgJmDxUEKm5hdi1DbGlmZnNOb3Rlcy1BQ1QtQ3JhbS1QbGFuLC0ybmQtRWRpdGlvbjNodHRwOi8vaG1oYm9va3MuY29tL3RyYWRlLmh0bWw/aXNibjEzPTk3ODA1NDQyMjcyNjIGX2JsYW5rHjQuICBBQ1QgQ3JhbSBQbGFuLCAybmQgRWRpdGlvbmQCBQ9kFgJmDxUEP25hdi1DbGlmZnNOb3Rlcy1NYXRoLVJldmlldy1mb3ItU3RhbmRhcmRpemVkLVRlc3RzLC0ybmQtRWRpdGlvbjNodHRwOi8vaG1oYm9va3MuY29tL3RyYWRlLmh0bWw/aXNibjEzPTk3ODA0NzA1MDA3NzQGX2JsYW5rMzUuICBNYXRoIFJldmlldyBmb3IgU3RhbmRhcmRpemVkIFRlc3RzLCAybmQgRWRpdGlvbmQCBw9kFgJmD2QWAmYPFgIfAQIEFggCAQ9kFgQCAQ8WAh4EaHJlZgUBLxYCZg8VAQRIb21lZAIFDxYCHgdWaXNpYmxlaBYCZg8VAQRIb21lZAICD2QWBAIBDxYCHwIFCy9saXRlcmF0dXJlFgJmDxUBEExpdGVyYXR1cmUgTm90ZXNkAgUPFgIfA2gWAmYPFQEQTGl0ZXJhdHVyZSBOb3Rlc2QCAw9kFgQCAQ8WAh8CBUcvbGl0ZXJhdHVyZS9jL3RoZS1jYXRjaGVyLWluLXRoZS1yeWUvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS1hdC1hLWdsYW5jZRYCZg8VARZUaGUgQ2F0Y2hlciBpbiB0aGUgUnllZAIFDxYCHwNoFgJmDxUBFlRoZSBDYXRjaGVyIGluIHRoZSBSeWVkAgQPZBYGAgEPFgQfAgVHL2xpdGVyYXR1cmUvYy90aGUtY2F0Y2hlci1pbi10aGUtcnllL3RoZS1jYXRjaGVyLWluLXRoZS1yeWUtYXQtYS1nbGFuY2UfA2gWAmYPFQEpPGk+VGhlIENhdGNoZXIgaW4gdGhlIFJ5ZSA8L2k+YXQgYSBHbGFuY2VkAgMPFgIfA2hkAgUPZBYCZg8VASk8aT5UaGUgQ2F0Y2hlciBpbiB0aGUgUnllIDwvaT5hdCBhIEdsYW5jZWQCCQ9kFgJmD2QWAmYPZBYOAgMPZBYCZg9kFgxmDxYCHwNnZAIBDxYCHwNnZAICDxYCHwNnZAIDDxYCHwNoZAIED2QWAgIHD2QWAgIBDxYCHgRUZXh0ZWQCBQ8WAh8DZ2QCCQ9kFgJmD2QWAmYPZBYCAgMPFgIfA2dkAgsPZBYCZg9kFgJmD2QWBGYPFgIfBGVkAgQPFgIfBAWNHDxwIGNsYXNzPSJsaXROb3RlVGV4dCI+PGEgaHJlZj0ifi9saW5rLmFzcHg/X2lkPUNFNENEQTNDNzQ4MjQ3MTk4QUNFMjEyOEU3RDZBNTQ5JmFtcDtfej16Ij5KLkQuIFNhbGluZ2VyPC9hPidzIDxlbT5UaGUgQ2F0Y2hlciBpbiB0aGUgUnllPC9lbT4sIDxhIGhyZWY9In4vbGluay5hc3B4P19pZD1GRTJERTM1MDdCN0M0MTc3ODRGMEYxMDFFQTVCNEI5RiZhbXA7X3o9eiI+SG9sZGVuIENhdWxmaWVsZDwvYT4gcmVjb3VudHMgdGhlIGRheXMgZm9sbG93aW5nIGhpcyBleHB1bHNpb24gZnJvbSBQZW5jZXkgUHJlcCwgYSBwcml2YXRlIHNjaG9vbC4gQWZ0ZXIgYSBmaWdodCB3aXRoIGhpcyByb29tbWF0ZSwgU3RyYWRsYXRlciwgSG9sZGVuIGxlYXZlcyBzY2hvb2wgdHdvIGRheXMgZWFybHkgdG8gZXhwbG9yZSBOZXcgWW9yayBiZWZvcmUgcmV0dXJuaW5nIGhvbWUsIGludGVyYWN0aW5nIHdpdGggdGVhY2hlcnMsIHByb3N0aXR1dGVzLCBudW5zLCBhbiBvbGQgZ2lybGZyaWVuZCwgYW5kIGhpcyBzaXN0ZXIgYWxvbmcgdGhlIHdheS4gSi5ELiBTYWxpbmdlcidzIGNsYXNzaWMgPGVtPlRoZSBDYXRjaGVyIGluIHRoZSBSeWU8L2VtPiBpbGx1c3RyYXRlcyBhIHRlZW5hZ2VyJ3MgZHJhbWF0aWMgc3RydWdnbGUgYWdhaW5zdCBkZWF0aCBhbmQgZ3Jvd2luZyB1cC48L3A+CjxwIGNsYXNzPSJsaXROb3RlVGV4dCI+PHN0cm9uZz5Xcml0dGVuIGJ5Ojwvc3Ryb25nPiA8YSBocmVmPSJ+L2xpbmsuYXNweD9faWQ9Q0U0Q0RBM0M3NDgyNDcxOThBQ0UyMTI4RTdENkE1NDkmYW1wO196PXoiPkouRC4gU2FsaW5nZXI8L2E+PC9wPgo8cCBjbGFzcz0ibGl0Tm90ZVRleHQiPjxzdHJvbmc+VHlwZSBvZiBXb3JrOjwvc3Ryb25nPiBub3ZlbDwvcD4KPHAgY2xhc3M9ImxpdE5vdGVUZXh0Ij48c3Ryb25nPkdlbnJlczogPC9zdHJvbmc+Y29taW5nLW9mLWFnZTwvcD4KPHAgY2xhc3M9ImxpdE5vdGVUZXh0Ij48c3Ryb25nPkZpcnN0IFB1Ymxpc2hlZDo8L3N0cm9uZz4gYnkgTGl0dGxlLCBCcm93biBhbmQgQ29tcGFueSBvbiBKdWx5IDE2LCAxOTUxPC9wPgo8cCBjbGFzcz0ibGl0Tm90ZVRleHQiPjxzdHJvbmc+U2V0dGluZzo8L3N0cm9uZz4gMTk1MHM7IEFnZXJzdG93biwgUGVubnN5bHZhbmlhPC9wPgo8cCBjbGFzcz0ibGl0Tm90ZVRleHQiPjxzdHJvbmc+PGEgaHJlZj0ifi9saW5rLmFzcHg/X2lkPTA5Njk0MTU1NTVBODQ5QTg5RDcwNEUyOTIzQkI3ODZFJmFtcDtfej16Ij5NYWluIENoYXJhY3RlcnM8L2E+PC9zdHJvbmc+PHN0cm9uZz46PC9zdHJvbmc+IDxhIGhyZWY9In4vbGluay5hc3B4P19pZD1GRTJERTM1MDdCN0M0MTc3ODRGMEYxMDFFQTVCNEI5RiZhbXA7X3o9eiI+SG9sZGVuIENhdWxmaWVsZDwvYT47IDxhIGhyZWY9In4vbGluay5hc3B4P19pZD1EMjY0Njk0RkQ4RDU0N0E5OTQ0MEMzNkEwRkVGRUUxRiZhbXA7X3o9eiI+UGhvZWJlPC9hPjsgPGEgaHJlZj0ifi9saW5rLmFzcHg/X2lkPUI1NDVEQzJBQURFQzQ5N0Q5QTg0MzQ3RDdEOTk2MTY4JmFtcDtfej16Ij5BbGxpZTwvYT47IDxhIGhyZWY9In4vbGluay5hc3B4P19pZD01QTEwQjE2MTYwMzk0OUFFODBDMkJDRTNCNkEwMDc0RSZhbXA7X3o9eiI+RC5CLjwvYT47IDxhIGhyZWY9In4vbGluay5hc3B4P19pZD00MTE5QThFODFBQTc0RTM3ODg5NzAzQjhCNjlCNDMzRSZhbXA7X3o9eiI+TXIuIEFudG9saW5pPC9hPjwvcD4KPHAgY2xhc3M9ImxpdE5vdGVUZXh0Ij48YSBocmVmPSImbHQ7Q2xpZmZzOkludGVybmFsTGluayBhbGlhcz0iPjwvYT48c3Ryb25nPjxhIGhyZWY9In4vbGluay5hc3B4P19pZD0yM0IyRDRGMERDN0I0QTFCQUNEQjY4ODBGNjA0OEIyNiZhbXA7X3o9eiI+TWFqb3IgVGhlbWF0aWMgVG9waWNzPC9hPjwvc3Ryb25nPjxzdHJvbmc+Ojwvc3Ryb25nPiBpbm5vY2VuY2U7IGRlYXRoOyBhdXRoZW50aWMgdmVyc3VzIGFydGlmaWNpYWw7IHNleHVhbCBjb25mdXNpb248L3A+CjxwIGNsYXNzPSJsaXROb3RlVGV4dCI+PHN0cm9uZz5Nb3RpZnM6PC9zdHJvbmc+IGxhbmd1YWdlOyBkdWNrcyBpbiB0aGUgcG9uZDwvcD4KPHAgY2xhc3M9ImxpdE5vdGVUZXh0Ij48c3Ryb25nPjxhIGhyZWY9In4vbGluay5hc3B4P19pZD01RkYyNzZBNjA4Rjc0MTE5OENBNTgwMzM3OTA3MzY0QSZhbXA7X3o9eiI+TWFqb3IgU3ltYm9sczwvYT48L3N0cm9uZz48c3Ryb25nPjo8L3N0cm9uZz4gcHJlcGFyYXRvcnkgc2Nob29sIGxpZmU7IGJhc2ViYWxsIGdsb3ZlOyByZWQgaHVudGluZyBjYXA7IFJhZGlvIENpdHkgTXVzaWMgSGFsbDsgdGhlIGNhcnJvdXNlbCdzIGdvbGQgcmluZzsgdGhlIGNvbWluZy1vZi1hZ2UgZ2VucmU8L3A+CjxwIGNsYXNzPSJsaXROb3RlVGV4dCI+VGhlIHRocmVlIG1vc3QgaW1wb3J0YW50IGFzcGVjdHMgb2YgPGVtPlRoZSBDYXRjaGVyIGluIHRoZSBSeWU8L2VtPjo8L3A+Cjx1bD4KICAgIDxsaT5Ib2xkZW4gQ2F1bGZpZWxkIGlzIG9uZSBvZiB0aGUgYmVzdC1sb3ZlZCBmaWN0aW9uYWwgY2hhcmFjdGVycyBpbiBBbWVyaWNhbiBsaXRlcmF0dXJlLiBMaWtlIGFub3RoZXIgcG9wdWxhciBjaGFyYWN0ZXIsIDxhIGhyZWY9In4vbGluay5hc3B4P19pZD00NDA2NjI0RTY0NTY0RjlCQTU4NUMyRTQxNERGQUJDMSZhbXA7X3o9eiI+SHVjayBGaW5uPC9hPiwgSG9sZGVuIHRlbGxzIGhpcyBvd24gc3RvcnkgaW4gaGlzIG93biB3b3JkcyBhcyBpZiBzcGVha2luZyBhbG91ZCwgYW5kIGl0IGlzIEhvbGRlbidzICJ2b2ljZSIgb24gdGhlIHBhZ2UsIHJhdGhlciB0aGFuIHRoZSBwbG90IG9mIDxlbT5UaGUgQ2F0Y2hlciBpbiB0aGUgUnllPC9lbT4sIGZvciB3aGljaCB0aGUgbm92ZWwgaXMgbW9zdCByZW1lbWJlcmVkLjwvbGk+CiAgICA8cD4KICAgIDwvcD4KICAgIDxsaT5BbHRob3VnaCA8ZW0+VGhlIENhdGNoZXIgaW4gdGhlIFJ5ZTwvZW0+IHNlZW1zIGxpa2UgdGhlIHVuZWRpdGVkIHRob3VnaHRzIGFuZCBmZWVsaW5ncyBvZiBhbiBhY3R1YWwgdGVlbmFnZXIsIGl0IGlzIG5vdGhpbmcgb2YgdGhlIGtpbmQuIEFjdHVhbGx5LCBKLkQuIFNhbGluZ2VyIHdhcyBpbiBoaXMgdHdlbnRpZXMgYW5kIHRoaXJ0aWVzIHdoZW4gaGUgd3JvdGUgdGhlIG5vdmVsLCB3aGljaCBiZWdhbiBhcyBhIHNob3J0IHN0b3J5IGFuZCBncmV3LCBvdmVyIG1hbnkgeWVhcnMsIGludG8gYSBib29rIGxlbmd0aCB3b3JrIG9mIGZpY3Rpb24uPC9saT4KICAgIDxsaT5UaGUgbm92ZWwncyBtYWluIDxhIGhyZWY9In4vbGluay5hc3B4P19pZD0yM0IyRDRGMERDN0I0QTFCQUNEQjY4ODBGNjA0OEIyNiZhbXA7X3o9eiI+dGhlbWF0aWMgY29uZmxpY3Q8L2E+IHBpdHMgdGhlIGlubm9jZW5jZSBhbmQgYXV0aGVudGljaXR5IG9mIGNoaWxkaG9vZCwgYXMgcmVwcmVzZW50ZWQgYnkgSG9sZGVuJ3Mgc2lzdGVyIFBob2ViZSwgYWdhaW5zdCB0aGUgcGhvbmluZXNzLCBhcyBIb2xkZW4gc2VlcyBpdCwgb2YgbW9zdCBhZHVsdHMgKE1yLiBBbnRvbGluaSwgZm9yIGV4YW1wbGUpLiBOZWl0aGVyIGEgY2hpbGQgbm9yIGEgZ3Jvd251cCwgSG9sZGVuIHJlc2lzdHMgbWF0dXJhdGlvbiwgYSBwcm9jZXNzIGhlIHNlZXMgYXMgY2hhcmFjdGVyaXplZCBieSBsb3NzIHJhdGhlciB0aGFuIGdyb3d0aC48L2xpPgo8L3VsPmQCDQ9kFgJmD2QWAmYPZBYCAgMPFgIfA2dkAg8PZBYCZg9kFgJmD2QWBAIBDxYCHwQFDVRha2UgdGhlIFF1aXpkAgUPEGQPFgRmAgECAgIDFgQQBQREb2dzBSZ7MjRERDRFNDktMUU5QS00RjI0LTg3MDYtQTFGRjhCQkRDRjlGfWcQBQVEdWNrcwUmezJGQTAyRkMyLTc5OEUtNDg4Mi05QUE3LTg2RUY2MkMzMDVFRH1nEAUGSG9yc2VzBSZ7MDkwMjYyRjktN0E0Ni00NDRFLUI5ODAtOEI4NEE5RDkyRkQxfWcQBQdQaWdlb25zBSZ7NzExREY3RTItMzkxQi00NURGLUE5NDctN0QxQTNBRjJDNzJFfWdkZAIRD2QWAmYPZBYEAgMPFgIfAQICFgQCAQ9kFgICAQ8PFgIeC05hdmlnYXRlVXJsBUIvY2xpZmZzbm90ZXMvbGl0ZXJhdHVyZS93aGF0LWRvZXMtdHJ1Y3VsZW50ZnJvbS1ncmVhdC1leHBlY3RhdGlvbnNkZAICD2QWAgIBDw8WAh8FBU4vY2xpZmZzbm90ZXMvbGl0ZXJhdHVyZS9ob3ctZG9lcy1zY291dC1pbi10by1raWxsLWEtbW9ja2luZ2JpcmQtc2hvdy10d28tc2lkZXNkZAIFDw8WAh8FBQwvY2xpZmZzbm90ZXNkFgICAQ8WAh8EBQ9Nb3JlIFN0dWR5IEhlbHBkAhcPZBYCZg9kFgJmDxYCHwECChYUAgEPZBYEAgEPZBYCZg8VASk8aT5UaGUgQ2F0Y2hlciBpbiB0aGUgUnllIDwvaT5hdCBhIEdsYW5jZWQCAw8WAh8DaBYEZg8VAkcvbGl0ZXJhdHVyZS9jL3RoZS1jYXRjaGVyLWluLXRoZS1yeWUvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS1hdC1hLWdsYW5jZSk8aT5UaGUgQ2F0Y2hlciBpbiB0aGUgUnllIDwvaT5hdCBhIEdsYW5jZWQCAQ8WAh8BAv////8PZAICD2QWBAIBDxYCHwNoFgJmDxUBDEJvb2sgU3VtbWFyeWQCAw9kFgRmDxUCMS9saXRlcmF0dXJlL2MvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9ib29rLXN1bW1hcnkMQm9vayBTdW1tYXJ5ZAIBDxYCHwEC/////w9kAgMPZBYEAgEPFgIfA2gWAmYPFQEjQWJvdXQgPGk+VGhlIENhdGNoZXIgaW4gdGhlIFJ5ZTwvaT5kAgMPZBYEZg8VAlQvbGl0ZXJhdHVyZS9jL3RoZS1jYXRjaGVyLWluLXRoZS1yeWUvYWJvdXQtdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9oaXN0b3JpY2FsLXNldHRpbmcjQWJvdXQgPGk+VGhlIENhdGNoZXIgaW4gdGhlIFJ5ZTwvaT5kAgEPFgIfAQICFgQCAQ9kFgQCAQ8WAh8DaBYCZg8VARJIaXN0b3JpY2FsIFNldHRpbmdkAgMPZBYCZg8VAlQvbGl0ZXJhdHVyZS9jL3RoZS1jYXRjaGVyLWluLXRoZS1yeWUvYWJvdXQtdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9oaXN0b3JpY2FsLXNldHRpbmcSSGlzdG9yaWNhbCBTZXR0aW5nZAICD2QWBAIBDxYCHwNoFgJmDxUBGFJlY2VwdGlvbiBhbmQgUmVwdXRhdGlvbmQCAw9kFgJmDxUCWi9saXRlcmF0dXJlL2MvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9hYm91dC10aGUtY2F0Y2hlci1pbi10aGUtcnllL3JlY2VwdGlvbi1hbmQtcmVwdXRhdGlvbhhSZWNlcHRpb24gYW5kIFJlcHV0YXRpb25kAgQPZBYEAgEPFgIfA2gWAmYPFQEOQ2hhcmFjdGVyIExpc3RkAgMPZBYEZg8VAjMvbGl0ZXJhdHVyZS9jL3RoZS1jYXRjaGVyLWluLXRoZS1yeWUvY2hhcmFjdGVyLWxpc3QOQ2hhcmFjdGVyIExpc3RkAgEPFgIfAQL/////D2QCBQ9kFgQCAQ8WAh8DaBYCZg8VARRTdW1tYXJ5IGFuZCBBbmFseXNpc2QCAw9kFgRmDxUCQy9saXRlcmF0dXJlL2MvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9zdW1tYXJ5LWFuZC1hbmFseXNpcy9jaGFwdGVyLTEUU3VtbWFyeSBhbmQgQW5hbHlzaXNkAgEPFgIfAQIWFiwCAQ9kFgQCAQ8WAh8DaBYCZg8VAQlDaGFwdGVyIDFkAgMPZBYCZg8VAkMvbGl0ZXJhdHVyZS9jL3RoZS1jYXRjaGVyLWluLXRoZS1yeWUvc3VtbWFyeS1hbmQtYW5hbHlzaXMvY2hhcHRlci0xCUNoYXB0ZXIgMWQCAg9kFgQCAQ8WAh8DaBYCZg8VAQlDaGFwdGVyIDJkAgMPZBYCZg8VAkMvbGl0ZXJhdHVyZS9jL3RoZS1jYXRjaGVyLWluLXRoZS1yeWUvc3VtbWFyeS1hbmQtYW5hbHlzaXMvY2hhcHRlci0yCUNoYXB0ZXIgMmQCAw9kFgQCAQ8WAh8DaBYCZg8VAQlDaGFwdGVyIDNkAgMPZBYCZg8VAkMvbGl0ZXJhdHVyZS9jL3RoZS1jYXRjaGVyLWluLXRoZS1yeWUvc3VtbWFyeS1hbmQtYW5hbHlzaXMvY2hhcHRlci0zCUNoYXB0ZXIgM2QCBA9kFgQCAQ8WAh8DaBYCZg8VAQlDaGFwdGVyIDRkAgMPZBYCZg8VAkMvbGl0ZXJhdHVyZS9jL3RoZS1jYXRjaGVyLWluLXRoZS1yeWUvc3VtbWFyeS1hbmQtYW5hbHlzaXMvY2hhcHRlci00CUNoYXB0ZXIgNGQCBQ9kFgQCAQ8WAh8DaBYCZg8VAQlDaGFwdGVyIDVkAgMPZBYCZg8VAkMvbGl0ZXJhdHVyZS9jL3RoZS1jYXRjaGVyLWluLXRoZS1yeWUvc3VtbWFyeS1hbmQtYW5hbHlzaXMvY2hhcHRlci01CUNoYXB0ZXIgNWQCBg9kFgQCAQ8WAh8DaBYCZg8VAQxDaGFwdGVycyA2LTdkAgMPZBYCZg8VAkUvbGl0ZXJhdHVyZS9jL3RoZS1jYXRjaGVyLWluLXRoZS1yeWUvc3VtbWFyeS1hbmQtYW5hbHlzaXMvY2hhcHRlcnMtNjcMQ2hhcHRlcnMgNi03ZAIHD2QWBAIBDxYCHwNoFgJmDxUBDENoYXB0ZXJzIDgtOWQCAw9kFgJmDxUCRS9saXRlcmF0dXJlL2MvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9zdW1tYXJ5LWFuZC1hbmFseXNpcy9jaGFwdGVycy04OQxDaGFwdGVycyA4LTlkAggPZBYEAgEPFgIfA2gWAmYPFQEKQ2hhcHRlciAxMGQCAw9kFgJmDxUCRC9saXRlcmF0dXJlL2MvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9zdW1tYXJ5LWFuZC1hbmFseXNpcy9jaGFwdGVyLTEwCkNoYXB0ZXIgMTBkAgkPZBYEAgEPFgIfA2gWAmYPFQEKQ2hhcHRlciAxMWQCAw9kFgJmDxUCRC9saXRlcmF0dXJlL2MvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9zdW1tYXJ5LWFuZC1hbmFseXNpcy9jaGFwdGVyLTExCkNoYXB0ZXIgMTFkAgoPZBYEAgEPFgIfA2gWAmYPFQEKQ2hhcHRlciAxMmQCAw9kFgJmDxUCRC9saXRlcmF0dXJlL2MvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9zdW1tYXJ5LWFuZC1hbmFseXNpcy9jaGFwdGVyLTEyCkNoYXB0ZXIgMTJkAgsPZBYEAgEPFgIfA2gWAmYPFQEKQ2hhcHRlciAxM2QCAw9kFgJmDxUCRC9saXRlcmF0dXJlL2MvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9zdW1tYXJ5LWFuZC1hbmFseXNpcy9jaGFwdGVyLTEzCkNoYXB0ZXIgMTNkAgwPZBYEAgEPFgIfA2gWAmYPFQEKQ2hhcHRlciAxNGQCAw9kFgJmDxUCRC9saXRlcmF0dXJlL2MvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9zdW1tYXJ5LWFuZC1hbmFseXNpcy9jaGFwdGVyLTE0CkNoYXB0ZXIgMTRkAg0PZBYEAgEPFgIfA2gWAmYPFQEKQ2hhcHRlciAxNWQCAw9kFgJmDxUCRC9saXRlcmF0dXJlL2MvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9zdW1tYXJ5LWFuZC1hbmFseXNpcy9jaGFwdGVyLTE1CkNoYXB0ZXIgMTVkAg4PZBYEAgEPFgIfA2gWAmYPFQEKQ2hhcHRlciAxNmQCAw9kFgJmDxUCRC9saXRlcmF0dXJlL2MvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9zdW1tYXJ5LWFuZC1hbmFseXNpcy9jaGFwdGVyLTE2CkNoYXB0ZXIgMTZkAg8PZBYEAgEPFgIfA2gWAmYPFQEKQ2hhcHRlciAxN2QCAw9kFgJmDxUCRC9saXRlcmF0dXJlL2MvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9zdW1tYXJ5LWFuZC1hbmFseXNpcy9jaGFwdGVyLTE3CkNoYXB0ZXIgMTdkAhAPZBYEAgEPFgIfA2gWAmYPFQEOQ2hhcHRlcnMgMTgtMTlkAgMPZBYCZg8VAkcvbGl0ZXJhdHVyZS9jL3RoZS1jYXRjaGVyLWluLXRoZS1yeWUvc3VtbWFyeS1hbmQtYW5hbHlzaXMvY2hhcHRlcnMtMTgxOQ5DaGFwdGVycyAxOC0xOWQCEQ9kFgQCAQ8WAh8DaBYCZg8VAQpDaGFwdGVyIDIwZAIDD2QWAmYPFQJEL2xpdGVyYXR1cmUvYy90aGUtY2F0Y2hlci1pbi10aGUtcnllL3N1bW1hcnktYW5kLWFuYWx5c2lzL2NoYXB0ZXItMjAKQ2hhcHRlciAyMGQCEg9kFgQCAQ8WAh8DaBYCZg8VAQpDaGFwdGVyIDIxZAIDD2QWAmYPFQJEL2xpdGVyYXR1cmUvYy90aGUtY2F0Y2hlci1pbi10aGUtcnllL3N1bW1hcnktYW5kLWFuYWx5c2lzL2NoYXB0ZXItMjEKQ2hhcHRlciAyMWQCEw9kFgQCAQ8WAh8DaBYCZg8VAQpDaGFwdGVyIDIyZAIDD2QWAmYPFQJEL2xpdGVyYXR1cmUvYy90aGUtY2F0Y2hlci1pbi10aGUtcnllL3N1bW1hcnktYW5kLWFuYWx5c2lzL2NoYXB0ZXItMjIKQ2hhcHRlciAyMmQCFA9kFgQCAQ8WAh8DaBYCZg8VAQpDaGFwdGVyIDIzZAIDD2QWAmYPFQJEL2xpdGVyYXR1cmUvYy90aGUtY2F0Y2hlci1pbi10aGUtcnllL3N1bW1hcnktYW5kLWFuYWx5c2lzL2NoYXB0ZXItMjMKQ2hhcHRlciAyM2QCFQ9kFgQCAQ8WAh8DaBYCZg8VAQpDaGFwdGVyIDI0ZAIDD2QWAmYPFQJEL2xpdGVyYXR1cmUvYy90aGUtY2F0Y2hlci1pbi10aGUtcnllL3N1bW1hcnktYW5kLWFuYWx5c2lzL2NoYXB0ZXItMjQKQ2hhcHRlciAyNGQCFg9kFgQCAQ8WAh8DaBYCZg8VAQ5DaGFwdGVycyAyNS0yNmQCAw9kFgJmDxUCRy9saXRlcmF0dXJlL2MvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9zdW1tYXJ5LWFuZC1hbmFseXNpcy9jaGFwdGVycy0yNTI2DkNoYXB0ZXJzIDI1LTI2ZAIGD2QWBAIBDxYCHwNoFgJmDxUBEkNoYXJhY3RlciBBbmFseXNpc2QCAw9kFgRmDxUCSC9saXRlcmF0dXJlL2MvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9jaGFyYWN0ZXItYW5hbHlzaXMvaG9sZGVuLWNhdWxmaWVsZBJDaGFyYWN0ZXIgQW5hbHlzaXNkAgEPFgIfAQIFFgoCAQ9kFgQCAQ8WAh8DaBYCZg8VARBIb2xkZW4gQ2F1bGZpZWxkZAIDD2QWAmYPFQJIL2xpdGVyYXR1cmUvYy90aGUtY2F0Y2hlci1pbi10aGUtcnllL2NoYXJhY3Rlci1hbmFseXNpcy9ob2xkZW4tY2F1bGZpZWxkEEhvbGRlbiBDYXVsZmllbGRkAgIPZBYEAgEPFgIfA2gWAmYPFQEGUGhvZWJlZAIDD2QWAmYPFQI+L2xpdGVyYXR1cmUvYy90aGUtY2F0Y2hlci1pbi10aGUtcnllL2NoYXJhY3Rlci1hbmFseXNpcy9waG9lYmUGUGhvZWJlZAIDD2QWBAIBDxYCHwNoFgJmDxUBBUFsbGllZAIDD2QWAmYPFQI9L2xpdGVyYXR1cmUvYy90aGUtY2F0Y2hlci1pbi10aGUtcnllL2NoYXJhY3Rlci1hbmFseXNpcy9hbGxpZQVBbGxpZWQCBA9kFgQCAQ8WAh8DaBYCZg8VAQRELkIuZAIDD2QWAmYPFQI6L2xpdGVyYXR1cmUvYy90aGUtY2F0Y2hlci1pbi10aGUtcnllL2NoYXJhY3Rlci1hbmFseXNpcy9kYgRELkIuZAIFD2QWBAIBDxYCHwNoFgJmDxUBDE1yLiBBbnRvbGluaWQCAw9kFgJmDxUCQy9saXRlcmF0dXJlL2MvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9jaGFyYWN0ZXItYW5hbHlzaXMvbXItYW50b2xpbmkMTXIuIEFudG9saW5pZAIHD2QWBAIBDxYCHwNoFgJmDxUBDUNoYXJhY3RlciBNYXBkAgMPZBYEZg8VAjIvbGl0ZXJhdHVyZS9jL3RoZS1jYXRjaGVyLWluLXRoZS1yeWUvY2hhcmFjdGVyLW1hcA1DaGFyYWN0ZXIgTWFwZAIBDxYCHwEC/////w9kAggPZBYEAgEPFgIfA2gWAmYPFQEXSi5ELiBTYWxpbmdlciBCaW9ncmFwaHlkAgMPZBYEZg8VAjovbGl0ZXJhdHVyZS9jL3RoZS1jYXRjaGVyLWluLXRoZS1yeWUvamQtc2FsaW5nZXItYmlvZ3JhcGh5F0ouRC4gU2FsaW5nZXIgQmlvZ3JhcGh5ZAIBDxYCHwEC/////w9kAgkPZBYEAgEPFgIfA2gWAmYPFQEPQ3JpdGljYWwgRXNzYXlzZAIDD2QWBGYPFQJBL2xpdGVyYXR1cmUvYy90aGUtY2F0Y2hlci1pbi10aGUtcnllL2NyaXRpY2FsLWVzc2F5cy9tYWpvci10aGVtZXMPQ3JpdGljYWwgRXNzYXlzZAIBDxYCHwECAhYEAgEPZBYEAgEPFgIfA2gWAmYPFQEMTWFqb3IgVGhlbWVzZAIDD2QWAmYPFQJBL2xpdGVyYXR1cmUvYy90aGUtY2F0Y2hlci1pbi10aGUtcnllL2NyaXRpY2FsLWVzc2F5cy9tYWpvci10aGVtZXMMTWFqb3IgVGhlbWVzZAICD2QWBAIBDxYCHwNoFgJmDxUBDU1ham9yIFN5bWJvbHNkAgMPZBYCZg8VAkIvbGl0ZXJhdHVyZS9jL3RoZS1jYXRjaGVyLWluLXRoZS1yeWUvY3JpdGljYWwtZXNzYXlzL21ham9yLXN5bWJvbHMNTWFqb3IgU3ltYm9sc2QCCg9kFgQCAQ8WAh8DaBYCZg8VAQpTdHVkeSBIZWxwZAIDD2QWBGYPFQI0L2xpdGVyYXR1cmUvYy90aGUtY2F0Y2hlci1pbi10aGUtcnllL3N0dWR5LWhlbHAvcXVpegpTdHVkeSBIZWxwZAIBDxYCHwECBBYIAgEPZBYEAgEPFgIfA2gWAmYPFQEEUXVpemQCAw9kFgJmDxUCNC9saXRlcmF0dXJlL2MvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9zdHVkeS1oZWxwL3F1aXoEUXVpemQCAg9kFgQCAQ8WAh8DaBYCZg8VAQ1GdWxsIEdsb3NzYXJ5ZAIDD2QWAmYPFQI9L2xpdGVyYXR1cmUvYy90aGUtY2F0Y2hlci1pbi10aGUtcnllL3N0dWR5LWhlbHAvZnVsbC1nbG9zc2FyeQ1GdWxsIEdsb3NzYXJ5ZAIDD2QWBAIBDxYCHwNoFgJmDxUBD0Vzc2F5IFF1ZXN0aW9uc2QCAw9kFgJmDxUCPy9saXRlcmF0dXJlL2MvdGhlLWNhdGNoZXItaW4tdGhlLXJ5ZS9zdHVkeS1oZWxwL2Vzc2F5LXF1ZXN0aW9ucw9Fc3NheSBRdWVzdGlvbnNkAgQPZBYEAgEPFgIfA2gWAmYPFQERUHJhY3RpY2UgUHJvamVjdHNkAgMPZBYCZg8VAkEvbGl0ZXJhdHVyZS9jL3RoZS1jYXRjaGVyLWluLXRoZS1yeWUvc3R1ZHktaGVscC9wcmFjdGljZS1wcm9qZWN0cxFQcmFjdGljZSBQcm9qZWN0c2QCCw9kFgJmD2QWAmYPZBYCAgEPFgIfAQIEFghmD2QWAgIBDxYCHwECARYCAgEPZBYCAgEPZBYCAgMPFgIfAQIJZAIBD2QWAgIBDxYCHwECARYCAgEPZBYCAgEPZBYCAgMPFgIfAQIHZAICD2QWAgIBDxYCHwECARYCAgEPZBYCAgEPZBYCAgMPFgIfAQIIZAIDD2QWAgIBDxYCHwECARYCAgEPZBYCAgEPZBYCAgMPFgIfAQIJZGSABHyA/Fjse4Hp38eVdRYSxKmcb3POI9wGR43gMYWroA==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="4315CB97" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAfWdDyDyZdW6kI7ogtKjhFVu06dYNekHRkhFhqPkSPhd/2LhL9n6OoyhrXJnjOGHz3FocPgkVZe0wqmQTHQ53MSczVPAHtI1L8TTNHFnbYtNSPrh2tHsOM3nT2VViaYTj0033UWCQ/JhN3gacF51rROFqrV/5/2hjyQfCtbfnkLK4QWrSXPz5AX1DLBchiYpf8=" />
+</div>
+        <div id="wrapper">
+            
+
+<div id="header">
+    <div class="container"> 
+        <div class="logo">
+            <div class="text-header">
+                <span>CliffsNotes </span>
+            </div>
+            <a href="/" id="cliffsnotesLogo">
+                <img src="/spa_assets/R16B051/site/cliffsnotes2/include/images/logoCliffNotes.png" alt="CliffsNotes">
+            </a>
+            <div class="clear"></div>
+            <a href="http://www.hmhco.com" id="hmhcoLogo" target="_blank">
+                <img src="/spa_assets/R16B051/site/cliffsnotes2/include/images/logoHMH.png" alt="Houghton Mifflin Harcourt" class="" />
+            </a>
+        </div>
+
+        <!-- Header Site Search -->
+        
+
+
+
+
+
+<div id="searchSection">
+	<a class="searchIconButton searchTrigger" href="#">
+		<img src="/spa_assets/R16B051/site/cliffsnotes2/include/images/searchIconDark.png" alt="Search Icon">
+	</a>
+    <input type="text" id="searchEntry" name="q" placeholder="Search by keyword or ISBN" class="ui-autocomplete-input" autocomplete="off" />
+    <!-- <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+    <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span> -->
+            
+    <span class="searchTrigger searchBtn">Search</span>
+
+    <div class="dividerHeader"></div>
+
+    <div id="searchSelectContainer">
+        <select id="searchSelect">
+            <option>CliffsNotes</option>
+            <option>HMHco.com</option>
+        </select>
+    </div>
+    
+    
+</div>
+
+
+<!-- GLOBAL SEARCH -->
+    <!-- <nav id="global">
+    <div id="globalNavigation">
+        <div id="searchSection">
+            <span>Search</span>
+            <input class="text" id="searchEntry" name="query" type="text">
+             
+            
+            <div class="searchIcon">
+            <button type="submit" class="submit" style="margin:0 5px;">
+                SEARCH
+            </button>
+            </div>
+            <select id="searchSelect">
+                <option>CliffsNotes</option>
+                <option>HMHco.com</option>
+            </select>
+            
+            
+        </div>
+        <div id="RightGlobal">
+            
+                <div id="signedOut">
+                    <div id="signInButton">
+                        <a href="http://www.hmhco.com/account/sign-in?ReturnUrl=%2f" id="phheader_0_ctl00_signInLink">Sign In</a>
+                    </div>
+                    <div id="signUpButton">
+                        <a href="http://www.hmhco.com/account/sign-up?ReturnUrl=%2f" id="phheader_0_ctl00_signUpLink">Sign Up</a>
+                    </div>
+                </div>
+            
+            
+            <div id="cartButton">
+                <a id="cartNav" href="http://www.hmhco.com/hmhstorefront/cart">CART</a>
+            </div>            
+        </div>
+    </div>
+</nav>
+<div class="clear" style="clear:both;"></div> -->
+
+ 
+<script type="text/javascript">
+    var searchPageUrl = '/searchresult?q=';
+
+    /*******************************
+    Header Search Box
+    *******************************/
+    var searchBox = $("input#searchEntry");
+
+    $.fn.enterpress = function (f) {
+        return this.each(function () {
+            $(this).keypress(function (e) {
+                var code = (e.which) ? e.which : e.keyCode;
+                if (code === 13) {
+                    e.preventDefault();
+                    f();
+                }
+            });
+        });
+    }
+
+    searchBox.enterpress(function () {
+        directSearch(searchBox);
+    });
+
+    $("span.searchBtn").click(function (clevt)
+    {
+        console.log(searchBox);
+        clevt.preventDefault();
+        directSearch(searchBox);
+    });
+
+    function directSearch(ele)
+    {
+        if (ele.length > 0)
+        {
+            var val = searchBox.val();
+            if (val !== "")
+            {
+                if ($("#searchSelect").val() == "HMHco.com")
+                {
+                    window.open("http://www.hmhco.com/search?segment=All;mm=all;q=" + val, "_blank", "", "");
+                }
+                else
+                {
+                    window.location = searchPageUrl + val;
+                }
+                // Post to Analytics
+                //if (s != null) {
+                //    s.events = 'event1';
+                //    s.sprop2 = val;
+                //    s.evar2 = val;
+                //    var s_code = s.t();
+                //    if (s_code)
+                //        document.write(s_code)
+                //}
+            }
+        }
+    }
+</script>
+
+    </div>
+</div>
+         
+            <div align="center">
+                
+<div id="adspace">
+    <div id="TopAdSpace">
+
+        <script type="text/javascript">
+            googletag.cmd.push(function ()
+            {
+                googletag.display("TopAdSpace");
+            });
+        </script>
+
+    </div>
+</div>
+
+            </div>
+
+            <div class="clear"></div>
+            
+
+ 
+
+
+
+
+<nav>
+<ul>
+        <li class="primaryNavigation">BROWSE
+            <span class="dropdownArrow"></span>
+            <div class="BROWSE secondaryNavigation">
+            <ul>
+            
+                        <li class="column">
+                
+                    <ul class="padLeft">
+
+                        
+                        
+                                <li id='nav-literature'><a href="/literature" target="" >Literature</a> </li>
+                            
+                                <li id='nav-test-prep'><a href="/test-prep" target="" >Test Prep</a> </li>
+                            
+                                <li id='nav-shakespeare-central'><a href="/literature/shakespearecentral" target="" >Shakespeare Central</a> </li>
+                            
+                                <li id='nav-sciences'><a href="/sciences" target="" >Sciences</a> </li>
+                            
+                                <li id='nav-college'><a href="/find-a-college" target="" >College</a> </li>
+                            
+                                <li id='nav-study-break'><a href="/study-break" target="" >Study Break</a> </li>
+                            
+                                <li id='nav-math'><a href="/math" target="" >Math</a> </li>
+                            
+                                <li id='nav-name-writing'><a href="/writing" target="" >Writing</a> </li>
+                            
+                                <li id='nav-more-subjects'><a href="/more-subjects" target="" >More Subjects</a> </li>
+                            
+                                <li id='nav-foreign-language'><a href="/foreign-languages" target="" >Foreign Languages</a> </li>
+                            
+                                <li id='nav-blog'><a href="/cliffsblog" target="" >BLOG</a> </li>
+                            
+
+                        
+                        
+
+                    </ul>
+                
+                    <ul class="light">
+
+                        
+                        
+
+                        
+                        
+                                <li>Popular Links                               
+                                
+                                <ul>
+                                        <li id='nav-popular-shakespeare'><a href="/literature/shakespearecentral" target="">1. Shakespeare Central</a></li>
+                                    
+                                        <li id='nav-popular-teacher'><a href="/teacher-resource-page" target="">2. Teacher Resources</a></li>
+                                    
+                                        <li id='nav-shakespeare-manga'><a href="/mangaeditions" target="">3. Shakespeare Manga</a></li>
+                                    
+                                        <li id='nav-test-prep-center'><a href="/test-prep" target="">4. Test Prep Center</a></li>
+                                    
+                                        <li id='nav-online-quizzes-by-subject'><a href="/sciences/biology-quizzes" target="">5. Biology Quizzes</a></li>
+                                    
+                                        <li id='nav-mobile-apps'><a href="/literature/cliffsnotes-mobile" target="">6. Mobile Apps</a></li>
+                                    </ul>
+                                </li>
+                            
+                                <li>Top 10 LitNotes                               
+                                
+                                <ul>
+                                        <li id='nav-to-kill-a-mockingbird'><a href="/literature/t/to-kill-a-mockingbird/to-kill-a-mockingbird-at-a-glance" target="">1. To Kill a Mockingbird</a></li>
+                                    
+                                        <li id='nav-a-tale-of-two-cities'><a href="/literature/t/a-tale-of-two-cities/a-tale-of-two-cities-at-a-glance" target="">2. A Tale of Two Cities</a></li>
+                                    
+                                        <li id='nav-animal-farm'><a href="/literature/a/animal-farm/animal-farm-at-a-glance" target="">3. Animal Farm</a></li>
+                                    
+                                        <li id='nav-catching-fire'><a href="/literature/c/catching-fire-book-2-of-the-hunger-games-trilogy/book-summary" target="">4. Catching Fire</a></li>
+                                    
+                                        <li id='nav-of-mice-and-men'><a href="/literature/o/of-mice-and-men/of-mice-and-men-at-a-glance" target="">5. Of Mice and Men</a></li>
+                                    
+                                        <li id='nav-the-catcher-in-the-rye'><a href="/literature/c/the-catcher-in-the-rye/the-catcher-in-the-rye-at-a-glance" target="">6. The Catcher in the Rye</a></li>
+                                    
+                                        <li id='nav-the-great-gatsby'><a href="/literature/g/the-great-gatsby/the-great-gatsby-at-a-glance" target="">7. The Great Gatsby</a></li>
+                                    
+                                        <li id='nav-the-outsiders'><a href="/literature/o/the-outsiders/book-summary" target="">8. The Outsiders</a></li>
+                                    
+                                        <li id='nav-romeo-and-juliet'><a href="/literature/r/romeo-and-juliet/romeo-and-juliet-at-a-glance" target="">9. Romeo and Juliet</a></li>
+                                    
+                                        <li id='nav-lord-of-the-flies'><a href="/literature/l/lord-of-the-flies/lord-of-the-flies-at-a-glance" target="">10. Lord of the Flies</a></li>
+                                    </ul>
+                                </li>
+                            
+
+                    </ul>
+                
+                    </li>
+                
+            </ul>
+            </div>
+        </li>
+    
+        <li class="primaryNavigation">SHOP
+            <span class="dropdownArrow"></span>
+            <div class="SHOP secondaryNavigation">
+            <ul>
+            
+                        <li class="column">
+                
+                    <ul class="padLeft">
+
+                        
+                        
+                                <li id='nav-shop-literature'><a href="http://www.hmhco.com/search?i=1;mm=trade;q=cliffsnotes+lit;q1=LITERARY+CRITICISM;rank=Program_Revenue;segment=Products;sort=weeklyRevenue;x1=t.t2" target="_blank" >Literature</a> </li>
+                            
+                                <li id='nav-shop-math'><a href="http://www.hmhco.com/search?i=1;mm=trade;q=cliffs+math;q1=MATHEMATICS;q2=CliffsNotes;rank=Program_Revenue;segment=Products;sort=weeklyRevenue;x1=t.t2;x2=brands" target="_blank" >Math</a> </li>
+                            
+                                <li id='nav-shop-sat'><a href="http://www.hmhco.com/parents-and-kids/homework-help/cliffsnotes-test-prep/sat-and-act" target="_blank" >SAT</a> </li>
+                            
+                                <li id='nav-shop-ap'><a href="http://www.hmhco.com/parents-and-kids/homework-help/cliffsnotes-test-prep/cliffsap" target="_blank" >AP</a> </li>
+                            
+                                <li id='nav-shop-accounting'><a href="http://www.hmhco.com/search?i=1;mm=trade;q=cliffsquickreview+accounting;segment=Products;sort=weeklyRevenue" target="_blank" >Accounting</a> </li>
+                            
+                                <li id='nav-shop-economics'><a href="http://www.hmhco.com/search?i=1;mm=trade;q=cliffs+economics;q1=CliffsNotes;q2=General+Interest;q3=Paperback;rank=Program_Revenue;segment=Products;sort=relevance;x1=brands;x2=topNavigation;x3=format" target="_blank" >Economics</a> </li>
+                            
+                                <li id='nav-shop-history'><a href="http://www.hmhco.com/search?i=1;mm=trade;q=cliffs+history;q1=CliffsNotes;q2=General+Interest;rank=Program_Revenue;segment=Products;sort=relevance;x1=brands;x2=topNavigation" target="_blank" >History</a> </li>
+                            
+                                <li id='nav-shop-writing'><a href="http://www.hmhco.com/search?i=1;mm=trade;q=cliffs+writing+grammar;q1=REFERENCE;segment=Products;sort=weeklyRevenue;x1=t.t2" target="_blank" >Writing</a> </li>
+                            
+
+                        
+                        
+
+                    </ul>
+                
+                    <ul class="padLeft">
+
+                        
+                        
+                                <li id='nav-shop-shakespeare'><a href="http://www.hmhco.com/search?i=1;mm=trade;q=cliffs+shakespeare;q1=Paperback;q2=CliffsNotes;rank=Program_Revenue;segment=Products;sort=weeklyRevenue;x1=format;x2=brands" target="_blank" >Shakespeare</a> </li>
+                            
+                                <li id='nav-shop-test-prep'><a href="http://www.hmhco.com/search?i=1;mm=trade;q=cliffs+test+prep;q1=STUDY+AIDS;q2=CliffsNotes;q3=Paperback;rank=Program_Revenue;segment=Products;sort=weeklyRevenue;x1=t.t2;x2=brands;x3=format" target="_blank" >Test Prep</a> </li>
+                            
+                                <li id='nav-shop-act'><a href="http://www.hmhco.com/parents-and-kids/homework-help/cliffsnotes-test-prep/sat-and-act" target="_blank" >ACT</a> </li>
+                            
+                                <li id='nav-shop-professional-exams'><a href="http://www.hmhco.com/search?i=1;mm=trade;q=cliffs+test+professional;q1=CliffsNotes;q2=Paperback;rank=Program_Revenue;segment=Products;sort=weeklyRevenue;x1=brands;x2=format" target="_blank" >Professional Exams</a> </li>
+                            
+                                <li id='nav-shop-cram-plans'><a href="http://www.hmhco.com/search?i=1;mm=trade;q=cliffs+cram+plan;q1=CliffsNotes;q2=Paperback;rank=Program_Revenue;segment=Products;sort=weeklyRevenue;x1=brands;x2=format" target="_blank" >Cram Plans</a> </li>
+                            
+                                <li id='nav-shop-sociology'><a href="http://www.hmhco.com/search?i=1;mm=trade;q=cliffsquickreview+sociology;segment=Products;sort=weeklyRevenue" target="_blank" >Sociology</a> </li>
+                            
+                                <li id='nav-shop-foreign-language'><a href="http://www.hmhco.com/search?i=1;mm=trade;q=cliffs+foreign+language;q1=CliffsNotes;rank=Program_Revenue;segment=Products;sort=weeklyRevenue;x1=brands" target="_blank" >Foreign Language</a> </li>
+                            
+                                <li id='nav-shop-flash-cards'><a href="http://www.hmhco.com/search?i=1;mm=trade;q=cliffsnotes+flashcards;q1=CliffsNotes;segment=Products;sort=weeklyRevenue;x1=brands" target="_blank" >Flash Cards</a> </li>
+                            
+                                <li id='nav-shop-see-all'><a href="http://www.hmhco.com/search?i=1;mm=trade;q=*;q1=CliffsNotes;rank=Program_Revenue;segment=Products;sort=weeklyRevenue;x1=brands" target="_blank" >See All</a> </li>
+                            
+
+                        
+                        
+
+                    </ul>
+                
+                    <ul class="light">
+
+                        
+                        
+
+                        
+                        
+                                <li>TOP 5 LITNOTES                               
+                                
+                                <ul>
+                                        <li id='nav-CliffsNotes-on-Lee-s-To-Kill-a-Mockingbird'><a href="http://hmhbooks.com/trade.html?isbn13=9780764586002" target="_blank">1.  Lee's To Kill a Mockingbird</a></li>
+                                    
+                                        <li id='nav-CliffsNotes-on-Homer-s-Odyssey'><a href="http://hmhbooks.com/trade.html?isbn13=9780764585999" target="_blank">2.  Homer's Odyssey</a></li>
+                                    
+                                        <li id='nav-CliffsNotes-on-Shakespeare-s-Romeo-and-Juliet'><a href="http://hmhbooks.com/trade.html?isbn13=9780764585920" target="_blank">3.  Shakespeare's Romeo and Juliet</a></li>
+                                    
+                                        <li id='nav-CliffsNotes-on-Fitzgerald-s-The-Great-Gatsby'><a href="http://hmhbooks.com/trade.html?isbn13=9780764586019" target="_blank">4.  Fitzgerald's The Great Gatsby</a></li>
+                                    
+                                        <li id='nav-CliffsNotes-on-Shakespeare-s-Macbeth'><a href="http://hmhbooks.com/trade.html?isbn13=9780764586026" target="_blank">5.  Shakespeare's Macbeth</a></li>
+                                    </ul>
+                                </li>
+                            
+                                <li>TOP 5 SHAKESPEARE                               
+                                
+                                <ul>
+                                        <li id='nav-CliffsNotes-on-Shakespeare-s-Romeo-and-Juliet'><a href="http://hmhbooks.com/trade.html?isbn13=9780764585920" target="_blank">1.  Shakespeare's Romeo and Juliet</a></li>
+                                    
+                                        <li id='nav-CliffsNotes-on-Shakespeare-s-Macbeth'><a href="http://hmhbooks.com/trade.html?isbn13=9780764586026" target="_blank">2.  Shakespeare's Macbeth</a></li>
+                                    
+                                        <li id='nav-CliffsNotes-on-Shakespeare-s-Hamlet'><a href="http://hmhbooks.com/trade.html?isbn13=9780764586033" target="_blank">3.  Shakespeare's Hamlet</a></li>
+                                    
+                                        <li id='nav-CliffsNotes-on-Shakespeare-s-Julius-Caesar'><a href="http://hmhbooks.com/trade.html?isbn13=9780764585951" target="_blank">4.  Shakespeare's Julius Caesar</a></li>
+                                    
+                                        <li id='nav-CliffsNotes-on-Shakespeare-s-Much-Ado-About-Nothing'><a href="http://hmhbooks.com/trade.html?isbn13=9780764585050" target="_blank">5.  Shakespeare's Much Ado About Nothing</a></li>
+                                    </ul>
+                                </li>
+                            
+                                <li>TOP 5 TEST PREP                               
+                                
+                                <ul>
+                                        <li id='nav-CliffsNotes-AP-Biology,-Fourth-Edition'><a href="http://hmhbooks.com/trade.html?isbn13=9781118127995" target="_blank">1.  AP Biology, Fourth Edition</a></li>
+                                    
+                                        <li id='nav-CliffsNotes-FTCE-Professional-Education-Test-Third-Edition'><a href="http://hmhbooks.com/trade.html?isbn13=9780544230583" target="_blank">2.  FTCE Professional Education Test Third Edition</a></li>
+                                    
+                                        <li id='nav-CliffsNotes-Praxis-II:-Principles-of-Learning-andTeaching,-Second-Edition'><a href="http://hmhbooks.com/trade.html?isbn13=9781118090466" target="_blank">3.  Praxis II: Principles of Learning andTeaching, Second Edition</a></li>
+                                    
+                                        <li id='nav-CliffsNotes-ACT-Cram-Plan,-2nd-Edition'><a href="http://hmhbooks.com/trade.html?isbn13=9780544227262" target="_blank">4.  ACT Cram Plan, 2nd Edition</a></li>
+                                    
+                                        <li id='nav-CliffsNotes-Math-Review-for-Standardized-Tests,-2nd-Edition'><a href="http://hmhbooks.com/trade.html?isbn13=9780470500774" target="_blank">5.  Math Review for Standardized Tests, 2nd Edition</a></li>
+                                    </ul>
+                                </li>
+                            
+
+                    </ul>
+                
+                    </li>
+                
+            </ul>
+            </div>
+        </li>
+    
+        <li class="primaryNavigation">
+                Inside HMH <span class="dropdownArrow"></span>
+                <!-- SECONDARY NAVIGATION -->
+            <div class="InsideHMH secondaryNavigation">
+                <ul>
+                    <li class="column">
+                        <ul class="padLeft">
+                            <li> 
+                                <span><a href="http://www.hmhco.com/educators/educational-services" target="_blank" >Educational Services</a></span>
+                            </li>
+                        
+                            <li>
+                                <a href="http://www.hmhco.com/educators/educational-services/professional-learning-conferences" target="_blank">Professional Learning / Education Conferences</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/educators/educational-services/certification-training" target="_blank">Certification Training</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/educators/educational-services/program-implementation" target="_blank">Program Implementation</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/educators/educational-services/school-improvement" target="_blank">School Improvement</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/educators/educational-services/grants-funding" target="_blank">School Grants &amp; Funding</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/educators/educational-services/resource-center" target="_blank">Resource Center</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/educators/educational-services/custom-solutions" target="_blank">Custom Solutions</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/educators/educational-services/professional-development" target="_blank">Professional Development For Educators</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/educators/educational-services/elearning-professional-development" target="_blank">eLearning Professional Development</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/educators/trade-desk-copies" target="_blank">Desk and Exam Copy Requests</a>
+                            </li>
+                        </ul>
+
+
+                        <ul class="padLeft">
+            
+                            <li> 
+                                <span><a href="http://www.hmhco.com/booksellers" target="_blank">BookSeller Resources</a></span>
+                            </li>
+                        
+                            <li>
+                                <a href="http://www.hmhco.com/booksellers/asset-library" target="_blank">Asset Library</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/booksellers/bookseller-faqs" target="_blank">Bookseller FAQs</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/booksellers/backlist-order-forms" target="_blank">Backlist Order Forms</a>
+                            </li>
+                        
+                            <li class="topic"> 
+                                <span><a href="http://www.hmhco.com/educators/education-topics" target="_blank">Education Topics</a></span>
+                            </li>
+                        
+                            <li>
+                                <a href="http://www.hmhco.com/educators/education-topics/by-topic/core-curriculum" target="_blank">Core Curriculum</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/educators/education-topics/by-topic/common-core" target="_blank">Common Core State Standards</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/educators/education-topics/by-topic/technology" target="_blank">Technology for the Classroom</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/educators/education-topics/by-topic/Homeschool" target="_blank">Homeschool Curriculum</a>
+                            </li>
+                        </ul>
+
+                        <ul class="light">
+                            <li> 
+                                <a class="sectionHeader">My Location</a>
+                            </li>
+                        
+                            <li>
+                                <a href="http://www.hmhco.com/country/us/california" target="_blank">California</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/country/us/florida" target="_blank">Florida</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/country/us/georgia" target="_blank">Georgia</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/country/us/indiana" target="_blank">Indiana</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/country/us/new-york" target="_blank">New York</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/country/us/ohio" target="_blank">Ohio</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/country/us/texas" target="_blank">Texas</a>
+                            </li>
+                            
+                            <li>
+                                <a href="http://www.hmhco.com/country/International/hmh-international" target="_blank">International</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            </li>
+      
+
+
+        
+<div id="empty" style="height:1px; overflow:hidden;"></div>
+</nav>
+<hr class="navBorder" />
+
+<!-- Begin ad: 970x66 Dart-SB -->
+<center  class='site_ad' style='clear:both;margin:0 0 0 0'>
+    <!-- pushdown_970x66+ -->
+    <!-- cliffsnotes.com/siteskin -->
+    <div id='div-gpt-ad-1380638722905-0' style='width:970px; '>
+    <script type='text/javascript'>
+  
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1380638722905-0'); });
+     
+    </script>
+
+    </div>
+    <!-- END pushdown_970x66+ -->
+</center>
+<!-- End ad -->
+
+        
+            <div id="content">
+                <div class="container">               
+                    
+        <div id="breadcrumb-wrapper">
+        <div class="breadcrumb">
+    
+        
+        <a href="/">Home</a>
+        &gt;
+        
+        
+    
+        
+        <a href="/literature">Literature Notes</a>
+        &gt;
+        
+        
+    
+        
+        <a href="/literature/c/the-catcher-in-the-rye/the-catcher-in-the-rye-at-a-glance">The Catcher in the Rye</a>
+        &gt;
+        
+        
+    
+        
+        
+        
+        
+        <span><i>The Catcher in the Rye </i>at a Glance</span>
+    
+            </div>
+            <div class="clear"></div>
+            </div>
+    
+
+                    
+<div id="litnote">
+    <div class="content-wrapper two-column">
+        <div class="main-content">
+            
+<script type="text/javascript">
+          function getShareLink() {
+              var litnote_link = document.getElementById('litnote-link');
+              if (litnote_link) {
+                  var share_link = {
+                      url: (litnote_link.href).replace(/^\//, 'http://' + document.domain + '/'),
+                      title: litnote_link.title + ' - Cliffsnotes'
+                  }
+                  return share_link;
+              }
+              return false;
+          };
+</script>
+<div class="share">
+    <!-- ADDTHIS BUTTON BEGIN -->
+    <div class="addthis_toolbox addthis_default_style ">
+    <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+    <a class="addthis_button_google_plusone"  g:plusone:size="medium"></a>
+    <a class="addthis_counter addthis_pill_style"></a>
+    </div>
+    <script type="text/javascript">
+        var addthis_config = { data_track_linkback: true };
+        var addthis_share = getShareLink() || {};
+        addthis_pub = 'wiley';
+        addthis_options = 'email, digg, delicious, linkedin, facebook, twitter, reddit, myspace, more';
+    </script>
+    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4d935aae7343cd4e"></script>
+    <!-- AddThis Button END -->
+</div>
+            
+
+<div class="litnote-toolbar">
+    <ul>
+        <li id="innerlayout_0_ctl09_liChapterSummaries" class="litnote-bttn-blue">
+            <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-1"><span class="icon icon-chapsum">Chapter Summaries</span></a></li>
+        <li id="innerlayout_0_ctl09_liApp"><a href="http://click.linksynergy.com/fs-bin/stat?id=Cgn1hBpdpVk&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fcliffsnotes-study-guides%2Fid478291295%3Fmt%3D8%26uo%3D4%26partnerId%3D30"><span class="icon icon-app">
+            Download app</span></a></li>
+        <li id="innerlayout_0_ctl09_liAudio"><a href="/~/media/Cliffs Notes/Audio Overviews/cliffs_3_catcher_in_the_rye.ashx"><span class="icon icon-audio">
+            Listen to an overview</span></a></li>
+        
+        
+        <li id="innerlayout_0_ctl09_liBuyThis" class="liBuyThis">
+            <div id="mdialog" style="display: none;">
+                <iframe height="530" width="700" id="myIframe" frameborder="0" src=""></iframe>
+            </div>
+
+            <a href="">
+                <span class="icon icon-cart">Buy this Lit Note</span>
+            </a>
+        </li>
+    </ul>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var url = 'http://hmhbooks.com/trade.html?isbn13=9780764585913';        
+
+        $("#mdialog").dialog({
+            autoOpen: false,
+            height: 590,
+            width: 730,
+            resizable: false,
+            draggable: false,
+            open: function (event, ui) {
+                $('#myIframe').attr('src', url);
+            }
+        });
+
+        $('.liBuyThis a').click(function ()
+        {
+            $('#mdialog').dialog('open');
+
+            return false;
+        });
+    });
+</script>
+
+            
+<h1 class="literature-h1">
+    <span class="literature-header"><span id="top" class="subheader-h2">
+        The Catcher in the Rye</span> <span id="innerlayout_0_ctl10_spAuthor" class="subheader-author">
+            By
+            J. D. Salinger</span> </span><span class="subheader-h3">
+                </span> <span class="subheader-h3">
+                    
+                    <i>The Catcher in the Rye </i>at a Glance</span>
+</h1>
+
+            
+            
+<div class="page-navigation summary">
+    
+    <div id="innerlayout_0_phtoppager_0_divNextPage" class="next-page right">
+        <a href="/literature/c/the-catcher-in-the-rye/book-summary"
+            title="Book Summary"><span>Next</span>
+            <br>
+            <span class="next-page-title">Book Summary</span>
+        </a>
+    </div>
+    <div class="clear">
+    </div>
+</div>
+
+            <div class="article-content">
+                <div id="litnote-content">
+                    
+<div id="innerlayout_0_contentbody_0_separator" style="float:left; margin:0 10px 10px 0;">
+    <img src="/CliffsNotes/includes/images/content-ad-bgrd.gif" />
+    <div id="SquareAdSpace" class="placement">
+        <script type="text/javascript">
+            googletag.cmd.push(function ()
+            {
+                googletag.display("SquareAdSpace");
+            });
+        </script>
+    </div>
+</div>
+<p class="litNoteText"><a href="~/link.aspx?_id=CE4CDA3C748247198ACE2128E7D6A549&amp;_z=z">J.D. Salinger</a>'s <em>The Catcher in the Rye</em>, <a href="~/link.aspx?_id=FE2DE3507B7C417784F0F101EA5B4B9F&amp;_z=z">Holden Caulfield</a> recounts the days following his expulsion from Pencey Prep, a private school. After a fight with his roommate, Stradlater, Holden leaves school two days early to explore New York before returning home, interacting with teachers, prostitutes, nuns, an old girlfriend, and his sister along the way. J.D. Salinger's classic <em>The Catcher in the Rye</em> illustrates a teenager's dramatic struggle against death and growing up.</p>
+<p class="litNoteText"><strong>Written by:</strong> <a href="~/link.aspx?_id=CE4CDA3C748247198ACE2128E7D6A549&amp;_z=z">J.D. Salinger</a></p>
+<p class="litNoteText"><strong>Type of Work:</strong> novel</p>
+<p class="litNoteText"><strong>Genres: </strong>coming-of-age</p>
+<p class="litNoteText"><strong>First Published:</strong> by Little, Brown and Company on July 16, 1951</p>
+<p class="litNoteText"><strong>Setting:</strong> 1950s; Agerstown, Pennsylvania</p>
+<p class="litNoteText"><strong><a href="~/link.aspx?_id=0969415555A849A89D704E2923BB786E&amp;_z=z">Main Characters</a></strong><strong>:</strong> <a href="~/link.aspx?_id=FE2DE3507B7C417784F0F101EA5B4B9F&amp;_z=z">Holden Caulfield</a>; <a href="~/link.aspx?_id=D264694FD8D547A99440C36A0FEFEE1F&amp;_z=z">Phoebe</a>; <a href="~/link.aspx?_id=B545DC2AADEC497D9A84347D7D996168&amp;_z=z">Allie</a>; <a href="~/link.aspx?_id=5A10B161603949AE80C2BCE3B6A0074E&amp;_z=z">D.B.</a>; <a href="~/link.aspx?_id=4119A8E81AA74E37889703B8B69B433E&amp;_z=z">Mr. Antolini</a></p>
+<p class="litNoteText"><a href="&lt;Cliffs:InternalLink alias="></a><strong><a href="~/link.aspx?_id=23B2D4F0DC7B4A1BACDB6880F6048B26&amp;_z=z">Major Thematic Topics</a></strong><strong>:</strong> innocence; death; authentic versus artificial; sexual confusion</p>
+<p class="litNoteText"><strong>Motifs:</strong> language; ducks in the pond</p>
+<p class="litNoteText"><strong><a href="~/link.aspx?_id=5FF276A608F741198CA580337907364A&amp;_z=z">Major Symbols</a></strong><strong>:</strong> preparatory school life; baseball glove; red hunting cap; Radio City Music Hall; the carrousel's gold ring; the coming-of-age genre</p>
+<p class="litNoteText">The three most important aspects of <em>The Catcher in the Rye</em>:</p>
+<ul>
+    <li>Holden Caulfield is one of the best-loved fictional characters in American literature. Like another popular character, <a href="~/link.aspx?_id=4406624E64564F9BA585C2E414DFABC1&amp;_z=z">Huck Finn</a>, Holden tells his own story in his own words as if speaking aloud, and it is Holden's "voice" on the page, rather than the plot of <em>The Catcher in the Rye</em>, for which the novel is most remembered.</li>
+    <p>
+    </p>
+    <li>Although <em>The Catcher in the Rye</em> seems like the unedited thoughts and feelings of an actual teenager, it is nothing of the kind. Actually, J.D. Salinger was in his twenties and thirties when he wrote the novel, which began as a short story and grew, over many years, into a book length work of fiction.</li>
+    <li>The novel's main <a href="~/link.aspx?_id=23B2D4F0DC7B4A1BACDB6880F6048B26&amp;_z=z">thematic conflict</a> pits the innocence and authenticity of childhood, as represented by Holden's sister Phoebe, against the phoniness, as Holden sees it, of most adults (Mr. Antolini, for example). Neither a child nor a grownup, Holden resists maturation, a process he sees as characterized by loss rather than growth.</li>
+</ul>
+
+                </div>
+                <p class="backtotop">
+                    <a href="#top">Back to Top</a></p>
+                <div class="clear">
+                </div>
+            </div>
+            
+<div class="page-navigation summary">
+    
+    <div id="innerlayout_0_phbottompager_0_divNextPage" class="next-page right">
+        <a href="/literature/c/the-catcher-in-the-rye/book-summary"
+            title="Book Summary"><span>Next</span>
+            <br>
+            <span class="next-page-title">Book Summary</span>
+        </a>
+    </div>
+    <div class="clear">
+    </div>
+</div>
+
+            <div class="feature-box-area">
+                <div class="left">
+                    
+<div class="feature-box litnote-quiz">
+    <div class="outer">
+        <div class="inner">
+            <h3 class="feature-box-header">
+                Take the Quiz</h3>
+            <p>
+                <strong>
+                    What animals in Central Park does Holden worry about?
+                </strong>
+            </p>
+            <span id="innerlayout_0_phquiz_0_rblAnswers" class="rblAnswer"><input id="innerlayout_0_phquiz_0_rblAnswers_0" type="radio" name="innerlayout_0$phquiz_0$rblAnswers" value="{24DD4E49-1E9A-4F24-8706-A1FF8BBDCF9F}" /><label for="innerlayout_0_phquiz_0_rblAnswers_0">Dogs</label><br /><input id="innerlayout_0_phquiz_0_rblAnswers_1" type="radio" name="innerlayout_0$phquiz_0$rblAnswers" value="{2FA02FC2-798E-4882-9AA7-86EF62C305ED}" /><label for="innerlayout_0_phquiz_0_rblAnswers_1">Ducks</label><br /><input id="innerlayout_0_phquiz_0_rblAnswers_2" type="radio" name="innerlayout_0$phquiz_0$rblAnswers" value="{090262F9-7A46-444E-B980-8B84A9D92FD1}" /><label for="innerlayout_0_phquiz_0_rblAnswers_2">Horses</label><br /><input id="innerlayout_0_phquiz_0_rblAnswers_3" type="radio" name="innerlayout_0$phquiz_0$rblAnswers" value="{711DF7E2-391B-45DF-A947-7D1A3AF2C72E}" /><label for="innerlayout_0_phquiz_0_rblAnswers_3">Pigeons</label></span>
+            <p>
+                <a id="innerlayout_0_phquiz_0_lnkButton" class="button" href="javascript:__doPostBack(&#39;innerlayout_0$phquiz_0$lnkButton&#39;,&#39;&#39;)"><span>Quiz</span></a>
+            </p>
+        </div>
+    </div>
+</div>
+<script>
+    $('.rblAnswer').find('input').addClass('quiz-question');
+    $('.rblAnswer').find('input').css('margin-top', '1em');
+    $('.rblAnswer').find('input').css('margin-right', '2px');
+    $('.rblAnswer').find('input').filter(':first').css('margin-top', '0');
+</script>
+
+                </div>
+                <div class="right">
+                    
+<div class="feature-box ask-cliff-resources">
+    <div class="outer">
+        <div class="inner">
+            <h3 class="feature-box-header">
+                Cliff's Notes
+            </h3>
+            
+                    <ul>
+                
+                    <li>
+                        <a id="innerlayout_0_ctl11_rptCliffNotes_hlNotesLink_0" href="/cliffsnotes/literature/what-does-truculentfrom-great-expectations">What does <i>truculent</i> (from <i>Great Expectations</i>) mean?</a>
+                    </li>
+                
+                    <li>
+                        <a id="innerlayout_0_ctl11_rptCliffNotes_hlNotesLink_1" href="/cliffsnotes/literature/how-does-scout-in-to-kill-a-mockingbird-show-two-sides">How does Scout in <i>To Kill a Mockingbird </i>show two sides?</a>
+                    </li>
+                
+                    </ul>
+            <p>
+                <a id="innerlayout_0_ctl11_hlMoreLink" class="button" href="/cliffsnotes">
+                    <span>
+                        More Study Help</span>
+                </a>
+            </p>
+        </div>
+    </div>
+</div>
+                </div>
+                <div class="clear">
+                </div>
+            </div>
+            <div class="left">
+                
+
+<div id="RectAdSpace">
+     <!--Added for Release 2.4 - IN15692-->
+            <br />
+    <script type="text/javascript">
+        googletag.cmd.push(function () {
+            googletag.display("RectAdSpace");
+        });
+    </script>
+</div>
+
+
+            </div>
+            <div class="right">
+                
+<!-- staticFeature ( ref:CLIFFSNOTES2_FACEBOOK_LIKEBOX_SF ) -->
+<div style="margin: 0 3px 0 4px; background-color: #fff">
+    <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FCliffsNotes&amp;width=160&amp;colorscheme=light&amp;connections=4&amp;stream=false&amp;header=true&amp;height=295"
+        scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 160px;
+        height: 295px;" allowtransparency="false"></iframe>
+</div>
+
+            </div>
+        </div>
+        <div class="sidebar-left">
+            
+ <div class="TOC">
+            <div class="feature-box feature-box-navigation">
+                <div class="outer">
+                    <div class="inner narrow">
+                        <div class="feature-box-header">
+                            <h3 class="divider">
+                                Table of Contents</h3>
+                        </div>
+                        <ul class="toc-list">
+                                <li class="active"><span><i>The Catcher in the Rye </i>at a Glance</li>
+                                
+                            
+                                
+                                <li><a href="/literature/c/the-catcher-in-the-rye/book-summary" title="">
+                                    Book Summary</a>
+                                    
+                                </li>
+                            
+                                
+                                <li><a href="/literature/c/the-catcher-in-the-rye/about-the-catcher-in-the-rye/historical-setting" title="">
+                                    About <i>The Catcher in the Rye</i></a>
+                                    <ul>
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/about-the-catcher-in-the-rye/historical-setting" title="">Historical Setting</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/about-the-catcher-in-the-rye/reception-and-reputation" title="">Reception and Reputation</a>
+                                            </li>
+                                        </ul>
+                                </li>
+                            
+                                
+                                <li><a href="/literature/c/the-catcher-in-the-rye/character-list" title="">
+                                    Character List</a>
+                                    
+                                </li>
+                            
+                                
+                                <li><a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-1" title="">
+                                    Summary and Analysis</a>
+                                    <ul>
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-1" title="">Chapter 1</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-2" title="">Chapter 2</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-3" title="">Chapter 3</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-4" title="">Chapter 4</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-5" title="">Chapter 5</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapters-67" title="">Chapters 6-7</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapters-89" title="">Chapters 8-9</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-10" title="">Chapter 10</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-11" title="">Chapter 11</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-12" title="">Chapter 12</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-13" title="">Chapter 13</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-14" title="">Chapter 14</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-15" title="">Chapter 15</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-16" title="">Chapter 16</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-17" title="">Chapter 17</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapters-1819" title="">Chapters 18-19</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-20" title="">Chapter 20</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-21" title="">Chapter 21</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-22" title="">Chapter 22</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-23" title="">Chapter 23</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapter-24" title="">Chapter 24</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/summary-and-analysis/chapters-2526" title="">Chapters 25-26</a>
+                                            </li>
+                                        </ul>
+                                </li>
+                            
+                                
+                                <li><a href="/literature/c/the-catcher-in-the-rye/character-analysis/holden-caulfield" title="">
+                                    Character Analysis</a>
+                                    <ul>
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/character-analysis/holden-caulfield" title="">Holden Caulfield</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/character-analysis/phoebe" title="">Phoebe</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/character-analysis/allie" title="">Allie</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/character-analysis/db" title="">D.B.</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/character-analysis/mr-antolini" title="">Mr. Antolini</a>
+                                            </li>
+                                        </ul>
+                                </li>
+                            
+                                
+                                <li><a href="/literature/c/the-catcher-in-the-rye/character-map" title="">
+                                    Character Map</a>
+                                    
+                                </li>
+                            
+                                
+                                <li><a href="/literature/c/the-catcher-in-the-rye/jd-salinger-biography" title="">
+                                    J.D. Salinger Biography</a>
+                                    
+                                </li>
+                            
+                                
+                                <li><a href="/literature/c/the-catcher-in-the-rye/critical-essays/major-themes" title="">
+                                    Critical Essays</a>
+                                    <ul>
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/critical-essays/major-themes" title="">Major Themes</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/critical-essays/major-symbols" title="">Major Symbols</a>
+                                            </li>
+                                        </ul>
+                                </li>
+                            
+                                
+                                <li><a href="/literature/c/the-catcher-in-the-rye/study-help/quiz" title="">
+                                    Study Help</a>
+                                    <ul>
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/study-help/quiz" title="">Quiz</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/study-help/full-glossary" title="">Full Glossary</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/study-help/essay-questions" title="">Essay Questions</a>
+                                            </li>
+                                        
+                                            
+                                            <li>
+                                                <a href="/literature/c/the-catcher-in-the-rye/study-help/practice-projects" title="">Practice Projects</a>
+                                            </li>
+                                        </ul>
+                                </li>
+                            </ul>
+                        <p class="cite-litnote">
+                            <img src="/spa_assets/R16B051/site/cliffsnotes2/include/images/icons/citation.png"
+                                alt="" style="margin: 0" />
+                            <a href="/literature/c/the-catcher-in-the-rye/the-catcher-in-the-rye-at-a-glance?lcitation=true">Cite this
+                                Literature Note</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="clear feature-divider">
+            </div>
+            
+<div id="home-ad-space-sky">
+    <div id="LongBannerAdSpace" class="ads">
+        <script type="text/javascript">
+            googletag.cmd.push(function ()
+            {
+                googletag.display("LongBannerAdSpace");
+            });
+        </script>
+    </div>
+</div>
+
+
+        </div>
+    </div>
+</div>
+                
+                </div>
+            </div>        
+        </div>    
+    
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-acUfZ4kBvcNN2"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-acUfZ4kBvcNN2.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<!-- Quantcast Tag for Book Rags -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-berY5RRQGbf0c"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-berY5RRQGbf0c.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag for Book Rags --></form>
+
+    <!-- Full Width Container -->
+    
+
+<div class="content-fullwidth-wrapper">
+    
+    <!-- Bottom Banner Ad -->
+    
+<div align="center" style="background-color:#FFFFFF">
+<div id="BottomAdSpace">
+
+        <script type="text/javascript">
+            googletag.cmd.push(function () {
+                googletag.display("BottomAdSpace");
+            });
+        </script>
+
+    </div>
+
+</div>
+</div>
+
+<script type="text/javascript">
+    /*jQuery(function ()
+    {
+        $.each($('.content-fullwidth-wrapper .homePageFullWidthWrapper'), function (i, v)
+        {
+            $(this).children('.homepageFullWidthInnerContent').width($(this).children('.homepageFullWidthInnerContent').textWidth());
+        });
+    });
+
+    $.fn.textWidth = function ()
+    {
+        var html_org = $(this).html();
+        var html_calc = '<span>' + html_org + '</span>';
+        $(this).html(html_calc);
+        var width = $(this).find('span:first').width();
+        $(this).html(html_org);
+        return width;
+    };*/
+</script>
+
+    
+
+    
+
+<div id="footer-navigation">       
+    
+    <div id="footerContent">  
+    <a href="http://www.hmhco.com/" target="_blank" class="ftrLogo"><img src="/spa_assets/R16B051/site/cliffsnotes2/include/images/hmh_footer_logo.png" alt="HMH Logo" /></a>
+    
+            <div class="footerColumn">
+                
+                        <ul>
+                    
+                        <li id="phfooter_0_rptColumn_rptFooterLinkHeading_0_footerHeading_0" class="footerTopicTitle"><strong>
+                            About HMH
+                        </strong>
+                            
+                                    <ul>
+                                
+                                    <li>
+                                        <a href="http://www.hmhco.com/" target="_blank">
+                                            HMH Home
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://www.hmhco.com/about-hmh" target="_blank">
+                                            Company Overview
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://www.hmhco.com/about-hmh/corporate-and-social-responsibility" target="_blank">
+                                            Corporate Social Responsibility
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://www.hmhco.com/about-hmh/executive-leadership" target="_blank">
+                                            Executive Leadership
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://www.hmhco.com/about-hmh/board-of-directors" target="_blank">
+                                            Board of Directors
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://www.hmhco.com/about-hmh/investor-relations" target="_blank">
+                                            Investor Relations
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://www.hmhco.com/about-hmh/partner-with-hmh" target="_blank">
+                                            Partnering with HMH
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://www.hmhco.com/about-hmh/careers" target="_blank">
+                                            Careers
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://www.hmhco.com/about-hmh/our-offices" target="_blank">
+                                            Our Offices
+                                        </a>
+                                    </li>
+                                
+                                    </ul>
+                        </li>
+                    
+                        </ul>
+            </div>
+        
+            <div class="footerColumn">
+                
+                        <ul>
+                    
+                        <li id="phfooter_0_rptColumn_rptFooterLinkHeading_1_footerHeading_0" class="footerTopicTitle"><strong>
+                            ABOUT CLIFFSNOTES
+                        </strong>
+                            
+                                    <ul>
+                                
+                                    <li>
+                                        <a href="http://hmhbooks.com/cliffsnotesnewsletter.html">
+                                            Newsletters
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/about-cliffsnotes">
+                                            About CliffsNotes
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/contact-cliffsnotes">
+                                            Contact Us
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/about-cliffsnotes/advertise-with-cliffsnotes">
+                                            Advertise with Us
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://www.facebook.com/CliffsNotes" target="_blank">
+                                            CliffsNotes on Facebook
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="https://twitter.com/cliffs_notes" target="_blank">
+                                            CliffsNotes on Twitter
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://www.youtube.com/cliffsnotes" target="_blank">
+                                            CliffsNotes on YouTube
+                                        </a>
+                                    </li>
+                                
+                                    </ul>
+                        </li>
+                    
+                        </ul>
+            </div>
+        
+            <div class="footerColumn">
+                
+                        <ul>
+                    
+                        <li id="phfooter_0_rptColumn_rptFooterLinkHeading_2_footerHeading_0" class="footerTopicTitle"><strong>
+                            Study Help</span
+                        </strong>
+                            
+                                    <ul>
+                                
+                                    <li>
+                                        <a href="/cliffsnotes">
+                                            Cliffs Notes
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/find-a-college">
+                                            College
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/literature/cliffsnotes-mobile">
+                                            Download Cliffsnotes Apps
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/mangaeditions">
+                                            Manga Editions
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/literature/shakespearecentral">
+                                            shakespeareCentral
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/study-break">
+                                            Study Break
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/test-prep">
+                                            Test Prep & Cram Plans
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/test-prep/defining-series-twilight-new-moon-eclipse-and-breaking-dawn">
+                                            Vocabulary Help: The Defining Twilight Series
+                                        </a>
+                                    </li>
+                                
+                                    </ul>
+                        </li>
+                    
+                        </ul>
+            </div>
+        
+            <div class="footerColumn">
+                
+                        <ul>
+                    
+                        <li id="phfooter_0_rptColumn_rptFooterLinkHeading_3_footerHeading_0" class="footerTopicTitle"><strong>
+                            Shop
+                        </strong>
+                            
+                                    <ul>
+                                
+                                    <li>
+                                        <a href="http://www.hmhco.com/search?i=1;mm=trade;q=*;q1=CliffsNotes;rank=Program_Revenue;segment=Products;sort=weeklyRevenue;x1=brands" target="_blank">
+                                            Buy Cliffsnotes
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://forms.hmhco.com/virtualsampling" target="_blank">
+                                            Sample Education Programs
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://www.hmhco.com/shop/general-interest/study-aids" target="_blank">
+                                            Buy CliffsNotes Books and E books
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://www.hmhco.com/shop/assessment-solutions" target="_blank">
+                                            Assessment Solutions
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://www.hmhco.com/shop/educational-services" target="_blank">
+                                            Educational Services
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://www.hmhco.com/shop/general-interest" target="_blank">
+                                            General Interest Bestsellers
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://www.hmhco.com/shop/general-interest/fiction" target="_blank">
+                                            Popular Fiction
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://www.hmhco.com/shop/m/nonfiction" target="_blank">
+                                            Popular Nonfiction
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="http://www.hmhco.com/shop/kids-teens" target="_blank">
+                                            Books For Kids and Teens
+                                        </a>
+                                    </li>
+                                
+                                    </ul>
+                        </li>
+                    
+                        </ul>
+            </div>
+                        
+    </div>
+    <div class="clear">        
+    </div>    
+</div>
+
+    
+
+
+		
+<div id="footerLegal">
+    <div id="footerLegalContent"> 
+        <br />                
+
+        <div class="footerLegalRight">
+            <div id="footerSocialMedia">
+                <div class="socialLinksContainer">
+                    <a href="https://twitter.com/cliffs_notes" target="_blank"><img src="/spa_assets/R16B051/site/cliffsnotes2/include/images/iconSocialTwitter.png" id="socialTwitter" alt="Twitter" height="32" width="32" /></a>
+                    <a href="https://www.facebook.com/CliffsNotes" target="_blank"><img src="/spa_assets/R16B051/site/cliffsnotes2/include/images/iconSocialFacebook.png" id="socialFacebook" alt="Facebook" height="32" width="32" /></a>                
+                    <a href="http://www.youtube.com/user/cliffsnotes/videos" target="_blank"><img src="/spa_assets/R16B051/site/cliffsnotes2/include/images/iconSocialYouTube.png" alt="YouTube" height="32" width="32" /></a>
+			    </div>            
+            </div>
+            
+            
+        </div>
+        <!-- LEGAL CONTENT -->
+        <div id="footerCopyright">            
+            <p> Â©2014 Houghton Mifflin Harcourt. All rights reserved.</p>
+                
+            <p class="screenOnly">
+                <a href="http://www.hmhco.com/common/terms-conditions" target="_blank">Terms & Conditions of Use</a>
+                |
+                <a href="http://www.hmhco.com/common/privacy-policy" target="_blank">Privacy Policy</a><br />                
+            </p>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+
+
+    
+
+    <script type="text/javascript">
+        var DEBUG_CLICK = false;
+        var dl = new Object;
+        dl.level2 = 'The Catcher in the Rye';
+dl.level3 = 'iThe Catcher in the Rye iat a Glance';
+dl.landingpage = 'Landing Page';
+dl.channel = 'Literature Notes';
+dl.pageName = '/literature/c/the-catcher-in-the-rye/the-catcher-in-the-rye-at-a-glance';
+dl.hier1 = 'Literature Notes';
+
+        
+
+        // Code added by shashank - start
+
+        function Om_Blog(blogname, blogauthor, blogposttitle) {
+            // var dl = GetOmObj();
+
+            dl.blogname = blogname;
+            dl.blogauthor = blogauthor;
+            dl.posttitle = blogposttitle;
+
+            //  dl.tl(true, 'o', 'Blog Click Complete');
+            if (DEBUG_CLICK)
+                alert('Blog Click Complete');
+        }
+        // - end
+
+    </script>
+    <!-- Ominture Holder -->
+    
+    <!-- End Ominture Holder -->
+    <script type="text/javascript">
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
+    <script language="JavaScript" type="text/javascript"><!--
+    if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
+    //--></script>
+    <noscript>
+        <img src="http://hmhbooks.d1.sc.omtrdc.net/b/ss/hmhcnproduction/1/H.25.4--NS/0" height="1"
+            width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+    <!-- End SiteCatalyst code version: H.25.4. -->
+</div>
+
+    <script type="text/javascript">_satellite.pageBottom();</script>
+</body>
+</html>

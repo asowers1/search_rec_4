@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8" />
+<title>The Lord of the Rings - Tolkien Gateway</title>
+<meta name="generator" content="MediaWiki 1.17.0" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit" />
+<link rel="edit" title="Edit" href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Tolkien Gateway (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://tolkiengateway.net/w/api.php?action=rsd" />
+<link rel="copyright" href="/wiki/Tolkien_Gateway:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Tolkien Gateway Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared&amp;only=styles&amp;skin=mithilien&amp;*" />
+<link rel="stylesheet" href="/w/skins/mithilien/main.css?301" media="screen" />
+<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/mithilien/IE50Fixes.css?301" media="screen" /><![endif]-->
+<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/mithilien/IE55Fixes.css?301" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/mithilien/IE60Fixes.css?301" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/w/skins/mithilien/IE70Fixes.css?301" media="screen" /><![endif]-->
+<link rel="stylesheet" href="/w/extensions/BreadCrumbs/BreadCrumbs.css" /><meta name="ResourceLoaderDynamicStyles" content="" /><link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=mithilien&amp;*" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=mithilien&amp;*" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=mithilien&amp;*" />
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-The_Lord_of_the_Rings skin-mithilien">
+<div id="top"> 
+<div id="document">
+<!-- Logo Image -->
+		<h1 id="site"><a href="/wiki/Main_Page"><img alt="Tolkien Gateway" src="/w/skins/mithilien/tolkiengateway-trans.png" title="Tolkien Gateway's Main Page" /></a></h1>
+        <div class="portlet" id="p-logo">
+                <a style="background-image: url(/w/skins/common/images/newlogo.gif);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+        </div>
+        <script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script> <!-- IE alpha-transparency fix -->
+ 
+<!-- Search Box -->
+        <div id="p-search" class="portlet">
+                <h5><label for="searchInput">Search</label></h5>
+                <div id="searchBody" class="pBody">
+                        <form action="/wiki/Special:Search" id="searchform"><div>
+                                <input id="searchInput" name="search" type="text" title="Search Tolkien Gateway [f]" accesskey="f" value="" />
+                                <input type='submit' name="go" class="searchButton" id="searchGoButton"        value="Go" />&nbsp;
+                                <input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" />
+                        </div></form>
+                </div>
+        </div>
+<div id="topper"></div>
+<div id="top-right"></div>
+<div id="navigation">
+<!-- Sidebar Navigation [iterative] -->
+                <div class='portlet' id='p-navigation'>
+                <h5>Navigation</h5>
+                <div class='pBody'>
+                        <ul>
+                                <li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+                                <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+                                <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+                                <li id="n-Community-Portal"><a href="/wiki/Tolkien_Gateway:Community_Portal">Community Portal</a></li>
+                                <li id="n-Forums"><a href="/wiki/Forum:Council">Forums</a></li>
+                                <li id="n-Chat"><a href="/wiki/Tolkien_Gateway:Chat">Chat</a></li>
+                                <li id="n-Help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+                        </ul>
+                </div>
+        </div>
+         
+<!-- Toolbox -->
+        <div class="portlet" id="p-tb">
+                <h5>Toolbox</h5>
+                <div class="pBody">
+                        <ul>
+                                <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Lord_of_the_Rings" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+                                <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Lord_of_the_Rings" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+                                <li id="t-print"><a href="/w/index.php?title=The_Lord_of_the_Rings&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>                                <li id="t-permalink"><a href="/w/index.php?title=The_Lord_of_the_Rings&amp;oldid=263443" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=The_Lord_of_the_Rings&amp;id=263443" title="Information on how to cite this page">Cite this page</a></li>                        </ul>
+                </div>
+        </div>
+ <!-- User Toolbar [iterative] -->
+        <div class="portlet" id="p-personal">
+                <h5>Personal tools</h5> <!-- User Toolbar Label/Caption [optional] -->
+                <div class="pBody">
+                        <ul>
+                                <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The_Lord_of_the_Rings" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+                        </ul>
+                </div>
+        </div>
+<!-- Language Links -->
+        <div id="p-lang" class="portlet">
+                <h5>In other languages</h5>
+                <div class="pBody">
+                        <ul>
+                                <li class="interwiki-de"><a href="http://ardapedia.herr-der-ringe-film.de/index.php?title=Der_Herr_der_Ringe">Deutsch</a></li>
+                                <li class="interwiki-fi"><a href="http://kontu.info/wiki/Taru_Sormusten_Herrasta">Suomi</a></li>
+                        </ul>
+                </div>
+        </div>
+</div>
+<div id="content">
+<div id="semimainContent">
+<div id="mainContent">
+<!-- Site Notice [conditional] -->
+ 
+<!-- User-Messages Notification [conditional] -->
+
+<!-- Page Name -->
+<h1 id="firstHeading" class="firstHeading"><i>The Lord of the Rings</i></h1>
+
+<!-- Page Subtitle (e.g. redirect notice) -->
+<div id="contentSub"></div>
+ 
+<!-- Undelete Notice [conditional] -->
+ 
+<!-- Page Contents -->
+<div id="BreadCrumbsTrail"><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></div><table style="margin: 0 auto; margin-bottom: 1em; padding: .5em; background: #ffffff; border: thin solid #aaa;" cellpadding="0" cellspacing="0" width="95%">
+
+<tr>
+<td> <center><i>The name <b>The Lord of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a href="/wiki/The_Lord_of_the_Rings_(disambiguation)" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</i></center>
+</td></tr></table>
+<table align="center" class="cleanup" style="background: #FCB0AE; border: 1px solid #BD9291; padding: .5em; margin:0 auto 1em auto; font-size: 95%; width: 80%;">
+<tr>
+<td style="padding-right: 4px; padding-left: 4px;"> <center><big><b>"<i>I shan't call it the end, till we've cleared up the mess.</i>" â <a href="/wiki/Samwise_Gamgee" title="Samwise Gamgee">Sam</a></b><br/></big>
+This article or section needs to be <b>cleaned up</b> to conform to a <a href="/wiki/Tolkien_Gateway:Manual_of_Style" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.</center>
+</td></tr></table>
+<table class="TGtable" border="1" cellpadding="4" style="float: right; margin: 0 0 1em 1em; width: 227px; border-collapse: collapse; font-size: 95%; clear: right;clear:right;"> <tr><th colspan="2" style="text-align: center; background:#B0C4DE; font-style: italic;"><b>The Lord of the Rings</b></th></tr> <tr><td colspan="2" style="font-size: 90%; font-weight: normal; padding: 0; text-align:center;"><a href="/wiki/File:Jrrt_lotr_cover_design.jpg" class="image"><img alt="Jrrt lotr cover design.jpg" src="/w/images/thumb/6/62/Jrrt_lotr_cover_design.jpg/225px-Jrrt_lotr_cover_design.jpg" width="225" height="107" /></a></td></tr> <tr><td style="border-right: 0; vertical-align: top;"><small><b>Author</b></small></td><td style="border-left: 0;"><small><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a></small></td></tr>         <tr><td style="border-right: 0; vertical-align: top;"><small><b>Released</b></small></td><td style="border-left: 0;"><small>1954-1955</small></td></tr>  <tr><td style="border-right: 0; vertical-align: top;"><small><b>Format</b></small></td><td style="border-left: 0;"><small>Hardcover</small></td></tr>        </table>
+<dl><dd>"<i>The English-speaking world is divided into those who have read <b>The Lord of the Rings</b> and <a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a> and those who are going to read them.</i>"
+</dd><dd>â Sunday Times
+</dd></dl>
+<p><i><b>The Lord of the Rings</b></i> is a book by <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, the sequel to his earlier work, <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i>.  It was published in three volumes in 1954 and 1955. 
+</p><p>The story's <a href="/wiki/Lord_of_the_Ring" title="Lord of the Ring">titular character</a> is the Dark Lord <a href="/wiki/Sauron" title="Sauron">Sauron</a> of <a href="/wiki/Mordor" title="Mordor">Mordor</a>.  The primary villain of the work, he created <a href="/wiki/The_One_Ring" title="The One Ring">the One Ring</a> to control nineteen other <a href="/wiki/Rings_of_Power" title="Rings of Power">Rings of Power</a>, and is thus the "Lord of the Rings." Sauron, in turn, was the servant of an earlier Dark Lord, <a href="/wiki/Morgoth" title="Morgoth">Morgoth</a> (Melkor), who is prominent in Tolkien's <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, the history of Middle-earth.
+</p>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Books_and_volumes"><span class="tocnumber">1</span> <span class="toctext">Books and volumes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Writing"><span class="tocnumber">1.1</span> <span class="toctext">Writing</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Publication"><span class="tocnumber">1.2</span> <span class="toctext">Publication</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Publication_history"><span class="tocnumber">2</span> <span class="toctext">Publication history</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#The_books"><span class="tocnumber">3</span> <span class="toctext">The books</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#The_storyline"><span class="tocnumber">3.1</span> <span class="toctext">The storyline</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Criticism"><span class="tocnumber">3.2</span> <span class="toctext">Criticism</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Alternative_Titles"><span class="tocnumber">3.3</span> <span class="toctext">Alternative Titles</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Adaptations_of_The_Lord_of_the_Rings"><span class="tocnumber">4</span> <span class="toctext">Adaptations of The Lord of the Rings</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Film"><span class="tocnumber">4.1</span> <span class="toctext">Film</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Bakshi"><span class="tocnumber">4.1.1</span> <span class="toctext">Bakshi</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Rankin.2FBass"><span class="tocnumber">4.1.2</span> <span class="toctext">Rankin/Bass</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Peter_Jackson"><span class="tocnumber">4.1.3</span> <span class="toctext">Peter Jackson</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="#Radio"><span class="tocnumber">4.2</span> <span class="toctext">Radio</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Stage"><span class="tocnumber">5</span> <span class="toctext">Stage</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Awards"><span class="tocnumber">6</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</td></tr></table>
+<h2><span class="editsection">[<a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit&amp;section=1" title="Edit section: Books and volumes">edit</a>]</span> <span class="mw-headline" id="Books_and_volumes">Books and volumes</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit&amp;section=2" title="Edit section: Writing">edit</a>]</span> <span class="mw-headline" id="Writing">Writing</span></h3>
+<p>Tolkien did not originally intend to write a sequel to <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i>, and instead wrote several other children's tales, including <i><a href="/wiki/Roverandom" title="Roverandom">Roverandom</a></i> and <i><a href="/wiki/Farmer_Giles_of_Ham" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i>. As his main work, Tolkien began to outline the history of <a href="/wiki/Arda" title="Arda">Arda</a>, telling tales of the <a href="/wiki/Silmarils" title="Silmarils">Silmarils</a>, and many other stories of how the races and situations that we read about in the Lord of the Rings trilogy came to be.  Tolkien died before he could complete and put together <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, but his son <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> edited his father's work, filled in gaps and published it in 1977.
+</p><p>Tolkien had a deep desire to write a mythology for England, especially after his horrific experiences during the First World War. He was also influenced by the effects of continued industrialisation, where he saw much of the England he loved passing away and became aware of the immense evil in the world.  Thus to understand his writings we must be aware of how Tolkien the scholar influences Tolkien the author.  His writing of this mythology emerges as an Oxford philologist well acquainted with Northern European Medieval Literature including the great mythic works such as the  <a href="http://en.wikipedia.org/wiki/Hervarar_saga" class="external text" rel="nofollow">Hervarar saga</a>, the   <a href="http://en.wikipedia.org/wiki/VÃ¶lsunga_Saga" class="external text" rel="nofollow">VÃ¶lsunga saga</a>, the influential <i><a href="/wiki/Beowulf_(poem)" title="Beowulf (poem)">Beowulf</a></i> as well as other <a href="/wiki/Old_Norse" title="Old Norse" class="mw-redirect">Old Norse</a>, <a href="/wiki/Old_English" title="Old English">Old</a> and <a href="/wiki/Middle_English" title="Middle English">Middle English</a> Texts. He was also inspired by non-Germanic works such as the Finnish epic <i><a href="/wiki/Kalevala" title="Kalevala">Kalevala</a></i>. A man who had created his first language by the age of seven, he was driven by a desire to write a mythology for England influenced by his exposure and expertise of these ancient traditions.  The need for such a myth was often a topic of conversation in his meetings with the <a href="/wiki/Inklings" title="Inklings">Inklings</a>, fellow Oxford scholars who have been described as Christian Romantics, meeting weekly and discussing Icelandic myths and their own unpublished compositions. Tolkien agreed with one of the other members of the group, <a href="/wiki/C.S._Lewis" title="C.S. Lewis">C.S. Lewis</a>, that if there were no adequate myths for <a href="/w/index.php?title=England&amp;action=edit&amp;redlink=1" class="new" title="England (page does not exist)">England</a> then they would have to write their own. Tolkien's work has been commonly interpreted in this light.
+</p><p>Persuaded by his publishers, he started 'a new hobbit' in December 1937.  After several false starts, the story of the One Ring soon emerged, and the book mutated from being a sequel to <i>The Hobbit</i> to being, in theme, more of a sequel to the unpublished <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">Silmarillion</a></i>.  The idea of the first chapter (<i>A Long-Expected Party</i>) arrived fully-formed, although the reasons behind Bilbo's disappearance, and the significance of the Ring did not arrive, along with the title <i>The Lord of the Rings</i> until spring <a href="/wiki/1938" title="1938">1938</a>. Originally he was going to write another story in which Bilbo had used up all his treasure and was looking for another adventure to gain more; however he remembered the ring and the powers it had and decided to write about that instead. He started to write it with Bilbo as the main character but decided that the story was too serious to use the fun loving Hobbit so Tolkien looked to use a member of Bilbo's family. He thought about using Bilbo's son but this generated some difficult questions &#8212; Where was his wife?  How could Bilbo let his son go into that kind of danger? &#8212; so he looked for an alternate character to carry the ring.  In Greek legend, it was a hero's nephew that gained the item of power, and so into existence came the Hobbit Frodo. 
+</p><p>Writing was slow due to Tolkien's perfectionism, and was frequently interrupted by his obligations as an examiner, and other academic duties.  In fact, the first sentence of <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i> was written on a blank page a student had left on an exam paper that Tolkien was grading &#8212; "In a hole in the ground there lived a Hobbit".  He seems to have abandoned the book during most of 1943 and only re-started it in April 1944.  This effort was written as a serial for <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> and <a href="/wiki/C.S._Lewis" title="C.S. Lewis">C.S. Lewis</a> &#8212; the former would be sent copies of chapters as they were written while he was serving in Africa in the <a href="/w/index.php?title=Royal_Air_Force&amp;action=edit&amp;redlink=1" class="new" title="Royal Air Force (page does not exist)">Royal Air Force</a>.  He made another push in 1946, and showed a copy of the manuscript to his publishers in 1947.  The story was effectively finished the next year, but Tolkien did not finish revising earlier parts of the work until 1949.
+</p><p>A dispute with his publishers, <a href="/wiki/Allen_and_Unwin" title="Allen and Unwin">Allen and Unwin</a>, led to the book being offered to <a href="/wiki/HarperCollins" title="HarperCollins">Collins</a> in 1950.  He intended <i>the Silmarillion</i> (itself largely unrevised at this point) to be published along with <i>The Lord of the Rings</i>, but Allen and Unwin were unwilling to do this.  After his contact at Collins, <a href="/wiki/Milton_Waldman" title="Milton Waldman">Milton Waldman</a>, expressed the belief that <i>The Lord of the Rings</i> itself 'urgently needed cutting', he eventually demanded that they publish the book in 1952.  They did not do so, and so Tolkien wrote to Allen and Unwin, saying "I would gladly consider the publication of any part of the stuff".
+</p><p>Some locations and characters were inspired by Tolkien's childhood in <a href="/wiki/Sarehole" title="Sarehole" class="mw-redirect">Sarehole</a>, then a <a href="/wiki/Warwickshire" title="Warwickshire">Warwickshire</a> village, now part of <a href="/wiki/Birmingham" title="Birmingham">Birmingham</a>, and in Birmingham itself.
+</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit&amp;section=3" title="Edit section: Publication">edit</a>]</span> <span class="mw-headline" id="Publication">Publication</span></h3>
+<p>For publication, due largely to post-war paper shortages, but also to keep the price of the first volume down, the book was divided into three volumes (<i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>: Books I and II; <i><a href="/wiki/The_Two_Towers" title="The Two Towers">The Two Towers</a></i>: Books III and IV; and <i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i>: Books V and VI, 6 appendices).  Delays in producing appendices and maps led to these being published later than originally hoped &#8212; on the 29 July and 11 November 1954 and 20 October 1955 in the United Kingdom, slightly later in the United States.  <i>The Return of the King</i> was especially delayed.  He did not, however, much like the title <i>The Return of the King</i>, believing it gave away too much of the storyline. He had originally suggested <i><a href="/wiki/The_War_of_the_Ring" title="The War of the Ring">The War of the Ring</a></i> which was dismissed by his publishers.
+</p><p>The books were published under a 'profit-sharing' arrangement, where Tolkien would not receive an advance or royalties until the books had broken even, but after then take a large share of the profits.
+</p><p>An index to the entire 3-volume set at the end of third volume was promised in the first volume.  However, this proved impractical to compile in a reasonable timescale.  Later, in 1966, four indices which were not compiled by Tolkien were added to <i>The Return of the King</i>.
+</p><p>Because the three-volume binding was so widely distributed, the work is usually referred to as the <i>Lord of the Rings</i> "trilogy".  Tolkien himself made use of the term "trilogy" for the work, though he did at other times consider this incorrect, as it was written and conceived as a single novel.  
+</p><p>A 1999 (Millennium Edition) British (<a href="/wiki/Special:BookSources/0261103873" class="internal mw-magiclink-isbn">ISBN 0-261-10387-3</a>) 7-volume box set followed the six-book division authored by Tolkien, but with the Appendices from the end of Book VI bound as a separate volume. The letters of <i>Tolkien</i> appear on the spines of the boxed set which includes a CD.
+</p><p>The individual names for books in this series were decided posthumously, based on suggestions Tolkien had made during his lifetime.
+</p>
+<ul><li> T Book I:   <i>The Ring Sets Out</i>
+</li><li> O Book II:  <i>The Ring Goes South</i>
+</li><li> L Book III: <i>The Treason of Isengard</i>
+</li><li> K Book IV:  <i>The Ring Goes East</i>
+</li><li> I Book V:   <i>The War of the Ring</i>
+</li><li> E Book VI:  <i>The End of the Third Age</i>
+</li><li> N <a href="/wiki/The_Lord_of_the_Rings_Appendices" title="The Lord of the Rings Appendices">Appendices</a>
+</li></ul>
+<p>The name of the complete work is often abbreviated to '<b>LotR'</b>, '<b>LOTR'</b>, or simply '<b>LR'</b>, and the three volumes as FR, FOTR, or FotR (The <b>F</b>ellowship <b>o</b>f <b>t</b>he <b>R</b>ing), TT or TTT (<b>T</b>he <b>T</b>wo <b>T</b>owers), and RK, ROTK, or RotK (The <b>R</b>eturn <b>o</b>f <b>t</b>he <b>K</b>ing).
+</p><p>Four of  the titles, <i><a href="/wiki/The_Return_of_the_Shadow" title="The Return of the Shadow">The Return of the Shadow</a></i>, <i><a href="/wiki/The_Treason_of_Isengard" title="The Treason of Isengard">The Treason of Isengard</a></i>, <i><a href="/wiki/The_War_of_the_Ring" title="The War of the Ring">The War of the Ring</a></i> and <i><a href="/wiki/The_End_of_the_Third_Age" title="The End of the Third Age">The End of the Third Age</a></i>, were used by <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> for <i><a href="/wiki/The_History_of_The_Lord_of_the_Rings" title="The History of The Lord of the Rings">The History of The Lord of the Rings</a></i>.
+</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit&amp;section=4" title="Edit section: Publication history">edit</a>]</span> <span class="mw-headline" id="Publication_history"> Publication history </span></h2>
+<dl><dd><i>Main article: <a href="/w/index.php?title=The_Lord_of_the_Rings_editions&amp;action=edit&amp;redlink=1" class="new" title="The Lord of the Rings editions (page does not exist)">The Lord of the Rings editions</a></i>
+</dd></dl>
+<p>The three parts were first published by <a href="/wiki/Allen_and_Unwin" title="Allen and Unwin">Allen and Unwin</a> in <a href="/wiki/1954" title="1954">1954</a>-<a href="/wiki/1955" title="1955">1955</a> several months apart. They were later reissued many times by multiple publishers, as one, three, six or seven volumes. Two current printings are <a href="/wiki/Special:BookSources/0618343997" class="internal mw-magiclink-isbn">ISBN 0-618-34399-7</a> (one-volume) and <a href="/wiki/Special:BookSources/0618346244" class="internal mw-magiclink-isbn">ISBN 0-618-34624-4</a> (three volume set).
+</p><p>In the early 1960s, Donald A. Wollheim, science fiction editor of the paperback publisher <a href="/wiki/Ace_Books" title="Ace Books">Ace Books</a>, realized that <i>The Lord of the Rings</i> was not protected in the United States under American copyright law because the US hardcover edition had been bound from pages printed in the UK for the British edition. Ace Books proceeded to publish an edition, unauthorized by Tolkien and without compensation to him. Tolkien made this plain to US fans who wrote to him.  Grass-roots pressure became so great that Ace books withdrew their edition and made a nominal payment to Tolkien, well below what he might have been due in an appropriate publication. However, this poor beginning was overshadowed when an authorized edition followed from <a href="/wiki/Ballantine_Books" title="Ballantine Books">Ballantine Books</a> to tremendous commercial success. By the mid-1960s the books, due to their wide exposure on the American public stage, had become a true cultural phenomenon.  The Second Edition of the Lord of the Rings dates from this time &#8212; Tolkien undertook various textual revisions to produce a version of the book that would have a valid U.S. copyright.
+</p><p>The books have been translated, with various degrees of success, into dozens of other languages.
+</p><p>Tolkien, an expert in philology, examined many of these translations, and had comments on each that illuminate both the translation process and his work.
+</p><p>The enormous popular success of Tolkien's epic saga greatly expanded the demand for fantasy fiction. Largely thanks to <i>The Lord of the Rings</i>, the genre flowered throughout the 1960s. Many well-written books of this genre were published (comparable works include the <i>Earthsea</i> books of <a href="/wiki/Ursula_K._Le_Guin" title="Ursula K. Le Guin">Ursula K. Le Guin</a>, the <i>Thomas Covenant</i> novels of Stephen R. Donaldson, and in the case of the <i>Gormenghast</i> books by Mervyn Peake, and <i>The Worm Ourobouros</i> by E. R. Eddison, rediscovered). It also strongly influenced the role playing game industry that achieved popularity in the 1970s with <i>Dungeons &amp; Dragons</i> which featured many creatures that could be found in Tolkien's books.
+</p><p>As in all artistic fields, a great many lesser derivatives of the more prominent works appeared. The term "Tolkienesque" is used in the genre to refer to the oft-used and abused storyline of <i>The Lord of the Rings</i>: a group of adventurers embarking on a quest to save a magical fantasy world from the armies of an evil "<a href="/wiki/Dark_Lord" title="Dark Lord">dark lord</a>", and is a testament to how much the popularity of these books has increased, since many critics initially decried Lord of the Rings as being "<a href="/wiki/Richard_Wagner" title="Richard Wagner">Wagner</a> for children" (a reference to the <a href="/w/index.php?title=Ring_Cycle&amp;action=edit&amp;redlink=1" class="new" title="Ring Cycle (page does not exist)">Ring Cycle</a>) &#8212; a specially interesting commentary in light of a possible interpretation of The Lord of The Rings as a Christian response to Wagner, for example following <sup id="cite_ref-0" class="reference"><a href="#cite_note-0">[1]</a></sup> Oswald Spengler.
+</p><p>In <a href="/wiki/2002" title="2002">2002</a> the first unabridged audio version of <i>The Lord of the Rings</i> was published by Recorded Books with <a href="/wiki/Rob_Inglis" title="Rob Inglis">Rob Inglis</a> narrating. 
+</p><p>On <a href="/wiki/19_April" title="19 April">19 April</a> <a href="/wiki/2009" title="2009">2009</a> the first e-book of the trilogy was published by HarperCollins (<a href="/wiki/Special:BookSources/9780007322497" class="internal mw-magiclink-isbn">ISBN 9780007322497</a>, <a href="/wiki/Special:BookSources/9780007322503" class="internal mw-magiclink-isbn">ISBN 9780007322503</a>, <a href="/wiki/Special:BookSources/9780007322558" class="internal mw-magiclink-isbn">ISBN 9780007322558</a>). The e-book was made available at waterstones.com, harpercollinsebooks.co.uk and tolkien.co.uk. Another verision of the e-book was made available for the Amazon Kindle.
+</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit&amp;section=5" title="Edit section: The books">edit</a>]</span> <span class="mw-headline" id="The_books"> The books </span></h2>
+<p><i>The Lord of the Rings</i> began as a personal exploration by Tolkien of his interests in philology, religion (particularly Roman Catholicism); fairy tales, and Norse and Celtic mythology.
+Tolkien detailed his creation to an astounding extent; he created a complete mythology for his realm of Middle-earth, including genealogies of characters, languages, <a href="/wiki/Runes" title="Runes">runes</a>, calendars and histories.
+Some of this supplementary material is detailed in the appendices to <i>The Lord of the Rings</i>, and the mythological history was woven into a large, biblically-styled volume entitled <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>.
+</p><p>J. R. R. Tolkien once described <i>The Lord of the Rings</i> as "<i>a fundamentally religious and Catholic work</i>" he wrote to his friend, the English Jesuit Father <a href="/wiki/Robert_Murray" title="Robert Murray">Robert Murray</a>, "<i>unconsciously so at first, but consciously in the revision.</i>"(<i><a href="/wiki/The_Letters_of_J.R.R._Tolkien" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>, 142).  There are many theological themes underlying the narrative, the battle of good versus evil, the triumph of humility over pride, the activity of grace, Death and Immortality, Resurrection, Salvation, Repentance, Self-Sacrifice, Free Will, Humility, Justice, Fellowship, Authority and Healing.
+In it the great virtues of Mercy and Pity (shown by Bilbo and Frodo towards Gollum) win the day and the message from the Lord's Prayer "And lead us not into temptation, but deliver us from evil" was very much on Tolkien's mind as Frodo struggled against the power of the One Ring (<i>Letters</i>, 181 and 191).
+</p><p>Religious motifs other than Christian can be discerned as strong influences in Tolkien's Middle Earth. The pantheon of the Valar and Maiar (greater and lesser gods/angels) responsible for the creation and maintenance of everything from skies (<a href="/wiki/Manw%C3%AB" title="ManwÃ«">ManwÃ«</a>) and seas (<a href="/wiki/Ulmo" title="Ulmo">Ulmo</a>), to dreams (<a href="/wiki/Irmo" title="Irmo">LÃ³rien</a>) and dooms (<a href="/wiki/Mandos" title="Mandos">Mandos</a>) suggest a pre-Christian mythology in style, albeit that these Valar and Maiar are themselves creations of a monotheistic entity &#8212; Illuvatar or Eru, "The One". 
+</p><p>Other pre-Christian mythological references can be seen in the representations of: a "Green Man" &#8212; Tom Bombadil, wise-men &#8212; the Istari (commonly referred to as the Wizards, perhaps more of angels), shapechangers &#8212; Beorn, undead spirits &#8212; Barrow Wights, Oathbreakers, sentient nonhumans &#8212; Dwarves, Elves, Hobbits, and, of course, Ents. Magic is utilised freely in Middle-earth, and may be found not only in the incantations of Wizards, but in the weapons and tools of warriors and craftspeople, in the perceptions and abilities of heroes, and in the natural world itself.  
+</p><p>Tolkien did repeatedly insist that his works were not an allegory of any kind, and even though his thoughts on the matter are mentioned in the introduction of the book, there has been heavy speculation about the Ruling Ring being an allegory for the atom bomb. However, Tolkien had already completed most of the book, and planned the ending in entirety, before the first atom bombs were made public to the world during the atomic bombings of Hiroshima and Nagasaki in August 1945.  However there is a strong theme of despair in front of new mechanized warfare that Tolkien himself had experienced in the trenches of World War One.  The development of a specially bred orc army, and the destruction of the environment to aid this have modern resonances. Nevertheless, the author's own opinion on the matter of allegories was that he disliked them, and it would be irresponsible to dismiss such direct statements on these matters lightly.  
+</p><p>The plot of <i>The Lord of the Rings</i> builds from his earlier book <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i> and more obliquely from the history in <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, which contains events to which the characters of <i>The Lord of the Rings</i> look back upon in the book.
+The <a href="/wiki/Hobbits" title="Hobbits">Hobbits</a> become embroiled in great events that threaten their entire world, as <a href="/wiki/Sauron" title="Sauron">Sauron</a>, an evil spirit, attempts to regain the lost <a href="/wiki/The_One_Ring" title="The One Ring">One Ring</a> which will restore him to full potency.
+</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit&amp;section=6" title="Edit section: The storyline">edit</a>]</span> <span class="mw-headline" id="The_storyline"> The storyline </span></h3>
+<p>See the articles on <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, <i><a href="/wiki/The_Two_Towers" title="The Two Towers">The Two Towers</a></i>, and <i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i> for plot summaries.
+</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit&amp;section=7" title="Edit section: Criticism">edit</a>]</span> <span class="mw-headline" id="Criticism"> Criticism </span></h3>
+<p>The book was characterized as "juvenile balderdash" by American critic Edmund Wilson in his essay "<a href="http://www.jrrvf.com/sda/critiques/The_Nation.html" class="external text" rel="nofollow">Oo, those awful Orcs</a>", and in 1961 Philip Toynbee wrote, somewhat prematurely, that it had "passed into a merciful oblivion" <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[2]</a></sup>. Although she had never read <i>The Lord of the Rings</i>, Germaine Greer wrote "it has been my nightmare that Tolkien would turn out to be the most influential writer of the twentieth century. The bad dream has materialized." 
+</p><p><a href="/wiki/W.H._Auden" title="W.H. Auden">W.H. Auden</a> also criticized the book in a 1968 <i>Critical Quarterly</i> article, "Good and evil in <i>The Lord of the Rings</i>," objecting to Tolkien's conception of sentient species that are intrinsically evil without possibility of redemption.  (This is a criticism often directed at <a href="/wiki/Dungeons_and_Dragons" title="Dungeons and Dragons">Dungeons and Dragons</a>-like fantasy worlds as well as at fantasy literature in general, and a criticism that Tolkien himself increasingly struggled with during his last years.) On the other hand, in a 1956 <i>New York Times</i> book review, "At the end of the Quest, Victory," Auden also called the book "a masterpiece of its genre" that "succeeded where <a href="http://en.wikipedia.org/wiki/John_Milton" class="extiw" title="wikipedia:John Milton">Milton</a> failed" in depicting an epic battle between good and evil, and wrote that it "never violated" the "reader's sense of the credible."
+</p><p>Furthermore, like almost every fantasy book, Lord of the Rings is also accused by Evangelicals for its alleged references to quasi-pagan elements and "occultism".
+</p><p>Science-fiction author David Brin has criticized the books for unquestioning devotion to a traditional elitist social structure, their positive depiction of the slaughter of the opposing forces, and their romantic backward-looking worldview <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[3]</a></sup>. These criticisms often supply also similar accusations about <a href="/wiki/Racism" title="Racism" class="mw-redirect">racism</a>.
+</p><p>Another notable SF writer Michael Moorcock wrote a long and piercing critique of the book under the title Epic Pooh advancing the thesis that it was simply a child's tale written in the language of epic myth.
+</p><p>China Mieville, a modern fantasy writer, criticised Tolkien's works as "reactionary."  Mieville is also a detractor of later fantasy which draws heavily upon Tolkien's work, based on the idea that such work is cliche.
+</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit&amp;section=8" title="Edit section: Alternative Titles">edit</a>]</span> <span class="mw-headline" id="Alternative_Titles">Alternative Titles</span></h3>
+<p>J.R.R. Tolkien contemplated numerous alternative titles for <i>The Lord of the Rings</i> and its volumes before the final titles were chosen. An early title for the trilogy was "The Magic Ring" (<a href="/wiki/John_D._Rateliff" title="John D. Rateliff">John D. Rateliff</a>, <i><a href="/wiki/The_History_of_The_Hobbit" title="The History of The Hobbit">The History of The Hobbit</a></i>). From a letter to <a href="/wiki/Rayner_Unwin" title="Rayner Unwin">Rayner Unwin</a>, Tolkien writes:
+</p>
+<dl><dd>"<i>Would it not do if the 'book-titles' were used: e.g. The Lord of the Rings: Vol. I The Ring Sets out (sic) and The Ring Goes South; Vol. II The Treason of Isengard, and The Ring goes East; Vol. III The War of the Ring, and The End of the Third Age? "If not, I can at the moment think of nothing better than: I The Shadow Grows II The Ring in the Shadow III The War of the Ring or The Return of the King.</i>"
+</dd><dd>â <i><a href="/wiki/The_Letters_of_J.R.R._Tolkien" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>, <a href="/wiki/Letter_136" title="Letter 136">Letter 136</a>
+</dd></dl>
+<p>A note from this letter states a manuscript located at <a href="/wiki/Marquette_University" title="Marquette University">Marquette University</a>, Milwaukee, USA, has a different set of titles: Vol. I The First Journey and The Journey of the Nine Companions; Vol. II The Treason of Isengard and The Journey of the Ringbearers; Vol. III The War of the Ring and The End of the Third Age. 
+</p><p>In <a href="/wiki/Letter_139" title="Letter 139">Letter 139</a> Tolkien writes again to Unwin with his new preferences: The Return of the Shadow, II The Shadow Lengthens, and III The Return of the King. On August 17th he writes his updated choices: I The Fellowship of the Ring, II The Two Towers (deliberately ambiguous), III The War of the Ring.
+</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit&amp;section=9" title="Edit section: Adaptations of The Lord of the Rings">edit</a>]</span> <span class="mw-headline" id="Adaptations_of_The_Lord_of_the_Rings"> Adaptations of <i>The Lord of the Rings</i> </span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit&amp;section=10" title="Edit section: Film">edit</a>]</span> <span class="mw-headline" id="Film">Film</span></h3>
+<h4><span class="editsection">[<a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit&amp;section=11" title="Edit section: Bakshi">edit</a>]</span> <span class="mw-headline" id="Bakshi">Bakshi</span></h4>
+<dl><dd><i>Main article: <a href="/wiki/The_Lord_of_the_Rings_(1978_film)" title="The Lord of the Rings (1978 film)">The Lord of the Rings (1978 film)</a></i>
+</dd></dl>
+<p>This film, originally released by <a href="/wiki/United_Artists" title="United Artists">United Artists</a>, was directed by <a href="/wiki/Ralph_Bakshi" title="Ralph Bakshi">Ralph Bakshi</a> and used an animation technique called rotoscoping in which footage of live actors was filmed and then traced over.
+</p><p>The film was part one of what was originally to be a two-part adaptation of Tolkien's story, Part I ending after the battle of Helm's Deep, but before Sam, <a href="/wiki/Frodo_Baggins" title="Frodo Baggins">Frodo</a> and <a href="/wiki/Gollum" title="Gollum">Gollum</a> traverse the <a href="/wiki/Dead_Marshes" title="Dead Marshes">Dead Marshes</a>, and Part II picking up from where the first film left off. Made for a minimal budget of $8 million dollars, the film earned $30 million dollars at the box office. 
+</p><p>United Artists viewed the film as a flop, and refused to fund a Part II (covering the rest of the story), leaving the door open for <a href="/wiki/Rankin/Bass" title="Rankin/Bass">Rankin/Bass</a> to do the work for him.
+</p>
+<h4><span class="editsection">[<a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit&amp;section=12" title="Edit section: Rankin/Bass">edit</a>]</span> <span class="mw-headline" id="Rankin.2FBass">Rankin/Bass</span></h4>
+<dl><dd><i>Main article: <a href="/wiki/The_Return_of_the_King_(1980_film)" title="The Return of the King (1980 film)">The Return of the King (1980 film)</a></i>
+</dd></dl>
+<p>The 1980 animated television version of <i><a href="/wiki/The_Return_of_the_King_(1980_film)" title="The Return of the King (1980 film)">The Return of the King</a></i> picked up from where the book began, and not from where Bakshi's film left off. Additionally, the change in style and character design was quite noticeable. 
+</p><p>Since this film was targeted to a younger audience, adult enthusiasts have complained that much of the depth and darkness of the book was discarded.
+</p>
+<h4><span class="editsection">[<a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit&amp;section=13" title="Edit section: Peter Jackson">edit</a>]</span> <span class="mw-headline" id="Peter_Jackson">Peter Jackson</span></h4>
+<dl><dd><i>Main article: <a href="/wiki/The_Lord_of_the_Rings_(film_series)" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a></i>
+</dd></dl>
+<p><a href="/w/index.php?title=Miramax&amp;action=edit&amp;redlink=1" class="new" title="Miramax (page does not exist)">Miramax</a> developed a full-fledged live-action adaptation of <i>The Lord of the Rings</i>, with <a href="/wiki/Peter_Jackson" title="Peter Jackson">Peter Jackson</a> as director. Eventually, Miramax became uneasy with the sheer scope of the proposed project and wanted to combine the suggested two films into one. <a href="/wiki/Peter_Jackson" title="Peter Jackson">Peter Jackson</a> struck a deal with Miramax that if he could not find a fresh studio to back the project, he would walk away and leave the rights and all the work so far completed with Miramax. However, in 1998, <a href="/wiki/New_Line_Cinema" title="New Line Cinema">New Line Cinema</a> assumed production responsibility, unexpectedly announcing that it would mount three, not just two films (while Miramax executives Bob Weinstein and Harvey Weinstein retained on-screen credits as executive film producers).
+</p><p>The three live action films (supplemented with extensive computer-generated imagery, for example in the major battle scenes, using the "<a href="/w/index.php?title=Massive&amp;action=edit&amp;redlink=1" class="new" title="Massive (page does not exist)">Massive</a>" software) were filmed simultaneously. Jackson filmed all the major scenes in his native New Zealand. <i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> was released on December 19, 2001. <i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> was released on December 18, 2002 and <i><a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> was released worldwide on December 17, 2003. All three films won the Hugo Award for Best (Long-form) Dramatic Presentation in their respective years.
+</p><p>Although some have criticized these films because they have altered the story somewhat and, arguably, have a noticeably different tone from Tolkien's original vision, others have hailed them as remarkable achievements. <a href="/wiki/Peter_Jackson" title="Peter Jackson">Peter Jackson</a> has defended his changes by stating that he views the films as merely one man's interpretation.
+</p><p><a href="/wiki/Peter_Jackson" title="Peter Jackson">Peter Jackson</a>'s film adaptations garnered seventeen Oscars (four for <i>The Fellowship of the Ring</i>, two for <i>The Two Towers</i>, and eleven for <i>The Return of the King</i>). <i>The Return of the King</i> won all of the eleven awards for which it was nominated, including Best Picture -- it was the first film of the fantasy genre to do so.  With 30 total nominations, the trilogy became the most-nominated in the Academy's history, surpassing the <i>Godfather</i> series' 28 nominations.
+</p><p><i>The Return of the King</i>'s Oscar sweep is widely seen as a proxy award for the entire trilogy. <i>The Return of the King</i>'s 11 Oscars at the 2004 Academy Awards tied it for most awards won for one film with <i>Titanic</i> six years earlier and the <a href="/wiki/1959" title="1959">1959</a> version of <i>Ben-Hur</i>.  It also broke the previous "sweep" record, beating <i>Gigi</i> and <i>The Last Emperor</i>.
+</p><p>The visual-effects work has been groundbreaking, particularly the creation of the emotionally versatile digital character <a href="/wiki/Gollum" title="Gollum">Gollum</a>. The scale of the production alone &#8212; three films shot and edited back to back over a period of little more than three years &#8212; is unprecedented.
+</p><p>The films have also proven to be substantial box office successes. The premiere of <i>The Return of the King</i> took place in <a href="/wiki/Wellington" title="Wellington">Wellington</a>, <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>, on December 1, 2003 and was surrounded by fan celebrations and official promotions (the production of the films having contributed significantly to the New Zealand economy). The movie earned $34.5 million on its opening day, making it the seventh-largest opening day for a film released on a Wednesday <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[4]</a></sup>. <i>The Return of the King</i> was also the second movie in history (after <i>Titanic</i>) to earn over 1 billion $US (worldwide). 
+</p><p>Fanatics of the films have also flocked to the locations where the trilogy was filmed in New Zealand, with many tour companies being totally devoted to taking fans to and from the filming locations that Director Peter Jackson chose for the adaptation of Tolkienâs epic trilogy.
+</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit&amp;section=14" title="Edit section: Radio">edit</a>]</span> <span class="mw-headline" id="Radio">Radio</span></h3>
+<p>The <a href="/wiki/BBC" title="BBC">BBC</a> produced a <a href="/wiki/The_Lord_of_the_Rings_(1956_radio_series)" title="The Lord of the Rings (1956 radio series)" class="mw-redirect">13-part radio adaptation</a> of <i>The Lord of the Rings</i> in 1955. It was panned by Tolkien, complaining about the "sillification" of it and the changing of characters, such as Old Man Willow in league with Mordor and Goldberry being Tom Bombadil's daughter rather than his wife. No recording has survived.<sup class="noprint" style="line-height: 0.4em;">[<a href="/wiki/Help:References" title="Help:References"><i>source?</i></a>]</sup>
+</p><p>A <a href="/wiki/The_Lord_of_the_Rings_(1979_radio_series)" title="The Lord of the Rings (1979 radio series)">1979 dramatization</a> was broadcast in the USA and subsequently issued on tape and CD. No cast or credits appear on the audio packaging. Each of the actors was apparently recorded separately and then the various parts were edited together. Thus, unlike a BBC recording session where the actors are recorded together, none of the cast are actually interacting with each other and the performances suffer badly as a result.
+</p><p>In <a href="/wiki/1981" title="1981">1981</a> the BBC broadcast a <a href="/wiki/The_Lord_of_the_Rings_(1981_radio_series)" title="The Lord of the Rings (1981 radio series)">new, ambitious dramatization</a> of <i>The Lord of the Rings</i> in 26 half-hour installments.
+</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit&amp;section=15" title="Edit section: Stage">edit</a>]</span> <span class="mw-headline" id="Stage">Stage</span></h2>
+<p><a href="/w/index.php?title=Ed_Mirvish&amp;action=edit&amp;redlink=1" class="new" title="Ed Mirvish (page does not exist)">Mirvish Productions</a> has started rehearsals for a three-hour stage musical adaptation of <i>The Lord of the Rings</i> that will have a cast of over 65 actors and cost C$27 million (Â£11.5 million).  The show will be written by Shaun McKenna and Matthew Warchus with music by <a href="/w/index.php?title=A._R._Rahman&amp;action=edit&amp;redlink=1" class="new" title="A. R. Rahman (page does not exist)">A. R. Rahman</a> and <a href="/w/index.php?title=V%C3%A4rttin%C3%A4&amp;action=edit&amp;redlink=1" class="new" title="VÃ¤rttinÃ¤ (page does not exist)">VÃ¤rttinÃ¤</a>, collaborating with <a href="/w/index.php?title=Christopher_Nightingale&amp;action=edit&amp;redlink=1" class="new" title="Christopher Nightingale (page does not exist)">Christopher Nightingale</a> and will be directed by <a href="/w/index.php?title=Matthew_Warchus&amp;action=edit&amp;redlink=1" class="new" title="Matthew Warchus (page does not exist)">Matthew Warchus</a>.  It will open on March 23 2006 at Toronto's Princess of Wales Theatre, with preview performances from February 2 until March 22. It is planned to premiere in London in autumn 2006 and New York City within two years.
+</p><p>The director explained his vision of the playâs format by saying, "We have not attempted to pull the novel towards the standard conventions of musical theatre, but rather to expand those conventions so that they will accommodate Tolkien's material. As a result, we will be presenting a hybrid of text, physical theatre, music and spectacle never previously seen on this scale. To read the novel is to experience the events of Middle-earth in the mindâs eye; to watch the films is to view Middle-earth as though through a giant window. Only in the theatre are we actually plunged into the events as they happen. The environment surrounds us. We participate. We are in Middle-earth."
+</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit&amp;section=16" title="Edit section: Awards">edit</a>]</span> <span class="mw-headline" id="Awards">Awards</span></h2>
+<ul><li> In 1957 it was awarded the International Fantasy Award
+</li><li> In the 2003 "Big Read" survey conducted by the BBC, The Lord of the Rings was found to be the "Nation's Best-loved Book" <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[5]</a></sup>.
+</li><li> Australians voted The Lord of the Rings "My Favourite Book" in a 2004 survey conducted by the Australian ABC
+</li><li> In a 1999 poll of Amazon.com customers, The Lord of the Rings was judged to be their favourite "book of the millennium". <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[6]</a></sup>
+</li><li> In 2002 Tolkien was voted the ninety-second "greatest Briton" in a poll conducted by the BBC
+</li><li> In 2004 he was voted thirty-fifth in the SABC3's Great South Africans, the only person to appear in both lists
+</li><li> In a 2004 poll inspired by the UKâs "Big Read" survey, about 250,000 Germans found The Lord of the Rings to be their favourite work of literature. <sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[7]</a></sup>
+</li><li> The Lord of the Rings came in 3rd in the Librarians' Poll <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[8]</a></sup>
+</li></ul>
+<p><br clear="all">
+</p>
+<table style="margin:0 auto;" class="toccolours" align="center">
+<tr>
+<td align="center" colspan="2" style="background:#ccccff"> <i><b><strong class="selflink">The Lord of the Rings</strong></b></i>
+</td></tr>
+<tr>
+<td style="font-size: 90%;" align="center"><a href="/wiki/The_Lord_of_the_Rings_Foreword" title="The Lord of the Rings Foreword">Foreword</a> Â· <a href="/wiki/The_Lord_of_the_Rings_Prologue" title="The Lord of the Rings Prologue">Prologue</a> Â· <i><b><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></b></i> Â· <i><b><a href="/wiki/The_Two_Towers" title="The Two Towers">The Two Towers</a></b></i> Â· <i><b><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></b></i> Â· <a href="/wiki/The_Lord_of_the_Rings_Appendices" title="The Lord of the Rings Appendices">Appendices</a> Â· <a href="/wiki/The_Lord_of_the_Rings_Index" title="The Lord of the Rings Index">Index</a>
+</td></tr></table>
+<h2><span class="editsection">[<a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="/wiki/The_Lord_of_the_Rings/Quotations" title="The Lord of the Rings/Quotations"><i>The Lord of the Rings</i>/Quotations</a>
+</li></ul>
+<p><span></span>
+</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Template:References&amp;action=edit&amp;section=T-1" title="Template:References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0">â</a> <a href="http://atimes.com./atimes/others/spengler.html" class="external free" rel="nofollow">http://atimes.com./atimes/others/spengler.html</a> ATimes'</li>
+<li id="cite_note-1"><a href="#cite_ref-1">â</a> <a href="http://news.bbc.co.uk/1/hi/entertainment/film/1695926.stm" class="external free" rel="nofollow">http://news.bbc.co.uk/1/hi/entertainment/film/1695926.stm</a></li>
+<li id="cite_note-2"><a href="#cite_ref-2">â</a> <a href="http://www.davidbrin.com/tolkienarticle1.html" class="external free" rel="nofollow">http://www.davidbrin.com/tolkienarticle1.html</a></li>
+<li id="cite_note-3"><a href="#cite_ref-3">â</a> <a href="http://boxofficemojo.com/alltime/days/?page=wed&amp;p=.htm" class="external free" rel="nofollow">http://boxofficemojo.com/alltime/days/?page=wed&amp;p=.htm</a></li>
+<li id="cite_note-4"><a href="#cite_ref-4">â</a> <a href="http://www.bbc.co.uk/arts/bigread/top100.shtml" class="external free" rel="nofollow">http://www.bbc.co.uk/arts/bigread/top100.shtml</a></li>
+<li id="cite_note-5"><a href="#cite_ref-5">â</a> <a href="http://archive.salon.com/books/feature/2001/06/04/tolkien/" class="external free" rel="nofollow">http://archive.salon.com/books/feature/2001/06/04/tolkien/</a></li>
+<li id="cite_note-6"><a href="#cite_ref-6">â</a> <a href="http://www.smh.com.au/articles/2004/10/04/1096871805007.html?from=storyrhs" class="external free" rel="nofollow">http://www.smh.com.au/articles/2004/10/04/1096871805007.html?from=storyrhs</a></li>
+<li id="cite_note-7"><a href="#cite_ref-7">â</a> <a href="http://tolkiensociety.org/news/librarians-poll.html" class="external free" rel="nofollow">http://tolkiensociety.org/news/librarians-poll.html</a></li></ol>
+
+<!-- Tidy found serious XHTML errors -->
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 567/1000000
+Post-expand include size: 4239/2097152 bytes
+Template argument size: 1639/2097152 bytes
+Expensive parser function count: 0/100
+ExtLoops count: 0/100
+-->
+
+<!-- Saved in parser cache with key tg_wiki:pcache:idhash:975-0!*!0!!en!2 and timestamp 20150220190137 -->
+<div class="printfooter">
+Retrieved from "<a href="http://tolkiengateway.net/wiki/The_Lord_of_the_Rings">http://tolkiengateway.net/wiki/The_Lord_of_the_Rings</a>"</div>
+ 
+<!-- Category Links [conditional] -->
+<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <span dir='ltr'><a href="/wiki/Category:Cleanup" title="Category:Cleanup">Cleanup</a></span> | <span dir='ltr'><a href="/wiki/Category:Articles_needing_citation" title="Category:Articles needing citation">Articles needing citation</a></span> | <span dir='ltr'><a href="/wiki/Category:Books_by_J.R.R._Tolkien" title="Category:Books by J.R.R. Tolkien">Books by J.R.R. Tolkien</a></span> | <span dir='ltr'><a href="/wiki/Category:Publications_by_title" title="Category:Publications by title">Publications by title</a></span></div></div></div>
+<!-- Page Toolbar [iterative] -->
+        <div id="p-cactions" class="portlet">
+                <div class="pBody">
+                        <ul>
+                                         <li id="ca-nstab-main" class="selected"><a href="/wiki/The_Lord_of_the_Rings" title="View the content page [c]" accesskey="c">Page</a></li>
+                                         <li id="ca-talk"><a href="/wiki/Talk:The_Lord_of_the_Rings" title="Talk about the content page [t]" accesskey="t">Talk</a></li>
+                                         <li id="ca-edit"><a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+                                         <li id="ca-history"><a href="/w/index.php?title=The_Lord_of_the_Rings&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+                                </ul>
+                </div>
+        </div>
+</div></div>
+</div></div></div>
+<!-- Footer -->
+                        <div id="footer">
+<!--                                 <div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>-->
+                        <ul id="f-list">
+                          <li id="lastmod"> This page was last modified on 30 January 2015, at 11:31.</li>
+                          <li id="viewcount">This page has been accessed 135,338 times.</li>
+                          <li id="copyright">Content is available under <a href="/wiki/Tolkien_Gateway:Copyrights" title="Tolkien Gateway:Copyrights">GNU Free Documentation License</a>.</li>
+                          <li id="about"><a href="/wiki/Tolkien_Gateway:About" title="Tolkien Gateway:About">About Tolkien Gateway</a></li>
+                          <li id="disclaimer"><a href="/wiki/Tolkien_Gateway:General_disclaimer" title="Tolkien Gateway:General disclaimer">Disclaimers</a></li>
+                        </ul>
+                        <span><br />Original design by <a href="http://vesa.piittinen.name/">Vesa Piittinen</a>, redesigned by <a href="/wiki/User:Mith">User:Mith</a> &ndash; original artwork used in design by <a href="http://www.john-howe.com/">John Howe</a> and <a href="http://www.tednasmith.com/">Ted Nasmith</a></span>
+                </div>
+ 
+<!-- scripts and debugging information -->
+
+<script src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=mithilien&amp;*"></script>
+<script>if ( window.mediaWiki ) {
+	mediaWiki.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "The_Lord_of_the_Rings", "wgTitle": "The Lord of the Rings", "wgAction": "view", "wgArticleId": 975, "wgIsArticle": true, "wgUserName": null, "wgUserGroups": ["*"], "wgCurRevisionId": 263443, "wgCategories": ["Cleanup", "Articles needing citation", "Books by J.R.R. Tolkien", "Publications by title"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgSearchNamespaces": [0, 6, 102, 104], "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "templateEditor": false, "templates": false, "addMediaWizard": false, "preview": false, "previewDialog": false, "publish": false, "toc": true}});
+}
+</script>
+<script>if ( window.mediaWiki ) {
+	mediaWiki.loader.load(["mediawiki.util", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax", "mediawiki.legacy.mwsuggest"]);
+	mediaWiki.loader.go();
+}
+</script>
+
+<script src="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=mithilien&amp;*"></script>
+<script>if ( window.mediaWiki ) {
+	mediaWiki.user.options.set({"ccmeonemails":0,"cols":80,"contextchars":50,"contextlines":5,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"mithilien","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,
+	"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"editwidth":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":0,"wikieditor-publish":0,"usenavigabletoc":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":true,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs102":true,"searchNs103":false,"searchNs104":true,"searchNs105":false});;mediaWiki.loader.state({"user.options":"ready"});
+}
+</script><!-- Served in 0.500 secs. -->        <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+        <script type="text/javascript">
+                _uacct = "UA-305130-1";
+                urchinTracker();
+        </script>
+</body>
+ 
+</html>

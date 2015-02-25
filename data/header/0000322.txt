@@ -1,0 +1,12 @@
+Server: nginx
+Date: Sat, 21 Feb 2015 01:04:49 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3
+Set-Cookie: songfacts=mguf604vs6k2qgt940g04blk21; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+

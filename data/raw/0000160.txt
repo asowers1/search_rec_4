@@ -1,0 +1,1156 @@
+<!DOCTYPE html>
+<!--
+
+    "We keep moving forward, opening up new doors and
+      doing new things, because we're curious ...
+        and curiosity keeps leading us down new paths."
+
+                              Walt Disney
+
+-->
+<!--[if lt IE 9]><html class="no-js no-media-query"><![endif]-->
+<!--[if (gte IE 9)|(!IE)]><!-->
+<html class="no-js" version="HTML+RDFa 1.1" lang="">
+<!--<![endif]-->
+<head prefix="og: http://ogp.me/ns#" dir="ltr">
+  <title>Movies | Pirates of the Caribbean</title>
+  <script type="text/javascript">this.Disney={"portal":"pirates.disney.com","ajaxBase":"/","locales":[],"didBase":"https://a.dilcdn.com/_did/","rtl":false};</script>
+<script src="//a.dilcdn.com/a/head-382fc5f66417.js" type="text/javascript"></script>
+<link rel="stylesheet" href="//a.dilcdn.com/a/application-14ec6d0ebe7e.css" type="text/css">
+<link rel="stylesheet" href="//a.dilcdn.com/a/modules-03636a82c23d.css" type="text/css">
+<link rel="stylesheet" href="//a.dilcdn.com/a/unique-modules-06f17fcc376a.css" type="text/css">
+<link rel="stylesheet" href="//a.dilcdn.com/a/international-modules-d347e7b223c7.css" type="text/css">
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="//a.dilcdn.com/a/ie-application-56690f25fd13.css" type="text/css">
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="//a.dilcdn.com/a/goc/responsive-f77267503465.css"><link rel="stylesheet" type="text/css" href="//a.dilcdn.com/a/goc/responsive-desktop-30986f7f4f0f.css" media="all and (min-width: 1025px)"><link rel="stylesheet" type="text/css" href="//a.dilcdn.com/a/goc/responsive-mobile-4057a9e6598a.css" media="only all and (max-width: 1024px)"><!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="//a.dilcdn.com/a/goc/responsive-desktop-30986f7f4f0f.css"><![endif]--><script type="text/javascript">(function(e){"use strict";var t=e.GOC=e.GOC||{};t.queue=t.queue||[],t.opts=t.opts||{}})(this),GOC.load=function(e,t){"use strict";var n=document,r=n.getElementsByTagName("script")[0],i=n.createElement("script");i.type="text/javascript",i.async="async",i.onload=i.onreadystatechange=function(e,n){var r=this,i=r.readyState,s=r.parentNode;s&&(n||!i||i==="complete"||i==="loaded")&&(s.removeChild(this),!n&&t&&t())},i.src=e,r.parentNode.insertBefore(i,r),i=n=r=null},function(e){"use strict";var t=e.encodeURIComponent;e.GOC.load("//a.dilcdn.com/g/domains/"+t(e.location.hostname)+".js")}(this),function(e){"use strict";var t=e.GOC,n=e.encodeURIComponent;t.ao=function(e){var r=[],i=t.opts,s=i.footer;i.lang&&r.push("lang="+n(i.lang)),i.cds&&r.push("cds"),i.searchtype&&r.push("searchtype="+n(i.searchtype)),i.hide_desktop_menu&&r.push("hide_desktop_menu");if(s)for(var o in s)s.hasOwnProperty(o)&&r.push("footer["+encodeURIComponent(o)+"]="+encodeURIComponent(s[o]));return r.length&&(e+=(e.indexOf("?")<0?"?":"&")+r.join("&")),e}}(this),GOC.css=function(e){"use strict";var t=document,n=t.createElement("style"),r=t.getElementsByTagName("head")[0],i=(r||t).getElementsByTagName("script")[0];e&&(n.setAttribute("type","text/css"),i?i.parentNode.insertBefore(n,i):r.appendChild(n),n.styleSheet?n.styleSheet.cssText=e:n.appendChild(t.createTextNode(e)))},function(e,t){"use strict";var n=e.GOC,r=e.screen,i=e.document,s=i.documentElement,o=function(){var e=r&&r.fontSmoothingEnabled,n,s,o,u,a;if(e!==t)return e;try{n=i.createElement("canvas"),n.width=n.height=32,s=n.getContext("2d"),s.textBaseline="top",s.font="32px Arial",s.fillStyle=s.strokeStyle="black",s.fillText("O",0,0);for(o=0;o<32;o++)for(u=0;u<32;u++){a=s.getImageData(o,u,1,1).data[3];if(a!==255&&a!==0)return!0}return!1}catch(f){return t}},u=function(e){var t=i.createElement("div");t.innerHTML="M",t.style.fontFamily=e,s.insertBefore(t,s.firstChild),s.clientWidth,s.removeChild(t)};n.pf=function(e,t){o()===!0&&(n.css(e),u(t))}}(this);GOC.pf("@font-face{font-family:'Matterhorn';src:url(\"//a.dilcdn.com/a/m4-573eba883466.eot#\") format(\"eot\"),url(\"//a.dilcdn.com/a/m4-4f55e08dfcef.woff\") format(\"woff\"),url(\"//a.dilcdn.com/a/m4-e3b605e8daea.ttf\") format(\"truetype\"),url(\"//a.dilcdn.com/a/m4-b63bf5e5da5f.svg#Matterhorn\") format(\"svg\");font-weight:400;font-style:normal}\n","Matterhorn");GOC.opts.cds=false;GOC.opts.bg="dark";GOC.opts.footer={"comscore":"Pirates of the Caribbean"};GOC.opts.hide_desktop_menu=null;GOC.opts.searchtype="is";GOC.load("//a.dilcdn.com/a/goc/responsive-9a80dd60a67c.js");GOC.a="//a.dilcdn.com/g/us/pirates/sac/";GOC.is="//a.dilcdn.com/g/us/pirates/is/";GOC.queue.push(["_sMenu","//a.dilcdn.com/g/us/pirates/responsive/menu-44fbf44b7527.js"]);</script>
+<link rel="canonical" href="http://pirates.disney.com/movies">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<link rel="shortcut icon" href="//a.dilcdn.com/a/favicon-4e5a8e1c0964.ico">
+<meta name="description" content="Browse the list of Pirates of the Caribbean movies.">
+<meta property="og:title" content="Pirates of the Caribbean Movies presented by Disney">
+<meta property="og:description" content="Browse the list of Pirates of the Caribbean movies.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Pirates of the Caribbean">
+<meta property="og:url" content="http://pirates.disney.com/movies">
+<meta property="og:image" content="http://cdnvideo.dolimg.com/cdn_assets/8a1c8c0d639a5d3dd2a5b6955a03326ea4f5d7c6.jpg">
+</head>
+<body dir="ltr" data-ad_system="dfp">
+  <div id="style-pack-theming"><style type="text/css">
+
+  /* base-level page background styles */
+  /* NOTE: footer inverted stuffs on footer and #goc-ft currently handled by js */
+    #body-bg{ opacity: 1; }
+      #body-bg .main, #body-bg .safety-color{ background-color: #000000; }
+      #body-bg .color-fade{
+        background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #000000), color-stop(808px, #000000), color-stop(72%, #12312f), color-stop(92%, #12312f));
+        background-image: -webkit-linear-gradient(top, #000000 0%, #000000 808px, #12312f 72%, #12312f 92%);
+        background-image: linear-gradient(to bottom, #000000 0%, #000000 808px, #12312f 72%, #12312f 92%);
+        /* IE9 */ -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#12312f', GradientType=0)";
+      }
+
+
+      @media screen and (min-width: 1025px){
+        /* color values should change in tandem with $base-font-default-color in style_elements and the border-color defined in footer.css.scss */
+        footer #bottomnav a, footer #bottomnav p, footer #help p, footer #utility p{ color: #fff; }
+        footer #bottomnav .col, footer #utility .divider { border-color: rgba(255, 255, 255, 0.07); }
+      }
+
+
+  /* module-level color themes */
+      .module.primary-theme:not(.skip-styles) h1:not(.skip-text-styles), .module.primary-theme:not(.skip-styles) h2:not(.skip-text-styles), .module.primary-theme.list_module_featured:not(.skip-styles) h3:not(.skip-text-styles){ color: #331c00; }
+      .module.primary-theme:not(.skip-styles) p:not(.skip-text-styles), .module:not(.skip-text-styles) ul:not(.skip-text-styles), .module.primary-theme:not(.skip-styles) li:not(.skip-text-styles), .module:not(.skip-text-styles) ol:not(.skip-text-styles){ color: #5a4d3d; }
+
+      .module.secondary-theme:not(.skip-styles) h1:not(.skip-text-styles), .module.secondary-theme:not(.skip-styles) h2:not(.skip-text-styles), .module.secondary-theme.list_module_featured:not(.skip-styles) h3:not(.skip-text-styles){ color: #000000; }
+      .module.secondary-theme:not(.skip-styles) p:not(.skip-text-styles), .module.secondary-theme:not(.skip-styles) ul:not(.skip-text-styles), .module.secondary-theme:not(.skip-styles) li:not(.skip-text-styles), .module.secondary-theme:not(.skip-styles) ol:not(.skip-text-styles){ color: #000000; }
+
+
+  /* module-level icon colors */
+    .module .module_header.icon .header_icon{
+      background-color: #691516;
+      background-image: -webkit-gradient(linear, left top, left bottom, from(#a30b0d), to(#691516));
+      background-image: -webkit-linear-gradient(top, #a30b0d, #691516);
+      background-image: linear-gradient(to bottom, #a30b0d, #691516);
+    }
+
+  /* font styles */
+
+</style>
+</div>
+  <div id="takeover-styles-default"><style type="text/css">
+
+  /* style-pack-configured takeover styles */
+
+    #takeover-area .overlay.default .main-color{ background-color: #000000; }
+
+    .site-default-gradient{ display: none; }
+    #takeover-area .overlay.default .main-image{ background-image: url(http://cdnvideo.dolimg.com/cdn_assets/0f583e4fe0bba75069de31a4d508a1bed6982eda.jpg); }
+      #takeover-area .overlay.default .repeating-image{ background-color: #000000; }
+
+
+    #takeover-area .overlay.default .repeating-color , #takeover-area .overlay.default .repeating-image{
+      background-image: -webkit-gradient(linear, left top, left bottom, from(#000000 216px), to(#000000));
+      background-image: -webkit-linear-gradient(top, #000000 216px, #000000);
+      background-image: linear-gradient(to bottom, #000000 216px, #000000);
+      /* IE9 */ -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#000000', GradientType=0)";
+    }
+    #takeover-area .overlay.default .safety-color .color-block{ background-color: #000000;}
+
+    #takeover-area .overlay.default .safety-color .color-block{ background-color: #000000;}
+
+  @media screen and (min-width: 1025px){
+      #nav-logo, #nav-local li a, aside.gpt.pushdown:not(.adtech){ color: #fff; }
+      #nav-local li a.active{ color: #b2dfff; }
+  }
+
+  /* TODO: hook this up in the ruby only layer */
+    @media screen and (min-width: 1025px){
+      #nav-logo{ background-image: url(//a.dilcdn.com/a/logos/nav_logo-d2c2cf757f1e.png);}
+    }
+    @media screen and (-webkit-min-device-pixel-ratio: 1.5) and (min-width: 1025), screen and (min-resolution: 144dpi) and (min-width: 1025){
+      #nav-logo{ background-image: url(//a.dilcdn.com/a/logos/nav_logo@2x-022720380465.png);}
+    }
+</style>
+</div>
+  <div id="takeover-styles-module-override"></div>
+
+  <div id="goc-body">
+<div class="goc-el goc-bg-dark" id="goc-bar">
+  <div class="goc-bound">
+    <ul id="goc-user">
+      <li class="goc-login"><span role="button" onclick=""><u>Login</u></span></li>
+      <li class="goc-logout"><span role="button" onclick=""><u>Logout</u></span></li>
+    </ul>
+    <form class="goc-search" action="http://search.disney.com/search" method="GET">
+      <input type="hidden" name="o" value="pirates">
+      <input type="text" name="q" class="instant-search-input" placeholder="Search">
+    </form>
+    <ul id="goc-desktop-global" class="goc-desktop-global">
+      <li class="goc-desktop"><a href="http://disney.com/" class=""><u>Disney.com</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://www.disneystore.com/transfer/280559/?CMP=OTL-Dcom:ChromShpIconB" class=""><u>Store</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://disneyparks.disney.go.com/?DISCID=DI_mtt_chrome" class=""><u>Parks &amp; Travel</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://video.disney.com/" class=""><u>Video</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://movies.disney.com" class=""><u>Movies</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://shows.disney.com" class=""><u>TV</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://music.disney.com" class=""><u>Music</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://games.disney.com" class=""><u>Games</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://books.disney.com/" class=""><u>Books</u></a></li>
+    
+      <li class="goc-desktop"><a href="http://liveshows.disney.com" class=""><u>Live Shows</u></a></li>
+    </ul>
+  </div>
+</div>
+<div id="goc-nav" class="goc-el goc-bg-dark">
+  <span id="goc-logo" title="Disney"></span>
+  <span id="goc-e" role="button" title="Navigate"></span>
+</div>
+<script type="text/javascript">GOC.queue.push(["trigger","accept:base"]);</script>
+  
+  <div id="nav-local" class="nav-local ">
+  <div id="nav-pushdown"></div>
+  <div class="bound">
+    <a href="http://pirates.disney.com" title="Disney Pirates" class="nav-logo"id="nav-logo"><span>Pirates</span> </a>
+    <span id="nav-e" role="button" title="Navigate"></span>
+    <ul>
+      <li><a href="/movies">Movies</a></li>
+      <li><a href="/video">Video</a></li>
+      <li><a href="/games-activities">Games &amp; Activities</a></li>
+      <li><a href="/characters">Characters</a></li>
+      <li><a href="/galleries">Galleries</a></li>
+      <li><a href="http://www.disneystore.com/transfer/280559/?cmp=OTL-Dcom&amp;att=Dcom_FS_PiratesoftheCaribbean_Chrome_Shop">Store</a></li>
+      <li><a href="http://disneyparks.disney.go.com?CMP=AFC-DPFY13Q1DIENT1379G">Parks &amp; Travel</a></li>
+    </ul>
+      <span id="search_cancel_text">Cancel</span>
+  </div>
+</div>
+
+
+  <div id="base-bg"></div>
+  <div id="burger-container">
+    <div id="background-styles">
+        <div class="site-default-gradient">
+          <div class="safety-color"></div>
+        </div>
+    
+        <div id="body-bg">
+          <div class="safety-color"></div>
+          <div class="main"></div>
+          <div class="color-fade"></div>
+        </div>
+    
+        <div id="takeover-area">
+          <div class="overlay default">
+            <div class="safety-color">
+              <div class="color-block"></div>
+            </div>
+            <div class="main-color"></div>
+            <div class="repeating repeating-color"></div>
+            <div class="repeating repeating-image"></div>
+            <div class="main-image"></div>
+            <div class="fade-out"></div>
+          </div>
+          <div class="overlay module-override">
+            <div class="safety-color">
+              <div class="color-block"></div>
+            </div>
+            <div class="main-color"></div>
+            <div class="repeating repeating-color"></div>
+            <div class="repeating repeating-image"></div>
+            <div class="main-image"></div>
+            <div class="fade-out"></div>
+          </div>
+        </div>
+    </div>
+
+    <div id="nav-body">
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+      <script type="text/javascript">window.jQuery || document.write('<script src ="//a.dilcdn.com/a/jquery-35f326448996.js" type="text/javascript"><\/script>')</script>
+      <script type="text/javascript">Disney.DidOpts={"loc":"en-US"};</script>
+      <script src="//a.dilcdn.com/a/application-dfb13d9136f4.js" type="text/javascript"></script>
+      <div id="spinner">
+        <img src="//a.dilcdn.com/a/utility/loading/loading-72a4c28445e9.gif">
+        <p></p>
+      </div>
+      <div id="main"><article id="burger" class="frozen">
+<style type="text/css">
+
+  <!-- /* rich_image module 1-0 */ -->
+
+  
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module rich_image ref-1-0 light primary-theme full-height full-width ">
+          
+
+
+        </section><style type="text/css">
+
+  <!-- /* slider module 1-1 */ -->
+
+   /* background color */
+    .module.ref-1-1, .module.ref-1-1.primary-theme, .module.ref-1-1.secondary-theme{
+      background-color: #f0e3c1;
+      background-image: none;
+    }
+
+
+     /* background images */
+      @media screen and (min-width: 680px){
+        .module.ref-1-1, .module.ref-1-1.primary-theme, .module.ref-1-1.secondary-theme{
+          background-size: 100% auto;
+          background-image: url(http://cdnvideo.dolimg.com/cdn_assets/f6bd538a4f47a9b9b2aa9ee637bcb79b97ef9121.jpg);
+          background-position: bottom left;
+        }
+      }
+        @media screen and (-webkit-min-device-pixel-ratio: 1.5) and (min-width: 680px), screen and (min-resolution: 144dpi) and (min-width: 680px){
+          .module.ref-1-1, .module.ref-1-1.primary-theme, .module.ref-1-1.secondary-theme{
+            background-image: url(http://cdnvideo.dolimg.com/cdn_assets/f6bd538a4f47a9b9b2aa9ee637bcb79b97ef9121.jpg);
+          }
+        }
+
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module slider ref-1-1 light primary-theme slider-view pagination-styles ">
+          <div class="bound movie ">
+
+  
+
+  
+
+<div class="module_header no-desc">
+  <div class="title">
+    <h2>Movies</h2>
+    
+  </div>
+  
+</div>
+
+
+  <div class="slides peek-4 no-peek">
+    <ol class="slider-list peek-4">
+        <li class="slider-page">
+          <ul class="col-container cols-4 rows-1">
+              <span class="col item  "><div class="entity-container entity-type-movie
+              ratio-poster
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl"  class="entity-link" >
+
+    <div class="movie-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/49ceb41768ec1dac5bc3c8c14ca4c53eb848c4d9.jpg" class="thumb" alt="Pirates of the Caribbean: The Curse of the Black Pearl">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl"  class="entity-link" >
+        <h3 class="title">Pirates of the Caribbean: The Curse of the Black Pearl</h3>
+    </a>
+
+
+    
+    <p class="desc">The roguish yet charming Captain Jack Sparrow's idyllic pirate life capsizes after his nemesis, the wily Captain Barbossa, steals his ship, the Black Pearl, and later attacks the town of Port Royal, kidnapping the governor's beautiful daughter Elizabeth. In a gallant attempt to rescue her and recapture the Black Pearl, Elizabeth's childhood friend Will Turner joins forces with Jack.What Will doesn't know is that a cursed treasure has doomed Barbossa and his crew to live forever as the undead.</p>
+    
+    
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+              <span class="col item  "><div class="entity-container entity-type-movie
+              ratio-poster
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest"  class="entity-link" >
+
+    <div class="movie-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/48997d5dfaec7f366a791a03c96f3ebb0bfd119e.jpg" class="thumb" alt="Pirates of the Caribbean: Dead Man's Chest">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest"  class="entity-link" >
+        <h3 class="title">Pirates of the Caribbean: Dead Man's Chest</h3>
+    </a>
+
+
+    
+    <p class="desc">Charming rogue pirate Captain Jack Sparrow is back for a grand, swashbuckling, nonstop joyride filled with devilish pirate humor, monstrous sea creatures and breathtaking black magic. Now, Jack's got a blood debt to pay; he owes his soul to the legendary Davy Jones, ghostly Ruler of the Ocean Depths, but ever-crafty Jack isn't about to go down without a fight.</p>
+    
+    
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+              <span class="col item  "><div class="entity-container entity-type-movie
+              ratio-poster
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="http://pirates.disney.com/pirates-of-the-caribbean-at-worlds-end"  class="entity-link" >
+
+    <div class="movie-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/cfb174e15a419a470878716309034bb4896289cb.jpg" class="thumb" alt="Pirates of the Caribbean: At World's End">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-at-worlds-end"  class="entity-link" >
+        <h3 class="title">Pirates of the Caribbean: At World's End</h3>
+    </a>
+
+
+    
+    <p class="desc">Just when he's needed most, Captain Jack Sparrow, that witty and wily charmer of a pirate, is trapped on a sea of sand in Davy Jones' Locker. In an increasingly shaky alliance, Will Turner, Elizabeth Swann and Captain Barbossa begin a desperate quest to find and rescue him. Captain Jack's the last of the nine Pirate Lords of the Brethren Court who must come together united in one last stand to preserve the freedom-loving pirates' way of life.</p>
+    
+    
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-at-worlds-end"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+              <span class="col item  "><div class="entity-container entity-type-movie
+              ratio-poster
+              links-out
+              corners-default
+              
+              
+              default-details
+              
+            ">
+
+    <a href="http://pirates.disney.com/pirates-of-the-caribbean-on-stranger-tides"  class="entity-link" >
+
+    <div class="movie-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/367ea5c5a033687b920d38aa2754c50f30a3ad58.jpg" class="thumb" alt="Pirates of the Caribbean: On Stranger Tides">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                text-left
+                
+              ">
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-on-stranger-tides"  class="entity-link" >
+        <h3 class="title">Pirates of the Caribbean: On Stranger Tides</h3>
+    </a>
+
+
+    
+    <p class="desc">Pirates Of The Caribbean: On Stranger Tides is a tale of truth, betrayal, youth, demise - and mermaids! When Jack Sparrow crosses paths with a woman from his past, he's not sure if it's love, or if she's a ruthless con artist using him to find the fabled Fountain of Youth. Forced aboard the ship of the most feared pirate ever, Jack doesn't know who to fear more - Blackbeard or the woman from his past.</p>
+    
+    
+
+      <a href="http://pirates.disney.com/pirates-of-the-caribbean-on-stranger-tides"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span>
+
+              
+          </ul>
+        </li>
+    </ol>
+    <div class="peek"></div> 
+  </div>
+</div>
+
+        </section><style type="text/css">
+
+  <!-- /* product module 1-3 */ -->
+
+  
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module product ref-1-3 light primary-theme  ">
+          <div class="bound">
+
+  
+
+<div class="module_header no-desc">
+  <div class="title">
+    <h2>Buy Movie</h2>
+    
+  </div>
+  
+</div>
+
+  
+  <div class="product_list">
+              <div class="product-tech">
+            <div class="close_modal"></div>
+            <div class="product-modal">
+              <p class="title tablet">Pirates of the Caribbean Four-Movie Collection</p>
+              <div class="leftside">
+                <div class="boundingBox">
+                  <img class="logo" src="http://cdnvideo.dolimg.com/cdn_assets/078910ddd9b4840fd336b423a10eb2a276a8d062.jpg">
+                </div>
+                <div class="product-button"></div>
+              </div>
+              <div class="details">
+                  <h2 class="title desktop">Pirates of the Caribbean Four-Movie Collection</h2>
+                  <div class="desc_modal">
+                    <h3 class="special">Special Features</h3>
+                    <ul class="desc">
+                          <li>Bloopers of the Caribbean</li>
+                          <li>LEGO Animated Shorts: Captain Jack's Brick Tales</li>
+                          <li>Audio Commentary by Director Rob Marshall</li>
+                          <li>Under the Scene: Bringing Mermaids to Life</li>
+                          <li>Legends of On Stranger Tides</li>
+                          <li>In Search of the Fountain</li>
+                          <li>Last Sail, First Voyage</li>
+                          <li>Digital Copies of first 3 films (never before released)</li>
+                          <li>2-Disc Blu-rays of first 3 movies including all previous bonus</li>
+                          <li>All new Blu-ray bonus disc which includes an all-new short film and more!</li>
+                    </ul>
+                    
+                  </div>
+                </div>
+              </div>
+            </div>          <div class="product-tech">
+            <div class="close_modal"></div>
+            <div class="product-modal">
+              <p class="title tablet">On Stranger Tides Blu-rayâ¢ + DVD Combo Pack</p>
+              <div class="leftside">
+                <div class="boundingBox">
+                  <img class="logo" src="http://cdnvideo.dolimg.com/cdn_assets/889a122f21fdbbbad7d58e4457bf2bd56f027119.jpg">
+                </div>
+                <div class="product-button"></div>
+              </div>
+              <div class="details">
+                  <h2 class="title desktop">On Stranger Tides Blu-rayâ¢ + DVD Combo Pack</h2>
+                  <div class="desc_modal">
+                    <h3 class="special">Special Features</h3>
+                    <ul class="desc">
+                          <li>Bloopers of the Caribbean</li>
+                          <li>LEGO Animated Shorts: Captain Jack's Brick Tales</li>
+                          <li>Audio Commentary by Director Rob Marshall</li>
+                          <li>Disney Second Screen</li>
+                    </ul>
+                    
+                  </div>
+                </div>
+              </div>
+            </div>          <div class="product-tech">
+            <div class="close_modal"></div>
+            <div class="product-modal">
+              <p class="title tablet">On Stranger Tides DVD</p>
+              <div class="leftside">
+                <div class="boundingBox">
+                  <img class="logo" src="http://cdnvideo.dolimg.com/cdn_assets/9022af2bf35debb13238c94298dd0e16180456b9.jpg">
+                </div>
+                <div class="product-button"></div>
+              </div>
+              <div class="details">
+                  <h2 class="title desktop">On Stranger Tides DVD</h2>
+                  <div class="desc_modal">
+                    <h3 class="special">Special Features</h3>
+                    <ul class="desc">
+                          <li>Bloopers of the Caribbean</li>
+                          <li>LEGO Animated Shorts: Captain Jack's Brick Tales</li>
+                          <li>Audio Commentary by Director Rob Marshall</li>
+                    </ul>
+                    
+                  </div>
+                </div>
+              </div>
+            </div>  </div>
+</div>
+
+        </section><style type="text/css">
+
+  <!-- /* product module 1-4 */ -->
+
+  
+
+    
+
+  
+
+  
+
+  
+
+  
+</style>
+        <section class="module product ref-1-4 light primary-theme  ">
+          <div class="bound">
+
+  
+  
+  <div class="product_list">
+              <div class="product-tech">
+            <div class="close_modal"></div>
+            <div class="product-modal">
+              <p class="title tablet">The Curse of the Black Pearl - 2-Disc Blu-rayâ¢ Combo Pack</p>
+              <div class="leftside">
+                <div class="boundingBox">
+                  <img class="logo" src="http://cdnvideo.dolimg.com/cdn_assets/ce1026f9891a3df4e6903763a7764ebfbcc80033.jpg">
+                </div>
+                <div class="product-button"></div>
+              </div>
+              <div class="details">
+                  <h2 class="title desktop">The Curse of the Black Pearl - 2-Disc Blu-rayâ¢ Combo Pack</h2>
+                  <div class="desc_modal">
+                    <h3 class="special">Special Features</h3>
+                    <ul class="desc">
+                          <li>3 hours of original standard def bonus material plus high def bonus</li>
+                          <li>Scoundrels of the Sea:  Piecing Together the Treasure Past of Pirates â an interactive in-movie feature that presents facts on-screen about the legends and lore of pirates</li>
+                          <li>Movie Showcase</li>
+                          <li>All bonus content from previous DVD releases, including the Lost disc</li>
+                    </ul>
+                    
+                  </div>
+                </div>
+              </div>
+            </div>          <div class="product-tech">
+            <div class="close_modal"></div>
+            <div class="product-modal">
+              <p class="title tablet">Dead Man's Chest - 2-Disc Blu-rayâ¢ Combo Pack</p>
+              <div class="leftside">
+                <div class="boundingBox">
+                  <img class="logo" src="http://cdnvideo.dolimg.com/cdn_assets/d1165440460988938b6e3eb7336f1ec14bcf6974.jpg">
+                </div>
+                <div class="product-button"></div>
+              </div>
+              <div class="details">
+                  <h2 class="title desktop">Dead Man's Chest - 2-Disc Blu-rayâ¢ Combo Pack</h2>
+                  <div class="desc_modal">
+                    <h3 class="special">Special Features</h3>
+                    <ul class="desc">
+                          <li>3 hours of original standard def bonus material plus high def bonus</li>
+                          <li>Liarâs Dice Game â a single-player game, shot in live action.  See if you have the nerves and the wits to outsmart a pirate</li>
+                          <li>Movie Showcase</li>
+                          <li>All bonus content from previous DVD releases</li>
+                    </ul>
+                    
+                  </div>
+                </div>
+              </div>
+            </div>          <div class="product-tech">
+            <div class="close_modal"></div>
+            <div class="product-modal">
+              <p class="title tablet">At World's End - 2-Disc Blu-rayâ¢ Combo Pack</p>
+              <div class="leftside">
+                <div class="boundingBox">
+                  <img class="logo" src="http://cdnvideo.dolimg.com/cdn_assets/20405a710a9aa5a2068d5071c851dc46be28deae.jpg">
+                </div>
+                <div class="product-button"></div>
+              </div>
+              <div class="details">
+                  <h2 class="title desktop">At World's End - 2-Disc Blu-rayâ¢ Combo Pack</h2>
+                  <div class="desc_modal">
+                    <h3 class="special">Special Features</h3>
+                    <ul class="desc">
+                          <li>Bloopers of the Caribbean</li>
+                          <li>Keith &amp; The Captain: On Set with Johnny Depp and the Rock Legend</li>
+                          <li>Anatomy of a Scene: The Maelstrom</li>
+                          <li>The Tale of Many Jacks</li>
+                          <li>Hoist the Colours</li>
+                          <li>Masters of Design</li>
+                          <li>Inside the Brethren Court</li>
+                          <li>The World of Chow Yun-Fat</li>
+                          <li>The Pirate Maestro: The Music of Hans Zimmer</li>
+                          <li>Deleted Scenes</li>
+                    </ul>
+                    
+                  </div>
+                </div>
+              </div>
+            </div>          <div class="product-tech">
+            <div class="close_modal"></div>
+            <div class="product-modal">
+              <p class="title tablet">On Stranger Tides - 2-Disc Blu-rayâ¢ Combo Pack</p>
+              <div class="leftside">
+                <div class="boundingBox">
+                  <img class="logo" src="http://cdnvideo.dolimg.com/cdn_assets/e451723e5956cad8ff01268475a149b9ee4d347e.jpg">
+                </div>
+                <div class="product-button"></div>
+              </div>
+              <div class="details">
+                  <h2 class="title desktop">On Stranger Tides - 2-Disc Blu-rayâ¢ Combo Pack</h2>
+                  <div class="desc_modal">
+                    <h3 class="special">Special Features</h3>
+                    <ul class="desc">
+                          <li>Bloopers of the Caribbean</li>
+                          <li>LEGO Animated Shorts: Captain Jack's Brick Tales</li>
+                          <li>Audio Commentary by Director Rob Marshall</li>
+                          <li>Under the Scene: Bringing Mermaids to Life</li>
+                          <li>Legends of On Stranger Tides</li>
+                          <li>In Search of the Fountain</li>
+                          <li>Last Sail, First Voyage</li>
+                    </ul>
+                    
+                  </div>
+                </div>
+              </div>
+            </div>  </div>
+</div>
+
+        </section><style type="text/css">
+
+  <!-- /* stream module 1-5 */ -->
+
+   /* background color */
+    .module.ref-1-5, .module.ref-1-5.primary-theme, .module.ref-1-5.secondary-theme{
+      background-color: #ffffff;
+      background-image: none;
+    }
+
+
+    
+
+  
+
+  
+
+  
+
+   /* border styles */
+         /* top border */
+      .module.ref-1-5{ border-top: none; }
+
+        
+</style>
+        <section class="module stream ref-1-5 light primary-theme  ">
+          <div class="bound promo ">
+
+  
+
+<div class="module_header no-desc">
+  <div class="title">
+    <h2>Social</h2>
+    
+  </div>
+  
+</div>
+
+
+  <div class="cols-4"><span class="col item  "><div class="entity-container entity-type-promo
+              ratio-square
+              links-out
+              corners-default
+              
+              
+              hide-details
+              
+            ">
+
+    <a href="https://www.facebook.com/PiratesoftheCaribbean"  class="entity-link" >
+
+    <div class="promo-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/bd4b8940e6d97679f88e51562ae9cea853b5e871.jpg" class="thumb" alt="Facebook">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                
+                
+              ">
+
+      <a href="https://www.facebook.com/PiratesoftheCaribbean"  class="entity-link" >
+        <h3 class="title">Facebook</h3>
+    </a>
+
+
+    
+    
+    
+    
+
+      <a href="https://www.facebook.com/PiratesoftheCaribbean"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span><span class="col item  "><div class="entity-container entity-type-promo
+              ratio-square
+              links-out
+              corners-default
+              
+              
+              hide-details
+              
+            ">
+
+    <a href="https://twitter.com/DisneyPictures"  class="entity-link age-gated" data-age="13">
+
+    <div class="promo-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/1808a3e7c18e860412289c6208f830ece869eef9.jpg" class="thumb" alt="Twitter">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                
+                
+              ">
+
+      <a href="https://twitter.com/DisneyPictures"  class="entity-link age-gated" data-age="13">
+        <h3 class="title">Twitter</h3>
+    </a>
+
+
+    
+    
+    
+    
+
+      <a href="https://twitter.com/DisneyPictures"  class="entity-link cta-link age-gated" data-age="13">
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span><span class="col item  "><div class="entity-container entity-type-promo
+              ratio-square
+              links-out
+              corners-default
+              
+              
+              hide-details
+              
+            ">
+
+    <a href="http://pinterest.com/disneystudios/"  class="entity-link age-gated" data-age="13">
+
+    <div class="promo-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/d175ef0a3f979a0ade8a5bbc8e2eb81a40605c5d.jpg" class="thumb" alt="Pinterest">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                
+                
+              ">
+
+      <a href="http://pinterest.com/disneystudios/"  class="entity-link age-gated" data-age="13">
+        <h3 class="title">Pinterest</h3>
+    </a>
+
+
+    
+    
+    
+    
+
+      <a href="http://pinterest.com/disneystudios/"  class="entity-link cta-link age-gated" data-age="13">
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span><span class="col item  "><div class="entity-container entity-type-promo
+              ratio-square
+              links-out
+              corners-default
+              
+              
+              hide-details
+              
+            ">
+
+    <a href="http://www.youtube.com/user/Disney"  class="entity-link" >
+
+    <div class="promo-box entity-box
+                  thumb-border
+                  
+                ">
+
+    
+
+      <div class="aspect"> 
+          <img src="http://cdnvideo.dolimg.com/cdn_assets/c1f4ec6f521059ac2e618374033b4a53d33a8ce4.jpg" class="thumb" alt="YouTube">
+          
+        
+        
+      </div>
+
+    </div>
+  </a>
+
+  <div class="entity-details
+              
+              
+                
+                
+                
+                
+              ">
+
+      <a href="http://www.youtube.com/user/Disney"  class="entity-link" >
+        <h3 class="title">YouTube</h3>
+    </a>
+
+
+    
+    
+    
+    
+
+      <a href="http://www.youtube.com/user/Disney"  class="entity-link cta-link" >
+          <h4 class="cta-button blue button large">See More</h4>
+      </a>
+
+  </div>
+</div>
+
+
+<span class="arrow"></span></span></div>
+  <div class="show_more_container">
+    <div class="bottom-peek"></div>
+    <div class="show_more blue button large" role="button" onclick="">
+    	<span class="label">Show More</span> <span class="spinner"></span>
+    </div>
+  </div>
+</div>
+
+        </section>
+</article>
+<script type="text/javascript">this.Grill?Grill.topper=null:(function(){var a=document.getElementsByTagName("html")[0];a.setAttribute("class",a.getAttribute("class")+" grill-error")})();this.Grill?Grill.burger={"title":"Movies | Pirates of the Caribbean","cto":{"country":"","contentDescription":"","contentType":"","property":"","propertyId":"","buId":"","buCode":"","region":"","intBreadcrumbs":"","cmsId":"MH","program":"","comscorekw":"","account":"pirates,disneypictures,matterhorn","categoryCode":"dcom","siteCode":"fran_pir","brandSegment":"fran_pir","pageName":"movies","breadcrumbs":"movies","ctoSrcPath":"/stat/dolWebAnalytics.js"},"cds":0,"pda":true,"href":"http://pirates.disney.com/movies","stack":[{"view":"rich_image","ref":"1-0","type":"","count":0,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[],"style":{"default_color_theme":"light","color_theme":"light","images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"slider","ref":"1-1","type":"movie","count":4,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":"Movies","data":[{"rating":"PG-13","year":null,"desc":"The roguish yet charming Captain Jack Sparrow's idyllic pirate life capsizes after his nemesis, the wily Captain Barbossa, steals his ship, the Black Pearl, and later attacks the town of Port Royal, kidnapping the governor's beautiful daughter Elizabeth. In a gallant attempt to rescue her and recapture the Black Pearl, Elizabeth's childhood friend Will Turner joins forces with Jack.What Will doesn't know is that a cursed treasure has doomed Barbossa and his crew to live forever as the undead.","release":"July 9, 2003","id":"4ba34c576fb3359e961b9666","slug":"pirates-of-the-caribbean-the-curse-of-the-black-pearl","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Pirates of the Caribbean: The Curse of the Black Pearl","poster":"http://cdnvideo.dolimg.com/cdn_assets/49ceb41768ec1dac5bc3c8c14ca4c53eb848c4d9.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/49ceb41768ec1dac5bc3c8c14ca4c53eb848c4d9.jpg","catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/49ceb41768ec1dac5bc3c8c14ca4c53eb848c4d9.jpg","description":"The roguish yet charming Captain Jack Sparrow's idyllic pirate life capsizes after his nemesis, the wily Captain Barbossa, steals his ship, the Black Pearl, and later attacks the town of Port Royal, kidnapping the governor's beautiful daughter Elizabeth. In a gallant attempt to rescue her and recapture the Black Pearl, Elizabeth's childhood friend Will Turner joins forces with Jack.What Will doesn't know is that a cursed treasure has doomed Barbossa and his crew to live forever as the undead.","short_desc":"The roguish yet charming Captain Jack Sparrow's idyllic pirate life capsizes after his nemesis, the wily Captain Barbossa, steals his ship, the Black Pearl, and later attacks the town of Port Royal, kidnapping the governor's beautiful daughter Elizabeth. In a gallant attempt to rescue her and recapture the Black Pearl, Elizabeth's childhood friend Will Turner joins forces with Jack.What Will doesn't know is that a cursed treasure has doomed Barbossa and his crew to live forever as the undead.","cta_button_title":"See More","type":"Movie","href":"http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl"},{"rating":"PG-13","year":null,"desc":"Charming rogue pirate Captain Jack Sparrow is back for a grand, swashbuckling, nonstop joyride filled with devilish pirate humor, monstrous sea creatures and breathtaking black magic. Now, Jack's got a blood debt to pay; he owes his soul to the legendary Davy Jones, ghostly Ruler of the Ocean Depths, but ever-crafty Jack isn't about to go down without a fight.","release":"July 7, 2006","id":"4ba34c57257b159e961b9666","slug":"pirates-of-the-caribbean-dead-mans-chest","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Pirates of the Caribbean: Dead Man's Chest","poster":"http://cdnvideo.dolimg.com/cdn_assets/48997d5dfaec7f366a791a03c96f3ebb0bfd119e.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/48997d5dfaec7f366a791a03c96f3ebb0bfd119e.jpg","catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/48997d5dfaec7f366a791a03c96f3ebb0bfd119e.jpg","description":"Charming rogue pirate Captain Jack Sparrow is back for a grand, swashbuckling, nonstop joyride filled with devilish pirate humor, monstrous sea creatures and breathtaking black magic. Now, Jack's got a blood debt to pay; he owes his soul to the legendary Davy Jones, ghostly Ruler of the Ocean Depths, but ever-crafty Jack isn't about to go down without a fight.","short_desc":"Charming rogue pirate Captain Jack Sparrow is back for a grand, swashbuckling, nonstop joyride filled with devilish pirate humor, monstrous sea creatures and breathtaking black magic. Now, Jack's got a blood debt to pay; he owes his soul to the legendary Davy Jones, ghostly Ruler of the Ocean Depths, but ever-crafty Jack isn't about to go down without a fight.","cta_button_title":"See More","type":"Movie","href":"http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest"},{"rating":"PG-13","year":null,"desc":"Just when he's needed most, Captain Jack Sparrow, that witty and wily charmer of a pirate, is trapped on a sea of sand in Davy Jones' Locker. In an increasingly shaky alliance, Will Turner, Elizabeth Swann and Captain Barbossa begin a desperate quest to find and rescue him. Captain Jack's the last of the nine Pirate Lords of the Brethren Court who must come together united in one last stand to preserve the freedom-loving pirates' way of life.","release":"May 25, 2007","id":"4ba34c571ff3959e961b9666","slug":"pirates-of-the-caribbean-at-worlds-end","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Pirates of the Caribbean: At World's End","poster":"http://cdnvideo.dolimg.com/cdn_assets/cfb174e15a419a470878716309034bb4896289cb.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/cfb174e15a419a470878716309034bb4896289cb.jpg","catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/cfb174e15a419a470878716309034bb4896289cb.jpg","description":"Just when he's needed most, Captain Jack Sparrow, that witty and wily charmer of a pirate, is trapped on a sea of sand in Davy Jones' Locker. In an increasingly shaky alliance, Will Turner, Elizabeth Swann and Captain Barbossa begin a desperate quest to find and rescue him. Captain Jack's the last of the nine Pirate Lords of the Brethren Court who must come together united in one last stand to preserve the freedom-loving pirates' way of life.","short_desc":"Just when he's needed most, Captain Jack Sparrow, that witty and wily charmer of a pirate, is trapped on a sea of sand in Davy Jones' Locker. In an increasingly shaky alliance, Will Turner, Elizabeth Swann and Captain Barbossa begin a desperate quest to find and rescue him. Captain Jack's the last of the nine Pirate Lords of the Brethren Court who must come together united in one last stand to preserve the freedom-loving pirates' way of life.","cta_button_title":"See More","type":"Movie","href":"http://pirates.disney.com/pirates-of-the-caribbean-at-worlds-end"},{"rating":"PG-13","year":null,"desc":"Pirates Of The Caribbean: On Stranger Tides is a tale of truth, betrayal, youth, demise - and mermaids! When Jack Sparrow crosses paths with a woman from his past, he's not sure if it's love, or if she's a ruthless con artist using him to find the fabled Fountain of Youth. Forced aboard the ship of the most feared pirate ever, Jack doesn't know who to fear more - Blackbeard or the woman from his past.","release":"May 20, 2011","id":"4ba34c572cab959e961b9666","slug":"pirates-of-the-caribbean-on-stranger-tides","entity_type":"movie","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"poster","button_cta":"more_info","text_alignment":"left","details_visibility":"default","allow_title_overlay":false,"allow_details_visibility":"default"},"title":"Pirates of the Caribbean: On Stranger Tides","poster":"http://cdnvideo.dolimg.com/cdn_assets/367ea5c5a033687b920d38aa2754c50f30a3ad58.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/367ea5c5a033687b920d38aa2754c50f30a3ad58.jpg","catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/367ea5c5a033687b920d38aa2754c50f30a3ad58.jpg","description":"Pirates Of The Caribbean: On Stranger Tides is a tale of truth, betrayal, youth, demise - and mermaids! When Jack Sparrow crosses paths with a woman from his past, he's not sure if it's love, or if she's a ruthless con artist using him to find the fabled Fountain of Youth. Forced aboard the ship of the most feared pirate ever, Jack doesn't know who to fear more - Blackbeard or the woman from his past.","short_desc":"Pirates Of The Caribbean: On Stranger Tides is a tale of truth, betrayal, youth, demise - and mermaids! When Jack Sparrow crosses paths with a woman from his past, he's not sure if it's love, or if she's a ruthless con artist using him to find the fabled Fountain of Youth. Forced aboard the ship of the most feared pirate ever, Jack doesn't know who to fear more - Blackbeard or the woman from his past.","cta_button_title":"See More","type":"Movie","href":"http://pirates.disney.com/pirates-of-the-caribbean-on-stranger-tides"}],"header_data":{"title":"Movies"},"style":{"bg_color":"#f0e3c1","auto_color_theme":"light","default_color_theme":"light","color_theme":"light","images":{"background_image":{"url":"http://cdnvideo.dolimg.com/cdn_assets/f6bd538a4f47a9b9b2aa9ee637bcb79b97ef9121.jpg","retina_url":"http://cdnvideo.dolimg.com/cdn_assets/f6bd538a4f47a9b9b2aa9ee637bcb79b97ef9121.jpg","alignment":"bottom"},"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images","ad":"Advertisement"},"see_all_text":"See All","cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"ad_banner","ref":"1-2","type":"","count":0,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[],"style":{"default_color_theme":"light","color_theme":"light","images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"product","ref":"1-3","type":"product","count":3,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":"Buy Movie","data":[{"id":"4e683263a7b0e5ef38f62808","slug":"pirates-of-the-caribbean-four-movie-collection","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"Pirates of the Caribbean Four-Movie Collection","product":"product","product_lines":["Bloopers of the Caribbean","LEGO Animated Shorts: Captain Jack's Brick Tales","Audio Commentary by Director Rob Marshall","Under the Scene: Bringing Mermaids to Life"],"retail_links":[{"content_url":"http://www.amazon.com/Pirates-Caribbean-Four-Movie-Collection-Blu-ray/dp/B0054K8JSG/ref=sr_1_1?s=movies-tv&ie=UTF8&qid=1316652721&sr=1-1v","title":"Amazon"},{"content_url":"http://www.bestbuy.com/site/searchpage.jsp;jsessionid=9EBA9D40F27EC22CB88A42A5A75BC55E.bbolsp-app04-02?_dyncharset=ISO-8859-1&_dynSessConf=8889507634458084458&id=pcat17071&type=page&st=on+stranger+tides&sc=Global&cp=1&nrp=15&sp=&qp=&list=n&iht=y&usc=All+Categories&ks=960","title":"Best Buy"}],"tech_lines":["Bloopers of the Caribbean","LEGO Animated Shorts: Captain Jack's Brick Tales","Audio Commentary by Director Rob Marshall","Under the Scene: Bringing Mermaids to Life","Legends of On Stranger Tides","In Search of the Fountain","Last Sail, First Voyage","Digital Copies of first 3 films (never before released)","2-Disc Blu-rays of first 3 movies including all previous bonus","All new Blu-ray bonus disc which includes an all-new short film and more!"],"more_lines":true,"purchase_cta":"Buy Now","retailerData":{"retail_links":[{"content_url":"http://www.amazon.com/Pirates-Caribbean-Four-Movie-Collection-Blu-ray/dp/B0054K8JSG/ref=sr_1_1?s=movies-tv&ie=UTF8&qid=1316652721&sr=1-1v","title":"Amazon"},{"content_url":"http://www.bestbuy.com/site/searchpage.jsp;jsessionid=9EBA9D40F27EC22CB88A42A5A75BC55E.bbolsp-app04-02?_dyncharset=ISO-8859-1&_dynSessConf=8889507634458084458&id=pcat17071&type=page&st=on+stranger+tides&sc=Global&cp=1&nrp=15&sp=&qp=&list=n&iht=y&usc=All+Categories&ks=960","title":"Best Buy"}],"purchase_cta":"Buy Now"},"catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/078910ddd9b4840fd336b423a10eb2a276a8d062.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/078910ddd9b4840fd336b423a10eb2a276a8d062.jpg","cta_button_title":"See More","type":"Product","href":"http://movies.disney.com"},{"id":"4e6830c31f27d5ef38f62808","slug":"on-stranger-tides-blu-ray-dvd-combo-pack","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"On Stranger Tides Blu-ray\u2122 + DVD Combo Pack","product":"product","product_lines":["Bloopers of the Caribbean","LEGO Animated Shorts: Captain Jack's Brick Tales","Audio Commentary by Director Rob Marshall","Disney Second Screen"],"retail_links":[{"content_url":"http://www.amazon.com/Pirates-Caribbean-Stranger-Two-Disc-Packaging/dp/B0054K8O36/ref=sr_1_3?s=movies-tv&ie=UTF8&qid=1320889991&sr=1-3","title":"Amazon"},{"content_url":"http://www.bestbuy.com/site/Pirates+Of+The+Caribbean%3A+On+Stranger+Tides+-+DVD/3158042.p?id=2244677&skuId=3158042&st=on%20stranger%20tides&lp=1&cp=1","title":"Best Buy"}],"tech_lines":["Bloopers of the Caribbean","LEGO Animated Shorts: Captain Jack's Brick Tales","Audio Commentary by Director Rob Marshall","Disney Second Screen"],"purchase_cta":"Buy Now","retailerData":{"retail_links":[{"content_url":"http://www.amazon.com/Pirates-Caribbean-Stranger-Two-Disc-Packaging/dp/B0054K8O36/ref=sr_1_3?s=movies-tv&ie=UTF8&qid=1320889991&sr=1-3","title":"Amazon"},{"content_url":"http://www.bestbuy.com/site/Pirates+Of+The+Caribbean%3A+On+Stranger+Tides+-+DVD/3158042.p?id=2244677&skuId=3158042&st=on%20stranger%20tides&lp=1&cp=1","title":"Best Buy"}],"purchase_cta":"Buy Now"},"catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/889a122f21fdbbbad7d58e4457bf2bd56f027119.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/889a122f21fdbbbad7d58e4457bf2bd56f027119.jpg","cta_button_title":"See More","type":"Product","href":"http://movies.disney.com"},{"id":"4e6830856fa5d5ef38d62808","slug":"on-stranger-tides-dvd","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"On Stranger Tides DVD","product":"product","product_lines":["Bloopers of the Caribbean","LEGO Animated Shorts: Captain Jack's Brick Tales","Audio Commentary by Director Rob Marshall"],"retail_links":[{"content_url":"http://www.amazon.com/Pirates-Caribbean-Stranger-Johnny-Depp/dp/B005COPWZW/ref=sr_1_1?ie=UTF8&qid=1320889122&sr=8-1","title":"Amazon"},{"content_url":"http://www.bestbuy.com/site/Pirates+Of+The+Caribbean%3A+On+Stranger+Tides+-+Widescreen+-+DVD/3439054.p?id=2244677&skuId=3439054&st=Pirates%20of%20the%20Caribbean%20on%20stranger%20tides&lp=3&cp=1","title":"Best Buy"}],"tech_lines":["Bloopers of the Caribbean","LEGO Animated Shorts: Captain Jack's Brick Tales","Audio Commentary by Director Rob Marshall"],"purchase_cta":"Buy Now","retailerData":{"retail_links":[{"content_url":"http://www.amazon.com/Pirates-Caribbean-Stranger-Johnny-Depp/dp/B005COPWZW/ref=sr_1_1?ie=UTF8&qid=1320889122&sr=8-1","title":"Amazon"},{"content_url":"http://www.bestbuy.com/site/Pirates+Of+The+Caribbean%3A+On+Stranger+Tides+-+Widescreen+-+DVD/3439054.p?id=2244677&skuId=3439054&st=Pirates%20of%20the%20Caribbean%20on%20stranger%20tides&lp=3&cp=1","title":"Best Buy"}],"purchase_cta":"Buy Now"},"catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/9022af2bf35debb13238c94298dd0e16180456b9.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/9022af2bf35debb13238c94298dd0e16180456b9.jpg","cta_button_title":"See More","type":"Product","href":"http://movies.disney.com"}],"header_data":{"title":"Buy Movie"},"style":{"default_color_theme":"light","color_theme":"light","images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images","coming_soon":"Coming Soon","pre_order_now":"Pre-Order Now"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"product","ref":"1-4","type":"product","count":4,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":null,"data":[{"id":"4e682d245030d38d696a8637","slug":"the-curse-of-the-black-pearl-2-disc-blu-ray-combo-pack","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"The Curse of the Black Pearl - 2-Disc Blu-ray\u2122 Combo Pack","product":"product","product_lines":["3 hours of original standard def bonus material plus high def bonus","Scoundrels of the Sea:  Piecing Together the Treasure Past of Pirates \u2013 an interactive in-movie feature that presents facts on-screen about the legends and lore of pirates","Movie Showcase","All bonus content from previous DVD releases, including the Lost disc"],"retail_links":[{"content_url":"http://www.amazon.com/Pirates-Caribbean-Curse-Three-Disc-Blu-ray/dp/B004DTLK6M/ref=sr_1_6?s=dvd&ie=UTF8&qid=1297289561&sr=1-6","title":"Amazon"}],"tech_lines":["3 hours of original standard def bonus material plus high def bonus","Scoundrels of the Sea:  Piecing Together the Treasure Past of Pirates \u2013 an interactive in-movie feature that presents facts on-screen about the legends and lore of pirates","Movie Showcase","All bonus content from previous DVD releases, including the Lost disc"],"purchase_cta":"Buy Now","retailerData":{"retail_links":[{"content_url":"http://www.amazon.com/Pirates-Caribbean-Curse-Three-Disc-Blu-ray/dp/B004DTLK6M/ref=sr_1_6?s=dvd&ie=UTF8&qid=1297289561&sr=1-6","title":"Amazon"}],"purchase_cta":"Buy Now"},"catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/ce1026f9891a3df4e6903763a7764ebfbcc80033.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/ce1026f9891a3df4e6903763a7764ebfbcc80033.jpg","cta_button_title":"See More","type":"Product","href":"http://movies.disney.com"},{"id":"4e682d58a24ff38d99ca8638","slug":"dead-man-s-chest-2-disc-blu-ray-combo-pack","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"Dead Man's Chest - 2-Disc Blu-ray\u2122 Combo Pack","product":"product","product_lines":["3 hours of original standard def bonus material plus high def bonus","Liar\u2019s Dice Game \u2013 a single-player game, shot in live action.  See if you have the nerves and the wits to outsmart a pirate","Movie Showcase","All bonus content from previous DVD releases"],"retail_links":[{"content_url":"http://www.amazon.com/Pirates-Caribbean-Chest-Three-Disc-Blu-ray/dp/B004DTLK7G/ref=sr_1_7?s=dvd&ie=UTF8&qid=1297289604&sr=1-7","title":"Amazon"}],"tech_lines":["3 hours of original standard def bonus material plus high def bonus","Liar\u2019s Dice Game \u2013 a single-player game, shot in live action.  See if you have the nerves and the wits to outsmart a pirate","Movie Showcase","All bonus content from previous DVD releases"],"purchase_cta":"Buy Now","retailerData":{"retail_links":[{"content_url":"http://www.amazon.com/Pirates-Caribbean-Chest-Three-Disc-Blu-ray/dp/B004DTLK7G/ref=sr_1_7?s=dvd&ie=UTF8&qid=1297289604&sr=1-7","title":"Amazon"}],"purchase_cta":"Buy Now"},"catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/d1165440460988938b6e3eb7336f1ec14bcf6974.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/d1165440460988938b6e3eb7336f1ec14bcf6974.jpg","cta_button_title":"See More","type":"Product","href":"http://movies.disney.com"},{"id":"4e682d89432d39f42b5f4987","slug":"at-world-s-end-2-disc-blu-ray-combo-pack","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"At World's End - 2-Disc Blu-ray\u2122 Combo Pack","product":"product","product_lines":["Bloopers of the Caribbean","Keith & The Captain: On Set with Johnny Depp and the Rock Legend","Anatomy of a Scene: The Maelstrom","The Tale of Many Jacks"],"retail_links":[{"content_url":"http://www.amazon.com/Pirates-Caribbean-Worlds-Three-Disc-Blu-ray/dp/B004DTLK80/ref=sr_1_8?s=dvd&ie=UTF8&qid=1297289639&sr=1-8","title":"Amazon"}],"tech_lines":["Bloopers of the Caribbean","Keith & The Captain: On Set with Johnny Depp and the Rock Legend","Anatomy of a Scene: The Maelstrom","The Tale of Many Jacks","Hoist the Colours","Masters of Design","Inside the Brethren Court","The World of Chow Yun-Fat","The Pirate Maestro: The Music of Hans Zimmer","Deleted Scenes"],"more_lines":true,"purchase_cta":"Buy Now","retailerData":{"retail_links":[{"content_url":"http://www.amazon.com/Pirates-Caribbean-Worlds-Three-Disc-Blu-ray/dp/B004DTLK80/ref=sr_1_8?s=dvd&ie=UTF8&qid=1297289639&sr=1-8","title":"Amazon"}],"purchase_cta":"Buy Now"},"catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/20405a710a9aa5a2068d5071c851dc46be28deae.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/20405a710a9aa5a2068d5071c851dc46be28deae.jpg","cta_button_title":"See More","type":"Product","href":"http://movies.disney.com"},{"id":"4e682fd1407f738d99ca8638","slug":"on-stranger-tides-2-disc-blu-ray-combo-pack","entity_type":"product","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","skip_styles":true,"extended_title":true,"button_cta":"buy_now","subtle_hover":true,"details_visibility":"show","allow_title_overlay":false,"allow_details_visibility":"show"},"title":"On Stranger Tides - 2-Disc Blu-ray\u2122 Combo Pack","product":"product","product_lines":["Bloopers of the Caribbean","LEGO Animated Shorts: Captain Jack's Brick Tales","Audio Commentary by Director Rob Marshall","Under the Scene: Bringing Mermaids to Life"],"retail_links":[{"content_url":"http://www.amazon.com/Pirates-Caribbean-Stranger-Two-Disc-Packaging/dp/B004A8ZWUQ/ref=sr_1_3?ie=UTF8&qid=1316652439&sr=8-3","title":"Amazon"},{"content_url":"http://www.bestbuy.com/site/Pirates+Of+The+Caribbean%3A+On+Stranger+Tides+-+Blu-ray+Disc/3158528.p?id=2244677&skuId=3158528&st=Pirates_of_the_Caribbean_On_Stranger_Tides&lp=1&cp=1","title":"Best Buy"},{"content_url":"http://www.disneystore.com/pirates-of-the-caribbean-pre-order-pirates-of-the-caribbean-on-stranger-tides-2-disc-blu-ray-combo-pack-in-blu-ray-amaray-case/mp/1289440/1000042/?cmp-OTL-Dcom&att=Dcom_PiratesFS","title":"Disney Store"}],"tech_lines":["Bloopers of the Caribbean","LEGO Animated Shorts: Captain Jack's Brick Tales","Audio Commentary by Director Rob Marshall","Under the Scene: Bringing Mermaids to Life","Legends of On Stranger Tides","In Search of the Fountain","Last Sail, First Voyage"],"more_lines":true,"purchase_cta":"Buy Now","retailerData":{"retail_links":[{"content_url":"http://www.amazon.com/Pirates-Caribbean-Stranger-Two-Disc-Packaging/dp/B004A8ZWUQ/ref=sr_1_3?ie=UTF8&qid=1316652439&sr=8-3","title":"Amazon"},{"content_url":"http://www.bestbuy.com/site/Pirates+Of+The+Caribbean%3A+On+Stranger+Tides+-+Blu-ray+Disc/3158528.p?id=2244677&skuId=3158528&st=Pirates_of_the_Caribbean_On_Stranger_Tides&lp=1&cp=1","title":"Best Buy"},{"content_url":"http://www.disneystore.com/pirates-of-the-caribbean-pre-order-pirates-of-the-caribbean-on-stranger-tides-2-disc-blu-ray-combo-pack-in-blu-ray-amaray-case/mp/1289440/1000042/?cmp-OTL-Dcom&att=Dcom_PiratesFS","title":"Disney Store"}],"purchase_cta":"Buy Now"},"catalogImage":"http://cdnvideo.dolimg.com/cdn_assets/e451723e5956cad8ff01268475a149b9ee4d347e.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/e451723e5956cad8ff01268475a149b9ee4d347e.jpg","cta_button_title":"See More","type":"Product","href":"http://movies.disney.com"}],"style":{"default_color_theme":"light","color_theme":"light","images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images","coming_soon":"Coming Soon","pre_order_now":"Pre-Order Now"},"cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"},{"view":"stream","ref":"1-5","type":"promo","count":4,"visibility":{"allowed_regions":[],"disallowed_regions":[],"invisible_device_types":[]},"title":"Social","data":[{"type":"promo","primaryImageName":"square","id":"4e57f3f0b8faa34ff858e8a6","slug":"facebook","entity_type":"promo","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","details_visibility":"hide","allow_title_overlay":false,"allow_details_visibility":"hide"},"title":"Facebook","square":"http://cdnvideo.dolimg.com/cdn_assets/bd4b8940e6d97679f88e51562ae9cea853b5e871.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/bd4b8940e6d97679f88e51562ae9cea853b5e871.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/bd4b8940e6d97679f88e51562ae9cea853b5e871.jpg","ref_title_slug":"pirates-facebook","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/bd4b8940e6d97679f88e51562ae9cea853b5e871.jpg","href":"https://www.facebook.com/PiratesoftheCaribbean"},{"type":"promo","primaryImageName":"square","id":"4e57f470de3c2cd2506e459d","slug":"twitter","entity_type":"promo","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","details_visibility":"hide","allow_title_overlay":false,"allow_details_visibility":"hide"},"title":"Twitter","square":"http://cdnvideo.dolimg.com/cdn_assets/1808a3e7c18e860412289c6208f830ece869eef9.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/1808a3e7c18e860412289c6208f830ece869eef9.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/1808a3e7c18e860412289c6208f830ece869eef9.jpg","age_gate":13,"ref_title_slug":"pirates-twitter","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/1808a3e7c18e860412289c6208f830ece869eef9.jpg","href":"https://twitter.com/DisneyPictures"},{"type":"promo","primaryImageName":"square","id":"4e57f4caf6f0207c4491c0d7","slug":"pinterest","entity_type":"promo","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","details_visibility":"hide","allow_title_overlay":false,"allow_details_visibility":"hide"},"title":"Pinterest","square":"http://cdnvideo.dolimg.com/cdn_assets/d175ef0a3f979a0ade8a5bbc8e2eb81a40605c5d.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/d175ef0a3f979a0ade8a5bbc8e2eb81a40605c5d.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/d175ef0a3f979a0ade8a5bbc8e2eb81a40605c5d.jpg","age_gate":13,"ref_title_slug":"pirates-pinterest","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/d175ef0a3f979a0ade8a5bbc8e2eb81a40605c5d.jpg","href":"http://pinterest.com/disneystudios/"},{"type":"promo","primaryImageName":"square","id":"4e57f54290750a78134c021c","slug":"youtube","entity_type":"promo","entity_config":{"rounded_corners":"default","thumb_outline":true,"aspect_ratio":"square","details_visibility":"hide","allow_title_overlay":false,"allow_details_visibility":"hide"},"title":"YouTube","square":"http://cdnvideo.dolimg.com/cdn_assets/c1f4ec6f521059ac2e618374033b4a53d33a8ce4.jpg","thumb":"http://cdnvideo.dolimg.com/cdn_assets/c1f4ec6f521059ac2e618374033b4a53d33a8ce4.jpg","promo":"http://cdnvideo.dolimg.com/cdn_assets/c1f4ec6f521059ac2e618374033b4a53d33a8ce4.jpg","ref_title_slug":"pirates-youtube","cta_button_title":"See More","icon":"http://cdnvideo.dolimg.com/cdn_assets/c1f4ec6f521059ac2e618374033b4a53d33a8ce4.jpg","href":"http://www.youtube.com/user/Disney"}],"header_data":{"title":"Social"},"style":{"bg_color":"#ffffff","auto_color_theme":"light","default_color_theme":"light","color_theme":"light","border_overrides":{"top_none":true},"images":{"foreground_image":{"url":null,"retina_url":null,"mobile_url":null,"mobile_retina_url":null,"alignment":"top"}},"active_theme":"primary"},"translations":{"see_all":"See All","show_more":"Show More","share":"Share","embed":"Embed","quick_link":"Quick Link","of":"of","loading":"Loading","all":"All","images":"images"},"see_all_text":"See All","cellophane_host":"https://api.disney.com","cellophane_auth_key":"FD EF6B9571-E2B6-49E2-A92B-D25912B0E238:6A830EEA250B15D3A0BF92E6286815143E94B7FB2B6FDEF8"}],"style":{"primary_theme":{"text_color":"#5a4d3d","header_color":"#331c00","link_color":null,"background_color":null,"theme_type":null,"text_lightness":"dark"},"secondary_theme":{"text_color":"#000000","header_color":"#000000","link_color":null,"background_color":null,"theme_type":null,"text_lightness":"dark"},"icon_styles":{"top":"#a30b0d","bottom":"#691516"},"takeover_styles":{"local_chrome_color":"light","local_chrome_dark":false,"main_background_color":"#000000","pushdown_safety_color":"#000000","main_image":"http://cdnvideo.dolimg.com/cdn_assets/0f583e4fe0bba75069de31a4d508a1bed6982eda.jpg","repeating_image":null,"top_gradient":{"color":"#000000","color_stop":"216px"}},"page_background_styles":{"bg_color":"#000000","footer_inverted":true,"footer_text_color":"light","pushdown_safety_color":"#12312f","gradient":{"color":"#12312f","stop1":"0%","stop2":"808px","stop3":"72%","stop4":"92%"}}},"adData":{"config":{"targeting":{"unit":"dol","siteSection":"movies","contentType":"section","pageName":"movies","contentId":"4e79fb61072ebe43216c3812","property":null,"propertyId":null,"actor":"","character":"","characterId":null,"keywords":null,"product":null,"movieGenre":null,"movieRating":null,"movieTitle":null,"gameGenre":null,"gameTitle":null,"gameType":null},"web":"/7046/dcom/pirates/movies","mobile":"/7046/dcom-mobile/pirates/movies"},"cds":0,"disableAds":false,"pda":true,"adSystem":"dfp","adTargeting":{"unit":"dol","siteSection":"movies","contentType":"section","pageName":"movies","contentId":"4e79fb61072ebe43216c3812","property":null,"propertyId":null,"actor":"","character":"","characterId":null,"keywords":null,"product":null,"movieGenre":null,"movieRating":null,"movieTitle":null,"gameGenre":null,"gameTitle":null,"gameType":null},"cmsIdKalturaMap":[{"description":"US","kaltura_act_id":"628012","cms_id":"604"}],"dfpAdRule":1},"market_code":"us","browser_warning":{"header":"We recommend you view this site in a newer web browser.","body":"Disney wants to bring you the best online experiences that use the latest technology. You may continue to the site, but we cannot guarantee that things will look and behave correctly.","continue_button":"Continue"},"age_gate_text":{},"optimizely":{},"global_chrome":{"background":"dark"},"branding":"Pirates of the Caribbean"}:(function(){var a=document.getElementsByTagName("html")[0];a.setAttribute("class",a.getAttribute("class")+" grill-error")})();</script>
+<!-- pageview_candidate comscorekw= -->
+</div>
+    </div>
+    <footer>
+      <h2 class="outline">Footer</h2>
+      <nav id="bottomnav">
+        <div class="mobile-home">
+          <h3><a href="/">Home</a></h3>
+        </div>
+        <ul class="cols-4"><li class="col item">
+          <h3><a href="/movies">Movies</a></h3>
+            <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl"  data-module-title="Movies">Pirates of the Caribbean: The Curse of the Black Pearl</a>
+            <a href="http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest"  data-module-title="Movies">Pirates of the Caribbean: Dead Man's Chest</a>
+            <a href="http://pirates.disney.com/pirates-of-the-caribbean-at-worlds-end"  data-module-title="Movies">Pirates of the Caribbean: At World's End</a>
+            <a href="http://pirates.disney.com/pirates-of-the-caribbean-on-stranger-tides"  data-module-title="Movies">Pirates of the Caribbean: On Stranger Tides</a>
+        </li><li class="col item">
+          <h3><a href="video">Videos</a></h3>
+            <a href="http://video.disney.com/watch/jack-s-escape-4be3871011f89a0e1266b068"  data-module-title="Videos">Jack's Escape</a>
+            <a href="http://video.disney.com/watch/someone-has-to-jump-4be3870b679c0a0e1266b068"  data-module-title="Videos">Someone Has to Jump</a>
+            <a href="http://video.disney.com/watch/pirates-of-the-caribbean-the-curse-of-the-black-pearl-4bcd1e927ad4e5d339e69f42"  data-module-title="Videos">Pirates of the Caribbean: The Curse of the Black Pearl</a>
+            <a href="http://video.disney.com/watch/pirates-of-the-caribbean-dead-man-s-chest-4bcc50dca8a9e22413f9939c"  data-module-title="Videos">Pirates of the Caribbean: Dead Man's Chest Trailer</a>
+            <a href="http://video.disney.com/watch/pirates-of-the-caribbean-at-world-s-end-trailer-4be1103c5c70e42f7f3ce022"  data-module-title="Videos">Pirates of the Caribbean: At World's End Trailer</a>
+        </li><li class="col item">
+          <h3><a href="/games-activities">Games</a></h3>
+            <a href="http://games.disney.com/whack-a-crab"  data-module-title="Games">Pirates of the Caribbean - Whack A Crab</a>
+            <a href="http://games.disney.com/warrrr"  data-module-title="Games">Pirates of the Caribbean - Warrrr</a>
+            <a href="http://games.disney.com/treacherous-waters"  data-module-title="Games">Pirates of the Caribbean - Treacherous Waters</a>
+            <a href="http://games.disney.com/rogue-s-battleship"  data-module-title="Games">Pirates of the Caribbean - Rogue's Battleship</a>
+            <a href="http://games.disney.com/pirates-vs-mermaids"  data-module-title="Games">Pirates of the Caribbean - Pirates vs. Mermaids</a>
+        </li><li class="col item">
+          <h3><a href="characters">Characters</a></h3>
+            <a href="http://pirates.disney.com/jack-sparrow"  data-module-title="Characters"> Jack Sparrow</a>
+            <a href="http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest/characters"  data-module-title="Characters">Davy Jones</a>
+            <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters"  data-module-title="Characters">Hector Barbossa</a>
+            <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters"  data-module-title="Characters">Will Turner</a>
+            <a href="http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters"  data-module-title="Characters">Elizabeth Swann</a>
+        </li></ul>
+      </nav>
+    
+      <section id="utility" class="">
+        <div class="divider">
+            <form class="search" action="http://search.disney.com/search" method="GET">
+              <input type="hidden" name="o" value="home">
+              <div class="search-field">
+                <input type="text" name="q" placeholder="Search" autocomplete="off" id="searchField_Footer">
+                <span class="search-icon"></span>
+              </div>
+            </form>
+        </div>
+      </section>
+    
+    
+    </footer>
+  </div>
+
+  
+  <div id="goc-ft">
+  <section id="help">
+    <h2 class="outline">Help</h2>
+    <div id="logo"></div>
+    <nav>
+      <h3 class="outline">About and Legal</h3>
+      <ul id="about">
+          <li><a target="" href="http://corporate.disney.go.com/index.html?ppLink=pp_wdig">About Disney</a></li>
+          <li><a target="" href="https://help.disney.com/">Disney Help</a></li>
+          <li><a target="" href="http://disneycareers.com/en/default/">Careers</a></li>
+          <li><a target="" href="http://disney.go.com/guestservices/">Contact Us</a></li>
+          <li><a target="" href="http://family.disney.com/">Family</a></li>
+          <li><a target="" href="http://www.babble.com/">Babble</a></li>
+      </ul>
+      <ul id="legal">
+          <li><a target="" href="http://disneytermsofuse.com">Terms of Use</a></li>
+          <li><a target="" href="http://disney.go.com/guestservices/legalnotices?ppLink=pp_wdig">Legal Notices</a></li>
+          <li><a target="" href="https://disneyprivacycenter.com/">Privacy Policy</a></li>
+          <li><a target="" href="https://disneyprivacycenter.com/notice-to-california-residents/">Your California Privacy Rights</a></li>
+          <li><a target="" href="https://disneyprivacycenter.com/kids-privacy-policy/english/">Children's Online Privacy Policy</a></li>
+          <li><a target="" href="http://disney.go.com/guestservices/disclaimers/redirect?destination=http://preferences.truste.com/2.0/?type=disneycolor&amp;affiliateId=115">Interest-Based Ads</a></li>
+      </ul>
+      <div id="copyright">
+        Â© Disney, All Rights Reserved, <span class="branding">Pirates of the Caribbean</span>
+      </div>
+    </nav>
+  </section>
+</div>
+</div>
+  <div id="browser_warning" class="modal-prompt-window">
+  <div class="modal-info">
+    <ul id="modal_message">
+      <h3 class="modal-title" style="text-align:left">We recommend you view this site in a newer web browser.</h3>
+      <p class="modal-content">Disney wants to bring you the best online experiences that use the latest technology. You may continue to the site, but we cannot guarantee that things will look and behave correctly.</p>
+      <div class="modal-accept">
+        <a id="modal_accept" class="button large blue"></a>
+      </div>
+    </ul>
+  </div>
+</div>
+<div class="modal-overlay"></div>
+
+</body>
+</html>

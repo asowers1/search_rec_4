@@ -1,0 +1,12 @@
+Transfer-Encoding: chunked
+Date: Sat, 21 Feb 2015 00:11:48 GMT
+Server: LiteSpeed
+Connection: close
+X-Powered-By: PHP/5.4.31
+X-Pingback: http://www.beatlesbible.com/wp/xmlrpc.php
+Cache-Control: public, max-age=172800
+Expires: Mon, 23 Feb 2015 00:11:48 GMT
+Content-Type: text/html; charset=UTF-8
+Link: <http://www.beatlesbible.com/?p=7>; rel=shortlink
+Vary: User-Agent
+

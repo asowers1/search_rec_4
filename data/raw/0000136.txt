@@ -1,0 +1,1509 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Titanic movie mistakes, goofs and bloopers</title>
+<meta name="verify-v1" content="cUJI/Vdd2er1TKyNBKRUmOIHQOJHomGz1ihpoIh/N7Y=">
+<link rel="icon" type="image/png" href="//www.moviemistakes.com/favicon.png">
+<link rel="apple-touch-icon" href="//www.moviemistakes.com/favicon_apple.png">
+<link href="https://plus.google.com/104370022030842060587/" rel="publisher" />
+<meta charset="UTF-8">
+<meta name="Description" content="Mistakes, goofs, trivia, quotes, trailers, pictures and more for Titanic. Submit your own and vote on your favourites!">
+<meta name="Keywords" content="Titanic mistakes, Titanic goofs, Titanic bloopers, movie mistakes, movie goofs, movie bloopers, film goofs, film trivia, movie trivia, trivia, continuity mistakes, movie errors, continuity, goofs, flubs, quotes, movie quotes, television mistakes, tv mistakes, tv show mistakes, tv series mistakes, bloopers, movie pictures, movies, tv shows">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+<link href="/css.css" rel="stylesheet" media="screen">
+<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:700' rel='stylesheet' type='text/css'>
+<meta property="fb:app_id" content="40070145896"/>
+<meta property="og:site_name" content="Movie Mistakes"/>
+<meta property="og:description" content="Mistakes, goofs, trivia, quotes, trailers, pictures and more for Titanic. Submit your own and vote on your favourites!"/>
+<meta property="fb:admins" content="737320502"/>
+<!--springboard-->
+<script type="text/javascript">
+
+	var sbElementInterval = setInterval(function(){sbElementCheck()}, 50);
+
+	function sbElementCheck() {
+
+		var targetedElement = document.getElementById('ingageunit');
+		if(targetedElement) {
+			clearInterval(sbElementInterval);
+			(function(d) {
+				var js, s = d.getElementsByTagName('script')[0];
+				js = d.createElement('script');
+				js.async = true;
+				js.onload = function(e) {
+					SbInGageWidget.init({
+						partnerId : 4043,
+						widgetId : 'mvmi002',
+						cmsPath : 'http://cms.springboardplatform.com'
+					});
+				}
+				js.src = "http://cdn.springboardplatform.com/storage/js/ingage/apingage.min.js";
+				s.parentNode.insertBefore(js, s);
+			})(window.document);
+		}
+	}
+</script>
+<!--springboard-->
+<link rel='next' href='http://www.moviemistakes.com/film1299/page2'>
+<meta property="og:title" content="Titanic movie mistakes, goofs and bloopers"/>
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="http://www.moviemistakes.com/images/titles/originals/1299.jpg"/>
+<meta property="og:url" content="http://www.moviemistakes.com/film1299"/>
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@moviemistakes">
+<meta name="twitter:creator" content="@moviemistakes">
+<meta name="twitter:description" content="Mistakes, goofs, trivia, quotes, trailers, pictures and more for Titanic. Submit your own and vote on your favourites!">
+<meta name="twitter:url" content="http://www.moviemistakes.com/film1299">
+<meta name="twitter:title" content="Titanic movie mistakes, goofs and bloopers">
+<meta name="twitter:image" content="http://www.moviemistakes.com/images/titles/originals/1299.jpg">
+<meta name='twitter:image' content='http://www.moviemistakes.com/images/titles/140/1299.jpg'>
+<link rel='canonical' href='http://www.moviemistakes.com/film1299'>
+<script type="text/javascript" src="http://cdn.triggertag.gorillanation.com/js/triggertag.js"></script>
+<script type="text/javascript">getTrigger('11181');</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-268620-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body>
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();
+</script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript>
+<!-- End comScore Tag -->
+
+<!-- BEGIN GN Ad Tag for Movie Mistakes 1000x1000 ros -->
+<script type="text/javascript">
+if ((typeof(f461603)=='undefined' || f461603 > 0) ) {
+  if(typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if(typeof(gnm_tile) == 'undefined') gnm_tile=1;
+  document.write('<scr'+'ipt src="http://ad.doubleclick.net/N4403/adj/moviemistakes.com/ros;sect=ros;mtfInline=true;sz=1000x1000;tile='+(gnm_tile++)+';ord='+gnm_ord+'?" type="text/javascript"></scr'+'ipt>');
+}else{
+	//insert default static image here as default ad
+}
+</script>
+<!-- END AD TAG -->
+
+<div id="fb-root"></div>
+
+<script>
+//Facebook
+window.fbAsyncInit = function() {
+FB.init({
+appId  : '40070145896',
+status : true, // check login status
+cookie : true, // enable cookies to allow the server to access the session
+xfbml  : true,  // parse XFBML
+channelUrl  : 'http://www.moviemistakes.com/channel.php', // Custom Channel URL
+oauth : true //enables OAuth 2.0
+});
+// Check if the current user is logged in and has authorized the app
+FB.getLoginStatus(checkLoginStatus);
+
+// Check the result of the user status // document.URL == "https://www.moviemistakes.com/membership.php"
+function checkLoginStatus(response) {
+if (($('#navbar').data('fbreloaded') == "no") && response && (response.status == 'connected') && ($('#navbar').data('memberid') == 0)) {
+//console.log('User is authorized but not logged in - reload');
+$.ajax({
+cache: false,
+url: "/ajax.php",
+type: "POST",
+data: { task: 'fbreloaded' },
+success: function(data) { console.log(data); location.reload(true); }
+});
+} else if (($('#navbar').data('fbreloaded') == "yes") && response && (response.status == 'connected') && ($('#navbar').data('memberid') == 0)) {
+//console.log('User is authorized but not logged in - reloaded already');
+} else if(response && response.status == 'connected' && $('#navbar').data('memberid') > 0) {
+//console.log('User is authorized and logged in');
+} else {
+//console.log('User is not authorized');
+$('.logout').removeClass('facebooklogout').off('click'); //so if someone has a facebook session but is logged out of FB, they get a standard logout button, otherwise it breaks.
+}
+}
+
+};
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.async = true;
+  js.src = "//connect.facebook.net/en_GB/all.js";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+//end of Facebook
+</script>
+
+<div class="container">
+
+<!--INFOLINKS_OFF-->
+<nav id="navbar" class="navbar navbar-default" role="navigation" data-memberid="0" data-fbreloaded="no">
+
+<div class="navbar-header">
+
+<button type="button" class="navbar-toggle btn-info" data-toggle="collapse" data-target=".navbar-collapse" style="line-height: 14px">
+<span class="sr-only">Toggle navigation</span>
+Menu
+</button>
+
+<button type="button" class="mobilenavbutton btn btn-info pull-right" data-task="share"><span class="glyphicon glyphicon-share"></span></button>
+<button class="mobilenavbutton btn btn-info pull-right" data-task="login">Login</button>
+<button type="button" class="mobilenavbutton btn btn-success pull-right" data-task="search"><span class="glyphicon glyphicon-search"></span></button>
+
+<a class="navbar-brand navlogo" href="http://www.moviemistakes.com"></a>
+
+</div> <!--navbar-header-->
+
+<div class="collapse navbar-collapse">
+
+<ul class="nav navbar-nav">
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Top pages <span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a href="http://www.moviemistakes.com/best">Best mistakes</a></li>
+<li><a href="http://www.moviemistakes.com/best/pictures">Best pictures</a></li>
+<li><a href="http://www.moviemistakes.com/most">Most movie mistakes</a></li>
+<li><a href="http://www.moviemistakes.com/most2015">Most mistakes of 2015</a></li>
+<li><a href="http://www.moviemistakes.com/best2015">Best mistakes of 2015</a></li>
+<li><a href="http://www.moviemistakes.com/imdb250">IMDb top 250</a></li>
+<li><a href="http://www.moviemistakes.com/updates">Recent updates</a></li>
+<li><a href="http://www.moviemistakes.com/current">Current releases</a></li>
+<li><a href="http://www.moviemistakes.com/charts">Cinema/rental charts</a></li>
+<li><a href='http://www.moviemistakes.com/post315'>Star Wars vs Star Trek</a></li>
+<li style='background-color: #FF0000'><a href='http://www.moviemistakes.com/submit.php'><strong>Submit something</strong></a></li>
+</ul>
+</li>
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Popular <span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a href="http://www.moviemistakes.com/popularfilm">Popular movies</a></li>
+<li><a href="http://www.moviemistakes.com/populartv">Popular TV shows</a></li>
+<li><a href='/film1299'>Titanic mistakes</a></li>
+<li><a href='/picture9458'>Titanic</a></li>
+<li><a href='/tv2651'>Friends mistakes</a></li>
+<li><a href='/tv2651/trivia'>Friends trivia</a></li>
+<li><a href='/film7527/quotes'>Step Brothers quotes</a></li>
+<li><a href='/name1284'>Jim Carrey</a></li>
+<li><a href='/post229'>15 biggest mistakes in Titanic</a></li>
+<li><a href='/film1299/photos'>Titanic photos</a></li>
+<li><a href='/film9114/trailer'>The Twilight Saga: Breaking Dawn - Part 1 trailer</a></li>
+<li><a href='/game6856'>Pokemon: Red and Blue mistakes</a></li>
+<li><a href='/book5675'>Angels & Demons mistakes</a></li>
+
+</ul>
+</li>
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Mistakes <span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a href="http://www.moviemistakes.com/pictures">Mistake pictures</a></li>
+<li><a href="http://www.moviemistakes.com/best/tv">Best TV mistakes</a></li>
+<li><a href="http://www.moviemistakes.com/most/tv">Most TV mistakes</a></li>
+<li><a href="http://www.moviemistakes.com/best/tv/pictures">Best TV pictures</a></li>
+<li><a href="http://www.moviemistakes.com/most/tv/pictures">Most TV pictures</a></li>
+<li><a href="http://www.moviemistakes.com/most2014">Most mistakes of 2014</a></li>
+<li><a href="http://www.moviemistakes.com/best2014">Best mistakes of 2014</a></li>
+<li><a href="http://www.moviemistakes.com/oscars">Oscar nominees</a></li>
+<li><a href="http://www.moviemistakes.com/directors.php">Most mistake-prone directors</a></li>
+<li><a href="http://www.moviemistakes.com/most/book">Most book mistakes</a></li>
+<li><a href="http://www.moviemistakes.com/most/game">Most game mistakes</a></li>
+</ul>
+</li>
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a href="http://www.moviemistakes.com/blog">Homepage</a></li>
+<li><a href='http://www.moviemistakes.com/post315'>Star Wars vs Star Trek</a></li>
+<li><a href='http://www.moviemistakes.com/post314'>Fast & Furious 7 trailer</a></li>
+<li><a href='http://www.moviemistakes.com/post313'>Daredevil trailer...</a></li>
+<li><a href='http://www.moviemistakes.com/post312'>The perils of widescreening</a></li>
+<li><a href='http://www.moviemistakes.com/post311'>New Fantastic Four trailer!</a></li>
+<li><a href='http://www.moviemistakes.com/post310'>The Avengers (Watchmen style)</a></li>
+<li><a href='http://www.moviemistakes.com/post309'>Truthful Oscar posters</a></li>
+<li><a href='http://www.moviemistakes.com/post308'>New Avengers: Age of Ultron trailer</a></li>
+<li><a href='http://www.moviemistakes.com/post307'>Agent Carter's toughest mission</a></li>
+<li><a href='http://www.moviemistakes.com/post306'>Jurassic Parks and Recreation</a></li>
+<li><a href='http://www.moviemistakes.com/post305'>Ant-Man trailer</a></li>
+<li><a href='http://www.moviemistakes.com/post304'>Videos!</a></li>
+<li><a href='http://www.moviemistakes.com/post303'>Marvel vs. DC ubertrailer</a></li>
+<li><a href='http://www.moviemistakes.com/post302'>PL4TES</a></li>
+<li><a href='http://www.moviemistakes.com/post301'>Terminator: Genisys trailer looks...kinda OK?</a></li>
+
+</ul>
+</li>
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Other areas <span class="caret"></span></a>
+<ul class="dropdown-menu flowleft">
+<li><a href="http://www.moviemistakes.com/quotes">Movie quotes</a></li>
+<li><a href="http://www.moviemistakes.com/most/trivia">Movie trivia</a></li>
+<li><a href="http://www.moviemistakes.com/most/tv/trivia">TV trivia</a></li>
+<li><a href="http://www.moviemistakes.com/ruinedendings">Plot summaries and movie spoilers</a></li>
+<li><a href="http://www.moviemistakes.com/updates_trivia">Trivia updates</a></li>
+<li><a href="http://www.moviemistakes.com/generalquestions">General questions</a></li>
+<li><a href="http://www.moviemistakes.com/questions">Specific questions</a></li>
+<li><a href="http://www.moviemistakes.com/eastereggs">DVD Easter eggs</a></li>
+<li><a href="http://www.moviemistakes.com/randompicture">Random picture</a></li>
+<li><a href="http://www.moviemistakes.com/random">Random movie</a></li>
+<li><a href="http://www.moviemistakes.com/tvrandom">Random TV show</a></li>
+<li><a href="http://www.moviemistakes.com/bookrandom">Random book</a></li>
+<li><a href="http://www.moviemistakes.com/gamerandom">Random game</a></li>
+</ul>
+</li>
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Site info <span class="caret"></span></a>
+<ul class="dropdown-menu flowleft">
+<li id="dropdownlastupdated"><a href='/newentries/time1424322000'>Updated 19th February</a></li>
+<li><a href='http://www.moviemistakes.com/advertising.php'>Advertising</a></li>
+<li><a href='http://www.moviemistakes.com/membership.php'>Membership</a></li>
+<li><a href='http://www.moviemistakes.com/topmembers'>Top members</a></li>
+<li><a href="http://www.moviemistakes.com/phpBB2/index.php">Forum</a></li>
+<li><a href='http://www.moviemistakes.com/lists/?p=subscribe'>Mailing list</a></li>
+<li><a href="http://www.moviemistakes.com/faq.php">FAQ</a></li>
+<li><a href="http://www.moviemistakes.com/links.php">Links</a></li>
+<li><a href="http://www.moviemistakes.com/contact.php">Contact</a></li>
+<li class="divider"></li>
+
+<li><a href='https://www.moviemistakes.com/login.php' class='facebooklogin'>Login with Facebook</a></li><li><a href='https://www.moviemistakes.com/login.php'>Login</a></li>
+</ul>
+</li>
+
+<!--<li id="navlastupdated"><a href='/newentries/time1424322000'>Updated 19th February</a></li>-->
+
+</ul>
+
+</div><!--collapse-->
+
+</nav><!--navbar-->
+
+<!--mobile stuff under navbar-->
+<form class="mobilenavbox searchalltitles" id="mobilesearch" role="search" method="get" action="http://www.moviemistakes.com/search.php">
+<div class="input-group">
+<span class="input-group-btn">
+<a class="btn btn-info" href="http://www.moviemistakes.com/search.php">Browse</a>
+</span>
+<input type="search" id="mobilesearchtext" name="text" class="form-control" placeholder="Search all titles">
+<span class="input-group-btn">
+<button class="btn btn-success" type="submit">Search</button>
+</span>
+</div>
+</form>
+
+<div class="mobilenavbox center" id="mobilelogin">
+<a class="btn btn-dark btn-sm" href="https://www.moviemistakes.com/login.php">Login</a>
+<button class='btn btn-sm btn-dark facebooklogin' style='padding: 5px'>Login with Facebook</button>
+<a class="btn btn-dark btn-sm" href="https://www.moviemistakes.com/membership.php">Register</a>
+</div>
+
+<div class="mobilenavbox center" id="mobileshare">
+<div class='center'><button type="button" class='btn btn-default btn-sm facebookshare sharebutton' data-link='http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.moviemistakes.com%2Ffilm1299'><img src='/images/facebook.png' alt='Share to Facebook'></button><button type="button" class='twittershare btn btn-default btn-sm sharebutton' data-link="https://twitter.com/share?url=http%3A%2F%2Fwww.moviemistakes.com%2Ffilm1299&amp;via=moviemistakes&amp;text=Titanic+movie+mistakes%2C+goofs+and+bloopers:"><img src='/images/twitter.png' alt='Share to Twitter'></button><a class='btn btn-sm btn-default sharebutton' href='http://www.reddit.com/submit?url=http%3A%2F%2Fwww.moviemistakes.com%2Ffilm1299&amp;title=Titanic+movie+mistakes%2C+goofs+and+bloopers' target='_blank'><img src='/images/reddit.png' alt='Share to Reddit'></a><a class='btn btn-sm btn-default sharebutton' href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.moviemistakes.com%2Ffilm1299&amp;name=Titanic+movie+mistakes%2C+goofs+and+bloopers&amp;description=Titanic+movie+mistakes%2C+goofs+and+bloopers" target="_blank"><img src='/images/tumblr.png' alt='Share to Tumblr'></a><a class='btn btn-sm btn-default sharebutton' href="https://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.moviemistakes.com%2Ffilm1299" target="_blank"><img src='/images/stumbleupon.png' alt='Share to Stumbleupon'></a><a class='btn btn-sm btn-default sharebutton' href='https://plus.google.com/share?url=http%3A%2F%2Fwww.moviemistakes.com%2Ffilm1299' target='_blank'><img src='/images/googleplus.png' alt='Share to Google+'></a></div>
+</div>
+<!--mobile stuff under navbar-->
+
+<div class="leaderboard">
+<style>
+.banner { width: 320px; height: 50px; }
+@media(min-width: 500px) { .banner { width: 468px; height: 60px; } }
+@media(min-width: 800px) { .banner { width: 728px; height: 90px; } }
+@media(min-width: 1100px) { .banner { width: 970px; height: 90px; } }
+
+</style>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Banner -->
+<ins class="adsbygoogle banner"
+     style="display:inline-block"
+     data-ad-client="ca-pub-7461570533331997"
+     data-ad-slot="9483202782"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<!--INFOLINKS_ON-->
+
+<div class="row">
+
+<div id="content" class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+
+
+
+
+<!--INFOLINKS_OFF-->
+<header id="titledetails" class="clearfix">
+<div class="fb-like pull-right margin5" data-href="http://www.moviemistakes.com/film1299" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+<a class='thumbnail titleimage' href='http://www.moviemistakes.com/film1299/photos/1299.jpg'><img src='/images/titles/140/1299.jpg' class='img-responsive' alt='Titanic'></a>
+<div id="titledetailstext">
+<h1><a href='/main1299'>Titanic</a> (<a href='http://www.moviemistakes.com/best1997'>1997</a>)</h1>
+
+<h3>270 mistakes</h3>
+
+<p><span style='font-weight: bold'>Directed by:</span> <a href='http://www.moviemistakes.com/name3247'>James Cameron</a></p>
+<p><span style='font-weight: bold'>Starring:</span> <a href='http://www.moviemistakes.com/name2759'>Bernard Hill</a>, <a href='http://www.moviemistakes.com/name2100'>Bill Paxton</a>, <a href='http://www.moviemistakes.com/name1968'>Billy Zane</a>, <a href='http://www.moviemistakes.com/name1967'>Kate Winslet</a>, <a href='http://www.moviemistakes.com/name2656'>Kathy Bates</a>, <a href='http://www.moviemistakes.com/name2647'>Leonardo DiCaprio</a>, <a href='http://www.moviemistakes.com/name1173'>Victor Garber</a></p>
+<p><span style='font-weight: bold'>Genres:</span> <span><a href='http://www.moviemistakes.com/best/drama'>Drama</a></span>, <span><a href='http://www.moviemistakes.com/best/romance'>Romance</a></span></p>
+
+</div>
+</header> <!--titledetails-->
+
+<div id="buttonlinks">
+<div class="btn-group">
+<button class="dropdown-toggle btn btn-sm btn-info active" data-toggle="dropdown">Mistakes <span class="caret"></span></button>
+  <ul class="dropdown-menu">
+  
+  <li class=' active'><a href='http://www.moviemistakes.com/film1299'>All mistakes</a></li>
+  <li class=''><a class='mistakelink' href='http://www.moviemistakes.com/film1299/audio'>6 audio problems</a></li>
+  <li class=''><a class='mistakelink' href='http://www.moviemistakes.com/film1299/continuity'>154 continuity mistakes</a></li>
+  <li class=''><a class='mistakelink' href='http://www.moviemistakes.com/film1299/deliberate'>8 deliberate mistakes</a></li>
+  <li class=''><a class='mistakelink' href='http://www.moviemistakes.com/film1299/factual'>44 factual errors</a></li>
+  <li class=''><a class='mistakelink' href='http://www.moviemistakes.com/film1299/other'>9 other mistakes</a></li>
+  <li class=''><a class='mistakelink' href='http://www.moviemistakes.com/film1299/revealing'>38 revealing mistakes</a></li>
+  <li class=''><a class='mistakelink' href='http://www.moviemistakes.com/film1299/visiblecrew'>11 visible crew/equipment mistakes</a></li>
+
+  <li class="divider"></li>
+  <li class="order" title="Show every mistake type except the one you select next" id="excludetype"><label><input type="checkbox" name="exclude" id="excludecheck"> Exclude mistake type</label></li>
+    <li class="order active" title="Order the entries by how people have rated them"><a href="http://www.moviemistakes.com/film1299/">Order by popularity</a></li>
+  <li class="order" title="Show the entries in the order they occur, if times are available"><a href="http://www.moviemistakes.com/film1299//chronological">Order chronologically</a></li>
+
+  <li><a href='http://www.moviemistakes.com/film1299/top10'>Top 10 mistakes</a></li>
+  </ul>
+</div>
+
+<div class='btn-group movebutton'><a class='btn btn-sm btn-info' href='http://www.moviemistakes.com/film1299/quotes'>Quotes</a></div>
+
+<div class='btn-group movebutton'><a class='btn btn-sm btn-info' href='http://www.moviemistakes.com/film1299/pictures'>Pictures</a></div>
+
+<div class='btn-group movebutton'><a class='btn btn-sm btn-info' href='http://www.moviemistakes.com/film1299/questions'>Questions</a></div>
+
+<div class='btn-group movebutton'><a class='btn btn-sm btn-info' href='http://www.moviemistakes.com/film1299/trivia'>Trivia</a></div>
+
+<div class='btn-group movebutton'><a class='btn btn-sm btn-info' href='http://www.moviemistakes.com/film1299/corrections'>Corrections</a></div>
+
+<div class='btn-group movebutton'><a class='btn btn-sm btn-info' href='http://www.moviemistakes.com/film1299/photos'>Photos</a></div>
+
+<div class='btn-group movebutton'><a class='btn btn-sm btn-info' href='http://www.moviemistakes.com/film1299/ending'>Ending</a></div>
+
+<div class='btn-group movebutton'><a class='btn btn-sm btn-info' href='http://www.moviemistakes.com/film1299/plot'>Plot</a></div>
+
+<div class='btn-group movebutton'><a class='btn btn-sm btn-info' href='http://www.moviemistakes.com/film1299/trailer'>Trailer</a></div>
+
+<div class='btn-group movebutton'><a class='btn btn-sm btn-info' href='http://www.moviemistakes.com/film1299/eastereggs'>Easter eggs</a></div>
+
+
+
+
+<div class="btn-group" id="moretab">
+<button class="dropdown-toggle btn btn-sm btn-danger" data-toggle="dropdown">More <span class="caret"></span></button>
+  <ul class="dropdown-menu flowleft">
+
+<li><a href='http://www.moviemistakes.com/film1299/submit'><strong>Submit something</strong></a></li>
+<li><a href='http://www.moviemistakes.com/letterlistt'>Back to T</a></li>
+<li role="presentation" class="divider invisible" id="moretab_start"></li>
+<li role="presentation" class="divider invisible" id="moretab_end"></li>
+
+
+
+<li><a href='http://www.themovietimeline.com/film1299' target='_blank'>Significant dates</a></li>
+
+  </ul>
+</div>
+
+</div> <!--buttonlinks-->
+
+<div class="adlinks">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Title page links -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:15px"
+     data-ad-client="ca-pub-7461570533331997"
+     data-ad-slot="7128999916"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<!--INFOLINKS_ON-->
+
+<div class="entryboxwrapper" id="entryboxwrapper31631">
+<div class="entrybox thinborder" data-entry='31631' id="entrybox31631">
+
+<div class="clearfix">
+
+
+
+<p class="entrytext" id="entrytext31631"><span data-typeid='8' id='entrytype31631' data-entry='31631'><a class='bold' href='http://www.moviemistakes.com/film1299/factual'>Factual error</a>: </span>When the men are checking the store room for Rose and Jack, the men are using huge battery powered bright white flash lights that look like they're from Jurassic Park. Back then they would have produced yellow light. The light used in the movie was a Short-Arc Xenon bulb, you can tell this by both the very high color temperature of the light and the center of the light has a "hole" in it where the actual tube is blocking the beam. Such technology was not around at that time.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar31631" data-entry="31631">
+<div class="btn-group titlevote" data-entry=31631 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry31631" data-entry="31631" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry31631" data-entry="31631" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class="btn btn-sm btn-light timecode faint4" data-title="<a href='http://www.moviemistakes.com/membership.php'>Members only</a>" data-content="<p class='center'><a href='http://www.moviemistakes.com/membership.php#free'>Regular membership is <strong style='color: red'>free</strong></a>, or <a class='bold' href='http://www.moviemistakes.com/membership.php#premium'>premium members</a> have no adverts, forum access, and more, for just $10 a year.</p>"><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='31631' data-spoken="Titanic" data-type="8" data-media="film" id="shareentry31631"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry31631">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="31631" data-toggle="dropdown" title="Entry 31631" id="editbutton31631">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="31631" id="editoptions31631">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox31631" data-entry='31631'></div>
+
+</div><div class="entryboxwrapper" id="entryboxwrapper79561">
+<div class="entrybox thinborder" data-entry='79561' id="entrybox79561">
+
+<div class="clearfix">
+
+
+
+<p class="entrytext" id="entrytext79561"><span data-typeid='6' id='entrytype79561' data-entry='79561'><a class='bold' href='http://www.moviemistakes.com/film1299/deliberate'>Deliberate mistake</a>: </span>In the scene at the start of the movie with the "authentic" piece of film, you can see a girl with a hat waving to the people at the ground. When the ship is leaving port in the film, she and others are in the same positions, only in reverse, because the first "authentic" shot is the same shot, only reversed.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar79561" data-entry="79561">
+<div class="btn-group titlevote" data-entry=79561 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry79561" data-entry="79561" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry79561" data-entry="79561" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class='btn btn-sm btn-light faketimecode faint4' data-entry=79561><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='79561' data-spoken="Titanic" data-type="6" data-media="film" id="shareentry79561"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry79561">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="79561" data-toggle="dropdown" title="Entry 79561" id="editbutton79561">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="79561" id="editoptions79561">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox79561" data-entry='79561'></div>
+
+</div><div id="ingageunit"></div>
+
+<div class="rectangle" id="rectangle">
+<script type="text/javascript">
+  var ord = window.ord || Math.floor(Math.random() * 1e16);
+  document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N4403/adj/moviemistakes.com/ros;sect=ros;sz=300x250;ord=' + ord + '?"><\/script>');
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/N4403/jump/moviemistakes.com/ros;sect=ros;sz=300x250;ord=54e79bab8b36a?">
+<img src="http://ad.doubleclick.net/N4403/ad/moviemistakes.com/ros;sect=ros;sz=300x250;ord=54e79bab8b36a?" width="250" height="300" />
+</a>
+</noscript>
+</div><div class="entryboxwrapper" id="entryboxwrapper7814">
+<div class="entrybox thinborder" data-entry='7814' id="entrybox7814">
+
+<div class="clearfix">
+
+<a class="entrythumb thumbnail" href="http://www.moviemistakes.com/picture7814" id="entrythumb7814"><img src="/images/mistakegrabs/thumbnails/7814.jpg" class="img-responsive" alt='Titanic mistake picture'></a>
+
+<p class="entrytext" id="entrytext7814"><span data-typeid='4' id='entrytype7814' data-entry='7814'><a class='bold' href='http://www.moviemistakes.com/film1299/continuity'>Continuity mistake</a>: </span>When Rose is trying to rescue Jack she spies a fire axe. Smashing all the glass out from the holder she grabs the axe and turns round. The next camera shot shows Rose standing in front of the case with almost all of its glass intact.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar7814" data-entry="7814">
+<div class="btn-group titlevote" data-entry=7814 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry7814" data-entry="7814" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry7814" data-entry="7814" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class="btn btn-sm btn-light timecode faint4" data-title="<a href='http://www.moviemistakes.com/membership.php'>Members only</a>" data-content="<p class='center'><a href='http://www.moviemistakes.com/membership.php#free'>Regular membership is <strong style='color: red'>free</strong></a>, or <a class='bold' href='http://www.moviemistakes.com/membership.php#premium'>premium members</a> have no adverts, forum access, and more, for just $10 a year.</p>"><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='7814' data-spoken="Titanic" data-type="4" data-media="film" id="shareentry7814"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry7814">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="7814" data-toggle="dropdown" title="Entry 7814" id="editbutton7814">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="7814" id="editoptions7814">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox7814" data-entry='7814'></div>
+
+</div><div class="entryboxwrapper" id="entryboxwrapper76215">
+<div class="entrybox thinborder" data-entry='76215' id="entrybox76215">
+
+<div class="clearfix">
+
+<a class="entrythumb thumbnail" href="http://www.moviemistakes.com/picture76215" id="entrythumb76215"><img src="/images/mistakegrabs/thumbnails/76215.jpg" class="img-responsive" alt='Titanic mistake picture'></a>
+
+<p class="entrytext" id="entrytext76215"><span data-typeid='4' id='entrytype76215' data-entry='76215'><a class='bold' href='http://www.moviemistakes.com/film1299/continuity'>Continuity mistake</a>: </span>In the scene where Rose breaks Jack's handcuffs, you can visibly see the stunt person not wearing suspenders as Jack does. This is an inter cut shot between the raising of the ax and the striking of the cuffs. Leonardo's stunt double is noticeable in other shots throughout the film.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar76215" data-entry="76215">
+<div class="btn-group titlevote" data-entry=76215 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry76215" data-entry="76215" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry76215" data-entry="76215" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class='btn btn-sm btn-light faketimecode faint4' data-entry=76215><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='76215' data-spoken="Titanic" data-type="4" data-media="film" id="shareentry76215"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry76215">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="76215" data-toggle="dropdown" title="Entry 76215" id="editbutton76215">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="76215" id="editoptions76215">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox76215" data-entry='76215'></div>
+
+</div><div class="entryboxwrapper" id="entryboxwrapper7905">
+<div class="entrybox thinborder" data-entry='7905' id="entrybox7905">
+
+<div class="clearfix">
+
+<a class="entrythumb thumbnail" href="http://www.moviemistakes.com/picture7905" id="entrythumb7905"><img src="/images/mistakegrabs/thumbnails/7905.jpg" class="img-responsive" alt='Titanic mistake picture'></a>
+
+<p class="entrytext" id="entrytext7905"><span data-typeid='4' id='entrytype7905' data-entry='7905'><a class='bold' href='http://www.moviemistakes.com/film1299/continuity'>Continuity mistake</a>: </span>Look closely at the location of Rose's beauty-mark the first time you see her at the dock. It is on the opposite side of her face during the rest of the movie.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar7905" data-entry="7905">
+<div class="btn-group titlevote" data-entry=7905 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry7905" data-entry="7905" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry7905" data-entry="7905" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class="btn btn-sm btn-light timecode faint4" data-title="<a href='http://www.moviemistakes.com/membership.php'>Members only</a>" data-content="<p class='center'><a href='http://www.moviemistakes.com/membership.php#free'>Regular membership is <strong style='color: red'>free</strong></a>, or <a class='bold' href='http://www.moviemistakes.com/membership.php#premium'>premium members</a> have no adverts, forum access, and more, for just $10 a year.</p>"><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='7905' data-spoken="Titanic" data-type="4" data-media="film" id="shareentry7905"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry7905">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="7905" data-toggle="dropdown" title="Entry 7905" id="editbutton7905">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="7905" id="editoptions7905">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox7905" data-entry='7905'></div>
+
+</div><div class="entryboxwrapper" id="entryboxwrapper7811">
+<div class="entrybox thinborder" data-entry='7811' id="entrybox7811">
+
+<div class="clearfix">
+
+
+
+<p class="entrytext" id="entrytext7811"><span data-typeid='8' id='entrytype7811' data-entry='7811'><a class='bold' href='http://www.moviemistakes.com/film1299/factual'>Factual error</a>: </span>The lake that Jack told Rose he went ice fishing on when she was threatening to jump is Lake Wissota, a man-made lake in Wisconsin near Chippewa Falls (where Jack grew up). The lake was only filled with water in 1918 when a power company built a dam on the Chippewa River, six years after the Titanic sank.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar7811" data-entry="7811">
+<div class="btn-group titlevote" data-entry=7811 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry7811" data-entry="7811" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry7811" data-entry="7811" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class="btn btn-sm btn-light timecode faint4" data-title="<a href='http://www.moviemistakes.com/membership.php'>Members only</a>" data-content="<p class='center'><a href='http://www.moviemistakes.com/membership.php#free'>Regular membership is <strong style='color: red'>free</strong></a>, or <a class='bold' href='http://www.moviemistakes.com/membership.php#premium'>premium members</a> have no adverts, forum access, and more, for just $10 a year.</p>"><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='7811' data-spoken="Titanic" data-type="8" data-media="film" id="shareentry7811"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry7811">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="7811" data-toggle="dropdown" title="Entry 7811" id="editbutton7811">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="7811" id="editoptions7811">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox7811" data-entry='7811'></div>
+
+</div><div class="entryboxwrapper" id="entryboxwrapper9458">
+<div class="entrybox thinborder" data-entry='9458' id="entrybox9458">
+
+<div class="clearfix">
+
+<a class="entrythumb thumbnail" href="http://www.moviemistakes.com/picture9458" id="entrythumb9458"><img src="/images/mistakegrabs/thumbnails/9458.jpg" class="img-responsive" alt='Titanic mistake picture'></a>
+
+<p class="entrytext" id="entrytext9458"><span data-typeid='15' id='entrytype9458' data-entry='9458'><a class='bold' href='http://www.moviemistakes.com/film1299/visiblecrew'>Visible crew/equipment</a>: </span>When Jack and Rose are running away from Cal to the first class dining room, if you look at the glass you can see a black screen, a light, and a crewman.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar9458" data-entry="9458">
+<div class="btn-group titlevote" data-entry=9458 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry9458" data-entry="9458" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry9458" data-entry="9458" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class="btn btn-sm btn-light timecode faint4" data-title="<a href='http://www.moviemistakes.com/membership.php'>Members only</a>" data-content="<p class='center'><a href='http://www.moviemistakes.com/membership.php#free'>Regular membership is <strong style='color: red'>free</strong></a>, or <a class='bold' href='http://www.moviemistakes.com/membership.php#premium'>premium members</a> have no adverts, forum access, and more, for just $10 a year.</p>"><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='9458' data-spoken="Titanic" data-type="15" data-media="film" id="shareentry9458"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry9458">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="9458" data-toggle="dropdown" title="Entry 9458" id="editbutton9458">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="9458" id="editoptions9458">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox9458" data-entry='9458'></div>
+
+</div><div class="entryboxwrapper" id="entryboxwrapper9350">
+<div class="entrybox thinborder" data-entry='9350' id="entrybox9350">
+
+<div class="clearfix">
+
+
+
+<p class="entrytext" id="entrytext9350"><span data-typeid='8' id='entrytype9350' data-entry='9350'><a class='bold' href='http://www.moviemistakes.com/film1299/factual'>Factual error</a>: </span>During the drawing scene, 'Jack' is using modern square sided, pressed charcoal with numbers embossed in the side of it. In 1912, Jack would have been using vine charcoal which was round and made of 'charcoalized' willow twigs.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar9350" data-entry="9350">
+<div class="btn-group titlevote" data-entry=9350 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry9350" data-entry="9350" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry9350" data-entry="9350" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class="btn btn-sm btn-light timecode faint4" data-title="<a href='http://www.moviemistakes.com/membership.php'>Members only</a>" data-content="<p class='center'><a href='http://www.moviemistakes.com/membership.php#free'>Regular membership is <strong style='color: red'>free</strong></a>, or <a class='bold' href='http://www.moviemistakes.com/membership.php#premium'>premium members</a> have no adverts, forum access, and more, for just $10 a year.</p>"><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='9350' data-spoken="Titanic" data-type="8" data-media="film" id="shareentry9350"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry9350">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="9350" data-toggle="dropdown" title="Entry 9350" id="editbutton9350">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="9350" id="editoptions9350">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox9350" data-entry='9350'></div>
+
+</div><div class="entryboxwrapper" id="entryboxwrapper7929">
+<div class="entrybox thinborder" data-entry='7929' id="entrybox7929">
+
+<div class="clearfix">
+
+
+
+<p class="entrytext" id="entrytext7929"><span data-typeid='4' id='entrytype7929' data-entry='7929'><a class='bold' href='http://www.moviemistakes.com/film1299/continuity'>Continuity mistake</a>: </span>When the ship is about to leave the dock, there's a lot of people saying goodbye to the ones that are going to leave the city. In the following shots, you can see Jack and his friends playing cards inside the pub. If you look through the window you won't see anyone. In the next shot, when Jack leaves the pub, the crowd is there again.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar7929" data-entry="7929">
+<div class="btn-group titlevote" data-entry=7929 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry7929" data-entry="7929" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry7929" data-entry="7929" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class="btn btn-sm btn-light timecode faint4" data-title="<a href='http://www.moviemistakes.com/membership.php'>Members only</a>" data-content="<p class='center'><a href='http://www.moviemistakes.com/membership.php#free'>Regular membership is <strong style='color: red'>free</strong></a>, or <a class='bold' href='http://www.moviemistakes.com/membership.php#premium'>premium members</a> have no adverts, forum access, and more, for just $10 a year.</p>"><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='7929' data-spoken="Titanic" data-type="4" data-media="film" id="shareentry7929"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry7929">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="7929" data-toggle="dropdown" title="Entry 7929" id="editbutton7929">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="7929" id="editoptions7929">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox7929" data-entry='7929'></div>
+
+</div><div class="entryboxwrapper" id="entryboxwrapper21168">
+<div class="entrybox thinborder" data-entry='21168' id="entrybox21168">
+
+<div class="clearfix">
+
+
+
+<p class="entrytext" id="entrytext21168"><span data-typeid='4' id='entrytype21168' data-entry='21168'><a class='bold' href='http://www.moviemistakes.com/film1299/continuity'>Continuity mistake</a>: </span>In the early scene where Jack wins the tickets for the voyage, his hand-rolled cigarette is thin and almost done just before he shows his hand. About five seconds later, the cigarette is fatter and longer.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar21168" data-entry="21168">
+<div class="btn-group titlevote" data-entry=21168 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry21168" data-entry="21168" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry21168" data-entry="21168" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class="btn btn-sm btn-light timecode faint4" data-title="<a href='http://www.moviemistakes.com/membership.php'>Members only</a>" data-content="<p class='center'><a href='http://www.moviemistakes.com/membership.php#free'>Regular membership is <strong style='color: red'>free</strong></a>, or <a class='bold' href='http://www.moviemistakes.com/membership.php#premium'>premium members</a> have no adverts, forum access, and more, for just $10 a year.</p>"><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='21168' data-spoken="Titanic" data-type="4" data-media="film" id="shareentry21168"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry21168">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="21168" data-toggle="dropdown" title="Entry 21168" id="editbutton21168">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="21168" id="editoptions21168">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox21168" data-entry='21168'></div>
+
+</div><div class="entryboxwrapper" id="entryboxwrapper17150">
+<div class="entrybox thinborder" data-entry='17150' id="entrybox17150">
+
+<div class="clearfix">
+
+
+
+<p class="entrytext" id="entrytext17150"><span data-typeid='4' id='entrytype17150' data-entry='17150'><a class='bold' href='http://www.moviemistakes.com/film1299/continuity'>Continuity mistake</a>: </span>Right before dinner, Jack and Rose are talking to the Astors, and Molly comes up from behind them, asking Jack to escort her to dinner as well. In the next scene, when Cal calls back to Rose, Molly is still walking up to them.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar17150" data-entry="17150">
+<div class="btn-group titlevote" data-entry=17150 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry17150" data-entry="17150" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry17150" data-entry="17150" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class="btn btn-sm btn-light timecode faint4" data-title="<a href='http://www.moviemistakes.com/membership.php'>Members only</a>" data-content="<p class='center'><a href='http://www.moviemistakes.com/membership.php#free'>Regular membership is <strong style='color: red'>free</strong></a>, or <a class='bold' href='http://www.moviemistakes.com/membership.php#premium'>premium members</a> have no adverts, forum access, and more, for just $10 a year.</p>"><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='17150' data-spoken="Titanic" data-type="4" data-media="film" id="shareentry17150"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry17150">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="17150" data-toggle="dropdown" title="Entry 17150" id="editbutton17150">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="17150" id="editoptions17150">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox17150" data-entry='17150'></div>
+
+</div><div class="entryboxwrapper" id="entryboxwrapper7855">
+<div class="entrybox thinborder" data-entry='7855' id="entrybox7855">
+
+<div class="clearfix">
+
+
+
+<p class="entrytext" id="entrytext7855"><span data-typeid='4' id='entrytype7855' data-entry='7855'><a class='bold' href='http://www.moviemistakes.com/film1299/continuity'>Continuity mistake</a>: </span>When Jack and Rose finally come aboard the top of the ship after she rescues him they ask the Colonel if there are any boats left and he says "up that way" The woman on the left, who looks kind of pathetic, is then later seen on the life boat with Molly Brown. (They show her face right after Molly says the line "its your men out there") The life boat with Molly Brown in it was sent out before the scene with the Colonel, meaning that she must have gone on the life boat, swam back onto the ship and then back onto the lifeboat.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar7855" data-entry="7855">
+<div class="btn-group titlevote" data-entry=7855 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry7855" data-entry="7855" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry7855" data-entry="7855" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class="btn btn-sm btn-light timecode faint4" data-title="<a href='http://www.moviemistakes.com/membership.php'>Members only</a>" data-content="<p class='center'><a href='http://www.moviemistakes.com/membership.php#free'>Regular membership is <strong style='color: red'>free</strong></a>, or <a class='bold' href='http://www.moviemistakes.com/membership.php#premium'>premium members</a> have no adverts, forum access, and more, for just $10 a year.</p>"><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='7855' data-spoken="Titanic" data-type="4" data-media="film" id="shareentry7855"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry7855">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="7855" data-toggle="dropdown" title="Entry 7855" id="editbutton7855">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="7855" id="editoptions7855">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox7855" data-entry='7855'></div>
+
+</div><div class="entryboxwrapper" id="entryboxwrapper14804">
+<div class="entrybox thinborder" data-entry='14804' id="entrybox14804">
+
+<div class="clearfix">
+
+
+
+<p class="entrytext" id="entrytext14804"><span data-typeid='4' id='entrytype14804' data-entry='14804'><a class='bold' href='http://www.moviemistakes.com/film1299/continuity'>Continuity mistake</a>: </span>When Jack is persuading Rose not to jump, Jack's shirt collar changes position several times, revealing his white t-shirt from a little to a lot.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar14804" data-entry="14804">
+<div class="btn-group titlevote" data-entry=14804 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry14804" data-entry="14804" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry14804" data-entry="14804" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class="btn btn-sm btn-light timecode faint4" data-title="<a href='http://www.moviemistakes.com/membership.php'>Members only</a>" data-content="<p class='center'><a href='http://www.moviemistakes.com/membership.php#free'>Regular membership is <strong style='color: red'>free</strong></a>, or <a class='bold' href='http://www.moviemistakes.com/membership.php#premium'>premium members</a> have no adverts, forum access, and more, for just $10 a year.</p>"><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='14804' data-spoken="Titanic" data-type="4" data-media="film" id="shareentry14804"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry14804">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="14804" data-toggle="dropdown" title="Entry 14804" id="editbutton14804">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="14804" id="editoptions14804">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox14804" data-entry='14804'></div>
+
+</div><div class="entryboxwrapper" id="entryboxwrapper38937">
+<div class="entrybox thinborder" data-entry='38937' id="entrybox38937">
+
+<div class="clearfix">
+
+
+
+<p class="entrytext" id="entrytext38937"><span data-typeid='8' id='entrytype38937' data-entry='38937'><a class='bold' href='http://www.moviemistakes.com/film1299/factual'>Factual error</a>: </span>When Rose, Jack and his friends come up to the boat deck while the ship is sinking, they ascend using the second class staircase and its exit on the deck. When Jack lets go of the door it is able to hit the side of the deckhouse. On the actual Titanic there were walls on the bow side of each door, which supported an overhang above the entrance. This is not included in many scenes in the movie.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar38937" data-entry="38937">
+<div class="btn-group titlevote" data-entry=38937 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry38937" data-entry="38937" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry38937" data-entry="38937" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class="btn btn-sm btn-light timecode faint4" data-title="<a href='http://www.moviemistakes.com/membership.php'>Members only</a>" data-content="<p class='center'><a href='http://www.moviemistakes.com/membership.php#free'>Regular membership is <strong style='color: red'>free</strong></a>, or <a class='bold' href='http://www.moviemistakes.com/membership.php#premium'>premium members</a> have no adverts, forum access, and more, for just $10 a year.</p>"><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='38937' data-spoken="Titanic" data-type="8" data-media="film" id="shareentry38937"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry38937">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="38937" data-toggle="dropdown" title="Entry 38937" id="editbutton38937">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="38937" id="editoptions38937">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox38937" data-entry='38937'></div>
+
+</div><div class="entryboxwrapper" id="entryboxwrapper7873">
+<div class="entrybox thinborder" data-entry='7873' id="entrybox7873">
+
+<div class="clearfix">
+
+<a class="entrythumb thumbnail" href="http://www.moviemistakes.com/picture7873" id="entrythumb7873"><img src="/images/mistakegrabs/thumbnails/7873.jpg" class="img-responsive" alt='Titanic mistake picture'></a>
+
+<p class="entrytext" id="entrytext7873"><span data-typeid='13' id='entrytype7873' data-entry='7873'><a class='bold' href='http://www.moviemistakes.com/film1299/revealing'>Revealing mistake</a>: </span>Many scenes used computer graphics to show the length of the ship. Passengers were also added walking on deck. The shadows for the passengers don't always match. Sometimes the angle of the sun distorts shadows. So the shadow of a woman's hat appears much larger than the actual one she's wearing, much like a person's shadow at sunset can appear to be that of a giant.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar7873" data-entry="7873">
+<div class="btn-group titlevote" data-entry=7873 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry7873" data-entry="7873" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry7873" data-entry="7873" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class="btn btn-sm btn-light timecode faint4" data-title="<a href='http://www.moviemistakes.com/membership.php'>Members only</a>" data-content="<p class='center'><a href='http://www.moviemistakes.com/membership.php#free'>Regular membership is <strong style='color: red'>free</strong></a>, or <a class='bold' href='http://www.moviemistakes.com/membership.php#premium'>premium members</a> have no adverts, forum access, and more, for just $10 a year.</p>"><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='7873' data-spoken="Titanic" data-type="13" data-media="film" id="shareentry7873"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry7873">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="7873" data-toggle="dropdown" title="Entry 7873" id="editbutton7873">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="7873" id="editoptions7873">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox7873" data-entry='7873'></div>
+
+</div><div class="entryboxwrapper" id="entryboxwrapper164989">
+<div class="entrybox thinborder" data-entry='164989' id="entrybox164989">
+
+<div class="clearfix">
+
+
+
+<p class="entrytext" id="entrytext164989"><span data-typeid='8' id='entrytype164989' data-entry='164989'><a class='bold' href='http://www.moviemistakes.com/film1299/factual'>Factual error</a>: </span>The hymn that they sing at the church service about "those in peril on the sea" has four verses. "Peril on the sea" was written in 1860 but the verses that have "protect them by Thy guarding hand" and "O Spirit whom the Father sent" were not written until 1937, and thus could not have been sung at the service.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar164989" data-entry="164989">
+<div class="btn-group titlevote" data-entry=164989 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry164989" data-entry="164989" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry164989" data-entry="164989" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class='btn btn-sm btn-light faketimecode faint4' data-entry=164989><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='164989' data-spoken="Titanic" data-type="8" data-media="film" id="shareentry164989"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry164989">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="164989" data-toggle="dropdown" title="Entry 164989" id="editbutton164989">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="164989" id="editoptions164989">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox164989" data-entry='164989'></div>
+
+</div><div class="entryboxwrapper" id="entryboxwrapper100757">
+<div class="entrybox thinborder" data-entry='100757' id="entrybox100757">
+
+<div class="clearfix">
+
+
+
+<p class="entrytext" id="entrytext100757"><span data-typeid='4' id='entrytype100757' data-entry='100757'><a class='bold' href='http://www.moviemistakes.com/film1299/continuity'>Continuity mistake</a>: </span>The steel deck fittings at the bow of the ship change shape. During the flying sequence, the fitting nearest Rose's right foot changes from a curvy shape to a flat angled shape.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar100757" data-entry="100757">
+<div class="btn-group titlevote" data-entry=100757 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry100757" data-entry="100757" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry100757" data-entry="100757" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class="btn btn-sm btn-light timecode faint4" data-title="<a href='http://www.moviemistakes.com/membership.php'>Members only</a>" data-content="<p class='center'><a href='http://www.moviemistakes.com/membership.php#free'>Regular membership is <strong style='color: red'>free</strong></a>, or <a class='bold' href='http://www.moviemistakes.com/membership.php#premium'>premium members</a> have no adverts, forum access, and more, for just $10 a year.</p>"><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='100757' data-spoken="Titanic" data-type="4" data-media="film" id="shareentry100757"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry100757">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="100757" data-toggle="dropdown" title="Entry 100757" id="editbutton100757">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="100757" id="editoptions100757">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox100757" data-entry='100757'></div>
+
+</div><div class="entryboxwrapper" id="entryboxwrapper41651">
+<div class="entrybox thinborder" data-entry='41651' id="entrybox41651">
+
+<div class="clearfix">
+
+
+
+<p class="entrytext" id="entrytext41651"><span data-typeid='4' id='entrytype41651' data-entry='41651'><a class='bold' href='http://www.moviemistakes.com/film1299/continuity'>Continuity mistake</a>: </span>Early into Rose's suicide attempt scene Jack's hair tucks itself behind his ears while his hands are in his pockets.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar41651" data-entry="41651">
+<div class="btn-group titlevote" data-entry=41651 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry41651" data-entry="41651" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry41651" data-entry="41651" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class="btn btn-sm btn-light timecode faint4" data-title="<a href='http://www.moviemistakes.com/membership.php'>Members only</a>" data-content="<p class='center'><a href='http://www.moviemistakes.com/membership.php#free'>Regular membership is <strong style='color: red'>free</strong></a>, or <a class='bold' href='http://www.moviemistakes.com/membership.php#premium'>premium members</a> have no adverts, forum access, and more, for just $10 a year.</p>"><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='41651' data-spoken="Titanic" data-type="4" data-media="film" id="shareentry41651"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry41651">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="41651" data-toggle="dropdown" title="Entry 41651" id="editbutton41651">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="41651" id="editoptions41651">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+<a href='http://www.moviemistakes.com/member331' class='btn btn-sm btn-light membercredit' id='membercredit41651'>NancyFelix</a>
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox41651" data-entry='41651'></div>
+
+</div><div class="entryboxwrapper" id="entryboxwrapper35597">
+<div class="entrybox thinborder" data-entry='35597' id="entrybox35597">
+
+<div class="clearfix">
+
+
+
+<p class="entrytext" id="entrytext35597"><span data-typeid='8' id='entrytype35597' data-entry='35597'><a class='bold' href='http://www.moviemistakes.com/film1299/factual'>Factual error</a>: </span>When Jack, and Rose were trying to escape the rising water they were trapped by a locked gate. Jack and the crowd pulled up a bolted down bench to use as a battering ram. When they pulled the bench loose they showed a close up of the wooden floor shattering. The wood was pressed fiber board which would never be used as ship decking, not to mention, pressed fiber board wasn't invented until decades later.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar35597" data-entry="35597">
+<div class="btn-group titlevote" data-entry=35597 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry35597" data-entry="35597" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry35597" data-entry="35597" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class="btn btn-sm btn-light timecode faint4" data-title="<a href='http://www.moviemistakes.com/membership.php'>Members only</a>" data-content="<p class='center'><a href='http://www.moviemistakes.com/membership.php#free'>Regular membership is <strong style='color: red'>free</strong></a>, or <a class='bold' href='http://www.moviemistakes.com/membership.php#premium'>premium members</a> have no adverts, forum access, and more, for just $10 a year.</p>"><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='35597' data-spoken="Titanic" data-type="8" data-media="film" id="shareentry35597"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry35597">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="35597" data-toggle="dropdown" title="Entry 35597" id="editbutton35597">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="35597" id="editoptions35597">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox35597" data-entry='35597'></div>
+
+</div><div class="entryboxwrapper" id="entryboxwrapper7830">
+<div class="entrybox thinborder" data-entry='7830' id="entrybox7830">
+
+<div class="clearfix">
+
+<a class="entrythumb thumbnail" href="http://www.moviemistakes.com/picture7830" id="entrythumb7830"><img src="/images/mistakegrabs/thumbnails/7830.jpg" class="img-responsive" alt='Titanic mistake picture'></a>
+
+<p class="entrytext" id="entrytext7830"><span data-typeid='13' id='entrytype7830' data-entry='7830'><a class='bold' href='http://www.moviemistakes.com/film1299/revealing'>Revealing mistake</a>: </span>When the ship tilts to a vertical position, you see people falling and hitting objects on the deck. In a close up of that, you can see that a black and bronze-topped capstan has wrinkles in it and bends when someone hits it.</p>
+
+
+
+</div>
+
+<div class="entrybar clearfix" id="entrybar7830" data-entry="7830">
+<div class="btn-group titlevote" data-entry=7830 data-type='entry'>
+<a class="votebutton btn btn-sm btn-success" id="voteupentry7830" data-entry="7830" data-vote="up" data-type="entry" title="Vote up this entry"><span class="glyphicon glyphicon-thumbs-up"></span></a>
+<a class="votebutton btn btn-sm btn-danger" id="votedownentry7830" data-entry="7830" data-vote="down" data-type="entry" title="Vote down this entry"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+</div>
+<a class="btn btn-sm btn-light timecode faint4" data-title="<a href='http://www.moviemistakes.com/membership.php'>Members only</a>" data-content="<p class='center'><a href='http://www.moviemistakes.com/membership.php#free'>Regular membership is <strong style='color: red'>free</strong></a>, or <a class='bold' href='http://www.moviemistakes.com/membership.php#premium'>premium members</a> have no adverts, forum access, and more, for just $10 a year.</p>"><span class='glyphicon glyphicon-time'></span></a>
+<button class='btn btn-sm btn-light faint4 shareentry' data-entry='7830' data-spoken="Titanic" data-type="13" data-media="film" id="shareentry7830"><span class='glyphicon glyphicon-share'></span> Share</button>
+<!--INFOLINKS_OFF-->
+<div class="btn-group editentry pull-right" id="editentry7830">
+  <button class="btn btn-sm dropdown-toggle editbutton btn-light faint4" data-entry="7830" data-toggle="dropdown" title="Entry 7830" id="editbutton7830">
+    <span class='editbuttontext'><span class='glyphicon glyphicon-cog'></span> Edit</span>
+  </button>
+  <ul class="dropdown-menu editoptions" data-entry="7830" id="editoptions7830">
+
+  </ul>
+</div> <!--editentry-->
+<!--INFOLINKS_ON-->
+
+
+</div> <!--entrybar-->
+
+</div> <!--entrybox-->
+
+<div class="overbox clearfix" id="overbox7830" data-entry='7830'></div>
+
+</div>
+
+<div class="rectangle" id="bottomrectangle">
+<style>
+.bottom-rectangle-responsive { width: 300px; height: 250px; }
+@media(min-width: 336px) { .bottom-rectangle-responsive { width: 336px; height: 280px; } }
+</style>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Bottom rectangle - responsive -->
+<ins class="adsbygoogle bottom-rectangle-responsive"
+     style="display:inline-block"
+     data-ad-client="ca-pub-7461570533331997"
+     data-ad-slot="1261316382"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+
+<div id='pagenumbers'>
+<ul class='pagination'>
+<li class='pagenumber active'><a class='pagelink pagevisible' href='http://www.moviemistakes.com/film1299' title='Page 1'>1</a></li>
+<li class='pagenumber'><a class='pagelink' href='http://www.moviemistakes.com/film1299/page2' id='page2' title='Page 2'>2</a></li>
+<li class='pagenumber'><a class='pagelink' href='http://www.moviemistakes.com/film1299/page3' id='page3' title='Page 3'>3</a></li>
+<li class='pagenumber'><a class='pagelink' href='http://www.moviemistakes.com/film1299/page4' id='page4' title='Page 4'>4</a></li>
+<li class='pagenumber'><a class='pagelink' href='http://www.moviemistakes.com/film1299/page5' id='page5' title='Page 5'>5</a></li>
+<li class='pagenumber'><a class='pagelink' href='http://www.moviemistakes.com/film1299/page6' id='page6' title='Page 6'>6</a></li>
+<li class='pagenumber'><a class='pagelink' href='http://www.moviemistakes.com/film1299/page7' id='page7' title='Page 7'>7</a></li>
+<li class='pagenumber'><a class='pagelink' href='http://www.moviemistakes.com/film1299/page8' id='page8' title='Page 8'>8</a></li>
+<li class='pagenumber'><a class='pagelink' href='http://www.moviemistakes.com/film1299/page9' id='page9' title='Page 9'>9</a></li>
+<li class='pagenumber'><a class='pagelink' href='http://www.moviemistakes.com/film1299/page10' id='page10' title='Page 10'>10</a></li>
+<li class='pagenumber'><a class='pagelink' href='http://www.moviemistakes.com/film1299/page11' id='page11' title='Page 11'>11</a></li>
+<li class='pagenumber'><a class='pagelink' href='http://www.moviemistakes.com/film1299/page12' id='page12' title='Page 12'>12</a></li>
+<li class='pagenumber'><a class='pagelink' href='http://www.moviemistakes.com/film1299/page13' id='page13' title='Page 13'>13</a></li>
+<li class='pagenumber'><a class='pagelink pagevisible' href='http://www.moviemistakes.com/film1299/page14' title='Page 14'>14</a></li><li><a class='pagelink pagevisible' href='http://www.moviemistakes.com/film1299/pageall' title='Single page'>All</a></li><li><a class='pagelink pagevisible' href='http://www.moviemistakes.com/film1299/page2' title='Next page' rel='next'>&raquo;</a></li>
+</ul>
+</div>
+<div class="backtotop">
+<button type="button" class="btn btn-default btn-sm">Top of page</button>
+</div>
+
+
+
+<div style="background: #FFFFFF; margin-bottom: 15px; overflow: hidden">
+<div class="colortitle">
+<h3 class='center'>You may like...</h3>
+</div>
+<div class='row' style="text-align: center"><div class='col-lg-2 col-md-2 col-sm-4 col-xs-4'>
+<div>
+<a href='http://www.moviemistakes.com/film10082'><img src='/images/titles/140/10082.jpg' class='img-responsive popularimage' alt="Frozen"></a>
+<p><a href='http://www.moviemistakes.com/film10082'>Frozen</a>
+</div>
+</div>
+<div class='col-lg-2 col-md-2 col-sm-4 col-xs-4'>
+<div>
+<a href='http://www.moviemistakes.com/film500'><img src='/images/titles/140/500.jpg' class='img-responsive popularimage' alt="Forrest Gump"></a>
+<p><a href='http://www.moviemistakes.com/film500'>Forrest Gump</a>
+</div>
+</div>
+<div class='col-lg-2 col-md-2 col-sm-4 col-xs-4'>
+<div>
+<a href='http://www.moviemistakes.com/film246'><img src='/images/titles/140/246.jpg' class='img-responsive popularimage' alt="Cast Away"></a>
+<p><a href='http://www.moviemistakes.com/film246'>Cast Away</a>
+</div>
+</div>
+<div class='clearfix visible-sm'></div><div class='clearfix visible-xs'></div><div class='col-lg-2 col-md-2 col-sm-4 col-xs-4'>
+<div>
+<a href='http://www.moviemistakes.com/tv2651'><img src='/images/titles/140/2651.jpg' class='img-responsive popularimage' alt="Friends"></a>
+<p><a href='http://www.moviemistakes.com/tv2651'>Friends</a>
+</div>
+</div>
+<div class='col-lg-2 col-md-2 col-sm-4 col-xs-4'>
+<div>
+<a href='http://www.moviemistakes.com/film621'><img src='/images/titles/140/621.jpg' class='img-responsive popularimage' alt="Home Alone"></a>
+<p><a href='http://www.moviemistakes.com/film621'>Home Alone</a>
+</div>
+</div>
+<div class='col-lg-2 col-md-2 col-sm-4 col-xs-4'>
+<div>
+<a href='http://www.moviemistakes.com/film1418'><img src='/images/titles/140/1418.jpg' class='img-responsive popularimage' alt="The Wizard of Oz"></a>
+<p><a href='http://www.moviemistakes.com/film1418'>The Wizard of Oz</a>
+</div>
+</div>
+<div class='clearfix visible-md'></div><div class='clearfix visible-sm'></div><div class='clearfix visible-xs'></div></div> <!--row-->
+
+</div> <!--box-->
+
+
+
+
+
+
+
+
+
+</div> <!--#content-->
+
+<!--INFOLINKS_OFF-->
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+<div id="tower">
+
+
+<form role="search" method="get" action="/search.php" class="searchalltitles clearfix">
+<input class="form-control" type="search" name="text" placeholder="Search all titles" style="margin-bottom: 2px">
+<button type="submit" class="pull-left btn btn-sm btn-success" style="margin: 0px 0px 5px 1px; width: 49%"><span class="glyphicon glyphicon-search"></span> Search</button>
+<a href="http://www.moviemistakes.com/search.php" class="pull-right btn btn-sm btn-info" style="margin: 0px 1px 5px 0px; width: 49%">Browse all</a>
+</form>
+
+<div style="text-align: right; width: 80%" class="centralise clearfix">
+<div class="pull-left"><fb:like layout="box_count" data-href="http://www.facebook.com/moviemistakes" show_faces="false" width="55"></fb:like></div>
+<a href="https://twitter.com/moviemistakes" class="twitter-follow-button" data-show-count="false" data-align: right data-size="large" data-show-screen-name="false">Follow @moviemistakes</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+<div style="height: 10px"></div><!--spacing-->
+
+<div class="g-plusone" data-size="small"></div>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+</div>
+
+<div id='towerresults'></div>
+
+<a href='http://www.moviemistakes.com/film1299/submit' class='btn btn-danger btn-sm' style='margin: 3px 0px'>Submit something</a>
+
+<div class="colortitle">
+<h4>Share</h4>
+</div>
+<div id="towershare">
+<div class='center'><button type="button" class='btn btn-default btn-sm facebookshare sharebutton' data-link='http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.moviemistakes.com%2Ffilm1299'><img src='/images/facebook.png' alt='Share to Facebook'></button><button type="button" class='twittershare btn btn-default btn-sm sharebutton' data-link="https://twitter.com/share?url=http%3A%2F%2Fwww.moviemistakes.com%2Ffilm1299&amp;via=moviemistakes&amp;text=Titanic+movie+mistakes%2C+goofs+and+bloopers:"><img src='/images/twitter.png' alt='Share to Twitter'></button><a class='btn btn-sm btn-default sharebutton' href='http://www.reddit.com/submit?url=http%3A%2F%2Fwww.moviemistakes.com%2Ffilm1299&amp;title=Titanic+movie+mistakes%2C+goofs+and+bloopers' target='_blank'><img src='/images/reddit.png' alt='Share to Reddit'></a><a class='btn btn-sm btn-default sharebutton' href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.moviemistakes.com%2Ffilm1299&amp;name=Titanic+movie+mistakes%2C+goofs+and+bloopers&amp;description=Titanic+movie+mistakes%2C+goofs+and+bloopers" target="_blank"><img src='/images/tumblr.png' alt='Share to Tumblr'></a><a class='btn btn-sm btn-default sharebutton' href="https://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.moviemistakes.com%2Ffilm1299" target="_blank"><img src='/images/stumbleupon.png' alt='Share to Stumbleupon'></a><a class='btn btn-sm btn-default sharebutton' href='https://plus.google.com/share?url=http%3A%2F%2Fwww.moviemistakes.com%2Ffilm1299' target='_blank'><img src='/images/googleplus.png' alt='Share to Google+'></a></div>
+</div>
+
+<div>
+<a class="btn btn-xs btn-dark" href="http://www.moviemistakes.com/login.php" style="margin: 3px 0px">Log in</a>
+<a class="btn btn-xs btn-dark" href="http://www.moviemistakes.com/membership.php" style="margin: 3px 0px">Register</a>
+</div>
+<button class="btn btn-xs btn-dark facebooklogin" style="padding: 2px 4px 2px 2px; margin: 3px 0px"><img src='/images/facebook.png' style="height: 15px" alt="Facebook logo"><span style='padding: 5px 0px'> Log in with Facebook</span></button>
+
+<div class='darkcolortitle'><h4><a href='http://www.moviemistakes.com/letterlistt'>Back to T</a></h4></div>
+<div class="colortitle" style="margin-top: 5px">
+<h4>You may like...</h4>
+</div>
+<p class='related'><a href='http://www.moviemistakes.com/film10082'>Frozen</a></p><p class='related'><a href='http://www.moviemistakes.com/film500'>Forrest Gump</a></p><p class='related'><a href='http://www.moviemistakes.com/film246'>Cast Away</a></p><p class='related'><a href='http://www.moviemistakes.com/tv2651'>Friends</a></p><p class='related'><a href='http://www.moviemistakes.com/film621'>Home Alone</a></p><p class='related'><a href='http://www.moviemistakes.com/film1418'>The Wizard of Oz</a></p>
+<div id="titlesearchwrapper">
+<button type="button" class="btn btn-sm btn-info" id="searchthistitle">Search this title</button>
+<form role="search" id="searchtitleform" method="post" action="/film1299">
+<div class="input-group">
+<input class="form-control" type="search" name="textsearch" placeholder="Search this title">
+<span class="input-group-btn">
+<button class="btn btn-success" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+</span>
+</div>
+</form>
+</div>
+
+<div class="tower">
+<script type="text/javascript">
+  var ord = window.ord || Math.floor(Math.random() * 1e16);
+  document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N4403/adj/moviemistakes.com/ros;sect=ros;sz=160x600;ord=' + ord + '?"><\/script>');
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/N4403/jump/moviemistakes.com/ros;sect=ros;sz=160x600;ord=54e79bab94fb0?">
+<img src="http://ad.doubleclick.net/N4403/ad/moviemistakes.com/ros;sect=ros;sz=160x600;ord=54e79bab94fb0?" width="160" height="600" />
+</a>
+</noscript>
+</div>
+
+<div class="towerfollow">
+<div class="colortitle">
+<h4>Follow</h4>
+</div>
+<a href="http://www.facebook.com/moviemistakes" target="_blank" style="background-position: -162px 0px;"></a>
+<a href="http://twitter.com/moviemistakes" target="_blank" style="background-position: -162px 35px;"></a>
+<a href="https://plus.google.com/+moviemistakes" target="_blank" style="background-position: -424px 0px;"></a>
+<a href="http://moviemistakes.tumblr.com/" target="_blank" style="background-position: -293px 35px;"></a>
+<a href="http://pinterest.com/moviemistakes/" target="_blank" style="background-position: -293px 0px;"></a>
+<a href="http://www.portitle.com/identify?search=Titanic+1997" target="_blank" style="background-position: -424px 35px;"></a>
+</div>
+
+
+
+<div class="darkcolortitle">
+<h4>More...</h4>
+</div>
+<div class="towertitlecontent">
+<h4><a href="http://www.moviemistakes.com/film1299/quotes">Quotes</a></h4>
+<p>Rose: You have a gift, Jack. You do. You see people.<br />
+Jack: I see YOU.<br />
+Rose: And...?<br />
+Jack: You wouldn't have jumped.</p>
+<p><a href="http://www.moviemistakes.com/film1299/quotes">More...</a></p>
+</div><div class="towertitlecontent">
+<h4><a href="http://www.moviemistakes.com/film1299/pictures">Pictures</a></h4>
+<a href="http://www.moviemistakes.com/picture7814"><img src='/images/mistakegrabs/7814.jpg' class='center img-responsive' alt='Mistake screenshot'></a>
+<p><a href="http://www.moviemistakes.com/film1299/pictures">More...</a></p>
+</div><div class="towertitlecontent">
+<h4><a href="http://www.moviemistakes.com/film1299/trivia">Trivia</a></h4>
+<p>When Jack Dawson says, "Sit on the bed....I mean the couch," it says in the script "Sit on the couch." Leonardo DiCaprio (who played Jack) really made that mistake.</p>
+<p><a href="http://www.moviemistakes.com/film1299/trivia">More...</a></p>
+</div>
+
+<div class="towerblogs">
+<div class="colortitle">
+<h3><a href="/blog">Latest blog posts</a></h3>
+</div>
+<p><a href='http://www.moviemistakes.com/post315'>Star Wars vs Star Trek</a></p>
+<p><a href='http://www.moviemistakes.com/post314'>Fast & Furious 7 trailer</a></p>
+<p><a href='http://www.moviemistakes.com/post313'>Daredevil trailer...</a></p>
+<p><a href='http://www.moviemistakes.com/post312'>The perils of widescreening</a></p>
+<p><a href='http://www.moviemistakes.com/post311'>New Fantastic Four trailer!</a></p>
+
+</div>
+
+<div class="colortitle">
+<h4>Latest trailers</h4>
+</div>
+<div id="social_widget" style="margin-left: auto; margin-right: auto; width: 300px; height: 250px; position: relative; overflow: hidden; "></div>
+<script type="text/javascript" src="http://cdn.springboardplatform.com/storage/js/social_widget/sw.js" ></script>
+
+<script type="text/javascript">
+SbSocialWidget.init({
+	partnerId : 4043,
+	width : 300,
+	height : 250,
+	widgetId : 'mvmi004',
+	cmsPath : 'http://cms.springboardplatform.com'
+});</script>
+
+<div class="towerblogs">
+<div class="colortitle">
+<h4>Other great sites</h4>
+</div>
+<p><a href="http://bitsandpieces.us" target="_blank" rel="nofollow">Bits & Pieces</a></p>
+<p><a href="http://timesonline.typepad.com/blockbuster_buzz/" target="_blank" rel="nofollow">Blockbuster Buzz</a></p>
+<p><a href="http://canmag.com/" target="_blank" rel="nofollow">CanMag</a></p>
+<p><a href="http://thedailycolumn.blogspot.com/" target="_blank" rel="nofollow">The Daily Column</a></p>
+<p><a href="http://www.dailystab.com" target="_blank" rel="nofollow">Daily Stab</a></p>
+<p><a href="http://www.doubleviking.com/" target="_blank" rel="nofollow">Double Viking</a></p>
+<p><a href="http://ehowa.com/" target="_blank" rel="nofollow">EHOWA</a></p>
+<p><a href="http://filmdrunk.uproxx.com/" target="_blank">Film Drunk</a></p>
+<p><a href="http://www.filmofilia.com/" target="_blank">Filmofilia</a></p>
+<p><a href="http://www.ilovebacon.com" target="_blank" rel="nofollow">I Love Bacon</a></p>
+<p><a href="http://www.joblo.com" target="_blank" rel="nofollow">Joblo movie news</a></p>
+<p><a href="http://www.youtube.com/user/RallisP" target="_blank" rel="nofollow">Movie Buzz</a></p>
+<p><a href="http://www.themovietimeline.com" target="_blank">Movie timeline</a></p>
+<p><a href="http://www.othercrap.com/" target="_blank">Other crap</a></p>
+<p><a href="http://www.screenjunkies.com/" target="_blank" rel="nofollow">Screenjunkies</a></p>
+<p><a href="http://movies.sky.com/film-reviews" target="_blank" rel="nofollow">Sky movie reviews</a></p>
+<p><a href="http://www.somethingreallyfunny.com" target="_blank" rel="nofollow">Something Really Funny</a></p>
+<p><a href="http://tengossip.com" target="_blank" rel="nofollow">Tengossip</a></p>
+<p><a href="http://www.traileraddict.com/" target="_blank" rel="nofollow">Trailer Addict</a></p>
+<p><a href="http://unrealitymag.com" target="_blank" rel="nofollow">Unreality Magazine</a></p>
+<p><a href="http://www.zlistdeadlist.com" target="_blank">The Z List Dead List</a></p>
+</div>
+
+
+</div><!--#tower-->
+</div><!--towercolumn-->
+
+</div> <!--row-->
+
+<footer id="pagefooter">
+<p><a href="/contact.php" style="font-weight: bold">Contact moviemistakes.com</a> | <a href="/privacy" style="font-weight: bold">Privacy policy</a></p>
+<p style="font-size: 9pt">Design and text &copy; 1996 - 2015 Jon Sandys. All rights reserved.</p>
+<p style="font-size: 9pt">All images &copy; their respective owners.</p>
+</footer>
+
+</div> <!--container-->
+<!--INFOLINKS_ON-->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/script/jquery-1.11.0.min.js"><\/script>')</script>
+<script src="/bootstrap/js/bootstrap.min.js"></script>
+<!--[if IE 8]>
+<script type="text/javascript" src="/script/respond.min.js"></script>
+<![endif]-->
+<script src="/script/javascript.js"></script>
+
+<script>
+$(document).ready(function() {
+
+});
+</script>
+
+<script type="text/javascript">
+var infolinks_pid = 14093;
+var infolinks_wsid = 0;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+
+</body>
+</html>

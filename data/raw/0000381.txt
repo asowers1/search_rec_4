@@ -1,0 +1,2105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.apple.com/itms/" lang="en">
+
+
+  <head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="keywords" content="download CÃ©line Dion, music, songs, Pop, higher quality than mp3, iTunes" /><meta name="description" content="Preview and download top songs and albums by CÃ©line Dion on the iTunes Store. Songs by CÃ©line Dion start at just $0.69." /><meta name="platform-cache-id" content="8" />
+<link rel="canonical" href="https://itunes.apple.com/us/artist/celine-dion/id63729" />
+
+<title>iTunes - Music - CÃ©line Dion</title>
+
+
+
+
+
+
+<script>
+if (!window.its) {
+    window.its = {};
+}
+its.markupLoadStartTime = new Date().getTime();
+
+if (!window.onerror) window.onerror = function(message, url, lineNumber) {
+    if (!window._earlyOnerrorException) {
+        window._earlyOnerrorException = {message: message,
+                                         url: url,
+                                         lineNumber: lineNumber};
+    }
+};
+</script>
+
+
+<link charset="utf-8" rel="stylesheet" type="text/css" href="https://s.mzstatic.com/htmlResources/C72F/web-storefront-base.css" />
+<link charset="utf-8" rel="stylesheet" type="text/css" href="https://s.mzstatic.com/htmlResources/C72F/web-storefront-preview.css" />
+
+
+
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript" charset="utf-8" src="/htmlResources/C72F/frameworks-primaryinit01.js"></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript" charset="utf-8">its.serverData={"storePlatformData":{},"pageData":{},"constants":{"Urls":{"upgradeITunesUrl":"http://www.apple.com/itunes/download/","upgradeSafariUrl":"http://www.apple.com/safari/download/"},"MZMediaType":{"EBooks":{"id":11,"name":"EBooks"},"MobileSoftware":{"id":8,"name":"MobileSoftwareApplications"},"MacSoftware":{"id":12,"name":"DesktopApps"},"Music":{"id":1,"name":"Music"},"Audiobooks":{"id":3,"name":"Audiobooks"},"Podcasts":{"id":2,"name":"Podcasts"},"ClassicSoftware":{"id":7,"name":"iPodGames"},"MusicVideos":{"id":5,"name":"MusicVideos"},"TVShows":{"id":4,"name":"TVShows"},"iTunesU":{"id":10,"name":"iTunesU"},"Movies":{"id":6,"name":"Movies"},"Ringtones":{"id":9,"name":"Ringtones"}},"SFSortOrder":{"PlaylistName":{"id":9},"RecentBestSellers":{"id":18},"SeriesOrder":{"id":17},"CmcRecommended":{"id":10},"Popularity":{"id":3},"ArtistName":{"id":8},"Featured":{"id":1},"TopRated":{"id":5},"Duration":{"id":11},"ReleaseDate":{"id":2},"TrackNumber":{"id":13},"Name":{"id":0},"AllTimeBestSellers":{"id":14},"ExpirationDate":{"id":6},"Price":{"id":7},"MostRecent":{"id":16},"PurchaseDate":{"id":4},"DateAdded":{"id":15},"DiscNumber":{"id":12}},"SFEntityType":{"Artist":{"id":1},"Playlist":{"id":4},"TopContents":{"id":7},"MultiRoom":{"id":3},"Search":{"id":6},"WeMix":{"id":8},"Cmc":{"id":2},"Work":{"id":10},"Wishlist":{"id":9},"TopAuthors":{"id":12},"Room":{"id":5},"TheyMix":{"id":11}},"countryCode":"usa","languageCode":"en","SFCustomComponentCountryCode":"usa","IXDisplayableKind":{"Artist":{"id":20,"cssClasses":[],"name":"artist"},"MobileSoftware":{"id":11,"cssClasses":["application"],"name":"iosSoftware","mtId":"8"},"Album":{"id":2,"cssClasses":["album","music"],"name":"album","mtId":"1"},"ShortFilm":{"id":8,"cssClasses":["short-film","movie","video"],"name":"shortFilm","mtId":"6"},"PodcastEpisode":{"id":15,"cssClasses":["podcast-episode"],"name":"podcastEpisode","mtId":"2"},"ApplePubEBook":{"id":36,"cssClasses":["ebook"],"name":"ibook","mtId":"11"},"Song":{"id":1,"cssClasses":["song","music"],"name":"song","mtId":"1"},"MovieBundle":{"id":24,"cssClasses":["bundle","movie","video"],"name":"movieBundle","mtId":"6"},"RingtoneAlbum":{"id":22,"cssClasses":[],"name":"ringtoneAlbum","mtId":"9"},"Book":{"id":3,"cssClasses":["audiobook"],"name":"book","mtId":"3"},"ToneAlbum":{"id":32,"cssClasses":[],"name":"toneAlbum","mtId":"9"},"TVEpisode":{"id":6,"cssClasses":["tv-episode","tv","video"],"name":"tvEpisode","mtId":"4"},"TVSeason":{"id":7,"cssClasses":["tv-season","tv","video"],"name":"tvSeason","mtId":"4"},"Course":{"id":34,"cssClasses":["course","itunes-u"],"name":"course","mtId":"10"},"ClassicSoftwarePackage":{"id":18,"cssClasses":["ipod-game"],"name":"gamePackage","mtId":"7"},"Movie":{"id":9,"cssClasses":["movie","video"],"name":"movie","mtId":"6"},"Booklet":{"id":13,"cssClasses":["booklet","music"],"name":"booklet","mtId":"1"},"SocialArtist":{"id":28,"cssClasses":[],"name":"socialArtist"},"EBook":{"id":25,"cssClasses":["ebook"],"name":"epubBook","mtId":"11"},"MacSoftware":{"id":30,"cssClasses":["application","mac-application"],"name":"desktopApp","mtId":"12"},"MusicVideo":{"id":5,"cssClasses":["music-video","music","video"],"name":"musicVideo","mtId":"5"},"Ringtone":{"id":21,"cssClasses":[],"name":"ringtone","mtId":"9"},"Podcast":{"id":4,"cssClasses":["podcast"],"name":"podcast","mtId":"2"},"Concert":{"id":26,"cssClasses":[],"name":"concert","mtId":"1"},"ApplePubTextbook":{"id":37,"cssClasses":["ebook"],"name":"ibookTextbook","mtId":"13"},"SoftwareAddOn":{"id":16,"cssClasses":["software-add-on","application"],"name":"softwareAddOn","mtId":"8"},"Tone":{"id":31,"cssClasses":[],"name":"tone","mtId":"9"},"WeMix":{"id":19,"cssClasses":["wemix","music"],"name":"itunesMix","mtId":"1"},"SocialPerson":{"id":27,"cssClasses":[],"name":"socialPerson"},"ClassicSoftware":{"id":10,"cssClasses":["ipod-game"],"name":"ipodGame","mtId":"7"},"MetaEBook":{"id":35,"cssClasses":["ebook"],"name":"metaEbook","mtId":"13"},"iTunesPass":{"id":12,"cssClasses":["itunes-pass","album","music"],"name":"itunesPass","mtId":"1"},"Mix":{"id":14,"cssClasses":["mix","music"],"name":"mix","mtId":"1"},"TheyMix":{"id":33,"cssClasses":[],"name":"thirdPartyMix"}},"AddToWishlistResult":{"ItemIsFree":{"id":6},"ListFull":{"id":3},"SomeContentAlreadyOwnedButUnfulfilled":{"id":5},"SomeContentAlreadyInWishlist":{"id":1},"Success":{"id":0},"Failure":{"id":2},"SomeContentAlreadyOwned":{"id":4}},"getEmailUrl":"https://itunes.apple.com/WebObjects/MZStore.woa/wa/generateEmail?cc=us"},"properties":{"clientStatsLoadTimeGroup":"4006","MZHtmlResourcesUtil.allowDeferJsLoad":true,"countryCodeIso2a":"us","currencyFormat":"$#,##0.00;$#,##0.00;-$#,##0.00","currencySymbol":"$","currencyThousandSeparator":",","currencyDecimalSeparator":".","MZFeatureEnabler.isCadillacEnabled":true,"MZFinance.VolumeBuyQuantityUpperLimit":25000,"iTunesUEnrollLink":"","ITSServerEnvironment":"prod","ITSServerInstance":"2126198","ITSResourceRevNum":"C72F","resourceUrlPrefix":"https://s.mzstatic.com","ITSLogger.ServerReportingProtocol":"https","ITSLogger.ServerReportingDomain":"metrics.mzstatic.com","ITSLogger.ServerReportingApp":"MZUserXP","ITSLogger.RecordStatsAction":"recordStats","ITSLogger.SenderName":"ITSClient","ITSLogger.mirrorToServerByDefaultOnErrors":true,"DynaLoader.allowDynaLoading":true,"itsLoggerQueueProcessingInterval":10000,"cobaltBundleId":"com.apple.itunesu","getCobaltAppLink":"https://itunes.apple.com/us/app/id490217893","cobaltLearnMore":"https://itunes.apple.com/us/learn-more?about=iTunesUUpgradePage&type=2","isCobaltEnabled":true,"isCobaltJavascriptRedirectEnabled":true,"isCobaltUpsellPageEnabled":true,"isRadioHistoryEnabled":true,"personalizedButtonsEnabled":true,"SF6.Personalization.isCMAEnabled":true,"SF6.Personalization.isCMSEnabled":true,"SFJ.isNFAEnabledInStorefront":true,"SFJ.isRecommendationsSwooshEnabledInStorefront":true,"SF6.StorePlatform.whitelistParams":["caller","dsid","id","p"],"vendLastSupportedVersionIfAvailable":true,"vendLastSupportedVersionMacOs":true,"isBookGiftingEnabled":true,"metrics":{"metricsUrl":"https://xp.apple.com/report","compoundSeparator":"_","tokenSeparator":"|","postFrequency":60000,"blacklistedFields":["capacitySystem","capacitySystemAvailable","capacityDisk","capacityData","capacityDataAvailable"],"fieldsMap":{"single":{"targetId":["id","adamId","contentId","type","fcId","station-hash"]},"custom":{"location":["id","adamId","dataSetId","name","fcKind","kindIds","type","station-hash","core-seed-name"],"impressions":["id","adamId","station-hash"]},"cookies":["itcCt"],"multi":{}},"metricsBase":{"storeFrontHeader":"","language":"1","platformId":"8","platformName":"ItunesPreview","storeFront":"143441","environmentDataCenter":"ST11"}},"MZStore.shouldAttemptToEvaluateXpathSecondTime":true,"MZStore.shouldCacheElementTypeProtoObjects":true}}</script>
+<script type="text/javascript" charset="utf-8">
+if (!window.iTSLocalization) { iTSLocalization = {}; }
+iTSLocalization._strings = {"Js.MyAlerts.GeniusActivationNeeded.Button":"Go to Genius", "Js.Pagination.NextPage":"Next Page", "Js.Wishlist.RemoveTooltip":"Remove from Wish List", "Js.CNConnections.RequestSent":"Request sent", "Js.Showcase.Next":"Next Item", "Js.CNConnections.Dialog.GetStarted":"Get Started", "Js.ReportAConcern.SigninMessage":"Enter your Apple ID and password, then click Sign In.", "CNConnections.Upload.UploadErrorMessage":"Sorry, there was an error during upload.", "Js.InlineReview.SigninMessage":"Enter your Apple ID and password, then click Sign In.", "Js.TextTruncation.More":"More", "Js.QuickView.Unavailable.Title":"Quick View is currently unavailable for this item.", "Less":"Less", "Js.MyAlerts.GeniusActivationNeeded.Message":"This requires Genius.", "CNConnections.Dialog.Post.Review.SignIn.Title":"Sign in to post.", "Js.ManageArtistAlerts.CheckAll.Artists":"Check All Artists", "CNConnections.Upload.UploadErrorHeading":"There is a Problem With Your Upload", "Js.TellAFriend.SigninMessage":"Enter your Apple ID and password, then click Sign In.", "CNConnections.Dialog.StopFollowing.Message":"CNConnections.Dialog.StopFollowing.Message", "CNConnections.Dialog.OptIn.Title":"Ping Will No Longer Be Available as of September 30", "CNConnections.Dialog.StopFollowing.Title":"Are you sure you want to stop following @@fullName@@?", "Js.InlineReview.SigninTitle":"Sign in to write a review.", "Js.InlineRating.SigninMessage":"Sign in to continue.", "Js.MyAlerts.GeniusActivationNeeded.Explanation":"Alerts based on your library content will not be enabled until you have turned on Genius. To learn more, click Go to Genius.", "_thousandsSeparator":",", "InAppPurchases":"In-App Purchases", 
+"Js.CNConnections.LoginRequired.Message":"This requires Ping. Ping will no longer be available as of September 30, and we are not accepting new members. If you are already a Ping member, sign in below to continue.", "Js.Pagination.PreviousPage":"Previous Page", "Js.TellAFriend.SigninTitle":"Sign in to tell a friend.", "Js.InlineReview.RateThis":"Rate this", "Js.InlineReview.5":"it's great", "Js.InlineReview.4":"it's good", "Js.Pagination.Back":"Back", "Js.InlineReview.3":"it's ok", "CNConnections.Dialog.PrivateUser.IllegalAction.Message":"If you would like to perform this action, please change your privacy settings.", "Js.InlineReview.2":"don't like it", "Js.InlineReview.1":"hate it", "Js.InlinePreview.StopPreview":"Stop preview of @@title@@", "Js.QuickView.Unavailable.Text":"Please try again later.", "Js.MyAlerts.ConfirmEmailSignUp.Explanation":"You can change this preference at any time from your My Alerts page.", "Js.CNConnections.Dialog.Cancel":"Cancel", "Js.CNConnections.PeoplePopupMore":"and @@count@@ other@@s@@...", "CNConnections.Dialog.OptIn.Message":"Liking a review requires Ping, and we are no longer accepting new members.", "Js.CNConnections.Confirmed":"Confirmed", "Js.CNConnections.UserReview.YouLiked":"You Liked", "Js.CreateAccount":"Create Apple ID", "Js.CNConnections.OptInRequired.Title":"Ping", "Js.Pagination.Next":"Next", "Js.ManageArtistAlerts.CheckAll.Actors":"Check All Actors", "Js.ManageArtistAlerts.CheckAll":"Check All", "Js.ReportAConcern.SigninTitle":"Sign in to report a concern.", "Js.MyAlerts.CancelEmailSignUp.Explanation":"You can change this preference at any time from your My Alerts page.", "CNConnections.Dialog.PrivateUser.LeakyAction.Message":"This action will make your profile photo and name visible to others.", "Js.TextLimit.Remaining":"@@count@@ characters remaining", "More":"More", "CNConnections.Dialog.PrivateUser.LeakyAction.Title":"Are you sure you want to perform this action?", "Js.Pagination.PageNumberTitle":"page @@num@@", "Js.Pagination.DisabledButtonText":"disabled @@button_text@@", "Js.MyAlerts.CancelEmailSignUp.Message":"Are you sure you want to stop receiving email alerts?", "JS.errors.requiredLite":"Please fill in all required fields.", "CNConnections.Dialog.Post.Review.SignIn.Message":"Enter your Apple ID or AOL screen name and your password, then click Sign In.", "Js.InlineReview.Thanks":"Thanks!", "Js.InlineReview.Error":"Error", "CNConnections.Dialog.Like.Review.SignIn.Message":"Enter your Apple ID or AOL screen name and your password, then click Sign In.", "Js.ManageArtistAlerts.UncheckAll.Artists":"Uncheck All Artists", "Js.List.Item":"item", "Js.iTunesStoreError.Explanation":"There was an error in the iTunes Store. Please try again later.  (@@errorNum@@)", "Js.InlineReview.ClickToRate":"Click to rate", "CNConnections.Dialog.PrivateUser.IllegalAction.Title":"Private users may not perform this action.", "Js.InlineRating.SigninTitle":"Sign in to rate this item.", "Js.MyAlerts.ConfirmEmailSignUp.Message":"Are you sure you want to receive email alerts?", "Js.ManageArtistAlerts.UncheckAll.Actors":"Uncheck All Actors", "CNConnections.Dialog.OptIn.ButtonSubmit":"Learn More", "_decimalSeparator":".", "CNConnections.Dialog.OptIn.ButtonCancel":"Cancel", 
+"Js.CNConnections.OptInRequired.Message":"This requires Ping. Ping will no longer be available as of September 30, and we are not accepting new members. If you are already a Ping member, sign in below to continue.", "Js.CNConnections.LoginRequired.Title":"Sign in to access Ping.", "CNConnections.Dialog.OptIn.ButtonSignIn":"Sign In", "Js.Pagination.PageNumber":"Page @@num@@", "Js.Search.HintsTitle":"Suggestions", "Js.InlinePreview.PlayPreview":"Play preview of @@title@@", "CNConnections.Dialog.Like.Review.SignIn.Title":"Sign in to like a review.", "Js.ManageArtistAlerts.UncheckAll":"Uncheck All", "Js.iTunesStoreError.Message":"We could not complete your request.", "CNConnections.Upload.MaxPhotosErrorMessage":"You can have no more than 20 photos in one post."}
+</script>
+
+<script type="text/javascript" charset="utf-8" src="/htmlResources/C72F/web-storefront-base.js"></script>
+<script type="text/javascript" charset="utf-8" src="/htmlResources/C72F/web-storefront-preview.js"></script>
+<script type="text/javascript" charset="utf-8" src="/htmlResources/C72F/web-storefront-previewRegionSensitive.js"></script>
+
+
+<link charset="utf-8" href="https://www.apple.com/ac/globalheader/1.0/styles/globalheader.css" id="globalheader-stylesheet" rel="stylesheet" type="text/css" />
+
+
+
+
+
+</head>
+ 
+  <body onload="detectAndOpenItunes();" class="geo-us lang-en-us lang-en">
+  <script type="text/javascript">
+      checkIfAskPermissionApprovalSheet();
+  </script>
+  
+    
+    <script language ="JavaScript" type="text/javascript">
+      ITSMediaPlayer.insertMediaPlayer();
+    </script>
+  
+
+  
+  <nav id="globalheader" class="globalheader gh-selected-tab-itunes" role="navigation" aria-label="Global Navigation" data-hires="false" data-analytics-region="global nav" lang="en-us"><div id="gh-content" class="gh-content">
+		<ul class="gh-menu">
+<li id="gh-menu-icon-toggle" class="gh-menu-icon gh-menu-icon-toggle"><button id="gh-svg-icons" class="gh-svg-wrapper"><span class="gh-text-replace">Menu</span></button></li>
+			<li id="gh-menu-icon-home" class="gh-menu-icon gh-menu-icon-home"><a href="http://www.apple.com/"><span class="gh-text-replace">Apple</span></a></li>
+		</ul>
+<!--/gh-menu--><div class="gh-nav">
+			<div class="gh-nav-view">
+				<ul class="gh-nav-list">
+<li class="gh-tab gh-tab-apple"><a class="gh-tab-link" href="http://www.apple.com/"><span class="gh-tab-inner"><span class="gh-text-replace">Apple</span></span></a></li>
+					<li class="gh-tab gh-tab-store"><a class="gh-tab-link" href="http://store.apple.com/us"><span class="gh-tab-inner"><span class="gh-text-replace">Store</span></span></a></li>
+					<li class="gh-tab gh-tab-mac"><a class="gh-tab-link" href="http://www.apple.com/mac/"><span class="gh-tab-inner"><span class="gh-text-replace">Mac</span></span></a></li>
+					<li class="gh-tab gh-tab-iphone"><a class="gh-tab-link" href="http://www.apple.com/iphone/"><span class="gh-tab-inner"><span class="gh-text-replace">iPhone</span></span></a></li>
+					<li class="gh-tab gh-tab-watch"><a class="gh-tab-link" href="http://www.apple.com/watch/"><span class="gh-tab-inner"><span class="gh-text-replace">Watch</span></span></a></li>
+					<li class="gh-tab gh-tab-ipad"><a class="gh-tab-link" href="http://www.apple.com/ipad/"><span class="gh-tab-inner"><span class="gh-text-replace">iPad</span></span></a></li>
+					<li class="gh-tab gh-tab-ipod"><a class="gh-tab-link" href="http://www.apple.com/ipod/"><span class="gh-tab-inner"><span class="gh-text-replace">iPod</span></span></a></li>
+					<li class="gh-tab gh-tab-itunes"><a class="gh-tab-link" href="http://www.apple.com/itunes/"><span class="gh-tab-inner"><span class="gh-text-replace">iTunes</span></span></a></li>
+					<li class="gh-tab gh-tab-support"><a class="gh-tab-link" href="http://www.apple.com/support/"><span class="gh-tab-inner"><span class="gh-text-replace">Support</span></span></a></li>
+					<li id="gh-tab-search" class="gh-tab gh-tab-search">
+						<div id="gh-search" class="gh-search" role="search">
+							<form action="/search/" method="post" class="gh-search-form" id="gh-search-form" data-search-recommended-results='{"url":"https://www.apple.com/global/nav/scripts/shortcuts.php","requestName":"recommendedResults","queryName":"q","dataType":"xml"}' data-search-suggested-searches='{"url":"https://www.apple.com/search/instant/getSuggestions","requestName":"suggestedSearches","queryName":"query","queryParams":{"model":"marcom_en_US","locale":"en_US"},"dataType":"json"}'>
+								<div class="gh-search-input-wrapper">
+									<label for="gh-search-input" class="gh-text-replace">Search apple.com</label>
+									<input type="text" name="q" id="gh-search-input" class="gh-search-input" placeholder="Search apple.com">
+</div>
+								<button disabled type="submit" id="gh-search-submit" class="gh-search-submit gh-search-magnify"><span class="gh-text-replace">Search apple.com</span></button>
+								<button disabled type="reset" id="gh-search-reset" class="gh-search-reset"><span class="gh-text-replace">Reset</span></button>
+							</form>
+						</div>
+						<a class="gh-search-magnify" href="http://www.apple.com/search/"><span class="gh-text-replace">Search apple.com</span></a>
+					</li>
+				</ul>
+</div>
+		</div>
+<!--/gh-nav-->
+	</div>
+</nav><script src="https://www.apple.com/ac/globalheader/1.0/scripts/globalheader.js" type="text/javascript" charset="utf-8"></script><div id="productheader"><div class="localnav" data-analytics-region="product nav"><h2><img src="https://s.mzstatic.com/images/web/itunes_preview/itunespreview_en@2x.png" alt="iTunes" height="32" width="263"></h2><ul class="localnav-links"><li><a href="http://www.apple.com/itunes/overview/" class="localnav-link">Overview</a></li><li><a href="http://www.apple.com/itunes/music/" class="localnav-link">Music</a></li><li><a href="http://www.apple.com/itunes/video/" class="localnav-link">Video</a></li><li><a href="http://www.apple.com/itunes/charts/" class="localnav-link">Charts</a></li></ul></div></div>
+
+  <div id="main">
+    <div id="itunes-detector">
+  <div id="launching-itunes">
+
+    <div id="status">
+      <div class="opening-itunes" id="loadingItunes"><span>Opening the iTunes Store.</span><span>If iTunes doesn't open, click the iTunes application icon in your Dock or on your Windows desktop.</span><span class="spinner">Progress Indicator</span></div>
+      <div class="opening-itunes" id="loadingIbooks"><span>Opening the iBooks Store.</span><span>If iBooks doesn't open, click the iBooks app in your Dock.</span><span class="spinner">Progress Indicator</span></div>
+  </div>
+</div>
+
+  <div id="itunes-client-required">
+    <div class="callout">
+      <div class="left">iTunes</div>
+
+      <h2>iTunes is the world's easiest way to organize and add to your digital media collection.</h2>
+
+      <p preview-capable-text="We are unable to find iTunes on your computer. To buy and download music by [?], get iTunes now." class="intro has-preview-capable-text">
+        We are unable to find iTunes on your computer. To preview and buy music by [?], download iTunes now.          
+      </p>
+
+      <div class="download">
+        <p>Already have iTunes? Click I Have iTunes to open it now.</p>
+        <a class="i-have-itunes" onclick="its.detect.userOverrideSetItunesInstalled(); its.detect.openItunes(); return true;" href="#">
+          <img alt="I Have iTunes" src="/images/web/ihaveitunes.png" />
+        </a>
+        <a href="#" onclick="javascript:window.location='http://www.apple.com/itunes/affiliates/download/?id=63729'; return true;"><img alt="Free Download" src="/images/web/freedownload.png" /></a>
+      </div>
+
+      <a class="macpc" href="#">iTunes for Mac + PC</a>
+    </div>
+  </div>
+</div>
+
+
+    
+    
+    
+  
+
+    <div id="content">
+      
+      <div class="padder">
+
+        <div id="title" class="intro">
+          <h1>CÃ©line Dion</h1>
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/artist/celine-dion/id63729&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+          <p preview-capable-text="To preview a song, mouse over the title and click Play. Open iTunes to buy and download music." class="has-preview-capable-text">
+            To preview a song, mouse over the title and click Play. Open iTunes to buy and download music.          
+          </p>
+        </div>
+
+        <div class="center-stack">
+            <div id="biography" metrics-loc="Titledbox_Biography" class="biography">
+  
+    <h4>
+      
+      Biography
+    </h4>
+    
+  
+  
+  
+    <div more-text="More" will-truncate-max-height="72"><p class="extra">Rising from humble beginnings to become an international pop star selling more than 100 million albums worldwide, Celine Dion's career spanned '90s superstardom and her more diverse output in the 2000s and 2010s. Born in Charlemagne, Quebec, Celine Dion was the youngest in Adhemar and Therese Dion's family of 14 children. She was raised in a household filled with love for children and music, and her parents and siblings were important figures in the early development of her singing career. Celine began singing in her parents' piano bar when she was just five years old. By age 12, she had written one of her first songs, "Ce N'etait Qu'un RÃªve" (It Was Only a Dream), which she recorded with the help of her mother and brother and shipped to a manager named RenÃ© AngÃ©lil, whose name they found on the back of an album by Ginette Reno, a popular Francophone singer. After weeks with no response from AngÃ©lil, Celine's brother Michel phoned him and said, "I know you haven't listened to the tape, because if you had, you would've called right away." AngÃ©lil dug up the tape and called the family back the same day to set up a meeting with Celine. When the 12-year-old performed in his office in Montreal, AngÃ©lil cried and set in motion the process of making her a QuÃ©bÃ©cois, and later, an international, star. He mortgaged his house to pay for her first two albums, producing a local number one single. In 1983 she became the first Canadian to have a gold record in France and she won a gold medal at the Yamaha songwriting competition in Japan. Her worldwide reputation was in the making, but success in the United States was not yet forthcoming. </p><p class="extra">When she was 18, Dion saw Michael Jackson performing on television and told AngÃ©lil that she wanted to be a star like him. AngÃ©lil's response was to order her to take 18 months off to remake her image. Dion underwent a physical transformation, cutting her hair, plucking her eyebrows, and having her teeth capped to cover up the incisors that had caused a Quebec humor magazine to dub her "Canine Dion." She was also sent off to English school to polish the language that would help her to break into the American market. When she emerged from this process, she had made an amazing transformation from teen star to adult chanteuse. The payoff came almost immediately. Her 1990 breakthrough album, Unison, was released in the U.S. by Epic Records and produced several hit songs, but it was her duet with Peabo Bryson on the theme song of Disney's Beauty &amp; the Beast that was her true breakthrough. </p><p class="extra">"Beauty &amp; the Beast" reached number one on the pop charts and won both a Grammy and Academy award. The song was also featured on her second English album, 1992's Celine Dion, which launched another Top Ten American hit with "If You Asked Me To," while spawning two additional Top 40 singles, "Nothing Broken But My Heart" and "Love Can Move Mountains." During this time there were also important developments in Dion's personal life. In 1988, AngÃ©lil crossed the line from manager to romantic partner when he kissed Dion one night after a show in Dublin. Fearful that fans would find the 26-year difference in their ages unsettling, the couple kept their relationship a secret for several years. But their 1994 wedding in Montreal's Notre Dame Basilica was celebrated not only by the 250 invited guests, but by millions of fans worldwide.</p><p class="extra">One of the hardest-working stars in show business, Dion continued to record and perform on a schedule that would kill most people. She recorded six albums between 1992 and 1996, when her album Falling into You took her to a new level of stardom. The recording was a runaway hit, winning Grammys for both Album of the Year and Best Pop Album. Another honor arrived in 1996; she was asked to perform at the opening ceremonies of the Atlanta Olympics. Dion's longest tenure on the pop charts would come the following year, however, when she recorded "My Heart Will Go On," the theme song for James Cameron's blockbuster movie Titanic. "My Heart Will Go On" became omnipresent on the radio as Titanic fever swept the world, and when it was featured on her album Let's Talk About Love, it helped propel that recording to the top of the charts. By then, Dion had the power to gather a supporting cast of stars, and the album contained an amazing collection of artists, including Barbra Streisand, Luciano Pavarotti, and the Bee Gees. The album would win a host of awards and bring Dion a whole new world of fans.</p><p class="extra">Her appearance on VH1's Divas Live special with Aretha Franklin, Gloria Estefan, Mariah Carey, and Shania Twain proved popular as well and helped solidify Dion's position, not only among contemporary female pop singers but historical greats like Franklin. The continuing popularity of her recordings and live performances made her 1999 sabbatical seem like a tragedy to her fans, but Dion needed a break after more than a decade and a half at a breakneck pace. In 1999, her husband AngÃ©lil was diagnosed with throat cancer. While the disease responded well to treatment and went into remission, the illness was a wake-up call for Dion, who decided to put a new emphasis on her family life and announced a temporary retirement so that she could spend more time at home and have a child. After undergoing fertility treatments, she gave birth to a son in January 2001. The Collector's Series, Vol. 1 was released during Dion's hiatus; it featured many of her best-loved songs, as well as a Spanish-language version of "All by Myself."</p><p class="extra">Dion returned to the public eye in a big way in March 2002 with A New Day Has Come. The album debuted at number one in over 17 countries, and was accompanied by a full-scale media blitz. But Dion's greatest challenge was yet to come. Despite millions of albums sold, the adoration of fans worldwide, and the validation of her peers, Dion's success was still hampered by image problems that had dogged her since the days of "Canine Dion." While many Americans adored her, just as many snickered at her QuÃ©bÃ©cois heritage and the relative unorthodoxy of her marriage. There was also the issue of her relevancy to lucrative audiences existing outside of her pop vocal constituency. To combat these issues, Dion and her management made a series of bold moves that attempted to solidify her career and ensure its continuity as she entered her mid-thirties. </p><p class="extra">In early 2002, Dion announced a three-year, 600-show contract to appear five nights a week in an entertainment extravaganza at Caesar's Palace, Las Vegas, called A New Day. The production would take place in a custom-built, 4,000-seat theater and would feature Dion as the centerpiece of a multimedia program designed and orchestrated by Franco Dragone, the Belgian theater impresario behind the modern circus phenomenon Cirque du Soleil. The project united Dion, her label Sony Music, Dragone's production company Creations du Dragon, Caesar's parent Park Place Entertainment, and promoter Concerts West in a landmark multi-million-dollar alliance that hinged on Dion's ability to put fans in seats five nights a week for three years. In conjunction with the rollout of A New Day was an endorsement deal with German automaker DaimlerChrysler AG worth additional millions. The campaign placed Dion in a series of black-and-white advertisements promoting the stylish allure of Chrysler's line of upscale automobiles. </p><p class="extra">The performer also recorded a brand-new song to accompany the spots. Debuting in early 2003, the campaign dovetailed into the March release of One Heart, Dion's first album since 2001's A New Day Has Come, which in turn heralded the opening of A New Day on March 25, 2003. That live Las Vegas show was documented on the summer 2004 release New Day: Live in Las Vegas, which was followed a few months later by Miracle, a collection of family songs designed as a tandem book/CD project between Dion and photographer Anne Geddes. The two-CD compilation On Ne Change Pas appeared in 2005, featuring her most popular French-language songs and a new collaboration with the operatic pop vocal foursome Il Divo, "I Believe in You (Je Crois en Toi)." A new French-language album, D'Elles, arrived in May 2007 and debuted at the top of the Canadian album chart. In November of that same year, Dion released the English-language Taking Chances and announced a tour of South Africa and Europe scheduled for 2008. She released the CD/DVD Taking Chances World Tour: The Concert, as well as the documentary DVD Celine: Through the Eyes of the World. A new French album, Sans Attendre, was released in 2012 and, the following year, her English-speaking fans' six-year wait was rewarded with the announcement of the album Loved Me Back to Life. Heralded by its hip-hop-inflected title track single, the album, released in November, featured duets with Ne-Yo and Stevie Wonder alongside a cover of Daniel Merriweather's "Water and a Flame." </p></div>
+  
+  
+</div>
+<div metrics-loc="Titledbox_Top Albums" class="top-albums">
+  
+    <h3>
+      
+      Top Albums
+    </h3>
+    
+  
+  
+  
+    
+<div metrics-loc="Swoosh_" rows="4" class="swoosh lockup-container album music large">
+
+  
+    
+    <div num-items="20" class="content"><div>
+<div role="group" metrics-loc="Lockup_" adam-id="361308139" preview-artist="CÃ©line Dion" aria-label="These Are Special Times, C&eacute;line Dion" preview-title="These Are Special Times" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/these-are-special-times/id361308139" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="These Are Special Times, CÃ©line Dion" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Music/v4/67/23/9f/67239fd6-84a6-6e13-1338-09592847616b/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Music/v4/67/23/9f/67239fd6-84a6-6e13-1338-09592847616b/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>1. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/these-are-special-times/id361308139" class="name">These Are Special Times</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/these-are-special-times/id361308139&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="267856442" preview-artist="CÃ©line Dion" aria-label="Taking Chances (Deluxe Version), C&eacute;line Dion" preview-title="Taking Chances (Deluxe Version)" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/taking-chances-deluxe-version/id267856442" class="artwork-link"><div class="artwork"><img width="100" height="88" alt="Taking Chances (Deluxe Version), CÃ©line Dion" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Music/v4/c6/76/cc/c676ccee-3245-fb47-0052-c3ca04fd499e/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Music/v4/c6/76/cc/c676ccee-3245-fb47-0052-c3ca04fd499e/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>2. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/taking-chances-deluxe-version/id267856442" class="name">Taking Chances (Deluxe Version)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/taking-chances-deluxe-version/id267856442&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="695141793" preview-artist="CÃ©line Dion" aria-label="Loved Me Back to Life, C&eacute;line Dion" preview-title="Loved Me Back to Life" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/loved-me-back-to-life/id695141793" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Loved Me Back to Life, CÃ©line Dion" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Music6/v4/f0/50/a6/f050a66d-d28e-0505-9a9a-940964b7ed65/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Music6/v4/f0/50/a6/f050a66d-d28e-0505-9a9a-940964b7ed65/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>3. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/loved-me-back-to-life/id695141793" class="name">Loved Me Back to Life</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/loved-me-back-to-life/id695141793&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="171142104" preview-artist="CÃ©line Dion" aria-label="Falling Into You, C&eacute;line Dion" preview-title="Falling Into You" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/falling-into-you/id171142104" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Falling Into You, CÃ©line Dion" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Music/v4/28/2e/61/282e6160-494a-1e87-269f-3e71c28eef0a/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Music/v4/28/2e/61/282e6160-494a-1e87-269f-3e71c28eef0a/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>4. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/falling-into-you/id171142104" class="name">Falling Into You</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/falling-into-you/id171142104&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="464056948" preview-artist="CÃ©line Dion" aria-label="The Essential Celine Dion, C&eacute;line Dion" preview-title="The Essential Celine Dion" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/the-essential-celine-dion/id464056948" class="artwork-link"><div class="artwork"><img width="100" height="99" alt="The Essential Celine Dion, CÃ©line Dion" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Music/v4/88/23/5b/88235b62-fc2f-e457-c55e-0fe689fb467b/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Music/v4/88/23/5b/88235b62-fc2f-e457-c55e-0fe689fb467b/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>5. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/the-essential-celine-dion/id464056948" class="name">The Essential Celine Dion</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/the-essential-celine-dion/id464056948&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="267262566" preview-artist="CÃ©line Dion" aria-label="Taking Chances (Bonus Track Version), C&eacute;line Dion" preview-title="Taking Chances (Bonus Track Version)" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/taking-chances-bonus-track/id267262566" class="artwork-link"><div class="artwork"><img width="100" height="88" alt="Taking Chances (Bonus Track Version), CÃ©line Dion" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Music/v4/68/80/34/688034d8-2d49-40a9-053c-a92bd7781bfe/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Music/v4/68/80/34/688034d8-2d49-40a9-053c-a92bd7781bfe/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>6. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/taking-chances-bonus-track/id267262566" class="name">Taking Chances (Bonus Track Version)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/taking-chances-bonus-track/id267262566&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="201274869" preview-artist="CÃ©line Dion" aria-label="One Heart, C&eacute;line Dion" preview-title="One Heart" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/one-heart/id201274869" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="One Heart, CÃ©line Dion" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Music/v4/73/53/48/735348e0-461e-4963-8840-aeb7a941a66f/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Music/v4/73/53/48/735348e0-461e-4963-8840-aeb7a941a66f/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>7. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/one-heart/id201274869" class="name">One Heart</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/one-heart/id201274869&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="205696853" preview-artist="CÃ©line Dion" aria-label="C&eacute;line Dion, C&eacute;line Dion" preview-title="CÃ©line Dion" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/celine-dion/id205696853" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="CÃ©line Dion, CÃ©line Dion" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Music/v4/4b/17/13/4b1713f1-926a-57d1-f226-2c25b9956715/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Music/v4/4b/17/13/4b1713f1-926a-57d1-f226-2c25b9956715/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>8. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/celine-dion/id205696853" class="name">CÃ©line Dion</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/celine-dion/id205696853&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="258936239" preview-artist="CÃ©line Dion" aria-label="A New Day - Live In Las Vegas (Audio Version), C&eacute;line Dion" preview-title="A New Day - Live In Las Vegas (Audio Version)" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/new-day-live-in-las-vegas/id258936239" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="A New Day - Live In Las Vegas (Audio Version), CÃ©line Dion" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Music/v4/b3/d6/db/b3d6db84-21f8-c4fe-5357-cdd5fb5729a5/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Music/v4/b3/d6/db/b3d6db84-21f8-c4fe-5357-cdd5fb5729a5/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>9. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/new-day-live-in-las-vegas/id258936239" class="name">A New Day - Live In Las Vegas (Audio Version)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/new-day-live-in-las-vegas/id258936239&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="361304034" preview-artist="CÃ©line Dion" aria-label="The Colour of My Love, C&eacute;line Dion" preview-title="The Colour of My Love" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/the-colour-of-my-love/id361304034" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="The Colour of My Love, CÃ©line Dion" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Music/v4/13/f8/2c/13f82c2e-dd56-0362-01d1-9aef0664976c/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Music/v4/13/f8/2c/13f82c2e-dd56-0362-01d1-9aef0664976c/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>10. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/the-colour-of-my-love/id361304034" class="name">The Colour of My Love</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/the-colour-of-my-love/id361304034&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="190618427" preview-artist="CÃ©line Dion" aria-label="The Collector's Series: Celine Dion, Vol. 1, C&eacute;line Dion" preview-title="The Collector's Series: Celine Dion, Vol. 1" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/collectors-series-celine-dion/id190618427" class="artwork-link"><div class="artwork"><img width="69" height="100" alt="The Collector&apos;s Series: Celine Dion, Vol. 1, CÃ©line Dion" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Music/v4/3b/27/0e/3b270e4b-2c0e-7e15-5242-e842d9e68d1d/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Music/v4/3b/27/0e/3b270e4b-2c0e-7e15-5242-e842d9e68d1d/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>11. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/collectors-series-celine-dion/id190618427" class="name">The Collector's Series: Celine Dion, Vol. 1</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/collectors-series-celine-dion/id190618427&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="190434919" preview-artist="CÃ©line Dion" aria-label="S'il suffisait d'aimer (If Only Love Could Be Enough), C&eacute;line Dion" preview-title="S'il suffisait d'aimer (If Only Love Could Be Enough)" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/sil-suffisait-daimer-if-only/id190434919" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="S&apos;il suffisait d&apos;aimer (If Only Love Could Be Enough), CÃ©line Dion" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Music/v4/f8/03/9c/f8039cd7-9fff-83d8-cf0b-7812986606a9/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Music/v4/f8/03/9c/f8039cd7-9fff-83d8-cf0b-7812986606a9/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>12. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/sil-suffisait-daimer-if-only/id190434919" class="name">S'il suffisait d'aimer (If Only Love Could Be Enough)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/sil-suffisait-daimer-if-only/id190434919&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="193523338" preview-artist="CÃ©line Dion" aria-label="Unison, C&eacute;line Dion" preview-title="Unison" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/unison/id193523338" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Unison, CÃ©line Dion" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Music/v4/66/ff/0c/66ff0c41-4513-194d-a0c1-19087608f962/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Music/v4/66/ff/0c/66ff0c41-4513-194d-a0c1-19087608f962/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>13. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/unison/id193523338" class="name">Unison</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/unison/id193523338&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="201280449" preview-artist="CÃ©line Dion" aria-label="1 fille &amp; 4 types, C&eacute;line Dion" preview-title="1 fille & 4 types" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/1-fille-4-types/id201280449" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="1 fille &amp; 4 types, CÃ©line Dion" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Music/v4/57/87/5b/57875bc5-3fb1-a1dd-700f-877a195e3139/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Music/v4/57/87/5b/57875bc5-3fb1-a1dd-700f-877a195e3139/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>14. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/1-fille-4-types/id201280449" class="name">1 fille &amp; 4 types</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/1-fille-4-types/id201280449&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="402356157" preview-artist="CÃ©line Dion" aria-label="That's the Way It Is - EP, C&eacute;line Dion" preview-title="That's the Way It Is - EP" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/thats-the-way-it-is-ep/id402356157" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="That&apos;s the Way It Is - EP, CÃ©line Dion" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Music/v4/ec/55/5d/ec555d5c-1193-e18c-c400-be13c2bf2be7/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Music/v4/ec/55/5d/ec555d5c-1193-e18c-c400-be13c2bf2be7/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>15. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/thats-the-way-it-is-ep/id402356157" class="name">That's the Way It Is - EP</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/thats-the-way-it-is-ep/id402356157&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="267762110" preview-artist="CÃ©line Dion" aria-label="Taking Chances, C&eacute;line Dion" preview-title="Taking Chances" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/taking-chances/id267762110" class="artwork-link"><div class="artwork"><img width="100" height="88" alt="Taking Chances, CÃ©line Dion" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Music/v4/60/49/bd/6049bd05-e20a-89e6-1aef-a0116b42566d/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Music/v4/60/49/bd/6049bd05-e20a-89e6-1aef-a0116b42566d/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>16. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/taking-chances/id267762110" class="name">Taking Chances</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/taking-chances/id267762110&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="193297887" preview-artist="CÃ©line Dion" aria-label="Dion chante Plamondon, C&eacute;line Dion" preview-title="Dion chante Plamondon" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/dion-chante-plamondon/id193297887" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Dion chante Plamondon, CÃ©line Dion" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Music/v4/33/f7/b0/33f7b03c-40b6-9ce9-f99a-4306cef0068b/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Music/v4/33/f7/b0/33f7b03c-40b6-9ce9-f99a-4306cef0068b/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>17. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/dion-chante-plamondon/id193297887" class="name">Dion chante Plamondon</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/dion-chante-plamondon/id193297887&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="341496296" preview-artist="CÃ©line Dion" aria-label="Taking Chances (Bonus Track Version), C&eacute;line Dion" preview-title="Taking Chances (Bonus Track Version)" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/taking-chances-bonus-track/id341496296" class="artwork-link"><div class="artwork"><img width="100" height="88" alt="Taking Chances (Bonus Track Version), CÃ©line Dion" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Music/v4/e0/7b/51/e07b51b3-7cd8-499e-5422-bba115022314/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Music/v4/e0/7b/51/e07b51b3-7cd8-499e-5422-bba115022314/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>18. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/taking-chances-bonus-track/id341496296" class="name">Taking Chances (Bonus Track Version)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/taking-chances-bonus-track/id341496296&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="944068136" preview-artist="CÃ©line Dion" aria-label="La balade de Michel (Contes pour tous) - Single, C&eacute;line Dion" preview-title="La balade de Michel (Contes pour tous) - Single" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/la-balade-michel-contes-pour/id944068136" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="La balade de Michel (Contes pour tous) - Single, CÃ©line Dion" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Music5/v4/5f/9a/0e/5f9a0e0a-df68-b208-ec97-fa990bf12ab5/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Music5/v4/5f/9a/0e/5f9a0e0a-df68-b208-ec97-fa990bf12ab5/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>19. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/la-balade-michel-contes-pour/id944068136" class="name">La balade de Michel (Contes pour tous) - Single</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/la-balade-michel-contes-pour/id944068136&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" adam-id="944063509" preview-artist="CÃ©line Dion" aria-label="Dans la main d'un magicien (Contes pour tous) - Single, C&eacute;line Dion" preview-title="Dans la main d'un magicien (Contes pour tous) - Single" class="lockup small album music">
+  
+    <a href="https://itunes.apple.com/us/album/dans-la-main-dun-magicien/id944063509" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Dans la main d&apos;un magicien (Contes pour tous) - Single, CÃ©line Dion" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Music5/v4/6a/71/49/6a71497f-1946-18c2-6f36-3fcdaa9d0693/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Music5/v4/6a/71/49/6a71497f-1946-18c2-6f36-3fcdaa9d0693/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>20. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/album/dans-la-main-dun-magicien/id944063509" class="name">Dans la main d'un magicien (Contes pour tous) - Single</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/dans-la-main-dun-magicien/id944063509&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+</div></div>
+  
+</div>
+<ul class="list paginate"><li><a href="https://itunes.apple.com/us/artist/celine-dion/id63729?albumPage=1#albumPage" class="selected">1</a></li><li><a href="https://itunes.apple.com/us/artist/celine-dion/id63729?albumPage=2#albumPage">2</a></li></ul>
+  
+  
+</div>
+<div metrics-loc="Titledbox_Top Songs" class="top-songs">
+  
+    <h3>
+      
+      Top Songs
+    </h3>
+    
+  
+  
+  
+    
+
+
+
+
+
+	<div metrics-loc="TrackList" role="grid" aria-readonly="true" class="track-list song music">
+	     
+		<div class="tracklist-content-box" role="presentation">
+		  <table role="presentation" column-classes="index,name,album,time,price,view-in-itunes" class="tracklist-table content sortable total-flexible-columns-2 total-columns-6">
+		    
+		    
+	          <thead>
+	            <tr>
+	              
+	                 <th role="columnheader" aria-sort="ascending" class="index ascending">
+	                    
+	                    &nbsp;
+	                  </th>
+	              
+	                 <th role="columnheader" class="name flexible-col">
+	                    Name
+	                    
+	                  </th>
+	              
+	                 <th role="columnheader" class="album flexible-col">
+	                    Album
+	                    
+	                  </th>
+	              
+	                 <th role="columnheader" class="time">
+	                    Time
+	                    
+	                  </th>
+	              
+	                 <th role="columnheader" class="price">
+	                    Price
+	                    
+	                  </th>
+	              
+	                 <th role="columnheader" class="view-in-itunes">
+	                    
+	                    &nbsp;
+	                  </th>
+	              
+	            </tr>
+	          </thead>
+		     
+		    <tbody>
+	            
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1168.phobos.apple.com/us/r1000/073/Music/8e/32/ef/mzm.rqfzhhri.aac.p.m4a" preview-album="Falling Into You" preview-artist="CÃ©line Dion" preview-title="Because You Loved Me" preview-duration="30000" adam-id="171142410" row-number="0" class="song music">
+      
+        <td role="gridcell" sort-value="1" class="index ascending">
+          <span class="index"><span>1</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Because You Loved Me" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/because-you-loved-me/id171142104?i=171142410">Because You Loved Me</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Falling Into You" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/falling-into-you/id171142104"><span class="text">Falling Into You</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="273067" class="time">
+          <span><span class="text">4:33</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.69" class="price">
+          <span>$0.69</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/because-you-loved-me/id171142104?i=171142410&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1718.phobos.apple.com/us/r1000/064/Music/98/9a/ad/mzm.bkfyfbab.aac.p.m4a" preview-album="Let's Talk About Love" preview-artist="CÃ©line Dion" preview-title="My Heart Will Go On" preview-duration="30000" adam-id="170666970" row-number="1" class="song music">
+      
+        <td role="gridcell" sort-value="2" class="index ascending">
+          <span class="index"><span>2</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="My Heart Will Go On" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/my-heart-will-go-on/id170663512?i=170666970">My Heart Will Go On</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Let&#39;s Talk About Love" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/lets-talk-about-love/id170663512"><span class="text">Let's Talk About Love</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="279760" class="time">
+          <span><span class="text">4:39</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/my-heart-will-go-on/id170663512?i=170666970&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1222.phobos.apple.com/us/r1000/102/Music/6c/35/2f/mzm.urvibfgl.aac.p.m4a" preview-album="Titanic (Music from the Motion Picture) [Anniversary Edition]" preview-artist="James Horner & CÃ©line Dion" preview-title="My Heart Will Go On (Love Theme from &quot;Titanic&quot;)" preview-duration="30000" adam-id="507298988" row-number="2" class="song music">
+      
+        <td role="gridcell" sort-value="3" class="index ascending">
+          <span class="index"><span>3</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="My Heart Will Go On (Love Theme from &#34;Titanic&#34;)" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/my-heart-will-go-on-love-theme/id507298784?i=507298988">My Heart Will Go On (Love Theme from &quot;Titanic&quot;)</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Titanic (Music from the Motion Picture) [Anniversary Edition]" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/titanic-music-from-motion/id507298784"><span class="text">Titanic (Music from the Motion Picture) [Anniversary Edition]</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="310719" class="time">
+          <span><span class="text">5:10</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.69" class="price">
+          <span>$0.69</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/my-heart-will-go-on-love-theme/id507298784?i=507298988&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1950.phobos.apple.com/us/r1000/054/Music4/v4/37/45/b0/3745b0fb-314b-20db-8d88-f5595ac95940/mzaf_8155684287979831236.plus.aac.p.m4a" preview-album="Falling Into You" preview-artist="CÃ©line Dion" preview-title="It's All Coming Back to Me Now" preview-duration="30000" adam-id="171142233" row-number="3" class="song music">
+      
+        <td role="gridcell" sort-value="4" class="index ascending">
+          <span class="index"><span>4</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="It&#39;s All Coming Back to Me Now" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/its-all-coming-back-to-me-now/id171142104?i=171142233">It's All Coming Back to Me Now</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Falling Into You" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/falling-into-you/id171142104"><span class="text">Falling Into You</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="456333" class="time">
+          <span><span class="text">7:36</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/its-all-coming-back-to-me-now/id171142104?i=171142233&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a456.phobos.apple.com/us/r1000/082/Music/a8/cd/39/mzm.bmdjatub.aac.p.m4a" preview-album="The Colour of My Love" preview-artist="CÃ©line Dion" preview-title="The Power of Love" preview-duration="30000" adam-id="361304067" row-number="4" class="song music">
+      
+        <td role="gridcell" sort-value="5" class="index ascending">
+          <span class="index"><span>5</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Power of Love" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/the-power-of-love/id361304034?i=361304067">The Power of Love</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Colour of My Love" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/the-colour-of-my-love/id361304034"><span class="text">The Colour of My Love</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="342352" class="time">
+          <span><span class="text">5:42</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.99" class="price">
+          <span>$0.99</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/the-power-of-love/id361304034?i=361304067&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a170.phobos.apple.com/us/r1000/070/Music/71/6a/69/mzm.dbcvhfbm.aac.p.m4a" preview-album="The Best of Andrea Bocelli - Vivere (Bonus Track Version)" preview-artist="Andrea Bocelli & CÃ©line Dion" preview-title="The Prayer" preview-duration="30000" adam-id="266952347" row-number="5" class="song music">
+      
+        <td role="gridcell" sort-value="6" class="index ascending">
+          <span class="index"><span>6</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Prayer" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/the-prayer/id266952045?i=266952347">The Prayer</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Best of Andrea Bocelli - Vivere (Bonus Track Version)" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/best-andrea-bocelli-vivere/id266952045"><span class="text">The Best of Andrea Bocelli - Vivere (Bonus Track Version)</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="267667" class="time">
+          <span><span class="text">4:27</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/the-prayer/id266952045?i=266952347&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a129.phobos.apple.com/us/r1000/101/Music/6b/15/94/mzm.uwifnxbr.aac.p.m4a" preview-album="Beauty and the Beast (Original Motion Picture Soundtrack)" preview-artist="Peabo Bryson & CÃ©line Dion" preview-title="Beauty and the Beast (Soundtrack Version)" preview-duration="30000" adam-id="156087234" row-number="6" class="song music">
+      
+        <td role="gridcell" sort-value="7" class="index ascending">
+          <span class="index"><span>7</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Beauty and the Beast (Soundtrack Version)" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/beauty-beast-soundtrack-version/id156087130?i=156087234">Beauty and the Beast (Soundtrack Version)</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Beauty and the Beast (Original Motion Picture Soundtrack)" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/beauty-beast-original-motion/id156087130"><span class="text">Beauty and the Beast (Original Motion Picture Soundtrack)</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="244850" class="time">
+          <span><span class="text">4:04</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/beauty-beast-soundtrack-version/id156087130?i=156087234&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1057.phobos.apple.com/us/r1000/083/Music/0e/8f/f6/mzm.lawpamke.aac.p.m4a" preview-album="Falling Into You" preview-artist="CÃ©line Dion" preview-title="All By Myself" preview-duration="30000" adam-id="171142699" row-number="7" class="song music">
+      
+        <td role="gridcell" sort-value="8" class="index ascending">
+          <span class="index"><span>8</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="All By Myself" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/all-by-myself/id171142104?i=171142699">All By Myself</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Falling Into You" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/falling-into-you/id171142104"><span class="text">Falling Into You</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="311733" class="time">
+          <span><span class="text">5:11</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.99" class="price">
+          <span>$0.99</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/all-by-myself/id171142104?i=171142699&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1071.phobos.apple.com/us/r1000/022/Music6/v4/12/58/79/125879bc-6f93-6b97-3da6-5284f5c52575/mzaf_1108247283664384781.plus.aac.p.m4a" preview-album="Loved Me Back to Life" preview-artist="CÃ©line Dion & Ne-Yo" preview-title="Incredible" preview-duration="30000" adam-id="695141803" row-number="8" class="song music">
+      
+        <td role="gridcell" sort-value="9" class="index ascending">
+          <span class="index"><span>9</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Incredible" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/incredible/id695141793?i=695141803">Incredible</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Loved Me Back to Life" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/loved-me-back-to-life/id695141793"><span class="text">Loved Me Back to Life</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="236165" class="time">
+          <span><span class="text">3:56</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/incredible/id695141793?i=695141803&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1548.phobos.apple.com/us/r1000/096/Music/71/79/ba/mzm.axwemejz.aac.p.m4a" preview-album="The Prayer - Single" preview-artist="CÃ©line Dion & Josh Groban" preview-title="The Prayer (Duet with Josh Groban) [Live]" preview-duration="30000" adam-id="273589710" row-number="9" class="song music">
+      
+        <td role="gridcell" sort-value="10" class="index ascending">
+          <span class="index"><span>10</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Prayer (Duet with Josh Groban) [Live]" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/prayer-duet-josh-groban-live/id273589703?i=273589710">The Prayer (Duet with Josh Groban) [Live]</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Prayer - Single" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/the-prayer-single/id273589703"><span class="text">The Prayer - Single</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="277918" class="time">
+          <span><span class="text">4:37</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/prayer-duet-josh-groban-live/id273589703?i=273589710&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1625.phobos.apple.com/us/r1000/012/Music5/v4/d8/51/11/d85111d0-cbbd-adbd-f385-629a010391ed/mzaf_4726118563204864021.plus.aac.p.m4a" preview-album="Movie Music: The Definitive Performances" preview-artist="CÃ©line Dion" preview-title="My Heart Will Go On" preview-duration="30000" adam-id="193323654" row-number="10" class="song music">
+      
+        <td role="gridcell" sort-value="11" class="index ascending">
+          <span class="index"><span>11</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="My Heart Will Go On" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/my-heart-will-go-on/id193321271?i=193323654">My Heart Will Go On</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Movie Music: The Definitive Performances" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/movie-music-definitive-performances/id193321271"><span class="text">Movie Music: The Definitive Performances</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="280133" class="time">
+          <span><span class="text">4:40</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/my-heart-will-go-on/id193321271?i=193323654&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1508.phobos.apple.com/us/r1000/103/Music/a8/f5/f0/mzm.asvhjojz.aac.p.m4a" preview-album="The Essential Celine Dion" preview-artist="CÃ©line Dion" preview-title="A New Day Has Come (Radio Remix)" preview-duration="30000" adam-id="464057145" row-number="11" class="song music">
+      
+        <td role="gridcell" sort-value="12" class="index ascending">
+          <span class="index"><span>12</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="New Day Has Come (Radio Remix)" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/a-new-day-has-come-radio-remix/id464056948?i=464057145">A New Day Has Come (Radio Remix)</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Essential Celine Dion" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/the-essential-celine-dion/id464056948"><span class="text">The Essential Celine Dion</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="260453" class="time">
+          <span><span class="text">4:20</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/a-new-day-has-come-radio-remix/id464056948?i=464057145&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1372.phobos.apple.com/us/r1000/012/Music6/v4/4f/6f/8d/4f6f8d17-37ab-1a00-27e9-2e912f103747/mzaf_6304030032193492609.plus.aac.p.m4a" preview-album="Loved Me Back to Life" preview-artist="CÃ©line Dion" preview-title="Loved Me Back to Life" preview-duration="30000" adam-id="695141795" row-number="12" class="song music">
+      
+        <td role="gridcell" sort-value="13" class="index ascending">
+          <span class="index"><span>13</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Loved Me Back to Life" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/loved-me-back-to-life/id695141793?i=695141795">Loved Me Back to Life</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Loved Me Back to Life" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/loved-me-back-to-life/id695141793"><span class="text">Loved Me Back to Life</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="230889" class="time">
+          <span><span class="text">3:50</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/loved-me-back-to-life/id695141793?i=695141795&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1175.phobos.apple.com/us/r1000/069/Music/ce/07/7e/mzm.ecszifrd.aac.p.m4a" preview-album="Let's Talk About Love" preview-artist="CÃ©line Dion" preview-title="To Love You More" preview-duration="30000" adam-id="170667074" row-number="13" class="song music">
+      
+        <td role="gridcell" sort-value="14" class="index ascending">
+          <span class="index"><span>14</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="To Love You More" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/to-love-you-more/id170663512?i=170667074">To Love You More</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Let&#39;s Talk About Love" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/lets-talk-about-love/id170663512"><span class="text">Let's Talk About Love</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="327560" class="time">
+          <span><span class="text">5:27</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/to-love-you-more/id170663512?i=170667074&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a508.phobos.apple.com/us/r1000/092/Music/77/c4/d0/mzm.jauhqpkg.aac.p.m4a" preview-album="One Heart" preview-artist="CÃ©line Dion" preview-title="I Drove All Night" preview-duration="30000" adam-id="201274887" row-number="14" class="song music">
+      
+        <td role="gridcell" sort-value="15" class="index ascending">
+          <span class="index"><span>15</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="I Drove All Night" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/i-drove-all-night/id201274869?i=201274887">I Drove All Night</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="One Heart" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/one-heart/id201274869"><span class="text">One Heart</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="240600" class="time">
+          <span><span class="text">4:00</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.99" class="price">
+          <span>$0.99</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/i-drove-all-night/id201274869?i=201274887&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a497.phobos.apple.com/us/r1000/114/Music/e1/c4/f0/mzm.hizceknw.aac.p.m4a" preview-album="Taking Chances (Deluxe Version)" preview-artist="CÃ©line Dion" preview-title="Taking Chances" preview-duration="30000" adam-id="267856478" row-number="15" class="song music">
+      
+        <td role="gridcell" sort-value="16" class="index ascending">
+          <span class="index"><span>16</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Taking Chances" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/taking-chances/id267856442?i=267856478">Taking Chances</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Taking Chances (Deluxe Version)" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/taking-chances-deluxe-version/id267856442"><span class="text">Taking Chances (Deluxe Version)</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="242627" class="time">
+          <span><span class="text">4:02</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.99" class="price">
+          <span>$0.99</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/taking-chances/id267856442?i=267856478&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1809.phobos.apple.com/us/r1000/060/Music/5d/d2/f4/mzm.txxthvxw.aac.p.m4a" preview-album="The Essential Celine Dion" preview-artist="CÃ©line Dion" preview-title="I'm Alive" preview-duration="30000" adam-id="464057163" row-number="16" class="song music">
+      
+        <td role="gridcell" sort-value="17" class="index ascending">
+          <span class="index"><span>17</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="I&#39;m Alive" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/im-alive/id464056948?i=464057163">I'm Alive</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Essential Celine Dion" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/the-essential-celine-dion/id464056948"><span class="text">The Essential Celine Dion</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="210760" class="time">
+          <span><span class="text">3:30</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.99" class="price">
+          <span>$0.99</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/im-alive/id464056948?i=464057163&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1651.phobos.apple.com/us/r1000/075/Music/9e/4a/59/mzm.czjqujjf.aac.p.m4a" preview-album="Back to Titanic (More Music from the Motion Picture)" preview-artist="CÃ©line Dion" preview-title="My Heart Will Go On (Dialogue Mix)" preview-duration="30000" adam-id="186053317" row-number="17" class="song music">
+      
+        <td role="gridcell" sort-value="18" class="index ascending">
+          <span class="index"><span>18</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="My Heart Will Go On (Dialogue Mix)" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/my-heart-will-go-on-dialogue/id186052461?i=186053317">My Heart Will Go On (Dialogue Mix)</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Back to Titanic (More Music from the Motion Picture)" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/back-to-titanic-more-music/id186052461"><span class="text">Back to Titanic (More Music from the Motion Picture)</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="282760" class="time">
+          <span><span class="text">4:42</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.99" class="price">
+          <span>$0.99</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/my-heart-will-go-on-dialogue/id186052461?i=186053317&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1934.phobos.apple.com/us/r1000/088/Music/6c/35/2f/mzm.zwaaopyo.aac.p.m4a" preview-album="Titanic (Music from the Motion Picture) [Collector's Anniversary Edition]" preview-artist="James Horner & CÃ©line Dion" preview-title="My Heart Will Go On (Love Theme from &quot;Titanic&quot;)" preview-duration="30000" adam-id="507536740" row-number="18" class="song music">
+      
+        <td role="gridcell" sort-value="19" class="index ascending">
+          <span class="index"><span>19</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="My Heart Will Go On (Love Theme from &#34;Titanic&#34;)" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/my-heart-will-go-on-love-theme/id507536640?i=507536740">My Heart Will Go On (Love Theme from &quot;Titanic&quot;)</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Titanic (Music from the Motion Picture) [Collector&#39;s Anniversary Edition]" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/titanic-music-from-motion/id507536640"><span class="text">Titanic (Music from the Motion Picture) [Collector's Anniversary Edition]</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="310719" class="time">
+          <span><span class="text">5:10</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.69" class="price">
+          <span>$0.69</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/my-heart-will-go-on-love-theme/id507536640?i=507536740&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1199.phobos.apple.com/us/r1000/104/Music/da/07/3d/mzm.xnktvaqo.aac.p.m4a" preview-album="The Essential Celine Dion" preview-artist="CÃ©line Dion" preview-title="That's the Way It Is" preview-duration="30000" adam-id="464057128" row-number="19" class="song music">
+      
+        <td role="gridcell" sort-value="20" class="index ascending">
+          <span class="index"><span>20</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="That&#39;s the Way It Is" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/thats-the-way-it-is/id464056948?i=464057128">That's the Way It Is</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Essential Celine Dion" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/the-essential-celine-dion/id464056948"><span class="text">The Essential Celine Dion</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="241507" class="time">
+          <span><span class="text">4:01</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.99" class="price">
+          <span>$0.99</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/thats-the-way-it-is/id464056948?i=464057128&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a794.phobos.apple.com/us/r1000/090/Music/8c/17/03/mzm.papjcvym.aac.p.m4a" preview-album="That's the Way It Is - EP" preview-artist="CÃ©line Dion" preview-title="That's the Way It Is" preview-duration="30000" adam-id="402356159" row-number="20" class="song music">
+      
+        <td role="gridcell" sort-value="21" class="index ascending">
+          <span class="index"><span>21</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="That&#39;s the Way It Is" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/thats-the-way-it-is/id402356157?i=402356159">That's the Way It Is</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="That&#39;s the Way It Is - EP" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/thats-the-way-it-is-ep/id402356157"><span class="text">That's the Way It Is - EP</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="241427" class="time">
+          <span><span class="text">4:01</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.99" class="price">
+          <span>$0.99</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/thats-the-way-it-is/id402356157?i=402356159&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a369.phobos.apple.com/us/r1000/100/Music/fd/da/18/mzm.ibgnjfvi.aac.p.m4a" preview-album="These Are Special Times" preview-artist="CÃ©line Dion & Andrea Bocelli" preview-title="The Prayer (Duet with Andrea Bocelli)" preview-duration="30000" adam-id="361308626" row-number="21" class="song music">
+      
+        <td role="gridcell" sort-value="22" class="index ascending">
+          <span class="index"><span>22</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Prayer (Duet with Andrea Bocelli)" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/prayer-duet-andrea-bocelli/id361308139?i=361308626">The Prayer (Duet with Andrea Bocelli)</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="These Are Special Times" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/these-are-special-times/id361308139"><span class="text">These Are Special Times</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="268887" class="time">
+          <span><span class="text">4:28</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.99" class="price">
+          <span>$0.99</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/prayer-duet-andrea-bocelli/id361308139?i=361308626&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1673.phobos.apple.com/us/r1000/065/Music/93/c4/c9/mzm.evskrlwd.aac.p.m4a" preview-album="These Are Special Times" preview-artist="CÃ©line Dion" preview-title="Ave Maria" preview-duration="30000" adam-id="361308337" row-number="22" class="song music">
+      
+        <td role="gridcell" sort-value="23" class="index ascending">
+          <span class="index"><span>23</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Ave Maria" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/ave-maria/id361308139?i=361308337">Ave Maria</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="These Are Special Times" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/these-are-special-times/id361308139"><span class="text">These Are Special Times</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="295939" class="time">
+          <span><span class="text">4:55</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/ave-maria/id361308139?i=361308337&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1639.phobos.apple.com/us/r1000/069/Music/38/94/ec/mzm.rgirbxrq.aac.p.m4a" preview-album="Beauty and the Beast (Soundtrack from the Motion Picture)" preview-artist="CÃ©line Dion & Peabo Bryson" preview-title="Beauty and the Beast" preview-duration="30000" adam-id="390433400" row-number="23" class="song music">
+      
+        <td role="gridcell" sort-value="24" class="index ascending">
+          <span class="index"><span>24</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Beauty and the Beast" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/beauty-and-the-beast/id390433307?i=390433400">Beauty and the Beast</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="Beauty and the Beast (Soundtrack from the Motion Picture)" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/beauty-beast-soundtrack-from/id390433307"><span class="text">Beauty and the Beast (Soundtrack from the Motion Picture)</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="244947" class="time">
+          <span><span class="text">4:04</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$1.29" class="price">
+          <span>$1.29</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/beauty-and-the-beast/id390433307?i=390433400&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+    <tr role="row" metrics-loc="Track_" audio-preview-url="http://a1199.phobos.apple.com/us/r1000/096/Music/16/e4/35/mzm.xixhgfrs.aac.p.m4a" preview-album="C&eacute;line Dion" preview-artist="CÃ©line Dion" preview-title="If You Ask Me To" preview-duration="30000" adam-id="205697002" row-number="24" class="song music">
+      
+        <td role="gridcell" sort-value="25" class="index ascending">
+          <span class="index"><span>25</span><div class="circular-preview-control"><div class="center-control-state"></div></div></span>
+        </td>
+      
+        <td role="gridcell" sort-value="If You Ask Me To" class="name flexible-col">
+          <span><a href="https://itunes.apple.com/us/album/if-you-ask-me-to/id205696853?i=205697002">If You Ask Me To</a></span>
+        </td>
+      
+        <td role="gridcell" sort-value="CÃ©line Dion" class="album flexible-col">
+          <a href="https://itunes.apple.com/us/album/celine-dion/id205696853"><span class="text">CÃ©line Dion</span></a>
+        </td>
+      
+        <td role="gridcell" sort-value="234371" class="time">
+          <span><span class="text">3:54</span></span>
+        </td>
+      
+        <td role="gridcell" sort-value="$0.99" class="price">
+          <span>$0.99</span>
+        </td>
+      
+        <td role="gridcell" sort-value="-1" class="view-in-itunes">
+          <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/album/if-you-ask-me-to/id205696853?i=205697002&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+        </td>
+      
+    </tr>
+    
+  
+
+		    </tbody>
+		  </table>
+		</div>
+		
+		
+		
+    </div>
+
+    <ul class="list paginate"><li><a href="https://itunes.apple.com/us/artist/celine-dion/id63729?trackPage=1#trackPage" class="selected">1</a></li><li><a href="https://itunes.apple.com/us/artist/celine-dion/id63729?trackPage=2#trackPage">2</a></li><li><a href="https://itunes.apple.com/us/artist/celine-dion/id63729?trackPage=3#trackPage">3</a></li><li><a href="https://itunes.apple.com/us/artist/celine-dion/id63729?trackPage=4#trackPage">4</a></li><li><a href="https://itunes.apple.com/us/artist/celine-dion/id63729?trackPage=5#trackPage">5</a></li><li><a href="https://itunes.apple.com/us/artist/celine-dion/id63729?trackPage=6#trackPage">6</a></li><li><a href="https://itunes.apple.com/us/artist/celine-dion/id63729?trackPage=7#trackPage">7</a></li><li><a href="https://itunes.apple.com/us/artist/celine-dion/id63729?trackPage=8#trackPage">8</a></li><li><a href="https://itunes.apple.com/us/artist/celine-dion/id63729?trackPage=9#trackPage">9</a></li><li><a href="https://itunes.apple.com/us/artist/celine-dion/id63729?trackPage=10#trackPage">10</a></li><li><a href="https://itunes.apple.com/us/artist/celine-dion/id63729?trackPage=2#trackPage" class="paginate-more">Next</a></li></ul>
+  
+  
+</div>
+<div metrics-loc="Titledbox_Top Music Videos" class="top-albums">
+  
+    <h3>
+      
+      Top Music Videos
+    </h3>
+    
+  
+  
+  
+    
+<div metrics-loc="Swoosh_" rows="4" class="swoosh lockup-container music-video music video large album">
+
+  
+    
+    <div num-items="20" class="content"><div>
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1225.v.phobos.apple.com/us/r1000/014/Video/1e/5a/3e/mzm.lgjexdez..640x352.h264lc.u.p.m4v" adam-id="267741652" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="The Power of Love (from &quot;A New Day...Live In Las Vegas&quot;) [Bonus Video], C&eacute;line Dion" preview-duration="216883.0" preview-title="The Power of Love (from "A New Day...Live In Las Vegas") [Bonus Video]" video-preview-height="352" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/power-love-from-new-day...live/id267741652" class="artwork-link"><div class="artwork"><img width="100" height="55" alt="The Power of Love (from &quot;A New Day...Live In Las Vegas&quot;) [Bonus Video], CÃ©line Dion" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video/v4/e1/67/45/e167453b-6e8e-1a6d-5587-a6bf920a0a3b/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Video/v4/e1/67/45/e167453b-6e8e-1a6d-5587-a6bf920a0a3b/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>1. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/power-love-from-new-day...live/id267741652" class="name">The Power of Love (from &quot;A New Day...Live In Las Vegas&quot;) [Bonus Video]</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/power-love-from-new-day...live/id267741652&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a349.v.phobos.apple.com/us/r1000/064/Video/6f/93/15/mzi.mgchxbtw..640x352.h264lc.u.p.m4v" adam-id="267536728" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="Taking Chances, C&eacute;line Dion" preview-duration="30000.0" preview-title="Taking Chances" video-preview-height="352" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/taking-chances/id267536728" class="artwork-link"><div class="artwork"><img width="100" height="55" alt="Taking Chances, CÃ©line Dion" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Video/v4/07/5d/27/075d27a1-a2ea-9f7a-3e77-1675962542c3/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Video/v4/07/5d/27/075d27a1-a2ea-9f7a-3e77-1675962542c3/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>2. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/taking-chances/id267536728" class="name">Taking Chances</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/taking-chances/id267536728&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1985.v.phobos.apple.com/us/r1000/048/Video/9d/a0/c4/mzi.yigjiiex..640x352.h264lc.D2.p.m4v" adam-id="267722045" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="I Surrender (from &quot;A New Day...Live In Las Vegas&quot;) [Bonus Video]" preview-duration="316149.0" preview-title="I Surrender (from "A New Day...Live In Las Vegas") [Bonus Video]" video-preview-height="352" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/i-surrender-from-new-day...live/id267722045" class="artwork-link"><div class="artwork"><img width="100" height="55" alt="I Surrender (from &quot;A New Day...Live In Las Vegas&quot;) [Bonus Video]" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Video/v4/7d/49/75/7d49750e-7cff-9850-f5ee-f1cf0411b5aa/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Video/v4/7d/49/75/7d49750e-7cff-9850-f5ee-f1cf0411b5aa/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>3. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/i-surrender-from-new-day...live/id267722045" class="name">I Surrender (from &quot;A New Day...Live In Las Vegas&quot;) [Bonus Video]</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/i-surrender-from-new-day...live/id267722045&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a129.v.phobos.apple.com/us/r1000/064/Video/v4/bb/4f/4b/bb4f4b89-cf93-cef9-f45e-81d8a89250f4/mzvf_5337426158511016991.640x464.h264lc.U.p.m4v" adam-id="264666589" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="I'm Your Angel (Duet with R. Kelly), C&eacute;line Dion" preview-duration="30000.0" preview-title="I'm Your Angel (Duet with R. Kelly)" video-preview-height="464" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/im-your-angel-duet-r.-kelly/id264666589" class="artwork-link"><div class="artwork"><img width="100" height="73" alt="I&apos;m Your Angel (Duet with R. Kelly), CÃ©line Dion" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Video/v4/ef/f7/60/eff760d2-a5f5-6596-0421-cd36b155cdf0/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Video/v4/ef/f7/60/eff760d2-a5f5-6596-0421-cd36b155cdf0/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>4. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/im-your-angel-duet-r.-kelly/id264666589" class="name">I'm Your Angel (Duet with R. Kelly)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/im-your-angel-duet-r.-kelly/id264666589&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1376.v.phobos.apple.com/us/r1000/004/Video/18/39/7c/mzi.naiqrudm..640x352.h264lc.D2.p.m4v" adam-id="267707423" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="I Drove All Night (from &quot;A New Day...Live In Las Vegas&quot;) [Bonus Video]" preview-duration="30897.0" preview-title="I Drove All Night (from "A New Day...Live In Las Vegas") [Bonus Video]" video-preview-height="352" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/i-drove-all-night-from-new/id267707423" class="artwork-link"><div class="artwork"><img width="100" height="55" alt="I Drove All Night (from &quot;A New Day...Live In Las Vegas&quot;) [Bonus Video]" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video/v4/33/ae/da/33aedadd-3b9f-49aa-5fb9-a54fc56ffcf1/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Video/v4/33/ae/da/33aedadd-3b9f-49aa-5fb9-a54fc56ffcf1/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>5. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/i-drove-all-night-from-new/id267707423" class="name">I Drove All Night (from &quot;A New Day...Live In Las Vegas&quot;) [Bonus Video]</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/i-drove-all-night-from-new/id267707423&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1612.v.phobos.apple.com/us/r1000/114/Video/f3/db/cb/mzi.tdagusls..640x464.h264lc.u.p.m4v" adam-id="267723038" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="When I Fall In Love, C&eacute;line Dion" preview-duration="30000.0" preview-title="When I Fall In Love" video-preview-height="464" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/when-i-fall-in-love/id267723038" class="artwork-link"><div class="artwork"><img width="100" height="73" alt="When I Fall In Love, CÃ©line Dion" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Video/v4/54/f0/82/54f082c2-aed1-14d6-03f9-2ed8d1944248/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Video/v4/54/f0/82/54f082c2-aed1-14d6-03f9-2ed8d1944248/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>6. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/when-i-fall-in-love/id267723038" class="name">When I Fall In Love</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/when-i-fall-in-love/id267723038&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1965.v.phobos.apple.com/us/r1000/062/Video/e0/cc/70/mzi.ozlmkcgs..640x448.h264lc.u.p.m4v" adam-id="267970155" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="I Drove All Night, C&eacute;line Dion" preview-duration="30000.0" preview-title="I Drove All Night" video-preview-height="448" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/i-drove-all-night/id267970155" class="artwork-link"><div class="artwork"><img width="100" height="70" alt="I Drove All Night, CÃ©line Dion" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video/v4/b3/a3/e5/b3a3e5f9-7111-433e-3991-f97629384a35/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Video/v4/b3/a3/e5/b3a3e5f9-7111-433e-3991-f97629384a35/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>7. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/i-drove-all-night/id267970155" class="name">I Drove All Night</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/i-drove-all-night/id267970155&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a714.v.phobos.apple.com/us/r1000/010/Video/00/be/99/mzm.ejterhaq..640x360.h264lc.u.p.m4v" adam-id="250441992" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="Et s'il n'en restait qu'une (je serais celle-l&agrave;), C&eacute;line Dion" preview-duration="203160.0" preview-title="Et s'il n'en restait qu'une (je serais celle-lÃ )" video-preview-height="360" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/et-sil-nen-restait-quune-je/id250441992" class="artwork-link"><div class="artwork"><img width="100" height="75" alt="Et s&apos;il n&apos;en restait qu&apos;une (je serais celle-lÃ ), CÃ©line Dion" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Video/v4/34/ed/92/34ed926b-493c-6013-3bcf-dbcaf9b45073/cover204x150.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Video/v4/34/ed/92/34ed926b-493c-6013-3bcf-dbcaf9b45073/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>8. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/et-sil-nen-restait-quune-je/id250441992" class="name">Et s'il n'en restait qu'une (je serais celle-lÃ )</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/et-sil-nen-restait-quune-je/id250441992&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1727.v.phobos.apple.com/us/r1000/091/Video/00/13/98/mzi.gkjwdmcp..640x352.h264lc.u.p.m4v" adam-id="293419437" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="My Love (Live), C&eacute;line Dion" preview-duration="30000.0" preview-title="My Love (Live)" video-preview-height="352" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/my-love-live/id293419437" class="artwork-link"><div class="artwork"><img width="100" height="55" alt="My Love (Live), CÃ©line Dion" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Video/v4/c4/88/96/c4889666-12ac-fc45-d988-a29502cc8bd9/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Video/v4/c4/88/96/c4889666-12ac-fc45-d988-a29502cc8bd9/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>9. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/my-love-live/id293419437" class="name">My Love (Live)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/my-love-live/id293419437&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1723.v.phobos.apple.com/us/r1000/034/Video/05/27/aa/mzi.cinmgthh..640x352.h264lc.D2.p.m4v" adam-id="267722061" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="I Wish (from &quot;A New Day...Live In Las Vegas&quot;) [Bonus Video]" preview-duration="253553.0" preview-title="I Wish (from "A New Day...Live In Las Vegas") [Bonus Video]" video-preview-height="352" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/i-wish-from-new-day...live/id267722061" class="artwork-link"><div class="artwork"><img width="100" height="55" alt="I Wish (from &quot;A New Day...Live In Las Vegas&quot;) [Bonus Video]" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Video/v4/a7/69/6a/a7696a70-0338-de05-3e37-22bcb954d783/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Video/v4/a7/69/6a/a7696a70-0338-de05-3e37-22bcb954d783/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>10. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/i-wish-from-new-day...live/id267722061" class="name">I Wish (from &quot;A New Day...Live In Las Vegas&quot;) [Bonus Video]</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/i-wish-from-new-day...live/id267722061&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a876.v.phobos.apple.com/us/r1000/093/Video/18/b5/3f/mzi.fiaicqnr..640x320.h264lc.u.p.m4v" adam-id="293115889" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="It's All Coming Back to Me Now (Long Version) [Stereo Mix], C&eacute;line Dion" preview-duration="30000.0" preview-title="It's All Coming Back to Me Now (Long Version) [Stereo Mix]" video-preview-height="320" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/its-all-coming-back-to-me/id293115889" class="artwork-link"><div class="artwork"><img width="100" height="50" alt="It&apos;s All Coming Back to Me Now (Long Version) [Stereo Mix], CÃ©line Dion" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video/v4/f0/60/05/f06005e3-9c63-9bae-f617-2c6216f5046f/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Video/v4/f0/60/05/f06005e3-9c63-9bae-f617-2c6216f5046f/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>11. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/its-all-coming-back-to-me/id293115889" class="name">It's All Coming Back to Me Now (Long Version) [Stereo Mix]</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/its-all-coming-back-to-me/id293115889&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1985.v.phobos.apple.com/us/r1000/093/Video/36/05/da/mzi.nicekufd..640x352.h264lc.u.p.m4v" adam-id="325900075" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="The Power of Love (from Vegas Show), C&eacute;line Dion" preview-duration="30000.0" preview-title="The Power of Love (from Vegas Show)" video-preview-height="352" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/power-love-from-vegas-show/id325900075" class="artwork-link"><div class="artwork"><img width="100" height="55" alt="The Power of Love (from Vegas Show), CÃ©line Dion" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Video/v4/2e/8f/6c/2e8f6cd6-5292-86f7-2180-edafbf157d45/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Video/v4/2e/8f/6c/2e8f6cd6-5292-86f7-2180-edafbf157d45/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>12. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/power-love-from-vegas-show/id325900075" class="name">The Power of Love (from Vegas Show)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/power-love-from-vegas-show/id325900075&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1825.v.phobos.apple.com/us/r1000/075/Video/1a/1d/9d/mzi.nqohvtcy..640x464.h264lc.u.p.m4v" adam-id="293116787" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="I'm Alive (Version 2), C&eacute;line Dion" preview-duration="30000.0" preview-title="I'm Alive (Version 2)" video-preview-height="464" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/im-alive-version-2/id293116787" class="artwork-link"><div class="artwork"><img width="100" height="73" alt="I&apos;m Alive (Version 2), CÃ©line Dion" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video/v4/ef/4d/cb/ef4dcb1c-8481-fd09-bec0-dad9749281d0/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Video/v4/ef/4d/cb/ef4dcb1c-8481-fd09-bec0-dad9749281d0/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>13. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/im-alive-version-2/id293116787" class="name">I'm Alive (Version 2)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/im-alive-version-2/id293116787&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1297.v.phobos.apple.com/us/r1000/097/Video/03/a7/e4/mzi.mttpbsjd..640x480.h264lc.u.p.m4v" adam-id="293116659" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="If Walls Could Talk, C&eacute;line Dion" preview-duration="30000.0" preview-title="If Walls Could Talk" video-preview-height="480" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/if-walls-could-talk/id293116659" class="artwork-link"><div class="artwork"><img width="100" height="75" alt="If Walls Could Talk, CÃ©line Dion" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Video/v4/7c/c9/04/7cc90476-1071-9389-bcd1-db5418cd342e/cover204x150.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Video/v4/7c/c9/04/7cc90476-1071-9389-bcd1-db5418cd342e/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>14. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/if-walls-could-talk/id293116659" class="name">If Walls Could Talk</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/if-walls-could-talk/id293116659&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1477.v.phobos.apple.com/us/r1000/069/Video/59/a4/ed/mzi.pjomannn..640x352.h264lc.u.p.m4v" adam-id="326010953" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="I Surrender (from &quot;A New Day...Live In Las Vegas&quot;), C&eacute;line Dion" preview-duration="30000.0" preview-title="I Surrender (from "A New Day...Live In Las Vegas")" video-preview-height="352" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/i-surrender-from-new-day...live/id326010953" class="artwork-link"><div class="artwork"><img width="100" height="55" alt="I Surrender (from &quot;A New Day...Live In Las Vegas&quot;), CÃ©line Dion" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Video/v4/26/1a/b5/261ab583-9f30-add2-34cf-feb8f0892f9c/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Video/v4/26/1a/b5/261ab583-9f30-add2-34cf-feb8f0892f9c/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>15. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/i-surrender-from-new-day...live/id326010953" class="name">I Surrender (from &quot;A New Day...Live In Las Vegas&quot;)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/i-surrender-from-new-day...live/id326010953&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1561.v.phobos.apple.com/us/r1000/085/Video/21/86/c0/mzi.glbnxehi..640x464.h264lc.u.p.m4v" adam-id="293115716" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="I Want You to Need Me, C&eacute;line Dion" preview-duration="30000.0" preview-title="I Want You to Need Me" video-preview-height="464" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/i-want-you-to-need-me/id293115716" class="artwork-link"><div class="artwork"><img width="100" height="73" alt="I Want You to Need Me, CÃ©line Dion" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Video/v4/af/0b/d2/af0bd217-e412-34be-0123-2134daefed1e/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Video/v4/af/0b/d2/af0bd217-e412-34be-0123-2134daefed1e/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>16. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/i-want-you-to-need-me/id293115716" class="name">I Want You to Need Me</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/i-want-you-to-need-me/id293115716&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a867.v.phobos.apple.com/us/r1000/080/Video/e0/05/81/mzi.mpqnxzqn..640x464.h264lc.u.p.m4v" adam-id="501773571" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="Then You Look At Me, C&eacute;line Dion" preview-duration="30000.0" preview-title="Then You Look At Me" video-preview-height="464" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/then-you-look-at-me/id501773571" class="artwork-link"><div class="artwork"><img width="100" height="73" alt="Then You Look At Me, CÃ©line Dion" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Video/v4/14/0f/29/140f2927-7955-d3c6-5d7d-6567c0934341/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Video/v4/14/0f/29/140f2927-7955-d3c6-5d7d-6567c0934341/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>17. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/then-you-look-at-me/id501773571" class="name">Then You Look At Me</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/then-you-look-at-me/id501773571&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a1993.v.phobos.apple.com/us/r1000/100/Video/1e/f4/e1/mzi.lfynlale..640x352.h264lc.u.p.m4v" adam-id="325935145" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="I Drove All Night (from Vegas Show), C&eacute;line Dion" preview-duration="30000.0" preview-title="I Drove All Night (from Vegas Show)" video-preview-height="352" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/i-drove-all-night-from-vegas/id325935145" class="artwork-link"><div class="artwork"><img width="100" height="55" alt="I Drove All Night (from Vegas Show), CÃ©line Dion" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video/v4/18/fe/5b/18fe5bb8-14b4-b891-22ca-09f6475858d5/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Video/v4/18/fe/5b/18fe5bb8-14b4-b891-22ca-09f6475858d5/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>18. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/i-drove-all-night-from-vegas/id325935145" class="name">I Drove All Night (from Vegas Show)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/i-drove-all-night-from-vegas/id325935145&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a134.v.phobos.apple.com/us/r1000/086/Video/64/17/75/mzi.qaahqbin..640x480.h264lc.u.p.m4v" adam-id="295667582" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="All By Myself, C&eacute;line Dion" preview-duration="30000.0" preview-title="All By Myself" video-preview-height="480" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/all-by-myself/id295667582" class="artwork-link"><div class="artwork"><img width="100" height="75" alt="All By Myself, CÃ©line Dion" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Video/v4/13/01/ee/1301eebd-b0c0-f36b-e545-189af1cd49cc/cover204x150.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Video/v4/13/01/ee/1301eebd-b0c0-f36b-e545-189af1cd49cc/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>19. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/all-by-myself/id295667582" class="name">All By Myself</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/all-by-myself/id295667582&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div role="group" metrics-loc="Lockup_" video-preview-url="http://a996.v.phobos.apple.com/us/r1000/071/Video/16/78/39/mzi.lwepiavg..640x448.h264lc.u.p.m4v" adam-id="293116952" preview-artist="CÃ©line Dion" video-preview-width="640" aria-label="You and I (Edited Version), C&eacute;line Dion" preview-duration="30000.0" preview-title="You and I (Edited Version)" video-preview-height="448" class="lockup small music-video music video">
+  
+    <a href="https://itunes.apple.com/us/music-video/you-and-i-edited-version/id293116952" class="artwork-link"><div class="artwork"><img width="100" height="70" alt="You and I (Edited Version), CÃ©line Dion" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Video/v4/73/f9/d3/73f9d339-0c03-7491-719a-235d0ebbe33c/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/us/r30/Video/v4/73/f9/d3/73f9d339-0c03-7491-719a-235d0ebbe33c/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>20. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/music-video/you-and-i-edited-version/id293116952" class="name">You and I (Edited Version)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/music-video/you-and-i-edited-version/id293116952&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+</div></div>
+  
+</div>
+<ul class="list paginate"><li><a href="https://itunes.apple.com/us/artist/celine-dion/id63729?musicVideoPage=1#musicVideoPage" class="selected">1</a></li><li><a href="https://itunes.apple.com/us/artist/celine-dion/id63729?musicVideoPage=2#musicVideoPage">2</a></li></ul>
+  
+  
+</div>
+<div metrics-loc="Titledbox_Top Movies" class="top-albums">
+  
+    <h3>
+      
+      Top Movies
+    </h3>
+    
+  
+  
+  
+    
+<div metrics-loc="Swoosh_" rows="4" class="swoosh lockup-container movie video large album">
+
+  
+    
+    <div num-items="3" class="content"><div>
+<div parental-rating="1" rating-movie="100,mpaa" role="group" metrics-loc="Lockup_" video-preview-url="http://a465.v.phobos.apple.com/us/r1000/003/Video/99/28/b2/mzm.nncinxvj..640x480.h264lc.D2.p.m4v" adam-id="279599106" preview-artist="Frederik Du Chau" video-preview-width="709" aria-label="Quest for Camelot" preview-title="Quest for Camelot" video-preview-height="480" class="lockup small movie video">
+  
+    <a href="https://itunes.apple.com/us/movie/quest-for-camelot/id279599106" class="artwork-link"><div class="artwork"><img width="93" height="140" alt="Quest for Camelot" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Video/v4/d7/78/3e/d7783e87-6a80-34a7-92f5-e7638708f363/poster280x280.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Video/v4/d7/78/3e/d7783e87-6a80-34a7-92f5-e7638708f363/poster140x140.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>1. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/movie/quest-for-camelot/id279599106" class="name">Quest for Camelot</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/movie/quest-for-camelot/id279599106&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-movie="0,mpaa" role="group" metrics-loc="Lockup_" video-preview-url="http://a369.v.phobos.apple.com/us/r1000/020/Video/2d/01/7d/mzm.suawfypb..640x480.h264lc.d2.p.m4v" adam-id="610030091" preview-artist="CÃ©line Dion" video-preview-width="853" aria-label="C&eacute;line Dion: Taking Chances World Tour - The Concert" preview-title="CÃ©line Dion: Taking Chances World Tour - The Concert" video-preview-height="480" class="lockup small movie video">
+  
+    <a href="https://itunes.apple.com/us/movie/celine-dion-taking-chances/id610030091" class="artwork-link"><div class="artwork"><img width="93" height="140" alt="CÃ©line Dion: Taking Chances World Tour - The Concert" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Video/v4/7c/fc/f6/7cfcf663-efa7-3d6e-5607-97620b05176c/poster280x280.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/us/r30/Video/v4/7c/fc/f6/7cfcf663-efa7-3d6e-5607-97620b05176c/poster140x140.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>2. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/movie/celine-dion-taking-chances/id610030091" class="name">CÃ©line Dion: Taking Chances World Tour - The Concert</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/movie/celine-dion-taking-chances/id610030091&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div parental-rating="1" rating-movie="0,mpaa" role="group" metrics-loc="Lockup_" video-preview-url="http://a753.v.phobos.apple.com/us/r1000/053/Video/21/aa/92/mzm.symrxtrr..640x480.h264lc.d2.p.m4v" adam-id="610030934" preview-artist="CÃ©line Dion" video-preview-width="853" aria-label="C&eacute;line Dion: Through the Eyes of the World" preview-title="CÃ©line Dion: Through the Eyes of the World" video-preview-height="480" class="lockup small movie video">
+  
+    <a href="https://itunes.apple.com/us/movie/celine-dion-through-eyes-world/id610030934" class="artwork-link"><div class="artwork"><img width="101" height="140" alt="CÃ©line Dion: Through the Eyes of the World" src-swap-high-dpi="http://a4.mzstatic.com/us/r30/Video/v4/b3/3f/ca/b33fca7e-96c6-bc22-69c3-27395cee96c4/poster280x280.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Video/v4/b3/3f/ca/b33fca7e-96c6-bc22-69c3-27395cee96c4/poster140x140.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>3. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/movie/celine-dion-through-eyes-world/id610030934" class="name">CÃ©line Dion: Through the Eyes of the World</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/movie/celine-dion-through-eyes-world/id610030934&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+</div></div>
+  
+</div>
+
+  
+  
+</div>
+<div metrics-loc="Titledbox_Top Books" class="top-albums">
+  
+    <h3>
+      
+      Top Books
+    </h3>
+    
+  
+  
+  
+    
+<div metrics-loc="Swoosh_" rows="4" class="swoosh lockup-container ebook large album">
+
+  
+    
+    <div num-items="5" class="content"><div>
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="536610786" preview-artist="CÃ©line Dion" aria-label="My Heart Will Go On (from Titanic)" preview-title="My Heart Will Go On (from Titanic)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/my-heart-will-go-on-from-titanic/id536610786?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="My Heart Will Go On (from Titanic)" src-swap-high-dpi="http://a1.mzstatic.com/us/r30/Publication/v4/f6/8f/77/f68f77ef-feb2-a489-4a4f-cddc001d7f02/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/us/r30/Publication/v4/f6/8f/77/f68f77ef-feb2-a489-4a4f-cddc001d7f02/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>1. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/my-heart-will-go-on-from-titanic/id536610786?mt=11" class="name">My Heart Will Go On (from Titanic)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/my-heart-will-go-on-from-titanic/id536610786?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="506879185" preview-artist="Il Divo & CÃ©line Dion" aria-label="I Believe in You (Je Crois En Toi)" preview-title="I Believe in You (Je Crois En Toi)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/i-believe-in-you-je-crois-en-toi/id506879185?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="I Believe in You (Je Crois En Toi)" src-swap-high-dpi="http://a5.mzstatic.com/us/r30/Publication/v4/d9/d1/c4/d9d1c4c3-0343-0172-3400-3176e108bba7/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Publication/v4/d9/d1/c4/d9d1c4c3-0343-0172-3400-3176e108bba7/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>2. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/i-believe-in-you-je-crois-en-toi/id506879185?mt=11" class="name">I Believe in You (Je Crois En Toi)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/i-believe-in-you-je-crois-en-toi/id506879185?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="376741450" preview-artist="CÃ©line Dion & Andrea Bocelli" aria-label="The Prayer" preview-title="The Prayer" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/the-prayer/id376741450?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="The Prayer" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Publication/v4/f9/bc/e4/f9bce4aa-260c-08c2-3110-2e7ecceb9371/cover200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Publication/v4/f9/bc/e4/f9bce4aa-260c-08c2-3110-2e7ecceb9371/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>3. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/the-prayer/id376741450?mt=11" class="name">The Prayer</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/the-prayer/id376741450?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="511345842" preview-artist="CÃ©line Dion" aria-label="Because You Loved Me (Theme from Up Close &amp; Personal)" preview-title="Because You Loved Me (Theme from Up Close & Personal)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/because-you-loved-me-theme/id511345842?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="Because You Loved Me (Theme from Up Close &amp; Personal)" src-swap-high-dpi="http://a2.mzstatic.com/us/r30/Publication/v4/91/b0/9e/91b09ebd-2625-4e62-7680-3d72a3fbca36/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/us/r30/Publication/v4/91/b0/9e/91b09ebd-2625-4e62-7680-3d72a3fbca36/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>4. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/because-you-loved-me-theme/id511345842?mt=11" class="name">Because You Loved Me (Theme from Up Close &amp; Personal)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/because-you-loved-me-theme/id511345842?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-book="0" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="544828623" preview-artist="CÃ©line Dion" aria-label="My Heart Will Go On (Sheet Music)" preview-title="My Heart Will Go On (Sheet Music)" class="lockup small ebook">
+  
+    <a href="https://itunes.apple.com/us/book/my-heart-will-go-on-sheet-music/id544828623?mt=11" class="artwork-link"><div class="artwork"><img width="75" height="100" alt="My Heart Will Go On (Sheet Music)" src-swap-high-dpi="http://a3.mzstatic.com/us/r30/Publication/v4/23/69/61/23696139-80dd-3d9a-2b5e-02ca622eaba2/cover150x250.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/us/r30/Publication/v4/23/69/61/23696139-80dd-3d9a-2b5e-02ca622eaba2/cover100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/57DC/frameworks/images/p.png" /></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+      <span class="index">
+        <span>5. </span>
+      </span>
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/us/book/my-heart-will-go-on-sheet-music/id544828623?mt=11" class="name">My Heart Will Go On (Sheet Music)</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/us/book/my-heart-will-go-on-sheet-music/id544828623?mt=11&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+</div></div>
+  
+</div>
+
+  
+  
+</div>
+
+        </div> 
+       
+        
+
+        
+        <div id="left-stack"><div class="bio-stats"><h5>Birth Name:</h5><p>CÃ©line Marie Claudette Dion</p><h5>Born:</h5><p>March 30, 1968 in Charlemagne, Quebec, Canada</p><h5>Genre</h5><div class="genres"><a href="https://itunes.apple.com/us/genre/music-pop/id14">Pop</a></div><h5>Years Active:</h5><p> '80s, '90s, '00s, '10s</p></div><div metrics-loc="Titledbox_Influencers">
+  
+    <h4>
+      
+      Influencers
+    </h4>
+    
+  
+  
+  
+    <ul class="list"><li><a href="https://itunes.apple.com/us/artist/freddie-mercury/id3915743">Freddie Mercury</a></li></ul>
+  
+  
+</div>
+<div metrics-loc="Titledbox_Followers">
+  
+    <h4>
+      
+      Followers
+    </h4>
+    
+  
+  
+  
+    <ul class="list"><li><a href="https://itunes.apple.com/us/artist/marie-chantal-toupin/id199132898">Marie-Chantal Toupin</a></li><li><a href="https://itunes.apple.com/us/artist/jessica-simpson/id632051">Jessica Simpson</a></li><li><a href="https://itunes.apple.com/us/artist/raul/id2698474">RaÃºl</a></li><li><a href="https://itunes.apple.com/us/artist/rebecca-lynn-howard/id39440">Rebecca Lynn Howard</a></li><li><a href="https://itunes.apple.com/us/artist/myra/id3299247">Myra</a></li><li><a href="https://itunes.apple.com/us/artist/chimene-badi/id16219749">ChimÃ¨ne Badi</a></li><li><a href="https://itunes.apple.com/us/artist/katharine-mcphee/id154185410">Katharine McPhee</a></li><li><a href="https://itunes.apple.com/us/artist/sonja-alden/id218270882">Sonja Alden</a></li><li><a href="https://itunes.apple.com/us/artist/conchita-wurst/id478809954">Conchita Wurst</a></li><li><a href="https://itunes.apple.com/us/artist/christina-aguilera/id259398">Christina Aguilera</a></li></ul>
+  
+  
+</div>
+<div metrics-loc="Titledbox_Contemporaries">
+  
+    <h4>
+      
+      Contemporaries
+    </h4>
+    
+  
+  
+  
+    <ul class="list"><li><a href="https://itunes.apple.com/us/artist/whitney-houston/id13952">Whitney Houston</a></li><li><a href="https://itunes.apple.com/us/artist/jennifer-warnes/id133577">Jennifer Warnes</a></li><li><a href="https://itunes.apple.com/us/artist/mariah-carey/id91853">Mariah Carey</a></li><li><a href="https://itunes.apple.com/us/artist/shania-twain/id129974">Shania Twain</a></li><li><a href="https://itunes.apple.com/us/artist/bob-carlisle/id1395938">Bob Carlisle</a></li><li><a href="https://itunes.apple.com/us/artist/madonna/id20044">Madonna</a></li><li><a href="https://itunes.apple.com/us/artist/gloria-estefan/id485022">Gloria Estefan</a></li><li><a href="https://itunes.apple.com/us/artist/barbra-streisand/id249646">Barbra Streisand</a></li><li><a href="https://itunes.apple.com/us/artist/annie-lennox/id14000">Annie Lennox</a></li><li><a href="https://itunes.apple.com/us/artist/michael-bolton/id200151">Michael Bolton</a></li></ul>
+  
+  
+</div>
+</div>
+        
+      </div> 
+
+      
+    </div>
+  
+  </div>
+
+    
+    
+    
+    <object classID="CLSID:D719897A-B07A-4C0C-AEA9-9B663A28DFCB" width="1" height="1" id="iTunesDetectorIE" ></object>
+    <script type="text/javascript">itms.PageData.itunesDownloadUrl='http://www.apple.com/itunes/affiliates/download/?id=63729';</script>
+
+  
+  
+      <div id="socialwrapper">
+        <aside class="social selfclear"><section class="column first"><h1><img src="https://www.apple.com/itunes/shared/itunes-this-week/images/social_appstore_title.png" alt="App Store on Facebook and Twitter" width="261" height="20"></h1>
+		<iframe src="//www.facebook.com/plugins/like.php?app_id=116556461780510&amp;href=http%3A%2F%2Fwww.facebook.com%2FAppStore&amp;send=false&amp;layout=box_count&amp;width=85&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=75&amp;locale=en_US" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:75px;" allowtransparency="true" class="right"></iframe>
+		<img src="https://www.apple.com/global/elements/itunesmodule/facebook_appstore_icon.png" alt="" width="55" height="55" class="left"><p>Discover and share<br> new apps.</p>
+		<p class="nopad">Follow us on <a href="http://tw.appstore.com/M7e">@AppStore</a>.</p>
+	</section><section class="column"><h1><img src="https://www.apple.com/itunes/shared/itunes-this-week/images/social_itunes_facebook_title.png" alt="iTunes on Facebook" width="146" height="20"></h1>
+		<iframe src="//www.facebook.com/plugins/like.php?app_id=161583840592879&amp;href=http%3A%2F%2Fwww.facebook.com%2FiTunes&amp;send=false&amp;layout=box_count&amp;width=85&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=75&amp;locale=en_US" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:75px;" allowtransparency="true" class="right"></iframe>
+		<img src="https://www.apple.com/global/elements/itunesmodule/facebook_itunes_icon.png" alt="" width="55" height="55" class="left"><p>Discover and share new music, movies, TV, books, and more.</p>
+	</section><section class="column last"><h1><img src="https://www.apple.com/itunes/shared/itunes-this-week/images/social_itunes_twitter_title.png" alt="iTunes on Twitter" width="126" height="20"></h1>
+		<img src="https://www.apple.com/global/elements/itunesmodule/twitter_icon.png" alt="" width="55" height="55" class="left"><p>Follow us <a href="http://tw.itunes.com/H8a">@iTunes</a> and discover <br>new iTunes Radio Stations<br> and the music we love.</p>
+	</section></aside>
+      </div>
+  
+  
+  <footer id="globalfooter"><div id="breadory">
+			<ol id="breadcrumbs">
+<li class="home"><a href="http://www.apple.com/">Home</a></li>
+				<li>iTunes</li>
+			</ol>
+<!--googleoff: all--><div id="directorynav" class="itunes">
+	<div id="dn-cola" class="column first">
+		<h3>iTunes</h3>
+		<ul>
+<li><a href="http://www.apple.com/itunes/download/">Download iTunes</a></li>
+			<li><a href="http://www.apple.com/itunes/features/">Features</a></li>
+			<li><a href="http://www.apple.com/itunes/charts/">iTunes Charts</a></li>
+		</ul>
+</div>
+	<div id="dn-colb" class="column">
+		<h3>More iTunes</h3>
+		<ul>
+<li><a href="http://www.apple.com/itunes/digital-music-basics/">Digital Music Basics</a></li>
+			<li><a href="http://www.apple.com/itunes/gifts/">iTunes Gifts</a></li>
+			<li><a href="http://www.apple.com/education/ipad/itunes-u/">iTunes U</a></li>
+			<li><a href="http://www.apple.com/support/ipod/">iPod + iTunes Support</a></li>
+			<li><a href="http://www.apple.com/airplay/">AirPlay</a></li>
+			<li><a href="http://www.apple.com/accessibility/other-products/">Accessibility</a></li>
+		</ul>
+</div>
+	<div id="dn-colc" class="column">
+		<h3>Working with iTunes</h3>
+		<ul>
+<li><a href="http://www.apple.com/itunes/working-itunes/">Overview</a></li>
+			<li><a href="http://www.apple.com/itunes/working-itunes/sell-content/">Sell Your Content</a></li>
+			<li><a href="http://www.apple.com/itunes/working-itunes/enhance/">Enhance Your Content</a></li>
+			<li><a href="http://www.apple.com/itunes/working-itunes/market/">Market with iTunes</a></li>
+			<li><a href="http://www.apple.com/itunes/link/">Link to iTunes</a></li>
+		</ul>
+</div>
+	<div id="dn-cold" class="column last">
+		<h3>iTunes Store</h3>
+		<ul>
+<li><a href="http://itunes.apple.com/us/browse/">Browse iTunes Store</a></li>
+			<li><a href="https://itunes.apple.com/us/genre/ios/id36?mt=8">Browse App Store</a></li>
+			<li><a href="http://itunes.apple.com/us/store">Buy Music Now</a></li>
+			<li><a href="http://store.apple.com/us/browse/home/giftcards/itunes/gallery">Buy iTunes Gift Cards</a></li>
+			<li><a href="https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/redeemLandingPage">Redeem iTunes Gift Cards</a></li>
+			<li><a href="http://www.apple.com/itunes/corporatesales/">iTunes Corporate Sales</a></li>
+			<li><a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMultiRoom?cc=us&amp;fcId=496598350">Free Single of the Week</a></li>
+		</ul>
+</div>
+	<div class="capbottom"></div>
+</div>
+<!--googleon: all-->
+
+		</div>
+<!--/breadory-->
+		<p class="gf-buy footer-shop"><span>Shop the <a href="http://store.apple.com/us">Apple Online Store</a> (1-800-MY-APPLE),</span> visit an <a href="http://www.apple.com/retail/">Apple Retail Store</a>, or find a <a href="http://www.apple.com/buy/">reseller</a>.</p>
+
+<ul class="gf-links piped footer-links">
+<li><a href="http://www.apple.com/about/" class="first">Apple Info</a></li>
+	<li><a href="http://www.apple.com/sitemap/">Site Map</a></li>
+	<li><a href="http://www.apple.com/hotnews/">Hot News</a></li>
+	<li><a href="http://www.apple.com/rss/">RSS Feeds</a></li>
+	<li><a href="http://www.apple.com/contact/" class="contact_us">Contact Us</a></li>
+	<li><a href="http://www.apple.com/choose-your-country/" class="choose">
+		
+			<img src="https://www.apple.com/global/elements/flags/22x22/usa.png" alt="Choose your country or region" width="22" height="22" data-hires="true"></a></li>
+</ul>
+<div class="gf-sosumi footer-sosumi">
+	<p>Copyright &copy; 2014 Apple Inc. All rights reserved.</p>
+	<ul class="piped">
+<li><a href="http://www.apple.com/legal/internet-services/terms/site.html" class="first">Terms of Use</a></li>
+		<li><a href="http://www.apple.com/legal/privacy/en-us/">Privacy Policy</a></li>
+	</ul>
+</div>
+
+	</footer>
+  <script language="JavaScript" type="text/javascript"><!--
+
+    var iTSMetricsCallbackFunction = function() {
+	    ITSMetrics.reportingSuite = "appleitmswww,appleitmsus";
+	    ITSMetrics.omniture = ITSMetrics.createBaselineOmnitureObject();
+	    
+	    ITSMetrics.isPageMetricsEnabled=true;
+	    
+	    
+	    
+	
+	    /* Page Metrics */
+	    ITSMetrics.omniture.pageName="SEO-Artist-US-C\u00E9line Dion-63729";
+ITSMetrics.omniture.channel="SEO";
+ITSMetrics.omniture.prop22="HTML";
+ITSMetrics.omniture.eVar22="HTML";
+
+	    
+	    
+	    
+	    /* User Agent */
+	    var userAgentForMetrics = ITSMetrics.userAgentForMetrics();
+	    ITSMetrics.omniture.prop12 = userAgentForMetrics;
+	    ITSMetrics.omniture.eVar12 = userAgentForMetrics;
+	    
+	    // check if Game Center
+	    var gcUserAgent = "GameCenter";
+	    var isGameCenter = userAgentForMetrics.length >= gcUserAgent.length && userAgentForMetrics.substr(0, gcUserAgent.length) == gcUserAgent;
+	    if (isGameCenter) {
+	        // prepend "GameCenter" to page and channel name
+	        if (ITSMetrics.omniture.pageName) ITSMetrics.omniture.pageName = "GameCenter-" + ITSMetrics.omniture.pageName;
+	        if (ITSMetrics.omniture.channel) ITSMetrics.omniture.channel = "GameCenter-" + ITSMetrics.omniture.channel;
+	    }
+	    
+	    
+	    /* Browser Plugins */
+	    ITSMetrics.shouldTrackBrowserPlugins = false;
+	    
+	    /* Pass-thru query params */
+	    ITSMetrics.processQueryParameterInfoInCurrentRequest(ITSMetrics.omniture);
+	    
+	    if (ITSMetrics.isPageMetricsEnabled && ITSMetrics.isOmnitureSupportedOnClient()) {
+	        ITSMetrics.emitPagePing = function() {
+	            var s_code=ITSMetrics.omniture.t();
+                // Make a second ping to Figaro for Preview
+                if (window.webPreview) {
+                    var queryParams = {};
+                    queryParams.responseType="image";
+                    queryParams.eventVersion = 1;  // begin query parameters
+                    queryParams.eventType = "page";  // hardcoded
+
+                    var time = new Date();
+                    queryParams.eventTime = time.getTime();
+                    queryParams.pageName = ITSMetrics.omniture.pageName;
+                    queryParams.pageUrl = window.location.href;  // current page url
+                    queryParams.refUrl = document.referrer; //Refer
+                    queryParams.pageType = ITSMetrics.omniture.channel; //Channel
+
+                    queryParams.userAgent = window.navigator.userAgent; //User agent
+
+                    queryParams.screenWidth = screen.width;
+                    queryParams.screenHeight = screen.height; // screen size
+
+                    queryParams.windowInnerWidth = window.innerWidth;  // browser width
+                    queryParams.windowInnerHeight = window.innerHeight;  // browser height
+
+                    queryParams.app = navigator.appName;
+
+                    var url = "https://xp.apple.com/report/2/xp_its_preview";
+
+                    url = its.url.appendUrlParameters(url, queryParams);
+                    var image = new Image();
+                    image.src = url;
+                }
+                if (s_code) {
+	                var containingDiv = document.createElement('div');
+	                containingDiv.innerHTML = s_code;
+	                document.body.appendChild(containingDiv);
+	            }
+	        };
+	        its.x.addEventListener(window, 'load', function() { window.setTimeout(ITSMetrics.emitPagePing, 1) }, false );
+	    }
+    };
+
+    if (!window["ITSMetrics"]){ 
+	    iTSDefer.register(function() {
+	        iTSMetricsCallbackFunction();
+	    });
+    } else {
+        iTSMetricsCallbackFunction();
+    }
+--></script>
+    <script>
+        if (!window.its) {
+            window.its = {};
+        }
+        window.its.markupLoadEndTime = new Date().getTime();
+    </script>
+
+
+
+</body>
+
+
+
+</html>

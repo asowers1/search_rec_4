@@ -1,0 +1,13 @@
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Age: 0
+Cache-Control: max-age=600
+Date: Sat, 21 Feb 2015 00:29:05 GMT
+Last-Modified: Sat, 21 Feb 2015 00:29:05 GMT
+Server: nginx
+Vary: Accept-Encoding,CloudFront-Is-Mobile-Viewer,CloudFront-Is-Desktop-Viewer,CloudFront-Is-Tablet-Viewer
+X-Cache: Miss from cloudfront
+Via: 1.1 d269b53199a539a1ee8c6d8da6c17acf.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: EWBjoDZPJfI1ssM18kXM3gQP9C4CxNNtLhATyFnnUnehiMe5BdGhKg==
+

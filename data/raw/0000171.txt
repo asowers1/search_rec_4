@@ -1,0 +1,852 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+        <meta name="viewport" content="width=980" />
+
+        <script type="text/javascript" src="http://use.typekit.com/jdi1oag.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+                
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/pixar_2012_favicon_0.ico" type="image/x-icon" />
+        <title>Pixar</title>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_16f49ed65a86159c8552cd29c1add348.css" />
+<link rel="stylesheet" type="text/css" href="/sites/all/modules/contrib/jcarousel/skins/tango/jcarousel-tango.css" media="all" />        <script type="text/javascript" src="/sites/default/files/js/js_c2d3cbbd039b3a77c990ebd0a09729c7.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "ahahPageStorage": { "pageBuildId": "page-c3a14093f939afd8fa1ccdb5b9e20034" }, "jcarousel": { "ajaxPath": "/jcarousel/ajax/views" }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/contrib/lightbox2/images/brokenimage.jpg", "border_size": 0, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.9", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 1, "fade_in_speed": 500, "slide_down_speed": 1, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 0, "force_show_nav": 0, "show_caption": 1, "loop_items": 0, "node_link_text": "View Image Details", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 } });
+//--><!]]>
+</script>
+        <!--[if lt IE 7]>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/pixar_2012/fix-ie.css" />        <![endif]-->
+        <!--[if IE]>
+        <style type="text/css" media="all">@import "/sites/all/themes/pixar_2012/css/ieStyle.css";</style>        <![endif]-->
+                    <style>
+                .edit-link{display:none !important;}
+                .edit-film-link{display:none !important;}
+            </style>
+                <style>
+	#center #squeeze .right-corner {
+	  visibility:hidden;
+	}
+	#spinner{
+	  padding-top: 200px;
+	  text-align: center;
+	}
+        </style>
+    </head>
+    <body>
+        <!-- Layout -->
+        <div id="header-region" class="clear-block"></div>
+
+        <div id="wrapper">
+            <div id="container" class="clear-block">
+
+                <div id="header">
+                    <div id="logo-floater" class="separator">
+                        <a href="/" title=""><img src="/sites/default/files/logo.png" alt="" id="logo" /></a>                    </div>
+
+                                            <ul class="links primary-links"><li class="menu-724 active-trail first"><a href="/features_films" title="Feature Films">Feature Films</a></li>
+<li class="menu-1812"><a href="/short_films/home" title="Short Films">Short Films</a></li>
+<li class="menu-3741"><a href="/behind_the_scenes" title="Behind the Scenes">Behind the Scenes</a></li>
+<li class="menu-649"><a href="http://renderman.pixar.com" title="RenderMan" target="_blank">RenderMan</a></li>
+<li class="menu-2714"><a href="/careers" title="Careers">Careers</a></li>
+<li class="menu-3447 last"><a href="/about" title="Company Info">About</a></li>
+</ul>                                                                                                          
+                </div> <!-- /header -->
+                
+                <div id="center">
+                    <div id="squeeze">
+                                            <!--  <div id="spinner"><img src="//images/ad_v2.gif"/></div> -->
+                        <div class="right-corner">
+                            <div class="left-corner">
+                                                                                                                                                                                                                                                                                                      <div class="clear-block">
+                                    <script type="text/javascript">
+    $(document).ready(function(){
+        //$('.jcarousel-view--feature-films--page-1').jcarousel('enableHash',true);
+        $("li.menu-724").children("a").addClass("active");
+        
+
+        /*
+         * If there is a hash for film_detail call the click for that element
+         */
+        parseDeepLinking();
+    });
+</script>
+<div class="view view-feature-films view-id-feature_films view-display-id-page_1 feature-billboard view-dom-id-14ab07423668baeeea0894f9998cb92d">
+    
+  
+  
+  <div class="trailers">
+    <div class="trailers_content">
+    <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <div class="trailers_buttom" id="trailers_buttom">
+
+</div>
+<div id="trailers_internal_content">
+  <div class='trailers_content_left'><ul><li><a href="javascript:void(0);" rel="0" name="Trailers">Trailers</a></li><li><a href="javascript:void(0);" rel="1" name="Making Of">Making Of</a></li></ul>      
+      <div class="social_shares">
+        <a class="facebook_btn" target="_blank">
+          Share Pixar on Facebook
+        </a>
+        <a class="twitter_btn" rel='pop-up'>
+          Share Pixar on Twitter
+        </a>
+    </div>
+  </div><div class='trailers_content_right'><div class='trailers_content_scroll_right'><div class="trailers_video_categories p0"><div class="trailers_video_categories_title"><a name="Trailers">Trailers</a></div><div class="trailers_video_info ">  <div><span class="trailer_video_title">Toy Story 3: Teaser</span></div>  <div><a href="/node/4001?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/Ts3-_t1.jpg" width="152" height="85" /></a></div>  <div><a href="/node/4001?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 1:45</div></div><div class="trailers_video_info ">  <div><span class="trailer_video_title">Toy Story 3: Trailer 1</span></div>  <div><a href="/node/4002?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/ts3_t2.jpg" width="152" height="85" /></a></div>  <div><a href="/node/4002?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 2:19</div></div><div class="trailers_video_info ">  <div><span class="trailer_video_title">Toy Story 3: Trailer 2</span></div>  <div><a href="/node/4003?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/ts3_t3.jpg" width="152" height="85" /></a></div>  <div><a href="/node/4003?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 2:30</div></div><div class="clear"></div></div><div class="trailers_video_categories p1"><div class="trailers_video_categories_title"><a name="Making Of">Making Of</a></div><div class="trailers_video_info ">  <div><span class="trailer_video_title">TS3: Toys</span></div>  <div><a href="/node/3874?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/toys.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3874?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 6:44</div></div><div class="trailers_video_info ">  <div><span class="trailer_video_title">TS3: Shot's Life</span></div>  <div><a href="/node/3875?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/shots.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3875?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 7:04</div></div><div class="trailers_video_info ">  <div><span class="trailer_video_title">TS3: Prison Life</span></div>  <div><a href="/node/3876?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/prison.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3876?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 3.46</div></div><div class="trailers_video_info ">  <div><span class="trailer_video_title">TS3:Toymakers</span></div>  <div><a href="/node/3878?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/toymakers.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3878?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 4:03</div></div><div class="trailers_video_info trailers_sub_videos">  <div><span class="trailer_video_title">TS3: Goodbye</span></div>  <div><a href="/node/3880?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img class="shadow" src="/sites/default/files/goodbye.jpg" width="152" height="85" /></a></div>  <div><a href="/node/3880?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><span class="trailer_watch_now">Watch Now</span></a></div>  <div class="trailer_video_run_time">Run Time: 8:10</div></div><div class="clear"></div></div></div></div></div>
+    </div>
+</div>    </div>
+
+  <div class="featureBillboard clear">
+                <div class="view-content">
+              <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+          
+
+<div class="billboardImage" style="background: url('http://www.pixar.com/sites/default/files/01_title.jpg')"></div>
+
+    
+          <div class="billboard Left Top white headerFutura">
+    
+  <div class="views-field views-field-field-header-text-color-value">        <span class="field-content"><style>
+	.header_text_color2584 { 
+	  color: #000000 !important; 
+	  text-align: left !important ;
+	  }
+</style>
+</span>  </div>  
+          <div class="header"><h2 class="size font header_text_color2584"> </h2></div>    
+  <div class="views-field views-field-field-synopsis-text-color-value">        <span class="field-content"><style>
+	.synopsis-text-color2584 { color:#000000 !important; }
+</style></span>  </div>  
+  <div class="views-field views-field-field-link-value">        <span class="field-content">
+</span>  </div>  
+  <div>        <div class="gallery"><div class="view view-gallery-videos-from-billboard view-id-gallery_videos_from_billboard view-display-id-block_1 view-dom-id-cfd676c4396fbf45f9e2b68c1397e49e">
+    
+  
+  
+  
+  
+  
+  
+  
+  
+</div></div>  </div>  
+          </div>    
+          <div class="hidden billboardTitle">TS3-credits</div>  </li>
+          <li class="views-row views-row-2 views-row-even">  
+          
+
+<div class="billboardImage" style="background: url('http://www.pixar.com/sites/default/files/0ys.jpg')"></div>
+
+    
+          <div class="billboard Right Top white headerFutura">
+    
+  <div>        <h2 class="aboutField">About the Film</h2>  </div>  
+  <div class="views-field views-field-field-header-text-color-value">        <span class="field-content"><style>
+	.header_text_color2574 { 
+	  color: #ffffff !important; 
+	  text-align: left !important ;
+	  }
+</style>
+</span>  </div>  
+          <div class="header"><h2 class="size48 fontBook header_text_color2574">The creators of the </h2></div>    
+  <div class="views-field views-field-field-synopsis-text-color-value">        <span class="field-content"><style>
+	.synopsis-text-color2574 { color:#ffffff !important; }
+</style></span>  </div>  
+  <div class="views-field views-field-field-synopsis-value">        <div class="field-content synopsis-text-color2574"><p>beloved <em>Toy Story&nbsp;</em>films re-open the toy box and bring moviegoers back to the delightful world of our favorite gang of toy characters in <em>Toy Story 3</em>. As Andy prepares to depart for college, Buzz, Woody, and the rest of his loyal toys are troubled about their uncertain future. <em>Toy Story 3</em>&nbsp; is a comical adventure that lands the toys in a room full of untamed tots who can&#39;t wait to get their sticky little fingers on these &quot;new&quot; toys. It&#39;s pandemonium as the toys try to stay together, ensuring that &quot;no toy gets left behind.&quot;</p>
+</div>  </div>  
+  <div class="views-field views-field-field-link-value">        <span class="field-content">
+</span>  </div>  
+  <div>        <div class="gallery"><div class="view view-gallery-videos-from-billboard view-id-gallery_videos_from_billboard view-display-id-block_1 view-dom-id-a8bbd48a0a89c5c852487387e716d0dd">
+    
+  
+  
+  
+  
+  
+  
+  
+  
+</div></div>  </div>  
+          </div>    
+          <div class="hidden billboardTitle">TS3-about</div>  </li>
+          <li class="views-row views-row-3 views-row-odd">  
+          
+
+<div class="billboardImage" style="background: url('http://www.pixar.com/sites/default/files/ts3_billboards_story_v2.jpg')"></div>
+
+    
+          <div class="billboard Right Top white headerFutura">
+    
+  <div>        <h2 class="aboutField">The Story</h2>  </div>  
+  <div class="views-field views-field-field-header-text-color-value">        <span class="field-content"><style>
+	.header_text_color2577 { 
+	  color: #CCCCCC !important; 
+	  text-align: left !important ;
+	  }
+</style>
+</span>  </div>  
+          <div class="header"><h2 class="size36 fontBook header_text_color2577">Several years had passed </h2></div>    
+  <div class="views-field views-field-field-synopsis-text-color-value">        <span class="field-content"><style>
+	.synopsis-text-color2577 { color:#CCCCCC !important; }
+</style></span>  </div>  
+  <div class="views-field views-field-field-synopsis-value">        <div class="field-content synopsis-text-color2577"><p>since <em>Toy Story 2</em>. &nbsp;As director Lee Unkrich took on the third installment, he realized that <em>Toy Story 3 &nbsp;</em>needed to make viewers feel like all three movies &ldquo;were part of one grand story.&rdquo; The character of a corrupt teddy bear and a day care storyline were revived from early <em>Toy Story &nbsp;</em>iterations, and the core conflict had always seemed inevitable.</p>
+<p>&ldquo;When you&rsquo;re broken, you can be fixed. When you&rsquo;re lost, you can be found. When you&rsquo;re stolen, you can be recovered. But there&rsquo;s no way to fix being outgrown by a child,&rdquo; explained Executive Producer John Lasseter.</p>
+</div>  </div>  
+  <div class="views-field views-field-field-link-value">        <span class="field-content">
+</span>  </div>  
+  <div>        <div class="gallery"><div class="view view-gallery-videos-from-billboard view-id-gallery_videos_from_billboard view-display-id-block_1 view-dom-id-dbaa18fcee7200eff2e3d895940b2af4">
+    
+  
+  
+  
+  
+  
+  
+  
+  
+</div></div>  </div>  
+          </div>    
+          <div class="hidden billboardTitle">TS3-story</div>  </li>
+          <li class="views-row views-row-4 views-row-even">  
+          
+
+<div class="billboardImage" style="background: url('http://www.pixar.com/sites/default/files/0l1.jpg')"></div>
+
+    
+          <div class="billboard Left Top white headerFutura">
+    
+  <div>        <h2 class="aboutField">The Characters</h2>  </div>  
+  <div class="views-field views-field-field-header-text-color-value">        <span class="field-content"><style>
+	.header_text_color2575 { 
+	  color: #cccccc !important; 
+	  text-align: left !important ;
+	  }
+</style>
+</span>  </div>  
+          <div class="header"><h2 class="size38 fontBook header_text_color2575">Enough time had gone by </h2></div>    
+  <div class="views-field views-field-field-synopsis-text-color-value">        <span class="field-content"><style>
+	.synopsis-text-color2575 { color:#cccccc !important; }
+</style></span>  </div>  
+  <div class="views-field views-field-field-synopsis-value">        <div class="field-content synopsis-text-color2575"><p>that viewers needed a reintroduction to Woody, Buzz, and the rest of Andy&rsquo;s toys. At the same time the filmmakers needed to give purpose and personality to the toys that would inhabit Bonnie&rsquo;s world and the day care center, which included a plush pink villain.</p>
+</div>  </div>  
+  <div class="views-field views-field-field-link-value">        <span class="field-content">
+<a href="/detail/2575?ajax=2" style="color: "
+   class="billboard-button" rel="lightmodal[feature_films|width:910px;height:560px;][]">
+    Explore the Characters</a>
+</span>  </div>  
+  <div>        <div class="gallery"><div class="view view-gallery-videos-from-billboard view-id-gallery_videos_from_billboard view-display-id-block_1 view-dom-id-0081c03f3f341d0b63874c49a05860b8">
+    
+  
+  
+      <div class="view-content">
+          <div class="row-video">
+      <div class="row-video-stile">
+        
+                  <div class="gallery_videos">              
+                  <div class="thumbnails_video">              
+      <div class="views-field views-field-field-video-thumbnail-fid">            <span class="field-content"><a href="/video/3515?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img src="http://www.pixar.com/sites/default/files/imagecache/video_thumb_preset/ts3_video_toys.jpg" alt="" title=""  class="imagecache imagecache-video_thumb_preset imagecache-default imagecache-video_thumb_preset_default" width="63" height="38" /></a></span>      </div>        
+      <div class="views-field views-field-title">            <span class="field-content"><a href="/video/3515?ajax=2" rel="lightmodal[video|width:712px;height:402px]">Toys</a></span>      </div>        
+                  </div>              
+      <div class="views-field views-field-nothing-1">            </div>      </div>  </div>    </div>
+    <div class="row-video row-last">
+      <div class="row-video-stile">
+        
+                  <div class="gallery_videos">              
+                  <div class="thumbnails_video">              
+      <div class="views-field views-field-field-video-thumbnail-fid">            <span class="field-content"><a href="/video/3879?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img src="http://www.pixar.com/sites/default/files/imagecache/video_thumb_preset/andy_small.jpg" alt="" title=""  class="imagecache imagecache-video_thumb_preset imagecache-default imagecache-video_thumb_preset_default" width="63" height="38" /></a></span>      </div>        
+      <div class="views-field views-field-title">            <span class="field-content"><a href="/video/3879?ajax=2" rel="lightmodal[video|width:712px;height:402px]">Goodbye</a></span>      </div>        
+                  </div>              
+      <div class="views-field views-field-nothing-1">            </div>      </div>  </div>    </div>
+      </div>
+  
+  
+  
+  
+  
+  
+</div></div>  </div>  
+          </div>    
+          <div class="hidden billboardTitle">TS3-characters</div>  </li>
+          <li class="views-row views-row-5 views-row-odd">  
+          
+
+<div class="billboardImage" style="background: url('http://www.pixar.com/sites/default/files/ts3_billboards_world_v4_0.jpg')"></div>
+
+    
+          <div class="billboard Right Top white headerFutura">
+    
+  <div>        <h2 class="aboutField">The World</h2>  </div>  
+  <div class="views-field views-field-field-header-text-color-value">        <span class="field-content"><style>
+	.header_text_color2579 { 
+	  color: #CCCCCC !important; 
+	  text-align: left !important ;
+	  }
+</style>
+</span>  </div>  
+          <div class="header"><h2 class="size30 fontBook header_text_color2579">Like the previous films, Toy Story 3 </h2></div>    
+  <div class="views-field views-field-field-synopsis-text-color-value">        <span class="field-content"><style>
+	.synopsis-text-color2579 { color:#CCCCCC !important; }
+</style></span>  </div>  
+  <div class="views-field views-field-field-synopsis-value">        <div class="field-content synopsis-text-color2579"><p>opened with Andy&rsquo;s toys at play in a world unconstrained by rules. But as soon as the epic Old West-space adventure was over, Andy grew up on screen through the eyes of the toys. The art directors even lit Andy&rsquo;s room differently to remind the audience that seven plus years had passed and the world&mdash;though familiar&mdash;had changed.</p>
+</div>  </div>  
+  <div class="views-field views-field-field-link-value">        <span class="field-content">
+<a href="/detail/2579?ajax=2" style="color: "
+   class="billboard-button" rel="lightmodal[feature_films|width:910px;height:560px;][]">
+    Explore the World</a>
+</span>  </div>  
+  <div>        <div class="gallery"><div class="view view-gallery-videos-from-billboard view-id-gallery_videos_from_billboard view-display-id-block_1 view-dom-id-437fd3ac880fd3f8f318468cf91af08a">
+    
+  
+  
+      <div class="view-content">
+          <div class="row-video">
+      <div class="row-video-stile">
+        
+                  <div class="gallery_videos">              
+                  <div class="thumbnails_video">              
+      <div class="views-field views-field-field-video-thumbnail-fid">            <span class="field-content"><a href="/video/3509?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img src="http://www.pixar.com/sites/default/files/imagecache/video_thumb_preset/ts3_video_life_of_a_shot.jpg" alt="" title=""  class="imagecache imagecache-video_thumb_preset imagecache-default imagecache-video_thumb_preset_default" width="63" height="38" /></a></span>      </div>        
+      <div class="views-field views-field-title">            <span class="field-content"><a href="/video/3509?ajax=2" rel="lightmodal[video|width:712px;height:402px]">Shot&#039;s Life</a></span>      </div>        
+                  </div>              
+      <div class="views-field views-field-nothing-1">            </div>      </div>  </div>    </div>
+    <div class="row-video row-last">
+      <div class="row-video-stile">
+        
+                  <div class="gallery_videos">              
+                  <div class="thumbnails_video">              
+      <div class="views-field views-field-field-video-thumbnail-fid">            <span class="field-content"><a href="/video/3809?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img src="http://www.pixar.com/sites/default/files/imagecache/video_thumb_preset/ts3_prison.jpg" alt="" title=""  class="imagecache imagecache-video_thumb_preset imagecache-default imagecache-video_thumb_preset_default" width="63" height="38" /></a></span>      </div>        
+      <div class="views-field views-field-title">            <span class="field-content"><a href="/video/3809?ajax=2" rel="lightmodal[video|width:712px;height:402px]">Prison</a></span>      </div>        
+                  </div>              
+      <div class="views-field views-field-nothing-1">            </div>      </div>  </div>    </div>
+      </div>
+  
+  
+  
+  
+  
+  
+</div></div>  </div>  
+          </div>    
+          <div class="hidden billboardTitle">TS3-world</div>  </li>
+          <li class="views-row views-row-6 views-row-even">  
+          
+
+<div class="billboardImage" style="background: url('http://www.pixar.com/sites/default/files/ts31.jpg')"></div>
+
+    
+          <div class="billboard Right Middle black headerFutura">
+    
+  <div>        <h2 class="aboutField">Toy Design</h2>  </div>  
+  <div class="views-field views-field-field-header-text-color-value">        <span class="field-content"><style>
+	.header_text_color2576 { 
+	  color: #000000 !important; 
+	  text-align: left !important ;
+	  }
+</style>
+</span>  </div>  
+          <div class="header"><h2 class="size36 fontBook header_text_color2576">Looking back on the last </h2></div>    
+  <div class="views-field views-field-field-synopsis-text-color-value">        <span class="field-content"><style>
+	.synopsis-text-color2576 { color:#000000 !important; }
+</style></span>  </div>  
+  <div class="views-field views-field-field-synopsis-value">        <div class="field-content synopsis-text-color2576"><p>installment of Pixar&rsquo;s first film, the Pixar team realized it had learned a lot. For one, anything a person wanted to put on the screen would require a lot of other people to make it happen. And the filmmakers discovered that&nbsp;while they were busy making a film about toys,&nbsp;they had become toy makers in the process.</p>
+</div>  </div>  
+  <div class="views-field views-field-field-link-value">        <span class="field-content">
+</span>  </div>  
+  <div>        <div class="gallery"><div class="view view-gallery-videos-from-billboard view-id-gallery_videos_from_billboard view-display-id-block_1 view-dom-id-6eba13ffe44d67593b55949e68f66bfc">
+    
+  
+  
+      <div class="view-content">
+          <div class="row-video row-last">
+      <div class="row-video-stile">
+        
+                  <div class="gallery_videos">              
+                  <div class="thumbnails_video">              
+      <div class="views-field views-field-field-video-thumbnail-fid">            <span class="field-content"><a href="/video/3503?ajax=2" rel="lightmodal[video|width:770px;height:560px]"><img src="http://www.pixar.com/sites/default/files/imagecache/video_thumb_preset/ts3_video_accidental_toymakers.jpg" alt="" title=""  class="imagecache imagecache-video_thumb_preset imagecache-default imagecache-video_thumb_preset_default" width="63" height="38" /></a></span>      </div>        
+      <div class="views-field views-field-title">            <span class="field-content"><a href="/video/3503?ajax=2" rel="lightmodal[video|width:712px;height:402px]">Toymakers</a></span>      </div>        
+                  </div>              
+      <div class="views-field views-field-nothing-1">            </div>      </div>  </div>    </div>
+      </div>
+  
+  
+  
+  
+  
+  
+</div></div>  </div>  
+          </div>    
+          <div class="hidden billboardTitle">TS3-behindthescenes</div>  </li>
+          <li class="views-row views-row-7 views-row-odd">  
+          
+
+<div class="billboardImage" style="background: url('http://www.pixar.com/sites/default/files/ts3_billboards_awards_v2.jpg')"></div>
+
+    
+          <div class="billboard Right Top white headerFutura">
+    
+  <div class="views-field views-field-field-header-text-color-value">        <span class="field-content"><style>
+	.header_text_color2578 { 
+	  color: #CCCCCC !important; 
+	  text-align: left !important ;
+	  }
+</style>
+</span>  </div>  
+          <div class="header"><h2 class="size48 fontBook header_text_color2578">Awards </h2></div>    
+  <div class="views-field views-field-field-synopsis-text-color-value">        <span class="field-content"><style>
+	.synopsis-text-color2578 { color:#CCCCCC !important; }
+</style></span>  </div>  
+  <div class="views-field views-field-field-synopsis-value">        <div class="field-content synopsis-text-color2578"><p><span style="color:#daa520;"><strong>1UP.com</strong></span><br />
+Winner of 1UP&#39;s 2010 Game of the Year Award for Best Family Game: Disney Interactive Studios</p>
+<p><span style="color:#daa520;"><strong>Academy Awards</strong></span><br />
+Winner for Animated Feature Film:<em> </em>Lee Unkrich<br />
+Winner for Music (Original Song): Randy Newman<br />
+Nominated for Best Picture: Darla Anderson<br />
+Nominated for Sound Editing: Tom Myers and Michael Silvers<br />
+Nominated for Writing (Adapted Screenplay): Screenplay by Michael Arndt; Story by John Lasseter, Andrew Stanton and Lee Unkrich</p>
+<p><span style="color:#daa520;"><strong>Alliance of Women Film Journalists</strong></span><br />
+Winner of Excellent Dynamic Activism Award for Best Animated Film</p>
+<p><span style="color:#daa520;"><strong>American Cinema Editors</strong></span><br />
+Winner of Eddie Award for Best Edited Animated Feature Film: Toy Story 3, Ken Schretzmann &amp; Lee Unkrich, A.C.E</p>
+<p><span style="color:#daa520;"><strong>American Film Institute</strong></span><br />
+Top Ten Movies of the Year</p>
+<p><span style="color:#daa520;"><strong>Annie Awards</strong></span><br />
+Nominated for Best Animated Feature<br />
+Nominated for Best Directing: Lee Unkrich<br />
+Nominated for Best Screenplay: Michael Arndt</p>
+<p><span style="color:#daa520;"><strong>AOL Moviefone</strong></span><br />
+50 Best Movies of 2010 - #1</p>
+<p><span style="color:#daa520;"><strong>Austin Film Critics Association</strong></span><br />
+Winner for Best Animated Feature<br />
+Top 10 Films of 2010 - #4</p>
+<p><span style="color:#daa520;"><strong>Boston Society of Film Critics</strong></span><br />
+Winner for Best Animated Film<br />
+Runner-up for Best Picture</p>
+<p><span style="color:#daa520;"><strong>British Academy of Film and Television Arts</strong></span><br />
+Winner for Animated Film: Toy Story 3, Lee Unkrich<br />
+Nominated for Adapted Screenplay: Michael Arndt<br />
+Nominated for Special Visual Effects</p>
+<p><span style="color:#daa520;"><strong>Broadcast Film Critics Association</strong></span><br />
+Winner of Critics&#39; Choice Movie Award for Best Animated Feature<br />
+Nominated for Critics&#39; Choice Movie Award for Best Picture<br />
+Nominated for Critics&#39; Choice Movie Award for Best Adapted Screenplay<br />
+Nominated for Critics&#39; Choice Movie Award for Best Sound<br />
+Nominated for Critics&#39; Choice Movie Award for Best Song: &quot;We Belong Together&quot; - performed and written by Randy Newman</p>
+<p><span style="color:#daa520;"><strong>Central Ohio Film Critics Association</strong></span><br />
+Winner for Best Animated Film<br />
+Runner-Up for Best Adapted Screenplay: Michael Arndt<br />
+Best Films - #5</p>
+<p><span style="color:#daa520;"><strong>Chicago Film Critics Association</strong></span><br />
+Winner for Best Animated Feature<br />
+Nominated for Best Adapted Screenplay: Michael Arndt</p>
+<p><span style="color:#daa520;"><strong>Dallas-Fort Worth Film Critics Association</strong></span><br />
+Winner for Best Animated Film<br />
+Top 10 films</p>
+<p><span style="color:#daa520;"><strong>eDIT 13 Filmmaker&#39;s Festival</strong></span><br />
+Festival Honors: Pixar</p>
+<p><span style="color:#daa520;"><strong>Florida Film Critics Circle</strong></span><br />
+Winner for Best Animated Film</p>
+<p><span style="color:#daa520;"><strong>Golden Globe Awards</strong></span><br />
+Winner for Best Animated Feature Film</p>
+<p><span style="color:#daa520;"><strong>Grammys</strong></span><br />
+Winner for Best Score Soundtrack Album for Motion Picture, Television or Other Visual Media: Randy Newman, composer</p>
+<p><span style="color:#daa520;"><strong>Hollywood Film Festival</strong></span><br />
+Winner of Hollywood Animation Award<br />
+Nominated for Hollywood Movie of the Year Award</p>
+<p><span style="color:#daa520;"><strong>Hollywood Post Alliance</strong></span><br />
+Nominated for Outstanding Editing &mdash; Feature Film: Ken Schretzmann and Lee Unnkrich, A.C.E. / Pixar Animation Studios<br />
+Nominated for Outstanding Sound &mdash; Feature Film: Tom Myers, Michael Silvers and Michael Semanick / Skywalker Sound</p>
+<p><span style="color:#daa520;"><strong>Houston Film Critics Society</strong></span><br />
+Winner for Best Animated Feature Film<br />
+Nominated for Best Picture<br />
+Nominated for Best Screenplay: Michael Arndt (Story by John Lasseter, Andrew Stanton and Lee Unkrich</p>
+<p><span style="color:#daa520;"><strong>Producers Guild of America Awards</strong></span><br />
+Winner for Outstanding Producer of Animated Theatrical Motion Pictures: Darla K. Anderson<br />
+Nominated for Darryl F. Zanuck Award for Outstanding Producer of Theatrical Motion Pictures: Darla K. Anderson</p>
+</div>  </div>  
+  <div class="views-field views-field-field-link-value">        <span class="field-content">
+</span>  </div>  
+  <div>        <div class="gallery"><div class="view view-gallery-videos-from-billboard view-id-gallery_videos_from_billboard view-display-id-block_1 view-dom-id-1ce703a46630fa61cd0fa1fc85d9e5f8">
+    
+  
+  
+  
+  
+  
+  
+  
+  
+</div></div>  </div>  
+          </div>    
+          <div class="hidden billboardTitle">TS3-awards</div>  </li>
+          <li class="views-row views-row-8 views-row-even views-row-last">  
+          
+
+<div class="billboardImage" style="background: url('http://www.pixar.com/sites/default/files/creditsts3.jpg')"></div>
+
+    
+          <div class="billboard Right Top black headerFutura">
+    
+  <div class="views-field views-field-field-header-text-color-value">        <span class="field-content"><style>
+	.header_text_color2582 { 
+	  color: #000000 !important; 
+	  text-align: center !important ;
+	  }
+</style>
+</span>  </div>  
+          <div class="header"><h2 class="size48 fontBook header_text_color2582">Credits </h2></div>    
+  <div class="views-field views-field-field-synopsis-text-color-value">        <span class="field-content"><style>
+	.synopsis-text-color2582 { color:#000000 !important; }
+</style></span>  </div>  
+  <div class="views-field views-field-field-synopsis-value">        <div class="field-content synopsis-text-color2582"><div style="text-align: center;">
+<p><span style="color:#800000;"><strong>DIRECTED BY</strong></span><br />
+Lee Unkrich&nbsp;&nbsp;</p>
+<p><span style="color:#800000;"><strong>PRODUCED BY</strong></span><br />
+Darla K. Anderson</p>
+<p><span style="color:#800000;"><strong>EXECUTIVE PRODUCER</strong></span><br />
+John Lasseter</p>
+<p><span style="color: rgb(128, 0, 0);"><strong>ASSOCIATE PRODUCER</strong></span><br />
+Nicole Paradis Grindle</p>
+<p><span style="color: rgb(128, 0, 0);"><strong>STORY BY</strong></span><br />
+John Lasseter, Andrew Stanton, and Lee Unkrich</p>
+<p><span style="color:#800000;"><strong>SCREENPLAY BY</strong></span><br />
+Michael Arndt</p>
+<p><span style="color:#800000;"><strong>MUSIC COMPOSED AND CONDUCTED BY</strong></span>&nbsp;&nbsp;&nbsp;<br />
+Randy Newman</p>
+<p><span style="color:#800000;"><strong>STORY SUPERVISOR</strong></span><br />
+Jason Katz</p>
+<p><span style="color:#800000;"><strong>FILM EDITOR</strong></span><br />
+Ken Schretzmann</p>
+<p><span style="color:#800000;"><strong>PRODUCTION DESIGNER</strong></span><br />
+Bob Pauley</p>
+<p><span style="color:#800000;"><strong>SUPERVISING TECHNICAL DIRECTOR</strong></span><br />
+Guido Quaroni</p>
+<p><span style="color:#800000;"><strong>PRODUCTION MANAGER</strong></span><br />
+Michael Warch<br />
+&nbsp;<br />
+<span style="color: rgb(128, 0, 0);"><strong>SUPERVISING ANIMATORS</strong></span><br />
+Bobby Podesta, Michael Venturini<br />
+&nbsp;<br />
+<span style="color: rgb(128, 0, 0);"><strong>DIRECTOR OF PHOTOGRAPHY - CAMERA</strong></span><br />
+Jeremy Lasky</p>
+<p><span style="color:#800000;"><strong>DIRECTOR OF PHOTOGRAPHY - LIGHTING</strong></span><br />
+Kim White</p>
+<p><span style="color:#800000;"><strong>CHARACTER SUPERVISORS</strong></span><br />
+Sanjay Bakshi, Brian Green</p>
+<p><span style="color:#800000;"><strong>SETS SUPERVISOR</strong></span><br />
+David Eisenmann</p>
+<p><span style="color:#800000;"><strong>SIMULATION &amp; EFFECTS SUPERVISOR</strong></span><br />
+Michael Fong</p>
+<p><span style="color:#800000;"><strong>GLOBAL TECH SUPERVISOR</strong></span><br />
+William Reeves</p>
+<p><span style="color:#800000;"><strong>ART DIRECTION</strong></span><br />
+Daisuke &quot;Dice&quot; Tsutsumi</p>
+<p><span style="color:#800000;"><strong>CHARACTER ART DIRECTION</strong></span><br />
+Daniel Arriaga</p>
+<p><span style="color:#800000;"><strong>SETS ART DIRECTION</strong></span><br />
+Robert Kondo</p>
+<p><span style="color:#800000;"><strong>SHADING ART DIRECTION</strong></span><br />
+Belinda Van Valkenburg</p>
+<p><span style="color:#800000;"><strong>SOUND DESIGNER</strong></span><br />
+Tom Myers</p>
+<p><span style="color:#800000;"><strong>EXECUTIVE MUSIC PRODUCER</strong></span><br />
+Chris Montan</p>
+<p><span style="color:#800000;"><strong>MUSIC SUPERVISOR</strong></span><br />
+Tom MacDougall</p>
+<p><span style="color:#800000;"><strong>POST PRODUCTION SUPERVISOR</strong></span><br />
+Paul Cichocki</p>
+<p><span style="color:#800000;"><strong>PRODUCTION FINANCE LEADS</strong></span><br />
+Beatrice De Luca, Marc S. Greenberg</p>
+<p><span style="color:#800000;"><strong>CASTING BY</strong></span><br />
+Kevin Reher, C.S.A, Natalie Lyon, C.S.A<br />
+&nbsp;</p>
+<p><strong>CAST</strong><br />
+&nbsp;</p>
+<p><span style="color: rgb(128, 0, 0);"><strong>Woody</strong></span><br />
+Tom Hanks<br />
+&nbsp;</p>
+</div>
+<div style="text-align: center;">
+<p><span style="color:#800000;"><strong>Buzz Lightyear</strong></span><br />
+Tim Allen<br />
+&nbsp;</p>
+</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Jessie</strong></span></div>
+<div style="text-align: center;">Joan Cusack<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Lotso</strong></span></div>
+<div style="text-align: center;">Ned Beatty<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Mr. Potato Head</strong></span></div>
+<div style="text-align: center;">Don Rickles<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Ken</strong></span></div>
+<div style="text-align: center;">Michael Keaton<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Rex</strong></span></div>
+<div style="text-align: center;">Wallace Shawn<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Hamm</strong></span></div>
+<div style="text-align: center;">John Ratzenberger<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Mrs. Potato Head </strong></span></div>
+<div style="text-align: center;">Estelle Harris<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Andy</strong></span></div>
+<div style="text-align: center;">John Morris<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Barbie</strong></span></div>
+<div style="text-align: center;">Jodi Benson<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Bonnie</strong></span></div>
+<div style="text-align: center;">Emily Hahn<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Andy&#39;s Mom</strong></span></div>
+<div style="text-align: center;">Laurie Metcalf<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Slinky Dog</strong></span></div>
+<div style="text-align: center;">Blake Clark<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Chatter Telephone</strong></span></div>
+<div style="text-align: center;">Teddy Newton<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Chuckles</strong></span></div>
+<div style="text-align: center;">Bud Luckey<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Molly</strong></span></div>
+<div style="text-align: center;">Beatrice Miller<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Spanish Buzz</strong></span></div>
+<div style="text-align: center;">Javier FernÃ¡ndez-PeÃ±a<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Mr. Pricklepants</strong></span></div>
+<div style="text-align: center;">Timothy Dalton<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Bonnie&#39;s Mom</strong></span></div>
+<div style="text-align: center;">Lori Alan<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Young Andy</strong></span></div>
+<div style="text-align: center;">Charlie Bright<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Trixie</strong></span></div>
+<div style="text-align: center;">Kristen Schaal<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Buttercup</strong></span></div>
+<div style="text-align: center;">Jeff Garlin<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Dolly</strong></span></div>
+<div style="text-align: center;">Bonnie Hunt<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Twitch</strong></span></div>
+<div style="text-align: center;">John Cygan<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Aliens</strong></span></div>
+<div style="text-align: center;">Jeff Pidgeon<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Stretch</strong></span></div>
+<div style="text-align: center;">Whoopi Goldberg<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Chunk</strong></span></div>
+<div style="text-align: center;">Jack Angel<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Sarge</strong></span></div>
+<div style="text-align: center;">R. Lee Ermey<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Sparks</strong></span></div>
+<div style="text-align: center;">Jan Rabson<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Sid</strong></span></div>
+<div style="text-align: center;">Erik Von Detten<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Peas-in-a-Pod</strong></span><br />
+Charlie Bright, Amber Kroner, and Brianna Maiwand<br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="color:#800000;"><strong>Frog</strong></span></div>
+<div style="text-align: center;">Jack Willis &nbsp;</div>
+<p>&nbsp; &nbsp;</p>
+</div>  </div>  
+  <div class="views-field views-field-field-link-value">        <span class="field-content">
+</span>  </div>  
+  <div>        <div class="gallery"><div class="view view-gallery-videos-from-billboard view-id-gallery_videos_from_billboard view-display-id-block_1 view-dom-id-47be943bf8a979e4fadc7582519b89ae">
+    
+  
+  
+  
+  
+  
+  
+  
+  
+</div></div>  </div>  
+          </div>    
+          <div class="hidden billboardTitle">TS3-title</div>  </li>
+      </ul></div>          </div>
+        </div>
+
+  <div class="featureBillboardFrameTop"></div>
+  <div class="featureBillboardFrameBottom"></div>
+
+  
+        <div class="attachment attachment-after">
+          <div class="view view-feature-films view-id-feature_films view-display-id-attachment_2 feature-films-bottom-nav-attach view-dom-id-809472b265a5bb3f3cfcbf70411821d9">
+    
+  
+  
+    
+        <div class="view-content">
+          <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/Inside-Out">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/io_features_billboard_thumbs.jpg?1414019278" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/Inside-Out" class="">
+	
+    InsideOut</a>
+</span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/Monsters-University">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/mu_feature_thumb_1.jpg?1369236203" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/Monsters-University" class="">
+	
+    Monsters University</a>
+</span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/Brave">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/brave_small.jpg?1329944801" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/Brave" class="">
+	
+    Brave</a>
+</span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/CARS-2">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/cars2_0.jpg?1318612674" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/CARS-2" class="">
+	
+    CARS 2</a>
+</span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/TOY-STORY-3">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/ts3.jpg?1318612858" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/TOY-STORY-3" class="active">
+	
+    TOY STORY 3</a>
+</span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/UP">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/up.jpg?1318612650" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/UP" class="">
+	
+    UP</a>
+</span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/WALLE">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/walle.jpg?1318612903" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/WALLE" class="">
+	
+    WALLâ¢E</a>
+</span>  </div></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/RATATOUILLE">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/rat.jpg?1318613255" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/RATATOUILLE" class="">
+	
+    RATATOUILLE</a>
+</span>  </div></li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/CARS">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/cars.jpg?1318612971" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/CARS" class="">
+	
+    CARS</a>
+</span>  </div></li>
+          <li class="views-row views-row-10 views-row-even">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/THE-INCREDIBLES-">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/incredibles.jpg?1318613094" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/THE-INCREDIBLES-" class="">
+	
+    THE INCREDIBLES </a>
+</span>  </div></li>
+          <li class="views-row views-row-11 views-row-odd">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/FINDING-NEMO">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/nemo.jpg?1318613141" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/FINDING-NEMO" class="">
+	
+    FINDING NEMO</a>
+</span>  </div></li>
+          <li class="views-row views-row-12 views-row-even">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/MONSTERS%2C-INC.">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/mi.jpg?1318613207" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/MONSTERS%2C-INC." class="">
+	
+    MONSTERS, INC.</a>
+</span>  </div></li>
+          <li class="views-row views-row-13 views-row-odd">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/TOY-STORY-2">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/ts2.jpg?1318613295" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/TOY-STORY-2" class="">
+	
+    TOY STORY 2</a>
+</span>  </div></li>
+          <li class="views-row views-row-14 views-row-even">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/A-BUG%27S-LIFE">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/abl.jpg?1318612689" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/A-BUG%27S-LIFE" class="">
+	
+    A BUG'S LIFE</a>
+</span>  </div></li>
+          <li class="views-row views-row-15 views-row-odd views-row-last">  
+  <div class="views-field views-field-field-thumb-picture-fid">        <div class="field-content secondary-billboard"><a href="/features_films/TOY-STORY">
+  <img  class="imagefield imagefield-field_thumb_picture" width="150" height="65" alt="" src="http://www.pixar.com/sites/default/files/ts.jpg?1318613025" /></a></div>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/features_films/TOY-STORY" class="">
+	
+    TOY STORY</a>
+</span>  </div></li>
+      </ul></div>      </div>
+  
+  
+  
+  
+  
+  
+  </div>       </div>
+  
+  
+  
+  </div>
+                                </div>
+                                                                <div id="footer"><div id="block-menu-menu-footer-menu" class="clear-block block block-menu">
+
+  <h2>Footer</h2>
+
+  <div class="content"><ul class="menu"><li class="leaf first menu-facebook"><a href="http://www.facebook.com/DisneyPixar" title="" class="external-link" target="_blank">facebook</a></li>
+<li class="leaf menu-twitter"><a href="https://twitter.com/#!/disneypixar  " title="" class="external-link" target="_blank">twitter</a></li>
+<li class="leaf menu-termsofuse"><a href="/content/pixarcom-terms-use-agreement?ajax=3" title="Terms of Use Agreement" rel="lightmodal[|width:981px;height:549px;][]">Terms of Use</a></li>
+<li class="leaf last menu-privacypolicy"><a href="/content/pixarcom-privacy-policy?ajax=3" title="Privacy Policy" rel="lightmodal[|width:981px;height:549px;][]">Privacy Policy</a></li>
+</ul></div>
+</div>
+<span class="footer-message">TM &amp; &copy; 1986 - 2012 Pixar. All Rights Reserved.
+</span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+                
+            </div> <!-- /container -->
+        </div>
+        <!-- /layout -->
+
+                <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-18809945-1']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </body>
+</html>

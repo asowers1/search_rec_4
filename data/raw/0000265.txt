@@ -1,0 +1,1319 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!-- Consider adding a manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+
+<head>
+	<meta charset="UTF-8" />
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title>The Beatles&#8217; songs | The Beatles Bible</title>
+	<meta http-equiv="cleartype" content="on">
+
+	<!-- Responsive and mobile friendly stuff -->
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://www.beatlesbible.com/wp/xmlrpc.php" />
+	<link rel="author" href="https://plus.google.com/101256875389957488164/posts"/>
+	<link rel="publisher" href="https://plus.google.com/101256875389957488164/posts"/>
+
+	<title>The Beatles&#8217; songs | The Beatles Bible</title>
+<!-- Jetpack Site Verification Tags -->
+<meta name="google-site-verification" content="5ItIeKt09J4pivsZRaGPk84d9kdijdU08X0RbfpgqTc" />
+
+<!-- All in One SEO Pack 2.2.5.1 by Michael Torbert of Semper Fi Web Design[-1,-1] -->
+<meta name="description" itemprop="description" content="Index of songs recorded by The Beatles, on the Beatles Bible website." />
+
+<link rel="canonical" href="http://www.beatlesbible.com/songs/" />
+<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="The Beatles Bible &raquo; Feed" href="http://www.beatlesbible.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Beatles Bible &raquo; Comments Feed" href="http://www.beatlesbible.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Beatles Bible &raquo; The Beatles&#8217; songs Comments Feed" href="http://www.beatlesbible.com/songs/feed/" />
+<link rel='stylesheet' id='quotescollection-style-css'  href='http://www.beatlesbible.com/wp/wp-content/plugins/quotes-collection/quotes-collection.css?ver=1.5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='normalize-css'  href='http://www.beatlesbible.com/wp/wp-content/themes/quark/css/normalize.css?ver=3.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://www.beatlesbible.com/wp/wp-content/themes/quark/css/font-awesome.min.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='gridsystem-css'  href='http://www.beatlesbible.com/wp/wp-content/themes/quark/css/grid.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='quark-fonts-css'  href='http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic|Arvo:400&#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://www.beatlesbible.com/wp/wp-content/themes/beatles_bible_2014/style.css?ver=1.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-top-posts-widget-css'  href='http://www.beatlesbible.com/wp/wp-content/plugins/jetpack/modules/widgets/top-posts/style.css?ver=20141013' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.beatlesbible.com/wp/wp-content/plugins/jetpack/css/jetpack.css?ver=3.3.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js?ver=4.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var QCAjax = {"ajaxurl":"http:\/\/www.beatlesbible.com\/wp\/wp-admin\/admin-ajax.php","nonce":"5adb5faf82","nextquote":"Next quote\u00a0\u00bb","loading":"Loading...","error":"Error getting quote","auto_refresh_max":"30","auto_refresh_count":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.beatlesbible.com/wp/wp-content/plugins/quotes-collection/quotes-collection.js?ver=1.5.7'></script>
+<script type='text/javascript' src='http://www.beatlesbible.com/wp/wp-content/plugins/respondjs/js/respond.min.js?ver=1.4.2'></script>
+<script type='text/javascript' src='http://www.beatlesbible.com/wp/wp-content/themes/quark/js/modernizr-2.8.3-min.js?ver=2.8.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.beatlesbible.com/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.beatlesbible.com/wp/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1.1" />
+<link rel='shortlink' href='http://www.beatlesbible.com/?p=7' />
+<script type="text/javascript">
+//<![CDATA[
+function searchDate(form) {
+	var URI = "http://www.beatlesbible.com/%year%/%monthnum%/%day%";
+	URI = URI.replace("%year%", form.dateSearchYear.value);
+	URI = URI.replace("%monthnum%", form.dateSearchMonth.value);
+	URI = URI.replace("%day%", form.dateSearchDay.value);
+	window.open(URI, "_self");
+	}
+//]]>
+</script>
+<link rel='stylesheet' id='numbermyposts-css'  href='http://www.beatlesbible.com/wp/wp-content/plugins/number-my-post-pages-plugin/numbermypostpages.css?ver=4.1.1' type='text/css' media='all' />
+<style type='text/css'>img#wpstats{display:none}</style>
+<style>
+#bannercontainer { background: #ffffff url('http://www.beatlesbible.com/wp/media/bg_12.jpg') repeat scroll top left; }
+#footercontainer { background-color: #515151; }
+.smallprint { text-align: left; }
+</style>
+</head>
+
+<body class="page page-id-7 page-parent page-template-default custom-background">
+
+<div id="wrapper" class="hfeed site">
+
+	<div class="visuallyhidden skip-link"><a href="#primary" title="Skip to main content">Skip to main content</a></div>
+
+	<div id="headercontainer">
+
+		<header id="masthead" class="site-header row" role="banner">
+			<div class="col grid_3_of_12 site-title">
+				<h1>
+					<a href="http://www.beatlesbible.com/" title="The Beatles Bible" rel="home">
+													<img src="http://www.beatlesbible.com/wp/media/logo_016.png" height="150" width="270" alt="" />
+											</a>
+				</h1>
+			</div> <!-- /.col.grid_3_of_12 -->
+
+
+
+
+			<div class="col grid_5_of_12 site-title">
+
+
+<div class="header_image"><a name="top" href="http://www.beatlesbible.com/">
+<!--<img src="/images/christmas-banner03.png" alt="The Beatles Bible" width="440" height="130" title="The Beatles Bible" /></a></div>-->
+<img src="/images/banners/2011/rotate.php" alt="The Beatles Bible" width="440" height="130" title="The Beatles Bible" /></a></div>
+
+
+
+			</div>
+
+			<div class="col grid_4_of_12">
+
+				<nav id="site-navigation" class="main-navigation" role="navigation">
+				<h3 class="menu-toggle assistive-text">Menu</h3>
+					<div class="assistive-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+					<div class="menu-beatles-container"><ul id="menu-beatles" class="nav-menu"><li id="menu-item-15081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15081"><a title="Home" href="http://www.beatlesbible.com/">Home</a></li>
+<li id="menu-item-15085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15085"><a title="History" href="http://www.beatlesbible.com/history/">History</a></li>
+<li id="menu-item-15091" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7 current_page_item menu-item-15091"><a title="The Beatles&#8217; songs" href="http://www.beatlesbible.com/songs/">Songs</a></li>
+<li id="menu-item-15092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15092"><a title="The Beatles&#8217; albums" href="http://www.beatlesbible.com/albums/">Albums</a></li>
+<li id="menu-item-15087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15087"><a title="Beatles discography" href="http://www.beatlesbible.com/discography/">Discography</a></li>
+<li id="menu-item-15093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15093"><a title="Beatle people" href="http://www.beatlesbible.com/people/">People</a></li>
+<li id="menu-item-15445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15445"><a title="Beatles features" href="http://www.beatlesbible.com/features/">Features</a></li>
+<li id="menu-item-15086" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15086"><a title="Beatles books" href="http://www.beatlesbible.com/books/">Books</a></li>
+<li id="menu-item-15090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15090"><a title="Beatles map" href="http://www.beatlesbible.com/map/">Map</a></li>
+<li id="menu-item-15088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15088"><a title="Beatles photo gallery" href="http://www.beatlesbible.com/gallery/">Gallery</a></li>
+<li id="menu-item-15094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15094"><a title="Fab forum" href="http://www.beatlesbible.com/forum/">Fab forum</a></li>
+</ul></div>						</nav>
+						
+					<nav id="site-navigation" class="main-navigation" role="navigation">	
+<div class="menu-jpgr-container"><ul id="menu-jpgr" class="nav-menu"><li id="menu-item-17610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-17610"><a title="John Lennon" href="http://www.beatlesbible.com/people/john-lennon/">John Lennon</a>
+<ul class="sub-menu">
+	<li id="menu-item-17614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17614"><a title="John Lennon biography" href="http://www.beatlesbible.com/people/john-lennon/biography/">Biography</a></li>
+	<li id="menu-item-17615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17615"><a title="John Lennon songs" href="http://www.beatlesbible.com/people/john-lennon/songs/">Songs</a></li>
+	<li id="menu-item-17617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17617"><a title="John Lennon albums" href="http://www.beatlesbible.com/people/john-lennon/albums/">Albums</a></li>
+	<li id="menu-item-17616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17616"><a title="John Lennon discography" href="http://www.beatlesbible.com/people/john-lennon/discography/">Discography</a></li>
+	<li id="menu-item-17618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17618"><a title="John Lennon photo gallery" href="http://www.beatlesbible.com/gallery/john-lennon/">Gallery</a></li>
+	<li id="menu-item-17619" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17619"><a title="John Lennon forum" href="http://www.beatlesbible.com/forum/john-lennon/">Forum</a></li>
+</ul>
+</li>
+<li id="menu-item-17611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-17611"><a href="http://www.beatlesbible.com/people/paul-mccartney/">Paul McCartney</a>
+<ul class="sub-menu">
+	<li id="menu-item-17620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17620"><a title="Paul McCartney songs" href="http://www.beatlesbible.com/people/paul-mccartney/songs/">Songs</a></li>
+	<li id="menu-item-17621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17621"><a title="Paul McCartney albums" href="http://www.beatlesbible.com/people/paul-mccartney/albums/">Albums</a></li>
+	<li id="menu-item-17622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17622"><a title="Paul McCartney photo gallery" href="http://www.beatlesbible.com/gallery/paul-mccartney/">Gallery</a></li>
+	<li id="menu-item-17623" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17623"><a title="Paul McCartney forum" href="http://www.beatlesbible.com/forum/paul-mccartney/">Forum</a></li>
+</ul>
+</li>
+<li id="menu-item-17612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-17612"><a href="http://www.beatlesbible.com/people/george-harrison/">George Harrison</a>
+<ul class="sub-menu">
+	<li id="menu-item-17624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17624"><a title="George Harrison songs" href="http://www.beatlesbible.com/people/george-harrison/songs/">Songs</a></li>
+	<li id="menu-item-17625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17625"><a title="George Harrison albums" href="http://www.beatlesbible.com/people/george-harrison/albums/">Albums</a></li>
+	<li id="menu-item-17626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17626"><a title="George Harrison photo gallery" href="http://www.beatlesbible.com/gallery/george-harrison/">Gallery</a></li>
+	<li id="menu-item-17627" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17627"><a title="George Harrison forum" href="http://www.beatlesbible.com/forum/george-harrison/">Forum</a></li>
+</ul>
+</li>
+<li id="menu-item-17613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-17613"><a href="http://www.beatlesbible.com/people/ringo-starr/">Ringo Starr</a>
+<ul class="sub-menu">
+	<li id="menu-item-17628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17628"><a title="Ringo Starr photo gallery" href="http://www.beatlesbible.com/gallery/ringo-starr/">Gallery</a></li>
+	<li id="menu-item-17629" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17629"><a title="Ringo Starr forum" href="http://www.beatlesbible.com/forum/ringo-starr/">Forum</a></li>
+</ul>
+</li>
+</ul></div>			</nav>
+  				
+<!-- /.site-navigation.main-navigation -->
+  				
+
+
+			</div> <!-- /.col.grid_4_of_12 -->
+
+
+
+<div class="col grid_3_of_12">
+</div>
+
+<div class="col grid_5_of_12">
+
+<form action="http://www.beatlesbible.com/search/" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-4585391842306465:1032886486" />
+    <input type="hidden" name="cof" value="FORID:10" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="40" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+		
+
+
+</div> <!-- /.col.grid_12_of_12 -->
+
+
+<div class="col grid_4_of_12">
+<div class="social-media-icons"><nav id="site-navigation" class="main-navigation" role="navigation">
+					<ul><li><a href="https://www.twitter.com/beatlesbible" title="Follow me on Twitter"><span class="fa-stack fa-lg"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x fa-inverse"></i></span></a></li><li><a href="https://www.facebook.com/beatlesbible" title="Friend me on Facebook"><span class="fa-stack fa-lg"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x fa-inverse"></i></span></a></li><li><a href="https://www.youtube.com/user/beatlesbible" title="Subscribe to me on YouTube"><span class="fa-stack fa-lg"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-youtube fa-stack-1x fa-inverse"></i></span></a></li><li><a href="http://instagram.com/thebeatlesbible" title="Follow me on Instagram"><span class="fa-stack fa-lg"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-instagram fa-stack-1x fa-inverse"></i></span></a></li><li><a href="http://www.beatlesbible.com/feed/" title="Subscribe to my RSS Feed"><span class="fa-stack fa-lg"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-rss fa-stack-1x fa-inverse"></i></span></a></li></ul></nav>
+				</div>
+</div>
+
+		</header> <!-- /#masthead.site-header.row -->
+
+
+
+
+
+
+
+
+	</div> <!-- /#headercontainer -->
+	<div id="bannercontainer">
+	
+		<div class="banner row">
+			
+<div class="col grid_12_of_12">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Beatles Bible responsive 2014 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4585391842306465"
+     data-ad-slot="8998635286"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+		</div> <!-- /.banner.row -->
+	</div> <!-- /#bannercontainer -->
+
+	<div id="maincontentcontainer">
+	<div id="primary" class="site-content row" role="main">
+
+		<div class="col grid_8_of_12">
+
+			
+													
+<article id="post-7" class="post-7 page type-page status-publish hentry">
+			<header class="entry-header">
+			<h1 class="entry-title">The Beatles&#8217; songs</h1>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Beatles Bible responsive 2014 banner secondary -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4585391842306465"
+     data-ad-slot="3644805283"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+					</header>
+		
+		
+	<div class="entry-content">
+		<p>Welcome to the Beatles Bible song list. On this page you'll find links to articles on all the songs recorded by The Beatles during their career, from <a title="Love Me Do" href="/songs/love-me-do/">Love Me Do</a> to <a title="Let It Be" href="/songs/let-it-be/">Let It Be</a>. <span id="more-7"></span></p>
+<div class="amazon"><a href="http://georiot.co/beatles" target="itunes_store"><img src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_itunes-lrg.png" alt="Download on iTunes" style="border: 0;padding:5px;" align="right" /><noscript><img src="https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_itunes-lrg.png" alt="Download on iTunes" style="border: 0;padding:5px;" align="right" /></noscript></a><br />
+<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=thebeabib06-20&o=1&p=8&l=as1&m=amazon&f=ifr&asins=B002BSHWUU" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe><br />
+<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=thebeabib06-20&o=1&p=8&l=as1&m=amazon&f=ifr&asins=B002BSHXJA" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe><br />
+<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=thebeabib06-20&o=1&p=8&l=as1&m=amazon&f=ifr&asins=B0041KVW2K" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe><br />
+<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=thebeabib06-20&o=1&p=8&l=as1&m=amazon&f=ifr&asins=B005NJ9CHK" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe><br />
+<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=thebeabib06-20&o=1&p=8&l=as1&m=amazon&f=ifr&asins=B002VH7P4O" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></div>
+<p>We've also written about the Anthology tracks, live radio-only recordings from <a title="Live At The BBC" href="/albums/live-at-the-bbc/">Live At The BBC</a>, and a few extras - such as <a title="Child Of Nature" href="/songs/child-of-nature/">Child Of Nature</a> and <a title="Carnival Of Light" href="/songs/carnival-of-light/">Carnival Of Light</a> - which deserved to be included too.</p>
+<p>This list is sorted alphabetically. You can also find songs via the <a title="Beatles albums" href="/albums/">Albums</a> list or the <a title="Beatles discography" href="/discography/">Discography</a> pages.</p>
+<ul>
+<li><a href="/songs/12-bar-original/" title="12-Bar Original">12-Bar Original</a></li>
+<li><a href="/songs/a-beginning/" title="A Beginning">A Beginning</a></li>
+<li><a href="/songs/a-day-in-the-life/" title="A Day In The Life">A Day In The Life</a></li>
+<li><a href="/songs/a-hard-days-night/" title="A Hard Day's Night">A Hard Day's Night</a></li>
+<li><a href="/songs/a-shot-of-rhythm-and-blues/" title="A Shot Of Rhythm And Blues">A Shot Of Rhythm And Blues</a></li>
+<li><a href="/songs/a-taste-of-honey/" title="A Taste Of Honey">A Taste Of Honey</a></li>
+<li><a href="/songs/across-the-universe/" title="Across The Universe">Across The Universe</a></li>
+<li><a href="/songs/act-naturally/" title="Act Naturally">Act Naturally</a></li>
+<li><a href="/songs/aint-she-sweet/" title="Ain't She Sweet">Ain't She Sweet</a></li>
+<li><a href="/songs/all-ive-got-to-do/" title="All I've Got To Do">All I've Got To Do</a></li>
+<li><a href="/songs/all-my-loving/" title="All My Loving">All My Loving</a></li>
+<li><a href="/songs/all-things-must-pass/" title="All Things Must Pass">All Things Must Pass</a></li>
+<li><a href="/songs/all-together-now/" title="All Together Now">All Together Now</a></li>
+<li><a href="/songs/all-you-need-is-love/" title="All You Need Is Love">All You Need Is Love</a></li>
+<li><a href="/songs/and-i-love-her/" title="And I Love Her">And I Love Her</a></li>
+<li><a href="/songs/and-your-bird-can-sing/" title="And Your Bird Can Sing">And Your Bird Can Sing</a></li>
+<li><a href="/songs/anna-go-to-him/" title="Anna (Go To Him)">Anna (Go To Him)</a></li>
+<li><a href="/songs/another-girl/" title="Another Girl">Another Girl</a></li>
+<li><a href="/songs/any-time-at-all/" title="Any Time At All">Any Time At All</a></li>
+<li><a href="/songs/ask-me-why/" title="Ask Me Why">Ask Me Why</a></li>
+<li><a href="/songs/baby-its-you/" title="Baby It's You">Baby It's You</a></li>
+<li><a href="/songs/baby-youre-a-rich-man/" title="Baby You're A Rich Man">Baby You're A Rich Man</a></li>
+<li><a href="/songs/babys-in-black/" title="Baby's In Black">Baby's In Black</a></li>
+<li><a href="/songs/back-in-the-ussr/" title="Back In The USSR">Back In The USSR</a></li>
+<li><a href="/songs/bad-boy/" title="Bad Boy">Bad Boy</a></li>
+<li><a href="/songs/beautiful-dreamer/" title="Beautiful Dreamer">Beautiful Dreamer</a></li>
+<li><a href="/songs/because/" title="Because">Because</a></li>
+<li><a href="/songs/being-for-the-benefit-of-mr-kite/" title="Being For The Benefit Of Mr Kite!">Being For The Benefit Of Mr Kite!</a></li>
+<li><a href="/songs/besame-mucho/" title="Besame Mucho">Besame Mucho</a></li>
+<li><a href="/songs/birthday/" title="Birthday">Birthday</a></li>
+<li><a href="/songs/blackbird/" title="Blackbird">Blackbird</a></li>
+<li><a href="/songs/blue-jay-way/" title="Blue Jay Way">Blue Jay Way</a></li>
+<li><a href="/songs/boys/" title="Boys">Boys</a></li>
+<li><a href="/songs/cant-buy-me-love/" title="Can't Buy Me Love">Can't Buy Me Love</a></li>
+<li><a href="/songs/carnival-of-light/" title="Carnival Of Light">Carnival Of Light</a></li>
+<li><a href="/songs/carol/" title="Carol">Carol</a></li>
+<li><a href="/songs/carry-that-weight/" title="Carry That Weight">Carry That Weight</a></li>
+<li><a href="/songs/cayenne/" title="Cayenne">Cayenne</a></li>
+<li><a href="/songs/chains/" title="Chains">Chains</a></li>
+<li><a href="/songs/child-of-nature/" title="Child Of Nature">Child Of Nature</a></li>
+<li><a href="/songs/christmas-time-is-here-again/" title="Christmas Time (Is Here Again)">Christmas Time (Is Here Again)</a></li>
+<li><a href="/songs/circles/" title="Circles">Circles</a></li>
+<li><a href="/songs/clarabella/" title="Clarabella">Clarabella</a></li>
+<li><a href="/songs/come-and-get-it/" title="Come And Get It">Come And Get It</a></li>
+<li><a href="/songs/come-together/" title="Come Together">Come Together</a></li>
+<li><a href="/songs/cry-baby-cry/" title="Cry Baby Cry">Cry Baby Cry</a></li>
+<li><a href="/songs/cry-for-a-shadow/" title="Cry For A Shadow">Cry For A Shadow</a></li>
+<li><a href="/songs/crying-waiting-hoping/" title="Crying, Waiting, Hoping">Crying, Waiting, Hoping</a></li>
+<li><a href="/songs/day-tripper/" title="Day Tripper">Day Tripper</a></li>
+<li><a href="/songs/dear-prudence/" title="Dear Prudence">Dear Prudence</a></li>
+<li><a href="/songs/devil-in-her-heart/" title="Devil In Her Heart">Devil In Her Heart</a></li>
+<li><a href="/songs/dig-a-pony/" title="Dig A Pony">Dig A Pony</a></li>
+<li><a href="/songs/dig-it/" title="Dig It">Dig It</a></li>
+<li><a href="/songs/dizzy-miss-lizzy/" title="Dizzy Miss Lizzy">Dizzy Miss Lizzy</a></li>
+<li><a href="/songs/do-you-want-to-know-a-secret/" title="Do You Want To Know A Secret">Do You Want To Know A Secret</a></li>
+<li><a href="/songs/doctor-robert/" title="Doctor Robert">Doctor Robert</a></li>
+<li><a href="/songs/dont-bother-me/" title="Don't Bother Me">Don't Bother Me</a></li>
+<li><a href="/songs/dont-ever-change/" title="Don't Ever Change">Don't Ever Change</a></li>
+<li><a href="/songs/dont-let-me-down/" title="Don't Let Me Down">Don't Let Me Down</a></li>
+<li><a href="/songs/dont-pass-me-by/" title="Don't Pass Me By">Don't Pass Me By</a></li>
+<li><a href="/songs/drive-my-car/" title="Drive My Car">Drive My Car</a></li>
+<li><a href="/songs/eight-days-a-week/" title="Eight Days A Week">Eight Days A Week</a></li>
+<li><a href="/songs/eleanor-rigby/" title="Eleanor Rigby">Eleanor Rigby</a></li>
+<li><a href="/songs/etcetera/" title="Etcetera">Etcetera</a></li>
+<li><a href="/songs/every-little-thing/" title="Every Little Thing">Every Little Thing</a></li>
+<li><a href="/songs/everybodys-got-something-to-hide-except-me-and-my-monkey/" title="Everybody's Got Something To Hide Except Me And My Monkey">Everybody's Got Something To Hide Except Me And My Monkey</a></li>
+<li><a href="/songs/everybodys-trying-to-be-my-baby/" title="Everybody's Trying To Be My Baby">Everybody's Trying To Be My Baby</a></li>
+<li><a href="/songs/fixing-a-hole/" title="Fixing A Hole">Fixing A Hole</a></li>
+<li><a href="/songs/flying/" title="Flying">Flying</a></li>
+<li><a href="/songs/for-no-one/" title="For No One">For No One</a></li>
+<li><a href="/songs/for-you-blue/" title="For You Blue">For You Blue</a></li>
+<li><a href="/songs/free-as-a-bird/" title="Free As A Bird">Free As A Bird</a></li>
+<li><a href="/songs/from-me-to-you/" title="From Me To You">From Me To You</a></li>
+<li><a href="/songs/get-back/" title="Get Back">Get Back</a></li>
+<li><a href="/songs/getting-better/" title="Getting Better">Getting Better</a></li>
+<li><a href="/songs/girl/" title="Girl">Girl</a></li>
+<li><a href="/songs/glad-all-over/" title="Glad All Over">Glad All Over</a></li>
+<li><a href="/songs/glass-onion/" title="Glass Onion">Glass Onion</a></li>
+<li><a href="/songs/golden-slumbers/" title="Golden Slumbers">Golden Slumbers</a></li>
+<li><a href="/songs/good-day-sunshine/" title="Good Day Sunshine">Good Day Sunshine</a></li>
+<li><a href="/songs/good-morning-good-morning/" title="Good Morning Good Morning">Good Morning Good Morning</a></li>
+<li><a href="/songs/good-night/" title="Good Night">Good Night</a></li>
+<li><a href="/songs/got-to-get-you-into-my-life/" title="Got To Get You Into My Life">Got To Get You Into My Life</a></li>
+<li><a href="/songs/hallelujah-i-love-her-so/" title="Hallelujah, I Love Her So">Hallelujah, I Love Her So</a></li>
+<li><a href="/songs/happiness-is-a-warm-gun/" title="Happiness Is A Warm Gun">Happiness Is A Warm Gun</a></li>
+<li><a href="/songs/hello-little-girl/" title="Hello Little Girl">Hello Little Girl</a></li>
+<li><a href="/songs/hello-goodbye/" title="Hello, Goodbye">Hello, Goodbye</a></li>
+<li><a href="/songs/help/" title="Help!">Help!</a></li>
+<li><a href="/songs/helter-skelter/" title="Helter Skelter">Helter Skelter</a></li>
+<li><a href="/songs/her-majesty/" title="Her Majesty">Her Majesty</a></li>
+<li><a href="/songs/here-comes-the-sun/" title="Here Comes The Sun">Here Comes The Sun</a></li>
+<li><a href="/songs/here-there-and-everywhere/" title="Here, There And Everywhere">Here, There And Everywhere</a></li>
+<li><a href="/songs/hey-bulldog/" title="Hey Bulldog">Hey Bulldog</a></li>
+<li><a href="/songs/hey-jude/" title="Hey Jude">Hey Jude</a></li>
+<li><a href="/songs/hold-me-tight/" title="Hold Me Tight">Hold Me Tight</a></li>
+<li><a href="/songs/honey-dont/" title="Honey Don't">Honey Don't</a></li>
+<li><a href="/songs/honey-pie/" title="Honey Pie">Honey Pie</a></li>
+<li><a href="/songs/how-do-you-do-it/" title="How Do You Do It">How Do You Do It</a></li>
+<li><a href="/songs/i-am-the-walrus/" title="I Am The Walrus">I Am The Walrus</a></li>
+<li><a href="/songs/i-call-your-name/" title="I Call Your Name">I Call Your Name</a></li>
+<li><a href="/songs/i-dont-want-to-spoil-the-party/" title="I Don't Want To Spoil The Party">I Don't Want To Spoil The Party</a></li>
+<li><a href="/songs/i-feel-fine/" title="I Feel Fine">I Feel Fine</a></li>
+<li><a href="/songs/i-forgot-to-remember-to-forget/" title="I Forgot To Remember To Forget">I Forgot To Remember To Forget</a></li>
+<li><a href="/songs/i-got-a-woman/" title="I Got A Woman">I Got A Woman</a></li>
+<li><a href="/songs/i-got-to-find-my-baby/" title="I Got To Find My Baby">I Got To Find My Baby</a></li>
+<li><a href="/songs/i-just-dont-understand/" title="I Just Don't Understand">I Just Don't Understand</a></li>
+<li><a href="/songs/i-me-mine/" title="I Me Mine">I Me Mine</a></li>
+<li><a href="/songs/i-need-you/" title="I Need You">I Need You</a></li>
+<li><a href="/songs/i-saw-her-standing-there/" title="I Saw Her Standing There">I Saw Her Standing There</a></li>
+<li><a href="/songs/i-should-have-known-better/" title="I Should Have Known Better">I Should Have Known Better</a></li>
+<li><a href="/songs/i-wanna-be-your-man/" title="I Wanna Be Your Man">I Wanna Be Your Man</a></li>
+<li><a href="/songs/i-want-to-hold-your-hand/" title="I Want To Hold Your Hand">I Want To Hold Your Hand</a></li>
+<li><a href="/songs/i-want-to-tell-you/" title="I Want To Tell You">I Want To Tell You</a></li>
+<li><a href="/songs/i-want-you-shes-so-heavy/" title="I Want You (She's So Heavy)">I Want You (She's So Heavy)</a></li>
+<li><a href="/songs/i-will/" title="I Will">I Will</a></li>
+<li><a href="/songs/ill-be-back/" title="I'll Be Back">I'll Be Back</a></li>
+<li><a href="/songs/ill-be-on-my-way/" title="I'll Be On My Way">I'll Be On My Way</a></li>
+<li><a href="/songs/ill-cry-instead/" title="I'll Cry Instead">I'll Cry Instead</a></li>
+<li><a href="/songs/ill-follow-the-sun/" title="I'll Follow The Sun">I'll Follow The Sun</a></li>
+<li><a href="/songs/ill-get-you/" title="I'll Get You">I'll Get You</a></li>
+<li><a href="/songs/im-a-loser/" title="I'm A Loser">I'm A Loser</a></li>
+<li><a href="/songs/im-down/" title="I'm Down">I'm Down</a></li>
+<li><a href="/songs/im-gonna-sit-right-down-and-cry-over-you/" title="I'm Gonna Sit Right Down And Cry (Over You)">I'm Gonna Sit Right Down And Cry (Over You)</a></li>
+<li><a href="/songs/im-happy-just-to-dance-with-you/" title="I'm Happy Just To Dance With You">I'm Happy Just To Dance With You</a></li>
+<li><a href="/songs/im-looking-through-you/" title="I'm Looking Through You">I'm Looking Through You</a></li>
+<li><a href="/songs/im-only-sleeping/" title="I'm Only Sleeping">I'm Only Sleeping</a></li>
+<li><a href="/songs/im-so-tired/" title="I'm So Tired">I'm So Tired</a></li>
+<li><a href="/songs/im-talking-about-you/" title="I'm Talking About You">I'm Talking About You</a></li>
+<li><a href="/songs/ive-got-a-feeling/" title="I've Got A Feeling">I've Got A Feeling</a></li>
+<li><a href="/songs/ive-just-seen-a-face/" title="I've Just Seen A Face">I've Just Seen A Face</a></li>
+<li><a href="/songs/if-i-fell/" title="If I Fell">If I Fell</a></li>
+<li><a href="/songs/if-i-needed-someone/" title="If I Needed Someone">If I Needed Someone</a></li>
+<li><a href="/songs/if-youve-got-trouble/" title="If You've Got Trouble">If You've Got Trouble</a></li>
+<li><a href="/songs/in-my-life/" title="In My Life">In My Life</a></li>
+<li><a href="/songs/in-spite-of-all-the-danger/" title="In Spite Of All The Danger">In Spite Of All The Danger</a></li>
+<li><a href="/songs/it-wont-be-long/" title="It Won't Be Long">It Won't Be Long</a></li>
+<li><a href="/songs/its-all-too-much/" title="It's All Too Much">It's All Too Much</a></li>
+<li><a href="/songs/its-only-love/" title="It's Only Love">It's Only Love</a></li>
+<li><a href="/songs/johnny-b-goode/" title="Johnny B Goode">Johnny B Goode</a></li>
+<li><a href="/songs/julia/" title="Julia">Julia</a></li>
+<li><a href="/songs/junk/" title="Junk">Junk</a></li>
+<li><a href="/songs/kansas-city-hey-hey-hey-hey/" title="Kansas City/Hey-Hey-Hey-Hey!">Kansas City/Hey-Hey-Hey-Hey!</a></li>
+<li><a href="/songs/keep-your-hands-off-my-baby/" title="Keep Your Hands Off My Baby">Keep Your Hands Off My Baby</a></li>
+<li><a href="/songs/komm-gib-mir-deine-hand/" title="Komm, Gib Mir Deine Hand">Komm, Gib Mir Deine Hand</a></li>
+<li><a href="/songs/lady-madonna/" title="Lady Madonna">Lady Madonna</a></li>
+<li><a href="/songs/leave-my-kitten-alone/" title="Leave My Kitten Alone">Leave My Kitten Alone</a></li>
+<li><a href="/songs/lend-me-your-comb/" title="Lend Me Your Comb">Lend Me Your Comb</a></li>
+<li><a href="/songs/let-it-be/" title="Let It Be">Let It Be</a></li>
+<li><a href="/songs/like-dreamers-do/" title="Like Dreamers Do">Like Dreamers Do</a></li>
+<li><a href="/songs/little-child/" title="Little Child">Little Child</a></li>
+<li><a href="/songs/lonesome-tears-in-my-eyes/" title="Lonesome Tears In My Eyes">Lonesome Tears In My Eyes</a></li>
+<li><a href="/songs/long-tall-sally/" title="Long Tall Sally">Long Tall Sally</a></li>
+<li><a href="/songs/long-long-long/" title="Long, Long, Long">Long, Long, Long</a></li>
+<li><a href="/songs/los-paranoias/" title="Los Paranoias">Los Paranoias</a></li>
+<li><a href="/songs/love-me-do/" title="Love Me Do">Love Me Do</a></li>
+<li><a href="/songs/love-of-the-loved/" title="Love Of The Loved">Love Of The Loved</a></li>
+<li><a href="/songs/love-you-to/" title="Love You To">Love You To</a></li>
+<li><a href="/songs/lovely-rita/" title="Lovely Rita">Lovely Rita</a></li>
+<li><a href="/songs/lucille/" title="Lucille">Lucille</a></li>
+<li><a href="/songs/lucy-in-the-sky-with-diamonds/" title="Lucy In The Sky With Diamonds">Lucy In The Sky With Diamonds</a></li>
+<li><a href="/songs/maggie-mae/" title="Maggie Mae">Maggie Mae</a></li>
+<li><a href="/songs/magical-mystery-tour/" title="Magical Mystery Tour">Magical Mystery Tour</a></li>
+<li><a href="/songs/mailman-bring-me-no-more-blues/" title="Mailman, Bring Me No More Blues">Mailman, Bring Me No More Blues</a></li>
+<li><a href="/songs/march-of-the-meanies/" title="March Of The Meanies">March Of The Meanies</a></li>
+<li><a href="/songs/martha-my-dear/" title="Martha My Dear">Martha My Dear</a></li>
+<li><a href="/songs/matchbox/" title="Matchbox">Matchbox</a></li>
+<li><a href="/songs/maxwells-silver-hammer/" title="Maxwell's Silver Hammer">Maxwell's Silver Hammer</a></li>
+<li><a href="/songs/mean-mr-mustard/" title="Mean Mr Mustard">Mean Mr Mustard</a></li>
+<li><a href="/songs/memphis-tennessee/" title="Memphis, Tennessee">Memphis, Tennessee</a></li>
+<li><a href="/songs/michelle/" title="Michelle">Michelle</a></li>
+<li><a href="/songs/misery/" title="Misery">Misery</a></li>
+<li><a href="/songs/money-thats-what-i-want/" title="Money (That's What I Want)">Money (That's What I Want)</a></li>
+<li><a href="/songs/moonlight-bay/" title="Moonlight Bay">Moonlight Bay</a></li>
+<li><a href="/songs/mother-natures-son/" title="Mother Nature's Son">Mother Nature's Son</a></li>
+<li><a href="/songs/mr-moonlight/" title="Mr Moonlight">Mr Moonlight</a></li>
+<li><a href="/songs/my-bonnie/" title="My Bonnie">My Bonnie</a></li>
+<li><a href="/songs/no-reply/" title="No Reply">No Reply</a></li>
+<li><a href="/songs/nobodys-child/" title="Nobody's Child">Nobody's Child</a></li>
+<li><a href="/songs/norwegian-wood-this-bird-has-flown/" title="Norwegian Wood (This Bird Has Flown)">Norwegian Wood (This Bird Has Flown)</a></li>
+<li><a href="/songs/not-a-second-time/" title="Not A Second Time">Not A Second Time</a></li>
+<li><a href="/songs/not-guilty/" title="Not Guilty">Not Guilty</a></li>
+<li><a href="/songs/nothin-shakin/" title="Nothin' Shakin'">Nothin' Shakin'</a></li>
+<li><a href="/songs/now-and-then/" title="Now And Then">Now And Then</a></li>
+<li><a href="/songs/nowhere-man/" title="Nowhere Man">Nowhere Man</a></li>
+<li><a href="/songs/ob-la-di-ob-la-da/" title="Ob-La-Di, Ob-La-Da">Ob-La-Di, Ob-La-Da</a></li>
+<li><a href="/songs/octopuss-garden/" title="Octopus's Garden">Octopus's Garden</a></li>
+<li><a href="/songs/oh-darling/" title="Oh! Darling">Oh! Darling</a></li>
+<li><a href="/songs/old-brown-shoe/" title="Old Brown Shoe">Old Brown Shoe</a></li>
+<li><a href="/songs/one-after-909/" title="One After 909">One After 909</a></li>
+<li><a href="/songs/only-a-northern-song/" title="Only A Northern Song">Only A Northern Song</a></li>
+<li><a href="/songs/ooh-my-soul/" title="Ooh! My Soul">Ooh! My Soul</a></li>
+<li><a href="/songs/paperback-writer/" title="Paperback Writer">Paperback Writer</a></li>
+<li><a href="/songs/penny-lane/" title="Penny Lane">Penny Lane</a></li>
+<li><a href="/songs/pepperland/" title="Pepperland">Pepperland</a></li>
+<li><a href="/songs/pepperland-laid-waste/" title="Pepperland Laid Waste">Pepperland Laid Waste</a></li>
+<li><a href="/songs/piggies/" title="Piggies">Piggies</a></li>
+<li><a href="/songs/please-mister-postman/" title="Please Mister Postman">Please Mister Postman</a></li>
+<li><a href="/songs/please-please-me/" title="Please Please Me">Please Please Me</a></li>
+<li><a href="/songs/polythene-pam/" title="Polythene Pam">Polythene Pam</a></li>
+<li><a href="/songs/ps-i-love-you/" title="PS I Love You">PS I Love You</a></li>
+<li><a href="/songs/rain/" title="Rain">Rain</a></li>
+<li><a href="/songs/real-love/" title="Real Love">Real Love</a></li>
+<li><a href="/songs/revolution/" title="Revolution">Revolution</a></li>
+<li><a href="/songs/revolution-1/" title="Revolution 1">Revolution 1</a></li>
+<li><a href="/songs/revolution-9/" title="Revolution 9">Revolution 9</a></li>
+<li><a href="/songs/rip-it-up-shake-rattle-and-roll-blue-suede-shoes/" title="Rip It Up/Shake, Rattle And Roll/Blue Suede Shoes">Rip It Up/Shake, Rattle And Roll/Blue Suede Shoes</a></li>
+<li><a href="/songs/rock-and-roll-music/" title="Rock And Roll Music">Rock And Roll Music</a></li>
+<li><a href="/songs/rocky-raccoon/" title="Rocky Raccoon">Rocky Raccoon</a></li>
+<li><a href="/songs/roll-over-beethoven/" title="Roll Over Beethoven">Roll Over Beethoven</a></li>
+<li><a href="/songs/run-for-your-life/" title="Run For Your Life">Run For Your Life</a></li>
+<li><a href="/songs/savoy-truffle/" title="Savoy Truffle">Savoy Truffle</a></li>
+<li><a href="/songs/sea-of-holes/" title="Sea Of Holes">Sea Of Holes</a></li>
+<li><a href="/songs/sea-of-monsters/" title="Sea Of Monsters">Sea Of Monsters</a></li>
+<li><a href="/songs/sea-of-time/" title="Sea Of Time">Sea Of Time</a></li>
+<li><a href="/songs/searchin/" title="Searchin'">Searchin'</a></li>
+<li><a href="/songs/september-in-the-rain/" title="September In The Rain">September In The Rain</a></li>
+<li><a href="/songs/sexy-sadie/" title="Sexy Sadie">Sexy Sadie</a></li>
+<li><a href="/songs/sgt-peppers-lonely-hearts-club-band/" title="Sgt Pepper's Lonely Hearts Club Band">Sgt Pepper's Lonely Hearts Club Band</a></li>
+<li><a href="/songs/sgt-peppers-lonely-hearts-club-band-reprise/" title="Sgt Pepper's Lonely Hearts Club Band (Reprise)">Sgt Pepper's Lonely Hearts Club Band (Reprise)</a></li>
+<li><a href="/songs/she-came-in-through-the-bathroom-window/" title="She Came In Through The Bathroom Window">She Came In Through The Bathroom Window</a></li>
+<li><a href="/songs/she-loves-you/" title="She Loves You">She Loves You</a></li>
+<li><a href="/songs/she-said-she-said/" title="She Said She Said">She Said She Said</a></li>
+<li><a href="/songs/shes-a-woman/" title="She's A Woman">She's A Woman</a></li>
+<li><a href="/songs/shes-leaving-home/" title="She's Leaving Home">She's Leaving Home</a></li>
+<li><a href="/songs/shout/" title="Shout">Shout</a></li>
+<li><a href="/songs/sie-liebt-dich/" title="Sie Liebt Dich">Sie Liebt Dich</a></li>
+<li><a href="/songs/slow-down/" title="Slow Down">Slow Down</a></li>
+<li><a href="/songs/so-how-come-no-one-loves-me/" title="So How Come (No One Loves Me)">So How Come (No One Loves Me)</a></li>
+<li><a href="/songs/soldier-of-love/" title="Soldier Of Love">Soldier Of Love</a></li>
+<li><a href="/songs/some-other-guy/" title="Some Other Guy">Some Other Guy</a></li>
+<li><a href="/songs/something/" title="Something">Something</a></li>
+<li><a href="/songs/sour-milk-sea/" title="Sour Milk Sea">Sour Milk Sea</a></li>
+<li><a href="/songs/step-inside-love/" title="Step Inside Love">Step Inside Love</a></li>
+<li><a href="/songs/strawberry-fields-forever/" title="Strawberry Fields Forever">Strawberry Fields Forever</a></li>
+<li><a href="/songs/sun-king/" title="Sun King">Sun King</a></li>
+<li><a href="/songs/sure-to-fall-in-love-with-you/" title="Sure To Fall (In Love With You)">Sure To Fall (In Love With You)</a></li>
+<li><a href="/songs/sweet-little-sixteen/" title="Sweet Little Sixteen">Sweet Little Sixteen</a></li>
+<li><a href="/songs/take-good-care-of-my-baby/" title="Take Good Care Of My Baby">Take Good Care Of My Baby</a></li>
+<li><a href="/songs/take-out-some-insurance-on-me-baby/" title="Take Out Some Insurance On Me, Baby">Take Out Some Insurance On Me, Baby</a></li>
+<li><a href="/songs/taxman/" title="Taxman">Taxman</a></li>
+<li><a href="/songs/teddy-boy/" title="Teddy Boy">Teddy Boy</a></li>
+<li><a href="/songs/tell-me-what-you-see/" title="Tell Me What You See">Tell Me What You See</a></li>
+<li><a href="/songs/tell-me-why/" title="Tell Me Why">Tell Me Why</a></li>
+<li><a href="/songs/thank-you-girl/" title="Thank You Girl">Thank You Girl</a></li>
+<li><a href="/songs/that-means-a-lot/" title="That Means A Lot">That Means A Lot</a></li>
+<li><a href="/songs/thatll-be-the-day/" title="That'll Be The Day">That'll Be The Day</a></li>
+<li><a href="/songs/thats-all-right-mama/" title="That's All Right (Mama)">That's All Right (Mama)</a></li>
+<li><a href="/songs/the-ballad-of-john-and-yoko/" title="The Ballad Of John And Yoko">The Ballad Of John And Yoko</a></li>
+<li><a href="/songs/the-continuing-story-of-bungalow-bill/" title="The Continuing Story Of Bungalow Bill">The Continuing Story Of Bungalow Bill</a></li>
+<li><a href="/songs/the-end/" title="The End">The End</a></li>
+<li><a href="/songs/the-fool-on-the-hill/" title="The Fool On The Hill">The Fool On The Hill</a></li>
+<li><a href="/songs/the-hippy-hippy-shake/" title="The Hippy Hippy Shake">The Hippy Hippy Shake</a></li>
+<li><a href="/songs/the-honeymoon-song/" title="The Honeymoon Song">The Honeymoon Song</a></li>
+<li><a href="/songs/the-inner-light/" title="The Inner Light">The Inner Light</a></li>
+<li><a href="/songs/the-long-and-winding-road/" title="The Long And Winding Road">The Long And Winding Road</a></li>
+<li><a href="/songs/the-night-before/" title="The Night Before">The Night Before</a></li>
+<li><a href="/songs/the-saints/" title="The Saints">The Saints</a></li>
+<li><a href="/songs/the-sheik-of-araby/" title="The Sheik Of Araby">The Sheik Of Araby</a></li>
+<li><a href="/songs/the-word/" title="The Word">The Word</a></li>
+<li><a href="/songs/theres-a-place/" title="There's A Place">There's A Place</a></li>
+<li><a href="/songs/things-we-said-today/" title="Things We Said Today">Things We Said Today</a></li>
+<li><a href="/songs/think-for-yourself/" title="Think For Yourself">Think For Yourself</a></li>
+<li><a href="/songs/this-boy/" title="This Boy">This Boy</a></li>
+<li><a href="/songs/three-cool-cats/" title="Three Cool Cats">Three Cool Cats</a></li>
+<li><a href="/songs/ticket-to-ride/" title="Ticket To Ride">Ticket To Ride</a></li>
+<li><a href="/songs/till-there-was-you/" title="Till There Was You">Till There Was You</a></li>
+<li><a href="/songs/to-know-her-is-to-love-her/" title="To Know Her Is To Love Her">To Know Her Is To Love Her</a></li>
+<li><a href="/songs/tomorrow-never-knows/" title="Tomorrow Never Knows">Tomorrow Never Knows</a></li>
+<li><a href="/songs/too-much-monkey-business/" title="Too Much Monkey Business">Too Much Monkey Business</a></li>
+<li><a href="/songs/twist-and-shout/" title="Twist And Shout">Twist And Shout</a></li>
+<li><a href="/songs/two-of-us/" title="Two Of Us">Two Of Us</a></li>
+<li><a href="/songs/wait/" title="Wait">Wait</a></li>
+<li><a href="/songs/we-can-work-it-out/" title="We Can Work It Out">We Can Work It Out</a></li>
+<li><a href="/songs/what-goes-on/" title="What Goes On">What Goes On</a></li>
+<li><a href="/songs/what-youre-doing/" title="What You're Doing">What You're Doing</a></li>
+<li><a href="/songs/whats-the-new-mary-jane/" title="What's The New Mary Jane">What's The New Mary Jane</a></li>
+<li><a href="/songs/when-i-get-home/" title="When I Get Home">When I Get Home</a></li>
+<li><a href="/songs/when-im-sixty-four/" title="When I'm Sixty-Four">When I'm Sixty-Four</a></li>
+<li><a href="/songs/while-my-guitar-gently-weeps/" title="While My Guitar Gently Weeps">While My Guitar Gently Weeps</a></li>
+<li><a href="/songs/why/" title="Why">Why</a></li>
+<li><a href="/songs/why-dont-we-do-it-in-the-road/" title="Why Don't We Do It In The Road?">Why Don't We Do It In The Road?</a></li>
+<li><a href="/songs/wild-honey-pie/" title="Wild Honey Pie">Wild Honey Pie</a></li>
+<li><a href="/songs/with-a-little-help-from-my-friends/" title="With A Little Help From My Friends">With A Little Help From My Friends</a></li>
+<li><a href="/songs/within-you-without-you/" title="Within You Without You">Within You Without You</a></li>
+<li><a href="/songs/words-of-love/" title="Words Of Love">Words Of Love</a></li>
+<li><a href="/songs/yellow-submarine/" title="Yellow Submarine">Yellow Submarine</a></li>
+<li><a href="/songs/yellow-submarine-in-pepperland/" title="Yellow Submarine In Pepperland">Yellow Submarine In Pepperland</a></li>
+<li><a href="/songs/yer-blues/" title="Yer Blues">Yer Blues</a></li>
+<li><a href="/songs/yes-it-is/" title="Yes It Is">Yes It Is</a></li>
+<li><a href="/songs/yesterday/" title="Yesterday">Yesterday</a></li>
+<li><a href="/songs/you-cant-do-that/" title="You Can't Do That">You Can't Do That</a></li>
+<li><a href="/songs/you-know-my-name-look-up-the-number/" title="You Know My Name (Look Up The Number)">You Know My Name (Look Up The Number)</a></li>
+<li><a href="/songs/you-know-what-to-do/" title="You Know What To Do">You Know What To Do</a></li>
+<li><a href="/songs/you-like-me-too-much/" title="You Like Me Too Much">You Like Me Too Much</a></li>
+<li><a href="/songs/you-never-give-me-your-money/" title="You Never Give Me Your Money">You Never Give Me Your Money</a></li>
+<li><a href="/songs/you-really-got-a-hold-on-me/" title="You Really Got A Hold On Me">You Really Got A Hold On Me</a></li>
+<li><a href="/songs/you-wont-see-me/" title="You Won't See Me">You Won't See Me</a></li>
+<li><a href="/songs/youll-be-mine/" title="You'll Be Mine">You'll Be Mine</a></li>
+<li><a href="/songs/youre-going-to-lose-that-girl/" title="You're Going To Lose That Girl">You're Going To Lose That Girl</a></li>
+<li><a href="/songs/youve-got-to-hide-your-love-away/" title="You've Got To Hide Your Love Away">You've Got To Hide Your Love Away</a></li>
+<li><a href="/songs/young-blood/" title="Young Blood">Young Blood</a></li>
+<li><a href="/songs/your-mother-should-know/" title="Your Mother Should Know">Your Mother Should Know</a></li>
+</ul>
+
+				
+	</div><!-- /.entry-content -->
+
+	<footer class="entry-meta">
+			</footer><!-- /.entry-meta -->
+</article><!-- /#post -->				
+
+<div style="margin:10px 0 10px 0; ">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Beatles Bible responsive 2014 banner below content -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4585391842306465"
+     data-ad-slot="6598271682"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+
+<section id="comments" class="comments-area">
+
+	
+			<h2 class="comments-title">
+			21 responses on &ldquo;<span>The Beatles&#8217; songs</span>&rdquo;		</h2>
+
+		<ol class="commentlist">
+						<li class="comment even thread-even depth-1" id="li-comment-396075">
+				<article id="comment-396075" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://1.gravatar.com/avatar/345848ede992251e87968a8eda32b1a5?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://1.gravatar.com/avatar/345848ede992251e87968a8eda32b1a5?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn"><a href='http://www.thegoodguise.wordpress.com' rel='external nofollow' class='url'>Jacob</a> </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-396075" title="Posted Wednesday 12 September 2012 @ 12.18pm"><time itemprop="datePublished" datetime="2012-09-12T12:18:45+00:00">Wednesday 12 September 2012 at 12.18pm</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>Hi, awesome site! Just wanted to say Hello and also mention that the final &#8216;phase&#8217; of the Beatles was based fully on the Bible. Check out my site to get the whole story. For example, &#8216;And of course Henry the horse dances the waltz&#8217; comes from Revelation 12: 18. What is odd is that no one until now ever asked the obvious question; that is, &#8220;How many steps are required to do the Waltz?&#8221;. Look it up- the answer is 6, which repeats as long as one dances, giving us 666&#8230;..Get the entire story then sit back and watch the world kill Rock and Roll and Christianity, just as John stated would happen! Be strong!</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=396075#respond' onclick='return addComment.moveForm( "comment-396075", "396075", "respond", "7" )' aria-label='Reply to Jacob'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			<ol class="children">
+			<li class="comment odd alt depth-2" id="li-comment-424980">
+				<article id="comment-424980" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://0.gravatar.com/avatar/4aae4f401fa193febd078ba690910be8?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://0.gravatar.com/avatar/4aae4f401fa193febd078ba690910be8?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn">Pepperland </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-424980" title="Posted Sunday 30 December 2012 @ 1.48pm"><time itemprop="datePublished" datetime="2012-12-30T13:48:36+00:00">Sunday 30 December 2012 at 1.48pm</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>What? There isn&#8217;t a Revelation 12:18.</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=424980#respond' onclick='return addComment.moveForm( "comment-424980", "424980", "respond", "7" )' aria-label='Reply to Pepperland'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			<ol class="children">
+			<li class="comment even depth-3" id="li-comment-438183">
+				<article id="comment-438183" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://0.gravatar.com/avatar/e5b9afc478197882a0bc309cf4d36611?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://0.gravatar.com/avatar/e5b9afc478197882a0bc309cf4d36611?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn"><a href='http://michaelaventrella.com' rel='external nofollow' class='url'>Michael A. Ventrella</a> </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-438183" title="Posted Friday 30 May 2014 @ 2.45am"><time itemprop="datePublished" datetime="2014-05-30T02:45:40+00:00">Friday 30 May 2014 at 2.45am</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>Oh, like the rest of that person&#8217;s post was coherent.</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=438183#respond' onclick='return addComment.moveForm( "comment-438183", "438183", "respond", "7" )' aria-label='Reply to Michael A. Ventrella'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment odd alt depth-2" id="li-comment-442396">
+				<article id="comment-442396" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://0.gravatar.com/avatar/89838d2bce331f2731c72dfcb87c673c?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://0.gravatar.com/avatar/89838d2bce331f2731c72dfcb87c673c?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn">ForeverOK </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-442396" title="Posted Sunday 30 November 2014 @ 10.44am"><time itemprop="datePublished" datetime="2014-11-30T10:44:36+00:00">Sunday 30 November 2014 at 10.44am</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>I think it was in one of Lee Strobel&#8217;s books, interviewing experts, and one mentioned the actual number is 665 in the original; he said he read the oldest manuscript.</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=442396#respond' onclick='return addComment.moveForm( "comment-442396", "442396", "respond", "7" )' aria-label='Reply to ForeverOK'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment byuser comment-author-beatles-in-the-blood even thread-odd thread-alt depth-1" id="li-comment-425167">
+				<article id="comment-425167" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://0.gravatar.com/avatar/0e362bc83b6f710e80c399f45200c494?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://0.gravatar.com/avatar/0e362bc83b6f710e80c399f45200c494?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn">Beatles in the Blood </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-425167" title="Posted Sunday 20 January 2013 @ 7.56pm"><time itemprop="datePublished" datetime="2013-01-20T19:56:06+00:00">Sunday 20 January 2013 at 7.56pm</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>You missed two songs, Bad to Me and One and One is Two please try and add those</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=425167#respond' onclick='return addComment.moveForm( "comment-425167", "425167", "respond", "7" )' aria-label='Reply to Beatles in the Blood'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			</li><!-- #comment-## -->
+			<li class="comment odd alt thread-even depth-1" id="li-comment-425193">
+				<article id="comment-425193" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://0.gravatar.com/avatar/6d23f5ed25527d5400ff25f8403ba9a6?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://0.gravatar.com/avatar/6d23f5ed25527d5400ff25f8403ba9a6?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn">Igor </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-425193" title="Posted Wednesday 23 January 2013 @ 11.13pm"><time itemprop="datePublished" datetime="2013-01-23T23:13:25+00:00">Wednesday 23 January 2013 at 11.13pm</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>I suppose there is a luck of one good song which was issued as a demo. The song is called &#8220;goodbye&#8221; and its granted by lennon/mccartney, but was of course McCartney lyrics from Abbey Road Sessions.</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=425193#respond' onclick='return addComment.moveForm( "comment-425193", "425193", "respond", "7" )' aria-label='Reply to Igor'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			<ol class="children">
+			<li class="comment byuser comment-author-joe bypostauthor even depth-2" id="li-comment-425203">
+				<article id="comment-425203" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://1.gravatar.com/avatar/5fd480376368a50c0e56a9d00d0f1549?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://1.gravatar.com/avatar/5fd480376368a50c0e56a9d00d0f1549?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn"><a href='http://www.beatlesbible.com' rel='external nofollow' class='url'>Joe</a> <span> Post author</span></cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-425203" title="Posted Thursday 24 January 2013 @ 10.15am"><time itemprop="datePublished" datetime="2013-01-24T10:15:40+00:00">Thursday 24 January 2013 at 10.15am</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>I&#8217;m not entirely sure what you mean, but I presume you&#8217;re referring to the Mary Hopkin song that Paul McCartney wrote? It was never a Beatles song.</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=425203#respond' onclick='return addComment.moveForm( "comment-425203", "425203", "respond", "7" )' aria-label='Reply to Joe'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			<ol class="children">
+			<li class="comment odd alt depth-3" id="li-comment-425212">
+				<article id="comment-425212" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://0.gravatar.com/avatar/6d23f5ed25527d5400ff25f8403ba9a6?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://0.gravatar.com/avatar/6d23f5ed25527d5400ff25f8403ba9a6?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn">Igor </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-425212" title="Posted Thursday 24 January 2013 @ 4.56pm"><time itemprop="datePublished" datetime="2013-01-24T16:56:59+00:00">Thursday 24 January 2013 at 4.56pm</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>Yeah, I think I was somehow wrong. This song was for Mary. However I&#8217;m little bit confused hearing all Abbey Road Sessions when there was a lot of songs sung, but they were actually not a Beatles songs like Lennons Give peace a chance, Instant Karma, McCartneys Come and get it (?) etc.</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=425212#respond' onclick='return addComment.moveForm( "comment-425212", "425212", "respond", "7" )' aria-label='Reply to Igor'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			</li><!-- #comment-## -->
+			<li class="comment byuser comment-author-beatles-in-the-blood even depth-3" id="li-comment-425238">
+				<article id="comment-425238" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://0.gravatar.com/avatar/0e362bc83b6f710e80c399f45200c494?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://0.gravatar.com/avatar/0e362bc83b6f710e80c399f45200c494?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn">Beatles in the Blood </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-425238" title="Posted Saturday 26 January 2013 @ 2.13am"><time itemprop="datePublished" datetime="2013-01-26T02:13:05+00:00">Saturday 26 January 2013 at 2.13am</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>Joe are the ones I sugested real Beatles songs</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=425238#respond' onclick='return addComment.moveForm( "comment-425238", "425238", "respond", "7" )' aria-label='Reply to Beatles in the Blood'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			<ol class="children">
+			<li class="comment byuser comment-author-joe bypostauthor odd alt depth-4" id="li-comment-425244">
+				<article id="comment-425244" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://1.gravatar.com/avatar/5fd480376368a50c0e56a9d00d0f1549?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://1.gravatar.com/avatar/5fd480376368a50c0e56a9d00d0f1549?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn"><a href='http://www.beatlesbible.com' rel='external nofollow' class='url'>Joe</a> <span> Post author</span></cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-425244" title="Posted Saturday 26 January 2013 @ 3.24pm"><time itemprop="datePublished" datetime="2013-01-26T15:24:51+00:00">Saturday 26 January 2013 at 3.24pm</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>They&#8217;re Lennon-McCartney songs, but I have a pretty full to-do list right now and I don&#8217;t know if/when I&#8217;ll add songs The Beatles never recorded or released. It&#8217;s not something I&#8217;m too bothered about tbh.</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=425244#respond' onclick='return addComment.moveForm( "comment-425244", "425244", "respond", "7" )' aria-label='Reply to Joe'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			<ol class="children">
+			<li class="comment byuser comment-author-beatles-in-the-blood even depth-5" id="li-comment-425260">
+				<article id="comment-425260" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://0.gravatar.com/avatar/0e362bc83b6f710e80c399f45200c494?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://0.gravatar.com/avatar/0e362bc83b6f710e80c399f45200c494?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn">Beatles in the Blood </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-425260" title="Posted Monday 28 January 2013 @ 5.26pm"><time itemprop="datePublished" datetime="2013-01-28T17:26:39+00:00">Monday 28 January 2013 at 5.26pm</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>That&#8217;s okay with me.</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=425260#respond' onclick='return addComment.moveForm( "comment-425260", "425260", "respond", "7" )' aria-label='Reply to Beatles in the Blood'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-431793">
+				<article id="comment-431793" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://0.gravatar.com/avatar/6d23f5ed25527d5400ff25f8403ba9a6?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://0.gravatar.com/avatar/6d23f5ed25527d5400ff25f8403ba9a6?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn">Igor </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-431793" title="Posted Monday 21 October 2013 @ 10.11pm"><time itemprop="datePublished" datetime="2013-10-21T22:11:57+00:00">Monday 21 October 2013 at 10.11pm</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>I wish I would see all unreleased Beatles songs.</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=431793#respond' onclick='return addComment.moveForm( "comment-431793", "431793", "respond", "7" )' aria-label='Reply to Igor'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			<ol class="children">
+			<li class="comment even depth-2" id="li-comment-432282">
+				<article id="comment-432282" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://0.gravatar.com/avatar/04943f136bd40f889ce7bfd747375f89?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://0.gravatar.com/avatar/04943f136bd40f889ce7bfd747375f89?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn">Rick </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-432282" title="Posted Saturday 30 November 2013 @ 4.51pm"><time itemprop="datePublished" datetime="2013-11-30T16:51:42+00:00">Saturday 30 November 2013 at 4.51pm</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>I agree, there are many more songs that the Beatles jammed to or recorded but not released.  Also there is a site that lists more than 250 ALBUMS with their discography.  Of course, there are many duplicates but there are also literally hundreds of songs that are not on this list.  BTW, there are some gems!</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=432282#respond' onclick='return addComment.moveForm( "comment-432282", "432282", "respond", "7" )' aria-label='Reply to Rick'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment odd alt thread-even depth-1" id="li-comment-437497">
+				<article id="comment-437497" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://1.gravatar.com/avatar/bbada7d31cc0eca235487810818a1f2c?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://1.gravatar.com/avatar/bbada7d31cc0eca235487810818a1f2c?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn">TMW </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-437497" title="Posted Wednesday 21 May 2014 @ 8.58pm"><time itemprop="datePublished" datetime="2014-05-21T20:58:35+00:00">Wednesday 21 May 2014 at 8.58pm</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>Are their any Beatles recordings where only on of the Beatles played on that recording?<br />
+If so how may and what are the titles?<br />
+Thanks,</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=437497#respond' onclick='return addComment.moveForm( "comment-437497", "437497", "respond", "7" )' aria-label='Reply to TMW'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			<ol class="children">
+			<li class="comment even depth-2" id="li-comment-442234">
+				<article id="comment-442234" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://0.gravatar.com/avatar/0b7a291a130998b6d9a087f2b543cdbb?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://0.gravatar.com/avatar/0b7a291a130998b6d9a087f2b543cdbb?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn">peter </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-442234" title="Posted Tuesday 25 November 2014 @ 6.46am"><time itemprop="datePublished" datetime="2014-11-25T06:46:48+00:00">Tuesday 25 November 2014 at 6.46am</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>Surely &#8220;Yesterday&#8221;.</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=442234#respond' onclick='return addComment.moveForm( "comment-442234", "442234", "respond", "7" )' aria-label='Reply to peter'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			<ol class="children">
+			<li class="comment odd alt depth-3" id="li-comment-442241">
+				<article id="comment-442241" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://1.gravatar.com/avatar/51269c2881556c4e8fac7cec85834f5b?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://1.gravatar.com/avatar/51269c2881556c4e8fac7cec85834f5b?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn">Julian </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-442241" title="Posted Tuesday 25 November 2014 @ 2.16pm"><time itemprop="datePublished" datetime="2014-11-25T14:16:14+00:00">Tuesday 25 November 2014 at 2.16pm</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>Also &#8220;Within You Without You&#8221;, &#8220;Julia&#8221;.</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=442241#respond' onclick='return addComment.moveForm( "comment-442241", "442241", "respond", "7" )' aria-label='Reply to Julian'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment even thread-odd thread-alt depth-1" id="li-comment-439822">
+				<article id="comment-439822" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://1.gravatar.com/avatar/51d8898002d204ebc204e51df2ac8b9a?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://1.gravatar.com/avatar/51d8898002d204ebc204e51df2ac8b9a?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn">Nick </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-439822" title="Posted Sunday 20 July 2014 @ 7.56am"><time itemprop="datePublished" datetime="2014-07-20T07:56:43+00:00">Sunday 20 July 2014 at 7.56am</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>The song &#8220;where have you been all my life&#8221;, which they played back in their earlier days&#8230;</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=439822#respond' onclick='return addComment.moveForm( "comment-439822", "439822", "respond", "7" )' aria-label='Reply to Nick'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			</li><!-- #comment-## -->
+			<li class="comment odd alt thread-even depth-1" id="li-comment-440641">
+				<article id="comment-440641" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://1.gravatar.com/avatar/31a61b3cfb17d789b40da70b1b705b91?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://1.gravatar.com/avatar/31a61b3cfb17d789b40da70b1b705b91?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn">crystal </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-440641" title="Posted Friday 29 August 2014 @ 6.30pm"><time itemprop="datePublished" datetime="2014-08-29T18:30:23+00:00">Friday 29 August 2014 at 6.30pm</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>how about &#8220;i dont know&#8221; (oh johnny, johnny)</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=440641#respond' onclick='return addComment.moveForm( "comment-440641", "440641", "respond", "7" )' aria-label='Reply to crystal'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			</li><!-- #comment-## -->
+			<li class="comment even thread-odd thread-alt depth-1" id="li-comment-441222">
+				<article id="comment-441222" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://1.gravatar.com/avatar/9816489717e99099646e23b87d7a39c3?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://1.gravatar.com/avatar/9816489717e99099646e23b87d7a39c3?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn">rudy shears </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-441222" title="Posted Wednesday 1 October 2014 @ 6.20pm"><time itemprop="datePublished" datetime="2014-10-01T18:20:51+00:00">Wednesday 1 October 2014 at 6.20pm</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>soldier boy?</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=441222#respond' onclick='return addComment.moveForm( "comment-441222", "441222", "respond", "7" )' aria-label='Reply to rudy shears'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			</li><!-- #comment-## -->
+			<li class="comment odd alt thread-even depth-1" id="li-comment-442633">
+				<article id="comment-442633" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://1.gravatar.com/avatar/1d72363f1ccc754001a2e3cbeb92e222?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://1.gravatar.com/avatar/1d72363f1ccc754001a2e3cbeb92e222?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn">Adam </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-442633" title="Posted Monday 15 December 2014 @ 1.37am"><time itemprop="datePublished" datetime="2014-12-15T01:37:32+00:00">Monday 15 December 2014 at 1.37am</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>Please add &#8220;I&#8217;m in love&#8221;</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=442633#respond' onclick='return addComment.moveForm( "comment-442633", "442633", "respond", "7" )' aria-label='Reply to Adam'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			</li><!-- #comment-## -->
+			<li class="comment even thread-odd thread-alt depth-1" id="li-comment-443460">
+				<article id="comment-443460" class="comment">
+					<header class="comment-meta comment-author vcard">
+						<img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://1.gravatar.com/avatar/504d56a9c3a3de1f07ce7e27238bcedb?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /><noscript><img alt='' src="http://1.gravatar.com/avatar/504d56a9c3a3de1f07ce7e27238bcedb?s=44&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D44&amp;r=G" class='avatar avatar-44 photo' height='44' width='44' /></noscript><cite class="fn"><a href='http://nope' rel='external nofollow' class='url'>Pascal</a> </cite><a href="http://www.beatlesbible.com/songs/comment-page-1/#comment-443460" title="Posted Monday 26 January 2015 @ 3.15pm"><time itemprop="datePublished" datetime="2015-01-26T15:15:20+00:00">Monday 26 January 2015 at 3.15pm</time></a>					</header> <!-- .comment-meta -->
+
+					
+					<section class="comment-content comment">
+						<p>There are dozens more&#8230; just look on You Tube&#8230; the list goes on and on.<br />
+Most of them are just one-lines, or demo&#8217;s&#8230;</p>
+											</section> <!-- .comment-content -->
+
+					<div class="reply">
+						<a class='comment-reply-link' href='/songs/?replytocom=443460#respond' onclick='return addComment.moveForm( "comment-443460", "443460", "respond", "7" )' aria-label='Reply to Pascal'>Reply <span>&darr;</span></a>					</div> <!-- .reply -->
+				</article> <!-- #comment-## -->
+			</li><!-- #comment-## -->
+		</ol> <!-- /.commentlist -->
+
+		
+	
+						
+		<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Leave a reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/songs/#respond" style="display:none;">Cancel reply</a></small></h3>
+			<div id="commentform" class="comment-form">
+				<iframe src="http://jetpack.wordpress.com/jetpack-comment/?blogid=3126370&#038;postid=7&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=0&#038;stb_enabled=0&#038;show_avatars=1&#038;avatar_default=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg&#038;greeting=Leave+a+reply&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en-US&#038;jetpack_version=3.3.2&#038;sig=d94e5a4805c83b07498e5bfad8a7554a2e97a824#parent=http%3A%2F%2Fwww.beatlesbible.com%2Fsongs%2F" allowtransparency="false" style="width:100%; height: 430px;border:0px;" frameBorder="0" scrolling="no" name="jetpack_remote_comment" id="jetpack_remote_comment"></iframe>
+			</div>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+		
+</section> <!-- /#comments.comments-area -->
+
+			
+		</div> <!-- /.col.grid_8_of_12 -->
+
+			<div class="col grid_4_of_12">
+
+		<div id="secondary" class="widget-area" role="complementary">
+			<aside id="execphp-35" class="widget widget_execphp">			<div class="execphpwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Link ad BB sidebar -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:180px;height:90px"
+     data-ad-client="ca-pub-4585391842306465"
+     data-ad-slot="5902097684"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</aside>		<aside id="recent-posts-5" class="widget widget_recent_entries">		<h3 class="widget-title">Latest posts</h3>		<ul>
+					<li>
+				<a href="http://www.beatlesbible.com/2015/02/15/paul-mccartney-saturday-night-live-40th-anniversary-special/">Paul McCartney performs on Saturday Night Live 40th anniversary special</a>
+						</li>
+					<li>
+				<a href="http://www.beatlesbible.com/2015/02/14/paul-mccartney-live-irving-plaza-new-york/">Paul McCartney live at Irving Plaza, New York</a>
+						</li>
+					<li>
+				<a href="http://www.beatlesbible.com/2015/01/29/ringo-starr-postcards-from-paradise-album-announced/">Ringo Starr album Postcards From Paradise announced</a>
+						</li>
+					<li>
+				<a href="http://www.beatlesbible.com/2014/11/26/paul-mccartney-live-allianz-parque-sao-paulo-brazil-2/">Paul McCartney live at Allianz Parque, SÃ£o Paulo, Brazil</a>
+						</li>
+					<li>
+				<a href="http://www.beatlesbible.com/2014/11/25/paul-mccartney-live-allianz-parque-sao-paulo-brazil/">Paul McCartney live at Allianz Parque, SÃ£o Paulo, Brazil</a>
+						</li>
+					<li>
+				<a href="http://www.beatlesbible.com/2014/11/23/paul-mccartney-live-estadio-mane-garrincha-brasilia-brazil/">Paul McCartney live at EstÃ¡dio ManÃ© Garrincha, BrasÃ­lia, Brazil</a>
+						</li>
+					<li>
+				<a href="http://www.beatlesbible.com/2014/11/12/paul-mccartney-live-hsbc-arena-rio-de-janeiro-brazil/">Paul McCartney live at HSBC Arena, Rio de Janeiro, Brazil</a>
+						</li>
+					<li>
+				<a href="http://www.beatlesbible.com/2014/11/10/paul-mccartney-live-estadio-kleber-andrade-cariacica-brazil/">Paul McCartney live at EstÃ¡dio KlÃ©ber Andrade, Cariacica, Brazil</a>
+						</li>
+					<li>
+				<a href="http://www.beatlesbible.com/2014/10/30/paul-mccartney-live-greensboro-coliseum-greensboro-north-carolina/">Paul McCartney live at Greensboro Coliseum, Greensboro, North Carolina</a>
+						</li>
+					<li>
+				<a href="http://www.beatlesbible.com/2014/10/28/paul-mccartney-live-kfc-yum-center-louisville-kentucky/">Paul McCartney live at KFC Yum! Center, Louisville, Kentucky</a>
+						</li>
+				</ul>
+		</aside><aside id="execphp-13" class="widget widget_execphp"><h3 class="widget-title">On this day in Beatles history</h3>			<div class="execphpwidget"><ul>
+<li>2010: <a href="http://www.beatlesbible.com/2010/02/21/emi-abbey-road-is-not-for-sale/">EMI: Abbey Road is not for sale</a>
+<li>1975: <a href="http://www.beatlesbible.com/1975/02/21/uk-album-release-rock-n-roll-john-lennon/">UK album release: Rock &#8216;N&#8217; Roll by John Lennon</a>
+<li>1970: <a href="http://www.beatlesbible.com/1970/02/21/mixing-the-lovely-linda-momma-miss-america-glasses-singalong-junk-paul-mccartney/">Mixing: The Lovely Linda, Momma Miss America, Glasses, Singalong Junk by Paul McCartney</a>
+<li>1967: <a href="http://www.beatlesbible.com/1967/02/21/recording-mixing-fixing-a-hole/">Recording, mixing: Fixing A Hole</a>
+<li>1966: <a href="http://www.beatlesbible.com/1966/02/21/us-single-nowhere-man/">US single release: Nowhere Man</a>
+<li>1964: <a href="http://www.beatlesbible.com/1964/02/21/travel-miami-new-york-london/">Travel: Miami to New York to London</a>
+<li>1963: <a href="http://www.beatlesbible.com/1963/02/21/live-majestic-ballroom-birkenhead-16/">Live: Majestic Ballroom, Birkenhead</a>
+<li>1962: <a href="http://www.beatlesbible.com/1962/02/21/live-cavern-club-liverpool-140/">Live: Cavern Club, Liverpool (evening)</a>
+<li>1962: <a href="http://www.beatlesbible.com/1962/02/21/live-cavern-club-liverpool-139/">Live: Cavern Club, Liverpool (lunchtime)</a>
+<li>1961: <a href="http://www.beatlesbible.com/1961/02/21/live-litherland-town-hall-liverpool-7/">Live: Litherland Town Hall, Liverpool</a>
+<li>1961: <a href="http://www.beatlesbible.com/1961/02/21/live-cassanova-club-liverpool-4/">Live: Cassanova Club, Liverpool</a>
+<li>1961: <a href="http://www.beatlesbible.com/1961/02/21/live-cavern-club-liverpool-2/">Live: Cavern Club, Liverpool (lunchtime)</a>
+
+</ul>
+<p>Want more? Visit the <a title="Day after day: the Beatles' history" href="/history/">Beatles history section</a>.</p></div>
+		</aside><aside id="execphp-33" class="widget widget_execphp">			<div class="execphpwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Link ad BB sidebar -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:180px;height:90px"
+     data-ad-client="ca-pub-4585391842306465"
+     data-ad-slot="5902097684"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</aside><aside id="text-208732075" class="widget widget_text">			<div class="textwidget"><a class="twitter-timeline" data-dnt=true href="http://twitter.com/beatlesbible" data-widget-id="259389052762062849">Tweets by @beatlesbible</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</aside><aside id="execphp-14" class="widget widget_execphp"><h3 class="widget-title">Things we said today</h3>			<div class="execphpwidget"><ul class="recomm">
+    <li class="recomm-wrapper"><img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://1.gravatar.com/avatar/7521e23767a6e0e37ede3f27877c18ab?s=30&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D30&amp;r=G" class='avatar avatar-30 photo' height='30' width='30' /><noscript><img alt='' src="http://1.gravatar.com/avatar/7521e23767a6e0e37ede3f27877c18ab?s=30&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D30&amp;r=G" class='avatar avatar-30 photo' height='30' width='30' /></noscript><span class="recommauth">Golden Slumber</span> said: "Well, Lennon played the Mellotron, so it must have been his melody..."
+        on <a href="http://www.beatlesbible.com/songs/flying/"
+           title="Flying">
+           Flying </a>
+    </li>
+    <li class="recomm-wrapper"><img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://1.gravatar.com/avatar/de233ab69db23a1dba1d473e47c212e3?s=30&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D30&amp;r=G" class='avatar avatar-30 photo' height='30' width='30' /><noscript><img alt='' src="http://1.gravatar.com/avatar/de233ab69db23a1dba1d473e47c212e3?s=30&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D30&amp;r=G" class='avatar avatar-30 photo' height='30' width='30' /></noscript><span class="recommauth">Dan</span> said: "Do any of you know what an"ear-worm"is? It's a song that you just can't.."
+        on <a href="http://www.beatlesbible.com/songs/lovely-rita/"
+           title="Lovely Rita">
+           Lovely Rita </a>
+    </li>
+    <li class="recomm-wrapper"><img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://1.gravatar.com/avatar/51269c2881556c4e8fac7cec85834f5b?s=30&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D30&amp;r=G" class='avatar avatar-30 photo' height='30' width='30' /><noscript><img alt='' src="http://1.gravatar.com/avatar/51269c2881556c4e8fac7cec85834f5b?s=30&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D30&amp;r=G" class='avatar avatar-30 photo' height='30' width='30' /></noscript><span class="recommauth">Julian</span> said: "I really don't think he did. He knew very little about their pot-smoking.."
+        on <a href="http://www.beatlesbible.com/people/george-martin/"
+           title="George Martin">
+           George Martin </a>
+    </li>
+    <li class="recomm-wrapper"><img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://1.gravatar.com/avatar/b807178b8b7af4d27ce58a9ef8ab7c33?s=30&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D30&amp;r=G" class='avatar avatar-30 photo' height='30' width='30' /><noscript><img alt='' src="http://1.gravatar.com/avatar/b807178b8b7af4d27ce58a9ef8ab7c33?s=30&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D30&amp;r=G" class='avatar avatar-30 photo' height='30' width='30' /></noscript><span class="recommauth">Mr. Kite</span> said: "That's Â£731,252.00 now! Just over 1.1 million USD today! Definitely a go.."
+        on <a href="http://www.beatlesbible.com/people/jimmie-nicol/"
+           title="Jimmie Nicol">
+           Jimmie Nicol </a>
+    </li>
+    <li class="recomm-wrapper"><img alt='' src="http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://0.gravatar.com/avatar/0bd28f3c52b48fbc2f47b5a166bc3828?s=30&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D30&amp;r=G" class='avatar avatar-30 photo' height='30' width='30' /><noscript><img alt='' src="http://0.gravatar.com/avatar/0bd28f3c52b48fbc2f47b5a166bc3828?s=30&amp;d=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg%3Fs%3D30&amp;r=G" class='avatar avatar-30 photo' height='30' width='30' /></noscript><span class="recommauth">prebeatlesmerseybeattephen</span> said: "Les Stewart Quartet's drummer was Geoff Skinner. Easily googleable!.."
+        on <a href="http://www.beatlesbible.com/features/line-ups/"
+           title="Line-ups 1956-1970">
+           Line-ups 1956-1970 </a>
+    </li>
+ </ul></div>
+		</aside><aside id="execphp-34" class="widget widget_execphp">			<div class="execphpwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Link ad BB sidebar -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:180px;height:90px"
+     data-ad-client="ca-pub-4585391842306465"
+     data-ad-slot="5902097684"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</aside><aside id="spf-4" class="widget spRecentPostsWidget"><h3 class="widget-title">From the forum</h3><ul id='spRecentPostsTag' class='spListTag'><li id='spListItemTag698' class='spListItemTag'><div class='spAvatarTag'><img src='http://www.beatlesbible.com/wp/wp-content/sp-resources/forum-avatars/1412500955rubber-soul-full-scale.jpg' class='spAvatar' style='max-width: 30px' alt='' /></div>
+<a class='spLinkTag' title='Whats the point of a website if no one can get in it. Its LP artwork not the secret code to mankind&#039;s DNA.
+' href='http://www.beatlesbible.com/forum/ringo-starr/ringo-his-self-titled-debut/page-3/#p160481'>Ringo (The Album - 1973)</a> in <a class='spLinkTag' href='http://www.beatlesbible.com/forum/ringo-starr/'>Ringo Starr</a> <br /><span class='spTextTag'>By meanmistermustard</span><span class='spTextTag'>, 9 minutes ago</span>
+</li><li id='spListItemTag3412' class='spListItemTag'><div class='spAvatarTag'><img src='http://www.beatlesbible.com/wp/wp-content/sp-resources/forum-avatars/1412500955rubber-soul-full-scale.jpg' class='spAvatar' style='max-width: 30px' alt='' /></div>
+<a class='spLinkTag' title='trcanberra said 
+Ooh - the real HK lady is logged in (and confused at site layout)  
+ 
+ *wave*
+The rest of us
+
+
+' href='http://www.beatlesbible.com/forum/all-together-now/in-my-life-whats-happening-in-your-life-currently/page-114/#p160479'>In My Life - what's happening in your life currently?</a> in <a class='spLinkTag' href='http://www.beatlesbible.com/forum/all-together-now/'>All together now</a> <br /><span class='spTextTag'>By meanmistermustard</span><span class='spTextTag'>, 15 minutes ago</span>
+</li><li id='spListItemTag694' class='spListItemTag'><div class='spAvatarTag'><img src='http://www.beatlesbible.com/wp/wp-content/sp-resources/forum-avatars/1424445160Ive-just-seen-no-face.jpg' class='spAvatar' style='max-width: 30px' alt='' /></div>
+<a class='spLinkTag' title='^ That is another archive place. It isn&#039;t as extensive as the way back. It has stuff from Yesterday and today plus from a few other sections and threads. The Yesterday and today goes back to sometime in 2013.
+
+Â 
+
+I think it has something to do with RSS feed or subscription.
+' href='http://www.beatlesbible.com/forum/all-together-now/the-incredibly-impossible-to-derail-this-thread-thread/page-556/#p160478'>The "Incredibly Impossible to Derail This Thread" thread</a> in <a class='spLinkTag' href='http://www.beatlesbible.com/forum/all-together-now/'>All together now</a> <br /><span class='spTextTag'>By Annadog40</span><span class='spTextTag'>, 15 minutes ago</span>
+</li><li id='spListItemTag2725' class='spListItemTag'><div class='spAvatarTag'><img src='http://www.beatlesbible.com/wp/wp-content/sp-resources/forum-avatars/1412500955rubber-soul-full-scale.jpg' class='spAvatar' style='max-width: 30px' alt='' /></div>
+<a class='spLinkTag' title='Another oddity. Every now and then i keep getting redirected to the Home page when going elsewhereÂ -Â still logged in tho.
+' href='http://www.beatlesbible.com/forum/getting-better/weird-things-happening-with-the-forum/page-53/#p160477'>Weird things happening with the forum.</a> in <a class='spLinkTag' href='http://www.beatlesbible.com/forum/getting-better/'>Getting better</a> <br /><span class='spTextTag'>By meanmistermustard</span><span class='spTextTag'>, 18 minutes ago</span>
+</li><li id='spListItemTag4464' class='spListItemTag'><div class='spAvatarTag'><img src='http://www.beatlesbible.com/wp/wp-content/sp-resources/forum-avatars/1424445160Ive-just-seen-no-face.jpg' class='spAvatar' style='max-width: 30px' alt='' /></div>
+<a class='spLinkTag' title='Way back might have some of his posts archived if he posed in the derail thread then his other name will be there. I am pretty sure with way back you have to know the url in order to get the site. You can&#039;t Google to get a way back archived site.Â 
+' href='http://www.beatlesbible.com/forum/forum-rules-and-help-guides/how-do-i-delete-my-accountposts/page-2/#p160475'>How do I delete my account/posts?</a> in <a class='spLinkTag' href='http://www.beatlesbible.com/forum/forum-rules-and-help-guides/'>Forum rules and help guides</a> <br /><span class='spTextTag'>By Annadog40</span><span class='spTextTag'>, 20 minutes ago</span>
+</li></ul></aside><aside id="amazon-search-widget-2" class="widget Widget_Amazon_Search"><script type="text/javascript">var amzn_wdgt= { width:"320", marketPlace:"US", searchIndex:"All", defaultSearchTerm:"beatles", columns:"3", rows:"3", showImage:"True", showPrice:"True", showRating:"False", design:"2", colorTheme:"Default", outerBackgroundColor:"#000000", headerTextColor:"#FFFFFF", tag:"thebeabib06-20", widget:"Search" };</script><script type="text/javascript" src="http://wms.assoc-amazon.com/20070822/US/js/AmazonWidgets.js"></script></aside>
+		</div> <!-- /#secondary.widget-area -->
+
+	</div> <!-- /.col.grid_4_of_12 -->
+
+	</div> <!-- /#primary.site-content.row -->
+
+
+
+
+	</div> <!-- /#maincontentcontainer -->
+
+	<div id="footercontainer">
+
+		<footer class="site-footer row" role="contentinfo">
+
+													<div class="col grid_4_of_12">
+							<div class="widget-area" role="complementary">
+								<aside id="top-posts-3" class="widget widget_top-posts"><h3 class="widget-title">Top Ten Club</h3><ul>				<li>
+										<a href="http://www.beatlesbible.com/forum/" class="bump-view" data-bump-view="tp">
+						Fab forum					</a>
+									</li>
+							<li>
+										<a href="http://www.beatlesbible.com/" class="bump-view" data-bump-view="tp">
+						Welcome to the Beatles Bible!					</a>
+									</li>
+							<li>
+										<a href="http://www.beatlesbible.com/songs/" class="bump-view" data-bump-view="tp">
+						The Beatles&#039; songs					</a>
+									</li>
+							<li>
+										<a href="http://www.beatlesbible.com/features/drugs/" class="bump-view" data-bump-view="tp">
+						The Beatles and drugs					</a>
+									</li>
+							<li>
+										<a href="http://www.beatlesbible.com/1964/07/13/us-single-a-hard-days-night/" class="bump-view" data-bump-view="tp">
+						US single release: A Hard Day&#039;s Night					</a>
+									</li>
+							<li>
+										<a href="http://www.beatlesbible.com/search/" class="bump-view" data-bump-view="tp">
+						Search results					</a>
+									</li>
+							<li>
+										<a href="http://www.beatlesbible.com/history/" class="bump-view" data-bump-view="tp">
+						Days in the life: The Beatles&#039; history					</a>
+									</li>
+							<li>
+										<a href="http://www.beatlesbible.com/albums/" class="bump-view" data-bump-view="tp">
+						The Beatles&#039; albums					</a>
+									</li>
+							<li>
+										<a href="http://www.beatlesbible.com/features/hard-days-night-chord/" class="bump-view" data-bump-view="tp">
+						The &#039;A Hard Day&#039;s Night&#039; opening chord					</a>
+									</li>
+							<li>
+										<a href="http://www.beatlesbible.com/gallery/" class="bump-view" data-bump-view="tp">
+						Beatles photo gallery					</a>
+									</li>
+			</ul></aside>							</div>
+						</div> <!-- /.col.grid_4_of_12 -->
+											<div class="col grid_4_of_12">
+							<div class="widget-area" role="complementary">
+								<aside id="text-208732087" class="widget widget_text"><h3 class="widget-title">Can buy me love</h3>			<div class="textwidget">The Beatles Bible is run for the love of anything and everything to do with The Beatles. If you've learned something new about the band and wish to show your appreciation, why not make a small donation via PayPal? It'll help with server costs, research material etc...
+<!--If you've learned something new about The Beatles and wish to show your appreciation, why not make a small donation via PayPal?-->
+
+<form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="joe@beatlesbible.com">
+<input type="hidden" name="item_name" value="Donation">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="amount" value="10.00">
+<input type="image" src="http://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+</form></div>
+		</aside><aside id="execphp-27" class="widget widget_execphp">			<div class="execphpwidget"><ul><li><a href="/about/contact/">Contact us</a></li>
+<li><a href="/about/">About this site</a></li>
+<li><a href="/about/privacy-policy/">Privacy policy</a></li>
+<li><a href="/faq/">FAQ</a></li></ul></div>
+		</aside>							</div>
+						</div> <!-- /.col.grid_4_of_12 -->
+											<div class="col grid_4_of_12">
+							<div class="widget-area" role="complementary">
+								<aside id="text-208732073" class="widget widget_text"><h3 class="widget-title">Thinking of linking</h3>			<div class="textwidget"><ul><li><a href="http://www.thebeatles.com/">thebeatles.com</a></li>
+<li><a href="http://www.johnlennon.com/">johnlennon.com</a></li>
+<li><a href="http://www.paulmccartney.com">paulmccartney.com</a></li>
+<li><a href="http://www.georgeharrison.com/">georgeharrison.com</a></li>
+<li><a href="http://www.ringostarr.com/">ringostarr.com</a></li>
+<li><a href="http://www.applerecords.com/">applerecords.com</a></li>
+<li><a href="http://twitter.com/thebeatles">twitter.com/thebeatles</a></li>
+<li><a href="http://twitter.com/johnlennon">twitter.com/johnlennon</a></li>
+<li><a href="http://twitter.com/paulmccartney">twitter.com/paulmccartney</a></li>
+<li><a href="http://twitter.com/GeorgeHarrison">twitter.com/GeorgeHarrison</a></li>
+<li><a href="http://twitter.com/ringostarrmusic">twitter.com/ringostarrmusic</a></li></ul>
+<ul>Beatles Bible logo by <a href="http://yerlogos.blogspot.com/">Yer Logos</a>/<a href="http://thebeatlesin3d.blogspot.com/">The Beatles In 3D</a></li></ul></div>
+		</aside>							</div>
+						</div> <!-- /.col.grid_4_of_12 -->
+					
+			
+		</footer> <!-- /.site-footer.row -->
+
+		<div class="row smallprint"><p>Â© <strong>The Beatles Bible</strong>. All rights reserved. All images Â© their respective owners.<br />
+This unofficial site is in no way associated with The Beatles, Apple Corps Ltd, related organisations or any members of The Beatles or their representatives.</p>
+</div> <!-- /.smallprint -->
+	</div> <!-- /.footercontainer -->
+
+</div> <!-- /.#wrapper.hfeed.site -->
+
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=thebeabib06-20&o=1"></script><noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=thebeabib06-20" alt="" /></noscript><script type='text/javascript' src='http://www.beatlesbible.com/wp/wp-content/plugins/akismet/_inc/form.js?ver=3.0.4'></script>
+<script type='text/javascript' src='http://www.beatlesbible.com/wp/wp-content/themes/quark/js/small-menu.js?ver=20130130'></script>
+<script type='text/javascript' src='http://www.beatlesbible.com/wp/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://www.beatlesbible.com/wp/wp-content/plugins/fitvids-for-wordpress/jquery.fitvids.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/js/jquery.sonar.min.js?ver=0.5'></script>
+<script type='text/javascript' src='http://www.beatlesbible.com/wp/wp-content/plugins/lazy-load/js/lazy-load.js?ver=0.5'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201508'></script>
+<script type='text/javascript' src='http://www.beatlesbible.com/wp/wp-includes/js/comment-reply.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://www.beatlesbible.com/wp/wp-content/themes/quark/js/jquery.validate.min.1.13.0.js?ver=1.13.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var comments_object = {"req":"1","author":"Please enter your name","email":"Please enter a valid email address","comment":"Please add a comment"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.beatlesbible.com/wp/wp-content/themes/quark/js/comment-form-validation.js?ver=1.13.0'></script>
+    	<script type="text/javascript">
+    	jQuery(document).ready(function() {
+    		jQuery('body').fitVids({ customSelector: ""});
+    	});
+    	</script>
+		<!--[if IE]>
+		<script type="text/javascript">
+		if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+			// window.location.reload() doesn't respect the Hash in IE
+			window.location.hash = window.location.hash;
+		}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			var comm_par_el = document.getElementById( 'comment_parent' ),
+			    comm_par = (comm_par_el && comm_par_el.value) ? comm_par_el.value : '',
+			    frame = document.getElementById( 'jetpack_remote_comment' ),
+			    tellFrameNewParent;
+
+			tellFrameNewParent = function() {
+				if ( comm_par ) {
+					frame.src = "http://jetpack.wordpress.com/jetpack-comment/?blogid=3126370&postid=7&comment_registration=0&require_name_email=1&stc_enabled=0&stb_enabled=0&show_avatars=1&avatar_default=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg&greeting=Leave+a+reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=3.3.2&sig=d94e5a4805c83b07498e5bfad8a7554a2e97a824#parent=http%3A%2F%2Fwww.beatlesbible.com%2Fsongs%2F" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+				} else {
+					frame.src = "http://jetpack.wordpress.com/jetpack-comment/?blogid=3126370&postid=7&comment_registration=0&require_name_email=1&stc_enabled=0&stb_enabled=0&show_avatars=1&avatar_default=http%3A%2F%2Fwww.beatlesbible.com%2Fwp%2Fwp-content%2Fthemes%2Fbeatles_bible_2014%2Fimages%2Favatar_blank.jpg&greeting=Leave+a+reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=3.3.2&sig=d94e5a4805c83b07498e5bfad8a7554a2e97a824#parent=http%3A%2F%2Fwww.beatlesbible.com%2Fsongs%2F";
+				}
+			};
+
+	
+			if ( 'undefined' !== typeof addComment ) {
+				addComment._Jetpack_moveForm = addComment.moveForm;
+
+				addComment.moveForm = function( commId, parentId, respondId, postId ) {
+					var returnValue = addComment._Jetpack_moveForm( commId, parentId, respondId, postId ), cancelClick, cancel;
+
+					if ( false === returnValue ) {
+						cancel = document.getElementById( 'cancel-comment-reply-link' );
+						cancelClick = cancel.onclick;
+						cancel.onclick = function() {
+							var cancelReturn = cancelClick.call( this );
+							if ( false !== cancelReturn ) {
+								return cancelReturn;
+							}
+
+							if ( !comm_par ) {
+								return cancelReturn;
+							}
+
+							comm_par = 0;
+
+							tellFrameNewParent();
+
+							return cancelReturn;
+						};
+					}
+
+					if ( comm_par == parentId ) {
+						return returnValue;
+					}
+
+					comm_par = parentId;
+
+					tellFrameNewParent();
+
+					return returnValue;
+				};
+			}
+
+	
+			if ( window.postMessage ) {
+				if ( document.addEventListener ) {
+					window.addEventListener( 'message', function( event ) {
+						if ( "http:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				} else if ( document.attachEvent ) {
+					window.attachEvent( 'message', function( event ) {
+						if ( "http:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				}
+			}
+		</script>
+
+	
+	<script src="http://stats.wp.com/e-201508.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.3.2',blog:'3126370',post:'7',tz:'0'});
+	var load_cmc = function(){linktracker_init(3126370,7,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5054129-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+<!-- 99 queries. 0.726 seconds. -->
+
+<div id="fb-root"></div><!-- fb needs this -->
+<script>
+(function(w, d, s) {
+  function go(){
+    var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+	  if (d.getElementById(id)) {return;}
+	  js = d.createElement(s); js.src = url; js.id = id;
+	  fjs.parentNode.insertBefore(js, fjs);
+	};
+    load('//connect.facebook.net/en_US/all.js#appId=272697932759946&xfbml=1', 'fbjssdk');
+    load('https://apis.google.com/js/plusone.js', 'gplus1js');
+    load('//platform.twitter.com/widgets.js', 'tweetjs');
+  }
+  if (w.addEventListener) { w.addEventListener("load", go, false); }
+  else if (w.attachEvent) { w.attachEvent("onload",go); }
+}(window, document, 'script'));
+</script>
+
+<script type="text/javascript" src="https://d1xnn692s7u6t6.cloudfront.net/widget.js"></script>
+<script type="text/javascript">(function k(){window.$SendToKindle&&window.$SendToKindle.Widget?$SendToKindle.Widget.init({}):setTimeout(k,500);})();</script>
+
+
+</body>
+
+</html>
