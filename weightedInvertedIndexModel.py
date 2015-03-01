@@ -25,6 +25,7 @@ class weightedInvertedIndexModel:
 
         nonZero = 0
         zero = 0
+        test = 0
         for x in range(1, N):
             # logic to get file name
             zeroLen = 7 - len(str(x))
@@ -38,27 +39,20 @@ class weightedInvertedIndexModel:
                 file = open("data/clean/" + zeroString + str(x) + ".txt", "r")
 
                 for token in file:
+                    test+=1
                     token = token.rstrip('\n')
-                    if float(self.invertedIndex[token][str(x)][0]) == 0.0:
-                        #print(token)
-                        zero+=1
+                    self.invertedIndex[token][str(x)][0] = (self.invertedIndex[token][str(x)][0] ) * (math.log10(N/len(self.invertedIndex[token])))
+                    if self.docLen.get(token, None) is not None:
+                        self.docLen[token] *= (self.invertedIndex[token][str(x)][0] * self.invertedIndex[token][str(x)][0])
                     else:
-                        nonZero+=1
-                        self.invertedIndex[token][str(x)][0] = float(self.invertedIndex[token][str(x)][0]) * float(math.log(N/len(self.invertedIndex[token]),10))
-                        print("VAL1: "+str(float(self.invertedIndex[token][str(x)][0]))+" VAL2: "+str(float(math.log(N/len(self.invertedIndex[token]),10))))
-                        if self.docLen.get(str(x),None) is not None:
-                            #self.docLen[str(x)] *=  float(self.invertedIndex[token][str(x)][0]) *  float(self.invertedIndex[token][str(x)][0])
-                            self.docLen[str(x)] *= float(self.invertedIndex[token][str(x)][0]) * float(self.invertedIndex[token][str(x)][0])
-                        else:
-                            #self.docLen[str(x)]=1.0
-                            self.docLen[str(x)] = float(self.invertedIndex[token][str(x)][0]) * float(self.invertedIndex[token][str(x)][0])
-
+                        self.docLen[token] = (self.invertedIndex[token][str(x)][0] * self.invertedIndex[token][str(x)][0])
                 file.close()
-        print("ZERO: "+str(zero)+" NONZERO: "+str(nonZero))
 
     def populateInvertedIndexWithTermFrequency(self):
 
         # for each file in data/clean
+        count = 0
+        test = 0
         for x in range(1, self.getLengthOfCorpus()):
 
             # logic to get file name
@@ -78,14 +72,17 @@ class weightedInvertedIndexModel:
                     if self.invertedIndex.get(token, None) is not None:
                         if self.invertedIndex[token].get(str(x), None) is not None:
                             self.invertedIndex[token][str(x)].append(i)
-                            self.invertedIndex[token][str(x)][0] = math.log(len(self.invertedIndex[token][str(x)])-1,10)+1
+                            self.invertedIndex[token][str(x)][0] = math.log(len(self.invertedIndex[token][str(x)]),10)+1
+                            count+=1
                         else:
-                        self.invertedIndex[token][str(x)].append(1)
+                            self.invertedIndex[token][str(x)].append(1)
                             self.invertedIndex[token][str(x)].append(i)
+                            count+=1
                     else:
                         self.invertedIndex[token] = defaultdict(list)
                         self.invertedIndex[token][str(x)].append(1)
                         self.invertedIndex[token][str(x)].append(i)
+                        count+=1
                     i=i+1
 
                 #close file
