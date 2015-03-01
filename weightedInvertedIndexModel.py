@@ -72,7 +72,7 @@ class weightedInvertedIndexModel:
                     if self.invertedIndex.get(token, None) is not None:
                         if self.invertedIndex[token].get(str(x), None) is not None:
                             self.invertedIndex[token][str(x)].append(i)
-                            self.invertedIndex[token][str(x)][0] = math.log(len(self.invertedIndex[token][str(x)]),10)+1
+                            self.invertedIndex[token][str(x)][0] = math.log10(len(self.invertedIndex[token][str(x)]))+1
                             count+=1
                         else:
                             self.invertedIndex[token][str(x)].append(1)
