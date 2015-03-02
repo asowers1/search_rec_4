@@ -31,6 +31,7 @@ class weightedInvertedIndexModel:
         print("Normalizing Index...")
         self.normalizeIndex()
 
+
     def getLengthOfCorpus(self):
         # get amount of files in data/clean
         DIR = 'data/clean'
@@ -59,11 +60,17 @@ class weightedInvertedIndexModel:
                 for token in file:
                     test+=1
                     token = token.rstrip('\n')
-                    self.invertedIndex[token][str(x)][0] = (self.invertedIndex[token][str(x)][0] ) * (math.log10(N/len(self.invertedIndex[token])))
-                    if self.docLen.get(token, None) is not None:
-                        self.docLen[token] *= (self.invertedIndex[token][str(x)][0] * self.invertedIndex[token][str(x)][0])
+
+                    self.invertedIndex[token][str(x)][0] *= math.log10(N/len(self.invertedIndex[token]))
+
+                    if self.docLen.get(x, None) is not None:
+                        self.docLen[str(x)] *= (self.invertedIndex[token][str(x)][0] * self.invertedIndex[token][str(x)][0])
+                        #if self.docLen[x]==0:
+                        #    print("DOCLEN 0.0 ERROR")
                     else:
-                        self.docLen[token] = (self.invertedIndex[token][str(x)][0] * self.invertedIndex[token][str(x)][0])
+                        self.docLen[str(x)] = (self.invertedIndex[token][str(x)][0] * self.invertedIndex[token][str(x)][0])
+                        #if self.docLen[x]==0:
+                        #    print("DOCLEN 0.0 ERROR")
                 file.close()
 
     def populateInvertedIndexWithTermFrequency(self):
@@ -95,11 +102,13 @@ class weightedInvertedIndexModel:
                         else:
                             self.invertedIndex[token][str(x)].append(1)
                             self.invertedIndex[token][str(x)].append(i)
+                            self.invertedIndex[token][str(x)][0] = math.log10(len(self.invertedIndex[token][str(x)])-1)+1
                             count+=1
                     else:
                         self.invertedIndex[token] = defaultdict(list)
                         self.invertedIndex[token][str(x)].append(1)
                         self.invertedIndex[token][str(x)].append(i)
+                        self.invertedIndex[token][str(x)][0] = math.log10(len(self.invertedIndex[token][str(x)])-1)+1
                         count+=1
                     i=i+1
 
@@ -110,8 +119,10 @@ class weightedInvertedIndexModel:
         #somehow we are dividing by zero
         for token in self.invertedIndex:
             for docID in self.invertedIndex.get(token):
-                self.invertedIndex[token][docID][0] = (self.invertedIndex[token][docID][0] / math.sqrt(self.docLen[token]))
-
+                if math.pow(self.docLen[docID],.5) != 0:
+                    self.invertedIndex[token][docID][0] = (self.invertedIndex[token][docID][0]) / (math.pow(self.docLen[docID],.5))
+                else:
+                    self.invertedIndex[token][docID][0] = 0
 
     def printInvertedIndex(self):
         print(self.invertedIndex)

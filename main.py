@@ -58,7 +58,7 @@ def BR():
 
 def RR():
     wIIM = weightedInvertedIndexModel.weightedInvertedIndexModel()
-    wIIM.printInvertedIndex()
+    #wIIM.printInvertedIndex()
     wIIM.printDocLength()
 #buildDataSet()
 #BR()
