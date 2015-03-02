@@ -21,8 +21,14 @@ class weightedInvertedIndexModel:
 
     def __init__(self):
         self.invertedIndex = defaultdict()
+
+        print("Loading Index...")
         self.populateInvertedIndexWithTermFrequency()
+
+        print("Calculating TFIDF weights...")
         self.setTFIDFandWeights()
+
+        print("Normalizing Index...")
         self.normalizeIndex()
 
     def getLengthOfCorpus(self):
