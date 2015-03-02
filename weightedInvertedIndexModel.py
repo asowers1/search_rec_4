@@ -23,6 +23,7 @@ class weightedInvertedIndexModel:
         self.invertedIndex = defaultdict()
         self.populateInvertedIndexWithTermFrequency()
         self.setTFIDFandWeights()
+        self.normalizeIndex()
 
     def getLengthOfCorpus(self):
         # get amount of files in data/clean
@@ -98,6 +99,12 @@ class weightedInvertedIndexModel:
 
                 #close file
                 file.close()
+
+    def normalizeIndex(self):
+        #somehow we are dividing by zero
+        for token in self.invertedIndex:
+            for docID in self.invertedIndex.get(token):
+                self.invertedIndex[token][docID][0] = (self.invertedIndex[token][docID][0] / math.sqrt(self.docLen[token]))
 
 
     def printInvertedIndex(self):
