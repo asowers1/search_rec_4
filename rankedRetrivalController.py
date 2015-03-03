@@ -3,6 +3,8 @@ import weightedInvertedIndexModel
 import re
 from collections import defaultdict
 import math
+import operator
+import Database
 
 class rankedRetrivalController:
 
@@ -12,6 +14,7 @@ class rankedRetrivalController:
     smartVarientQuery = None
 
     def __init__(self):
+        self.database = Database.WebDB("data/cache/database.db")
         print("Supported SMART variants: [n,l][n,t][n,c] (default is 'ltc')\n")
         self.smartVarientDoc = input("Please enter SMART variant for documents:")
         self.smartVarientQuery = input("Please enter SMART variant for queries:")
@@ -53,7 +56,7 @@ class rankedRetrivalController:
             self.removeUpperFromObject(queryTokenList)
             print(queryTokenList)
 
-            queryDictionary = defaultdict()
+            queryDictionary = defaultdict(float)
             for term in queryTokenList:
                 if term not in queryDictionary:
                     queryDictionary[term] = 1
@@ -62,19 +65,24 @@ class rankedRetrivalController:
 
             for key in queryDictionary.keys():
                 termFrequency = 1 + math.log10(queryDictionary[key])
-                inverseDocumentFrequency = 1 + math.log10(self.rRController.getLengthOfCorpus()/(len(self.rRController.invertedIndex.keys())))
+                inverseDocumentFrequency = 1 + math.log10(self.rRController.getLengthOfCorpus()/(len(self.rRController.invertedIndex)))
+                print("TERM FREQ: "+str(termFrequency)+" INVER DOC FREQ: "+str(inverseDocumentFrequency)+" lEN INVERTED INDEX: " + str(len(self.rRController.invertedIndex)))
+
                 queryDictionary[key] = termFrequency * inverseDocumentFrequency
+            print(queryDictionary)
+
+            self.getWeightedResults(queryDictionary)
 
 
     def nnnQuery(self):
         query = ""
         while query is not "QUIT":
             query = input("Enter Query or 'QUIT':")
+            print()
 
             strippedpunc = self.removePunc(query)
             queryTokenList = strippedpunc.split(" ")
             self.removeUpperFromObject(queryTokenList)
-            print(queryTokenList)
 
             queryDictionary = defaultdict()
             for term in queryTokenList:
@@ -82,6 +90,9 @@ class rankedRetrivalController:
                     queryDictionary[term] = 1
                 else:
                     queryDictionary[term] += 1
+            print(queryDictionary)
+
+            self.getWeightedResults(queryDictionary)
 
     def removePunc(self, string):
         string = re.sub(re.compile("[^-.\"'\w\s]",re.DOTALL ) ,"" ,string) # remove all occurances punctuation
@@ -92,3 +103,41 @@ class rankedRetrivalController:
             objects[i] = objects[i].lower()
 
         return objects
+
+    def getWeightedResults(self, queryDictionary):
+        resultDocIDlist = []
+
+        for term in queryDictionary:
+            docIDList = []
+            docDictionary = defaultdict()
+            docDictionary = self.rRController.getDocIDsFromTerm(term)
+            for docID in docDictionary:
+                docIDList.append(docID)
+
+            if len(resultDocIDlist) == 0:
+                resultDocIDlist = docIDList
+            else:
+                resultDocIDlist = set(resultDocIDlist) & set(docIDList)
+
+        documentWeights = defaultdict(int)
+        for term in queryDictionary:
+             for docID in resultDocIDlist:
+                 documentWeights[docID] += self.rRController.invertedIndex[term][docID][0] * queryDictionary[term]
+
+        self.printOrderedResults(documentWeights)
+
+    def printOrderedResults(self, finalResult):
+        orderedTupples = sorted(finalResult.items(), key=operator.itemgetter(1))
+        orderedTupples.reverse()
+
+        i = 1
+        for id in orderedTupples:
+            result = self.database.getInfoByID(id[0])
+            url = result[0][0]
+            title = result[0][1]
+            type = result[0][2]
+            name = self.database.getItemByID(id[0])
+            weight = str(id[1])
+            print(str(i) + ".\t" + title + "\t(" + weight + ")\n\t" + url + "\n\t" + type + ": " + name + "\n")
+            i = i+1
+

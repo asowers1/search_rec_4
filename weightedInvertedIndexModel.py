@@ -145,6 +145,9 @@ class weightedInvertedIndexModel:
                 #close file
                 file.close()
 
+    def getDocIDsFromTerm(self, term):
+        return self.invertedIndex[term]
+
     def normalizeIndex(self):
         #somehow we are dividing by zero
         for token in self.invertedIndex:
