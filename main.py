@@ -3,7 +3,7 @@ import Spider
 from google import search
 import random
 import BooleanRetrievalController
-import weightedInvertedIndexModel
+import rankedRetrivalController
 
 def buildDataSet():
 
@@ -57,9 +57,10 @@ def BR():
         booleanRetrivalController.queryIngest(option)
 
 def RR():
-    wIIM = weightedInvertedIndexModel.weightedInvertedIndexModel()
+    #wIIM = weightedInvertedIndexModel.weightedInvertedIndexModel()
     #wIIM.printInvertedIndex()
-    wIIM.printDocLength()
+    #wIIM.printDocLength()
+    rankedRetrivalController.rankedRetrivalController()
 #buildDataSet()
 #BR()
 
