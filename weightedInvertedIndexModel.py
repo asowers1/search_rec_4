@@ -19,7 +19,16 @@ class weightedInvertedIndexModel:
     docLen = None
     invertedIndex = None
 
-    def __init__(self):
+    def buildNNNIndex(self):
+        self.invertedIndex = defaultdict()
+
+        print("Loading Index...")
+        self.populateInvertedIndexWithTermFrequency()
+
+        print("Calculating NNN weights...")
+        self.setNNNWeights()
+
+    def buildLTCIndex(self):
         self.invertedIndex = defaultdict()
 
         print("Loading Index...")
@@ -28,8 +37,6 @@ class weightedInvertedIndexModel:
         print("Calculating TFIDF weights...")
         self.setTFIDFandWeights()
 
-        print("Normalizing Index...")
-        self.normalizeIndex()
 
 
     def getLengthOfCorpus(self):
@@ -37,6 +44,32 @@ class weightedInvertedIndexModel:
         DIR = 'data/clean'
         N = len([name for name in os.listdir(DIR) if os.path.isfile(os.path.join(DIR, name))])
         return N
+
+    def setNNNWeights(self):
+        N = self.getLengthOfCorpus()
+        self.docLen = defaultdict(float)
+
+        nonZero = 0
+        zero = 0
+        test = 0
+        for x in range(1, N):
+            # logic to get file name
+            zeroLen = 7 - len(str(x))
+            zeroString = ''
+            for num in range(0, zeroLen):
+                zeroString += "0"
+
+            # open file
+
+            if os.path.isfile("data/clean/" + zeroString + str(x) + ".txt"):
+                file = open("data/clean/" + zeroString + str(x) + ".txt", "r")
+
+                for token in file:
+                    test+=1
+                    token = token.rstrip('\n')
+                    self.invertedIndex[token][str(x)][0] = (len(self.dict[token][str(x)])-1)*(len(self.dict[token].keys()))
+
+                file.close()
 
     def setTFIDFandWeights(self):
         N = self.getLengthOfCorpus()
@@ -65,12 +98,9 @@ class weightedInvertedIndexModel:
 
                     if self.docLen.get(x, None) is not None:
                         self.docLen[token] *= (self.invertedIndex[token][str(x)][0] * self.invertedIndex[token][str(x)][0])
-                        #if self.docLen[x]==0:
-                        #    print("DOCLEN 0.0 ERROR")
                     else:
                         self.docLen[token] = (self.invertedIndex[token][str(x)][0] * self.invertedIndex[token][str(x)][0])
-                        #if self.docLen[x]==0:
-                        #    print("DOCLEN 0.0 ERROR")
+
                 file.close()
 
     def populateInvertedIndexWithTermFrequency(self):
