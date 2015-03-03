@@ -63,13 +63,17 @@ class rankedRetrivalController:
                 else:
                     queryDictionary[term] += 1
 
+            qlength = 0
             for key in queryDictionary.keys():
                 termFrequency = 1 + math.log10(queryDictionary[key])
-                inverseDocumentFrequency = math.log10(self.rRController.getLengthOfCorpus()/(1+len(self.rRController.invertedIndex[key])))
-                #print("TERM FREQ: "+str(termFrequency)+" INVER DOC FREQ: "+str(inverseDocumentFrequency)+" lEN INVERTED INDEX: " + str(len(self.rRController.invertedIndex)))
+                inverseDocumentFrequency = math.log10(self.rRController.getLengthOfCorpus()/(len(self.rRController.invertedIndex[key])))
+                print("TERM FREQ: "+str(termFrequency)+" INVER DOC FREQ: "+str(inverseDocumentFrequency)+" lEN INVERTED INDEX: " + str(len(self.rRController.invertedIndex)))
 
                 queryDictionary[key] = termFrequency * inverseDocumentFrequency
-            #print(queryDictionary)
+                qlength += queryDictionary[key] * queryDictionary[key]
+
+            for key in queryDictionary.keys():
+                queryDictionary[key] = queryDictionary[key]/math.sqrt(qlength)
 
             self.getWeightedResults(queryDictionary)
 
