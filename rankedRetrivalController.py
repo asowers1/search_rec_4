@@ -54,7 +54,7 @@ class rankedRetrivalController:
             strippedpunc = self.removePunc(query)
             queryTokenList = strippedpunc.split(" ")
             self.removeUpperFromObject(queryTokenList)
-            print(queryTokenList)
+            #print(queryTokenList)
 
             queryDictionary = defaultdict(float)
             for term in queryTokenList:
@@ -65,18 +65,18 @@ class rankedRetrivalController:
 
             for key in queryDictionary.keys():
                 termFrequency = 1 + math.log10(queryDictionary[key])
-                inverseDocumentFrequency = 1 + math.log10(self.rRController.getLengthOfCorpus()/(len(self.rRController.invertedIndex)))
-                print("TERM FREQ: "+str(termFrequency)+" INVER DOC FREQ: "+str(inverseDocumentFrequency)+" lEN INVERTED INDEX: " + str(len(self.rRController.invertedIndex)))
+                inverseDocumentFrequency = math.log10(self.rRController.getLengthOfCorpus()/(1+len(self.rRController.invertedIndex[key])))
+                #print("TERM FREQ: "+str(termFrequency)+" INVER DOC FREQ: "+str(inverseDocumentFrequency)+" lEN INVERTED INDEX: " + str(len(self.rRController.invertedIndex)))
 
                 queryDictionary[key] = termFrequency * inverseDocumentFrequency
-            print(queryDictionary)
+            #print(queryDictionary)
 
             self.getWeightedResults(queryDictionary)
 
 
     def nnnQuery(self):
         query = ""
-        while query is not "QUIT":
+        while query != "QUIT":
             query = input("Enter Query or 'QUIT':")
             print()
 
@@ -90,7 +90,6 @@ class rankedRetrivalController:
                     queryDictionary[term] = 1
                 else:
                     queryDictionary[term] += 1
-            print(queryDictionary)
 
             self.getWeightedResults(queryDictionary)
 
@@ -130,8 +129,20 @@ class rankedRetrivalController:
         orderedTupples = sorted(finalResult.items(), key=operator.itemgetter(1))
         orderedTupples.reverse()
 
+        print("\nItem Search Results:")
         i = 1
         for id in orderedTupples:
+            if i == 4:
+                break
+            result = self.database.getInfoByID(id[0])
+            print(str(i)+". "+result[0][2]+": "+self.database.getItemByID(id[0])+" ("+str(id[1])+")\n")
+            i+=1
+
+        print("\n")
+        i = 1
+        for id in orderedTupples:
+            if i == 4:
+                break
             result = self.database.getInfoByID(id[0])
             url = result[0][0]
             title = result[0][1]
@@ -139,5 +150,5 @@ class rankedRetrivalController:
             name = self.database.getItemByID(id[0])
             weight = str(id[1])
             print(str(i) + ".\t" + title + "\t(" + weight + ")\n\t" + url + "\n\t" + type + ": " + name + "\n")
-            i = i+1
+            i+=1
 
