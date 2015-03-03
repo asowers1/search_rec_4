@@ -48,9 +48,10 @@ class rankedRetrivalController:
 
     def ltcQuery(self):
         query = ""
-        while query is not "QUIT":
+        while True:
             query = input("Enter Query or 'QUIT':")
-
+            if query == "QUIT":
+                break
             strippedpunc = self.removePunc(query)
             queryTokenList = strippedpunc.split(" ")
             self.removeUpperFromObject(queryTokenList)
@@ -66,8 +67,8 @@ class rankedRetrivalController:
             qlength = 0
             for key in queryDictionary.keys():
                 termFrequency = 1 + math.log10(queryDictionary[key])
-                inverseDocumentFrequency = math.log10(self.rRController.getLengthOfCorpus()/(len(self.rRController.invertedIndex[key])))
-                print("TERM FREQ: "+str(termFrequency)+" INVER DOC FREQ: "+str(inverseDocumentFrequency)+" lEN INVERTED INDEX: " + str(len(self.rRController.invertedIndex)))
+                inverseDocumentFrequency = math.log10(self.rRController.getLengthOfCorpus()/1+(len(self.rRController.invertedIndex[key])))
+                #print("TERM FREQ: "+str(termFrequency)+" INVER DOC FREQ: "+str(inverseDocumentFrequency)+" lEN INVERTED INDEX: " + str(len(self.rRController.invertedIndex)))
 
                 queryDictionary[key] = termFrequency * inverseDocumentFrequency
                 qlength += queryDictionary[key] * queryDictionary[key]
@@ -82,8 +83,10 @@ class rankedRetrivalController:
 
     def nnnQuery(self):
         query = ""
-        while query != "QUIT":
+        while True:
             query = input("Enter Query or 'QUIT':")
+            if query == "QUIT":
+                break
             print()
 
             strippedpunc = self.removePunc(query)
@@ -127,12 +130,22 @@ class rankedRetrivalController:
         orderedTupples.reverse()
 
         print("\nItem Search Results:")
-        i = 1
+
+        itemInfoIndex = defaultdict(float)
+        itemInfoType  = defaultdict()
         for id in orderedTupples:
+            item = self.database.getItemByID(id[0])
+            result = self.database.getInfoByID(id[0])
+            itemInfoIndex[item]+=id[1]
+            itemInfoType[item] = result[0][2]
+        sortedItemInfoIndexTuple = sorted(itemInfoIndex.items(), key=operator.itemgetter(1))
+        sortedItemInfoIndexTuple.reverse()
+        i=1
+        for item in sortedItemInfoIndexTuple:
             if i == 4:
                 break
-            result = self.database.getInfoByID(id[0])
-            print(str(i)+". "+result[0][2]+": "+self.database.getItemByID(id[0])+" ("+str(id[1])+")\n")
+            itemName = item[0]
+            print(itemInfoType[itemName] + ": " + itemName + " (" + str(itemInfoIndex[itemName]) + ")")
             i+=1
 
         print("\n")
