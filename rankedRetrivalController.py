@@ -75,6 +75,8 @@ class rankedRetrivalController:
             for key in queryDictionary.keys():
                 queryDictionary[key] = queryDictionary[key]/math.sqrt(qlength)
 
+            print(queryDictionary)
+
             self.getWeightedResults(queryDictionary)
 
 
@@ -109,23 +111,14 @@ class rankedRetrivalController:
 
     def getWeightedResults(self, queryDictionary):
         resultDocIDlist = []
+        documentWeights = defaultdict(float)
 
         for term in queryDictionary:
-            docIDList = []
             docDictionary = defaultdict()
             docDictionary = self.rRController.getDocIDsFromTerm(term)
             for docID in docDictionary:
-                docIDList.append(docID)
-
-            if len(resultDocIDlist) == 0:
-                resultDocIDlist = docIDList
-            else:
-                resultDocIDlist = set(resultDocIDlist) & set(docIDList)
-
-        documentWeights = defaultdict(int)
-        for term in queryDictionary:
-             for docID in resultDocIDlist:
-                 documentWeights[docID] += self.rRController.invertedIndex[term][docID][0] * queryDictionary[term]
+                resultDocIDlist.append(docID)
+                documentWeights[docID] += self.rRController.invertedIndex[term][docID][0] * queryDictionary[term]
 
         self.printOrderedResults(documentWeights)
 

@@ -37,6 +37,8 @@ class weightedInvertedIndexModel:
         print("Calculating TFIDF weights...")
         self.setTFIDFandWeights()
 
+        self.printInvertedIndex()
+
 
 
     def getLengthOfCorpus(self):
@@ -97,9 +99,9 @@ class weightedInvertedIndexModel:
                     self.invertedIndex[token][str(x)][0] *= math.log10(N/len(self.invertedIndex[token]))
 
                     if self.docLen.get(x, None) is not None:
-                        self.docLen[token] *= (self.invertedIndex[token][str(x)][0] * self.invertedIndex[token][str(x)][0])
+                        self.docLen[str(x)] *= (self.invertedIndex[token][str(x)][0] * self.invertedIndex[token][str(x)][0])
                     else:
-                        self.docLen[token] = (self.invertedIndex[token][str(x)][0] * self.invertedIndex[token][str(x)][0])
+                        self.docLen[str(x)] = (self.invertedIndex[token][str(x)][0] * self.invertedIndex[token][str(x)][0])
 
                 file.close()
 
@@ -152,10 +154,7 @@ class weightedInvertedIndexModel:
         #somehow we are dividing by zero
         for token in self.invertedIndex:
             for docID in self.invertedIndex.get(token):
-                #if math.pow(self.docLen[docID],.5) != 0:
-                self.invertedIndex[token][docID][0] = (self.invertedIndex[token][docID][0]) / (math.pow(self.docLen[token],.5))
-                #else:
-                #    self.invertedIndex[token][docID][0] = 0
+                self.invertedIndex[token][docID][0] = (self.invertedIndex[token][docID][0]) / (math.sqrt(self.docLen[docID]))
 
     def printInvertedIndex(self):
         print(self.invertedIndex)
