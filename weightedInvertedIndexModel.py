@@ -67,7 +67,7 @@ class weightedInvertedIndexModel:
                 for token in file:
                     test+=1
                     token = token.rstrip('\n')
-                    self.invertedIndex[token][str(x)][0] = (len(self.dict[token][str(x)])-1)*(len(self.dict[token].keys()))
+                    self.invertedIndex[token][str(x)][0] = (len(self.invertedIndex[token][str(x)])-1)*(len(self.invertedIndex[token].keys()))
 
                 file.close()
 
