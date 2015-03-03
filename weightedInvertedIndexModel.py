@@ -64,11 +64,11 @@ class weightedInvertedIndexModel:
                     self.invertedIndex[token][str(x)][0] *= math.log10(N/len(self.invertedIndex[token]))
 
                     if self.docLen.get(x, None) is not None:
-                        self.docLen[str(x)] *= (self.invertedIndex[token][str(x)][0] * self.invertedIndex[token][str(x)][0])
+                        self.docLen[token] *= (self.invertedIndex[token][str(x)][0] * self.invertedIndex[token][str(x)][0])
                         #if self.docLen[x]==0:
                         #    print("DOCLEN 0.0 ERROR")
                     else:
-                        self.docLen[str(x)] = (self.invertedIndex[token][str(x)][0] * self.invertedIndex[token][str(x)][0])
+                        self.docLen[token] = (self.invertedIndex[token][str(x)][0] * self.invertedIndex[token][str(x)][0])
                         #if self.docLen[x]==0:
                         #    print("DOCLEN 0.0 ERROR")
                 file.close()
@@ -119,13 +119,17 @@ class weightedInvertedIndexModel:
         #somehow we are dividing by zero
         for token in self.invertedIndex:
             for docID in self.invertedIndex.get(token):
-                if math.pow(self.docLen[docID],.5) != 0:
-                    self.invertedIndex[token][docID][0] = (self.invertedIndex[token][docID][0]) / (math.pow(self.docLen[docID],.5))
-                else:
-                    self.invertedIndex[token][docID][0] = 0
+                #if math.pow(self.docLen[docID],.5) != 0:
+                self.invertedIndex[token][docID][0] = (self.invertedIndex[token][docID][0]) / (math.pow(self.docLen[token],.5))
+                #else:
+                #    self.invertedIndex[token][docID][0] = 0
 
     def printInvertedIndex(self):
         print(self.invertedIndex)
 
     def printDocLength(self):
-        print(self.docLen)
+        for item in self.docLen:
+            if self.docLen[item] == 0:
+                print("ZERO ITEM")
+            else:
+                print(self.docLen[item])
