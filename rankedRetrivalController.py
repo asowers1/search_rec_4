@@ -5,6 +5,10 @@ from collections import defaultdict
 import math
 import operator
 import Database
+import nltk
+import nltk.data
+import re
+from nltk.stem import *
 
 class rankedRetrivalController:
 
@@ -52,10 +56,9 @@ class rankedRetrivalController:
             query = input("Enter Query or 'QUIT':")
             if query == "QUIT":
                 break
-            strippedpunc = self.removePunc(query)
+
+            strippedpunc = self.removePuncAndTokenize(query)
             queryTokenList = strippedpunc.split(" ")
-            self.removeUpperFromObject(queryTokenList)
-            #print(queryTokenList)
 
             queryDictionary = defaultdict(float)
             for term in queryTokenList:
@@ -102,9 +105,10 @@ class rankedRetrivalController:
 
             self.getWeightedResults(queryDictionary)
 
-    def removePunc(self, string):
+    def removePuncAndTokenize(self, string):
         string = re.sub(re.compile("[^-.\"'\w\s]",re.DOTALL ) ,"" ,string) # remove all occurances punctuation
-        return string
+        string = self.removeUpperFromObject(nltk.word_tokenize(string))
+        return " ".join(string)
 
     def removeUpperFromObject(self, objects):
         for i in range(len(objects)):

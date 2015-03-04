@@ -5,11 +5,8 @@ from collections import defaultdict
 
 """
     OVERALL ALGORITHM:
-    * First, populate inverted index like in previous lab, but update the TF (math.log10(len(self.invertedIndex[token][str(x)]))+1)
-        value for each term: docId: list[0] as we traverse
-    * Next, run setTFIDFandWeights to do math
-
-    TODO: Normalize index, Build query system, fix any other cataclysms that show their head
+    * First, populate inverted index like in previous lab
+    * Next, run buildLTCIndex or buildNNNIndex to do math on index
 
 """
 
