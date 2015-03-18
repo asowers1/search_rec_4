@@ -92,7 +92,7 @@ class rankedRetrivalController:
                 break
             print()
 
-            strippedpunc = self.removePunc(query)
+            strippedpunc = self.removePuncAndTokenize(query)
             queryTokenList = strippedpunc.split(" ")
             self.removeUpperFromObject(queryTokenList)
 

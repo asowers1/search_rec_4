@@ -4,6 +4,7 @@ from google import search
 import random
 import BooleanRetrievalController
 import rankedRetrivalController
+import Database
 
 def buildDataSet():
 
@@ -57,11 +58,15 @@ def BR():
         booleanRetrivalController.queryIngest(option)
 
 def RR():
-    #wIIM = weightedInvertedIndexModel.weightedInvertedIndexModel()
-    #wIIM.printInvertedIndex()
-    #wIIM.printDocLength()
     rankedRetrivalController.rankedRetrivalController()
 #buildDataSet()
 #BR()
+#RR()
 
-RR()
+
+# strictly for testing new database methods
+def testLookup():
+    database = Database.WebDB("data/cache/database.db")
+    print(database.checkIfRelevant(11, "The Little Prince", "book"))
+
+testLookup()

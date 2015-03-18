@@ -104,7 +104,6 @@ class weightedInvertedIndexModel:
         return self.invertedIndex[term]
 
     def normalizeIndex(self):
-        #somehow we are dividing by zero
         for token in self.invertedIndex:
             for docID in self.invertedIndex[token]:
                 self.invertedIndex[token][docID][0] = (self.invertedIndex[token][docID][0]) / (math.sqrt(self.docLen[docID]))
