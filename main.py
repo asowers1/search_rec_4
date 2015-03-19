@@ -58,7 +58,7 @@ def BR():
         booleanRetrivalController.queryIngest(option)
 
 def RR():
-    rankedRetrivalController.rankedRetrivalController()
+    rankedRetrivalController.rankedRetrivalController(True)
 
 # strictly for testing new database methods
 def testLookup():

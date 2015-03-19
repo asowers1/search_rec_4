@@ -264,8 +264,6 @@ class WebDB(object):
 
     # takes a URL and item type, check if they're relevant
     def checkIfRelevant(self, urlID, itemID):
-        print(urlID)
-        print(itemID)
         sql = "SELECT * FROM URLToItem WHERE urlID=%d AND itemID=%d" % (int(urlID), int(itemID))
         res = self.execute(sql)
         reslist = res.fetchall()
@@ -274,6 +272,14 @@ class WebDB(object):
         else:
             return True
 
+    def listAllItems(self):
+        sql = "SELECT name FROM Item"
+        res = self.execute(sql)
+        reslist = res.fetchall()
+        if reslist == []:
+            return None
+        else:
+            return reslist
 
 
 class Wrapper(object):

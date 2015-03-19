@@ -1,7 +1,5 @@
 __author__ = 'andrew'
 import weightedInvertedIndexModel
-import EvaluationWeightedInvertedIndexModel
-import re
 from collections import defaultdict
 import math
 import operator
@@ -9,7 +7,6 @@ import Database
 import nltk
 import nltk.data
 import re
-from nltk.stem import *
 
 class rankedRetrivalController:
 
@@ -18,21 +15,34 @@ class rankedRetrivalController:
     smartVarientDoc = None
     smartVarientQuery = None
     currentQuery = None
+    resultsList = list()
+    automated = False
 
-    def __init__(self):
+    def __init__(self, automated):
         self.database = Database.WebDB("data/cache/database.db")
+        if automated == True:
+            self.automated = automated
+            self.automatedQuery("ltc","ltc")
+        else:
+            self.manualQuery()
+
+    def automatedQuery(self, smartVarientDoc, smartVarientQuery):
+        self.smartVarientDoc = smartVarientDoc
+        self.smartVarientQuery = smartVarientQuery
+        self.setIndexInstance()
+        list = self.database.listAllItems()
+        #print("LIST: "+str(list))
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+    def manualQuery(self):
         print("Supported SMART variants: [n,l][n,t][n,c] (default is 'ltc')\n")
         self.smartVarientDoc = input("Please enter SMART variant for documents:")
         self.smartVarientQuery = input("Please enter SMART variant for queries:")
-        modeToggle = input("Please enter evaluation toggle: ")
-        self.evaluation(modeToggle)
+        self.setIndexInstance()
         self.queryIngest()
 
-    def evaluation(self,toggle):
-        if toggle:
-            self.rRController = EvaluationWeightedInvertedIndexModel.EvaluationWeightedInvertedIndexModel()
-        else:
-            self.rRController = weightedInvertedIndexModel.weightedInvertedIndexModel()
+    def setIndexInstance(self):
+        self.rRController = weightedInvertedIndexModel.weightedInvertedIndexModel()
 
     def queryIngest(self):
         if (self.smartVarientDoc == "ltc"):
@@ -99,7 +109,7 @@ class rankedRetrivalController:
             query = input("Enter Query or 'QUIT':")
             if query == "QUIT":
                 break
-            print()
+            self.currentQuery = query
 
             strippedpunc = self.removePuncAndTokenize(query)
             queryTokenList = strippedpunc.split(" ")
@@ -146,6 +156,48 @@ class rankedRetrivalController:
 
         self.printOrderedResults(documentWeights)
 
+    def collectOrderedResults(self, finalResult):
+        orderedTupples = sorted(finalResult.items(), key=operator.itemgetter(1))
+        orderedTupples.reverse()
+
+        print("\nItem Search Results:")
+
+        itemInfoIndex = defaultdict(float)
+        itemInfoType  = defaultdict()
+        for id in orderedTupples:
+            item = self.database.getItemByID(id[0])
+            result = self.database.getInfoByID(id[0])
+            itemInfoIndex[item]+=id[1]
+            itemInfoType[item] = result[0][2]
+        sortedItemInfoIndexTuple = sorted(itemInfoIndex.items(), key=operator.itemgetter(1))
+        sortedItemInfoIndexTuple.reverse()
+        i=1
+        for item in sortedItemInfoIndexTuple:
+            if i == 4:
+                break
+            itemName = item[0]
+            print(itemInfoType[itemName] + ": " + itemName + " (" + str(itemInfoIndex[itemName]) + ")")
+            i+=1
+
+        print("\n")
+        i = 1
+        for id in orderedTupples:
+            #if i == 4:
+            #    break
+            result = self.database.getInfoByID(id[0])
+            url = result[0][0]
+            title = result[0][1]
+            type = result[0][2]
+            name = self.database.getItemByID(id[0])
+            weight = str(id[1])
+            itemID = self.database.getIDByNameType(self.currentQuery,type)
+            if itemID is None:
+                itemID = 0
+            print(str(i) + ".\t" + title + "\t(" + weight + ")\n\t" + url + "\n\t" + type + ": " + name + "\tRelevant: "+str(self.database.checkIfRelevant(int(id[0]),itemID))+"\n")
+            i+=1
+        print("Results in Corpus: "+str(i))
+
+
     def printOrderedResults(self, finalResult):
         orderedTupples = sorted(finalResult.items(), key=operator.itemgetter(1))
         orderedTupples.reverse()
@@ -185,4 +237,4 @@ class rankedRetrivalController:
                 itemID = 0
             print(str(i) + ".\t" + title + "\t(" + weight + ")\n\t" + url + "\n\t" + type + ": " + name + "\tRelevant: "+str(self.database.checkIfRelevant(int(id[0]),itemID))+"\n")
             i+=1
-        print("i: "+str(i))
+        print("Results in Corpus: "+str(i))
