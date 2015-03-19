@@ -1,5 +1,6 @@
 __author__ = 'andrew'
 import weightedInvertedIndexModel
+import EvaluationWeightedInvertedIndexModel
 import re
 from collections import defaultdict
 import math
@@ -22,9 +23,15 @@ class rankedRetrivalController:
         print("Supported SMART variants: [n,l][n,t][n,c] (default is 'ltc')\n")
         self.smartVarientDoc = input("Please enter SMART variant for documents:")
         self.smartVarientQuery = input("Please enter SMART variant for queries:")
-        self.rRController = weightedInvertedIndexModel.weightedInvertedIndexModel()
-
+        modeToggle = input("Please enter evaluation toggle: ")
+        self.evaluation(modeToggle)
         self.queryIngest()
+
+    def evaluation(self,toggle):
+        if toggle:
+            self.rRController = EvaluationWeightedInvertedIndexModel.EvaluationWeightedInvertedIndexModel()
+        else:
+            self.rRController = weightedInvertedIndexModel.weightedInvertedIndexModel()
 
     def queryIngest(self):
         if (self.smartVarientDoc == "ltc"):
@@ -71,15 +78,16 @@ class rankedRetrivalController:
             for key in queryDictionary.keys():
                 termFrequency = 1 + math.log10(queryDictionary[key])
                 inverseDocumentFrequency = math.log10(self.rRController.getLengthOfCorpus()/1+(len(self.rRController.invertedIndex[key])))
-                #print("TERM FREQ: "+str(termFrequency)+" INVER DOC FREQ: "+str(inverseDocumentFrequency)+" lEN INVERTED INDEX: " + str(len(self.rRController.invertedIndex)))
-
                 queryDictionary[key] = termFrequency * inverseDocumentFrequency
                 qlength += queryDictionary[key] * queryDictionary[key]
+
+
 
             for key in queryDictionary.keys():
                 queryDictionary[key] = queryDictionary[key]/math.sqrt(qlength)
 
-            print(queryDictionary)
+            #print(queryDictionary)
+
 
             self.getWeightedResults(queryDictionary)
 
@@ -121,11 +129,19 @@ class rankedRetrivalController:
         documentWeights = defaultdict(float)
 
         for term in queryDictionary:
-            docDictionary = defaultdict()
             docDictionary = self.rRController.getDocIDsFromTerm(term)
             for docID in docDictionary:
                 resultDocIDlist.append(docID)
                 documentWeights[docID] += self.rRController.invertedIndex[term][docID][0] * queryDictionary[term]
+
+        for term in self.rRController.invertedIndex:
+            if queryDictionary.get(term, None) is None:
+                docDictionary = self.rRController.getDocIDsFromTerm(term)
+                for docID in docDictionary:
+                    resultDocIDlist.append(docID)
+                    if documentWeights.get(docID, None) is None:
+                        documentWeights[docID] = 0
+
 
         self.printOrderedResults(documentWeights)
 
@@ -155,8 +171,8 @@ class rankedRetrivalController:
         print("\n")
         i = 1
         for id in orderedTupples:
-            if i == 4:
-                break
+            #if i == 4:
+            #    break
             result = self.database.getInfoByID(id[0])
             url = result[0][0]
             title = result[0][1]
@@ -165,4 +181,4 @@ class rankedRetrivalController:
             weight = str(id[1])
             print(str(i) + ".\t" + title + "\t(" + weight + ")\n\t" + url + "\n\t" + type + ": " + name + "\n")
             i+=1
-
+        print("i: "+str(i))

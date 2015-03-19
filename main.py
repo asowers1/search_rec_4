@@ -59,14 +59,13 @@ def BR():
 
 def RR():
     rankedRetrivalController.rankedRetrivalController()
-#buildDataSet()
-#BR()
-#RR()
-
 
 # strictly for testing new database methods
 def testLookup():
     database = Database.WebDB("data/cache/database.db")
     print(database.checkIfRelevant(11, "The Little Prince", "book"))
 
-testLookup()
+#buildDataSet()
+#BR()
+RR()
+#testLookup()

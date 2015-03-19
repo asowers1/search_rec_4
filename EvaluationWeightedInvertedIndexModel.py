@@ -1,18 +1,21 @@
 __author__ = 'andrew'
 import os, os.path, math
 from collections import defaultdict
+
+
 """
-    OVERALL ALGORITHM:
-    * First, populate inverted index like in previous lab
-    * Next, run buildLTCIndex or buildNNNIndex to do math on index
+    This is a near replica of the weightedInvertedIndexModel class, except it is modified for evaluation and testing.
 
 """
 
-class weightedInvertedIndexModel:
+class EvaluationWeightedInvertedIndexModel:
     # new basic dictionary
 
     docLen = None
     invertedIndex = None
+
+    def __init__(self):
+        print("Running Evaluation Index...")
 
     def buildNNNIndex(self):
         self.invertedIndex = defaultdict()
@@ -35,6 +38,9 @@ class weightedInvertedIndexModel:
         print("Normalizing index...")
         self.normalizeIndex()
 
+
+
+
     def getLengthOfCorpus(self):
         # get amount of files in data/clean
         DIR = 'data/clean'
@@ -56,6 +62,7 @@ class weightedInvertedIndexModel:
                     self.docLen[docID] += (self.invertedIndex[token][docID][0] * self.invertedIndex[token][docID][0])
                 else:
                     self.docLen[docID] = (self.invertedIndex[token][docID][0] * self.invertedIndex[token][docID][0])
+
 
     def populateInvertedIndex(self):
 
