@@ -17,6 +17,7 @@ class rankedRetrivalController:
     database     = None
     smartVarientDoc = None
     smartVarientQuery = None
+    currentQuery = None
 
     def __init__(self):
         self.database = Database.WebDB("data/cache/database.db")
@@ -63,7 +64,7 @@ class rankedRetrivalController:
             query = input("Enter Query or 'QUIT':")
             if query == "QUIT":
                 break
-
+            self.currentQuery = query
             strippedpunc = self.removePuncAndTokenize(query)
             queryTokenList = strippedpunc.split(" ")
 
@@ -179,6 +180,9 @@ class rankedRetrivalController:
             type = result[0][2]
             name = self.database.getItemByID(id[0])
             weight = str(id[1])
-            print(str(i) + ".\t" + title + "\t(" + weight + ")\n\t" + url + "\n\t" + type + ": " + name + "\n")
+            itemID = self.database.getIDByNameType(self.currentQuery,type)
+            if itemID is None:
+                itemID = 0
+            print(str(i) + ".\t" + title + "\t(" + weight + ")\n\t" + url + "\n\t" + type + ": " + name + "\tRelevant: "+str(self.database.checkIfRelevant(int(id[0]),itemID))+"\n")
             i+=1
         print("i: "+str(i))

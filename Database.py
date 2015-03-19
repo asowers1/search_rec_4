@@ -233,7 +233,6 @@ class WebDB(object):
         else:
             return reslist[0][0]
 
-
     def insertURLToItem(self, urlID, itemID):
         """
         Inserts a item into the URLToItem table, returning the id of the
@@ -264,8 +263,7 @@ class WebDB(object):
         return reslist
 
     # takes a URL and item type, check if they're relevant
-    def checkIfRelevant(self, urlID, itemName, itemType):
-        itemID = self.getIDByNameType(itemName, itemType)
+    def checkIfRelevant(self, urlID, itemID):
         print(urlID)
         print(itemID)
         sql = "SELECT * FROM URLToItem WHERE urlID=%d AND itemID=%d" % (int(urlID), int(itemID))
