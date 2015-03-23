@@ -225,7 +225,7 @@ class WebDB(object):
         :param type:
         :return:
         """
-        sql = "SELECT id FROM Item WHERE name='%s' AND type='%s'" % (name, type)
+        sql = "SELECT id FROM Item WHERE name='%s' AND type='%s'" % (self._quote(name), self._quote(type))
         res = self.execute(sql)
         reslist = res.fetchall()
         if reslist == []:
